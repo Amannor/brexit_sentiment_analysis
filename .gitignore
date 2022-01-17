@@ -3,6 +3,8 @@ credentials.py
 *.json
 *.csv
 tst_venv/
+dataverse_files/*.pdf
+dataverse_files/*.doc*
 
 # Created by .ignore support plugin (hsz.mobi) (taken from https://gist.githubusercontent.com/MOOOWOOO/3cf91616c9f3bbc3d1339adfc707b08a/raw/0488caf9da5745decdd996321dee535c60c4a302/py-gitignore)
 ### Python template
