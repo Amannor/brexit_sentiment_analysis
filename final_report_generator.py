@@ -80,11 +80,9 @@ def get_existing_tweets_per_category(only_files_with_text):
 
 def final_report_data_generator(only_files_with_text = True):
     max_tweets_per_file = 5*10**6
-    # tweets_ids_to_creation_time, tweets_ids_not_found, tweets_ids_not_authorized = get_existing_tweets_per_category(only_files_with_text)
     tweets_ids_and_creation_time, tweets_ids_not_found, tweets_ids_not_authorized = get_existing_tweets_per_category(only_files_with_text)
     cols = ['t_id', 't_date', 't_text'] if only_files_with_text else ['t_id', 't_date']
     tweets_ids_and_creation_time = pd.DataFrame.from_records(tweets_ids_and_creation_time, columns=cols)
-    # tweets_ids_and_creation_time["t_id"] = tweets_ids_and_creation_time["t_id"].astype(str).astype(int)
 
 
     for i in range(1, 5):
@@ -104,9 +102,7 @@ def final_report_data_generator(only_files_with_text = True):
         tweets_ids_not_requested_yet = set()
         all_tweets_info = []
         tweets_found_count, tweets_not_found_count, tweets_not_authorized_count = 0, 0, 0
-        # Reading with pandas - Start
-        # tweets_data = pd.read_csv(data_file)
-        # chunksize = 10 ** 6
+
         with pd.read_csv(data_file, chunksize=max_tweets_per_file, sep="~") as reader:
             for chunk in reader:
                 out_fname = os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_stance_sentiment_incl_date_and_text_{i}_{out_file_count}_outof4.csv')
@@ -128,54 +124,6 @@ def final_report_data_generator(only_files_with_text = True):
                 unfound_tweets_ids = unfound_tweets_ids.difference(tweets_ids_and_creation_time_set, tweets_ids_not_found, tweets_ids_not_authorized)
                 tweets_ids_not_requested_yet.update(unfound_tweets_ids)
 
-
-
-        # Reading with pandas - End
-
-        """ Reading straight (no pandas) - Start
-        with open(data_file) as infile:
-            if i == 1:
-                infile.readline()  # Or next(f) - first line is the headers
-            for line in infile:
-                t_id, user_id, t_sentiment, t_stance = line.split('~')
-                t_id, user_id, t_sentiment, t_stance = t_id.strip(), user_id.strip(), t_sentiment.strip(), t_stance.strip()
-                if t_id in data_tweets_ids:
-                    duplicate_tweets_ids[t_id] += 1
-                    continue
-                data_tweets_ids.add(t_id)
-                if t_id in tweets_ids_to_creation_time:
-                    if "created_at" in tweets_ids_to_creation_time[t_id]:
-                        t_date = tweets_ids_to_creation_time[t_id]["created_at"]
-                    else:
-                        t_date = tweets_ids_to_creation_time[t_id]
-                    t_text = tweets_ids_to_creation_time[t_id]["text"] if "text" in tweets_ids_to_creation_time[t_id] else ""
-                    if only_files_with_text:
-                        all_tweets_info.append((t_id, user_id, t_sentiment, t_stance, t_date, t_text))
-                    else:
-                        all_tweets_info.append((t_id, user_id, t_sentiment, t_stance, t_date))
-                    tweets_found_count += 1
-                elif t_id in tweets_ids_not_found:
-                    tweets_not_found_count += 1
-                elif t_id in tweets_ids_not_authorized:
-                    tweets_not_authorized_count += 1
-                else:
-                    tweets_ids_not_requested_yet.add(t_id)
-                if len(all_tweets_info) >= max_tweets_per_file:
-                    if only_files_with_text:
-                        write_csv_file_if_data_not_empty(os.path.join(FINAL_REPORT_DATA_FOLDER,
-                                                                      f'tweets_stance_sentiment_incl_date_and_text_{i}_{out_file_count}_outof4.csv'),
-                                                         all_tweets_info, CSV_HEADER_INCL_TXT)
-                    else:
-                        write_csv_file_if_data_not_empty(os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_stance_sentiment_incl_date_{i}_{out_file_count}_outof4.csv'), all_tweets_info, DEF_CSV_HEADER)
-                    out_file_count += 1
-                    all_tweets_info = []
-        Reading straight (no pandas) - End """
-
-        # print(f'{get_cur_formatted_time()} unique tweets count {len(data_tweets_ids)} tweets_found_count {tweets_found_count} tweets_not_found_count {tweets_not_found_count} tweets_not_authorized_count {tweets_not_authorized_count} tweets_ids_not_requested_yet_count {len(tweets_ids_not_requested_yet)}')
-        # if len(duplicate_tweets_ids):
-        #     print(f'{get_cur_formatted_time()} {len(duplicate_tweets_ids)} Duplicated found (overall instances: {sum(duplicate_tweets_ids.values()) })')
-
-
         cur_existing_tweets_files = glob.glob(os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_ids_not_yet_requested_{i}*.json'))
         for fname in cur_existing_tweets_files:
             os.remove(fname)
@@ -183,14 +131,6 @@ def final_report_data_generator(only_files_with_text = True):
 
         write_to_json_file_if_not_empty(list(tweets_ids_not_requested_yet), os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_ids_not_yet_requested_{i}.json'))
 
-        # if only_files_with_text:
-        #     write_csv_file_if_data_not_empty(os.path.join(FINAL_REPORT_DATA_FOLDER,
-        #                                                   f'tweets_stance_sentiment_incl_date_and_text_{i}_{out_file_count}_outof4.csv'),
-        #                                      all_tweets_info, CSV_HEADER_INCL_TXT)
-        # else:
-        #     write_csv_file_if_data_not_empty(os.path.join(FINAL_REPORT_DATA_FOLDER,
-        #                                                   f'tweets_stance_sentiment_incl_date_{i}_{out_file_count}_outof4.csv'),
-        #                                      all_tweets_info, DEF_CSV_HEADER)
     write_to_json_file_if_not_empty(list(tweets_ids_not_found), os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_ids_not_found.json'))
     write_to_json_file_if_not_empty(list(tweets_ids_not_authorized), os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_ids_not_authorized.json'))
 
