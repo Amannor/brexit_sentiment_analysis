@@ -145,11 +145,6 @@ def main():
         if tweets_num_in_dict_and_not_in_data>0:
             print(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} Found {tweets_num_in_dict_and_not_in_data} in out folder but not in data')
 
-
-
-
-
-
 if __name__ == "__main__":
     print(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")} Start')
     main()

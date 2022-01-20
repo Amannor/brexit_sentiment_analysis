@@ -48,20 +48,6 @@ def get_trinary_sentiment(cur_stance, cur_sentiment):
         return Sentiment.LEAVE
     return Sentiment.OTHER
 
-
-
-    '''
-    TODO - take a look at the article* - I probably have a bug here (maybe more than one), e.g look at Table 1 in pg. 3
-    *"Characterizing Long-Running Political Phenomena on Social Media"
-    '''
-    # if (cur_stance == "remain" and cur_sentiment == "positive") or (cur_stance == "leave" and cur_sentiment == "negative"):
-    #     return Sentiment.REMAIN
-    # elif (cur_stance == "leave" and cur_sentiment == "positive") or (cur_stance == "remain" and cur_sentiment == "negative"):
-    #     return Sentiment.LEAVE
-    # elif cur_stance in ["remain", "leave"]:
-    #     return Sentiment.NEUTRAL
-    # return Sentiment.OTHER
-
 def connect_to_endpoint(params, headers):
     response = requests.request("GET", SEARCH_URL, headers=headers, params=params)
     if response.status_code != 200:
