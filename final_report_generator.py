@@ -200,18 +200,11 @@ def get_sentiment_counters(pre_calculated_number_of_tweets_per_user = None, limi
         df['t_date'] = df['t_date'].apply(lambda d: d.replace(tzinfo=None))
         df["date_bucket_id"] = (df["t_date"] - earliest_date).apply(lambda t: math.floor(t.days/DELTA_TIME_IN_DAYS))
         df = df.groupby(by=["date_bucket_id", "t_stance"], as_index=False).size()
-        # df = df.groupby(["date_bucket_id", "t_stance"], as_index=False).size().to_frame('size')
-        # df = df.groupby(["date_bucket_id", "t_stance"]).size().to_frame('size')
-        # df.set_index(['date_bucket_id', 't_stance'], inplace=True)
         if aggregated_df is None:
             aggregated_df = df
         else:
-            # aggregated_df["size"] = aggregated_df["size"].add(df["size"], fill_value=0)
-
             d3 = pd.concat([aggregated_df, df])
             aggregated_df = d3.groupby(by=["date_bucket_id", "t_stance"], as_index=False).sum()
-
-
 
     ax = aggregated_df.plot()
     aggregated_df[aggregated_df["t_stance"] == "other"].plot(x="date_bucket_id", y="size", ax=ax, color='green', label="other")
@@ -234,47 +227,6 @@ def get_sentiment_counters(pre_calculated_number_of_tweets_per_user = None, limi
 
     '''
 
-
-
-    ''' Old code (without pandas) - START
-    with open(full_fname, encoding="utf8") as infile:
-        infile.readline()  # Or next(f) - first line is the headers
-        for line in infile:
-            # t_id, user_id, t_sentiment, t_stance, t_date, t_text = line.split(',')[0], line.split(',')[1], line.split(',')[2], line.split(',')[3], line.split(',')[4], ("\n").join(line.split(',')[5:])
-            t_id, user_id, t_sentiment, t_stance, t_date= line.split(',')[0], line.split(',')[1], line.split(',')[2], line.split(',')[3], line.split(',')[4] #For now not reading t_text
-            t_id, user_id, t_sentiment, t_stance, t_date = t_id.strip(), user_id.strip(), t_sentiment.strip(), t_stance.strip(), t_date.strip()
-            t_date = t_date.split("T")[0]
-            try:
-                datetime.datetime.strptime(t_date, DATE_FORMAT)
-            except ValueError:
-                print(
-                    f'{get_cur_formatted_time()} Unexpected date format (id: {t_id} date: {t_date} file {full_fname}) (expected {DATE_FORMAT})')
-
-            earliest_date = min(t_date, earliest_date)
-            latest_date = max(t_date, latest_date)
-
-            trinary_sentiment = get_trinary_sentiment(t_stance, t_sentiment)
-            tweet_val: int = 1
-            if pre_calculated_number_of_tweets_per_user is None:
-                if limit_user_per_day:
-                    if user_id in dates_to_users_tweeted[t_date]:
-                        tweet_val = 0
-                    else:
-                        dates_to_users_tweeted[t_date].add(user_id)
-
-                else:
-                    number_of_tweets_per_user[user_id] += 1
-            else:
-                tweet_val = 1/pre_calculated_number_of_tweets_per_user[user_id]
-
-            if trinary_sentiment == Sentiment.REMAIN:
-                dates_to_remain_stance_and_sentiments[t_date] += tweet_val
-            elif trinary_sentiment == Sentiment.LEAVE:
-                dates_to_leave_stance_and_sentiments[t_date] += tweet_val
-            elif trinary_sentiment == Sentiment.NEUTRAL:
-                dates_to_neutral_stance_and_sentiments[t_date] += tweet_val
-        Old code (without pandas) - END
-        '''
     if pre_calculated_number_of_tweets_per_user is None:
         return dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, number_of_tweets_per_user, earliest_date, latest_date
     else:
