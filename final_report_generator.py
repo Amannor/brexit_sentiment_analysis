@@ -199,14 +199,17 @@ def get_sentiment_counters(pre_calculated_number_of_tweets_per_user = None, limi
         df['t_date'] = pd.to_datetime(df['t_date'])
         df['t_date'] = df['t_date'].apply(lambda d: d.replace(tzinfo=None))
         df["date_bucket_id"] = (df["t_date"] - earliest_date).apply(lambda t: math.floor(t.days/DELTA_TIME_IN_DAYS))
-        df = df.groupby(["date_bucket_id", "t_stance"], as_index=False).size()
+        df = df.groupby(by=["date_bucket_id", "t_stance"], as_index=False).size()
         # df = df.groupby(["date_bucket_id", "t_stance"], as_index=False).size().to_frame('size')
         # df = df.groupby(["date_bucket_id", "t_stance"]).size().to_frame('size')
-        df.set_index(['date_bucket_id', 't_stance'], inplace=True)
+        # df.set_index(['date_bucket_id', 't_stance'], inplace=True)
         if aggregated_df is None:
             aggregated_df = df
         else:
-            aggregated_df["size"] = aggregated_df["size"].add(df["size"], fill_value=0)
+            # aggregated_df["size"] = aggregated_df["size"].add(df["size"], fill_value=0)
+
+            d3 = pd.concat([aggregated_df, df])
+            aggregated_df = d3.groupby(by=["date_bucket_id", "t_stance"], as_index=False).sum()
 
 
 
