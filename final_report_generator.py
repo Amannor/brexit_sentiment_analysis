@@ -206,8 +206,7 @@ def get_sentiment_counters(pre_calculated_number_of_tweets_per_user = None, limi
             d3 = pd.concat([aggregated_df, df])
             aggregated_df = d3.groupby(by=["date_bucket_id", "t_stance"], as_index=False).sum()
 
-    ax = aggregated_df.plot()
-    aggregated_df[aggregated_df["t_stance"] == "other"].plot(x="date_bucket_id", y="size", ax=ax, color='green', label="other")
+    ax = aggregated_df[aggregated_df["t_stance"] == "other"].plot(x="date_bucket_id", y="size", color='green', label="other")
     aggregated_df[aggregated_df["t_stance"] == "remain"].plot(x="date_bucket_id", y="size", ax=ax, color='blue', label="remain")
     aggregated_df[aggregated_df["t_stance"] == "leave"].plot(x="date_bucket_id", y="size", ax=ax, color='red', label="leave")
     ax.legend()
