@@ -15,10 +15,11 @@ CSV_HEADER_INCL_TXT = ('t_id', 'user_id', 't_sentiment', 't_stance', 't_date', '
 PLOTS_DATA_FOLDER = os.path.join("plots", "data_for_plots")
 PLOTS_IMG_FOLDER = os.path.join("plots", "images")
 
-def save_fig(f_name):
+def save_fig(f_name, f_format="png"):
     path = os.path.join(PLOTS_IMG_FOLDER, f_name)
-    print(f'{get_cur_formatted_time()} Saving plot {path}')
-    plt.savefig(path)
+    print(f'{get_cur_formatted_time()} Saving plot {path} (format {f_format})')
+    plt.savefig(path, format=f_format)
+    plt.clf()
 
 def get_existing_tweets_per_category(only_files_with_text):
     # tweets_ids_to_creation_time = {}
@@ -134,28 +135,23 @@ def final_report_data_generator(only_files_with_text = True):
     write_to_json_file_if_not_empty(list(tweets_ids_not_found), os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_ids_not_found.json'))
     write_to_json_file_if_not_empty(list(tweets_ids_not_authorized), os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_ids_not_authorized.json'))
 
-def plot_stances_from_counters(remain_dates_to_stances_count, leave_dates_to_stances_count, neutral_dates_to_stances_count, name):
-    x, y = zip(*sorted(remain_dates_to_stances_count.items()))
-    plt.scatter(x, y, label="Remain")
-    x, y = zip(*sorted(leave_dates_to_stances_count.items()))
-    plt.scatter(x, y, label="Leave")
-    x, y = zip(*sorted(neutral_dates_to_stances_count.items()))
-    plt.scatter(x, y, label="Neutral")
-    plt.legend(loc="upper left")
+def plot_stances_from_counters(aggregated_df, earliest_date, latest_date, name, ylabel):
+    ax = aggregated_df[aggregated_df["t_stance"] == "other"].plot.scatter(x="Date", y="size", color='green', label="other")
+    aggregated_df[aggregated_df["t_stance"] == "remain"].plot.scatter(x="Date", y="size", ax=ax, color='blue', label="remain")
+    aggregated_df[aggregated_df["t_stance"] == "leave"].plot.scatter(x="Date", y="size", ax=ax, color='red', label="leave")
+    ax.legend(loc="upper left")
+    #Todo - Make the x-axis limits as earliest_date, latest_date (respectively) and not min, max of aggregated_df[""Date"] (respectively)
 
-    ax = plt.gca()
-    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=6))
-    ax.xaxis.set_minor_locator(mdates.MonthLocator(interval=1))
-    ax.xaxis.set_major_formatter(mdates.DateFormatter(DATE_FORMAT))
-    plt.gcf().autofmt_xdate()  # Rotation
-    ax.set_title(f'Brexit tweets analysis - {name}')
+    plt.title(f"Brexit tweets - {name}")
+    plt.ylabel(ylabel)
     save_fig(name)
-    plt.clf()
+
 
 def add_folder_prefix(fname, folder = PLOTS_DATA_FOLDER):
     return os.path.join(folder, fname)
 
-def get_min_and_max_dates_and_write_to_file(folder = FINAL_REPORT_DATA_FOLDER, read_from_existing_file = True, existing_fname = add_folder_prefix("date_limits.json")):
+def get_min_and_max_dates_and_write_to_file(folder = FINAL_REPORT_DATA_FOLDER, read_from_existing_file = True):
+    existing_fname = add_folder_prefix("date_limits.json")
     if read_from_existing_file and os.path.isfile(existing_fname):
         with open(existing_fname) as json_file:
             dates_limits = json.load(json_file)
@@ -180,13 +176,13 @@ def get_min_and_max_dates_and_write_to_file(folder = FINAL_REPORT_DATA_FOLDER, r
     return earliest_date, latest_date
 
 
-def get_sentiment_counters(pre_calculated_number_of_tweets_per_user = None, limit_user_per_day = False):
-    dates_to_remain_stance_and_sentiments = Counter()
-    dates_to_leave_stance_and_sentiments = Counter()
-    dates_to_neutral_stance_and_sentiments = Counter()
-
-    dates_to_users_tweeted = defaultdict(set)
-    number_of_tweets_per_user = Counter()
+def get_sentiment_aggregated_data(pre_calculated_number_of_tweets_per_user = None, limit_user_per_day = False):
+    # dates_to_remain_stance_and_sentiments = Counter()
+    # dates_to_leave_stance_and_sentiments = Counter()
+    # dates_to_neutral_stance_and_sentiments = Counter()
+    #
+    # dates_to_users_tweeted = defaultdict(set)
+    # number_of_tweets_per_user = Counter()
     earliest_date, latest_date = get_min_and_max_dates_and_write_to_file()
 
     aggregated_df = None
@@ -206,11 +202,10 @@ def get_sentiment_counters(pre_calculated_number_of_tweets_per_user = None, limi
             d3 = pd.concat([aggregated_df, df])
             aggregated_df = d3.groupby(by=["date_bucket_id", "t_stance"], as_index=False).sum()
 
-    ax = aggregated_df[aggregated_df["t_stance"] == "other"].plot(x="date_bucket_id", y="size", color='green', label="other")
-    aggregated_df[aggregated_df["t_stance"] == "remain"].plot(x="date_bucket_id", y="size", ax=ax, color='blue', label="remain")
-    aggregated_df[aggregated_df["t_stance"] == "leave"].plot(x="date_bucket_id", y="size", ax=ax, color='red', label="leave")
-    ax.legend()
-    plt.show()
+
+    aggregated_df["Date"] = aggregated_df["date_bucket_id"].apply(lambda i: earliest_date + datetime.timedelta(days=DELTA_TIME_IN_DAYS * i))
+    aggregated_df.drop(columns=['date_bucket_id'], inplace=True)
+    return aggregated_df, earliest_date, latest_date
 
 
     '''
@@ -226,29 +221,28 @@ def get_sentiment_counters(pre_calculated_number_of_tweets_per_user = None, limi
 
     '''
 
-    if pre_calculated_number_of_tweets_per_user is None:
-        return dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, number_of_tweets_per_user, earliest_date, latest_date
-    else:
-        return dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, pre_calculated_number_of_tweets_per_user, earliest_date, latest_date
+    # if pre_calculated_number_of_tweets_per_user is None:
+    #     return dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, number_of_tweets_per_user, earliest_date, latest_date
+    # else:
+    #     return dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, pre_calculated_number_of_tweets_per_user, earliest_date, latest_date
 
 
-def plot_qualitative_counters(dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, earliest_date, latest_date, name_suffix=""):
-    dates_buckets_to_remain_stance_and_sentiments = Counter()
-    dates_buckets_to_leave_stance_and_sentiments = Counter()
-    dates_buckets_to_neutral_stance_and_sentiments = Counter()
-    start_date, end_date = datetime.datetime.strptime(earliest_date, DATE_FORMAT), datetime.datetime.strptime(
-        latest_date, DATE_FORMAT)
-    cur_date_iterator = start_date
-    while cur_date_iterator <= end_date:
-        for i in range(0, DELTA_TIME_IN_DAYS):
-            date_str = (cur_date_iterator+datetime.timedelta(days=i)).strftime(DATE_FORMAT)
-            dates_buckets_to_remain_stance_and_sentiments[cur_date_iterator] += dates_to_remain_stance_and_sentiments[date_str]
-            dates_buckets_to_leave_stance_and_sentiments[cur_date_iterator] += dates_to_leave_stance_and_sentiments[date_str]
-            dates_buckets_to_neutral_stance_and_sentiments[cur_date_iterator] += dates_to_neutral_stance_and_sentiments[date_str]
-        cur_date_iterator += datetime.timedelta(days=DELTA_TIME_IN_DAYS)
+def plot_quantitative_counters(sentiment_df, earliest_date, latest_date, name_suffix=""):
+    # dates_buckets_to_remain_stance_and_sentiments = Counter()
+    # dates_buckets_to_leave_stance_and_sentiments = Counter()
+    # dates_buckets_to_neutral_stance_and_sentiments = Counter()
+    # start_date, end_date = datetime.datetime.strptime(earliest_date, DATE_FORMAT), datetime.datetime.strptime(
+    #     latest_date, DATE_FORMAT)
+    # cur_date_iterator = start_date
+    # while cur_date_iterator <= end_date:
+    #     for i in range(0, DELTA_TIME_IN_DAYS):
+    #         date_str = (cur_date_iterator+datetime.timedelta(days=i)).strftime(DATE_FORMAT)
+    #         dates_buckets_to_remain_stance_and_sentiments[cur_date_iterator] += dates_to_remain_stance_and_sentiments[date_str]
+    #         dates_buckets_to_leave_stance_and_sentiments[cur_date_iterator] += dates_to_leave_stance_and_sentiments[date_str]
+    #         dates_buckets_to_neutral_stance_and_sentiments[cur_date_iterator] += dates_to_neutral_stance_and_sentiments[date_str]
+    #     cur_date_iterator += datetime.timedelta(days=DELTA_TIME_IN_DAYS)
 
-    plot_stances_from_counters(dates_buckets_to_remain_stance_and_sentiments, dates_buckets_to_leave_stance_and_sentiments,
-                               dates_buckets_to_neutral_stance_and_sentiments, f'quantitative{name_suffix}')
+    plot_stances_from_counters(sentiment_df, earliest_date, latest_date, f'quantitative{name_suffix}', "Count of tweets")
 
 def plot_percentage_counters(dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, earliest_date, latest_date, name_suffix=""):
     dates_buckets_to_remain_stance_and_sentiments = Counter()
@@ -361,46 +355,46 @@ def final_report_plot_generator():
         #     earliest_date, latest_date = dates_limits["earliest_date"], dates_limits["latest_date"]
 
     else:
-        dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, number_of_tweets_per_user, earliest_date, latest_date = get_sentiment_counters()
-        write_to_json_file_if_not_empty(dates_to_remain_stance_and_sentiments, dates_to_remain_stance_and_sentiments_file)
-        write_to_json_file_if_not_empty(dates_to_leave_stance_and_sentiments, dates_to_leave_stance_and_sentiments_file)
-        write_to_json_file_if_not_empty(dates_to_neutral_stance_and_sentiments, dates_to_neutral_stance_and_sentiments_file)
-        write_to_json_file_if_not_empty(number_of_tweets_per_user, number_of_tweets_per_user_file)
+        # dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, number_of_tweets_per_user, earliest_date, latest_date = get_sentiment_aggregated_data()
+        sentiment_df, earliest_date, latest_date = get_sentiment_aggregated_data()
+        # write_to_json_file_if_not_empty(dates_to_remain_stance_and_sentiments, dates_to_remain_stance_and_sentiments_file)
+        # write_to_json_file_if_not_empty(dates_to_leave_stance_and_sentiments, dates_to_leave_stance_and_sentiments_file)
+        # write_to_json_file_if_not_empty(dates_to_neutral_stance_and_sentiments, dates_to_neutral_stance_and_sentiments_file)
+        # write_to_json_file_if_not_empty(number_of_tweets_per_user, number_of_tweets_per_user_file)
         # write_to_json_file_if_not_empty({"earliest_date": earliest_date, "latest_date": latest_date}, date_limits_file)
 
-        dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized, dates_to_neutral_stance_and_sentiments_normalized, number_of_tweets_per_user, earliest_date, latest_date = get_sentiment_counters(number_of_tweets_per_user)
-        write_to_json_file_if_not_empty(dates_to_remain_stance_and_sentiments_normalized, dates_to_remain_stance_and_sentiments_normalized_file)
-        write_to_json_file_if_not_empty(dates_to_leave_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized_file)
-        write_to_json_file_if_not_empty(dates_to_neutral_stance_and_sentiments_normalized, dates_to_neutral_stance_and_sentiments_normalized_file)
-
-        dates_to_remain_stance_and_sentiments_single_tweet_per_user, dates_to_leave_stance_and_sentiments_single_tweet_per_user, dates_to_neutral_stance_and_sentiments_single_tweet_per_user, number_of_tweets_per_user, earliest_date, latest_date = get_sentiment_counters(limit_user_per_day=True)
-        write_to_json_file_if_not_empty(dates_to_remain_stance_and_sentiments_single_tweet_per_user, dates_to_remain_stance_and_sentiments_single_tweet_per_user_file)
-        write_to_json_file_if_not_empty(dates_to_leave_stance_and_sentiments_single_tweet_per_user, dates_to_leave_stance_and_sentiments_single_tweet_per_user_file)
-        write_to_json_file_if_not_empty(dates_to_neutral_stance_and_sentiments_single_tweet_per_user, dates_to_neutral_stance_and_sentiments_single_tweet_per_user_file)
+        # dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized, dates_to_neutral_stance_and_sentiments_normalized, number_of_tweets_per_user, earliest_date, latest_date = get_sentiment_aggregated_data(number_of_tweets_per_user)
+        # write_to_json_file_if_not_empty(dates_to_remain_stance_and_sentiments_normalized, dates_to_remain_stance_and_sentiments_normalized_file)
+        # write_to_json_file_if_not_empty(dates_to_leave_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized_file)
+        # write_to_json_file_if_not_empty(dates_to_neutral_stance_and_sentiments_normalized, dates_to_neutral_stance_and_sentiments_normalized_file)
+        #
+        # dates_to_remain_stance_and_sentiments_single_tweet_per_user, dates_to_leave_stance_and_sentiments_single_tweet_per_user, dates_to_neutral_stance_and_sentiments_single_tweet_per_user, number_of_tweets_per_user, earliest_date, latest_date = get_sentiment_aggregated_data(limit_user_per_day=True)
+        # write_to_json_file_if_not_empty(dates_to_remain_stance_and_sentiments_single_tweet_per_user, dates_to_remain_stance_and_sentiments_single_tweet_per_user_file)
+        # write_to_json_file_if_not_empty(dates_to_leave_stance_and_sentiments_single_tweet_per_user, dates_to_leave_stance_and_sentiments_single_tweet_per_user_file)
+        # write_to_json_file_if_not_empty(dates_to_neutral_stance_and_sentiments_single_tweet_per_user, dates_to_neutral_stance_and_sentiments_single_tweet_per_user_file)
 
     ### Quantitative ###
-    plot_qualitative_counters(dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments,
-                                dates_to_neutral_stance_and_sentiments, earliest_date, latest_date)
+    plot_quantitative_counters(sentiment_df, earliest_date, latest_date)
 
-    ### Percentage ###
-    plot_percentage_counters(dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments,
-                             dates_to_neutral_stance_and_sentiments, earliest_date, latest_date)
-
-    ### Quantitative normalized###
-    plot_qualitative_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
-                                dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_normalized")
-
-    ### Percentage normalized###
-    plot_percentage_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
-                             dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_normalized")
-
-    ### Quantitative single tweet per user###
-    plot_qualitative_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
-                                dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_single_tweet_per_user")
-
-    ### Percentage single tweet per user###
-    plot_percentage_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
-                             dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_single_tweet_per_user")
+    # ### Percentage ###
+    # plot_percentage_counters(dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments,
+    #                          dates_to_neutral_stance_and_sentiments, earliest_date, latest_date)
+    #
+    # ### Quantitative normalized###
+    # plot_quantitative_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
+    #                             dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_normalized")
+    #
+    # ### Percentage normalized###
+    # plot_percentage_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
+    #                          dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_normalized")
+    #
+    # ### Quantitative single tweet per user###
+    # plot_quantitative_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
+    #                             dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_single_tweet_per_user")
+    #
+    # ### Percentage single tweet per user###
+    # plot_percentage_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
+    #                          dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_single_tweet_per_user")
 
 
 if __name__ == "__main__":
