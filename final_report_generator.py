@@ -16,9 +16,9 @@ PLOTS_DATA_FOLDER = os.path.join("plots", "data_for_plots")
 PLOTS_IMG_FOLDER = os.path.join("plots", "images")
 
 def save_fig(f_name, f_format="png"):
-    path = os.path.join(PLOTS_IMG_FOLDER, f_name)
-    print(f'{get_cur_formatted_time()} Saving plot {path} (format {f_format})')
-    plt.savefig(path, format=f_format)
+    path = os.path.join(PLOTS_IMG_FOLDER, f'{f_name}.{f_format}')
+    print(f'{get_cur_formatted_time()} Saving plot {path}')
+    plt.savefig(path)
     plt.clf()
 
 def get_existing_tweets_per_category(only_files_with_text):
@@ -272,109 +272,21 @@ def plot_percentage_counters(dates_to_remain_stance_and_sentiments, dates_to_lea
 
 def final_report_plot_generator():
 
-    dates_to_remain_stance_and_sentiments = Counter()
-    dates_to_leave_stance_and_sentiments = Counter()
-    dates_to_neutral_stance_and_sentiments = Counter()
-    dates_to_remain_stance_and_sentiments_normalized = Counter()
-    dates_to_leave_stance_and_sentiments_normalized = Counter()
-    dates_to_neutral_stance_and_sentiments_normalized = Counter()
-
-    dates_to_remain_stance_and_sentiments_single_tweet_per_user = Counter()
-    dates_to_leave_stance_and_sentiments_single_tweet_per_user = Counter()
-    dates_to_neutral_stance_and_sentiments_single_tweet_per_user = Counter()
-
-    number_of_tweets_per_user = Counter()
+    quantitative_df = None
     earliest_date, latest_date = "3000-01-01", "1000-01-01"
-    dates_to_remain_stance_and_sentiments_file = add_folder_prefix("dates_to_remain_stance_and_sentiments.json")
-    dates_to_leave_stance_and_sentiments_file = add_folder_prefix("dates_to_leave_stance_and_sentiments.json")
-    dates_to_neutral_stance_and_sentiments_file = add_folder_prefix("dates_to_neutral_stance_and_sentiments.json")
-    dates_to_remain_stance_and_sentiments_normalized_file = add_folder_prefix("dates_to_remain_stance_and_sentiments_normalized.json")
-    dates_to_leave_stance_and_sentiments_normalized_file = add_folder_prefix("dates_to_leave_stance_and_sentiments_normalized.json")
-    dates_to_neutral_stance_and_sentiments_normalized_file = add_folder_prefix("dates_to_neutral_stance_and_sentiments_normalized.json")
-    dates_to_remain_stance_and_sentiments_single_tweet_per_user_file = add_folder_prefix("dates_to_remain_stance_and_sentiments_single_tweet_per_user.json")
-    dates_to_leave_stance_and_sentiments_single_tweet_per_user_file = add_folder_prefix("dates_to_leave_stance_and_sentiments_single_tweet_per_user.json")
-    dates_to_neutral_stance_and_sentiments_single_tweet_per_user_file = add_folder_prefix("dates_to_neutral_stance_and_sentiments_single_tweet_per_user.json")
-    # date_limits_file = add_folder_prefix("date_limits.json")
-    number_of_tweets_per_user_file = add_folder_prefix("number_of_tweets_per_user.json")
+    quantitative_df_fname = add_folder_prefix("quantitative.csv")
 
-    if np.all([os.path.isfile(os.path.join(PLOTS_DATA_FOLDER, f)) for f in [dates_to_remain_stance_and_sentiments_file,
-                                           dates_to_leave_stance_and_sentiments_file,
-                                           dates_to_neutral_stance_and_sentiments_file,
-                                           dates_to_remain_stance_and_sentiments_normalized_file,
-                                           dates_to_leave_stance_and_sentiments_normalized_file,
-                                           dates_to_neutral_stance_and_sentiments_normalized_file,
-                                           dates_to_remain_stance_and_sentiments_single_tweet_per_user_file,
-                                           dates_to_leave_stance_and_sentiments_single_tweet_per_user_file,
-                                           dates_to_neutral_stance_and_sentiments_single_tweet_per_user_file,
-                                           number_of_tweets_per_user_file]]):
-        with open(dates_to_remain_stance_and_sentiments_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                dates_to_remain_stance_and_sentiments[k] = cur_dict[k]
-        with open(dates_to_leave_stance_and_sentiments_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                dates_to_leave_stance_and_sentiments[k] = cur_dict[k]
-        with open(dates_to_neutral_stance_and_sentiments_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                dates_to_neutral_stance_and_sentiments[k] = cur_dict[k]
+    if np.all([os.path.isfile(os.path.join(PLOTS_DATA_FOLDER, f)) for f in [quantitative_df_fname]]):
+        quantitative_df = pd.from_csv(quantitative_df_fname)
 
-        with open(dates_to_remain_stance_and_sentiments_normalized_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                dates_to_remain_stance_and_sentiments_normalized[k] = cur_dict[k]
-        with open(dates_to_leave_stance_and_sentiments_normalized_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                dates_to_leave_stance_and_sentiments_normalized[k] = cur_dict[k]
-        with open(dates_to_neutral_stance_and_sentiments_normalized_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                dates_to_neutral_stance_and_sentiments_normalized[k] = cur_dict[k]
-
-        with open(dates_to_remain_stance_and_sentiments_single_tweet_per_user_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                dates_to_remain_stance_and_sentiments_single_tweet_per_user[k] = cur_dict[k]
-        with open(dates_to_leave_stance_and_sentiments_single_tweet_per_user_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                dates_to_leave_stance_and_sentiments_single_tweet_per_user[k] = cur_dict[k]
-        with open(dates_to_neutral_stance_and_sentiments_single_tweet_per_user_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                dates_to_neutral_stance_and_sentiments_single_tweet_per_user[k] = cur_dict[k]
-
-        with open(number_of_tweets_per_user_file) as json_file:
-            cur_dict = json.load(json_file)
-            for k in cur_dict.keys():
-                number_of_tweets_per_user[k] = cur_dict[k]
-        # with open(date_limits_file) as json_file:
-        #     dates_limits = json.load(json_file)
-        #     earliest_date, latest_date = dates_limits["earliest_date"], dates_limits["latest_date"]
+        earliest_date, latest_date = get_min_and_max_dates_and_write_to_file()
 
     else:
-        # dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, number_of_tweets_per_user, earliest_date, latest_date = get_sentiment_aggregated_data()
-        sentiment_df, earliest_date, latest_date = get_sentiment_aggregated_data()
-        # write_to_json_file_if_not_empty(dates_to_remain_stance_and_sentiments, dates_to_remain_stance_and_sentiments_file)
-        # write_to_json_file_if_not_empty(dates_to_leave_stance_and_sentiments, dates_to_leave_stance_and_sentiments_file)
-        # write_to_json_file_if_not_empty(dates_to_neutral_stance_and_sentiments, dates_to_neutral_stance_and_sentiments_file)
-        # write_to_json_file_if_not_empty(number_of_tweets_per_user, number_of_tweets_per_user_file)
-        # write_to_json_file_if_not_empty({"earliest_date": earliest_date, "latest_date": latest_date}, date_limits_file)
-
-        # dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized, dates_to_neutral_stance_and_sentiments_normalized, number_of_tweets_per_user, earliest_date, latest_date = get_sentiment_aggregated_data(number_of_tweets_per_user)
-        # write_to_json_file_if_not_empty(dates_to_remain_stance_and_sentiments_normalized, dates_to_remain_stance_and_sentiments_normalized_file)
-        # write_to_json_file_if_not_empty(dates_to_leave_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized_file)
-        # write_to_json_file_if_not_empty(dates_to_neutral_stance_and_sentiments_normalized, dates_to_neutral_stance_and_sentiments_normalized_file)
-        #
-        # dates_to_remain_stance_and_sentiments_single_tweet_per_user, dates_to_leave_stance_and_sentiments_single_tweet_per_user, dates_to_neutral_stance_and_sentiments_single_tweet_per_user, number_of_tweets_per_user, earliest_date, latest_date = get_sentiment_aggregated_data(limit_user_per_day=True)
-        # write_to_json_file_if_not_empty(dates_to_remain_stance_and_sentiments_single_tweet_per_user, dates_to_remain_stance_and_sentiments_single_tweet_per_user_file)
-        # write_to_json_file_if_not_empty(dates_to_leave_stance_and_sentiments_single_tweet_per_user, dates_to_leave_stance_and_sentiments_single_tweet_per_user_file)
-        # write_to_json_file_if_not_empty(dates_to_neutral_stance_and_sentiments_single_tweet_per_user, dates_to_neutral_stance_and_sentiments_single_tweet_per_user_file)
+        quantitative_df, earliest_date, latest_date = get_sentiment_aggregated_data()
+        quantitative_df.to_csv(quantitative_df_fname)
 
     ### Quantitative ###
-    plot_quantitative_counters(sentiment_df, earliest_date, latest_date)
+    plot_quantitative_counters(quantitative_df, earliest_date, latest_date)
 
     # ### Percentage ###
     # plot_percentage_counters(dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments,
