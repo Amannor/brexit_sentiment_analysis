@@ -177,12 +177,6 @@ def get_min_and_max_dates_and_write_to_file(folder = FINAL_REPORT_DATA_FOLDER, r
 
 
 def get_sentiment_aggregated_data(pre_calculated_number_of_tweets_per_user = None, limit_user_per_day = False):
-    # dates_to_remain_stance_and_sentiments = Counter()
-    # dates_to_leave_stance_and_sentiments = Counter()
-    # dates_to_neutral_stance_and_sentiments = Counter()
-    #
-    # dates_to_users_tweeted = defaultdict(set)
-    # number_of_tweets_per_user = Counter()
     earliest_date, latest_date = get_min_and_max_dates_and_write_to_file()
 
     aggregated_df = None
@@ -276,8 +270,8 @@ def final_report_plot_generator():
     earliest_date, latest_date = "3000-01-01", "1000-01-01"
     quantitative_df_fname = add_folder_prefix("quantitative.csv")
 
-    if np.all([os.path.isfile(os.path.join(PLOTS_DATA_FOLDER, f)) for f in [quantitative_df_fname]]):
-        quantitative_df = pd.from_csv(quantitative_df_fname)
+    if np.all([os.path.isfile(f) for f in [quantitative_df_fname]]):
+        quantitative_df = pd.read_csv(quantitative_df_fname)
 
         earliest_date, latest_date = get_min_and_max_dates_and_write_to_file()
 
@@ -287,6 +281,7 @@ def final_report_plot_generator():
 
     ### Quantitative ###
     plot_quantitative_counters(quantitative_df, earliest_date, latest_date)
+
 
     # ### Percentage ###
     # plot_percentage_counters(dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments,
