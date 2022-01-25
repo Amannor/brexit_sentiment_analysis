@@ -135,17 +135,22 @@ def final_report_data_generator(only_files_with_text = True):
     write_to_json_file_if_not_empty(list(tweets_ids_not_found), os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_ids_not_found.json'))
     write_to_json_file_if_not_empty(list(tweets_ids_not_authorized), os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_ids_not_authorized.json'))
 
-def plot_stances_from_counters(aggregated_df, earliest_date, latest_date, name, ylabel):
-    ax = aggregated_df[aggregated_df["t_stance"] == "other"].plot.scatter(x="Date", y="size", color='green', label="other")
-    aggregated_df[aggregated_df["t_stance"] == "remain"].plot.scatter(x="Date", y="size", ax=ax, color='blue', label="remain")
-    aggregated_df[aggregated_df["t_stance"] == "leave"].plot.scatter(x="Date", y="size", ax=ax, color='red', label="leave")
-    ax.legend(loc="upper left")
+def plot_stances_from_counters(aggregated_df, y_col_name, earliest_date, latest_date, name, ylabel):
+    ax = aggregated_df[aggregated_df["t_stance"] == "other"].plot.scatter(x="Date", y=y_col_name, color='green', label="other")
+    aggregated_df[aggregated_df["t_stance"] == "remain"].plot.scatter(x="Date", y=y_col_name, ax=ax, color='blue', label="remain")
+    aggregated_df[aggregated_df["t_stance"] == "leave"].plot.scatter(x="Date", y=y_col_name, ax=ax, color='red', label="leave")
+    ax.legend(loc="upper right")
     #Todo - Make the x-axis limits as earliest_date, latest_date (respectively) and not min, max of aggregated_df[""Date"] (respectively)
 
     plt.title(f"Brexit tweets - {name}")
     plt.ylabel(ylabel)
-    save_fig(name)
 
+    n = 7  # Keeps every nth label
+    [l.set_visible(False) for (i, l) in enumerate(ax.xaxis.get_ticklabels()) if i % n != 0]
+    plt.xticks(rotation=45, ha="right") #Tilt the x ticks lables
+    plt.subplots_adjust(bottom=0.25)
+
+    save_fig(name)
 
 def add_folder_prefix(fname, folder = PLOTS_DATA_FOLDER):
     return os.path.join(folder, fname)
@@ -175,8 +180,7 @@ def get_min_and_max_dates_and_write_to_file(folder = FINAL_REPORT_DATA_FOLDER, r
 
     return earliest_date, latest_date
 
-
-def get_sentiment_aggregated_data(pre_calculated_number_of_tweets_per_user = None, limit_user_per_day = False):
+def get_sentiment_aggregated_data():
     earliest_date, latest_date = get_min_and_max_dates_and_write_to_file()
 
     aggregated_df = None
@@ -201,68 +205,13 @@ def get_sentiment_aggregated_data(pre_calculated_number_of_tweets_per_user = Non
     aggregated_df.drop(columns=['date_bucket_id'], inplace=True)
     return aggregated_df, earliest_date, latest_date
 
-
-    '''
-    TODO (after talk with Avrahami:
-    0) apply on pandas - then can apply a custom function.
-    1) For each row calculate the number of days sine earliest_date - call this field seniority
-    2) Divide each seniority by the number of days you want - to get the bucket number
-    3) Groupby the bucket number (df.groupby("date_bucket_id").aggregate("stance", np.sum))
-    
-    
-    *I need to od a preprocessing in cae of all the "special" cases (e.g. eliminate according to bot_score threshold, not allowing any user to tweet more than once a day etc.)
-    E.g: df[df['botscore']>0.7].copy()
-
-    '''
-
-    # if pre_calculated_number_of_tweets_per_user is None:
-    #     return dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, number_of_tweets_per_user, earliest_date, latest_date
-    # else:
-    #     return dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, pre_calculated_number_of_tweets_per_user, earliest_date, latest_date
-
-
 def plot_quantitative_counters(sentiment_df, earliest_date, latest_date, name_suffix=""):
-    # dates_buckets_to_remain_stance_and_sentiments = Counter()
-    # dates_buckets_to_leave_stance_and_sentiments = Counter()
-    # dates_buckets_to_neutral_stance_and_sentiments = Counter()
-    # start_date, end_date = datetime.datetime.strptime(earliest_date, DATE_FORMAT), datetime.datetime.strptime(
-    #     latest_date, DATE_FORMAT)
-    # cur_date_iterator = start_date
-    # while cur_date_iterator <= end_date:
-    #     for i in range(0, DELTA_TIME_IN_DAYS):
-    #         date_str = (cur_date_iterator+datetime.timedelta(days=i)).strftime(DATE_FORMAT)
-    #         dates_buckets_to_remain_stance_and_sentiments[cur_date_iterator] += dates_to_remain_stance_and_sentiments[date_str]
-    #         dates_buckets_to_leave_stance_and_sentiments[cur_date_iterator] += dates_to_leave_stance_and_sentiments[date_str]
-    #         dates_buckets_to_neutral_stance_and_sentiments[cur_date_iterator] += dates_to_neutral_stance_and_sentiments[date_str]
-    #     cur_date_iterator += datetime.timedelta(days=DELTA_TIME_IN_DAYS)
+    plot_stances_from_counters(sentiment_df, "size", earliest_date, latest_date, f'quantitative{name_suffix}', "Count of tweets")
 
-    plot_stances_from_counters(sentiment_df, earliest_date, latest_date, f'quantitative{name_suffix}', "Count of tweets")
+def plot_percentage_counters(sentiment_df, earliest_date, latest_date, name_suffix=""):
 
-def plot_percentage_counters(dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments, dates_to_neutral_stance_and_sentiments, earliest_date, latest_date, name_suffix=""):
-    dates_buckets_to_remain_stance_and_sentiments = Counter()
-    dates_buckets_to_leave_stance_and_sentiments = Counter()
-    dates_buckets_to_neutral_stance_and_sentiments = Counter()
-    start_date, end_date = datetime.datetime.strptime(earliest_date, DATE_FORMAT), datetime.datetime.strptime(
-        latest_date, DATE_FORMAT)
-    cur_date_iterator = start_date
-    while cur_date_iterator <= end_date:
-        for i in range(0, DELTA_TIME_IN_DAYS):
-            date_str = (cur_date_iterator+datetime.timedelta(days=i)).strftime(DATE_FORMAT)
-            dates_buckets_to_remain_stance_and_sentiments[cur_date_iterator] += dates_to_remain_stance_and_sentiments[date_str]
-            dates_buckets_to_leave_stance_and_sentiments[cur_date_iterator] += dates_to_leave_stance_and_sentiments[date_str]
-            dates_buckets_to_neutral_stance_and_sentiments[cur_date_iterator] += dates_to_neutral_stance_and_sentiments[date_str]
-        tot_tweets_count = dates_buckets_to_remain_stance_and_sentiments[cur_date_iterator] + dates_buckets_to_leave_stance_and_sentiments[cur_date_iterator]+dates_buckets_to_neutral_stance_and_sentiments[cur_date_iterator]
-        dates_buckets_to_remain_stance_and_sentiments[cur_date_iterator] = round(dates_buckets_to_remain_stance_and_sentiments[cur_date_iterator]/tot_tweets_count,2)
-        dates_buckets_to_leave_stance_and_sentiments[cur_date_iterator] = round(dates_buckets_to_leave_stance_and_sentiments[cur_date_iterator]/tot_tweets_count, 2)
-        dates_buckets_to_neutral_stance_and_sentiments[cur_date_iterator] = round(dates_buckets_to_neutral_stance_and_sentiments[cur_date_iterator]/tot_tweets_count, 2)
-
-        cur_date_iterator += datetime.timedelta(days=DELTA_TIME_IN_DAYS)
-
-    plot_stances_from_counters(dates_buckets_to_remain_stance_and_sentiments, dates_buckets_to_leave_stance_and_sentiments,
-                               dates_buckets_to_neutral_stance_and_sentiments, f'percentage{name_suffix}')
-
-
-
+    plot_stances_from_counters(sentiment_df, "percent_per_date", earliest_date, latest_date, f'percentage{name_suffix}',
+                               "Percent of tweets")
 
 def final_report_plot_generator():
 
@@ -282,26 +231,22 @@ def final_report_plot_generator():
     ### Quantitative ###
     plot_quantitative_counters(quantitative_df, earliest_date, latest_date)
 
+    ### Percentage ###
+    percentage_df = quantitative_df.copy(deep=False)
+    percentage_df["count_per_date"] = quantitative_df.groupby(by=["Date"]).transform('sum')["size"]
+    percentage_df["percent_per_date"] = percentage_df["size"] / percentage_df["count_per_date"]
+    percentage_df.drop(columns=['size', "count_per_date"], inplace=True)
 
-    # ### Percentage ###
-    # plot_percentage_counters(dates_to_remain_stance_and_sentiments, dates_to_leave_stance_and_sentiments,
-    #                          dates_to_neutral_stance_and_sentiments, earliest_date, latest_date)
-    #
-    # ### Quantitative normalized###
-    # plot_quantitative_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
-    #                             dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_normalized")
-    #
-    # ### Percentage normalized###
-    # plot_percentage_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
-    #                          dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_normalized")
-    #
-    # ### Quantitative single tweet per user###
-    # plot_quantitative_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
-    #                             dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_single_tweet_per_user")
-    #
-    # ### Percentage single tweet per user###
-    # plot_percentage_counters(dates_to_remain_stance_and_sentiments_normalized, dates_to_leave_stance_and_sentiments_normalized,
-    #                          dates_to_neutral_stance_and_sentiments_normalized, earliest_date, latest_date, "_single_tweet_per_user")
+    plot_percentage_counters(percentage_df, earliest_date, latest_date)
+    '''
+    TODO - Need to do analysis for each one of the following counting "policies":
+     - Allow every user no more than a single tweet a day (per stance)  
+     - Cut off completely users with a botscore higher than [0.3, 0.5, 0.7] (do separate calculation for each threshold)   
+     - Count every tweet as one divided by the number of overall tweets that the user tweeted overall in the dataset
+     - Count every tweet as one divided by the number of overall tweets that the user tweeted in each timespan differently
+    '''
+
+
 
 
 if __name__ == "__main__":
