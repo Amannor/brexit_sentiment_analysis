@@ -243,7 +243,7 @@ def final_report_plot_generator():
      - Allow every user no more than a single tweet a day (per stance)  
      - Cut off completely users with a botscore higher than [0.3, 0.5, 0.7] (do separate calculation for each threshold)   
      - Count every tweet as one divided by the number of overall tweets that the user tweeted overall in the dataset
-     - Count every tweet as one divided by the number of overall tweets that the user tweeted in each timespan differently
+     - Count every tweet as one divided by the number of overall tweets that the user tweeted in each timespan separately
     '''
 
 
