@@ -1,6 +1,9 @@
 import csv
 import glob
+import warnings
 from collections import Counter, defaultdict
+from lib2to3.pgen2.pgen import DFAState
+
 import pandas as pd
 
 import matplotlib.dates as mdates
@@ -14,6 +17,10 @@ CSV_HEADER_INCL_TXT = ('t_id', 'user_id', 't_sentiment', 't_stance', 't_date', '
 
 PLOTS_DATA_FOLDER = os.path.join("plots", "data_for_plots")
 PLOTS_IMG_FOLDER = os.path.join("plots", "images")
+
+# DF_BOT_SCORES = None
+BOT_SCORES_DF = None
+
 
 def save_fig(f_name, f_format="png"):
     path = os.path.join(PLOTS_IMG_FOLDER, f'{f_name}.{f_format}')
@@ -181,16 +188,45 @@ def get_min_and_max_dates_and_write_to_file(folder = FINAL_REPORT_DATA_FOLDER, r
 
     return earliest_date, latest_date
 
-def get_sentiment_aggregated_data():
+def get_sentiment_aggregated_data(bot_score_threshold=None):
     earliest_date, latest_date = get_min_and_max_dates_and_write_to_file()
 
     aggregated_df = None
+    bot_msg_suffix = ""
+    filter_bots = False
+    global BOT_SCORES_DF
+    if not bot_score_threshold is None:
+        if not 0 <= bot_score_threshold <= 1:
+            warnings.warn(f'Bot score should be probability (between 0 and 1) but got {bot_score_threshold} - ignoring it')
+        else:
+            bot_msg_suffix = f" (bot score threshold {bot_score_threshold})"
+            filter_bots = True
+            if BOT_SCORES_DF is None:
+                full_fname = os.path.join(DATA_FOLDER, "users_stance_sentiment_botscore_tweetcounts.csv")
+                print(f'{get_cur_formatted_time()} Reading {full_fname}')
+                BOT_SCORES_DF = pd.read_csv(full_fname, sep="~", names=["user_id", "user_sentiment", "user_stance", "bot_score", "bot_fetch_time", "tweets_num"])
+                BOT_SCORES_DF.drop(columns=["user_sentiment", "user_stance", "bot_fetch_time", "tweets_num"], inplace=True)
+                BOT_SCORES_DF = BOT_SCORES_DF[~BOT_SCORES_DF['bot_score'].isin([np.nan])]
+
+
     for fname in os.listdir(FINAL_REPORT_DATA_FOLDER):
         if not (fname.startswith(f'tweets_stance_sentiment_incl_date_and_text') and fname.endswith(".csv")):
             continue
         full_fname = os.path.join(FINAL_REPORT_DATA_FOLDER, fname)
-        print(f'{get_cur_formatted_time()} Parsing {full_fname}')
+        print(f'{get_cur_formatted_time()} Parsing {full_fname}{bot_msg_suffix}')
         df = pd.read_csv(full_fname)
+        if filter_bots:
+            df.set_index("user_id", inplace=True)
+            BOT_SCORES_DF.set_index("user_id", inplace=True)
+
+            df = df.join(BOT_SCORES_DF)
+
+            df.reset_index(inplace=True)
+            BOT_SCORES_DF.reset_index(inplace=True)
+
+            df = df[np.logical_or(df["bot_score"].isin([np.nan]), df["bot_score"] <= bot_score_threshold)]
+            df.drop(columns=["bot_score"], inplace=True)
+
         df['t_date'] = pd.to_datetime(df['t_date'])
         df['t_date'] = df['t_date'].apply(lambda d: d.replace(tzinfo=None))
         df["date_bucket_id"] = (df["t_date"] - earliest_date).apply(lambda t: math.floor(t.days/DELTA_TIME_IN_DAYS))
@@ -214,20 +250,38 @@ def plot_percentage_counters(sentiment_df, earliest_date, latest_date, name_suff
     plot_stances_from_counters(sentiment_df, "percent_per_date", earliest_date, latest_date, f'percentage{name_suffix}',
                                "Percent of tweets")
 
+def get_percentage_df_from_quantitative(quantitative_df):
+    percentage_df = quantitative_df.copy(deep=False)
+    percentage_df["count_per_date"] = quantitative_df.groupby(by=["Date"]).transform('sum')["size"]
+    percentage_df["percent_per_date"] = percentage_df["size"] / percentage_df["count_per_date"]
+    percentage_df.drop(columns=['size', "count_per_date"], inplace=True)
+    return percentage_df
+
+
 def final_report_plot_generator():
 
     quantitative_df = None
     earliest_date, latest_date = "3000-01-01", "1000-01-01"
+    bot_score_thresholds = [0.3, 0.5, 0.7, 0.98]  # Probability of an account being a bot (1 is the highest)
+    quantitative_df_bots = [None] * len(bot_score_thresholds)
+
     quantitative_df_fname = add_folder_prefix("quantitative.csv")
+    quantitative_df_fname_bots = [add_folder_prefix(f"quantitative_bot_filter_{s}.csv") for s in bot_score_thresholds]
 
     if np.all([os.path.isfile(f) for f in [quantitative_df_fname]]):
         quantitative_df = pd.read_csv(quantitative_df_fname)
-
         earliest_date, latest_date = get_min_and_max_dates_and_write_to_file()
-
     else:
         quantitative_df, earliest_date, latest_date = get_sentiment_aggregated_data()
         quantitative_df.to_csv(quantitative_df_fname)
+
+    for i, bot_score_threshold in enumerate(bot_score_thresholds):
+        if os.path.isfile(quantitative_df_fname_bots[i]):
+            quantitative_df_bots[i] = pd.read_csv(quantitative_df_fname_bots[i])
+        else:
+            quantitative_df_bot, earliest_date, latest_date = get_sentiment_aggregated_data(bot_score_threshold)
+            quantitative_df_bot.to_csv(quantitative_df_fname_bots[i])
+            quantitative_df_bots[i] = quantitative_df_bot
 
     ### Quantitative ###
     plot_quantitative_counters(quantitative_df, earliest_date, latest_date)
@@ -239,6 +293,14 @@ def final_report_plot_generator():
     percentage_df.drop(columns=['size', "count_per_date"], inplace=True)
 
     plot_percentage_counters(percentage_df, earliest_date, latest_date)
+
+    for i, bot_score_threshold in enumerate(bot_score_thresholds):
+        q_df = quantitative_df_bots[i]
+        plot_quantitative_counters(q_df, earliest_date, latest_date, f'botscore_{bot_score_threshold}')
+        p_df = get_percentage_df_from_quantitative(q_df[i])
+        plot_percentage_counters(p_df, earliest_date, latest_date, f'botscore_{bot_score_threshold}')
+
+
     '''
     TODO - Need to do analysis for each one of the following counting "policies":
      - Allow every user no more than a single tweet a day (per stance)  
