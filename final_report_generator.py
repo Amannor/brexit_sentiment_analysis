@@ -1,12 +1,9 @@
-import csv
 import glob
 import warnings
-from collections import Counter, defaultdict
-from lib2to3.pgen2.pgen import DFAState
+from collections import Counter
 
 import pandas as pd
 
-import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 
 from common_utiles import *
@@ -18,7 +15,6 @@ CSV_HEADER_INCL_TXT = ('t_id', 'user_id', 't_sentiment', 't_stance', 't_date', '
 PLOTS_DATA_FOLDER = os.path.join("plots", "data_for_plots")
 PLOTS_IMG_FOLDER = os.path.join("plots", "images")
 
-# DF_BOT_SCORES = None
 BOT_SCORES_DF = None
 
 
