@@ -287,18 +287,14 @@ def final_report_plot_generator():
     plot_quantitative_counters(quantitative_df, earliest_date, latest_date)
 
     ### Percentage ###
-    percentage_df = quantitative_df.copy(deep=False)
-    percentage_df["count_per_date"] = quantitative_df.groupby(by=["Date"]).transform('sum')["size"]
-    percentage_df["percent_per_date"] = percentage_df["size"] / percentage_df["count_per_date"]
-    percentage_df.drop(columns=['size', "count_per_date"], inplace=True)
-
+    percentage_df = get_percentage_df_from_quantitative(quantitative_df)
     plot_percentage_counters(percentage_df, earliest_date, latest_date)
 
     for i, bot_score_threshold in enumerate(bot_score_thresholds):
         q_df = quantitative_df_bots[i]
-        plot_quantitative_counters(q_df, earliest_date, latest_date, f'botscore_{bot_score_threshold}')
-        p_df = get_percentage_df_from_quantitative(q_df[i])
-        plot_percentage_counters(p_df, earliest_date, latest_date, f'botscore_{bot_score_threshold}')
+        plot_quantitative_counters(q_df, earliest_date, latest_date, f'_botscore_{bot_score_threshold}')
+        p_df = get_percentage_df_from_quantitative(q_df)
+        plot_percentage_counters(p_df, earliest_date, latest_date, f'_botscore_{bot_score_threshold}')
 
 
     '''
