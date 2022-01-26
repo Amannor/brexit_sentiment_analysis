@@ -145,8 +145,9 @@ def plot_stances_from_counters(aggregated_df, y_col_name, earliest_date, latest_
     plt.title(f"Brexit tweets - {name}")
     plt.ylabel(ylabel)
 
+    xticks_num = len(ax.xaxis.get_ticklabels())
     n = 7  # Keeps every nth label
-    [l.set_visible(False) for (i, l) in enumerate(ax.xaxis.get_ticklabels()) if i % n != 0]
+    [l.set_visible(False) for (i, l) in enumerate(ax.xaxis.get_ticklabels()) if i % n != 0 and i < xticks_num-1]
     plt.xticks(rotation=45, ha="right") #Tilt the x ticks lables
     plt.subplots_adjust(bottom=0.25)
 
