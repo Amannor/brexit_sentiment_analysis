@@ -3,26 +3,15 @@ import warnings
 from collections import Counter
 
 import pandas as pd
-
-import matplotlib.pyplot as plt
-
 from common_utiles import *
 
 DELTA_TIME_IN_DAYS = 14
 DEF_CSV_HEADER = ('t_id', 'user_id', 't_sentiment', 't_stance', 't_date') #ID~user_id~t_sentiment~t_stance
 CSV_HEADER_INCL_TXT = ('t_id', 'user_id', 't_sentiment', 't_stance', 't_date', 't_text')
 
-PLOTS_DATA_FOLDER = os.path.join("plots", "data_for_plots")
-PLOTS_IMG_FOLDER = os.path.join("plots", "images")
+
 
 BOT_SCORES_DF = None
-
-
-def save_fig(f_name, f_format="png"):
-    path = os.path.join(PLOTS_IMG_FOLDER, f'{f_name}.{f_format}')
-    print(f'{get_cur_formatted_time()} Saving plot {path}')
-    plt.savefig(path)
-    plt.clf()
 
 def get_existing_tweets_per_category(only_files_with_text):
     # tweets_ids_to_creation_time = {}
@@ -139,9 +128,9 @@ def final_report_data_generator(only_files_with_text = True):
     write_to_json_file_if_not_empty(list(tweets_ids_not_authorized), os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_ids_not_authorized.json'))
 
 def plot_stances_from_counters(aggregated_df, y_col_name, earliest_date, latest_date, name, ylabel):
-    ax = aggregated_df[aggregated_df["t_stance"] == "other"].plot.scatter(x="Date", y=y_col_name, color='green', label="other")
-    aggregated_df[aggregated_df["t_stance"] == "remain"].plot.scatter(x="Date", y=y_col_name, ax=ax, color='blue', label="remain")
-    aggregated_df[aggregated_df["t_stance"] == "leave"].plot.scatter(x="Date", y=y_col_name, ax=ax, color='red', label="leave")
+    ax = aggregated_df[aggregated_df["t_stance"] == "other"].plot.scatter(x="Date", y=y_col_name, color=OTHER_STANCE_COLOR, label="other")
+    aggregated_df[aggregated_df["t_stance"] == "remain"].plot.scatter(x="Date", y=y_col_name, ax=ax, color=REMAIN_COLOR, label="remain")
+    aggregated_df[aggregated_df["t_stance"] == "leave"].plot.scatter(x="Date", y=y_col_name, ax=ax, color=LEAVE_COLOR, label="leave")
     ax.legend(loc="upper right")
     #Todo - Make the x-axis limits as earliest_date, latest_date (respectively) and not min, max of aggregated_df[""Date"] (respectively)
 

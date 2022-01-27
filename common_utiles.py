@@ -2,13 +2,13 @@ import json
 import math
 import os
 import time
-# from datetime import datetime
 import datetime
 from enum import Enum
 
 import numpy as np
 import requests
 import csv
+import matplotlib.pyplot as plt
 
 BASE_OUT_DIR = "out"
 DATA_FOLDER = "dataverse_files"
@@ -18,6 +18,12 @@ DATE_FORMAT = "%Y-%m-%d" #i.e: "YYYY-MM-DD"
 MAX_IDS_ALLOWED_BY_TWITTER = 100
 RECORDS_PER_FILE = 10 ** 5
 
+PLOTS_DATA_FOLDER = os.path.join("plots", "data_for_plots")
+PLOTS_IMG_FOLDER = os.path.join("plots", "images")
+REMAIN_COLOR = "blue"
+LEAVE_COLOR = "red"
+OTHER_STANCE_COLOR = "green"
+
 SEARCH_URL = "https://api.twitter.com/2/tweets"
 
 
@@ -26,6 +32,12 @@ class Sentiment(Enum):
     REMAIN = 1
     LEAVE = 2
     OTHER = 99
+
+def save_fig(f_name, f_format="png"):
+    path = os.path.join(PLOTS_IMG_FOLDER, f'{f_name}.{f_format}')
+    print(f'{get_cur_formatted_time()} Saving plot {path}')
+    plt.savefig(path)
+    plt.clf()
 
 def get_cur_formatted_time(format = "%Y-%m-%d %H:%M:%S"):
     return datetime.datetime.now().strftime(format)
