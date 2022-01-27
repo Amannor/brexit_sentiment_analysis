@@ -3,12 +3,14 @@ import math
 import os
 import time
 import datetime
+import warnings
 from enum import Enum
 
 import numpy as np
 import requests
 import csv
 import matplotlib.pyplot as plt
+import pandas as pd
 
 BASE_OUT_DIR = "out"
 DATA_FOLDER = "dataverse_files"
@@ -25,13 +27,47 @@ LEAVE_COLOR = "red"
 OTHER_STANCE_COLOR = "green"
 
 SEARCH_URL = "https://api.twitter.com/2/tweets"
-
+BOT_SCORES_DF = None
 
 class Sentiment(Enum):
     NEUTRAL = 0
     REMAIN = 1
     LEAVE = 2
     OTHER = 99
+
+def remove_bots_by_threshold(df, bot_score_threshold):
+    df.set_index("user_id", inplace=True)
+    BOT_SCORES_DF.set_index("user_id", inplace=True)
+
+    df = df.join(BOT_SCORES_DF)
+
+    df.reset_index(inplace=True)
+    BOT_SCORES_DF.reset_index(inplace=True)
+
+    df = df[np.logical_or(df["bot_score"].isin([np.nan]), df["bot_score"] <= bot_score_threshold)]
+    df.drop(columns=["bot_score"], inplace=True)
+    return df
+
+def handle_bots(bot_score_threshold):
+    should_filter_bots = False
+    bot_msg_suffix = ""
+    global BOT_SCORES_DF
+    if not bot_score_threshold is None:
+        if not 0 <= bot_score_threshold <= 1:
+            warnings.warn(f'Bot score should be probability (between 0 and 1) but got {bot_score_threshold} - ignoring it')
+        else:
+            bot_msg_suffix = f" (bot score threshold {bot_score_threshold})"
+            should_filter_bots = True
+            if BOT_SCORES_DF is None:
+                full_fname = os.path.join(DATA_FOLDER, "users_stance_sentiment_botscore_tweetcounts.csv")
+                print(f'{get_cur_formatted_time()} Reading {full_fname}')
+                BOT_SCORES_DF = pd.read_csv(full_fname, sep="~", names=["user_id", "user_sentiment", "user_stance", "bot_score", "bot_fetch_time", "tweets_num"])
+                BOT_SCORES_DF.drop(columns=["user_sentiment", "user_stance", "bot_fetch_time", "tweets_num"], inplace=True)
+                BOT_SCORES_DF = BOT_SCORES_DF[~BOT_SCORES_DF['bot_score'].isin([np.nan])]
+
+    return should_filter_bots, bot_msg_suffix
+
+
 
 def save_fig(f_name, f_format="png"):
     path = os.path.join(PLOTS_IMG_FOLDER, f'{f_name}.{f_format}')

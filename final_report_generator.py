@@ -1,17 +1,11 @@
 import glob
-import warnings
 from collections import Counter
 
-import pandas as pd
 from common_utiles import *
 
 DELTA_TIME_IN_DAYS = 14
 DEF_CSV_HEADER = ('t_id', 'user_id', 't_sentiment', 't_stance', 't_date') #ID~user_id~t_sentiment~t_stance
 CSV_HEADER_INCL_TXT = ('t_id', 'user_id', 't_sentiment', 't_stance', 't_date', 't_text')
-
-
-
-BOT_SCORES_DF = None
 
 def get_existing_tweets_per_category(only_files_with_text):
     # tweets_ids_to_creation_time = {}
@@ -177,22 +171,7 @@ def get_sentiment_aggregated_data(bot_score_threshold=None):
     earliest_date, latest_date = get_min_and_max_dates_and_write_to_file()
 
     aggregated_df = None
-    bot_msg_suffix = ""
-    filter_bots = False
-    global BOT_SCORES_DF
-    if not bot_score_threshold is None:
-        if not 0 <= bot_score_threshold <= 1:
-            warnings.warn(f'Bot score should be probability (between 0 and 1) but got {bot_score_threshold} - ignoring it')
-        else:
-            bot_msg_suffix = f" (bot score threshold {bot_score_threshold})"
-            filter_bots = True
-            if BOT_SCORES_DF is None:
-                full_fname = os.path.join(DATA_FOLDER, "users_stance_sentiment_botscore_tweetcounts.csv")
-                print(f'{get_cur_formatted_time()} Reading {full_fname}')
-                BOT_SCORES_DF = pd.read_csv(full_fname, sep="~", names=["user_id", "user_sentiment", "user_stance", "bot_score", "bot_fetch_time", "tweets_num"])
-                BOT_SCORES_DF.drop(columns=["user_sentiment", "user_stance", "bot_fetch_time", "tweets_num"], inplace=True)
-                BOT_SCORES_DF = BOT_SCORES_DF[~BOT_SCORES_DF['bot_score'].isin([np.nan])]
-
+    should_filter_bots, bot_msg_suffix = handle_bots(bot_score_threshold)
 
     for fname in os.listdir(FINAL_REPORT_DATA_FOLDER):
         if not (fname.startswith(f'tweets_stance_sentiment_incl_date_and_text') and fname.endswith(".csv")):
@@ -200,17 +179,8 @@ def get_sentiment_aggregated_data(bot_score_threshold=None):
         full_fname = os.path.join(FINAL_REPORT_DATA_FOLDER, fname)
         print(f'{get_cur_formatted_time()} Parsing {full_fname}{bot_msg_suffix}')
         df = pd.read_csv(full_fname)
-        if filter_bots:
-            df.set_index("user_id", inplace=True)
-            BOT_SCORES_DF.set_index("user_id", inplace=True)
-
-            df = df.join(BOT_SCORES_DF)
-
-            df.reset_index(inplace=True)
-            BOT_SCORES_DF.reset_index(inplace=True)
-
-            df = df[np.logical_or(df["bot_score"].isin([np.nan]), df["bot_score"] <= bot_score_threshold)]
-            df.drop(columns=["bot_score"], inplace=True)
+        if should_filter_bots:
+            df = remove_bots_by_threshold(df, bot_score_threshold)
 
         df['t_date'] = pd.to_datetime(df['t_date'])
         df['t_date'] = df['t_date'].apply(lambda d: d.replace(tzinfo=None))
