@@ -7,10 +7,12 @@ import matplotlib.patches as mpatches
 from common_utiles import *
 
 BOT_SCORES_DF = None
+TAG_FREQ_PERCANT_CUTOFF = [0.1, 0.25, 0.5, 1, 1.5]
+DEFAULT_FIGSIZE_VALS = (6.4, 4.8) #See https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html
 
-#Source: https://ukandeu.ac.uk/how-remain-and-leave-camps-use-hashtags/ (and a abit from https://hashtagify.me/hashtag/brexit)
+#Source: https://ukandeu.ac.uk/how-remain-and-leave-camps-use-hashtags/ (and a bit from https://hashtagify.me/hashtag/brexit)
 LEAVE_TAGS = ['no2eu','notoeu','betteroffout', 'voteout','eureform', 'britainout', 'leaveeu', 'voteleave', 'beleave', 'loveeuropeleaveeu']
-REMAIN_TAGS = ['yes2eu','yestoeu','betteroffin', 'votein', 'ukineu', 'bremain', 'strongerin','leadnotleave', 'voteremain', 'remain', 'stopbrexit', 'fbpe', 'brexitreality', 'brexitshambles','torybrexitdisaster']
+REMAIN_TAGS = ['yes2eu','yestoeu','betteroffin', 'votein', 'ukineu', 'bremain', 'strongerin','leadnotleave', 'voteremain', 'remain', 'stopbrexit', 'fbpe', 'brexitreality', 'brexitshambles','torybrexitdisaster', 'death2brexit', 'godblesseu']
 #For #fbpe look for example at: https://www.markpack.org.uk/153702/fbpe-what-does-it-mean/
 
 TOKENS_TO_REMOVE = [":", ",", ".", ";", "!", "…"]
@@ -93,10 +95,16 @@ def plot_most_common(counter, n=10, keys_to_ignore=[], title_suffix=""):
     most_common_hashtags = counter.most_common(n)
     x_vals, y_vals = [], []
     colors = []
-    for tag in most_common_hashtags:
+    if n <= 10:
+        plt.figure(figsize=tuple([z * 1.5 for z in DEFAULT_FIGSIZE_VALS]))
+    else:
+        plt.figure(figsize=tuple([z * 2 for z in DEFAULT_FIGSIZE_VALS]))
+    for i, tag in enumerate(most_common_hashtags):
         if not tag[0] in keys_to_ignore:
             x_vals.append(tag[0])
             y_vals.append(tag[1])
+            plt.text(x=i, y=tag[1] + 1, s=f"{tag[1]}", fontdict=dict(fontsize=10), ha='center') #Source: https://stackoverflow.com/a/55866275
+
             if tag[0] in REMAIN_TAGS:
                 colors.append(REMAIN_COLOR)
             elif tag[0] in LEAVE_TAGS:
@@ -114,7 +122,6 @@ def plot_most_common(counter, n=10, keys_to_ignore=[], title_suffix=""):
 
     plt.xticks(rotation=45, ha="right") #Tilt the x ticks lables
     plt.subplots_adjust(bottom=0.25)
-    # plt.show()
     save_fig(f'{n}_most_common_tags{title_suffix.lower().replace(" ", "_").replace("-", "_")}')
 
 
@@ -135,7 +142,16 @@ def analyze_hashtags():
 
     filtered_counter = Counter({t: hashtags_counter[t] for t in set(LEAVE_TAGS).union(set(REMAIN_TAGS))})
     # dict_you_want = {your_key: old_dict[your_key] for your_key in your_keys} #Source: https://stackoverflow.com/a/3420156
-    plot_most_common(filtered_counter, title_suffix=" pure-stance hashtags")
+    plot_most_common(filtered_counter,title_suffix=" pure-stance hashtags")
+    plot_most_common(filtered_counter,n=len(filtered_counter) ,title_suffix=" pure-stance hashtags")
+
+
+    '''
+    TODO:
+     - For each p_cutoff in TAG_FREQ_PERCANT_CUTOFF:
+         - Only look at hashtags that appear at least in  (p_cutoff/100) of all tweets that have a tag
+    
+    '''
 
 
 if __name__ == "__main__":
