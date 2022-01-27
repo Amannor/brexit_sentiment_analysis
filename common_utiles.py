@@ -1,16 +1,16 @@
+import csv
+import datetime
 import json
 import math
 import os
 import time
-import datetime
 import warnings
 from enum import Enum
 
-import numpy as np
-import requests
-import csv
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
+import requests
 
 BASE_OUT_DIR = "out"
 DATA_FOLDER = "dataverse_files"
