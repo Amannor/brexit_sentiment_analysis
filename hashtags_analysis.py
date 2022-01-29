@@ -20,10 +20,10 @@ REMAIN_TAGS = ['yes2eu', 'yestoeu', 'yes2europe', 'yestoeurope', 'betteroffin', 
                'stupidbrexiteers', 'brexitisstupid', 'brexitmeansstupid', 'brexitisabloodystupididea']
 # For #fbpe look for example at: https://www.markpack.org.uk/153702/fbpe-what-does-it-mean/
 
-TOKENS_TO_REMOVE = [":", ",", ".", ";", "!", "…", '\\', '/']
+TOKENS_TO_REMOVE = [":", ",", ".", ";", "!", "…", '\\', '/', '"', "'", '#']
 
 
-def reomve_tokens(s, tokens=TOKENS_TO_REMOVE):
+def remove_tokens(s, tokens=TOKENS_TO_REMOVE):
     for t in tokens:
         s = s.replace(t, "")
     return s
@@ -32,7 +32,7 @@ def reomve_tokens(s, tokens=TOKENS_TO_REMOVE):
 def extract_hash_tags(s):
     # Source: https://stackoverflow.com/a/2527903
     tags = set(part[1:] for part in s.split() if part.startswith('#'))
-    tags = [reomve_tokens(t.lower()) for t in tags]
+    tags = [remove_tokens(t.lower()) for t in tags]
     tags = list(filter(None, tags))  # Remove empty strings
 
     return tags
@@ -176,10 +176,12 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
     hashtags_counter = get_and_write_hashtags_counter()
     hashtags_counter = get_only_specific_keys_from_counter(hashtags_counter, reverse=True)
     max_tweets_per_tag = 200
+    no_pure_stance_tags_key = "no_stance_tags"
+    no_tags_at_all_key = "no_tags_at_all"
+    hashtags_counter[no_pure_stance_tags_key] = int(max_tweets_per_tag/2)
+    hashtags_counter[no_tags_at_all_key] = int(max_tweets_per_tag/2)
     tag_to_tweets = get_exist_tags_to_tweets_or_default(hashtags_counter)
     tag_to_num_tweets_required = {tag: min(hashtags_counter[tag], max_tweets_per_tag) for tag in hashtags_counter}
-
-
 
     for fname in os.listdir(FINAL_REPORT_DATA_FOLDER):
         if all([is_quota_met_for_tag(tag_to_tweets[tag], tag_to_num_tweets_required[tag]) for tag in
@@ -206,10 +208,19 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
                 df.sort_values(by=['hashtags'], inplace=True)
                 hashtags_set = True
 
-            df["is_tag_present"] = df['hashtags'].apply(lambda l: cur_tag in l)
-            df_for_tag = df[df["is_tag_present"]]
+            if cur_tag == no_pure_stance_tags_key:
+                df["is_tag_present"] = df['hashtags'].apply(lambda l: len((set(LEAVE_TAGS).union(set(REMAIN_TAGS))).intersection(set(l))) == 0 and len(l) > 0)
+                df_for_tag = df[df["is_tag_present"]]
+                print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no pure-stance tags')
+            elif cur_tag == no_tags_at_all_key:
+                df["is_tag_present"] = df['hashtags'].apply(lambda l: len((set(LEAVE_TAGS).union(set(REMAIN_TAGS))).intersection(set(l))) == 0 and len(l) == 0)
+                df_for_tag = df[df["is_tag_present"]]
+                print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no tags at all')
+            else:
+                df["is_tag_present"] = df['hashtags'].apply(lambda l: cur_tag in l)
+                df_for_tag = df[df["is_tag_present"]]
+                print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing tag')
 
-            print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing tag')
 
             if len(df_for_tag.index) == 0:
                 continue
