@@ -67,6 +67,11 @@ def handle_bots(bot_score_threshold):
 
     return should_filter_bots, bot_msg_suffix
 
+def df_to_csv_plus_create_dir(df, outdir, file_name):
+    if not os.path.exists(outdir):
+        os.mkdir(outdir)
+    fullname = os.path.join(outdir, file_name)
+    df.to_csv(fullname)
 
 
 def save_fig(f_name, f_format="png"):
