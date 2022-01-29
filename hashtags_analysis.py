@@ -159,18 +159,33 @@ def is_quota_met_for_tag(df, num_tweets_required):
     return (not df is None) and len(df.index) >= num_tweets_required
 
 
+def get_exist_tags_to_tweets_or_default(hashtags_counter):
+    tag_to_tweets = {tag: None for tag in hashtags_counter}
+    existing_counters_count = 0
+    for tag in hashtags_counter:
+        fname = os.path.join(PLOTS_DATA_FOLDER, 'hashtag_tweets', f"hashtag_{tag}_tweets.csv")
+        if os.path.isfile(fname):
+            tag_to_tweets[tag] = pd.read_csv(fname)
+            existing_counters_count += 1
+
+    print(f'{get_cur_formatted_time()} Found existing data for {existing_counters_count}/{len(hashtags_counter)} tags')
+    return tag_to_tweets
+
 def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
     should_filter_bots, bot_msg_suffix = handle_bots(bot_score_threshold)
     hashtags_counter = get_and_write_hashtags_counter()
     hashtags_counter = get_only_specific_keys_from_counter(hashtags_counter, reverse=True)
     max_tweets_per_tag = 200
-    tag_to_tweets = {tag: None for tag in hashtags_counter}
+    tag_to_tweets = get_exist_tags_to_tweets_or_default(hashtags_counter)
     tag_to_num_tweets_required = {tag: min(hashtags_counter[tag], max_tweets_per_tag) for tag in hashtags_counter}
+
+
 
     for fname in os.listdir(FINAL_REPORT_DATA_FOLDER):
         if all([is_quota_met_for_tag(tag_to_tweets[tag], tag_to_num_tweets_required[tag]) for tag in
                 tag_to_num_tweets_required]):
             print(f'{get_cur_formatted_time()} Quotas for all tags met - not checking anymore files')
+            break
         if not (fname.startswith(f'tweets_stance_sentiment_incl_date_and_text') and fname.endswith(".csv")):
             continue
         full_fname = os.path.join(FINAL_REPORT_DATA_FOLDER, fname)
@@ -207,9 +222,9 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
                 tag_to_tweets[cur_tag] = pd.concat([tag_to_tweets[cur_tag], df_for_tag])
 
     quotas_not_met = []
-    for t in tag_to_num_tweets_required:
-        if tag_to_tweets[cur_tag] is None or len(tag_to_tweets[t].index) < tag_to_num_tweets_required[t]:
-            quotas_not_met.append(f'{t}: {0 if tag_to_tweets[cur_tag] is None else len(tag_to_tweets[cur_tag].index)}/{tag_to_num_tweets_required[t]}')
+    for cur_tag in tag_to_num_tweets_required:
+        if tag_to_tweets[cur_tag] is None or len(tag_to_tweets[cur_tag].index) < tag_to_num_tweets_required[cur_tag]:
+            quotas_not_met.append(f'{cur_tag}: {0 if tag_to_tweets[cur_tag] is None else len(tag_to_tweets[cur_tag].index)}/{tag_to_num_tweets_required[cur_tag]}')
 
     if len(quotas_not_met) > 0:
         print(f'Tags not found in enough tweets: {quotas_not_met.join(", ")}')
