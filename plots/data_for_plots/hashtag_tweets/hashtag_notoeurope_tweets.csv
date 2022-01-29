@@ -1,5 +1,5 @@
-,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-555658,724264118316871680,3214158374,negative,other,2016-04-24T15:49:56.000Z,This is the driver for all Obama's and Clinton's comments. TTIP WILL kill the NHS #notoeurope #Brexit https://t.co/sLuPhMLEAE,"['notoeurope', 'brexit']"
-1114147,849164382089162752,449997081,neutral,other,2017-04-04T07:39:00.000Z,"Luke Ryman: Clouds https://t.co/Nj8VTpJ3ww
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,0,0,0,0,0,555658,724264118316871680,3214158374,negative,other,2016-04-24T15:49:56.000Z,This is the driver for all Obama's and Clinton's comments. TTIP WILL kill the NHS #notoeurope #Brexit https://t.co/sLuPhMLEAE,"['notoeurope', 'brexit']"
+1,1,1,1,1,1,1,1,1114147,849164382089162752,449997081,neutral,other,2017-04-04T07:39:00.000Z,"Luke Ryman: Clouds https://t.co/Nj8VTpJ3ww
 At last, the clouds are breaking up...
 #europe #notoeurope #brexit","['europe', 'notoeurope', 'brexit']"
