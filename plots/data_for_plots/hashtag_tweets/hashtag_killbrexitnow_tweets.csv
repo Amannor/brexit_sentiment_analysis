@@ -1,28 +1,22 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,2205786,771728544552644608,297915262,negative,leave,2016-09-02T15:16:37.000Z,"Follow the unfolding farce here:
+,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+2205786,771728544552644608,297915262,negative,leave,2016-09-02T15:16:37.000Z,"Follow the unfolding farce here:
 @DExEUgov 
 #Brexit 
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-1,1,1,1758139,870936593711890432,852389079975165952,negative,other,2017-06-03T09:33:59.000Z,"@AngusRobertson @NicolaSturgeon @NScot Why is @NicolaSturgeon so ineffective and feeble on #Brexit?
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1296494,855886919653261312,297915262,negative,other,2017-04-22T20:51:57.000Z,"The most frightening article I've read recently.
+
+James Meek in the #LRB: https://t.co/OFO57a97JD 
+#Brexit #KillBrexitNow #YouveBeenConned","['brexit', 'lrb', 'youvebeenconned', 'killbrexitnow']"
+1758139,870936593711890432,852389079975165952,negative,other,2017-06-03T09:33:59.000Z,"@AngusRobertson @NicolaSturgeon @NScot Why is @NicolaSturgeon so ineffective and feeble on #Brexit?
 
 What has she actually achieved so far?
 
 #killbrexitnow","['brexit?', 'killbrexitnow']"
-2,2,2,1637265,866916536216412160,852389079975165952,neutral,other,2017-05-23T07:19:43.000Z,"@Arron_banks 
-Theresa May's Article 50 notifcation is unlawful
-https://t.co/741raT49hR
-Unlawful Brexit will end in tears
-#killbrexitnow",['killbrexitnow']
-3,3,3,1191180,852390092127731712,852389079975165952,negative,remain,2017-04-13T05:16:49.000Z,"The ""Kill Brexit Now!"" blog will launch soon.
-Watch out for it.
-#killbrexitnow",['killbrexitnow']
-4,4,4,1728045,870181799082721280,1512644065,negative,other,2017-06-01T07:34:42.000Z,"@grahambsi Theresa May has been ""dim-witted and downright dishonest"" on Brexit
+1726811,870112165608534016,852389079975165952,positive,other,2017-06-01T02:58:00.000Z,"@MarkCasci @adamboultonSKY @georgeeaton The @DailyMailUK has sunk to new lows during this Election campaign.
 
-https://t.co/c13M2omO4o
-
-I expect Brexit to die
-#killbrexitnow",['killbrexitnow']
-5,5,5,1726730,870135225988374528,1512644065,negative,other,2017-06-01T04:29:38.000Z,"Do you have @Nigel_Farage in mind?
+#killbrexitnow
+#britin is great without #brexit","['britin', 'killbrexitnow', 'brexit']"
+1726730,870135225988374528,1512644065,negative,other,2017-06-01T04:29:38.000Z,"Do you have @Nigel_Farage in mind?
 
 #killbrexitnow
 
@@ -31,168 +25,50 @@ Theresa May ""dim-witted and downright dishonest"" on Brexit
 https://t.co/c13M2omO4o
 
 RT https://t.co/wYqwadnyqR",['killbrexitnow']
-6,6,6,1726811,870112165608534016,852389079975165952,positive,other,2017-06-01T02:58:00.000Z,"@MarkCasci @adamboultonSKY @georgeeaton The @DailyMailUK has sunk to new lows during this Election campaign.
+1728045,870181799082721280,1512644065,negative,other,2017-06-01T07:34:42.000Z,"@grahambsi Theresa May has been ""dim-witted and downright dishonest"" on Brexit
 
-#killbrexitnow
-#britin is great without #brexit","['killbrexitnow', 'brexit', 'britin']"
-7,7,7,1647331,867651509248569344,852389079975165952,neutral,other,2017-05-25T08:00:14.000Z,"@nickreeves9876 Four questions the Prime Minister MUST answer
+https://t.co/c13M2omO4o
+
+I expect Brexit to die
+#killbrexitnow",['killbrexitnow']
+1637265,866916536216412160,852389079975165952,neutral,other,2017-05-23T07:19:43.000Z,"@Arron_banks 
+Theresa May's Article 50 notifcation is unlawful
+https://t.co/741raT49hR
+Unlawful Brexit will end in tears
+#killbrexitnow",['killbrexitnow']
+1191180,852390092127731712,852389079975165952,negative,remain,2017-04-13T05:16:49.000Z,"The ""Kill Brexit Now!"" blog will launch soon.
+Watch out for it.
+#killbrexitnow",['killbrexitnow']
+1647331,867651509248569344,852389079975165952,neutral,other,2017-05-25T08:00:14.000Z,"@nickreeves9876 Four questions the Prime Minister MUST answer
 
 https://t.co/wLtE3sAVRZ
 
 IMO #Brexit is dead in the water.
 
 #killbrexitnow
-#britin is great","['killbrexitnow', 'brexit', 'britin']"
-8,8,8,1296494,855886919653261312,297915262,negative,other,2017-04-22T20:51:57.000Z,"The most frightening article I've read recently.
-
-James Meek in the #LRB: https://t.co/OFO57a97JD 
-#Brexit #KillBrexitNow #YouveBeenConned","['killbrexitnow', 'lrb', 'brexit', 'youvebeenconned']"
-9,9,9,1191950,852430129259270144,852389079975165952,neutral,other,2017-04-13T07:55:54.000Z,"@margarance @AngieMeader @WeAreOneEU UK Law already requires at least one Referendum on the Brexit treaty/treaties
+#britin is great","['killbrexitnow', 'britin', 'brexit']"
+1191950,852430129259270144,852389079975165952,neutral,other,2017-04-13T07:55:54.000Z,"@margarance @AngieMeader @WeAreOneEU UK Law already requires at least one Referendum on the Brexit treaty/treaties
 See s2 of the European Union Act 2011
 #killbrexitnow
-#yes2eu","['killbrexitnow', 'yes2eu']"
-10,10,10,1628927,866595643925696512,852389079975165952,negative,other,2017-05-22T10:04:36.000Z,"@ProfMarkElliott I think there is a possibility that Theresa May will have to resign re her dishonesty about #Brexit.
+#yes2eu","['yes2eu', 'killbrexitnow']"
+1628927,866595643925696512,852389079975165952,negative,other,2017-05-22T10:04:36.000Z,"@ProfMarkElliott I think there is a possibility that Theresa May will have to resign re her dishonesty about #Brexit.
 #killbrexitnow
-#yes2eu","['killbrexitnow', 'yes2eu', 'brexit']"
-11,11,11,1451320,929281087959859200,852389079975165952,negative,other,2017-11-11T09:34:11.000Z,"@NicolaSturgeon @LiveEUDebate Why is @theSNP so feeble in opposing #Brexit?
-
-New legal challenge to @theresa_may's #Brexit strategy ...
-
-https://t.co/KKv1aWYJNw
-
-#KillBrexitNow","['brexit?', 'killbrexitnow', 'brexit']"
-12,12,12,835645,907866351406080000,852389079975165952,negative,other,2017-09-13T07:19:40.000Z,"@montie The national interest demands that #Brexit is killed. It will only lead to a #BrexitShambles.
-
-#KillBrexitNow","['brexitshambles', 'killbrexitnow', 'brexit']"
-13,13,13,975196,912503893464055808,852389079975165952,negative,other,2017-09-26T02:27:36.000Z,"@Brexit @BrexitBin Perhaps @Brexit will give some coverage to the ""Kill Brexit Now"" Judicial Review
-
-https://t.co/xyp1tXABt1
-
-#KillBrexitNow
-RT",['killbrexitnow']
-14,14,14,976526,912588724801859584,852389079975165952,negative,other,2017-09-26T08:04:41.000Z,"@apharrington123 
-The ""Kill Brexit Now"" Judicial Review has launched
-https://t.co/xyp1tXABt1
-#KillBrexitNow
-Please RT",['killbrexitnow']
-15,15,15,1449490,929222630170820608,852389079975165952,positive,other,2017-11-11T05:41:53.000Z,"@Brexit_Newz 
-Please be aware of Brexit legal challenge - the Prime Minister has 3 weeks to lodge initial defences.
-
-https://t.co/KKv1aWYJNw
-
-#KillBrexitNow",['killbrexitnow']
-16,16,16,977420,912582403218186240,852389079975165952,negative,remain,2017-09-26T07:39:34.000Z,"@Michael_Heaver @DKShrewsbury @WestmonsterUK It's not going to happen. #Brexit is doomed
+#yes2eu","['yes2eu', 'killbrexitnow', 'brexit']"
+977420,912582403218186240,852389079975165952,negative,remain,2017-09-26T07:39:34.000Z,"@Michael_Heaver @DKShrewsbury @WestmonsterUK It's not going to happen. #Brexit is doomed
 See ""Kill Brexit Now"" Judicial Review 
 https://t.co/xyp1tXABt1
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-17,17,17,1519555,931436003734249472,852389079975165952,positive,other,2017-11-17T08:17:03.000Z,"@BBCNormanS Norman, Why is the BBC silent on the two active legal challenges to #Brexit in the High Court?
-
-https://t.co/smpRxUBZa7
-
-#KillBrexitNow
-
-RT","['killbrexitnow', 'brexit']"
-18,18,18,1451296,929280220716204032,852389079975165952,positive,other,2017-11-11T09:30:44.000Z,"@nickreeves9876 It doesn't remove the legal right to oppose.
-
-@theresa_may facing new legal challenge to #Brexit
-
-https://t.co/KKv1aWYJNw
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-19,19,19,1449235,929178678516506624,852389079975165952,neutral,other,2017-11-11T02:47:14.000Z,"@PaoloBrennan It depends on your understanding of the UK constitution, I think.
-
-An analysis of that is beyond Twitter's character limit. I anticipate that such an analysis will form part of my legal challenge to #Brexit.
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-20,20,20,975801,912532914147086336,852389079975165952,positive,other,2017-09-26T04:22:55.000Z,"@PeteNorth303 @lanieleaf The legal miscalculations underlying #Brexit are to be judicially reviewed
-
-https://t.co/xyp1tXABt1
-
-#KillBrexitNow
-RT","['killbrexitnow', 'brexit']"
-21,21,21,892067,910045544868966400,852389079975165952,neutral,leave,2017-09-19T07:39:00.000Z,"@Anna_Soubry @BBCr4today The UK will continue as a Member State of the European Union on 1st April 2019.
-
-#Brexit is doomed.
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-22,22,22,977409,912581984886587392,852389079975165952,negative,remain,2017-09-26T07:37:54.000Z,"@oflynnmep @EmilyThornberry The ""Kill Brexit Now"" Judicial Review is underway
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+977409,912581984886587392,852389079975165952,negative,remain,2017-09-26T07:37:54.000Z,"@oflynnmep @EmilyThornberry The ""Kill Brexit Now"" Judicial Review is underway
 
 https://t.co/xyp1tXABt1
 
 #Brexit will fail
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-23,23,23,977912,912597071634554880,852389079975165952,neutral,other,2017-09-26T08:37:51.000Z,"@darrengrimes_ Not nearly as complicated as achieving #Brexit
-
-https://t.co/xyp1tXABt1
-
-#Brexit is doomed.
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-24,24,24,1451084,929275049118519296,852389079975165952,neutral,remain,2017-11-11T09:10:11.000Z,"@WomaninHavana It's difficult to identify a leader in the coming constitutional crisis.
-
-BTW the new legal challenge to #Brexit may interest you ...
-
-https://t.co/KKv1aWYJNw
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-25,25,25,1466109,929903864907780096,852389079975165952,positive,other,2017-11-13T02:48:52.000Z,"RT
-Why is James Dyson chosen by the BBC to promote #Brexit to the masses?
-
-He knows a good sucker when he sees one.
-
-#KillBrexitNow
-https://t.co/KKv1aWYJNw","['killbrexitnow', 'brexit']"
-26,26,26,1451063,929274121606828032,852389079975165952,positive,other,2017-11-11T09:06:30.000Z,"@remain_central Agreed. I'm not a Brexiteer. I've begun a legal challenge to the Prime Minister's #Brexit strategy.
-
-https://t.co/KKv1aWYJNw
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-27,27,27,1533946,931907344828690432,852389079975165952,positive,leave,2017-11-18T15:29:59.000Z,"Please RT
-The impression I have is that we already trade with the EU under WTO rules.
-IF #Brexit happens we'll trade with the EU under a different set (less beneficial set) of WTO rules.
-Is this correct?
-Can anyone point me a good article on that notion?
-
-Thanks
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-28,28,28,1533619,931892126945808384,852389079975165952,positive,other,2017-11-18T14:29:31.000Z,"@MatthewGreen02 The two active legal challenges to #Brexit in the High Court will, I think, demonstrate that @Number10gov's #Brexit process is unlawful
-
-https://t.co/smpRxUBZa7
-
-Please RT
-Help to #KillBrexitNow","['killbrexitnow', 'brexit']"
-29,29,29,863434,908917503874695168,852389079975165952,neutral,remain,2017-09-16T04:56:34.000Z,"@BorisJohnson is Britain's Blonde #Brexit Buffoon in @theresa_may's single-party Coalition of Chaos.
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+863434,908917503874695168,852389079975165952,neutral,remain,2017-09-16T04:56:34.000Z,"@BorisJohnson is Britain's Blonde #Brexit Buffoon in @theresa_may's single-party Coalition of Chaos.
 
 #KillBrexitNow 
-@JulieOwenMoylan https://t.co/VV7R63euxw","['killbrexitnow', 'brexit']"
-30,30,30,1451058,929273876453916672,852389079975165952,negative,other,2017-11-11T09:05:31.000Z,"@Hugodixon One of @Number10gov's many problems is the upcoming #Brexit legal challenge. @theresa_may has 3 weeks to lodge intitial defences.
-
-https://t.co/KKv1aWYJNw
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-31,31,31,1495247,930718609021775872,852389079975165952,positive,other,2017-11-15T08:46:22.000Z,"@ajhanlaurence You might be interested to learn that there are TWO active legal challenges to #Brexit
-
-https://t.co/smpRxUBZa7
-
-Please RT and help #KillBrexitNow","['killbrexitnow', 'brexit']"
-32,32,32,1450900,929270122413481984,852389079975165952,neutral,other,2017-11-11T08:50:36.000Z,"@campbellclaret 
-New legal challenge to #Brexit - Prime Minister has 3 weeks to lodge initial defences
-
-https://t.co/KKv1aWYJNw
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-33,33,33,1451309,929280587461996544,852389079975165952,positive,other,2017-11-11T09:32:11.000Z,"@WhatsOnShrews @LiveEUDebate With a little luck the legal challenge to @theresa_may's #Brexit strategy may help to encourage her to recognise that Brexit is doomed and resign.
-
-https://t.co/KKv1aWYJNw
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-34,34,34,902387,910328158452404224,852389079975165952,neutral,leave,2017-09-20T02:22:00.000Z,"@Brexit_Newz Wouldn't it be more accurate to say that @theresa_may's Cabinet resembles a nest of vipers?
-
-#KillBrexitNow
-#Brexit","['killbrexitnow', 'brexit']"
-35,35,35,902394,910328712327032832,852389079975165952,positive,remain,2017-09-20T02:24:12.000Z,"@BBCPolitics It would be useful if @theresa_may was more active in removing #Brexit extremism in her own party.
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-36,36,36,1623658,934660221682749440,852389079975165952,neutral,other,2017-11-26T05:48:56.000Z,"@Aceditor Andrew,
+@JulieOwenMoylan https://t.co/VV7R63euxw","['brexit', 'killbrexitnow']"
+1623658,934660221682749440,852389079975165952,neutral,other,2017-11-26T05:48:56.000Z,"@Aceditor Andrew,
 
 Please see the DExEU responses to my FOI Request of 1st December 2016.
 
@@ -201,502 +77,349 @@ https://t.co/m3WCUyuETU
 DExEU were relying on the Referendum as the supposed Article 50(1) decision in March 2017!
 
 #KillBrexitNow
-#Brexit","['killbrexitnow', 'brexit']"
-37,37,37,975435,912508685942968320,852389079975165952,negative,other,2017-09-26T02:46:38.000Z,"@BrexitCosts A propos of killing #Brexit take a look at the ""Kill Brexit Now"" Judicial Review announcement
+#Brexit","['brexit', 'killbrexitnow']"
+1533619,931892126945808384,852389079975165952,positive,other,2017-11-18T14:29:31.000Z,"@MatthewGreen02 The two active legal challenges to #Brexit in the High Court will, I think, demonstrate that @Number10gov's #Brexit process is unlawful
+
+https://t.co/smpRxUBZa7
+
+Please RT
+Help to #KillBrexitNow","['brexit', 'killbrexitnow']"
+1519555,931436003734249472,852389079975165952,positive,other,2017-11-17T08:17:03.000Z,"@BBCNormanS Norman, Why is the BBC silent on the two active legal challenges to #Brexit in the High Court?
+
+https://t.co/smpRxUBZa7
+
+#KillBrexitNow
+
+RT","['brexit', 'killbrexitnow']"
+977912,912597071634554880,852389079975165952,neutral,other,2017-09-26T08:37:51.000Z,"@darrengrimes_ Not nearly as complicated as achieving #Brexit
+
+https://t.co/xyp1tXABt1
+
+#Brexit is doomed.
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1466109,929903864907780096,852389079975165952,positive,other,2017-11-13T02:48:52.000Z,"RT
+Why is James Dyson chosen by the BBC to promote #Brexit to the masses?
+
+He knows a good sucker when he sees one.
+
+#KillBrexitNow
+https://t.co/KKv1aWYJNw","['brexit', 'killbrexitnow']"
+902387,910328158452404224,852389079975165952,neutral,leave,2017-09-20T02:22:00.000Z,"@Brexit_Newz Wouldn't it be more accurate to say that @theresa_may's Cabinet resembles a nest of vipers?
+
+#KillBrexitNow
+#Brexit","['brexit', 'killbrexitnow']"
+892067,910045544868966400,852389079975165952,neutral,leave,2017-09-19T07:39:00.000Z,"@Anna_Soubry @BBCr4today The UK will continue as a Member State of the European Union on 1st April 2019.
+
+#Brexit is doomed.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1495247,930718609021775872,852389079975165952,positive,other,2017-11-15T08:46:22.000Z,"@ajhanlaurence You might be interested to learn that there are TWO active legal challenges to #Brexit
+
+https://t.co/smpRxUBZa7
+
+Please RT and help #KillBrexitNow","['brexit', 'killbrexitnow']"
+975435,912508685942968320,852389079975165952,negative,other,2017-09-26T02:46:38.000Z,"@BrexitCosts A propos of killing #Brexit take a look at the ""Kill Brexit Now"" Judicial Review announcement
 https://t.co/xyp1tXABt1
 RT
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-38,38,38,573917,896994093582225408,852389079975165952,negative,remain,2017-08-14T07:17:11.000Z,"So you don't like Britain's Blonde Brexit Buffoon then?
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+902394,910328712327032832,852389079975165952,positive,remain,2017-09-20T02:24:12.000Z,"@BBCPolitics It would be useful if @theresa_may was more active in removing #Brexit extremism in her own party.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1451084,929275049118519296,852389079975165952,neutral,remain,2017-11-11T09:10:11.000Z,"@WomaninHavana It's difficult to identify a leader in the coming constitutional crisis.
+
+BTW the new legal challenge to #Brexit may interest you ...
+
+https://t.co/KKv1aWYJNw
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1451058,929273876453916672,852389079975165952,negative,other,2017-11-11T09:05:31.000Z,"@Hugodixon One of @Number10gov's many problems is the upcoming #Brexit legal challenge. @theresa_may has 3 weeks to lodge intitial defences.
+
+https://t.co/KKv1aWYJNw
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1533946,931907344828690432,852389079975165952,positive,leave,2017-11-18T15:29:59.000Z,"Please RT
+The impression I have is that we already trade with the EU under WTO rules.
+IF #Brexit happens we'll trade with the EU under a different set (less beneficial set) of WTO rules.
+Is this correct?
+Can anyone point me a good article on that notion?
+
+Thanks
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1451063,929274121606828032,852389079975165952,positive,other,2017-11-11T09:06:30.000Z,"@remain_central Agreed. I'm not a Brexiteer. I've begun a legal challenge to the Prime Minister's #Brexit strategy.
+
+https://t.co/KKv1aWYJNw
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1449235,929178678516506624,852389079975165952,neutral,other,2017-11-11T02:47:14.000Z,"@PaoloBrennan It depends on your understanding of the UK constitution, I think.
+
+An analysis of that is beyond Twitter's character limit. I anticipate that such an analysis will form part of my legal challenge to #Brexit.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1451296,929280220716204032,852389079975165952,positive,other,2017-11-11T09:30:44.000Z,"@nickreeves9876 It doesn't remove the legal right to oppose.
+
+@theresa_may facing new legal challenge to #Brexit
+
+https://t.co/KKv1aWYJNw
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+975801,912532914147086336,852389079975165952,positive,other,2017-09-26T04:22:55.000Z,"@PeteNorth303 @lanieleaf The legal miscalculations underlying #Brexit are to be judicially reviewed
+
+https://t.co/xyp1tXABt1
+
+#KillBrexitNow
+RT","['brexit', 'killbrexitnow']"
+1450900,929270122413481984,852389079975165952,neutral,other,2017-11-11T08:50:36.000Z,"@campbellclaret 
+New legal challenge to #Brexit - Prime Minister has 3 weeks to lodge initial defences
+
+https://t.co/KKv1aWYJNw
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1451309,929280587461996544,852389079975165952,positive,other,2017-11-11T09:32:11.000Z,"@WhatsOnShrews @LiveEUDebate With a little luck the legal challenge to @theresa_may's #Brexit strategy may help to encourage her to recognise that Brexit is doomed and resign.
+
+https://t.co/KKv1aWYJNw
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1451320,929281087959859200,852389079975165952,negative,other,2017-11-11T09:34:11.000Z,"@NicolaSturgeon @LiveEUDebate Why is @theSNP so feeble in opposing #Brexit?
+
+New legal challenge to @theresa_may's #Brexit strategy ...
+
+https://t.co/KKv1aWYJNw
+
+#KillBrexitNow","['brexit?', 'brexit', 'killbrexitnow']"
+835645,907866351406080000,852389079975165952,negative,other,2017-09-13T07:19:40.000Z,"@montie The national interest demands that #Brexit is killed. It will only lead to a #BrexitShambles.
+
+#KillBrexitNow","['brexitshambles', 'brexit', 'killbrexitnow']"
+975196,912503893464055808,852389079975165952,negative,other,2017-09-26T02:27:36.000Z,"@Brexit @BrexitBin Perhaps @Brexit will give some coverage to the ""Kill Brexit Now"" Judicial Review
+
+https://t.co/xyp1tXABt1
+
+#KillBrexitNow
+RT",['killbrexitnow']
+1449490,929222630170820608,852389079975165952,positive,other,2017-11-11T05:41:53.000Z,"@Brexit_Newz 
+Please be aware of Brexit legal challenge - the Prime Minister has 3 weeks to lodge initial defences.
+
+https://t.co/KKv1aWYJNw
+
+#KillBrexitNow",['killbrexitnow']
+976526,912588724801859584,852389079975165952,negative,other,2017-09-26T08:04:41.000Z,"@apharrington123 
+The ""Kill Brexit Now"" Judicial Review has launched
+https://t.co/xyp1tXABt1
+#KillBrexitNow
+Please RT",['killbrexitnow']
+573917,896994093582225408,852389079975165952,negative,remain,2017-08-14T07:17:11.000Z,"So you don't like Britain's Blonde Brexit Buffoon then?
 
 #yes2eu
-#killbrexitnow https://t.co/9sia3auSKu","['killbrexitnow', 'yes2eu']"
-39,39,39,793393,977469377867116544,852389079975165952,negative,other,2018-03-24T08:57:14.000Z,"@DavidDavisMP @MarrShow #Brexit is doomed because of legal issues you are ignoring.
+#killbrexitnow https://t.co/9sia3auSKu","['yes2eu', 'killbrexitnow']"
+801250,977776357504684032,852389079975165952,negative,other,2018-03-25T05:17:04.000Z,"The #Brexit Broadcasting Corporation has many tricks up its sleeve to play up the #Brexit process and play down the contrary view.
 
-The Brexit fiasco is a huge waste of public money.
+I don't trust the BBC on #Brexit. Nor, I suggest, should anyone else.
 
-#Brexitisdoomed
-#KillBrexitNow","['brexitisdoomed', 'killbrexitnow', 'brexit']"
-40,40,40,782510,977091970131726336,852389079975165952,positive,other,2018-03-23T07:57:33.000Z,"I agree that #Brexitisdoomed 
-
-@theresa_may continues to live in a #Brexit fantasy. The UK's superficial media allows the #Brexit fantasy to continue ... for the moment.
-
-#KillBrexitNow https://t.co/Oa1HAfawE9","['brexitisdoomed', 'killbrexitnow', 'brexit']"
-41,41,41,753595,976006773151813632,852389079975165952,neutral,other,2018-03-20T08:05:22.000Z,"That is the type of question that the supposedly impartial Brexit Broadcasting Corporation doesn't ask.
-
-#KillBrexitNow https://t.co/yX40gTaINl",['killbrexitnow']
-42,42,42,584561,969077656804306944,852389079975165952,neutral,other,2018-03-01T05:11:32.000Z,"Another example of the Brexit Broadcasting Corporation in action!
-
-#KillBrexitNow https://t.co/EDJ6rvC5uc",['killbrexitnow']
-43,43,43,832954,978966927874887680,852389079975165952,negative,other,2018-03-28T12:07:58.000Z,"I expect that @theresa_may will abandon #Brexit
-
-https://t.co/1Gu6dSNaS0
-
-The UK will NOT leave the EU in March 2019.
-
-#KillBrexitNow 
-@BrexitCentral https://t.co/r3iHtLNoaC","['killbrexitnow', 'brexit']"
-44,44,44,756817,976064301470535680,852389079975165952,positive,other,2018-03-20T11:53:58.000Z,"@theresa_may 
-RT
-Court of Session grants permission for Judicial Review re reversibility of #Brexit
-https://t.co/mQuba0rwbq
-Excellent news!
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-45,45,45,822184,978562059087597568,852389079975165952,neutral,other,2018-03-27T09:19:10.000Z,"Full text of Tony Blair's #Brexit speech yesterday
-
-https://t.co/U8ISU62ThA
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-46,46,46,833012,978968784600993792,852389079975165952,negative,other,2018-03-28T12:15:21.000Z,"The bias of the #Brexit Broadcasting Corporation is worrying and will, I anticipate, damage its longterm credibility.
-
-#KillBrexitNow https://t.co/OcYJkrDd85","['killbrexitnow', 'brexit']"
-47,47,47,32165,944119945679572992,852389079975165952,neutral,other,2017-12-22T08:18:30.000Z,"@CloughOlive @ChloeFarand It's a pity Chloe didn't mention that this is the THIRD active legal action against #Brexit.
-
-https://t.co/lb5mBQvRy8
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-48,48,48,756758,976062530736001024,852389079975165952,neutral,other,2018-03-20T11:46:56.000Z,"@ph210147 
-RT
-It appears that @JolyonMaugham's group including @joannaccherry have been given permission for JR re reversibility of #Brexit
-
-https://t.co/L3dkXiTBP2
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-49,49,49,756837,976064591166889984,852389079975165952,positive,other,2018-03-20T11:55:07.000Z,"@davidallengreen 
-RT
-The Court of Session has granted permission for JR re reversibility of #Brexit
-https://t.co/mQuba0rwbq
-Excellent news
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-50,50,50,842060,979265365040656384,852389079975165952,negative,other,2018-03-29T07:53:51.000Z,"It is a disgrace that the public is forced to pay a licence fee to be fed propaganda by the #Brexit Broadcasting Corporation.
-
-#KillBrexitNow 
-@Andrew_Adonis https://t.co/0DPIdXR3XG","['killbrexitnow', 'brexit']"
-51,51,51,756768,976062857346416640,852389079975165952,neutral,other,2018-03-20T11:48:14.000Z,"@joannaccherry 
-Will the full text of the Court of Session's judgement giving permission for JR of reversibility of #Brexit be online?
-
-Do you have a link?
-Thanks
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-52,52,52,738576,975405865045028864,852389079975165952,positive,other,2018-03-18T16:17:35.000Z,"RT
-Britain's Blonde #Brexit Buffoon shows his incapacity to deal seriously with any important issue on Brexit
-
-https://t.co/jUzhV2TGMv
-
-Any Prime Minister who appoints such a buffoon should resign
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-53,53,53,800893,977759898942541824,852389079975165952,positive,leave,2018-03-25T04:11:40.000Z,"Trust in the #Brexit Broadcasting Corporation's much-trumpeted ""impartiality"" is being eroded by its pro-Brexit manipulation.
-
-#KillBrexitNow https://t.co/N6dhaKxH5b","['killbrexitnow', 'brexit']"
-54,54,54,754064,976017116934656000,852389079975165952,negative,other,2018-03-20T08:46:28.000Z,"@A50Challenge 
+#KillBrexitNow https://t.co/XvpL9nclOm","['brexit', 'brexit', 'killbrexitnow']"
+754064,976017116934656000,852389079975165952,negative,other,2018-03-20T08:46:28.000Z,"@A50Challenge 
 Your keeping your #Brexit Claim documents secret won't help you raise funds.
 
 Your Claim will be judged in Court in public.
 
 Potential donors need to see the Claim documents.
 
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-55,55,55,806394,977896798219063296,852389079975165952,neutral,remain,2018-03-25T13:15:39.000Z,"@BorisJohnson #Brexit will cause the UK to LOSE control.
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+842060,979265365040656384,852389079975165952,negative,other,2018-03-29T07:53:51.000Z,"It is a disgrace that the public is forced to pay a licence fee to be fed propaganda by the #Brexit Broadcasting Corporation.
 
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-56,56,56,739082,975417720819896320,852389079975165952,negative,other,2018-03-18T17:04:41.000Z,"Increasingly Jacob Rees-Mogg is showing himself to be no more than a #Brexit obsessive who is prepared to risk the country's future to satisfy his own crazy notions.
-
-#KillBrexitNow
-RT
-@Jacob_Rees_Mogg https://t.co/DqQN2rrB8e","['killbrexitnow', 'brexit']"
-57,57,57,757039,976069078879260672,852389079975165952,positive,other,2018-03-20T12:12:57.000Z,"@jonjonbaldwin @JolyonMaugham Many thanks Jon.
+#KillBrexitNow 
+@Andrew_Adonis https://t.co/0DPIdXR3XG","['brexit', 'killbrexitnow']"
+757039,976069078879260672,852389079975165952,positive,other,2018-03-20T12:12:57.000Z,"@jonjonbaldwin @JolyonMaugham Many thanks Jon.
 
 The CJEU opinion on the question of the reversibility of #Brexit could be a game changer (if it gets referred to the CJEU).
 
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-58,58,58,791683,977408476455501824,852389079975165952,negative,remain,2018-03-24T04:55:14.000Z,"@PaoloBrennan @A50Challenge The @A50Challenge refuse to disclose their Claim documents. 
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+738576,975405865045028864,852389079975165952,positive,other,2018-03-18T16:17:35.000Z,"RT
+Britain's Blonde #Brexit Buffoon shows his incapacity to deal seriously with any important issue on Brexit
+
+https://t.co/jUzhV2TGMv
+
+Any Prime Minister who appoints such a buffoon should resign
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+756837,976064591166889984,852389079975165952,positive,other,2018-03-20T11:55:07.000Z,"@davidallengreen 
+RT
+The Court of Session has granted permission for JR re reversibility of #Brexit
+https://t.co/mQuba0rwbq
+Excellent news
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+756817,976064301470535680,852389079975165952,positive,other,2018-03-20T11:53:58.000Z,"@theresa_may 
+RT
+Court of Session grants permission for Judicial Review re reversibility of #Brexit
+https://t.co/mQuba0rwbq
+Excellent news!
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+32165,944119945679572992,852389079975165952,neutral,other,2017-12-22T08:18:30.000Z,"@CloughOlive @ChloeFarand It's a pity Chloe didn't mention that this is the THIRD active legal action against #Brexit.
+
+https://t.co/lb5mBQvRy8
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+800893,977759898942541824,852389079975165952,positive,leave,2018-03-25T04:11:40.000Z,"Trust in the #Brexit Broadcasting Corporation's much-trumpeted ""impartiality"" is being eroded by its pro-Brexit manipulation.
+
+#KillBrexitNow https://t.co/N6dhaKxH5b","['brexit', 'killbrexitnow']"
+806394,977896798219063296,852389079975165952,neutral,remain,2018-03-25T13:15:39.000Z,"@BorisJohnson #Brexit will cause the UK to LOSE control.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+832954,978966927874887680,852389079975165952,negative,other,2018-03-28T12:07:58.000Z,"I expect that @theresa_may will abandon #Brexit
+
+https://t.co/1Gu6dSNaS0
+
+The UK will NOT leave the EU in March 2019.
+
+#KillBrexitNow 
+@BrexitCentral https://t.co/r3iHtLNoaC","['brexit', 'killbrexitnow']"
+756768,976062857346416640,852389079975165952,neutral,other,2018-03-20T11:48:14.000Z,"@joannaccherry 
+Will the full text of the Court of Session's judgement giving permission for JR of reversibility of #Brexit be online?
+
+Do you have a link?
+Thanks
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+739082,975417720819896320,852389079975165952,negative,other,2018-03-18T17:04:41.000Z,"Increasingly Jacob Rees-Mogg is showing himself to be no more than a #Brexit obsessive who is prepared to risk the country's future to satisfy his own crazy notions.
+
+#KillBrexitNow
+RT
+@Jacob_Rees_Mogg https://t.co/DqQN2rrB8e","['brexit', 'killbrexitnow']"
+756758,976062530736001024,852389079975165952,neutral,other,2018-03-20T11:46:56.000Z,"@ph210147 
+RT
+It appears that @JolyonMaugham's group including @joannaccherry have been given permission for JR re reversibility of #Brexit
+
+https://t.co/L3dkXiTBP2
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+833012,978968784600993792,852389079975165952,negative,other,2018-03-28T12:15:21.000Z,"The bias of the #Brexit Broadcasting Corporation is worrying and will, I anticipate, damage its longterm credibility.
+
+#KillBrexitNow https://t.co/OcYJkrDd85","['brexit', 'killbrexitnow']"
+822184,978562059087597568,852389079975165952,neutral,other,2018-03-27T09:19:10.000Z,"Full text of Tony Blair's #Brexit speech yesterday
+
+https://t.co/U8ISU62ThA
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+791683,977408476455501824,852389079975165952,negative,remain,2018-03-24T04:55:14.000Z,"@PaoloBrennan @A50Challenge The @A50Challenge refuse to disclose their Claim documents. 
 
 Unless you've seen the documents you don't know whether or not the Claim for JR is worth supporting.
 
 The secretive nature of the @A50Challenge risks putting potential supporters off.
 
 #KillBrexitNow 
-#Brexit","['killbrexitnow', 'brexit']"
-59,59,59,801250,977776357504684032,852389079975165952,negative,other,2018-03-25T05:17:04.000Z,"The #Brexit Broadcasting Corporation has many tricks up its sleeve to play up the #Brexit process and play down the contrary view.
+#Brexit","['brexit', 'killbrexitnow']"
+782510,977091970131726336,852389079975165952,positive,other,2018-03-23T07:57:33.000Z,"I agree that #Brexitisdoomed 
 
-I don't trust the BBC on #Brexit. Nor, I suggest, should anyone else.
+@theresa_may continues to live in a #Brexit fantasy. The UK's superficial media allows the #Brexit fantasy to continue ... for the moment.
 
-#KillBrexitNow https://t.co/XvpL9nclOm","['killbrexitnow', 'brexit', 'brexit']"
-60,60,60,902921,1006805255600984064,852389079975165952,negative,other,2018-06-13T07:47:33.000Z,"@thatginamiller 
+#KillBrexitNow https://t.co/Oa1HAfawE9","['brexitisdoomed', 'brexit', 'killbrexitnow']"
+793393,977469377867116544,852389079975165952,negative,other,2018-03-24T08:57:14.000Z,"@DavidDavisMP @MarrShow #Brexit is doomed because of legal issues you are ignoring.
 
-Have you looked at the arguments that the Law already requires a Referendum to ratify any Withdrawal Agreement re #Brexit?
+The Brexit fiasco is a huge waste of public money.
 
-#KillBrexitNow https://t.co/8TWgp4Ll6g","['brexit?', 'killbrexitnow']"
-61,61,61,902922,1006805255600984064,852389079975165952,negative,other,2018-06-13T07:47:33.000Z,"@thatginamiller 
+#Brexitisdoomed
+#KillBrexitNow","['brexitisdoomed', 'brexit', 'killbrexitnow']"
+584561,969077656804306944,852389079975165952,neutral,other,2018-03-01T05:11:32.000Z,"Another example of the Brexit Broadcasting Corporation in action!
 
-Have you looked at the arguments that the Law already requires a Referendum to ratify any Withdrawal Agreement re #Brexit?
+#KillBrexitNow https://t.co/EDJ6rvC5uc",['killbrexitnow']
+753595,976006773151813632,852389079975165952,neutral,other,2018-03-20T08:05:22.000Z,"That is the type of question that the supposedly impartial Brexit Broadcasting Corporation doesn't ask.
 
-#KillBrexitNow https://t.co/8TWgp4Ll6g","['brexit?', 'killbrexitnow']"
-62,62,62,2762461,1025997873228472320,852389079975165952,negative,other,2018-08-05T06:52:09.000Z,"1/
-Please RT ... Does ANYONE have a rationale for the claimed fuel shortages in the event of a ""No Deal"" #Brexit?
+#KillBrexitNow https://t.co/yX40gTaINl",['killbrexitnow']
+706081,1004638956225552384,852389079975165952,negative,remain,2018-06-07T08:19:27.000Z,"@BrunoBrussels @DavidDavisMP has from the beginning failed to properly analyse the complexities of #Brexit.
 
-Email me at killbrexitnow@gmail.com if a reply on Twitter is too short
+His inability and incompetence have contributed to the current #Brexit shambles.
 
-#KillBrexitNow","['brexit?', 'killbrexitnow']"
-63,63,63,2145504,1019489753719279616,852389079975165952,negative,other,2018-07-18T07:51:13.000Z,"@Boeing To what extent is your manufacturing in the UK vulnerable to the adverse effects of a ""No Deal"" #Brexit?
+His shambolic handling of #Brexit will cost the UK taxpayer billions in due course.
+#KillBrexitNow","['brexit', 'brexit', 'killbrexitnow']"
+706082,1004638956225552384,852389079975165952,negative,remain,2018-06-07T08:19:27.000Z,"@BrunoBrussels @DavidDavisMP has from the beginning failed to properly analyse the complexities of #Brexit.
 
-It seems to me that you may have significant problems re your UK manufacturing facilities.
+His inability and incompetence have contributed to the current #Brexit shambles.
 
-#KillBrexitNow","['brexit?', 'killbrexitnow']"
-64,64,64,2145503,1019489753719279616,852389079975165952,negative,other,2018-07-18T07:51:13.000Z,"@Boeing To what extent is your manufacturing in the UK vulnerable to the adverse effects of a ""No Deal"" #Brexit?
+His shambolic handling of #Brexit will cost the UK taxpayer billions in due course.
+#KillBrexitNow","['brexit', 'brexit', 'killbrexitnow']"
+1743062,1016168683759112192,852389079975165952,negative,other,2018-07-09T03:54:28.000Z,"@lewis_goodall The fundamental problem is not the Parliamentary Arithmetic but the absence of a legally and econcomically coherent plan FROM ANYBODY for #Brexit.
 
-It seems to me that you may have significant problems re your UK manufacturing facilities.
+There is a reason for this, I believe ... A sane #Brexit isn't possible.
 
-#KillBrexitNow","['brexit?', 'killbrexitnow']"
-65,65,65,2762462,1025997873228472320,852389079975165952,negative,other,2018-08-05T06:52:09.000Z,"1/
-Please RT ... Does ANYONE have a rationale for the claimed fuel shortages in the event of a ""No Deal"" #Brexit?
+If it is possible who has produced a plan?
+#KillBrexitNow","['brexit', 'brexit', 'killbrexitnow']"
+1743063,1016168683759112192,852389079975165952,negative,other,2018-07-09T03:54:28.000Z,"@lewis_goodall The fundamental problem is not the Parliamentary Arithmetic but the absence of a legally and econcomically coherent plan FROM ANYBODY for #Brexit.
 
-Email me at killbrexitnow@gmail.com if a reply on Twitter is too short
+There is a reason for this, I believe ... A sane #Brexit isn't possible.
 
-#KillBrexitNow","['brexit?', 'killbrexitnow']"
-66,66,66,2763193,1026004397506080768,852389079975165952,neutral,remain,2018-08-05T07:18:05.000Z,"Can I ask you to consider an opposite formulation?
+If it is possible who has produced a plan?
+#KillBrexitNow","['brexit', 'brexit', 'killbrexitnow']"
+1743119,1016172266298671104,852389079975165952,neutral,other,2018-07-09T04:08:42.000Z,"@lewis_goodall 
 
-""#Brexit is a sow's ear from a silk purse situation"".
+As I've said ... #Brexit is the undeliverable peddled by the untrustworthy to the unrealistic 
+
+#KillBrexitNow https://t.co/KlN0nCzkuH","['brexit', 'killbrexitnow']"
+1183475,1010048148071383040,852389079975165952,negative,other,2018-06-22T06:33:38.000Z,"@KimSJ 
+I agree. #Brexit in 2019 is doomed.
+
+Briefing paper to explain why in the next few days.
+
+Since #Brexit is doomed @theresa_may should #KillBrexitNow https://t.co/TKhzEr4s0C","['brexit', 'killbrexitnow']"
+730386,1004936260190965760,852389079975165952,positive,other,2018-06-08T04:00:49.000Z,"#Brexit in 2019 is already doomed.
+
+A change in the editorship of one newspaper is important but not decisive.
+
+#KillBrexitNow https://t.co/FRuxqyzHNG","['brexit', 'killbrexitnow']"
+1546986,1014000395511914496,852389079975165952,negative,remain,2018-07-03T04:18:28.000Z,"@ph210147 It is difficult to overstate the stupidity and incompetence of @theresa_may in asking so late in the #Brexit process for a financial analysis of Brexit options.
+
+IMO @theresa_may will be remembered as the UK's worst ever Prime Minister.
+
+RT if you agree
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+2189023,1019835318042755072,852389079975165952,neutral,other,2018-07-19T06:44:22.000Z,"The Liaison Committee was, in common with House of Commons Select Committees, inadequately briefed and excessively deferential.
+
+Unlike US Senate Committees the UK Select Committees do not adequately hold the PM and her Ministers to account.
+#Brexit 
+#KillBrexitNow 
+@ann1erich https://t.co/th5IIPmtOV","['brexit', 'killbrexitnow']"
+786314,1005708557369700352,852389079975165952,neutral,other,2018-06-10T07:09:39.000Z,"@theresa_may's Cabinet lock-in is pointless.
+
+#Brexit in 2019 is doomed.
+
+#KillBrexitNow and put us all out of our Brexit misery.
+@brexit @apharrington123 https://t.co/XtdfOKCRtj","['brexit', 'killbrexitnow']"
+786315,1005708557369700352,852389079975165952,neutral,other,2018-06-10T07:09:39.000Z,"@theresa_may's Cabinet lock-in is pointless.
+
+#Brexit in 2019 is doomed.
+
+#KillBrexitNow and put us all out of our Brexit misery.
+@brexit @apharrington123 https://t.co/XtdfOKCRtj","['brexit', 'killbrexitnow']"
+858745,1006457153249570816,852389079975165952,positive,other,2018-06-12T08:44:19.000Z,"Why does the #Brexit Broadcasting Corporation allow @DavidDavisMP to lie so blatantly? (Assuming you accurately report his remarks)
+
+#KillBrexitNow https://t.co/j56zjiMz26","['brexit', 'killbrexitnow']"
+2000549,1018395433989701632,852389079975165952,negative,leave,2018-07-15T07:22:46.000Z,"@CyberUKIPper 
+There is no way to save #Brexit.
+
+Brexit (in 2019) is doomed, but has yet to be killed off.
+
+#KillBrexitNow https://t.co/ljn0CyUwhk","['brexit', 'killbrexitnow']"
+735270,1004989439641292800,852389079975165952,positive,remain,2018-06-08T07:32:08.000Z,"@jeremycorbyn has subtly promoted #Brexit and/or undermined Remain both before and after the Referendum.
+
+IMO anyone who trusts the integrity of Corbyn on #Brexit is deeply misguided.
+
+Hitherto Corbyn's two-faced approach has served him well.
 
 #KillBrexitNow
-@clfinnecy https://t.co/oFT4RXw4NI",['killbrexitnow']
-67,67,67,1024622,1008256984209088512,852389079975165952,positive,remain,2018-06-17T07:56:12.000Z,"@PippaCrerar Sit on the fence, who don't you?
+@JamesMelville https://t.co/mwT3GTURRU","['brexit', 'killbrexitnow']"
+1743118,1016172266298671104,852389079975165952,neutral,other,2018-07-09T04:08:42.000Z,"@lewis_goodall 
 
-The ""Brexit Dividend"" is another lie from @theresa_may 
+As I've said ... #Brexit is the undeliverable peddled by the untrustworthy to the unrealistic 
 
-Remember her blatant ""Nothing has changed"" straight to camera about the social care U-turn?
+#KillBrexitNow https://t.co/KlN0nCzkuH","['brexit', 'killbrexitnow']"
+2720855,1025338342970466304,852389079975165952,negative,other,2018-08-03T11:11:25.000Z,"@jonlis1 @steverichards14 Jonathan,
 
-#KillBrexitNow https://t.co/0A2wOioq4O",['killbrexitnow']
-68,68,68,1547008,1014001525562265600,852389079975165952,negative,other,2018-07-03T04:22:57.000Z,"I disagree.
+The big difference is that in #Brexit the bullet (according to Lord Pannick in Miller) has already been fired.
 
-The choice that is coming is between the UK remaining in the EU after 29th March 2019 or crashing out with a Type 2 ""No Deal"" Brexit and causing a National Emergency.
+The question is how to stop it.
 
-IMO the ""soft Brexit"" options are not legally possible.
-#KillBrexitNow https://t.co/EBcxRPqmZb",['killbrexitnow']
-69,69,69,1024623,1008256984209088512,852389079975165952,positive,remain,2018-06-17T07:56:12.000Z,"@PippaCrerar Sit on the fence, who don't you?
+There are two possibilities:
+1. @theresa_may cancels #Brexit
+2. A Court rules it unlawful
 
-The ""Brexit Dividend"" is another lie from @theresa_may 
-
-Remember her blatant ""Nothing has changed"" straight to camera about the social care U-turn?
-
-#KillBrexitNow https://t.co/0A2wOioq4O",['killbrexitnow']
-70,70,70,2763194,1026004397506080768,852389079975165952,neutral,remain,2018-08-05T07:18:05.000Z,"Can I ask you to consider an opposite formulation?
-
-""#Brexit is a sow's ear from a silk purse situation"".
-
-#KillBrexitNow
-@clfinnecy https://t.co/oFT4RXw4NI",['killbrexitnow']
-71,71,71,1370370,1011804871945785344,852389079975165952,negative,other,2018-06-27T02:54:14.000Z,"@JMPSimor IMO a Type 2 ""No Deal"" Brexit is inevitable. 
-
-You're right, there will be no ""transition period"".
-
-It's one reason I believe Brexit (in 2019) is doomed.
-
-Email me at killbrexitnow@gmail.com and I can explain why a ""No Deal"" Brexit in March 2019 is unavoidable.
-
-#KillBrexitNow",['killbrexitnow']
-72,72,72,1403928,1012183859834867712,852389079975165952,negative,other,2018-06-28T04:00:12.000Z,"@jonlis1 @lanieleaf The UK and EU27 are on course to a No Deal Brexit on 30th March 2019.
-
-Email me at killbrexitnow@gmail.com for a copy of the analysis that leads to that conclusion.
-
-I agree that aviation will suffer severe disruption from 30th March 2019.
-
-#KillBrexitNow",['killbrexitnow']
-73,73,73,1370369,1011804871945785344,852389079975165952,negative,other,2018-06-27T02:54:14.000Z,"@JMPSimor IMO a Type 2 ""No Deal"" Brexit is inevitable. 
-
-You're right, there will be no ""transition period"".
-
-It's one reason I believe Brexit (in 2019) is doomed.
-
-Email me at killbrexitnow@gmail.com and I can explain why a ""No Deal"" Brexit in March 2019 is unavoidable.
-
-#KillBrexitNow",['killbrexitnow']
-74,74,74,1172094,1009831573326319616,852389079975165952,positive,other,2018-06-21T16:13:03.000Z,"@LilFrank @JohnRentoul @JGForsyth Nice soundbite.
-
-Brexit wrecks it.
-
-I like it ... not least because it will prove to be true.
-
-#KillBrexitNow",['killbrexitnow']
-75,75,75,1547007,1014001525562265600,852389079975165952,negative,other,2018-07-03T04:22:57.000Z,"I disagree.
-
-The choice that is coming is between the UK remaining in the EU after 29th March 2019 or crashing out with a Type 2 ""No Deal"" Brexit and causing a National Emergency.
-
-IMO the ""soft Brexit"" options are not legally possible.
-#KillBrexitNow https://t.co/EBcxRPqmZb",['killbrexitnow']
-76,76,76,730372,1004936037146218496,852389079975165952,negative,other,2018-06-08T03:59:56.000Z,"@apharrington123 @A50Challenge Shindler has been ""at it"" since before the June 2016 Referendum.
-
-His case was turned down by Brexit-biased UK judges.
-
-The franchise for the Referendum was unlawful and the judges failed to acknowledge that.
-
-#KillBrexitNow",['killbrexitnow']
-77,77,77,1409134,1012244264439382016,852389079975165952,negative,other,2018-06-28T08:00:13.000Z,"RT
-@jonlis1 
-Briefing Paper ""Brexit (in 2019) is doomed""
-Available on request by emailing killbrexitnow@gmail.com
-
-Brexit is doomed but still has to be killed off.
-#KillBrexitNow",['killbrexitnow']
-78,78,78,1403927,1012183859834867712,852389079975165952,negative,other,2018-06-28T04:00:12.000Z,"@jonlis1 @lanieleaf The UK and EU27 are on course to a No Deal Brexit on 30th March 2019.
-
-Email me at killbrexitnow@gmail.com for a copy of the analysis that leads to that conclusion.
-
-I agree that aviation will suffer severe disruption from 30th March 2019.
-
-#KillBrexitNow",['killbrexitnow']
-79,79,79,1172095,1009831573326319616,852389079975165952,positive,other,2018-06-21T16:13:03.000Z,"@LilFrank @JohnRentoul @JGForsyth Nice soundbite.
-
-Brexit wrecks it.
-
-I like it ... not least because it will prove to be true.
-
-#KillBrexitNow",['killbrexitnow']
-80,80,80,1026180,1008264751120572416,852389079975165952,positive,other,2018-06-17T08:27:03.000Z,"@NickBoles @steve_hawkes @theresa_may Mr. Boles,
-
-Will you take this opportunity to correct @theresa_may's lies about the fictitious ""Brexit Dividend""?
-
-#KillBrexitNow",['killbrexitnow']
-81,81,81,1033664,1008296480824856576,852389079975165952,negative,remain,2018-06-17T10:33:08.000Z,"Surely @theresa_may's blatant lie about the fictitious ""Brexit Dividend"" makes such a possibility more likely.
-
-Is @theresa_may so politically inept that she couldn't anticipate that?
-
-@steve_hawkes 
-#KillBrexitNow https://t.co/nEQXm8GWSI",['killbrexitnow']
-82,82,82,1033663,1008296480824856576,852389079975165952,negative,remain,2018-06-17T10:33:08.000Z,"Surely @theresa_may's blatant lie about the fictitious ""Brexit Dividend"" makes such a possibility more likely.
-
-Is @theresa_may so politically inept that she couldn't anticipate that?
-
-@steve_hawkes 
-#KillBrexitNow https://t.co/nEQXm8GWSI",['killbrexitnow']
-83,83,83,730371,1004936037146218496,852389079975165952,negative,other,2018-06-08T03:59:56.000Z,"@apharrington123 @A50Challenge Shindler has been ""at it"" since before the June 2016 Referendum.
-
-His case was turned down by Brexit-biased UK judges.
-
-The franchise for the Referendum was unlawful and the judges failed to acknowledge that.
-
-#KillBrexitNow",['killbrexitnow']
-84,84,84,1409135,1012244264439382016,852389079975165952,negative,other,2018-06-28T08:00:13.000Z,"RT
-@jonlis1 
-Briefing Paper ""Brexit (in 2019) is doomed""
-Available on request by emailing killbrexitnow@gmail.com
-
-Brexit is doomed but still has to be killed off.
-#KillBrexitNow",['killbrexitnow']
-85,85,85,1024068,1008253684986281984,852389079975165952,positive,remain,2018-06-17T07:43:05.000Z,"Why don't you and @SkyNews call it what it is?
-
-The claim of a ""Brexit Dividend"" by @theresa_may is a blatant lie.
-
-Remember ""Nothing has changed"" re social care at GE2017?
-
-@theresa_may is a serial liar.
-
-@BethRigby 
-#KillBrexitNow https://t.co/YXYRf8Zo82",['killbrexitnow']
-86,86,86,962561,1007280501684604928,852389079975165952,neutral,other,2018-06-14T15:16:00.000Z,"Iain Duncan Smith has admirable enthusiasm for demonstrating how little he understands about TSB Brexit
-
-TSB Brexit = Theresa's Spectacularly Botched Brexit
-
-#KillBrexitNow
-@BrexitCentral https://t.co/JoucxTibto",['killbrexitnow']
-87,87,87,2186262,1019803913640402944,852389079975165952,negative,other,2018-07-19T04:39:34.000Z,"2/
-RT
-A ""No Deal"" Brexit is a National Emergency
-See e.g.
-https://t.co/oXID8pQGTB
-
-@theresa_may must avoid or postpone that National Emergency.
-#KillBrexitNow",['killbrexitnow']
-88,88,88,735127,1004988586716954624,852389079975165952,negative,other,2018-06-08T07:28:45.000Z,"Is it unworthy of me to interpret the ""leak"" of @BorisJohnson's remarks as engineered by Boris himself in order to attack @theresa_may in a deniable way?
-
-No underhand tactic is beyond Britain's Blonde Brexit Buffoon IMO.
-
-#KillBrexitNow
-@BethRigby https://t.co/NHewQ3fJd4",['killbrexitnow']
-89,89,89,735128,1004988586716954624,852389079975165952,negative,other,2018-06-08T07:28:45.000Z,"Is it unworthy of me to interpret the ""leak"" of @BorisJohnson's remarks as engineered by Boris himself in order to attack @theresa_may in a deniable way?
-
-No underhand tactic is beyond Britain's Blonde Brexit Buffoon IMO.
-
-#KillBrexitNow
-@BethRigby https://t.co/NHewQ3fJd4",['killbrexitnow']
-90,90,90,2186263,1019803913640402944,852389079975165952,negative,other,2018-07-19T04:39:34.000Z,"2/
-RT
-A ""No Deal"" Brexit is a National Emergency
-See e.g.
-https://t.co/oXID8pQGTB
-
-@theresa_may must avoid or postpone that National Emergency.
-#KillBrexitNow",['killbrexitnow']
-91,91,91,1026181,1008264751120572416,852389079975165952,positive,other,2018-06-17T08:27:03.000Z,"@NickBoles @steve_hawkes @theresa_may Mr. Boles,
-
-Will you take this opportunity to correct @theresa_may's lies about the fictitious ""Brexit Dividend""?
-
-#KillBrexitNow",['killbrexitnow']
-92,92,92,1024069,1008253684986281984,852389079975165952,positive,remain,2018-06-17T07:43:05.000Z,"Why don't you and @SkyNews call it what it is?
-
-The claim of a ""Brexit Dividend"" by @theresa_may is a blatant lie.
-
-Remember ""Nothing has changed"" re social care at GE2017?
-
-@theresa_may is a serial liar.
-
-@BethRigby 
-#KillBrexitNow https://t.co/YXYRf8Zo82",['killbrexitnow']
-93,93,93,962560,1007280501684604928,852389079975165952,neutral,other,2018-06-14T15:16:00.000Z,"Iain Duncan Smith has admirable enthusiasm for demonstrating how little he understands about TSB Brexit
-
-TSB Brexit = Theresa's Spectacularly Botched Brexit
-
-#KillBrexitNow
-@BrexitCentral https://t.co/JoucxTibto",['killbrexitnow']
-94,94,94,2235089,1020520037168410624,852389079975165952,negative,other,2018-07-21T04:05:11.000Z,"IMO a ""No Deal"" #Brexit will be a National Emergency
-
-https://t.co/oXID8pQGTB
-
-#KillBrexitNow https://t.co/Bkehmy75CV","['killbrexitnow', 'brexit']"
-95,95,95,905770,1006823712606375936,852389079975165952,positive,leave,2018-06-13T09:00:53.000Z,"@sjwrenlewis 
-
-Your postscript is excessively pessimistic.
-
-I believe I have good reasons to believe that #Brexit in 2019 is doomed.
-
-But Twitter is not the forum to attempt to expound those reasons.
-
-#KillBrexitNow https://t.co/W1xhIFV7oh","['killbrexitnow', 'brexit']"
-96,96,96,1199127,1010117651631345664,852389079975165952,negative,remain,2018-06-22T11:09:49.000Z,"@Anna_Soubry 
-There is no ""sensible Brexit for Business"".
-
-#Brexit will be a disaster for the public finances and for business and for thousands who will lose their jobs.
-
-Brexit in 2019 is doomed and @theresa_may should #KillBrexitNow https://t.co/GhjF5LljiQ","['killbrexitnow', 'brexit']"
-97,97,97,2862043,1027394804672593920,852389079975165952,negative,other,2018-08-09T03:23:04.000Z,"@AdamPosen @nicolas_veron @JohnSpringford @anandMenon1 @UKandEU 3/
-Given that a ""No Deal"" #Brexit is a National Emergency
-
-https://t.co/ItNbZFZOlg
-
-the situation for the UK is potentially very grave indeed.
-
-That's an important reason why I believe that we need to 
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-98,98,98,2862042,1027394804672593920,852389079975165952,negative,other,2018-08-09T03:23:04.000Z,"@AdamPosen @nicolas_veron @JohnSpringford @anandMenon1 @UKandEU 3/
-Given that a ""No Deal"" #Brexit is a National Emergency
-
-https://t.co/ItNbZFZOlg
-
-the situation for the UK is potentially very grave indeed.
-
-That's an important reason why I believe that we need to 
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-99,99,99,901490,1006794959134052352,852389079975165952,negative,other,2018-06-13T07:06:38.000Z,"Even the #Brexit Broadcasting Corporation couldn't be seen to ignore this.
-
-#KillBrexitNow https://t.co/UyzYpoIOQd","['killbrexitnow', 'brexit']"
-100,100,100,1004548,1007931541912276992,852389079975165952,negative,leave,2018-06-16T10:23:00.000Z,"A year ago TSB #Brexit (Theresa's Spectacularly Botched Brexit) wasn't so obviously being messed up.
-
-Grieve may not WANT to tie her hands. 
-
-@theresa_may's demonstrated incompetence means her hands NEED to be tied.
-
-#KillBrexitNow
-@BrexitCentral https://t.co/uf7hvhRHZD","['killbrexitnow', 'brexit']"
-101,101,101,901489,1006794959134052352,852389079975165952,negative,other,2018-06-13T07:06:38.000Z,"Even the #Brexit Broadcasting Corporation couldn't be seen to ignore this.
-
-#KillBrexitNow https://t.co/UyzYpoIOQd","['killbrexitnow', 'brexit']"
-102,102,102,1004547,1007931541912276992,852389079975165952,negative,leave,2018-06-16T10:23:00.000Z,"A year ago TSB #Brexit (Theresa's Spectacularly Botched Brexit) wasn't so obviously being messed up.
-
-Grieve may not WANT to tie her hands. 
-
-@theresa_may's demonstrated incompetence means her hands NEED to be tied.
-
-#KillBrexitNow
-@BrexitCentral https://t.co/uf7hvhRHZD","['killbrexitnow', 'brexit']"
-103,103,103,2750457,1025733659960242176,852389079975165952,negative,other,2018-08-04T13:22:16.000Z,"@Cardwell_PJ By chance I've found out that @dkshrewsbury has blocked me.
-
-VERY odd since I don't recall tweeting him at any time but presumably he doesn't like the #KillBrexitNow approach.
-
-Could somebody retweet the offending recent post of @dkshrewsbury please?
-
-#Brexit","['killbrexitnow', 'brexit']"
-104,104,104,2750458,1025733659960242176,852389079975165952,negative,other,2018-08-04T13:22:16.000Z,"@Cardwell_PJ By chance I've found out that @dkshrewsbury has blocked me.
-
-VERY odd since I don't recall tweeting him at any time but presumably he doesn't like the #KillBrexitNow approach.
-
-Could somebody retweet the offending recent post of @dkshrewsbury please?
-
-#Brexit","['killbrexitnow', 'brexit']"
-105,105,105,1199128,1010117651631345664,852389079975165952,negative,remain,2018-06-22T11:09:49.000Z,"@Anna_Soubry 
-There is no ""sensible Brexit for Business"".
-
-#Brexit will be a disaster for the public finances and for business and for thousands who will lose their jobs.
-
-Brexit in 2019 is doomed and @theresa_may should #KillBrexitNow https://t.co/GhjF5LljiQ","['killbrexitnow', 'brexit']"
-106,106,106,1024712,1008257467761987584,852389079975165952,neutral,leave,2018-06-17T07:58:07.000Z,"@WikiGuido Don't you think it shows the desperation of @theresa_may that she has to rely on a transparent lie?
-
-Maybe, finally, it is dawning on her that #Brexit in 2019 is doomed?
-
-Better, of course, to #KillBrexitNow https://t.co/T6GElRs4O3","['killbrexitnow', 'brexit']"
-107,107,107,1942077,1017709533748252672,852389079975165952,neutral,leave,2018-07-13T09:57:15.000Z,"@PeterKGeoghegan 
-
-You shouldn't expect any impartiality from @r4Today. It's part of the #Brexit Broadcasting Corporation.
-
-I remember the time ... which seems a very long time ago ... when I felt the BBC had at least a semblance of impartiality.
-
-#KillBrexitNow https://t.co/qgCjri0MU7","['killbrexitnow', 'brexit']"
-108,108,108,1942076,1017709533748252672,852389079975165952,neutral,leave,2018-07-13T09:57:15.000Z,"@PeterKGeoghegan 
-
-You shouldn't expect any impartiality from @r4Today. It's part of the #Brexit Broadcasting Corporation.
-
-I remember the time ... which seems a very long time ago ... when I felt the BBC had at least a semblance of impartiality.
-
-#KillBrexitNow https://t.co/qgCjri0MU7","['killbrexitnow', 'brexit']"
-109,109,109,694488,1004380236786667520,852389079975165952,positive,other,2018-06-06T15:11:23.000Z,"@jeremycorbyn has a skillset to manage #Brexit that matches Northern Trains ability to reorganise a railway timetable.
-
-#KillBrexitNow https://t.co/ozBv1h9QFx","['killbrexitnow', 'brexit']"
-110,110,110,1927527,1017579443349590016,852389079975165952,negative,other,2018-07-13T01:20:19.000Z,"@DavidHenigUK ... The TSB negotiation manual ... Theresa's Spectacularly Botched #Brexit
-
-The White Paper is dead in the water.
-
-#KillBrexitNow https://t.co/9axZ2mT2Un","['killbrexitnow', 'brexit']"
-111,111,111,1927528,1017579443349590016,852389079975165952,negative,other,2018-07-13T01:20:19.000Z,"@DavidHenigUK ... The TSB negotiation manual ... Theresa's Spectacularly Botched #Brexit
-
-The White Paper is dead in the water.
-
-#KillBrexitNow https://t.co/9axZ2mT2Un","['killbrexitnow', 'brexit']"
-112,112,112,601599,1002844672488886272,852389079975165952,negative,other,2018-06-02T09:29:36.000Z,"In July 2016 @theresa_may said that ""Brexit means Brexit"".
-
-Two years later she still hasn't a clue how to make a lawful #Brexit happen.
-
-Trump is a recognised liar. People need to see Theresa in a similar light IMO.
-
-#KillBrexitNow https://t.co/nRElOav3aJ","['killbrexitnow', 'brexit']"
-113,113,113,601598,1002844672488886272,852389079975165952,negative,other,2018-06-02T09:29:36.000Z,"In July 2016 @theresa_may said that ""Brexit means Brexit"".
-
-Two years later she still hasn't a clue how to make a lawful #Brexit happen.
-
-Trump is a recognised liar. People need to see Theresa in a similar light IMO.
-
-#KillBrexitNow https://t.co/nRElOav3aJ","['killbrexitnow', 'brexit']"
-114,114,114,2235090,1020520037168410624,852389079975165952,negative,other,2018-07-21T04:05:11.000Z,"IMO a ""No Deal"" #Brexit will be a National Emergency
-
-https://t.co/oXID8pQGTB
-
-#KillBrexitNow https://t.co/Bkehmy75CV","['killbrexitnow', 'brexit']"
-115,115,115,694489,1004380236786667520,852389079975165952,positive,other,2018-06-06T15:11:23.000Z,"@jeremycorbyn has a skillset to manage #Brexit that matches Northern Trains ability to reorganise a railway timetable.
-
-#KillBrexitNow https://t.co/ozBv1h9QFx","['killbrexitnow', 'brexit']"
-116,116,116,1024713,1008257467761987584,852389079975165952,neutral,leave,2018-06-17T07:58:07.000Z,"@WikiGuido Don't you think it shows the desperation of @theresa_may that she has to rely on a transparent lie?
-
-Maybe, finally, it is dawning on her that #Brexit in 2019 is doomed?
-
-Better, of course, to #KillBrexitNow https://t.co/T6GElRs4O3","['killbrexitnow', 'brexit']"
-117,117,117,905769,1006823712606375936,852389079975165952,positive,leave,2018-06-13T09:00:53.000Z,"@sjwrenlewis 
-
-Your postscript is excessively pessimistic.
-
-I believe I have good reasons to believe that #Brexit in 2019 is doomed.
-
-But Twitter is not the forum to attempt to expound those reasons.
-
-#KillBrexitNow https://t.co/W1xhIFV7oh","['killbrexitnow', 'brexit']"
-118,118,118,1374035,1011869237240057856,852389079975165952,negative,remain,2018-06-27T07:10:00.000Z,"@jacquep 
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1374035,1011869237240057856,852389079975165952,negative,remain,2018-06-27T07:10:00.000Z,"@jacquep 
 
 I believe you're wrong.
 
@@ -704,220 +427,491 @@ Brexit won't happen on 29th/30th March 2019.
 
 #Brexit in 2019 is doomed.
 
-@theresa_may should #KillBrexitNow and put it out of its misery. https://t.co/I8qAYw1yXp","['killbrexitnow', 'brexit']"
-119,119,119,2606891,1024148103652364288,852389079975165952,positive,remain,2018-07-31T04:21:50.000Z,"@BEERG Re your 6th point you may be interested in my #Brexit Briefing Paper entitled ""Brexit (in 2019) is doomed"".
+@theresa_may should #KillBrexitNow and put it out of its misery. https://t.co/I8qAYw1yXp","['brexit', 'killbrexitnow']"
+1942077,1017709533748252672,852389079975165952,neutral,leave,2018-07-13T09:57:15.000Z,"@PeterKGeoghegan 
 
-Email me at killbrexitnow@gmail.com if you'd like a copy.
+You shouldn't expect any impartiality from @r4Today. It's part of the #Brexit Broadcasting Corporation.
 
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-120,120,120,735646,1004991500424568832,852389079975165952,negative,remain,2018-06-08T07:40:20.000Z,"@lisaocarroll 
+I remember the time ... which seems a very long time ago ... when I felt the BBC had at least a semblance of impartiality.
 
-Is there no end to the self-centred stupidty of Britain's Blonde #Brexit Buffoon?
+#KillBrexitNow https://t.co/qgCjri0MU7","['brexit', 'killbrexitnow']"
+708280,1004660902430375936,852389079975165952,negative,other,2018-06-07T09:46:39.000Z,"Does it matter if one incompetent Minister who favours #Brexit is replaced by another comparably incompetent Minister?
 
-#KillBrexitNow https://t.co/F7GeYDMuyx","['killbrexitnow', 'brexit']"
-121,121,121,735645,1004991500424568832,852389079975165952,negative,remain,2018-06-08T07:40:20.000Z,"@lisaocarroll 
+I suggest not.
 
-Is there no end to the self-centred stupidty of Britain's Blonde #Brexit Buffoon?
+#KillBrexitNow https://t.co/hFXwzhNGLL","['brexit', 'killbrexitnow']"
+730385,1004936260190965760,852389079975165952,positive,other,2018-06-08T04:00:49.000Z,"#Brexit in 2019 is already doomed.
 
-#KillBrexitNow https://t.co/F7GeYDMuyx","['killbrexitnow', 'brexit']"
-122,122,122,944313,1007156046819987456,852389079975165952,negative,other,2018-06-14T07:01:28.000Z,"The @DailyMailUK being silly and sinister on a topic relating to #Brexit!
+A change in the editorship of one newspaper is important but not decisive.
 
-Who would have thought such a thing to be possible?
+#KillBrexitNow https://t.co/FRuxqyzHNG","['brexit', 'killbrexitnow']"
+2189024,1019835318042755072,852389079975165952,neutral,other,2018-07-19T06:44:22.000Z,"The Liaison Committee was, in common with House of Commons Select Committees, inadequately briefed and excessively deferential.
 
-#KillBrexitNow https://t.co/NJjoWFNibd","['killbrexitnow', 'brexit']"
-123,123,123,944314,1007156046819987456,852389079975165952,negative,other,2018-06-14T07:01:28.000Z,"The @DailyMailUK being silly and sinister on a topic relating to #Brexit!
+Unlike US Senate Committees the UK Select Committees do not adequately hold the PM and her Ministers to account.
+#Brexit 
+#KillBrexitNow 
+@ann1erich https://t.co/th5IIPmtOV","['brexit', 'killbrexitnow']"
+1183474,1010048148071383040,852389079975165952,negative,other,2018-06-22T06:33:38.000Z,"@KimSJ 
+I agree. #Brexit in 2019 is doomed.
 
-Who would have thought such a thing to be possible?
+Briefing paper to explain why in the next few days.
 
-#KillBrexitNow https://t.co/NJjoWFNibd","['killbrexitnow', 'brexit']"
-124,124,124,940908,1007122400306192384,852389079975165952,negative,remain,2018-06-14T04:47:46.000Z,"@jeremycorbyn is as much to blame for the #Brexit chaos as @theresa_may.
+Since #Brexit is doomed @theresa_may should #KillBrexitNow https://t.co/TKhzEr4s0C","['brexit', 'killbrexitnow']"
+1199128,1010117651631345664,852389079975165952,negative,remain,2018-06-22T11:09:49.000Z,"@Anna_Soubry 
+There is no ""sensible Brexit for Business"".
 
-Both have been playing a double-edged game since before the June 2016 Referendum.
+#Brexit will be a disaster for the public finances and for business and for thousands who will lose their jobs.
+
+Brexit in 2019 is doomed and @theresa_may should #KillBrexitNow https://t.co/GhjF5LljiQ","['brexit', 'killbrexitnow']"
+858746,1006457153249570816,852389079975165952,positive,other,2018-06-12T08:44:19.000Z,"Why does the #Brexit Broadcasting Corporation allow @DavidDavisMP to lie so blatantly? (Assuming you accurately report his remarks)
+
+#KillBrexitNow https://t.co/j56zjiMz26","['brexit', 'killbrexitnow']"
+854910,1006437491996549120,852389079975165952,negative,other,2018-06-12T07:26:11.000Z,"Rubbish. The Cabinet bun fight might agree a UK Customs PROPOSAL.
+
+It cannot ""agree"" a ""Brexit customs deal"".
+
+@BBCNormanS 
+
+Is there no end to the incompetence of the #Brexit Broadcasting Corporation?
+#KillBrexitNow https://t.co/uudvMs9Mln","['brexit', 'killbrexitnow']"
+905770,1006823712606375936,852389079975165952,positive,leave,2018-06-13T09:00:53.000Z,"@sjwrenlewis 
+
+Your postscript is excessively pessimistic.
+
+I believe I have good reasons to believe that #Brexit in 2019 is doomed.
+
+But Twitter is not the forum to attempt to expound those reasons.
+
+#KillBrexitNow https://t.co/W1xhIFV7oh","['brexit', 'killbrexitnow']"
+1199127,1010117651631345664,852389079975165952,negative,remain,2018-06-22T11:09:49.000Z,"@Anna_Soubry 
+There is no ""sensible Brexit for Business"".
+
+#Brexit will be a disaster for the public finances and for business and for thousands who will lose their jobs.
+
+Brexit in 2019 is doomed and @theresa_may should #KillBrexitNow https://t.co/GhjF5LljiQ","['brexit', 'killbrexitnow']"
+708279,1004660902430375936,852389079975165952,negative,other,2018-06-07T09:46:39.000Z,"Does it matter if one incompetent Minister who favours #Brexit is replaced by another comparably incompetent Minister?
+
+I suggest not.
+
+#KillBrexitNow https://t.co/hFXwzhNGLL","['brexit', 'killbrexitnow']"
+1746257,1016215809771917312,852389079975165952,positive,leave,2018-07-09T07:01:44.000Z,"Mr. Heaver,
+
+Can you please point me to ANY detailed plan for #Brexit from a Brexiteer which is both legally possible and economically sensible?
+
+Surely 2 years after the referendum that should be easy .. IF one assumes that #Brexit is deliverable
 
 #KillBrexitNow
-@peston https://t.co/zNHe4OCECT","['killbrexitnow', 'brexit']"
-125,125,125,1282313,1010715877866721280,852389079975165952,negative,remain,2018-06-24T02:46:58.000Z,"Is there no end to the stupidity of Britain's Blonde #Brexit Buffoon?
+@Michael_Heaver https://t.co/H35R2jhArR","['brexit', 'killbrexitnow']"
+1546952,1013997692974923776,852389079975165952,positive,remain,2018-07-03T04:07:43.000Z,"No surprise here that the #Brexit Baldricks are supporting each other in their ""cunning plan"".
 
-#KillBrexitNow https://t.co/Z0esojbeY4","['killbrexitnow', 'brexit']"
-126,126,126,940909,1007122400306192384,852389079975165952,negative,remain,2018-06-14T04:47:46.000Z,"@jeremycorbyn is as much to blame for the #Brexit chaos as @theresa_may.
+@BorisJohnson @Jacob_Rees_Mogg 
+#KillBrexitNow https://t.co/ykulK3Eglr","['brexit', 'killbrexitnow']"
+2000548,1018395433989701632,852389079975165952,negative,leave,2018-07-15T07:22:46.000Z,"@CyberUKIPper 
+There is no way to save #Brexit.
 
-Both have been playing a double-edged game since before the June 2016 Referendum.
+Brexit (in 2019) is doomed, but has yet to be killed off.
 
-#KillBrexitNow
-@peston https://t.co/zNHe4OCECT","['killbrexitnow', 'brexit']"
-127,127,127,735270,1004989439641292800,852389079975165952,positive,remain,2018-06-08T07:32:08.000Z,"@jeremycorbyn has subtly promoted #Brexit and/or undermined Remain both before and after the Referendum.
+#KillBrexitNow https://t.co/ljn0CyUwhk","['brexit', 'killbrexitnow']"
+2000593,1018395874211266560,852389079975165952,negative,other,2018-07-15T07:24:31.000Z,"There'll be no #Brexit in 2019.
 
-IMO anyone who trusts the integrity of Corbyn on #Brexit is deeply misguided.
+Brexit (in 2019) is doomed.
 
-Hitherto Corbyn's two-faced approach has served him well.
+But #Brexit has still to be killed off.
 
-#KillBrexitNow
-@JamesMelville https://t.co/mwT3GTURRU","['killbrexitnow', 'brexit']"
-128,128,128,2348593,1021647905625726976,852389079975165952,neutral,leave,2018-07-24T06:46:56.000Z,"@Lawyers4EU I note you say the Brexit process is illegal, a proposition with which I agree.
+#KillBrexitNow 
+@VeeCee30 https://t.co/fJkVxuJkt4","['brexit', 'killbrexitnow']"
+1942076,1017709533748252672,852389079975165952,neutral,leave,2018-07-13T09:57:15.000Z,"@PeterKGeoghegan 
 
-Is there a public description of the basis on which you conclude that #Brexit is unlawful?
+You shouldn't expect any impartiality from @r4Today. It's part of the #Brexit Broadcasting Corporation.
 
-If it's not public I'd be happy to receive a copy by email to killbrexitnow@gmail.com
+I remember the time ... which seems a very long time ago ... when I felt the BBC had at least a semblance of impartiality.
 
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-129,129,129,1374034,1011869237240057856,852389079975165952,negative,remain,2018-06-27T07:10:00.000Z,"@jacquep 
+#KillBrexitNow https://t.co/qgCjri0MU7","['brexit', 'killbrexitnow']"
+1172111,1009831796811485184,852389079975165952,negative,leave,2018-06-21T16:13:56.000Z,"@CaringLawyer @JohnRentoul @JGForsyth Unfortunately there is a possible prospect of a 30 Years War on #Brexit.
 
-I believe you're wrong.
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1927528,1017579443349590016,852389079975165952,negative,other,2018-07-13T01:20:19.000Z,"@DavidHenigUK ... The TSB negotiation manual ... Theresa's Spectacularly Botched #Brexit
 
-Brexit won't happen on 29th/30th March 2019.
+The White Paper is dead in the water.
 
+#KillBrexitNow https://t.co/9axZ2mT2Un","['brexit', 'killbrexitnow']"
+1184800,1010053953088782336,852389079975165952,negative,remain,2018-06-22T06:56:42.000Z,"@philiprichards5 
 #Brexit in 2019 is doomed.
 
-@theresa_may should #KillBrexitNow and put it out of its misery. https://t.co/I8qAYw1yXp","['killbrexitnow', 'brexit']"
-130,130,130,2348594,1021647905625726976,852389079975165952,neutral,leave,2018-07-24T06:46:56.000Z,"@Lawyers4EU I note you say the Brexit process is illegal, a proposition with which I agree.
+Briefing paper in next few days to show @theresa_may's mistakes and why she should #KillBrexitNow https://t.co/7k3bwZAXTd","['brexit', 'killbrexitnow']"
+901637,1006795941691691008,852389079975165952,negative,other,2018-06-13T07:10:32.000Z,"It may take several years for the Japanese car manufacturers to leave the UK but I agree that it is inevitable if #Brexit happens.
 
-Is there a public description of the basis on which you conclude that #Brexit is unlawful?
+@DanielJHannan claimed ""no jobs will be lost"".
 
-If it's not public I'd be happy to receive a copy by email to killbrexitnow@gmail.com
+Just one of the #Brexit lies.
 
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-131,131,131,735269,1004989439641292800,852389079975165952,positive,remain,2018-06-08T07:32:08.000Z,"@jeremycorbyn has subtly promoted #Brexit and/or undermined Remain both before and after the Referendum.
+#KillBrexitNow https://t.co/AhlbQw7AYl","['brexit', 'killbrexitnow']"
+1225884,1010370064284094464,852389079975165952,negative,remain,2018-06-23T03:52:49.000Z,"Jessica,
+
+Don't give up.
+
+In the 1930s the black-shirted Mosley fascists were defeated.
+
+In the 21st century the diversely-dressed Farageists will also be defeated.
+
+#Brexit (in 2019) is doomed.
+
+@JMPSimor 
+#KillBrexitNow https://t.co/bZTeetUw2z","['brexit', 'killbrexitnow']"
+2000592,1018395874211266560,852389079975165952,negative,other,2018-07-15T07:24:31.000Z,"There'll be no #Brexit in 2019.
+
+Brexit (in 2019) is doomed.
+
+But #Brexit has still to be killed off.
+
+#KillBrexitNow 
+@VeeCee30 https://t.co/fJkVxuJkt4","['brexit', 'killbrexitnow']"
+1225885,1010370064284094464,852389079975165952,negative,remain,2018-06-23T03:52:49.000Z,"Jessica,
+
+Don't give up.
+
+In the 1930s the black-shirted Mosley fascists were defeated.
+
+In the 21st century the diversely-dressed Farageists will also be defeated.
+
+#Brexit (in 2019) is doomed.
+
+@JMPSimor 
+#KillBrexitNow https://t.co/bZTeetUw2z","['brexit', 'killbrexitnow']"
+2764866,1026018641266044928,852389079975165952,negative,other,2018-08-05T08:14:41.000Z,"@faisalislam A ""No Deal"" #Brexit will be a National Emergency for the UK
+
+https://t.co/ItNbZFZOlg
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1183655,1010048884289175552,852389079975165952,negative,other,2018-06-22T06:36:34.000Z,"My view is that #Brexit in 2019 is doomed.
+
+Briefing Paper to follow in the next few days
+
+Since #Brexit is doomed @theresa_may should #KillBrexitNow
+
+@FenCoul https://t.co/HDGg5vtipK","['brexit', 'killbrexitnow']"
+735269,1004989439641292800,852389079975165952,positive,remain,2018-06-08T07:32:08.000Z,"@jeremycorbyn has subtly promoted #Brexit and/or undermined Remain both before and after the Referendum.
 
 IMO anyone who trusts the integrity of Corbyn on #Brexit is deeply misguided.
 
 Hitherto Corbyn's two-faced approach has served him well.
 
 #KillBrexitNow
-@JamesMelville https://t.co/mwT3GTURRU","['killbrexitnow', 'brexit']"
-132,132,132,606283,1002905704703971328,852389079975165952,negative,remain,2018-06-02T13:32:07.000Z,"@Graham_British Personally I would fund neither terrorism nor Tommy Robinson.
+@JamesMelville https://t.co/mwT3GTURRU","['brexit', 'killbrexitnow']"
+1183654,1010048884289175552,852389079975165952,negative,other,2018-06-22T06:36:34.000Z,"My view is that #Brexit in 2019 is doomed.
 
-However, I would consider funding legal action to stop @theresa_may's illegal, irrational and damaging #Brexit.
+Briefing Paper to follow in the next few days
 
-#KillBrexitNow https://t.co/CgydyihV07","['killbrexitnow', 'brexit']"
-133,133,133,606284,1002905704703971328,852389079975165952,negative,remain,2018-06-02T13:32:07.000Z,"@Graham_British Personally I would fund neither terrorism nor Tommy Robinson.
+Since #Brexit is doomed @theresa_may should #KillBrexitNow
 
-However, I would consider funding legal action to stop @theresa_may's illegal, irrational and damaging #Brexit.
+@FenCoul https://t.co/HDGg5vtipK","['brexit', 'killbrexitnow']"
+2862043,1027394804672593920,852389079975165952,negative,other,2018-08-09T03:23:04.000Z,"@AdamPosen @nicolas_veron @JohnSpringford @anandMenon1 @UKandEU 3/
+Given that a ""No Deal"" #Brexit is a National Emergency
 
-#KillBrexitNow https://t.co/CgydyihV07","['killbrexitnow', 'brexit']"
-134,134,134,901638,1006795941691691008,852389079975165952,negative,other,2018-06-13T07:10:32.000Z,"It may take several years for the Japanese car manufacturers to leave the UK but I agree that it is inevitable if #Brexit happens.
+https://t.co/ItNbZFZOlg
 
-@DanielJHannan claimed ""no jobs will be lost"".
+the situation for the UK is potentially very grave indeed.
 
-Just one of the #Brexit lies.
+That's an important reason why I believe that we need to 
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1033843,1008297443002380288,852389079975165952,negative,remain,2018-06-17T10:36:58.000Z,"#Brexit in 2019 is doomed.
 
-#KillBrexitNow https://t.co/AhlbQw7AYl","['killbrexitnow', 'brexit']"
-135,135,135,1746256,1016215809771917312,852389079975165952,positive,leave,2018-07-09T07:01:44.000Z,"Mr. Heaver,
+There is no ""Brexit Dividend"".
 
-Can you please point me to ANY detailed plan for #Brexit from a Brexiteer which is both legally possible and economically sensible?
+Wasn't it enough for you to lie before the Referendum?
 
-Surely 2 years after the referendum that should be easy .. IF one assumes that #Brexit is deliverable
+Do you justify the present lie on the basis of consistency?
+
+@BorisJohnson 
+#KillBrexitNow https://t.co/frEtgsnafP","['brexit', 'killbrexitnow']"
+1172110,1009831796811485184,852389079975165952,negative,leave,2018-06-21T16:13:56.000Z,"@CaringLawyer @JohnRentoul @JGForsyth Unfortunately there is a possible prospect of a 30 Years War on #Brexit.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+2188917,1019834674850476032,852389079975165952,positive,other,2018-07-19T06:41:48.000Z,"@nickeardleybbc The EU is MUCH better prepared for #Brexit than the UK.
+
+The EU has already published 66 Preparedness Notices:
+https://t.co/NWT9X6DkMa
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+2764865,1026018641266044928,852389079975165952,negative,other,2018-08-05T08:14:41.000Z,"@faisalislam A ""No Deal"" #Brexit will be a National Emergency for the UK
+
+https://t.co/ItNbZFZOlg
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1546985,1014000395511914496,852389079975165952,negative,remain,2018-07-03T04:18:28.000Z,"@ph210147 It is difficult to overstate the stupidity and incompetence of @theresa_may in asking so late in the #Brexit process for a financial analysis of Brexit options.
+
+IMO @theresa_may will be remembered as the UK's worst ever Prime Minister.
+
+RT if you agree
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+2720854,1025338342970466304,852389079975165952,negative,other,2018-08-03T11:11:25.000Z,"@jonlis1 @steverichards14 Jonathan,
+
+The big difference is that in #Brexit the bullet (according to Lord Pannick in Miller) has already been fired.
+
+The question is how to stop it.
+
+There are two possibilities:
+1. @theresa_may cancels #Brexit
+2. A Court rules it unlawful
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+964050,1007295792758120448,852389079975165952,negative,other,2018-06-14T16:16:46.000Z,"Surely by definition it's the #Brexit Bastards who are illegitimate? :)
+
+@john_cairns 
+
+#KillBrexitNow https://t.co/1IzYQlev8f","['brexit', 'killbrexitnow']"
+1373191,1011864219136950272,852389079975165952,neutral,other,2018-06-27T06:50:04.000Z,"@campbellclaret 
+
+The UK's system of government deserves to be treated with contempt.
+
+Both @theresa_may and the Westminster Parliament have demonstrated spectacular incompetence re #Brexit.
+
+#KillBrexitNow https://t.co/eM0hgUNXWz","['brexit', 'killbrexitnow']"
+1927527,1017579443349590016,852389079975165952,negative,other,2018-07-13T01:20:19.000Z,"@DavidHenigUK ... The TSB negotiation manual ... Theresa's Spectacularly Botched #Brexit
+
+The White Paper is dead in the water.
+
+#KillBrexitNow https://t.co/9axZ2mT2Un","['brexit', 'killbrexitnow']"
+1024713,1008257467761987584,852389079975165952,neutral,leave,2018-06-17T07:58:07.000Z,"@WikiGuido Don't you think it shows the desperation of @theresa_may that she has to rely on a transparent lie?
+
+Maybe, finally, it is dawning on her that #Brexit in 2019 is doomed?
+
+Better, of course, to #KillBrexitNow https://t.co/T6GElRs4O3","['brexit', 'killbrexitnow']"
+1024712,1008257467761987584,852389079975165952,neutral,leave,2018-06-17T07:58:07.000Z,"@WikiGuido Don't you think it shows the desperation of @theresa_may that she has to rely on a transparent lie?
+
+Maybe, finally, it is dawning on her that #Brexit in 2019 is doomed?
+
+Better, of course, to #KillBrexitNow https://t.co/T6GElRs4O3","['brexit', 'killbrexitnow']"
+2862042,1027394804672593920,852389079975165952,negative,other,2018-08-09T03:23:04.000Z,"@AdamPosen @nicolas_veron @JohnSpringford @anandMenon1 @UKandEU 3/
+Given that a ""No Deal"" #Brexit is a National Emergency
+
+https://t.co/ItNbZFZOlg
+
+the situation for the UK is potentially very grave indeed.
+
+That's an important reason why I believe that we need to 
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1584517,1014455799798816768,852389079975165952,negative,other,2018-07-04T10:28:05.000Z,"It's the #Brexit Broadcasting Corporation in action.
+
+Shameful ... but shameful behaviour by the BBC is becoming routine.
 
 #KillBrexitNow
-@Michael_Heaver https://t.co/H35R2jhArR","['killbrexitnow', 'brexit']"
-136,136,136,901637,1006795941691691008,852389079975165952,negative,other,2018-06-13T07:10:32.000Z,"It may take several years for the Japanese car manufacturers to leave the UK but I agree that it is inevitable if #Brexit happens.
+@bbclaurak @washyourmouth1 @r4Today https://t.co/WlBUtBQTzE","['brexit', 'killbrexitnow']"
+604327,1002878753675075584,852389079975165952,negative,remain,2018-06-02T11:45:02.000Z,"@hofficoffi4 Don't just aspire to fight #Brexit.
 
-@DanielJHannan claimed ""no jobs will be lost"".
+Make it your priority to KILL BREXIT. ... You know it makes sense! :)
 
-Just one of the #Brexit lies.
+#KillBrexitNow https://t.co/ME63s3Rxt4","['brexit', 'killbrexitnow']"
+604328,1002878753675075584,852389079975165952,negative,remain,2018-06-02T11:45:02.000Z,"@hofficoffi4 Don't just aspire to fight #Brexit.
 
-#KillBrexitNow https://t.co/AhlbQw7AYl","['killbrexitnow', 'brexit']"
-137,137,137,2349300,1021664249553334272,852389079975165952,negative,leave,2018-07-24T07:51:53.000Z,"@davidallengreen If the UK leaves the EU then IMO there is ZERO chance it will be able to keep its rebate if/when it rejoins
+Make it your priority to KILL BREXIT. ... You know it makes sense! :)
 
-That is one reason why I believe that #Brexit has to be killed off before the UK takes the disastrous step of leaving the European Union
-
-#KillBrexitNow 
-
-@CharlesTannock","['killbrexitnow', 'brexit']"
-138,138,138,2349301,1021664249553334272,852389079975165952,negative,leave,2018-07-24T07:51:53.000Z,"@davidallengreen If the UK leaves the EU then IMO there is ZERO chance it will be able to keep its rebate if/when it rejoins
-
-That is one reason why I believe that #Brexit has to be killed off before the UK takes the disastrous step of leaving the European Union
-
-#KillBrexitNow 
-
-@CharlesTannock","['killbrexitnow', 'brexit']"
-139,139,139,2606892,1024148103652364288,852389079975165952,positive,remain,2018-07-31T04:21:50.000Z,"@BEERG Re your 6th point you may be interested in my #Brexit Briefing Paper entitled ""Brexit (in 2019) is doomed"".
-
-Email me at killbrexitnow@gmail.com if you'd like a copy.
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-140,140,140,1282314,1010715877866721280,852389079975165952,negative,remain,2018-06-24T02:46:58.000Z,"Is there no end to the stupidity of Britain's Blonde #Brexit Buffoon?
-
-#KillBrexitNow https://t.co/Z0esojbeY4","['killbrexitnow', 'brexit']"
-141,141,141,1746257,1016215809771917312,852389079975165952,positive,leave,2018-07-09T07:01:44.000Z,"Mr. Heaver,
-
-Can you please point me to ANY detailed plan for #Brexit from a Brexiteer which is both legally possible and economically sensible?
-
-Surely 2 years after the referendum that should be easy .. IF one assumes that #Brexit is deliverable
-
-#KillBrexitNow
-@Michael_Heaver https://t.co/H35R2jhArR","['killbrexitnow', 'brexit']"
-142,142,142,1186094,1010058355921117184,852389079975165952,negative,other,2018-06-22T07:14:12.000Z,"@JMPSimor 
+#KillBrexitNow https://t.co/ME63s3Rxt4","['brexit', 'killbrexitnow']"
+1186093,1010058355921117184,852389079975165952,negative,other,2018-06-22T07:14:12.000Z,"@JMPSimor 
 
 @theresa_may is grossly incompetent and it is becoming increasingly obvious in her handling of #Brexit
 
 She is dangerously incompetent because she doesn't realise her limitations
 
 IMO she will come to be viewed as the UK's worst ever Prime Minister
-#KillBrexitNow https://t.co/jWEZ6znklF","['killbrexitnow', 'brexit']"
-143,143,143,708280,1004660902430375936,852389079975165952,negative,other,2018-06-07T09:46:39.000Z,"Does it matter if one incompetent Minister who favours #Brexit is replaced by another comparably incompetent Minister?
+#KillBrexitNow https://t.co/jWEZ6znklF","['brexit', 'killbrexitnow']"
+1186094,1010058355921117184,852389079975165952,negative,other,2018-06-22T07:14:12.000Z,"@JMPSimor 
 
-I suggest not.
+@theresa_may is grossly incompetent and it is becoming increasingly obvious in her handling of #Brexit
 
-#KillBrexitNow https://t.co/hFXwzhNGLL","['killbrexitnow', 'brexit']"
-144,144,144,1183380,1010047689336279040,852389079975165952,negative,other,2018-06-22T06:31:49.000Z,"#Brexit in 2019 is doomed.
+She is dangerously incompetent because she doesn't realise her limitations
 
-Briefing paper to follow in the next few days.
+IMO she will come to be viewed as the UK's worst ever Prime Minister
+#KillBrexitNow https://t.co/jWEZ6znklF","['brexit', 'killbrexitnow']"
+901638,1006795941691691008,852389079975165952,negative,other,2018-06-13T07:10:32.000Z,"It may take several years for the Japanese car manufacturers to leave the UK but I agree that it is inevitable if #Brexit happens.
 
-Since #Brexit is doomed @theresa_may needs to #KillBrexitNow
-@MarieAnnUK https://t.co/Uehtdcejsx","['killbrexitnow', 'brexit']"
-145,145,145,2000593,1018395874211266560,852389079975165952,negative,other,2018-07-15T07:24:31.000Z,"There'll be no #Brexit in 2019.
+@DanielJHannan claimed ""no jobs will be lost"".
 
-Brexit (in 2019) is doomed.
+Just one of the #Brexit lies.
 
-But #Brexit has still to be killed off.
+#KillBrexitNow https://t.co/AhlbQw7AYl","['brexit', 'killbrexitnow']"
+2188918,1019834674850476032,852389079975165952,positive,other,2018-07-19T06:41:48.000Z,"@nickeardleybbc The EU is MUCH better prepared for #Brexit than the UK.
+
+The EU has already published 66 Preparedness Notices:
+https://t.co/NWT9X6DkMa
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+905769,1006823712606375936,852389079975165952,positive,leave,2018-06-13T09:00:53.000Z,"@sjwrenlewis 
+
+Your postscript is excessively pessimistic.
+
+I believe I have good reasons to believe that #Brexit in 2019 is doomed.
+
+But Twitter is not the forum to attempt to expound those reasons.
+
+#KillBrexitNow https://t.co/W1xhIFV7oh","['brexit', 'killbrexitnow']"
+1184801,1010053953088782336,852389079975165952,negative,remain,2018-06-22T06:56:42.000Z,"@philiprichards5 
+#Brexit in 2019 is doomed.
+
+Briefing paper in next few days to show @theresa_may's mistakes and why she should #KillBrexitNow https://t.co/7k3bwZAXTd","['brexit', 'killbrexitnow']"
+2186340,1019806568668426240,852389079975165952,negative,other,2018-07-19T04:50:07.000Z,"@SkyNews A ""No Deal"" #Brexit is a National Emergency
+see e.g.
+https://t.co/oXID8pQGTB
+
+The danger re supply of medicines is to those medicines that CAN'T be stockpiled due to e.g. very short shelf-life.
+
+A ""No Deal"" Brexit must be avoided.
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+694489,1004380236786667520,852389079975165952,positive,other,2018-06-06T15:11:23.000Z,"@jeremycorbyn has a skillset to manage #Brexit that matches Northern Trains ability to reorganise a railway timetable.
+
+#KillBrexitNow https://t.co/ozBv1h9QFx","['brexit', 'killbrexitnow']"
+705105,1004629296210743296,852389079975165952,neutral,other,2018-06-07T07:41:03.000Z,"Unfair on Dacre IMO ... but only marginally so.
+
+Dacre was important in creating the fertile soil in which other xenophobes could plant their ill-fated attempt at #Brexit.
+
+#KillBrexitNow https://t.co/470dDxzGGq","['brexit', 'killbrexitnow']"
+735645,1004991500424568832,852389079975165952,negative,remain,2018-06-08T07:40:20.000Z,"@lisaocarroll 
+
+Is there no end to the self-centred stupidty of Britain's Blonde #Brexit Buffoon?
+
+#KillBrexitNow https://t.co/F7GeYDMuyx","['brexit', 'killbrexitnow']"
+2390698,1022036222817042432,852389079975165952,negative,other,2018-07-25T08:29:58.000Z,"@scarlettpeach People like your woman who is ""for England"" need to realise how damaging #Brexit will be, particularly if there is ""No Deal"".
+
+https://t.co/ItNbZFZOlg
+
+She needs to understand that being ""for Brexit"" is to be ""against England"".
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1282314,1010715877866721280,852389079975165952,negative,remain,2018-06-24T02:46:58.000Z,"Is there no end to the stupidity of Britain's Blonde #Brexit Buffoon?
+
+#KillBrexitNow https://t.co/Z0esojbeY4","['brexit', 'killbrexitnow']"
+940909,1007122400306192384,852389079975165952,negative,remain,2018-06-14T04:47:46.000Z,"@jeremycorbyn is as much to blame for the #Brexit chaos as @theresa_may.
+
+Both have been playing a double-edged game since before the June 2016 Referendum.
+
+#KillBrexitNow
+@peston https://t.co/zNHe4OCECT","['brexit', 'killbrexitnow']"
+902831,1006804608495255552,852389079975165952,neutral,other,2018-06-13T07:44:58.000Z,"@thatginamiller @dannymcgrory67 @ObiWokKanobe 
+
+I want MUCH more. I want to kill #Brexit.
+
+Many legal questions have yet to be resolved. It's a pity that the Gina Miller case was so flawed.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+705106,1004629296210743296,852389079975165952,neutral,other,2018-06-07T07:41:03.000Z,"Unfair on Dacre IMO ... but only marginally so.
+
+Dacre was important in creating the fertile soil in which other xenophobes could plant their ill-fated attempt at #Brexit.
+
+#KillBrexitNow https://t.co/470dDxzGGq","['brexit', 'killbrexitnow']"
+902832,1006804608495255552,852389079975165952,neutral,other,2018-06-13T07:44:58.000Z,"@thatginamiller @dannymcgrory67 @ObiWokKanobe 
+
+I want MUCH more. I want to kill #Brexit.
+
+Many legal questions have yet to be resolved. It's a pity that the Gina Miller case was so flawed.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+2390699,1022036222817042432,852389079975165952,negative,other,2018-07-25T08:29:58.000Z,"@scarlettpeach People like your woman who is ""for England"" need to realise how damaging #Brexit will be, particularly if there is ""No Deal"".
+
+https://t.co/ItNbZFZOlg
+
+She needs to understand that being ""for Brexit"" is to be ""against England"".
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+964083,1007296145347969024,852389079975165952,neutral,other,2018-06-14T16:18:10.000Z,"Sorry.
+
+#Brexit in 2019 is doomed.
+
+You read it here first.
 
 #KillBrexitNow 
-@VeeCee30 https://t.co/fJkVxuJkt4","['killbrexitnow', 'brexit']"
-146,146,146,2000592,1018395874211266560,852389079975165952,negative,other,2018-07-15T07:24:31.000Z,"There'll be no #Brexit in 2019.
+@DianeJamesMEP https://t.co/IQfappaQbQ","['brexit', 'killbrexitnow']"
+601599,1002844672488886272,852389079975165952,negative,other,2018-06-02T09:29:36.000Z,"In July 2016 @theresa_may said that ""Brexit means Brexit"".
 
-Brexit (in 2019) is doomed.
+Two years later she still hasn't a clue how to make a lawful #Brexit happen.
 
-But #Brexit has still to be killed off.
+Trump is a recognised liar. People need to see Theresa in a similar light IMO.
 
-#KillBrexitNow 
-@VeeCee30 https://t.co/fJkVxuJkt4","['killbrexitnow', 'brexit']"
-147,147,147,2000549,1018395433989701632,852389079975165952,negative,leave,2018-07-15T07:22:46.000Z,"@CyberUKIPper 
-There is no way to save #Brexit.
+#KillBrexitNow https://t.co/nRElOav3aJ","['brexit', 'killbrexitnow']"
+964082,1007296145347969024,852389079975165952,neutral,other,2018-06-14T16:18:10.000Z,"Sorry.
 
-Brexit (in 2019) is doomed, but has yet to be killed off.
+#Brexit in 2019 is doomed.
 
-#KillBrexitNow https://t.co/ljn0CyUwhk","['killbrexitnow', 'brexit']"
-148,148,148,1183381,1010047689336279040,852389079975165952,negative,other,2018-06-22T06:31:49.000Z,"#Brexit in 2019 is doomed.
-
-Briefing paper to follow in the next few days.
-
-Since #Brexit is doomed @theresa_may needs to #KillBrexitNow
-@MarieAnnUK https://t.co/Uehtdcejsx","['killbrexitnow', 'brexit']"
-149,149,149,1183474,1010048148071383040,852389079975165952,negative,other,2018-06-22T06:33:38.000Z,"@KimSJ 
-I agree. #Brexit in 2019 is doomed.
-
-Briefing paper to explain why in the next few days.
-
-Since #Brexit is doomed @theresa_may should #KillBrexitNow https://t.co/TKhzEr4s0C","['killbrexitnow', 'brexit']"
-150,150,150,2000548,1018395433989701632,852389079975165952,negative,leave,2018-07-15T07:22:46.000Z,"@CyberUKIPper 
-There is no way to save #Brexit.
-
-Brexit (in 2019) is doomed, but has yet to be killed off.
-
-#KillBrexitNow https://t.co/ljn0CyUwhk","['killbrexitnow', 'brexit']"
-151,151,151,1183475,1010048148071383040,852389079975165952,negative,other,2018-06-22T06:33:38.000Z,"@KimSJ 
-I agree. #Brexit in 2019 is doomed.
-
-Briefing paper to explain why in the next few days.
-
-Since #Brexit is doomed @theresa_may should #KillBrexitNow https://t.co/TKhzEr4s0C","['killbrexitnow', 'brexit']"
-152,152,152,2000513,1018395204171255808,852389079975165952,negative,other,2018-07-15T07:21:52.000Z,"#Brexit (in 2019) is doomed.
-
-But it has yet to be killed off.
+You read it here first.
 
 #KillBrexitNow 
-@FaBPaule https://t.co/ZomyC3j5Nt","['killbrexitnow', 'brexit']"
-153,153,153,1033843,1008297443002380288,852389079975165952,negative,remain,2018-06-17T10:36:58.000Z,"#Brexit in 2019 is doomed.
+@DianeJamesMEP https://t.co/IQfappaQbQ","['brexit', 'killbrexitnow']"
+2002633,1018407342327640064,852389079975165952,negative,other,2018-07-15T08:10:06.000Z,"@afneil 
+
+I've been saying for some time that #Brexit (in 2019) is doomed.
+
+The choice is staying in the EU or a ""No Deal"" Brexit which is a National Emergency.
+
+Any sane PM will keep the UK in the EU.
+
+#KillBrexitNow https://t.co/tqoMeUuutV","['brexit', 'killbrexitnow']"
+1184702,1010053496354361344,852389079975165952,negative,remain,2018-06-22T06:54:54.000Z,"@SCrabbPembs 
+
+#Brexit in 2019 is doomed due, in part, to mistakes by @theresa_may 
+
+Briefing paper in next few days
+
+@theresa_may should #KillBrexitNow https://t.co/2Jj9wcOZwT","['brexit', 'killbrexitnow']"
+2002634,1018407342327640064,852389079975165952,negative,other,2018-07-15T08:10:06.000Z,"@afneil 
+
+I've been saying for some time that #Brexit (in 2019) is doomed.
+
+The choice is staying in the EU or a ""No Deal"" Brexit which is a National Emergency.
+
+Any sane PM will keep the UK in the EU.
+
+#KillBrexitNow https://t.co/tqoMeUuutV","['brexit', 'killbrexitnow']"
+1004547,1007931541912276992,852389079975165952,negative,leave,2018-06-16T10:23:00.000Z,"A year ago TSB #Brexit (Theresa's Spectacularly Botched Brexit) wasn't so obviously being messed up.
+
+Grieve may not WANT to tie her hands. 
+
+@theresa_may's demonstrated incompetence means her hands NEED to be tied.
+
+#KillBrexitNow
+@BrexitCentral https://t.co/uf7hvhRHZD","['brexit', 'killbrexitnow']"
+1004548,1007931541912276992,852389079975165952,negative,leave,2018-06-16T10:23:00.000Z,"A year ago TSB #Brexit (Theresa's Spectacularly Botched Brexit) wasn't so obviously being messed up.
+
+Grieve may not WANT to tie her hands. 
+
+@theresa_may's demonstrated incompetence means her hands NEED to be tied.
+
+#KillBrexitNow
+@BrexitCentral https://t.co/uf7hvhRHZD","['brexit', 'killbrexitnow']"
+1370355,1011803437447737344,852389079975165952,neutral,other,2018-06-27T02:48:32.000Z,"@donnyc1975 I'd like to be educated on the detail of JIT logistics.
+
+Email me at killbrexitnow@gmail.com if you care to discuss.
+
+FWIW I expect #Brexit in 2019 (if not abandoned) to be a National Emergency in part because of disruption to JIT supply chains.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+963977,1007294916974862336,852389079975165952,positive,other,2018-06-14T16:13:17.000Z,"You have a wonderful, if idiosyncratic, sense of humour.
+
+@jeremycorbyn is comparably incompetent on #Brexit as @theresa_may 
+
+@TomAngel1 
+#KillBrexitNow https://t.co/JNCgGS8nmf","['brexit', 'killbrexitnow']"
+2002902,1018408393856503808,852389079975165952,negative,remain,2018-07-15T08:14:16.000Z,"The June 2016 Referendum was unlawful.
+
+Its result should be rejected.
+
+#Brexit (in 2019) is doomed.
+
+But has yet to be killed off.
+
+#KillBrexitNow https://t.co/3d0TZSJohx","['brexit', 'killbrexitnow']"
+2606891,1024148103652364288,852389079975165952,positive,remain,2018-07-31T04:21:50.000Z,"@BEERG Re your 6th point you may be interested in my #Brexit Briefing Paper entitled ""Brexit (in 2019) is doomed"".
+
+Email me at killbrexitnow@gmail.com if you'd like a copy.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+943745,1007152963222196224,852389079975165952,negative,other,2018-06-14T06:49:13.000Z,"Perhaps #Brexit is fairly termed ""Death by a thousand (job) cuts""
+
+#KillBrexitNow
+@hardworkingword https://t.co/m8jILHxelD","['brexit', 'killbrexitnow']"
+963976,1007294916974862336,852389079975165952,positive,other,2018-06-14T16:13:17.000Z,"You have a wonderful, if idiosyncratic, sense of humour.
+
+@jeremycorbyn is comparably incompetent on #Brexit as @theresa_may 
+
+@TomAngel1 
+#KillBrexitNow https://t.co/JNCgGS8nmf","['brexit', 'killbrexitnow']"
+1033844,1008297443002380288,852389079975165952,negative,remain,2018-06-17T10:36:58.000Z,"#Brexit in 2019 is doomed.
 
 There is no ""Brexit Dividend"".
 
@@ -926,307 +920,279 @@ Wasn't it enough for you to lie before the Referendum?
 Do you justify the present lie on the basis of consistency?
 
 @BorisJohnson 
-#KillBrexitNow https://t.co/frEtgsnafP","['killbrexitnow', 'brexit']"
-154,154,154,1033844,1008297443002380288,852389079975165952,negative,remain,2018-06-17T10:36:58.000Z,"#Brexit in 2019 is doomed.
+#KillBrexitNow https://t.co/frEtgsnafP","['brexit', 'killbrexitnow']"
+943744,1007152963222196224,852389079975165952,negative,other,2018-06-14T06:49:13.000Z,"Perhaps #Brexit is fairly termed ""Death by a thousand (job) cuts""
 
-There is no ""Brexit Dividend"".
+#KillBrexitNow
+@hardworkingword https://t.co/m8jILHxelD","['brexit', 'killbrexitnow']"
+1282313,1010715877866721280,852389079975165952,negative,remain,2018-06-24T02:46:58.000Z,"Is there no end to the stupidity of Britain's Blonde #Brexit Buffoon?
 
-Wasn't it enough for you to lie before the Referendum?
+#KillBrexitNow https://t.co/Z0esojbeY4","['brexit', 'killbrexitnow']"
+2750458,1025733659960242176,852389079975165952,negative,other,2018-08-04T13:22:16.000Z,"@Cardwell_PJ By chance I've found out that @dkshrewsbury has blocked me.
 
-Do you justify the present lie on the basis of consistency?
+VERY odd since I don't recall tweeting him at any time but presumably he doesn't like the #KillBrexitNow approach.
 
-@BorisJohnson 
-#KillBrexitNow https://t.co/frEtgsnafP","['killbrexitnow', 'brexit']"
-155,155,155,2000512,1018395204171255808,852389079975165952,negative,other,2018-07-15T07:21:52.000Z,"#Brexit (in 2019) is doomed.
+Could somebody retweet the offending recent post of @dkshrewsbury please?
+
+#Brexit","['brexit', 'killbrexitnow']"
+2348594,1021647905625726976,852389079975165952,neutral,leave,2018-07-24T06:46:56.000Z,"@Lawyers4EU I note you say the Brexit process is illegal, a proposition with which I agree.
+
+Is there a public description of the basis on which you conclude that #Brexit is unlawful?
+
+If it's not public I'd be happy to receive a copy by email to killbrexitnow@gmail.com
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+2348593,1021647905625726976,852389079975165952,neutral,leave,2018-07-24T06:46:56.000Z,"@Lawyers4EU I note you say the Brexit process is illegal, a proposition with which I agree.
+
+Is there a public description of the basis on which you conclude that #Brexit is unlawful?
+
+If it's not public I'd be happy to receive a copy by email to killbrexitnow@gmail.com
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+2606892,1024148103652364288,852389079975165952,positive,remain,2018-07-31T04:21:50.000Z,"@BEERG Re your 6th point you may be interested in my #Brexit Briefing Paper entitled ""Brexit (in 2019) is doomed"".
+
+Email me at killbrexitnow@gmail.com if you'd like a copy.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+2750457,1025733659960242176,852389079975165952,negative,other,2018-08-04T13:22:16.000Z,"@Cardwell_PJ By chance I've found out that @dkshrewsbury has blocked me.
+
+VERY odd since I don't recall tweeting him at any time but presumably he doesn't like the #KillBrexitNow approach.
+
+Could somebody retweet the offending recent post of @dkshrewsbury please?
+
+#Brexit","['brexit', 'killbrexitnow']"
+940908,1007122400306192384,852389079975165952,negative,remain,2018-06-14T04:47:46.000Z,"@jeremycorbyn is as much to blame for the #Brexit chaos as @theresa_may.
+
+Both have been playing a double-edged game since before the June 2016 Referendum.
+
+#KillBrexitNow
+@peston https://t.co/zNHe4OCECT","['brexit', 'killbrexitnow']"
+735646,1004991500424568832,852389079975165952,negative,remain,2018-06-08T07:40:20.000Z,"@lisaocarroll 
+
+Is there no end to the self-centred stupidty of Britain's Blonde #Brexit Buffoon?
+
+#KillBrexitNow https://t.co/F7GeYDMuyx","['brexit', 'killbrexitnow']"
+854911,1006437491996549120,852389079975165952,negative,other,2018-06-12T07:26:11.000Z,"Rubbish. The Cabinet bun fight might agree a UK Customs PROPOSAL.
+
+It cannot ""agree"" a ""Brexit customs deal"".
+
+@BBCNormanS 
+
+Is there no end to the incompetence of the #Brexit Broadcasting Corporation?
+#KillBrexitNow https://t.co/uudvMs9Mln","['brexit', 'killbrexitnow']"
+1746256,1016215809771917312,852389079975165952,positive,leave,2018-07-09T07:01:44.000Z,"Mr. Heaver,
+
+Can you please point me to ANY detailed plan for #Brexit from a Brexiteer which is both legally possible and economically sensible?
+
+Surely 2 years after the referendum that should be easy .. IF one assumes that #Brexit is deliverable
+
+#KillBrexitNow
+@Michael_Heaver https://t.co/H35R2jhArR","['brexit', 'killbrexitnow']"
+601598,1002844672488886272,852389079975165952,negative,other,2018-06-02T09:29:36.000Z,"In July 2016 @theresa_may said that ""Brexit means Brexit"".
+
+Two years later she still hasn't a clue how to make a lawful #Brexit happen.
+
+Trump is a recognised liar. People need to see Theresa in a similar light IMO.
+
+#KillBrexitNow https://t.co/nRElOav3aJ","['brexit', 'killbrexitnow']"
+1183381,1010047689336279040,852389079975165952,negative,other,2018-06-22T06:31:49.000Z,"#Brexit in 2019 is doomed.
+
+Briefing paper to follow in the next few days.
+
+Since #Brexit is doomed @theresa_may needs to #KillBrexitNow
+@MarieAnnUK https://t.co/Uehtdcejsx","['brexit', 'killbrexitnow']"
+2349300,1021664249553334272,852389079975165952,negative,leave,2018-07-24T07:51:53.000Z,"@davidallengreen If the UK leaves the EU then IMO there is ZERO chance it will be able to keep its rebate if/when it rejoins
+
+That is one reason why I believe that #Brexit has to be killed off before the UK takes the disastrous step of leaving the European Union
+
+#KillBrexitNow 
+
+@CharlesTannock","['brexit', 'killbrexitnow']"
+1546951,1013997692974923776,852389079975165952,positive,remain,2018-07-03T04:07:43.000Z,"No surprise here that the #Brexit Baldricks are supporting each other in their ""cunning plan"".
+
+@BorisJohnson @Jacob_Rees_Mogg 
+#KillBrexitNow https://t.co/ykulK3Eglr","['brexit', 'killbrexitnow']"
+901490,1006794959134052352,852389079975165952,negative,other,2018-06-13T07:06:38.000Z,"Even the #Brexit Broadcasting Corporation couldn't be seen to ignore this.
+
+#KillBrexitNow https://t.co/UyzYpoIOQd","['brexit', 'killbrexitnow']"
+615623,1003094617053593600,852389079975165952,negative,leave,2018-06-03T02:02:47.000Z,"I agree. Brexit (in 2019) is doomed!
+
+But #Brexit still needs to be killed off completely.
+
+#KillBrexitNow https://t.co/mbyTb7puAS","['brexit', 'killbrexitnow']"
+2235090,1020520037168410624,852389079975165952,negative,other,2018-07-21T04:05:11.000Z,"IMO a ""No Deal"" #Brexit will be a National Emergency
+
+https://t.co/oXID8pQGTB
+
+#KillBrexitNow https://t.co/Bkehmy75CV","['brexit', 'killbrexitnow']"
+964051,1007295792758120448,852389079975165952,negative,other,2018-06-14T16:16:46.000Z,"Surely by definition it's the #Brexit Bastards who are illegitimate? :)
+
+@john_cairns 
+
+#KillBrexitNow https://t.co/1IzYQlev8f","['brexit', 'killbrexitnow']"
+2000512,1018395204171255808,852389079975165952,negative,other,2018-07-15T07:21:52.000Z,"#Brexit (in 2019) is doomed.
 
 But it has yet to be killed off.
 
 #KillBrexitNow 
-@FaBPaule https://t.co/ZomyC3j5Nt","['killbrexitnow', 'brexit']"
-156,156,156,1373190,1011864219136950272,852389079975165952,neutral,other,2018-06-27T06:50:04.000Z,"@campbellclaret 
+@FaBPaule https://t.co/ZomyC3j5Nt","['brexit', 'killbrexitnow']"
+2000513,1018395204171255808,852389079975165952,negative,other,2018-07-15T07:21:52.000Z,"#Brexit (in 2019) is doomed.
 
-The UK's system of government deserves to be treated with contempt.
+But it has yet to be killed off.
 
-Both @theresa_may and the Westminster Parliament have demonstrated spectacular incompetence re #Brexit.
-
-#KillBrexitNow https://t.co/eM0hgUNXWz","['killbrexitnow', 'brexit']"
-157,157,157,858745,1006457153249570816,852389079975165952,positive,other,2018-06-12T08:44:19.000Z,"Why does the #Brexit Broadcasting Corporation allow @DavidDavisMP to lie so blatantly? (Assuming you accurately report his remarks)
-
-#KillBrexitNow https://t.co/j56zjiMz26","['killbrexitnow', 'brexit']"
-158,158,158,1373191,1011864219136950272,852389079975165952,neutral,other,2018-06-27T06:50:04.000Z,"@campbellclaret 
-
-The UK's system of government deserves to be treated with contempt.
-
-Both @theresa_may and the Westminster Parliament have demonstrated spectacular incompetence re #Brexit.
-
-#KillBrexitNow https://t.co/eM0hgUNXWz","['killbrexitnow', 'brexit']"
-159,159,159,708279,1004660902430375936,852389079975165952,negative,other,2018-06-07T09:46:39.000Z,"Does it matter if one incompetent Minister who favours #Brexit is replaced by another comparably incompetent Minister?
-
-I suggest not.
-
-#KillBrexitNow https://t.co/hFXwzhNGLL","['killbrexitnow', 'brexit']"
-160,160,160,1183654,1010048884289175552,852389079975165952,negative,other,2018-06-22T06:36:34.000Z,"My view is that #Brexit in 2019 is doomed.
-
-Briefing Paper to follow in the next few days
-
-Since #Brexit is doomed @theresa_may should #KillBrexitNow
-
-@FenCoul https://t.co/HDGg5vtipK","['killbrexitnow', 'brexit']"
-161,161,161,1584517,1014455799798816768,852389079975165952,negative,other,2018-07-04T10:28:05.000Z,"It's the #Brexit Broadcasting Corporation in action.
-
-Shameful ... but shameful behaviour by the BBC is becoming routine.
-
-#KillBrexitNow
-@bbclaurak @washyourmouth1 @r4Today https://t.co/WlBUtBQTzE","['killbrexitnow', 'brexit']"
-162,162,162,1225884,1010370064284094464,852389079975165952,negative,remain,2018-06-23T03:52:49.000Z,"Jessica,
-
-Don't give up.
-
-In the 1930s the black-shirted Mosley fascists were defeated.
-
-In the 21st century the diversely-dressed Farageists will also be defeated.
-
-#Brexit (in 2019) is doomed.
-
-@JMPSimor 
-#KillBrexitNow https://t.co/bZTeetUw2z","['killbrexitnow', 'brexit']"
-163,163,163,1183655,1010048884289175552,852389079975165952,negative,other,2018-06-22T06:36:34.000Z,"My view is that #Brexit in 2019 is doomed.
-
-Briefing Paper to follow in the next few days
-
-Since #Brexit is doomed @theresa_may should #KillBrexitNow
-
-@FenCoul https://t.co/HDGg5vtipK","['killbrexitnow', 'brexit']"
-164,164,164,1225885,1010370064284094464,852389079975165952,negative,remain,2018-06-23T03:52:49.000Z,"Jessica,
-
-Don't give up.
-
-In the 1930s the black-shirted Mosley fascists were defeated.
-
-In the 21st century the diversely-dressed Farageists will also be defeated.
-
-#Brexit (in 2019) is doomed.
-
-@JMPSimor 
-#KillBrexitNow https://t.co/bZTeetUw2z","['killbrexitnow', 'brexit']"
-165,165,165,2002633,1018407342327640064,852389079975165952,negative,other,2018-07-15T08:10:06.000Z,"@afneil 
-
-I've been saying for some time that #Brexit (in 2019) is doomed.
-
-The choice is staying in the EU or a ""No Deal"" Brexit which is a National Emergency.
-
-Any sane PM will keep the UK in the EU.
-
-#KillBrexitNow https://t.co/tqoMeUuutV","['killbrexitnow', 'brexit']"
-166,166,166,1584518,1014455799798816768,852389079975165952,negative,other,2018-07-04T10:28:05.000Z,"It's the #Brexit Broadcasting Corporation in action.
-
-Shameful ... but shameful behaviour by the BBC is becoming routine.
-
-#KillBrexitNow
-@bbclaurak @washyourmouth1 @r4Today https://t.co/WlBUtBQTzE","['killbrexitnow', 'brexit']"
-167,167,167,2189024,1019835318042755072,852389079975165952,neutral,other,2018-07-19T06:44:22.000Z,"The Liaison Committee was, in common with House of Commons Select Committees, inadequately briefed and excessively deferential.
-
-Unlike US Senate Committees the UK Select Committees do not adequately hold the PM and her Ministers to account.
-#Brexit 
 #KillBrexitNow 
-@ann1erich https://t.co/th5IIPmtOV","['killbrexitnow', 'brexit']"
-168,168,168,2189023,1019835318042755072,852389079975165952,neutral,other,2018-07-19T06:44:22.000Z,"The Liaison Committee was, in common with House of Commons Select Committees, inadequately briefed and excessively deferential.
+@FaBPaule https://t.co/ZomyC3j5Nt","['brexit', 'killbrexitnow']"
+1910908,1017423138844487680,852389079975165952,positive,other,2018-07-12T14:59:13.000Z,"@WestmonsterUK Has Westmonster or any of its politician acolytes produced a PLAN for #Brexit that is legally possible and economically literate?
 
-Unlike US Senate Committees the UK Select Committees do not adequately hold the PM and her Ministers to account.
-#Brexit 
+It would be interesting to see if you have a SOLUTION.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+615624,1003094617053593600,852389079975165952,negative,leave,2018-06-03T02:02:47.000Z,"I agree. Brexit (in 2019) is doomed!
+
+But #Brexit still needs to be killed off completely.
+
+#KillBrexitNow https://t.co/mbyTb7puAS","['brexit', 'killbrexitnow']"
+2349301,1021664249553334272,852389079975165952,negative,leave,2018-07-24T07:51:53.000Z,"@davidallengreen If the UK leaves the EU then IMO there is ZERO chance it will be able to keep its rebate if/when it rejoins
+
+That is one reason why I believe that #Brexit has to be killed off before the UK takes the disastrous step of leaving the European Union
+
 #KillBrexitNow 
-@ann1erich https://t.co/th5IIPmtOV","['killbrexitnow', 'brexit']"
-169,169,169,1546986,1014000395511914496,852389079975165952,negative,remain,2018-07-03T04:18:28.000Z,"@ph210147 It is difficult to overstate the stupidity and incompetence of @theresa_may in asking so late in the #Brexit process for a financial analysis of Brexit options.
 
-IMO @theresa_may will be remembered as the UK's worst ever Prime Minister.
+@CharlesTannock","['brexit', 'killbrexitnow']"
+606283,1002905704703971328,852389079975165952,negative,remain,2018-06-02T13:32:07.000Z,"@Graham_British Personally I would fund neither terrorism nor Tommy Robinson.
 
-RT if you agree
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-170,170,170,604328,1002878753675075584,852389079975165952,negative,remain,2018-06-02T11:45:02.000Z,"@hofficoffi4 Don't just aspire to fight #Brexit.
+However, I would consider funding legal action to stop @theresa_may's illegal, irrational and damaging #Brexit.
 
-Make it your priority to KILL BREXIT. ... You know it makes sense! :)
+#KillBrexitNow https://t.co/CgydyihV07","['brexit', 'killbrexitnow']"
+1183380,1010047689336279040,852389079975165952,negative,other,2018-06-22T06:31:49.000Z,"#Brexit in 2019 is doomed.
 
-#KillBrexitNow https://t.co/ME63s3Rxt4","['killbrexitnow', 'brexit']"
-171,171,171,705106,1004629296210743296,852389079975165952,neutral,other,2018-06-07T07:41:03.000Z,"Unfair on Dacre IMO ... but only marginally so.
+Briefing paper to follow in the next few days.
 
-Dacre was important in creating the fertile soil in which other xenophobes could plant their ill-fated attempt at #Brexit.
-
-#KillBrexitNow https://t.co/470dDxzGGq","['killbrexitnow', 'brexit']"
-172,172,172,854911,1006437491996549120,852389079975165952,negative,other,2018-06-12T07:26:11.000Z,"Rubbish. The Cabinet bun fight might agree a UK Customs PROPOSAL.
-
-It cannot ""agree"" a ""Brexit customs deal"".
-
-@BBCNormanS 
-
-Is there no end to the incompetence of the #Brexit Broadcasting Corporation?
-#KillBrexitNow https://t.co/uudvMs9Mln","['killbrexitnow', 'brexit']"
-173,173,173,705105,1004629296210743296,852389079975165952,neutral,other,2018-06-07T07:41:03.000Z,"Unfair on Dacre IMO ... but only marginally so.
-
-Dacre was important in creating the fertile soil in which other xenophobes could plant their ill-fated attempt at #Brexit.
-
-#KillBrexitNow https://t.co/470dDxzGGq","['killbrexitnow', 'brexit']"
-174,174,174,2764865,1026018641266044928,852389079975165952,negative,other,2018-08-05T08:14:41.000Z,"@faisalislam A ""No Deal"" #Brexit will be a National Emergency for the UK
-
-https://t.co/ItNbZFZOlg
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-175,175,175,2764866,1026018641266044928,852389079975165952,negative,other,2018-08-05T08:14:41.000Z,"@faisalislam A ""No Deal"" #Brexit will be a National Emergency for the UK
-
-https://t.co/ItNbZFZOlg
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-176,176,176,2186341,1019806568668426240,852389079975165952,negative,other,2018-07-19T04:50:07.000Z,"@SkyNews A ""No Deal"" #Brexit is a National Emergency
+Since #Brexit is doomed @theresa_may needs to #KillBrexitNow
+@MarieAnnUK https://t.co/Uehtdcejsx","['brexit', 'killbrexitnow']"
+2186341,1019806568668426240,852389079975165952,negative,other,2018-07-19T04:50:07.000Z,"@SkyNews A ""No Deal"" #Brexit is a National Emergency
 see e.g.
 https://t.co/oXID8pQGTB
 
 The danger re supply of medicines is to those medicines that CAN'T be stockpiled due to e.g. very short shelf-life.
 
 A ""No Deal"" Brexit must be avoided.
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-177,177,177,854910,1006437491996549120,852389079975165952,negative,other,2018-06-12T07:26:11.000Z,"Rubbish. The Cabinet bun fight might agree a UK Customs PROPOSAL.
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+901489,1006794959134052352,852389079975165952,negative,other,2018-06-13T07:06:38.000Z,"Even the #Brexit Broadcasting Corporation couldn't be seen to ignore this.
 
-It cannot ""agree"" a ""Brexit customs deal"".
+#KillBrexitNow https://t.co/UyzYpoIOQd","['brexit', 'killbrexitnow']"
+1373190,1011864219136950272,852389079975165952,neutral,other,2018-06-27T06:50:04.000Z,"@campbellclaret 
 
-@BBCNormanS 
+The UK's system of government deserves to be treated with contempt.
 
-Is there no end to the incompetence of the #Brexit Broadcasting Corporation?
-#KillBrexitNow https://t.co/uudvMs9Mln","['killbrexitnow', 'brexit']"
-178,178,178,1546951,1013997692974923776,852389079975165952,positive,remain,2018-07-03T04:07:43.000Z,"No surprise here that the #Brexit Baldricks are supporting each other in their ""cunning plan"".
+Both @theresa_may and the Westminster Parliament have demonstrated spectacular incompetence re #Brexit.
 
-@BorisJohnson @Jacob_Rees_Mogg 
-#KillBrexitNow https://t.co/ykulK3Eglr","['killbrexitnow', 'brexit']"
-179,179,179,2186340,1019806568668426240,852389079975165952,negative,other,2018-07-19T04:50:07.000Z,"@SkyNews A ""No Deal"" #Brexit is a National Emergency
-see e.g.
-https://t.co/oXID8pQGTB
+#KillBrexitNow https://t.co/eM0hgUNXWz","['brexit', 'killbrexitnow']"
+606284,1002905704703971328,852389079975165952,negative,remain,2018-06-02T13:32:07.000Z,"@Graham_British Personally I would fund neither terrorism nor Tommy Robinson.
 
-The danger re supply of medicines is to those medicines that CAN'T be stockpiled due to e.g. very short shelf-life.
+However, I would consider funding legal action to stop @theresa_may's illegal, irrational and damaging #Brexit.
 
-A ""No Deal"" Brexit must be avoided.
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-180,180,180,1743119,1016172266298671104,852389079975165952,neutral,other,2018-07-09T04:08:42.000Z,"@lewis_goodall 
+#KillBrexitNow https://t.co/CgydyihV07","['brexit', 'killbrexitnow']"
+694488,1004380236786667520,852389079975165952,positive,other,2018-06-06T15:11:23.000Z,"@jeremycorbyn has a skillset to manage #Brexit that matches Northern Trains ability to reorganise a railway timetable.
 
-As I've said ... #Brexit is the undeliverable peddled by the untrustworthy to the unrealistic 
+#KillBrexitNow https://t.co/ozBv1h9QFx","['brexit', 'killbrexitnow']"
+1374034,1011869237240057856,852389079975165952,negative,remain,2018-06-27T07:10:00.000Z,"@jacquep 
 
-#KillBrexitNow https://t.co/KlN0nCzkuH","['killbrexitnow', 'brexit']"
-181,181,181,1743118,1016172266298671104,852389079975165952,neutral,other,2018-07-09T04:08:42.000Z,"@lewis_goodall 
+I believe you're wrong.
 
-As I've said ... #Brexit is the undeliverable peddled by the untrustworthy to the unrealistic 
-
-#KillBrexitNow https://t.co/KlN0nCzkuH","['killbrexitnow', 'brexit']"
-182,182,182,2002634,1018407342327640064,852389079975165952,negative,other,2018-07-15T08:10:06.000Z,"@afneil 
-
-I've been saying for some time that #Brexit (in 2019) is doomed.
-
-The choice is staying in the EU or a ""No Deal"" Brexit which is a National Emergency.
-
-Any sane PM will keep the UK in the EU.
-
-#KillBrexitNow https://t.co/tqoMeUuutV","['killbrexitnow', 'brexit']"
-183,183,183,1370355,1011803437447737344,852389079975165952,neutral,other,2018-06-27T02:48:32.000Z,"@donnyc1975 I'd like to be educated on the detail of JIT logistics.
-
-Email me at killbrexitnow@gmail.com if you care to discuss.
-
-FWIW I expect #Brexit in 2019 (if not abandoned) to be a National Emergency in part because of disruption to JIT supply chains.
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-184,184,184,786315,1005708557369700352,852389079975165952,neutral,other,2018-06-10T07:09:39.000Z,"@theresa_may's Cabinet lock-in is pointless.
+Brexit won't happen on 29th/30th March 2019.
 
 #Brexit in 2019 is doomed.
 
-#KillBrexitNow and put us all out of our Brexit misery.
-@brexit @apharrington123 https://t.co/XtdfOKCRtj","['killbrexitnow', 'brexit']"
-185,185,185,786314,1005708557369700352,852389079975165952,neutral,other,2018-06-10T07:09:39.000Z,"@theresa_may's Cabinet lock-in is pointless.
+@theresa_may should #KillBrexitNow and put it out of its misery. https://t.co/I8qAYw1yXp","['brexit', 'killbrexitnow']"
+2002901,1018408393856503808,852389079975165952,negative,remain,2018-07-15T08:14:16.000Z,"The June 2016 Referendum was unlawful.
 
-#Brexit in 2019 is doomed.
+Its result should be rejected.
 
-#KillBrexitNow and put us all out of our Brexit misery.
-@brexit @apharrington123 https://t.co/XtdfOKCRtj","['killbrexitnow', 'brexit']"
-186,186,186,1546952,1013997692974923776,852389079975165952,positive,remain,2018-07-03T04:07:43.000Z,"No surprise here that the #Brexit Baldricks are supporting each other in their ""cunning plan"".
+#Brexit (in 2019) is doomed.
 
-@BorisJohnson @Jacob_Rees_Mogg 
-#KillBrexitNow https://t.co/ykulK3Eglr","['killbrexitnow', 'brexit']"
-187,187,187,2390699,1022036222817042432,852389079975165952,negative,other,2018-07-25T08:29:58.000Z,"@scarlettpeach People like your woman who is ""for England"" need to realise how damaging #Brexit will be, particularly if there is ""No Deal"".
+But has yet to be killed off.
 
-https://t.co/ItNbZFZOlg
+#KillBrexitNow https://t.co/3d0TZSJohx","['brexit', 'killbrexitnow']"
+1910907,1017423138844487680,852389079975165952,positive,other,2018-07-12T14:59:13.000Z,"@WestmonsterUK Has Westmonster or any of its politician acolytes produced a PLAN for #Brexit that is legally possible and economically literate?
 
-She needs to understand that being ""for Brexit"" is to be ""against England"".
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-188,188,188,2390698,1022036222817042432,852389079975165952,negative,other,2018-07-25T08:29:58.000Z,"@scarlettpeach People like your woman who is ""for England"" need to realise how damaging #Brexit will be, particularly if there is ""No Deal"".
+It would be interesting to see if you have a SOLUTION.
 
-https://t.co/ItNbZFZOlg
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+1584518,1014455799798816768,852389079975165952,negative,other,2018-07-04T10:28:05.000Z,"It's the #Brexit Broadcasting Corporation in action.
 
-She needs to understand that being ""for Brexit"" is to be ""against England"".
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-189,189,189,2720855,1025338342970466304,852389079975165952,negative,other,2018-08-03T11:11:25.000Z,"@jonlis1 @steverichards14 Jonathan,
-
-The big difference is that in #Brexit the bullet (according to Lord Pannick in Miller) has already been fired.
-
-The question is how to stop it.
-
-There are two possibilities:
-1. @theresa_may cancels #Brexit
-2. A Court rules it unlawful
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-190,190,190,2720854,1025338342970466304,852389079975165952,negative,other,2018-08-03T11:11:25.000Z,"@jonlis1 @steverichards14 Jonathan,
-
-The big difference is that in #Brexit the bullet (according to Lord Pannick in Miller) has already been fired.
-
-The question is how to stop it.
-
-There are two possibilities:
-1. @theresa_may cancels #Brexit
-2. A Court rules it unlawful
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-191,191,191,1546985,1014000395511914496,852389079975165952,negative,remain,2018-07-03T04:18:28.000Z,"@ph210147 It is difficult to overstate the stupidity and incompetence of @theresa_may in asking so late in the #Brexit process for a financial analysis of Brexit options.
-
-IMO @theresa_may will be remembered as the UK's worst ever Prime Minister.
-
-RT if you agree
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-192,192,192,604327,1002878753675075584,852389079975165952,negative,remain,2018-06-02T11:45:02.000Z,"@hofficoffi4 Don't just aspire to fight #Brexit.
-
-Make it your priority to KILL BREXIT. ... You know it makes sense! :)
-
-#KillBrexitNow https://t.co/ME63s3Rxt4","['killbrexitnow', 'brexit']"
-193,193,193,2188917,1019834674850476032,852389079975165952,positive,other,2018-07-19T06:41:48.000Z,"@nickeardleybbc The EU is MUCH better prepared for #Brexit than the UK.
-
-The EU has already published 66 Preparedness Notices:
-https://t.co/NWT9X6DkMa
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-194,194,194,2188918,1019834674850476032,852389079975165952,positive,other,2018-07-19T06:41:48.000Z,"@nickeardleybbc The EU is MUCH better prepared for #Brexit than the UK.
-
-The EU has already published 66 Preparedness Notices:
-https://t.co/NWT9X6DkMa
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-195,195,195,1370356,1011803437447737344,852389079975165952,neutral,other,2018-06-27T02:48:32.000Z,"@donnyc1975 I'd like to be educated on the detail of JIT logistics.
-
-Email me at killbrexitnow@gmail.com if you care to discuss.
-
-FWIW I expect #Brexit in 2019 (if not abandoned) to be a National Emergency in part because of disruption to JIT supply chains.
-
-#KillBrexitNow","['killbrexitnow', 'brexit']"
-196,196,196,943744,1007152963222196224,852389079975165952,negative,other,2018-06-14T06:49:13.000Z,"Perhaps #Brexit is fairly termed ""Death by a thousand (job) cuts""
+Shameful ... but shameful behaviour by the BBC is becoming routine.
 
 #KillBrexitNow
-@hardworkingword https://t.co/m8jILHxelD","['killbrexitnow', 'brexit']"
-197,197,197,858746,1006457153249570816,852389079975165952,positive,other,2018-06-12T08:44:19.000Z,"Why does the #Brexit Broadcasting Corporation allow @DavidDavisMP to lie so blatantly? (Assuming you accurately report his remarks)
+@bbclaurak @washyourmouth1 @r4Today https://t.co/WlBUtBQTzE","['brexit', 'killbrexitnow']"
+1370356,1011803437447737344,852389079975165952,neutral,other,2018-06-27T02:48:32.000Z,"@donnyc1975 I'd like to be educated on the detail of JIT logistics.
 
-#KillBrexitNow https://t.co/j56zjiMz26","['killbrexitnow', 'brexit']"
-198,198,198,1184702,1010053496354361344,852389079975165952,negative,remain,2018-06-22T06:54:54.000Z,"@SCrabbPembs 
+Email me at killbrexitnow@gmail.com if you care to discuss.
+
+FWIW I expect #Brexit in 2019 (if not abandoned) to be a National Emergency in part because of disruption to JIT supply chains.
+
+#KillBrexitNow","['brexit', 'killbrexitnow']"
+2235089,1020520037168410624,852389079975165952,negative,other,2018-07-21T04:05:11.000Z,"IMO a ""No Deal"" #Brexit will be a National Emergency
+
+https://t.co/oXID8pQGTB
+
+#KillBrexitNow https://t.co/Bkehmy75CV","['brexit', 'killbrexitnow']"
+1184703,1010053496354361344,852389079975165952,negative,remain,2018-06-22T06:54:54.000Z,"@SCrabbPembs 
 
 #Brexit in 2019 is doomed due, in part, to mistakes by @theresa_may 
 
 Briefing paper in next few days
 
-@theresa_may should #KillBrexitNow https://t.co/2Jj9wcOZwT","['killbrexitnow', 'brexit']"
-199,199,199,1184703,1010053496354361344,852389079975165952,negative,remain,2018-06-22T06:54:54.000Z,"@SCrabbPembs 
+@theresa_may should #KillBrexitNow https://t.co/2Jj9wcOZwT","['brexit', 'killbrexitnow']"
+2864612,1027452398015586304,852389079975165952,negative,other,2018-08-09T07:11:55.000Z,"@GeorgePeretzQC The UK needs a written constitution.
 
-#Brexit in 2019 is doomed due, in part, to mistakes by @theresa_may 
+The upcoming #Brexit-caused constitutional crisis may provide the pathway to a written constitution.
 
-Briefing paper in next few days
+#KillBrexitNow","['brexit-caused', 'killbrexitnow']"
+2864613,1027452398015586304,852389079975165952,negative,other,2018-08-09T07:11:55.000Z,"@GeorgePeretzQC The UK needs a written constitution.
 
-@theresa_may should #KillBrexitNow https://t.co/2Jj9wcOZwT","['killbrexitnow', 'brexit']"
+The upcoming #Brexit-caused constitutional crisis may provide the pathway to a written constitution.
+
+#KillBrexitNow","['brexit-caused', 'killbrexitnow']"
+2762462,1025997873228472320,852389079975165952,negative,other,2018-08-05T06:52:09.000Z,"1/
+Please RT ... Does ANYONE have a rationale for the claimed fuel shortages in the event of a ""No Deal"" #Brexit?
+
+Email me at killbrexitnow@gmail.com if a reply on Twitter is too short
+
+#KillBrexitNow","['brexit?', 'killbrexitnow']"
+2762461,1025997873228472320,852389079975165952,negative,other,2018-08-05T06:52:09.000Z,"1/
+Please RT ... Does ANYONE have a rationale for the claimed fuel shortages in the event of a ""No Deal"" #Brexit?
+
+Email me at killbrexitnow@gmail.com if a reply on Twitter is too short
+
+#KillBrexitNow","['brexit?', 'killbrexitnow']"
+902921,1006805255600984064,852389079975165952,negative,other,2018-06-13T07:47:33.000Z,"@thatginamiller 
+
+Have you looked at the arguments that the Law already requires a Referendum to ratify any Withdrawal Agreement re #Brexit?
+
+#KillBrexitNow https://t.co/8TWgp4Ll6g","['brexit?', 'killbrexitnow']"
+902922,1006805255600984064,852389079975165952,negative,other,2018-06-13T07:47:33.000Z,"@thatginamiller 
+
+Have you looked at the arguments that the Law already requires a Referendum to ratify any Withdrawal Agreement re #Brexit?
+
+#KillBrexitNow https://t.co/8TWgp4Ll6g","['brexit?', 'killbrexitnow']"
+2145503,1019489753719279616,852389079975165952,negative,other,2018-07-18T07:51:13.000Z,"@Boeing To what extent is your manufacturing in the UK vulnerable to the adverse effects of a ""No Deal"" #Brexit?
+
+It seems to me that you may have significant problems re your UK manufacturing facilities.
+
+#KillBrexitNow","['brexit?', 'killbrexitnow']"
+2145504,1019489753719279616,852389079975165952,negative,other,2018-07-18T07:51:13.000Z,"@Boeing To what extent is your manufacturing in the UK vulnerable to the adverse effects of a ""No Deal"" #Brexit?
+
+It seems to me that you may have significant problems re your UK manufacturing facilities.
+
+#KillBrexitNow","['brexit?', 'killbrexitnow']"
+600874,1002836452194086912,852389079975165952,negative,other,2018-06-02T08:56:56.000Z,"@Rachel5742 @JoePajak @BBCr4today The #BrexitBroadcastingCorporation does not want the public to know how dishonest and incompetent @theresa_may and other Ministers have been on #Brexit.
+
+The BBC has serious questions to answer about its coverage before and after the 23rd June 2016 Referendum
+
+#KillBrexitNow","['brexitbroadcastingcorporation', 'brexit', 'killbrexitnow']"
+600873,1002836452194086912,852389079975165952,negative,other,2018-06-02T08:56:56.000Z,"@Rachel5742 @JoePajak @BBCr4today The #BrexitBroadcastingCorporation does not want the public to know how dishonest and incompetent @theresa_may and other Ministers have been on #Brexit.
+
+The BBC has serious questions to answer about its coverage before and after the 23rd June 2016 Referendum
+
+#KillBrexitNow","['brexitbroadcastingcorporation', 'brexit', 'killbrexitnow']"

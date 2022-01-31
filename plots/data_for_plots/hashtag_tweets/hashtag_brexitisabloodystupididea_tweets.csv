@@ -1,14 +1,14 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,1321636,810916010966548480,8271762,negative,other,2016-12-19T18:33:37.000Z,"Little discussed but increasingly likely... The chaotic route to ""Train-crash Brexit"" https://t.co/TfZL57ZX2f @FT #BrexitIsABloodyStupidIdea",['brexitisabloodystupididea']
-1,1,1,1313632,810565489588142080,8271762,negative,other,2016-12-18T19:20:46.000Z,"""Brexit the road to crony capitalism"" Ex Tory minister Stephen Dorrell battles #Brexit. https://t.co/FH0VVsB4jL #BrexitIsABloodyStupidIdea","['brexitisabloodystupididea', 'brexit']"
-2,2,2,1899240,874192489170841600,8271762,neutral,leave,2017-06-12T09:11:45.000Z,"If you substitute the word 'God' for 'Brexit' it makes just as much sense. 
+,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+1321636,810916010966548480,8271762,negative,other,2016-12-19T18:33:37.000Z,"Little discussed but increasingly likely... The chaotic route to ""Train-crash Brexit"" https://t.co/TfZL57ZX2f @FT #BrexitIsABloodyStupidIdea",['brexitisabloodystupididea']
+1313632,810565489588142080,8271762,negative,other,2016-12-18T19:20:46.000Z,"""Brexit the road to crony capitalism"" Ex Tory minister Stephen Dorrell battles #Brexit. https://t.co/FH0VVsB4jL #BrexitIsABloodyStupidIdea","['brexitisabloodystupididea', 'brexit']"
+1926013,874658546834706432,8271762,neutral,leave,2017-06-13T16:03:42.000Z,"Britain can stay in the EU if wants, Germany says https://t.co/JSIIEMfzlf #BrexitIsABloodyStupidIdea #Brexit","['brexit', 'brexitisabloodystupididea']"
+1925965,874657828589502464,8271762,neutral,other,2017-06-13T16:00:51.000Z,"BBC News - London could lose EU euro clearing role https://t.co/gFDWoXpYbl
+#BrexitIsABloodyStupidIdea #Brexit","['brexit', 'brexitisabloodystupididea']"
+1899240,874192489170841600,8271762,neutral,leave,2017-06-12T09:11:45.000Z,"If you substitute the word 'God' for 'Brexit' it makes just as much sense. 
 #Brexit 
-#MagicTeapot #BrexitIsABloodyStupidIdea","['brexit', 'magicteapot', 'brexitisabloodystupididea']"
-3,3,3,1926013,874658546834706432,8271762,neutral,leave,2017-06-13T16:03:42.000Z,"Britain can stay in the EU if wants, Germany says https://t.co/JSIIEMfzlf #BrexitIsABloodyStupidIdea #Brexit","['brexitisabloodystupididea', 'brexit']"
-4,4,4,1925965,874657828589502464,8271762,neutral,other,2017-06-13T16:00:51.000Z,"BBC News - London could lose EU euro clearing role https://t.co/gFDWoXpYbl
-#BrexitIsABloodyStupidIdea #Brexit","['brexitisabloodystupididea', 'brexit']"
-5,5,5,131081,821432557925519360,8271762,positive,other,2017-01-17T19:02:37.000Z,"#EUNITE against #Brexit !
+#MagicTeapot #BrexitIsABloodyStupidIdea","['brexitisabloodystupididea', 'magicteapot', 'brexit']"
+131081,821432557925519360,8271762,positive,other,2017-01-17T19:02:37.000Z,"#EUNITE against #Brexit !
 @Helen_Whately @Theresa_May
 We are united against your plans.
 #NoWayMay
-#BrexitIsABloodyStupidIdea","['eunite', 'brexitisabloodystupididea', 'brexit', 'nowaymay']"
+#BrexitIsABloodyStupidIdea","['nowaymay', 'brexitisabloodystupididea', 'eunite', 'brexit']"

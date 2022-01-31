@@ -1,467 +1,376 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,1546274,932513922497859584,2908441097,neutral,remain,2017-11-20T07:40:19.000Z,#Brexit deadline https://t.co/1lHeNzCB5u #StopBrexit #2025shift #taoiseach #FBPE #2019shift https://t.co/oq0IklzeyU,"['2025shift', 'taoiseach', 'fbpe', '2019shift', 'brexit', 'stopbrexit']"
-1,1,1,1546389,932516490607243264,2908441097,neutral,remain,2017-11-20T07:50:31.000Z,#Brexit https://t.co/49kix4MPra deadline https://t.co/1lHeNzCB5u #StopBrexit #2025shift #taoiseach #FBPE #2019shift https://t.co/adYgNB9ElR,"['2025shift', 'taoiseach', 'fbpe', '2019shift', 'brexit', 'stopbrexit']"
-2,2,2,1927563,942383399041470464,2188550432,neutral,remain,2017-12-17T13:18:05.000Z,"How would a new EU referendum work?
-#Brexit #StopBrexit #FBPE #2ndReferendum #2ndRef
-https://t.co/y0tvDGuWlv","['2ndref', '2ndreferendum', 'fbpe', 'brexit', 'stopbrexit']"
-3,3,3,1930405,942472608154640384,2188550432,negative,remain,2017-12-17T19:12:34.000Z,"#Brexit is putting me off this whole ‘will of the people’ idea | Matthew d’Ancona
+,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+1467462,929979567955152896,17960088,negative,other,2017-11-13T07:49:41.000Z,"@ImIncorrigible @Keir_Starmer @UKLabour @LBC A second referendum on what, exactly?  Surely the British electorate cannot be expected to understand the detail of any complex deal or lack of thereof...  #FBPE #2ndref #Brexit https://t.co/UzQ89z80Ud","['2ndref', 'brexit', 'fbpe']"
+1930405,942472608154640384,2188550432,negative,remain,2017-12-17T19:12:34.000Z,"#Brexit is putting me off this whole ‘will of the people’ idea | Matthew d’Ancona
 
 ""Vassal states, traitors and enemies of the people: the new political lexicon is a reminder of the dangers of populism""
 
 #StopBrexit #FBPE #2ndReferendum #2ndRef
 
-https://t.co/sAtgLiMdhQ","['2ndref', '2ndreferendum', 'fbpe', 'brexit', 'stopbrexit']"
-4,4,4,1927224,942375547463663616,2188550432,neutral,remain,2017-12-17T12:46:53.000Z,"The #Brexit pantomime: act two – cartoon
+https://t.co/sAtgLiMdhQ","['2ndref', 'brexit', 'stopbrexit', 'fbpe', '2ndreferendum']"
+1927563,942383399041470464,2188550432,neutral,remain,2017-12-17T13:18:05.000Z,"How would a new EU referendum work?
+#Brexit #StopBrexit #FBPE #2ndReferendum #2ndRef
+https://t.co/y0tvDGuWlv","['2ndref', 'brexit', 'stopbrexit', 'fbpe', '2ndreferendum']"
+1927636,942385493215531008,2188550432,positive,remain,2017-12-17T13:26:24.000Z,"I'm more than happy to put my trust in the public to reconsider #Brexit
 #StopBrexit #FBPE #2ndReferendum #2ndRef
-https://t.co/0i6WF1YDuf","['2ndref', '2ndreferendum', 'fbpe', 'brexit', 'stopbrexit']"
-5,5,5,1927636,942385493215531008,2188550432,positive,remain,2017-12-17T13:26:24.000Z,"I'm more than happy to put my trust in the public to reconsider #Brexit
+https://t.co/nxNDZJHHpM","['2ndref', 'brexit', 'stopbrexit', 'fbpe', '2ndreferendum']"
+1927224,942375547463663616,2188550432,neutral,remain,2017-12-17T12:46:53.000Z,"The #Brexit pantomime: act two – cartoon
 #StopBrexit #FBPE #2ndReferendum #2ndRef
-https://t.co/nxNDZJHHpM","['2ndref', '2ndreferendum', 'fbpe', 'brexit', 'stopbrexit']"
-6,6,6,1451554,929288204750086144,278214638,positive,remain,2017-11-11T10:02:28.000Z,.@ohmyohmyohmy1 What if #Brexit #A50 incorrectly notified? All null&amp;void! Help us &amp; @acgrayling #StopBrexit Pls donate &amp; RT #FBPE https://t.co/JxLoTejSmX https://t.co/OJQqcV1oac,"['a50', 'fbpe', 'brexit', 'stopbrexit']"
-7,7,7,1491419,930574204927447040,278214638,positive,remain,2017-11-14T23:12:34.000Z,@HowShouldWeVote What if #Brexit #A50 incorrectly notified? All null&amp;void! Help us &amp; @acgrayling #StopBrexit Pls donate &amp; RT #FBPE https://t.co/JxLoTejSmX https://t.co/NJapHHEXaA,"['a50', 'fbpe', 'brexit', 'stopbrexit']"
-8,8,8,1451664,929290832888389632,921306035029200896,positive,remain,2017-11-11T10:12:54.000Z,.@PulseofEurope What if #Brexit #A50 incorrectly notified? All null&amp;void! Help us &amp; @acgrayling #StopBrexit Pls donate &amp; RT #FBPE https://t.co/H5qTP6aaNb,"['a50', 'fbpe', 'brexit', 'stopbrexit']"
-9,9,9,1451453,929285581212979200,278214638,positive,remain,2017-11-11T09:52:02.000Z,"If U agree there is no such thing as a Brusselo, support @A50Challenge @acgrayling &amp; #StopBrexit Pls donate/RT https://t.co/JxLoTejSmX If #Brexit #A50 not notified correctly, it all stops! #FBPE https://t.co/fAtEUlMDcR","['a50', 'fbpe', 'brexit', 'stopbrexit']"
-10,10,10,1454190,929397320101351424,278214638,positive,remain,2017-11-11T17:16:03.000Z,@annetteashley61 @Undercover_mole What if #Brexit #A50 notified incorrectly? All null&amp;void! Help @A50Challenge &amp; @acgrayling #StopBrexit Pls donate &amp; RT #FBPE https://t.co/JxLoTejSmX,"['a50', 'fbpe', 'brexit', 'stopbrexit']"
-11,11,11,1451555,929288204884291584,921306035029200896,positive,remain,2017-11-11T10:02:28.000Z,.@ohmyohmyohmy1 What if #Brexit #A50 incorrectly notified? All null&amp;void! Help us &amp; @acgrayling #StopBrexit Pls donate &amp; RT #FBPE https://t.co/H5qTP6aaNb https://t.co/CuPalrVd89,"['a50', 'fbpe', 'brexit', 'stopbrexit']"
-12,12,12,1451700,929292016395091968,921306035029200896,positive,remain,2017-11-11T10:17:36.000Z,.@mrjamesob What if #Brexit #A50 incorrectly notified? All null&amp;void! Help @A50Challenge &amp; @acgrayling #StopBrexit Pls donate &amp; RT #FBPE https://t.co/H5qTP6aaNb,"['a50', 'fbpe', 'brexit', 'stopbrexit']"
-13,13,13,1891043,941244791018401792,51957156,positive,remain,2017-12-14T09:53:40.000Z,"Somehow, this quote feels very appropriate after yesterday's vote in Parliament.
+https://t.co/0i6WF1YDuf","['2ndref', 'brexit', 'stopbrexit', 'fbpe', '2ndreferendum']"
+1897655,941387140172255232,123653037,negative,remain,2017-12-14T19:19:19.000Z,"@Nigel_Farage @Anna_Soubry @Andrew_Adonis With less than 3% margin on 72% turnout, and campaign of lies and deceit, Brexit should be stopped, Nige. Greater margin required to change constitution of average golf club. #FBPE #2ndRef","['2ndref', 'fbpe']"
+1723080,937643593434583040,33148342,neutral,remain,2017-12-04T11:23:47.000Z,"#FBPE 
+# Brexit chaos
+#ExitFromBrexit
+#2ndRef 
+#NIIRE 
 
-#Amendment7 #StopBrexit #ExitBrexit #FBPE #Brexit https://t.co/tZMbp57Ihz","['amendment7', 'fbpe', 'exitbrexit', 'brexit', 'stopbrexit']"
-14,14,14,1892362,941263208962289664,1631193031,negative,remain,2017-12-14T11:06:51.000Z,"@Brexit_Newz Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 Leave Music https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #Recycleelectrons #StopBrexit","['amendment7', 'fbpe', 'recycleelectrons', 'brexit', 'stopbrexit']"
-15,15,15,1590246,933506436755320832,15898809,negative,remain,2017-11-23T01:24:12.000Z,"#Tories voted that #animals can't feel pain and aren't #SentientBeings.  My response.
+Let's make this trend! https://t.co/3YQbK078qF","['2ndref', 'niire', 'fbpe', 'exitfrombrexit']"
+1884950,941088703476363264,319619581,positive,remain,2017-12-13T23:33:26.000Z,"My hope from this evening in the House of Commons is that *all* the MPs who won #Amendment7 tonight should simply remember the rush of adrenaline, the sense of success felt in that moment. That moment *can* be repeated. #Brexit #StopBrexit #FBPE #EUWithdrawlBill #A50challenge","['a50challenge', 'amendment7', 'brexit', 'stopbrexit', 'fbpe', 'euwithdrawlbill']"
+1827820,939335017733509120,1401834032,negative,other,2017-12-09T03:24:54.000Z,"@nickreeves9876 @jeremycorbyn No! No! NO, @jeremycorbyn We do NOT want 'phase two'! OPPOSE Brexit, @RemaininEU Expose these Brexit criminals!!! https://t.co/BqUj84aQOx 💥Article 50 Legal Challenge💥
+THE ONE we’ve been waiting for!!   https://t.co/xp1ufOUmIZ … … … … @wolchover   #FBPE #a50challenge","['a50challenge', 'fbpe']"
+1744660,937882255908855808,1401834032,neutral,remain,2017-12-05T03:12:09.000Z,"@Jezza4_PM @jeremycorbyn @theresa_may Any further backing of Brexit may damage your chances, Jezza. Your voters are backing YOU to do the right thing, @RemaininEU and put country before politics. Let the Tories own Brexit and die for it! @wolchover #FBPE #a50challenge","['a50challenge', 'fbpe']"
+1657134,935549721304846336,1401834032,positive,leave,2017-11-28T16:43:29.000Z,"@BrexitBin On halting Brexit: ""For another, there are an awful lot of Labour MPs who feel exactly the same way."" Yes, @Keir_Starmer, @jeremycorbyn, as do your voters! PLEASE rethink your stance. We want to support you, but you NEED to listen!!! #FBPE #a50challenge","['a50challenge', 'fbpe']"
+1536827,932102652103680000,1401834032,negative,remain,2017-11-19T04:26:04.000Z,"@Undercover_mole ""We would do better by forgetting the Brexit fantasy. #StopBrexit"" Sadly, this says it, in all its painful truth. What more can we do other than fight our corner and keep the faith? Never give up. NEVER!!! @wolchover  #FBPE #a50challenge ❤️🇬🇧🇪🇺","['a50challenge', 'fbpe', 'stopbrexit']"
+1823790,939205454147850240,319619581,neutral,remain,2017-12-08T18:50:04.000Z,"@ottocrat @dwatchorn Do as we say, not as we do. 😡 #Brexit #StopBrexit #FBPE #FinalSay #FinalSayForAll #A50Challenge","['a50challenge', 'finalsay', 'brexit', 'stopbrexit', 'finalsayforall', 'fbpe']"
+1836132,939557640191037440,319619581,neutral,remain,2017-12-09T18:09:32.000Z,@AnthonyBeaumo14 @J_amesp There really should have been some sort of minimum attendance requirement before financial penalties are incurred. 😡 #Brexit #StopBrexit #FBPE #FinalSay #FinalSayForAll #a50invalidity #A50Challenge,"['a50challenge', 'finalsay', 'brexit', 'stopbrexit', 'finalsayforall', 'fbpe', 'a50invalidity']"
+1927021,942371589881987072,319619581,negative,remain,2017-12-17T12:31:10.000Z,@confidence_no No problem. I've been using #FBPE for quite a while now. Fighting #Brexit is an incredibly important cause. #Brexit has to be the biggest threat to our country since WWII. #StopBrexit #exitfrombrexit #FBPE #FinalSay #FinalSayForAll #a50invalidity 👇 #A50Challenge,"['a50challenge', 'finalsay', 'brexit', 'stopbrexit', 'finalsayforall', 'fbpe', 'a50invalidity', 'exitfrombrexit']"
+1799548,938946111640948736,319619581,positive,remain,2017-12-08T01:39:32.000Z,"Well with the brand image of the @Conservatives being flushed down the toilet of credibility by a jihadi #HardBrexit supporting Government its hardly surprising.
 
-#Brexit #StopBrexit #Brexitshambles #AnimalSentience #animalsfeelpain #AnimalsAreSentient #FBPE by #Vegan_Blonde https://t.co/IkhFWsfIPw","['animals', 'tories', 'animalsaresentient', 'sentientbeings', 'animalsentience', 'animalsfeelpain', 'vegan_blonde', 'brexitshambles', 'fbpe', 'brexit', 'stopbrexit']"
-16,16,16,1647958,935291940437942272,278214638,neutral,remain,2017-11-27T23:39:10.000Z,Let's show #Brexit #Art50 incorrectly declared = null &amp; void. @acgrayling @A50Challenge #StopBrexit #exitfrombrexit #FBPE #BrexitReports. https://t.co/ljK70QYxod,"['art50', 'exitfrombrexit', 'brexitreports', 'fbpe', 'brexit', 'stopbrexit']"
-17,17,17,1773153,938378247221469184,319619581,neutral,remain,2017-12-06T12:03:03.000Z,"#StopBrexit by withdrawing #Article50 now.
-#Brexit #FBPE #CountryBeforeParty 👇 https://t.co/g22QNIWnCn","['article50', 'countrybeforeparty', 'fbpe', 'brexit', 'stopbrexit']"
-18,18,18,1832478,939450141030928384,23073725,positive,other,2017-12-09T11:02:22.000Z,"@Daily_Express It's hardly a shock.The so-called referendum was advisory and the man who wrote #Article50 had said it can be withdrawn at any time. Has the Daily Express, owned by a man who probably pushed #Brexit because he's a tax avoider, decided to come clean that it is a catastrophe? #FBPE","['article50', 'fbpe', 'brexit']"
-19,19,19,1627767,934759521116880896,319619581,neutral,remain,2017-11-26T12:23:31.000Z,".@adamboultonSKY
+#Brexit #StopBrexit #FBPE #FinalSay #FinalSayForAll #a50invalidity 👇 #A50Challenge https://t.co/ObE6ff6K7B","['a50challenge', 'finalsay', 'brexit', 'stopbrexit', 'finalsayforall', 'fbpe', 'a50invalidity', 'hardbrexit']"
+1911607,941726509789798400,319619581,neutral,remain,2017-12-15T17:47:51.000Z,Heat Hear @martinkettle 👏👏👏👏👏👏 #IDontBelieveInBrexit #exitfrombrexit #Brexit #StopBrexit #FBPE #FinalSay #FinalSayForAll #a50invalidity 👇 #A50Challenge https://t.co/S1heG3al1w,"['a50challenge', 'finalsay', 'brexit', 'stopbrexit', 'idontbelieveinbrexit', 'finalsayforall', 'fbpe', 'a50invalidity', 'exitfrombrexit']"
+1827217,939298708398788608,753326818212581248,neutral,remain,2017-12-09T01:00:38.000Z,"Apparently even the Tories don't know what Brexit means. They haven't had their meeting yet.
 
-On Page One of the #Article50 Bill it was stated that we've always had full sovereignty throughout our EU membership.
+Brexit Means (TBA)...
 
-And on immigration, the UK made a conscious decision not to apply the existing EU rules to limit EU immigration. #Brexit #StopBrexit #FBPE https://t.co/Stj2eACAr6","['article50', 'fbpe', 'brexit', 'stopbrexit']"
-20,20,20,1744372,937848551396335616,319619581,negative,remain,2017-12-05T00:58:13.000Z,"@StephenByrne82 @BentleyRFL @BBCNews @hendopolis @A50Challenge No, they didn't sign a contract. #Article50 isn't a contract. Article 50 can be withdrawn at any time. We do not have to leave the EU. Seriously.
+Fuck it #StopBrexit #ToriesOut #FBPE #A50Challenge #IBlockedTrump https://t.co/vBFLHixaAj","['a50challenge', 'iblockedtrump', 'stopbrexit', 'fbpe', 'toriesout']"
+1737256,937774576163020800,753326818212581248,positive,remain,2017-12-04T20:04:16.000Z,"Oh yes indeed. Brexit now doing impression of Monty Python &amp; Holy Grail - ""tis but a scratch""
 
-#StopBrexit #FBPE #Brexit #Remain","['article50', 'remain', 'fbpe', 'brexit', 'stopbrexit']"
-21,21,21,1771420,938364084331995136,1603606934,neutral,remain,2017-12-06T11:06:46.000Z,Has anyone ever done an impact assessment on #DavidDavis being in charge of the lives of so many people? #AskingForAFriend #FBPE #Brexit #Brexitshambles #impactassessments https://t.co/qjcBshl6Y8,"['askingforafriend', 'impactassessments', 'brexit', 'brexitshambles', 'fbpe', 'daviddavis']"
-22,22,22,1922783,942273856525369344,404281100,positive,remain,2017-12-17T06:02:48.000Z,"https://t.co/hMeMHtMWbu #StopBrexit #Brexit #FBPE #Indyref2 #Athens #Berlin #Greece #London #EUWithdrawalBill 
+#StopBrexit #ToriesOut #FBPE #A50Challenge #IBlockedTrump https://t.co/Ry9oTmdrKF","['a50challenge', 'iblockedtrump', 'stopbrexit', 'fbpe', 'toriesout']"
+1706787,937081223834423296,753326818212581248,negative,remain,2017-12-02T22:09:08.000Z,"Powerful article. A disturbing view of to the deeper, murkier undercurrents of brexit.
 
-ALL public functions, including sovereign borrowing, should be NONCOMMERCIAL
+#StopBrexit #ToriesOut #FBPE #A50Challenge #IblockedTrump
+What a moment to cut ourselves off from friends in Europe
 
-Take the profit out of the public sphere","['athens', 'london', 'greece', 'berlin', 'euwithdrawalbill', 'fbpe', 'indyref2', 'brexit', 'stopbrexit']"
-23,23,23,1934695,942674587778781184,319619581,positive,remain,2017-12-18T08:35:10.000Z,"Steve Bannon met with @Jacob_Rees_Mogg only a matter of days ago when #Bannon visited the UK for speaking engagements. #justsaying
-#Brexit
-#StopBrexit
-#FBPE https://t.co/6wTSkRGdxF","['bannon', 'fbpe', 'justsaying', 'brexit', 'stopbrexit']"
-24,24,24,1810296,939066827992453120,389560456,neutral,remain,2017-12-08T09:39:13.000Z,Checked the #brexitdeal but nothing on pensions as far as I can see #fbpe #Brexit @The3Million #BargainingChips,"['bargainingchips', 'brexitdeal', 'fbpe', 'brexit']"
-25,25,25,1462455,929735422607011840,23295732,negative,remain,2017-11-12T15:39:33.000Z,"EU planning for collapse of #Brexit talks, says Michel #Barnier
-Meanwhile, little evidence UK side has any grasp on reality. #brexitshambles #StopBrexit #FBPE
+https://t.co/IJTjgRDBTr","['a50challenge', 'stopbrexit', 'fbpe', 'iblockedtrump', 'toriesout']"
+1651734,935452750380519424,296211879,positive,leave,2017-11-28T10:18:10.000Z,"This FF politician is putting the case well. The UK's approach to Brexit isn't working. Brexit is a dud, @adamboultonSKY doing a good job being devil's advocate. Brexiter arguments shown to be not in UK or Ireland's interests. #AllOutPolitics #FBPE","['alloutpolitics', 'fbpe']"
+1433465,928723792637067264,3674521996,neutral,remain,2017-11-09T20:39:41.000Z,Brexit is built upon lies that have brought out people's bases fears and prejudices. I will never subscribe to that ideology #alwaysaremainer #stopbrexit #Fbpe https://t.co/rGzCWRKAZa,"['alwaysaremainer', 'stopbrexit', 'fbpe']"
+1913558,941790540638519296,601007144,positive,remain,2017-12-15T22:02:17.000Z,"STOP BREXIT NOW : Buy our songs on #itunes #Amazon and #GooglePlayStore - We fight for a better Britain in a united Europe https://t.co/JzEdXgOrAz
 
-https://t.co/CBIoLuymNW","['barnier', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-26,26,26,1641947,935125155898122240,746985479992709120,positive,remain,2017-11-27T12:36:25.000Z,We are determined to stop Brexit #Remain #EU #Brexit #FBPE #Barnier #Macron #LondonCity https://t.co/On0b1hziY8,"['barnier', 'macron', 'eu', 'remain', 'londoncity', 'fbpe', 'brexit']"
-27,27,27,1618967,934399980676231168,192614779,neutral,remain,2017-11-25T12:34:50.000Z,Precisely why #BBCNews didn’t😢 #StopBrexit #Brexit #FBPE #Remainers #bbc https://t.co/ue8BQH5uCy,"['bbc', 'bbcnews', 'fbpe', 'remainers', 'brexit', 'stopbrexit']"
-28,28,28,1795960,938842013650309120,20083727,positive,leave,2017-12-07T18:45:53.000Z,"We have been so indoctrinated to think these remarks are harmless or even funny. 
-They are not.
-The #BBC reporter asking the Q should be sacked &amp; apology from BBC
-This comment: https://t.co/BZ9yVifcFK
-#FBPE #BRExit #theresa_may https://t.co/nIH9CsVvgF","['bbc', 'fbpe', 'theresa_may', 'brexit']"
-29,29,29,1789413,938712676934520832,20083727,positive,leave,2017-12-07T10:11:57.000Z,"Infinity / Yes ('cos not informed) / Yes - especially on the #BBC 😎
-#FBPE #BRExit #theresa_may  The Ghost that is https://t.co/2RkDv2ohxQ https://t.co/k9rGigvond","['bbc', 'fbpe', 'theresa_may', 'brexit']"
-30,30,30,1843171,939832529607122944,20083727,negative,other,2017-12-10T12:21:50.000Z,"Just been browsing #Marr tweets - looks as tho' business as usual at the #BBC ; mission accomplished
-#FBPE #BRExit #theresa_may @DavidDavisMP #DavidDavis
-The ghost that is https://t.co/2RkDv2ohxQ https://t.co/gUnYLOfMo6","['bbc', 'marr', 'theresa_may', 'brexit', 'fbpe', 'daviddavis']"
-31,31,31,1698657,936664817372364800,746985479992709120,neutral,remain,2017-12-01T18:34:29.000Z,Local bank branches many of them are closing forcing ppl to go for farther a field the bbc is saying becs of “Changing Times” why can’t they say becs of Brexit #StopBrexit #Remain #BBC #Brexit #FBPE #EU,"['bbc', 'remain', 'eu', 'fbpe', 'brexit', 'stopbrexit']"
-32,32,32,1904592,941596713877458944,1536136705,positive,other,2017-12-15T09:12:05.000Z,"@remain_central #BBC talking up #Brexit 'progress' to offset parliamentary blow of #Article7 defeat
+#StopBrexit #FBPE #Brexit 
+
+iTunes https://t.co/t0eS93i3qH
+
+Amazon https://t.co/aSKXI74th6
+
+Google Play https://t.co/qbzdybkqi9 https://t.co/mPYC1Md2fV","['amazon', 'brexit', 'stopbrexit', 'fbpe', 'itunes', 'googleplaystore']"
+1885061,941091967672430592,16294783,neutral,remain,2017-12-13T23:46:24.000Z,"The cult of Brexit: saying ""true"" Tories would support the government no matter what, no matter how high the cost. ""Unbelievers"" must be purged. This is why we oppose #Brexit! #Brexitisacult
+#LeaveWatch #Amendment7 #StopBrexit #FBPE #EUWithdrawalBill https://t.co/r69m67IkZh","['amendment7', 'brexit', 'euwithdrawalbill', 'stopbrexit', 'fbpe', 'brexitisacult', 'leavewatch']"
+1890018,941232246492680192,1095136646,positive,leave,2017-12-14T09:03:49.000Z,"Thank you for being our Representatives Defending Parliamentary Democracy &amp;, Sovereignty We owe you a huge debt #r4today #Amendment7 #FBPE @eumovement #Brexit @UKLabour @Anna_Soubry @ChukaUmunna @UKParliament https://t.co/3EAHUsjyE3","['amendment7', 'brexit', 'fbpe', 'r4today']"
+1891950,941257141284896768,281628104,negative,remain,2017-12-14T10:42:44.000Z,309:305 !!!! Let's find and destroy the remaining Brexit horcruxes.  Please buy our Song for Europe today and let's finish the week with a top 40 hit to crush Brexit populism https://t.co/Iwz2LVeRXt #Brexit #Amendment7 #FBPE #r4today #StopBrexit @4mygr4ndkids @BrexitRage,"['amendment7', 'brexit', 'r4today', 'stopbrexit', 'fbpe']"
+1882296,941047528547635200,319619581,negative,remain,2017-12-13T20:49:49.000Z,@AndrewDuffEU Is that @montie speaking or is that the @LegatumInst trying to back @theresa_may and the cause of Disaster Capitalism? Who can tell these days? 🙄 #Brexit #StopBrexit #FBPE #Amendment7 #EUWithdrawlBill #Legatum,"['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'legatum', 'euwithdrawlbill']"
+1894976,941312961200775168,1631193031,negative,remain,2017-12-14T14:24:33.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/I7FxLJQ5Pk","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1898704,941399493576200192,1631193031,negative,remain,2017-12-14T20:08:24.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/BblVMPGqBQ","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894437,941302837543342080,1631193031,negative,remain,2017-12-14T13:44:19.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/PDleQZOVzv","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1912413,941747495092260864,1631193031,negative,remain,2017-12-15T19:11:14.000Z,"@Rachael_Swindon @AndyTay60536072 Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/ROn0MXld3C","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1914528,941854508396707840,1631193031,negative,remain,2017-12-16T02:16:28.000Z,"@Brexit_Newz Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/DaL3Ayf7mO","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1914527,941854254939156480,1631193031,negative,remain,2017-12-16T02:15:27.000Z,"@Brexit_Newz Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/eJH48ttqne","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1893768,941288082107785216,1631193031,negative,remain,2017-12-14T12:45:41.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/Wb4jsWq2br","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1898712,941399681715851264,1631193031,negative,remain,2017-12-14T20:09:09.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/TO8crXd6vu","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1898718,941399832131973120,1631193031,negative,remain,2017-12-14T20:09:45.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/QlLxzmO1k5","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1898699,941399426509279232,1631193031,negative,remain,2017-12-14T20:08:08.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/fImoLqheBC","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894478,941303581747089408,1631193031,negative,remain,2017-12-14T13:47:17.000Z,"@Michael_Heaver Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894496,941303851424145408,1631193031,negative,remain,2017-12-14T13:48:21.000Z,"@britainelects Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897516,941368534579412992,1631193031,negative,remain,2017-12-14T18:05:23.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/eOnLd5mWfU","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897505,941368255905697792,1631193031,negative,remain,2017-12-14T18:04:16.000Z,"@juliamacfarlane Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894979,941313052162617344,1631193031,negative,remain,2017-12-14T14:24:55.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/b9JMyoPJim","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897496,941368123441152000,1631193031,negative,remain,2017-12-14T18:03:45.000Z,"@ashman06 Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1914525,941853908099567616,1631193031,negative,remain,2017-12-16T02:14:05.000Z,"@TomWhitwell @TheStephenRalph Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/CyMtEHhHFL","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1912419,941747746192605184,1631193031,negative,remain,2017-12-15T19:12:14.000Z,"@LunaLuvgood2017 @AndyTay60536072 Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WUbhVG https://t.co/V3nXC3I3gm  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/iFnidoZrMy","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1898695,941399379411423232,1631193031,negative,remain,2017-12-14T20:07:57.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/BGOB5cBAp0","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897483,941367904867618816,1631193031,negative,remain,2017-12-14T18:02:52.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/LSK9C70b6e","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1912474,941749559956557824,1631193031,negative,remain,2017-12-15T19:19:26.000Z,"@spaceangel1964 @Artemitzi Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/TZs4r031ID","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894941,941312077175586816,1631193031,negative,remain,2017-12-14T14:21:02.000Z,"@Andrew_Adonis @JellyWobbleBott Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894444,941302936960987136,1631193031,negative,remain,2017-12-14T13:44:43.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/UwxPYR6K4j","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1916057,941953958565867520,1631193031,negative,remain,2017-12-16T08:51:39.000Z,"@EUflagmafia @margarance @No10Vigil Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/JfR6IpQUEz","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1911905,941748711532752896,1631193031,negative,remain,2017-12-15T19:16:04.000Z,"@JacquesSalade @theresa_may Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/ABDE7gRMDU","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1893756,941287864360407040,1631193031,neutral,remain,2017-12-14T12:44:49.000Z,@Daily_Express Neccessary notes for Phase 2.  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/z5sLS7PgwW,"['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1912469,941749469170819072,1631193031,negative,remain,2017-12-15T19:19:04.000Z,"@wethsworld @MoonEmojii Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/TdoT5zdJUK","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897497,941368148305108992,1631193031,negative,remain,2017-12-14T18:03:50.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/vQghP9t80P","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1916051,941953855834787840,1631193031,negative,remain,2017-12-16T08:51:14.000Z,"@GDE60 @Margaretmmk Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/JTU30lySMA","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1916045,941953609310326784,1631193031,negative,remain,2017-12-16T08:50:15.000Z,"@ThatTimWalker @CpmGray Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/BaKfy5JryU","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894985,941313169917661184,1631193031,negative,remain,2017-12-14T14:25:23.000Z,"@littleIckey @Socialistdawn @roachyuk Oh Goody, Goody. Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897493,941368070362320896,1631193031,negative,remain,2017-12-14T18:03:32.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/y3nNvU5qk1","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1912434,941748237190533120,1631193031,negative,remain,2017-12-15T19:14:11.000Z,"@molecularcont Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/XST7nBXaVQ","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1895218,941317756061970432,1631193031,negative,remain,2017-12-14T14:43:36.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/XrCZO38XKP","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894995,941313409894711296,1631193031,negative,remain,2017-12-14T14:26:20.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/AI49gv4S9K","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897519,941368610383155200,1631193031,negative,remain,2017-12-14T18:05:41.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/Ad2750WCsX","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894967,941312798918930432,1631193031,negative,remain,2017-12-14T14:23:54.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/wOmqe53DmF","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894965,941312765658128384,1631193031,negative,remain,2017-12-14T14:23:46.000Z,"@GaryLineker @MainesChris Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1916052,941953883231965184,1631193031,negative,remain,2017-12-16T08:51:21.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/hJvMgfF4Bi","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894987,941313252142866432,1631193031,positive,remain,2017-12-14T14:25:42.000Z,"Hurrah! Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/NHPAkAu9nc","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1892930,941271608991158272,1631193031,negative,remain,2017-12-14T11:40:14.000Z,"@Gurnardpink Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WUbhVG https://t.co/V3nXC3I3gm  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897379,941365443671003136,1631193031,negative,remain,2017-12-14T17:53:06.000Z,"@TechnicallyRon Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1895027,941314119235497984,1631193031,negative,remain,2017-12-14T14:29:09.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/uM2B13YHq7","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1895030,941314202823688192,1631193031,negative,remain,2017-12-14T14:29:29.000Z,"@mikegalsworthy @LiveEUDebate Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1892977,941272436917637120,1631193031,negative,remain,2017-12-14T11:43:31.000Z,"@MichaelPDeacon Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1895024,941314025006215168,1631193031,negative,remain,2017-12-14T14:28:46.000Z,"Yup Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/BAUx0ogRO3","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897400,941365793148801024,1631193031,negative,remain,2017-12-14T17:54:29.000Z,"@Pundamentalism Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1895258,941318371546746880,1631193031,negative,remain,2017-12-14T14:46:03.000Z,"@Independent Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1892962,941272185230020608,1631193031,negative,remain,2017-12-14T11:42:31.000Z,"Worrying Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/oJQHptuPwR","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894200,941312668669038592,1631193031,negative,remain,2017-12-14T14:23:23.000Z,"@MSmithsonPB @Bonn1eGreer Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894920,941311533249912832,1631193031,negative,remain,2017-12-14T14:18:52.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/brWA4TUREY","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1894420,941302590079492096,1631193031,negative,remain,2017-12-14T13:43:20.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/J3eS3G6YbJ","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1912331,941745056276459520,1631193031,negative,remain,2017-12-15T19:01:32.000Z,"@spaceangel1964 Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/XLg6lzisoH","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897367,941365137805627392,1631193031,negative,remain,2017-12-14T17:51:53.000Z,"@PoliticalAP Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1897364,941365063847424000,1631193031,negative,remain,2017-12-14T17:51:35.000Z,"@OFalafel Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1895001,941313502995763200,1631193031,negative,remain,2017-12-14T14:26:42.000Z,"Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons https://t.co/bloeNHS5Sk","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1892954,941272036806144000,1631193031,negative,remain,2017-12-14T11:41:56.000Z,"@DavidLetts63 @LeaveEUOfficial @Anna_Soubry @NickyMorgan01 @S_Hammond @KenClarkeMP @sarahwollaston @heidiallen75 @neill_bob @Sandbach @JDjanogly @OliverHealdUK Dither, Dither and Fudge (Ltd) at your service Sir. Will that be cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #StopBrexit #RecycleElectrons","['amendment7', 'brexit', 'stopbrexit', 'fbpe', 'recycleelectrons']"
+1885844,941126565919903744,2188550432,positive,other,2017-12-14T02:03:53.000Z,"This government defeat on #Brexit can now inspire other #Tory rebels
+
+""12 votes from 12 brave Tory men and women – led by Dominic Grieve – were enough – just – to save us from a bad Brexit deal steamrollered through""
+
+#Amendment7 #EUWithdrawalBill #FBPE 
+
+https://t.co/IUCLrCwwJZ","['amendment7', 'brexit', 'tory', 'euwithdrawalbill', 'fbpe']"
+1876815,940997370833117184,404281100,negative,remain,2017-12-13T17:30:30.000Z,"https://t.co/cdjsReXS4p #EUWithdrawalBill #Amendment7 #YesTo7 #Brexit #Labour #PMQs #StopBrexit #FBPE
+
+""EU withdrawal bill vote: Dominic Grieve says he will not back down""
+
+This could be the turning point from the old paradigm to a new one","['amendment7', 'brexit', 'yesto7', 'euwithdrawalbill', 'stopbrexit', 'fbpe', 'labour', 'pmqs']"
+1880446,941043348747333632,404281100,neutral,remain,2017-12-13T20:33:12.000Z,"https://t.co/RX6NiW8unV #EUWithdrawalBill #Amendment7 #YesTo7 #Labour #PMQs #StopBrexit #FBPE #TheresaMay #ToriesOut 
+
+#Amendment7 shows #Brexit for what it is - the absence of democracy","['amendment7', 'brexit', 'yesto7', 'euwithdrawalbill', 'stopbrexit', 'fbpe', 'labour', 'theresamay', 'pmqs', 'toriesout']"
+1867797,940668521872285696,884115104622682112,neutral,other,2017-12-12T19:43:47.000Z,Mass tweeting MPs. #FBPE #Brexit #BrexitWithdrawalBill #Amendment7 https://t.co/QwEHX0ryde,"['amendment7', 'brexitwithdrawalbill', 'brexit', 'fbpe']"
+1891043,941244791018401792,51957156,positive,remain,2017-12-14T09:53:40.000Z,"Somehow, this quote feels very appropriate after yesterday's vote in Parliament.
+
+#Amendment7 #StopBrexit #ExitBrexit #FBPE #Brexit https://t.co/tZMbp57Ihz","['amendment7', 'exitbrexit', 'brexit', 'stopbrexit', 'fbpe']"
+1879113,941017151246303232,107728004,negative,other,2017-12-13T18:49:06.000Z,I really hope the Tory rebellion hold their nerve. The incompetence of Theresa May and David Davis must not go unchecked right up til they void themselves of accountability with a Parliamentary vote on a botched #Brexit. #FBPE #Amendment7,"['amendment7', 'fbpe', 'brexit']"
+1885810,941124886801592320,319619581,neutral,remain,2017-12-14T01:57:12.000Z,@RLH_Initials Not so much a House of Cards as a Tower of Cards. 😣 #Brexit #StopBrexit #FBPE #Amendment7 #FinalSay #EUWithdrawalBill,"['amendment7', 'finalsay', 'brexit', 'euwithdrawalbill', 'stopbrexit', 'fbpe']"
+1879101,941017097458651136,319619581,negative,remain,2017-12-13T18:48:53.000Z,"Have to say that my choice for the @UKLabour leadership @YvetteCooperMP was on fire this afternoon! 👏👏👏👏
+
+https://t.co/S1xXEyUkRR
+
+#Brexit #StopBrexit #FBPE #FinalSay #FinalSayForAll #Amendment7 #EUWithdrawalBill https://t.co/z4HOFqNAb0","['amendment7', 'finalsay', 'brexit', 'euwithdrawalbill', 'stopbrexit', 'finalsayforall', 'fbpe']"
+1877671,941003075258642432,1095136646,negative,other,2017-12-13T17:53:10.000Z,I went to Eton&amp;Trinity why should we not Bully Women MPS especially if they disagree with us? It's in our DNA to get our Way! The  PM's Nasty Party returns on her watch! @LeaveWatch @standardnews #FinalSay #Brexit #FBPE #Amendment7 https://t.co/YPvR2YoM1v,"['amendment7', 'finalsay', 'brexit', 'fbpe']"
+1877130,941004751482658816,404281100,neutral,other,2017-12-13T17:59:50.000Z,"https://t.co/X3AkBEKYG2 #EUWithdrawalBill #Amendment7 #YesTo7 #Brexit #Labour #PMQs #StopBrexit #FBPE #London #TheresaMay #ToriesOut 
+
+Too much power concentrated in too few hands in Brussels &amp; London
+
+Build REAL democracy - devolve all law making in UK, EU unions","['amendment7', 'london', 'brexit', 'yesto7', 'euwithdrawalbill', 'stopbrexit', 'fbpe', 'labour', 'theresamay', 'pmqs', 'toriesout']"
+1912461,941749310055739392,1631193031,negative,other,2017-12-15T19:18:27.000Z,"@SusanPickin Don't ask me. I'm miles away :)
+
+Dither, Dither and Fudge (Ltd) at your service Sir. Will that be by cash or cheque? ""Nothing is decided until everything is conceded, muddled or delayed"" https://t.co/PTO6WTTH48 https://t.co/V3nXC3qsoO  #Brexit #Amendment7 #FBPE #RecycleElectrons https://t.co/Gqt8k3yqT3","['amendment7', 'recycleelectrons', 'brexit', 'fbpe']"
+1880484,941028594582769664,319619581,negative,remain,2017-12-13T19:34:35.000Z,"Certainly had a cheer here as well! If Government can be defeated now they can be defeated again. And, they will be. #Brexit #StopBrexit #Amendment7 #FBPE https://t.co/4W3roKS7gk","['amendment7', 'stopbrexit', 'brexit', 'fbpe']"
+1883522,941063720167493632,958800630,neutral,remain,2017-12-13T21:54:09.000Z,"#Amendment7
+
+I see 'The will of the people' is back in vogue tonight.
+
+#FBPE #StopBrexit #brexit","['amendment7', 'stopbrexit', 'fbpe', 'brexit']"
+1590246,933506436755320832,15898809,negative,remain,2017-11-23T01:24:12.000Z,"#Tories voted that #animals can't feel pain and aren't #SentientBeings.  My response.
+
+#Brexit #StopBrexit #Brexitshambles #AnimalSentience #animalsfeelpain #AnimalsAreSentient #FBPE by #Vegan_Blonde https://t.co/IkhFWsfIPw","['animalsaresentient', 'sentientbeings', 'brexitshambles', 'vegan_blonde', 'brexit', 'stopbrexit', 'animalsfeelpain', 'animalsentience', 'fbpe', 'tories', 'animals']"
+1832478,939450141030928384,23073725,positive,other,2017-12-09T11:02:22.000Z,"@Daily_Express It's hardly a shock.The so-called referendum was advisory and the man who wrote #Article50 had said it can be withdrawn at any time. Has the Daily Express, owned by a man who probably pushed #Brexit because he's a tax avoider, decided to come clean that it is a catastrophe? #FBPE","['article50', 'brexit', 'fbpe']"
+1792311,938760043750674432,319619581,negative,other,2017-12-07T13:20:10.000Z,"@cazzrhughes @AndrewStoneman Which in &amp; of itself is a clear indicator of a failure to investigate &amp; discuss all the issues that could arise from triggering #Article50
+
+Had the Government &amp; Parliament been able to read &amp; debate 58 sectoral impact studies beforehand... #Brexit #StopBrexit
+
+#incompetence #FBPE","['article50', 'brexit', 'incompetence', 'stopbrexit', 'fbpe']"
+1722939,937626418778968064,23073725,negative,remain,2017-12-04T10:15:33.000Z,@SarahLudford @Artemitzi Is it time for the EU to unilaterally suspend #Article50 until after a #SecondReferendum  due to the continuing political chaos in the UK? How can they negotiate in these circumstances? #finalsay #FBPE #StopBrexit #Brexit,"['article50', 'brexit', 'secondreferendum', 'stopbrexit', 'fbpe', 'finalsay']"
+1757218,938056837487841280,333496383,neutral,remain,2017-12-05T14:45:52.000Z,Total rubbish from @DavidJonesMP on @VictoriaLIVE #SNP #Brexit #Article50 #StopBrexit #FBPE https://t.co/EljBPXj49m,"['article50', 'brexit', 'stopbrexit', 'snp', 'fbpe']"
+1904592,941596713877458944,1536136705,positive,other,2017-12-15T09:12:05.000Z,"@remain_central #BBC talking up #Brexit 'progress' to offset parliamentary blow of #Article7 defeat
 As the trashbloids serve the establishment to get the densest plebs to self-harm by backing their masterManipulators 
 so the #BBC=propaganda machine refines the National Stitch-up
 Dirty game
-#FBPE","['bbc=propaganda', 'article7', 'bbc', 'fbpe', 'brexit']"
-33,33,33,1904796,941600621488148480,141247866,negative,remain,2017-12-15T09:27:36.000Z,"During the EU Referendum in 2016, Leavers were saying look at the Norwegian, Swiss and Canadian models. I opt for the Norwegian model, by joining the #EEA, but that's not good enough for them now. Make your mind up! 😕 
-#Brexit #UK #EU #FBPE #BBCQT","['bbcqt', 'eea', 'uk', 'eu', 'fbpe', 'brexit']"
-34,34,34,1798130,938908534028357632,182491553,positive,remain,2017-12-07T23:10:13.000Z,"#BBCQT  We need to see the good things about Brexit, said no sane person ever.
+#FBPE","['article7', 'bbc', 'brexit', 'fbpe', 'bbc=propaganda']"
+1392385,926869871220154368,207483866,neutral,remain,2017-11-04T17:52:52.000Z,"@CornishSkipper @Brexit Did any manufacturer, car or component, advise workforce this would be the outcome? #AskingForAFriend #StopBrexit #FBPE","['askingforafriend', 'stopbrexit', 'fbpe']"
+1922783,942273856525369344,404281100,positive,remain,2017-12-17T06:02:48.000Z,"https://t.co/hMeMHtMWbu #StopBrexit #Brexit #FBPE #Indyref2 #Athens #Berlin #Greece #London #EUWithdrawalBill 
+
+ALL public functions, including sovereign borrowing, should be NONCOMMERCIAL
+
+Take the profit out of the public sphere","['athens', 'london', 'brexit', 'indyref2', 'stopbrexit', 'euwithdrawalbill', 'berlin', 'greece', 'fbpe']"
+1716997,937443001718231040,1536136705,positive,remain,2017-12-03T22:06:43.000Z,"We've had ample time2 find a good reason4 #Brexit. 
+All we've unearthed is assurance of another decade of #austerity 
+CONCLUSION only reasons= 
+1.)Tax havens4 the rich
+2.)New laws2 infringe on our citizen's rights
+3.)We're lousy neighbours+polluting, class-ridden xenaphobes
+#FBPE","['austerity', 'fbpe', 'brexit']"
+1626594,934749627349438464,205241095,positive,other,2017-11-26T11:44:12.000Z,"If you're in the East of England, turn your TV on now. BBC Sunday Politics #bbbsp is about to show the @SuffEUAlliance's last meeting. It was rammed.
+
+Want to join us? (Neighbouring counties welcome too)
+
+Brexit can still be stopped. #FBPE https://t.co/wksy8Spwdt","['bbbsp', 'fbpe']"
+1795960,938842013650309120,20083727,positive,leave,2017-12-07T18:45:53.000Z,"We have been so indoctrinated to think these remarks are harmless or even funny. 
+They are not.
+The #BBC reporter asking the Q should be sacked &amp; apology from BBC
+This comment: https://t.co/BZ9yVifcFK
+#FBPE #BRExit #theresa_may https://t.co/nIH9CsVvgF","['bbc', 'theresa_may', 'fbpe', 'brexit']"
+1789413,938712676934520832,20083727,positive,leave,2017-12-07T10:11:57.000Z,"Infinity / Yes ('cos not informed) / Yes - especially on the #BBC 😎
+#FBPE #BRExit #theresa_may  The Ghost that is https://t.co/2RkDv2ohxQ https://t.co/k9rGigvond","['bbc', 'theresa_may', 'fbpe', 'brexit']"
+1522062,931496054884847616,588800952,neutral,remain,2017-11-17T12:15:40.000Z,The UK is now offering the 3 million mainland Europeans here the right to vote. When they have this should we not put Brexit on hold and re-run the referendum. #FBPE #BBCDailyPolitics,"['bbcdailypolitics', 'fbpe']"
+1929634,942461395622297600,1912039406,neutral,other,2017-12-17T18:28:01.000Z,Its time #bbcnews wakes up to the public changing its mind on brexit #FBPE https://t.co/3Qa6QwnwaE,"['bbcnews', 'fbpe']"
+1913222,941791557400883200,3346365616,negative,other,2017-12-15T22:06:19.000Z,"Sky News at 10 leads on Brexit deal in Brussells today while  BBC 10pm news leads on (v sad) story of family arson victims. Is  BBC ducking urgent national political  issues to avoid ""controversy""?
+#FBPE 
+#bbcnews","['bbcnews', 'fbpe']"
+1618967,934399980676231168,192614779,neutral,remain,2017-11-25T12:34:50.000Z,Precisely why #BBCNews didn’t😢 #StopBrexit #Brexit #FBPE #Remainers #bbc https://t.co/ue8BQH5uCy,"['bbcnews', 'remainers', 'brexit', 'stopbrexit', 'fbpe', 'bbc']"
+1929405,942439251785940992,2522923753,positive,remain,2017-12-17T17:00:01.000Z,@kate_hammer @solange_lebourg @damocrat I hope the #BBCNews is listening and feeding back the disquiet up the management chain --&gt; you have framed the #brexshit debate incompetently and flat-footedly; it's difficult to feeling any respect for your output these days. . .  #FBPE #Brexit #exitbrexit #stopbrexit now!,"['bbcnews', 'stopbrexit', 'brexshit', 'brexit', 'fbpe', 'exitbrexit']"
+1798130,938908534028357632,182491553,positive,remain,2017-12-07T23:10:13.000Z,"#BBCQT  We need to see the good things about Brexit, said no sane person ever.
 #FBPE","['bbcqt', 'fbpe']"
-35,35,35,1506246,931052983340724224,456973123,positive,remain,2017-11-16T06:55:04.000Z,"Good luck @albawhitewolf 
-You truly are an inspirational ray of light against the darkening #Brexit clouds. #StopBrexit #FBPE #CancelBrexit #BBCr4 @BBCAnyQuestions @BBCRadio4 https://t.co/iij59eUpvl","['bbcr4', 'cancelbrexit', 'fbpe', 'brexit', 'stopbrexit']"
-36,36,36,1930096,942461816894033920,351784239,negative,remain,2017-12-17T18:29:41.000Z,Ken Clarke  - We need to get an agreement in the real world... not in the childish world of knock about politics. #bbcsp #StopBrexit #Brexit #FBPE https://t.co/cw1Rrna8Fq,"['bbcsp', 'fbpe', 'brexit', 'stopbrexit']"
-37,37,37,1937976,942748822308114432,61156458,positive,remain,2017-12-18T13:30:09.000Z,"Look what’s arrived in the post 😊
-Thank you so much Madeleina 🙏
-And Alba White Wolf 👩🏼🐺
-Such lovely presents to receive at Christmas time!
-@AlbaWhiteWolf @SuperEUGirl
-#EUSuperGirl #EUSuperWolf #Brexit #BrexitShambles #StopBrexit #StopBrexitHour #FBPE #BetterTogether https://t.co/qPii1y3EJK","['bettertogether', 'eusupergirl', 'eusuperwolf', 'brexitshambles', 'stopbrexithour', 'fbpe', 'brexit', 'stopbrexit']"
-38,38,38,1849519,940137926477930496,1316707231,negative,other,2017-12-11T08:35:23.000Z,"@PolakPolly #politics #eu #bexit #fbpe Well there are LOTS of Losses there and the word Leave starts with an ""L"", so on that Brexit logic, it should delight many Leave Voters ! #illogic","['bexit', 'fbpe', 'eu', 'illogic', 'politics']"
-39,39,39,1838149,939642589669675008,192614779,neutral,remain,2017-12-09T23:47:05.000Z,"🤔Which is why this unsavoury gentleman would much rather have trade and immigration from India😂 #bigotry and #stupidity , as always😢. 🇬🇧🇪🇺Be smart, head up, sleeves up, help us #StopBrexit and bring decency and common sense back. #Brexit #FBPE 🇪🇺🇬🇧 https://t.co/O1T0O1epzD","['bigotry', 'stupidity', 'fbpe', 'brexit', 'stopbrexit']"
-40,40,40,1795893,938840397387915264,363557327,negative,remain,2017-12-07T18:39:28.000Z,@S_Saeen @Tonygoode We don't need no education - #StopFundingHate #blockhate #StopBrexit #Brexit #FBPE,"['blockhate', 'fbpe', 'stopfundinghate', 'brexit', 'stopbrexit']"
-41,41,41,1463916,929779448311877632,456973123,neutral,remain,2017-11-12T18:34:29.000Z,"@Ferretgrove @nickynoo007 @alastair_hart @tenaciousD_G @Socialistdawn @MariaRossall @FirehorseP @AlisonB46440462 @DevonianMatthew @Tituca @Sillyshib @ddale0000 @111meeuwis @kawanabe_kyosai @Mayesey9 @MintyTeaboy @Rachel5742 @pixielation @libdemEdRhymist @freepearn @markpalexander @MaldenSaboteur @Firesnakious @Cruithintuait @gordoncraig11 @Goddess1345 @Xlandphoto @janeofchawton @Spookella @madasbof1 @graeme_berry1 I said....
-#StopBrexit #Brexit #ExitFromBrexit #BolloxToBrexit #FBPE #FollowBackProEuropean","['bolloxtobrexit', 'exitfrombrexit', 'followbackproeuropean', 'fbpe', 'brexit', 'stopbrexit']"
-42,42,42,1872305,940884717397774336,20083727,neutral,other,2017-12-13T10:02:52.000Z,"Outsourcing to private sector.. Parasites nibbling away at the Cash Cow that is the #NHS
-#FBPE #BRExit #theresa_may #theresamay #Branson https://t.co/CkoY1sgnfE","['branson', 'theresamay', 'theresa_may', 'brexit', 'fbpe', 'nhs']"
-43,43,43,1749685,937970895079006208,747380400226508800,negative,remain,2017-12-05T09:04:22.000Z,"Half the Kingdoms voted ""Remain"", @NicolaSturgeon . Wales is now for ""Remain"" only 1 in 4 voted ""Leave"". Help #StopBrexit  Use your MPs for a #BremainbowCoalition to kill off #Brexit #FBPE. Stop pussyfooting around the problem. Meet it head on. https://t.co/r7dfqHUxMC","['bremainbowcoalition', 'fbpe', 'brexit', 'stopbrexit']"
-44,44,44,1871752,940874261371252736,90357585,negative,remain,2017-12-13T09:21:19.000Z,"@guyverhofstadt Guy #Brexit has too high a cost. #Brexit must be stopped, it's as simple as that. #Brexit is breaking many laws but most of all #Brexit is breaking far too many Hearts. #3million #ExitFromBrexit #BremaininSpain #FBPE","['bremaininspain', 'exitfrombrexit', 'fbpe', '3million', 'brexit']"
-45,45,45,1835321,939545147506819072,753752600,neutral,remain,2017-12-09T17:19:53.000Z,"Maybe we should call #Brexiters
-#Brexiconned
+1901572,941479943464157184,51854911,negative,remain,2017-12-15T01:28:05.000Z,"Regardless of how you voted and regardless of the shape of the final deal, #Brexit will only be measured in units of failure. 
 
-#Remain #StopBrexit
-End#Brexit #FBPE https://t.co/znO0okDEQc","['brexiconned', 'brexiters', 'remain', 'fbpe', 'stopbrexit']"
-46,46,46,1903461,941575490170744832,747499967040921600,neutral,other,2017-12-15T07:47:45.000Z,"Parliamentary democracy ... and the #Brextremists' version of it ... ""take back control!""
-#Brexit #StopBrexit #DavidDavis #Brexitshambles #EU #TakeBackControl #FBPE #Article7 https://t.co/eDIPr6Se2K","['brexit', 'article7', 'eu', 'takebackcontrol', 'brexitshambles', 'fbpe', 'brextremists', 'daviddavis', 'stopbrexit']"
-47,47,47,1697580,936638479848570880,747499967040921600,negative,remain,2017-12-01T16:49:50.000Z,"There are many things #DavidDavis should resign for.  #DamianGreen is not one of them!
-#Brexit #StopBrexit #Brexitshambles #FBPE https://t.co/YDjoAb6IoB","['brexit', 'damiangreen', 'brexitshambles', 'fbpe', 'daviddavis', 'stopbrexit']"
-48,48,48,1665544,935769587894968320,747499967040921600,neutral,remain,2017-11-29T07:17:10.000Z,"About those #BrexitReports, @DavidDavisMP ... 
+#stopbrexit #FBPE #BBCQT","['bbcqt', 'stopbrexit', 'brexit', 'fbpe']"
+1901010,941451199571783680,20434170,positive,remain,2017-12-14T23:33:51.000Z,"They should support Scotland, Northern Ireland and indeed Gibraltar staying in EU as it is the will of the people there #bbcqt #StopBrexit #FBPE #brexit #GuyVerhofstadt https://t.co/hP0Ce2ZFFh","['bbcqt', 'stopbrexit', 'guyverhofstadt', 'fbpe', 'brexit']"
+1901306,941462548972474368,1101299929,neutral,remain,2017-12-15T00:18:57.000Z,If #Tories + #Labour push #Brexit through the #LibDems #Greens &amp;Nat parties may well find themselves with lots of votes #bbctw #FBPE,"['bbctw', 'brexit', 'libdems', 'fbpe', 'tories', 'labour', 'greens']"
+1799190,938920137729761280,1101299929,positive,remain,2017-12-07T23:56:19.000Z,Fellow citizens of #Wales please don't listen to anything @bernardjenkin promises post #Brexit We've been sold down the river! #bbcwt #FBPE,"['bbcwt', 'brexit', 'fbpe', 'wales']"
+1497749,930775583935619072,3317891140,positive,remain,2017-11-15T12:32:46.000Z,"@Brexit @reform_campaign That's ok, we'll thrive on unicorn farming and innovative jams @andrealeadsom @LiamFox #blockedbyleadsom #FBPE","['blockedbyleadsom', 'fbpe']"
+1944748,943015096384720896,726680073433174016,negative,remain,2017-12-19T07:08:14.000Z,@Remoaniac @Olesen_Tuition @superEUgirl @natalieben @rhena_eichhorst @spaceangel1964 @greycells @kmqkatie @Shieldmaid8 @AcademyOfRock @17410742votes @remain_eu @InLimboBrexit @DemarcationDSGN @Elenauk @datemedo @tonys2009 @ShaunGDavey @FinalSayForAll @eloisetodd @MarkusBecker @SPIEGELONLINE @BeckerRainald @BrexitRage @BrexitLalaland @BHforEU @acgrayling @A50Challenge @dunjahayali @HueschH @tagesschau @heutejournal @kloeppelpeter @ulrikeguerot @markuspreiss @nickynoo007 @The3Million @ClausStrunz @MartinSchulz @Syrian_Feedom @Independent @CarolaWichert @BritishInEurope @VivianeRedingEU @grrrahh @EP_PresSchulz And to make it complete @AcademyOfRock just sent me this. Back to the 1970's #BobGeldof @Bernie_Torme @HenryCPorter @The_Convention_ https://t.co/InJXNkYQvY #Brexit #Racism #FBPE,"['bobgeldof', 'brexit', 'fbpe', 'racism']"
+1619685,934427304633274368,23073725,neutral,remain,2017-11-25T14:23:24.000Z,Could this be a way to get rid of #Brexit and #BorisJohnson and #Gove at the same time? Perhaps Christmas has come earlyi #UKBrexit #StopBrexit #FBPE  https://t.co/G6Bkzx9nfA,"['borisjohnson', 'brexit', 'ukbrexit', 'stopbrexit', 'fbpe', 'gove']"
+1837638,939620087354593280,192614779,negative,remain,2017-12-09T22:17:40.000Z,"One sure thing is, #Brexiteers do not share a platform with people of that caliber... and that could be the understated tweet of the week! 😜               #FBPE #Brexit #StopBrexit #ExitfromBrexit #Dyson #wetherspoons #DavidDavis #Farage #BorisJohnson https://t.co/4cj35xsWGz","['borisjohnson', 'daviddavis', 'exitfrombrexit', 'wetherspoons', 'brexit', 'stopbrexit', 'fbpe', 'dyson', 'farage', 'brexiteers']"
+1783657,938544410144493568,2318979313,negative,remain,2017-12-06T23:03:19.000Z,"@A_M_Swallow @BrexitDebateUK @theresa_may @Conservatives LMAO 
+... another #brectum #troll who thinks I am sabotaging #brexit !
 
-#Brexit #StopBrexit #DavidDavis #Brexitshambles #EU #FBPE https://t.co/Lwtnl3Qjdn","['brexit', 'eu', 'brexitshambles', 'fbpe', 'daviddavis', 'stopbrexit', 'brexitreports']"
-49,49,49,1429817,928595178390212608,3769352597,positive,remain,2017-11-09T12:08:37.000Z,"@MichelBarnier @EP_President @PaoloGentiloni @CarloCalenda Do remember Michel that 73% didn't vote for #Brexit, maybe you could reach out to UK public and say leaving #EU is not inevitable, Art 50 can be revoked?  #FBPE https://t.co/VUNoD35PXa","['brexit', 'eu', 'fbpe']"
-50,50,50,1622446,934548653003427840,848984920664002560,negative,remain,2017-11-25T22:25:36.000Z,"@SGTVance @Jacob_Rees_Mogg @LeaveEUOfficial OK, Keep it simple! 
-
-There are 5 lines, 3 of which are red arrows.
-One is lighter blue and has the arrows next to it.
-One is darker blue.
-
-Show me you are not being #Deceitful by telling me what the darker blue line is.
-
-#Brexit @LeaveEUOfficial #EU #FBPE #StopBrexit","['brexit', 'eu', 'fbpe', 'deceitful', 'stopbrexit']"
-51,51,51,1576696,933135183896891392,2318979313,positive,remain,2017-11-22T00:48:59.000Z,"@Brexit_Newz Diminished ?
-More like ""no role"" in regulating #EU finance !
-
-How can they ?
-After #Brexit, we lose 15 EU Commissioners + 73 MEPs + probably most UK nationals in the European Civil Service !
+Why don't you go back to your Mom's basement 
+and play your computer games, #moron
 
 #StopBrexit 
-#FBPE","['brexit', 'eu', 'fbpe', 'stopbrexit']"
-52,52,52,1929031,942426230246334464,316535085,positive,other,2017-12-17T16:08:17.000Z,If opt out is so easy why have limit at all? Sounds like unnecessary and inefffective #EU rule making. Perhaps an opt in would be better when #uk sets about improving workers rights Post #brexit #fbpe https://t.co/FjeboRnJtj,"['brexit', 'eu', 'uk', 'fbpe']"
-53,53,53,1830252,939411725027364864,133265772,positive,other,2017-12-09T08:29:43.000Z,@SerenitySid @andrealeadsom I'd like to be more charitable and say that it has taken us over 40 years to get into our current position within the EU and there are no shortcuts on the path out of the EU #fbpe #brexit,"['brexit', 'fbpe']"
-54,54,54,1940683,942823623643095040,1068895694,neutral,remain,2017-12-18T18:27:23.000Z,"#fbpe retweet #brexit .
+#StopBrexitNow 
+#FBPE https://t.co/Z3o5pXhjRL","['brectum', 'stopbrexitnow', 'stopbrexit', 'troll', 'fbpe', 'brexit', 'moron']"
+1755410,938047221790072832,747380400226508800,positive,other,2017-12-05T14:07:40.000Z,"Oh, yes... #FBPE #BremainbowCoalition of Centre MPs, please. Crush Brexit (&amp; DUP while you're at it) Ta. AND Retweet, please. https://t.co/3RJMBCofpa","['bremainbowcoalition', 'fbpe']"
+1573799,933060116940754944,2767054761,negative,remain,2017-11-21T19:50:41.000Z,"@steve_way @kaffando @Nevermindchummy @UKLabour Brexit and Eurotom and treatment for cancer patients. 
+Brexit &amp; EMA
+Brexit and passporting for banking. 
+#stopbrexit #bremainer #fbpe","['bremainer', 'stopbrexit', 'fbpe']"
+1871752,940874261371252736,90357585,negative,remain,2017-12-13T09:21:19.000Z,"@guyverhofstadt Guy #Brexit has too high a cost. #Brexit must be stopped, it's as simple as that. #Brexit is breaking many laws but most of all #Brexit is breaking far too many Hearts. #3million #ExitFromBrexit #BremaininSpain #FBPE","['bremaininspain', 'brexit', '3million', 'fbpe', 'exitfrombrexit']"
+1912877,941778433205571584,726680073433174016,positive,other,2017-12-15T21:14:10.000Z,"@SZ @cliodiaspora @thomashummel73 Guess time4 the whole story @nickynoo007 @spaceangel1964 @rhena_eichhorst @Shieldmaid8 @grrrahh @AcademyOfRock There is a huge #FBPE @Survation Half of Voters Now Want Referendum on Terms of Brexit. A united #Bresistance 4 @FinalSayForAll
+People fighting populism.pls. introduce. https://t.co/TSGLHX4Km8","['bresistance', 'fbpe']"
+1624852,934701038690500608,807147975256535040,negative,remain,2017-11-26T08:31:08.000Z,"I’d like to hold my head high and know that because I voted against #Brexit I’m not part of this appalling #Brexishambles but I can’t, I know I could’ve done more to challenge the lies, nonsense and racism of the leave campaign #FBPE","['brexishambles', 'brexit', 'fbpe']"
+1546274,932513922497859584,2908441097,neutral,remain,2017-11-20T07:40:19.000Z,#Brexit deadline https://t.co/1lHeNzCB5u #StopBrexit #2025shift #taoiseach #FBPE #2019shift https://t.co/oq0IklzeyU,"['brexit', '2019shift', 'taoiseach', '2025shift', 'stopbrexit', 'fbpe']"
+1546389,932516490607243264,2908441097,neutral,remain,2017-11-20T07:50:31.000Z,#Brexit https://t.co/49kix4MPra deadline https://t.co/1lHeNzCB5u #StopBrexit #2025shift #taoiseach #FBPE #2019shift https://t.co/adYgNB9ElR,"['brexit', '2019shift', 'taoiseach', '2025shift', 'stopbrexit', 'fbpe']"
+1546505,932519043747151872,2908441097,neutral,remain,2017-11-20T08:00:40.000Z,#Brexit https://t.co/49kix4MPra deadline https://t.co/1lHeNzCB5u #StopBrexit #2025shift #taoiseach #FBPE #2019shift #BrexitShambles #PollTax #UniversalCredit https://t.co/24dWupI5BR,"['brexit', '2019shift', 'taoiseach', '2025shift', 'universalcredit', 'stopbrexit', 'fbpe', 'polltax', 'brexitshambles']"
+1516828,931299211987030016,726680073433174016,neutral,leave,2017-11-16T23:13:29.000Z,@HueschH The real story of #JRM told by @AcademyOfRock @albawhitewolf @Mark_Duffy1 Hanni. You shouldn't concentrate on #Moggmentum &amp; #Brexit UK stands up 4 @BrexitRage #FBPE @Reasons2Remain @BestForBritain Listen on Friday at 8 p.m. @BBCRadio4 @dimbleby_jd with @superEUgirl #AnyQuestions https://t.co/DRYrxjFl0I,"['brexit', 'anyquestions', 'jrm', 'fbpe', 'moggmentum']"
+1684953,936219482372104192,1101299929,neutral,other,2017-11-30T13:04:53.000Z,Hallelluja! IDS admits that bill is not paying for access &amp;that there is a legal basis. @TimShipman talking #Brexit nonsens. #bbcdp #FBPE,"['brexit', 'bbcdp', 'fbpe']"
+1893527,941283252500910080,351784239,positive,remain,2017-12-14T12:26:30.000Z,".@JDjanogly thought that @hansmollman Daily Mail front page was hilarious and well worth a retweet. 😄  ""Proud of Your Elves"" #bbcdp #Brexit #FBPE https://t.co/bYPqmNDk3n","['brexit', 'bbcdp', 'fbpe']"
+1755275,938030471308562432,1101299929,positive,remain,2017-12-05T13:01:06.000Z,Wonderful Monet images of a NEW HofP. For me too a poignant reminder of the rupture #Brexit entails. Catch up #bbcdp on iPlayer #FBPE https://t.co/iccsY6SC2A,"['brexit', 'bbcdp', 'fbpe']"
+1874199,940923004816625664,351784239,neutral,other,2017-12-13T12:35:00.000Z,Heidi Alexander - Shouldn't it be our sovereign parliament &amp; not the Prime Minister that decides our country's economic future? #Brexit #bbcdp #PMQs #FBPE @heidi_mp https://t.co/UQPYZljCUe,"['brexit', 'bbcdp', 'fbpe', 'pmqs']"
+1795893,938840397387915264,363557327,negative,remain,2017-12-07T18:39:28.000Z,@S_Saeen @Tonygoode We don't need no education - #StopFundingHate #blockhate #StopBrexit #Brexit #FBPE,"['brexit', 'blockhate', 'stopfundinghate', 'stopbrexit', 'fbpe']"
+1467654,929983494175866880,2831637409,negative,other,2017-11-13T08:05:17.000Z,"For someone as informed as @Pete.north303 not to be saying  ""No Deal = No #brexit"" is reckless in the extreme and lessens his credibility. There was no mandate for "" no deal"" and it's means kamikazi gridlock #Brexit #FBPE","['brexit', 'brexit', 'fbpe']"
+1483158,930392398311690240,319619581,positive,remain,2017-11-14T11:10:08.000Z,"Dominic Grieve on @BBCNews saying that the Government has added a further amendment to the #EUWithdrawalBill that can allow itself the use of a statutory instrument to scrap the ""meaningful vote"" at a whim. #Brexit #StopBrexit #exitfrombrexit #BrexitReality #FBPE","['brexit', 'brexitreality', 'euwithdrawalbill', 'stopbrexit', 'fbpe', 'exitfrombrexit']"
+1687642,936292610486030336,99628982,negative,remain,2017-11-30T17:55:28.000Z,"Totally self inflicted - people are starting to wake up.
 
-This one has a poll going . As soon as anyone #fbpe retweets it he blocks them. Please find it .. vote and spread the word https://t.co/nddGDGC4QG","['brexit', 'fbpe']"
-55,55,55,1929838,942453541213319168,2831637409,positive,other,2017-12-17T17:56:48.000Z,"2Ref on True #Brexit, what could be more democratic than that?  #FBPE","['brexit', 'fbpe']"
-56,56,56,1707769,937126154636550144,706975999188148224,negative,leave,2017-12-03T01:07:40.000Z,"No, I'm not scared to speak my mind about immigration, #Brexit, Islam, christianity etc in public or at work. Nor am I scared to call out Islamaphobic racists phony attempt to portray themselves as some kind of victimized minority deprived of freedom to speak. #FBPE https://t.co/k9TlPwRLiF","['brexit', 'fbpe']"
-57,57,57,1818525,939134850166087680,38392000,neutral,other,2017-12-08T14:09:31.000Z,"In the end, the folks thrown under a bus in A50 phase 1 were not NI, IE, DUP  but Brits in EU/EU in UK #fbpe
-#brexit @mediawhizz","['brexit', 'fbpe']"
-58,58,58,1542874,932321235337441280,55182051,negative,other,2017-11-19T18:54:38.000Z,Irony should change its name to Lazarus it’s come back from the dead so many times: the Home Office admits it is struggling to recruit staff to register EU nationals ... so it may need to recruit Poles and other Eastern Europeans to help 😱🤣 #fbpe #brexit https://t.co/hHbsDTzW2u,"['brexit', 'fbpe']"
-59,59,59,1878891,941015284223156224,2831637409,negative,remain,2017-12-13T18:41:41.000Z,"@GrahamGords1001 @PeteNorth303 It is clear to everyone that #Brexit will be very very expensive, what so we can have marginally more influence on trade and immigration #fbpe. That's a poor trade","['brexit', 'fbpe']"
-60,60,60,1625001,934704332175441920,297286429,neutral,remain,2017-11-26T08:44:13.000Z,"Another #fbpe century !!!
+#FBPE #brexitshambles #BrexitReality #exitbrexit #Brexit https://t.co/SE651ilbOq","['brexit', 'brexitreality', 'fbpe', 'exitbrexit', 'brexitshambles']"
+1611185,934079474848731136,99628982,negative,remain,2017-11-24T15:21:15.000Z,"This is self inflicted... Can you imagine what will happen when we actually leave?
+#BrexitReality #StopBrexit #Brexit #FBPE #brexitshambles https://t.co/RpL9kWGO0i","['brexit', 'brexitreality', 'stopbrexit', 'fbpe', 'brexitshambles']"
+1601205,933792626486202368,99628982,neutral,remain,2017-11-23T20:21:25.000Z,"#BrexitReality is right before our eyes... And we haven't even left yet!
 
-@JohnWindwood thanks for being follower 1100 🤗
-Let’s keep up the fight and stop this #brexit madness
-Please visit my blog for in depth #brexit analysis and debunking https://t.co/KKYWq3KG2C","['brexit', 'fbpe']"
-61,61,61,1858602,940364551064883200,412989491,positive,other,2017-12-11T23:35:54.000Z,I have added #fbpe to my profile .. I won't be waving flags and dancing on busses in London. It's time to me much more vocal like the far right commentators on here and use their language against them #brexit,"['brexit', 'fbpe']"
-62,62,62,1650585,935419371656286208,711945679,positive,other,2017-11-28T08:05:32.000Z,"Do You Want A Proper Debate on Our EU/UK Future? 
-Whatever Your Views, tHIS is Important! Pz sign &amp; RT 
-'Amendment 7 Petition' https://t.co/PyC7vxuGFX via @euromove #fbpe #brexit @BimAfolami https://t.co/w04SDO1uIv","['brexit', 'fbpe']"
-63,63,63,1895117,941315644728868864,2831637409,negative,leave,2017-12-14T14:35:13.000Z,"There is no other way to put it....MPs who voted with government on Article 7, and against a vote on #Brexit, voted to weaken the sovereignty of parliament, period. They should hang their heads in shame #FBPE","['brexit', 'fbpe']"
-64,64,64,1916733,941971474163949568,941784833587597056,positive,other,2017-12-16T10:01:15.000Z,@sw19_womble @voteleavelied @BorisJohnson @SW19Womble completely agree and it’s engaging with people like you and sharing your stories with #fbpe types and eventually politicians is exactly why this account was set up. We  need to show the #brexit the govt is pursuing is not wanted!,"['brexit', 'fbpe']"
-65,65,65,1903551,941577122996514816,779678725663289344,negative,remain,2017-12-15T07:54:14.000Z,"@SocialistVoice It's a myth that a Corbyn government would be especially radical - unless it were to implement #Brexit, the maddest scheme ever.
+#brexitshambles #StopBrexit #Brexit  #FBPE https://t.co/lmBm9GStWG","['brexit', 'brexitreality', 'stopbrexit', 'fbpe', 'brexitshambles']"
+1772795,938375063233015808,22714709,positive,remain,2017-12-06T11:50:23.000Z,"Not sure what's more surprising - David Davis lying to Parliament about the existence of #BrexitReports repeatedly or this govt not being prepared in any, way, shape or form for the most extensive political shift for a generation #Brexit #FBPE #PMQs #YouDontKnowWhatYoureDoing","['brexit', 'brexitreports', 'fbpe', 'youdontknowwhatyouredoing', 'pmqs']"
+1594850,933663472499462144,715873578663673856,neutral,remain,2017-11-23T11:48:13.000Z,@LeaveEUOfficial Capital of Culture is part of an EU initiative @LeaveEUOfficial we are leaving thereby leaving the initiative #Brexit #brexitshambles #FBPE,"['brexit', 'brexitshambles', 'fbpe']"
+1610158,934051960482877440,296211879,negative,other,2017-11-24T13:31:55.000Z,@LeaveMnsLeave OMG. Is this what we have come to as a result of the #Brexit vote? Taking offence and crying victim when WE are the ones who had a vote to leave this club with its rules (which WE signed up to). #brexitshambles #FBPE,"['brexit', 'brexitshambles', 'fbpe']"
+1779973,938471723019751424,2191984092,negative,remain,2017-12-06T18:14:29.000Z,#Brexit farce. Total #brexitshambles disaster. #FBPE https://t.co/V5VpdyeTcb,"['brexit', 'brexitshambles', 'fbpe']"
+1601573,933803205280043008,855166968525094912,negative,other,2017-11-23T21:03:28.000Z,"Of course, if you don't celebrate how it's wonderful and the Will Of The People that we're getting poorer, then you're basically a traitor and it's All Your Fault. 
 
-#FBPE","['brexit', 'fbpe']"
-66,66,66,1463983,929782700076097536,929283438007541632,negative,remain,2017-11-12T18:47:24.000Z,"@ChukaUmunna @bbcnickrobinson @BBCRadio4 @UKLabour ""If I was in a position to stop #Brexit, I'd put that before everything""
-From you lips to God's ears.
-#FBPE","['brexit', 'fbpe']"
-67,67,67,1831116,939426302465110016,133265772,neutral,remain,2017-12-09T09:27:38.000Z,And nobody voted for @Nigel_Farage to represent them in Parliament #fbpe #brexit https://t.co/xHzELjySp7,"['brexit', 'fbpe']"
-68,68,68,1885701,941117677761978368,11861192,positive,other,2017-12-14T01:28:34.000Z,"#fbpe  #EUWithdrawalBill #Amendment7 
+#FBPE #brexitshambles #Brexit https://t.co/5RlfwDGbcN","['brexit', 'brexitshambles', 'fbpe']"
+1594840,933663291410452480,715873578663673856,neutral,remain,2017-11-23T11:47:29.000Z,Capital of Culture is part of an EU initiative @LeaveEUOfficial we are leaving thereby leaving the initiative #Brexit #brexitshambles #FBPE https://t.co/sdfV3k21xh,"['brexit', 'brexitshambles', 'fbpe']"
+1506335,931055023546609664,456973123,negative,remain,2017-11-16T07:03:10.000Z,"Too bloody right!
+#StopBrexit #CancelBrexit #FascistBrexit #FBPE #Brexit https://t.co/gVERMImJyl","['brexit', 'cancelbrexit', 'fascistbrexit', 'stopbrexit', 'fbpe']"
+1929518,942442784497258496,179215377,positive,other,2017-12-17T17:14:04.000Z,"THREAD
 
-Do a quick search on Twitter for #brexit traitor then do the internet a favour by reporting the accounts which target MPs simply doing their job.","['brexit', 'fbpe', 'amendment7', 'euwithdrawalbill']"
-69,69,69,1675588,935926390859468800,319619581,negative,remain,2017-11-29T17:40:14.000Z,@Chiclanagirl I wonder if @afneil is trying to balance his Pro #Brexit outbursts with some Anti Brexit facts because he works for the @BBC 🤔 #JustSaying   #StopBrexit #ExitBrexit #FBPE,"['brexit', 'fbpe', 'exitbrexit', 'justsaying', 'stopbrexit']"
-70,70,70,1832432,939449492176297984,917515137577373696,neutral,remain,2017-12-09T10:59:47.000Z,"I bet they will, but not in the way you wish for your little self , you sneaky schemer! #Brexit: Michael Gove says UK voters can change final deal - BBC News #stopBrexit #FBPE  https://t.co/OKvkQKC3oN","['brexit', 'fbpe', 'stopbrexit']"
-71,71,71,1921760,942165347800637440,917515137577373696,negative,remain,2017-12-16T22:51:38.000Z,They seem to be angry with anything nowadays! #Brexit: Philip Hammond risks Tory Eurosceptic anger signalling 'status quo' will remain two years after withdrawal - The Independent #stopbrexit #FBPE https://t.co/A6r93Ro8Xs,"['brexit', 'fbpe', 'stopbrexit']"
-72,72,72,1849719,940126833688940544,779678725663289344,neutral,remain,2017-12-11T07:51:18.000Z,"#Brexit: the longer it takes, the less likely it is to happen.
-
-People are getting wiser every day.
-
-#StopBrexit #FBPE","['brexit', 'fbpe', 'stopbrexit']"
-73,73,73,1898675,941398698810015744,745611048493977600,positive,remain,2017-12-14T20:05:14.000Z,"@tereesa0094 Never thought of it like that, but you are right! It’s so good to know that so many feel the same way about #Brexit, with the help of #FBPE. Together with Can #StopBrexit","['brexit', 'fbpe', 'stopbrexit']"
-74,74,74,1897024,941356740662169600,62563458,positive,remain,2017-12-14T17:18:31.000Z,"@Theresa_May Is it time yet to abandon #Brexit, in the national interest? Please feel free to call if you’d like a decent list of face-saving excuses. @Number10gov @Number10press @Conservatives @MichelBarnier @JunckerEU @guyverhofstadt @UKLabour @jeremycorbyn #stopbrexit #fbpe","['brexit', 'fbpe', 'stopbrexit']"
-75,75,75,1930569,942478171710074880,917515137577373696,positive,remain,2017-12-17T19:34:41.000Z,"Has the penny (along with the pound) finally dropped? #Brexit: Britons now back Remain over Leave by 10 points, exclusive poll shows - The Independent  #stopbrexit #FBPE https://t.co/h2n1rEXlfK","['brexit', 'fbpe', 'stopbrexit']"
-76,76,76,1495731,930725918749937664,851846918842056704,negative,remain,2017-11-15T09:15:25.000Z,"@spaceangel1964 @16MillionRising @Keir_Starmer @congroup4europe @MumsnetTowers @LibDems @StopBrexit17 @EUflagmafia @Harryslaststand With #Brexit, it gets hard to explain the children what democracy really is while grown ups are mixing it up with a win/lose football game
-#stopbrexit #FBPE https://t.co/aGzccC2ic0","['brexit', 'fbpe', 'stopbrexit']"
-77,77,77,1582595,933309547749564416,2908001207,positive,remain,2017-11-22T12:21:50.000Z,"Given that both major political parties support hard #Brexit, Sky Data might as well have added ""...into the ground?"" to the end of this question. #StopBrexit #FBPE https://t.co/lEMCSmZdMU","['brexit', 'fbpe', 'stopbrexit']"
-78,78,78,1862183,940524322476707840,30275326,positive,remain,2017-12-12T10:10:47.000Z,"@jeremycorbyn @Conservatives @CWUnews take a stance against #Brexit, win the next election and implement fair policies when in government. Won't happen without credible *opposition* and that includes a clear commitment to #StopBrexit #FBPE","['brexit', 'fbpe', 'stopbrexit']"
-79,79,79,1786185,938664895771561984,706975999188148224,negative,remain,2017-12-07T07:02:05.000Z,"@Femi_Sorry There is nothing intellectual about #Brexit, it is nothing more than a gut based, empty slogan driven, ideology. It doesn't stand up to the most superficial of scrutiny &amp; every proponent of it fails to give a fact based analysis of it when challenged to do so. #FBPE #StopBrexit","['brexit', 'fbpe', 'stopbrexit']"
-80,80,80,1854464,940234745551687680,493244506,neutral,remain,2017-12-11T15:00:06.000Z,A bus for the people! #no10vigil's bus is the only one to tell the truth about #brexit. #StopBrexit #fbpe https://t.co/K6amQUg96s,"['brexit', 'fbpe', 'stopbrexit', ""no10vigil's""]"
-81,81,81,1882435,941049323734863872,2707775486,negative,remain,2017-12-13T20:56:57.000Z,"@DavidDavisMP wasn't always the smirking, incompetent clown that we have come to know in his present job searching for unicorns
-#Brexit, #StopBrexit #FBPE #ToriesAreIncompetent https://t.co/cr0I0XHm2t","['brexit', 'fbpe', 'stopbrexit', 'toriesareincompetent']"
-82,82,82,1843335,939837554861527040,20083727,positive,remain,2017-12-10T12:41:49.000Z,"""My generation did not vote for #Brexit, this is not a future that we want, and I am determined to fight for our rights and the rights of EU citizens, who are our dear and valued friends""
-#FBPE #theresa_may 
-The ghost that is https://t.co/2RkDv2ohxQ https://t.co/xAXnDkPNVW","['brexit', 'fbpe', 'theresa_may']"
-83,83,83,1749708,937971075681460224,907526503570837632,negative,remain,2017-12-05T09:05:05.000Z,Simple #TuesdayThoughts; Why not join the fight to #StopBrexitNow - #ExitFromBrexit? #FBPE #brexit #FinalSay,"['brexit', 'finalsay', 'tuesdaythoughts', 'stopbrexitnow', 'fbpe', 'exitfrombrexit?']"
-84,84,84,1840390,939780020930785280,711945679,neutral,leave,2017-12-10T08:53:11.000Z,Sleepwalking Towards Gilead https://t.co/K4fKuHwWr9 #HumanRightsDay #HumanRights #democracy #brexit #fbpe https://t.co/gYnG02rfGR,"['brexit', 'humanrightsday', 'democracy', 'fbpe', 'humanrights']"
-85,85,85,1457012,929511481506500608,1369089762,negative,remain,2017-11-12T00:49:41.000Z,@johnredwood This is delusional. The tide is turning on #Brexit. Many of your Tory chums are nervous. Business is nervous. Banks are nervous. What you're prepared to do is unpatriotic. #StopBrexit  #FBPE #exitfrombrexit #NoConfidence,"['brexit', 'noconfidence', 'exitfrombrexit', 'fbpe', 'stopbrexit']"
-86,86,86,1617606,934362344225898496,866203967713411072,negative,remain,2017-11-25T10:05:17.000Z,"#FBPE
-
-This, from the Govt’s own Office for Budget Responsibility 👇🏽
-
-#Brexit will COST 🇬🇧 £72BILLION in lost GDP by 2021.
-
-Let. That. Sink. In.
-
-#BrexitIsCriminal 
-#STOPBrexit 🦄🔫
-#Remain 
-
-https://t.co/THO5OldaF2","['brexit', 'remain', 'brexitiscriminal', 'fbpe', 'stopbrexit']"
-87,87,87,1535112,931958909270708224,192614779,neutral,remain,2017-11-18T18:54:53.000Z,"Well put, Larry! 😻 #Brexit #StopBrexit #FBPE #remainernow #DavidDavis https://t.co/dmUL2mmvvl","['brexit', 'remainernow', 'fbpe', 'daviddavis', 'stopbrexit']"
-88,88,88,1646971,935257698693734400,747380400226508800,positive,remain,2017-11-27T21:23:06.000Z,"What lunacy from this dystopian ""Government"". Will some ADULTS in Parliament please get together and for Country rather than Party, bring an end to #Brexit, and #StopBrexit.  #FBPE @vincecable @Keir_Starmer @ChukaUmunna @Anna_Soubry https://t.co/oDHWcOmYlx","['brexit', 'stopbrexit', 'fbpe']"
-89,89,89,1913642,941794496915935232,3127812492,negative,remain,2017-12-15T22:18:00.000Z,"Enough is Enough!! Stop. Rethink #brexit. Let the people have a say on the facts we NOW have. There is no logical REASON to rush into irreversible change. 
-
-#FBPE 
-#StopBrexitNow
-#StopBrexitSaveBritain 
-#JC4PM https://t.co/YzFaEH7g5E","['brexit', 'stopbrexitsavebritain', 'stopbrexitnow', 'jc4pm', 'fbpe']"
-90,90,90,1392980,926897258959958016,136059181,negative,remain,2017-11-04T19:41:42.000Z,#STOPBrexit #FBPE PLEASE READ THIS &amp; SHARE - https://t.co/bfBnzfcC6V More links between #BREXIT #TrumpRussia #TORY_GOVERNMENT CORRUPTION,"['brexit', 'tory_government', 'fbpe', 'trumprussia', 'stopbrexit']"
-91,91,91,1892795,941269339340144640,141141836,positive,remain,2017-12-14T11:31:13.000Z,"Huge thanks to all MPs across the political and #Brexit/#Remain divides who voted for Amendment 7 last night and rescued parliamentary sovereignty from the back seat of the Tory #HardBrexit bus.
-#brexitshambles #StopBrexit #FinalSay #FBPE https://t.co/bQm7GLdfIx","['brexit/#remain', 'finalsay', 'fbpe', 'hardbrexit', 'stopbrexit', 'brexitshambles']"
-92,92,92,1709632,937248830021623808,747499967040921600,negative,remain,2017-12-03T09:15:08.000Z,"Is the BBC biased on #Brexit?
-
-#StopBrexit #Marr #r4today #Brexitshambles #Farage #BritainFrist #FBPE https://t.co/0s4xpVVwqY","['brexit?', 'britainfrist', 'r4today', 'farage', 'brexitshambles', 'marr', 'fbpe', 'stopbrexit']"
-93,93,93,1621568,934508736579817472,848984920664002560,neutral,remain,2017-11-25T19:46:59.000Z,"UK facing longest fall in living standards for over 60 years, finds think tank 
-
-Says the #OBR. Due to #Brexit?
-
-https://t.co/RKoYbX0W2h
-
-#EU @LeaveEUOfficial @robbllngtn #remoaners @Jacob_Rees_Mogg #FBPE #StopBrexit","['brexit?', 'fbpe', 'eu', 'remoaners', 'obr', 'stopbrexit']"
-94,94,94,1871178,940861863834931200,1631193031,neutral,remain,2017-12-13T08:32:03.000Z,"@bbcnews Given the state of things as they are now, should the UK continue with #Brexit? #fbpe #recycleelectrons","['brexit?', 'fbpe', 'recycleelectrons']"
-95,95,95,1587922,933415830993489920,141141836,positive,remain,2017-11-22T19:24:10.000Z,"But... but ""Global Britain""?
-
-When is somebody going to have the leadership &amp; courage to stand up &amp; say if we want to fix the things that really need fixing &amp; prepare for the challenges of the future, we can't afford #Brexit?
-
-#brexitshambles #NoConfidence #FinalSay #FBPE https://t.co/VnDRK0yH2e","['brexit?', 'finalsay', 'noconfidence', 'fbpe', 'brexitshambles']"
-96,96,96,1468616,930002974889402368,23073725,positive,remain,2017-11-13T09:22:42.000Z,@mrjamesob @TechCrunch #Dyson the great patriot - not! How about putting some research into UK universities to make up for some of the research funds they'll lose because of his supported #Brexit? It's the hypocrisy of these #Brexiteers that is so disgusting #Redwood #FBPE,"['brexit?', 'redwood', 'dyson', 'brexiteers', 'fbpe']"
-97,97,97,1905506,941613517844643840,1631193031,neutral,remain,2017-12-15T10:18:51.000Z,"Given the state of things as they are now, should the UK coontinue with #Brexit?
-#Brexit #Amendment7 #FBPE #r4today #StopBrexit #StopTheMadness #RecycleElectrons","['brexit?', 'stopthemadness', 'recycleelectrons', 'stopbrexit', 'r4today', 'fbpe', 'brexit', 'amendment7']"
-98,98,98,1516426,931288302820278272,23073725,positive,remain,2017-11-16T22:30:08.000Z,@acgrayling @shirleymcbrinn Why doesn't #TheresaMay offer the 53 billion to the #NHS in exchange for cancelling #Brexit? I bet most people in the country would be happy to settle for that because it's now clear that we can either have the #NHS or #brexit but not both. #FBPE #StopBrexit,"['brexit?', 'theresamay', 'fbpe', 'nhs', 'brexit', 'stopbrexit']"
-99,99,99,1721127,937598359761752064,747380400226508800,negative,remain,2017-12-04T08:24:03.000Z,"It's not the Bill, it's #Brexit. It does NOTHING to solve all the problems that led to the Leave decision. THEY'RE ALL the fault of the UK Govts. #StopBrexit #BremainbowCoalition #BrexitBetraysBritain #FBPE @vincecable @ChukaUmunna @Anna_Soubry @mrjamesob https://t.co/TyTTtYH8gn","['brexitbetraysbritain', 'bremainbowcoalition', 'brexit', 'fbpe', 'stopbrexit']"
-100,100,100,1651825,935439192712196096,89670758,negative,remain,2017-11-28T09:24:17.000Z,"One can only assume that they are incredibly damaging to the already weak case for #Brexit.
-
-As expected, and as #Remain has always maintained.
-
-Remember #Brexitbetraysbritain  so #StopBrexit #fbpe https://t.co/Bu4G24SW99","['brexitbetraysbritain', 'brexit', 'remain', 'fbpe', 'stopbrexit']"
-101,101,101,1851102,940168763592380416,141141836,negative,remain,2017-12-11T10:37:55.000Z,"One of the best articles you'll read on where we are with #BrexitShambles (Bravo @MirrorPolitics!)
-""The 7 stages of Brexit denial - finally we know why they're all so angry"" https://t.co/NXCmE1X0u8 #BrexitBetraysBritain #SaveTheUK #YesTo7 #FinalSay #FBPE #FBLE #RemainersNow","['brexitbetraysbritain', 'brexitshambles', 'savetheuk', 'finalsay', 'fble', 'yesto7', 'fbpe', 'remainersnow']"
-102,102,102,1693742,936534490926731264,89670758,negative,remain,2017-12-01T09:56:37.000Z,"Only a fool would trust Donald Trump. #Brexit isn't working for the UK.
-
-#BrexitBetraysBritain 
-
-#stopBrexit 
-
-#fbpe
-
-https://t.co/Ux74doXvih","['brexitbetraysbritain', 'fbpe', 'brexit', 'stopbrexit']"
-103,103,103,1655853,935506336200183808,258496535,neutral,remain,2017-11-28T13:51:06.000Z,"@lanieleaf @Hap03071831 #Brexit could never have been pulled off successfully even with the most competent government, not without immeasurable hardship and pain. But this farce is just beyond belief. 
-#BrexitBetraysBritain #StopBrexit #ExitBrexit #FBPE @fbpe","['brexitbetraysbritain', 'fbpe', 'exitbrexit', 'brexit', 'stopbrexit']"
-104,104,104,1834154,939489790982021120,841371002856697728,positive,remain,2017-12-09T13:39:55.000Z,"Epic must-read #thread on what leading #Brexit beasts have had to say on a #FinalSay Referendum prior to #EU-Ref 2016 and what they say now
-(***spoiler*** sheer, unadulterated #hypocrisy)
-#brexitshambles #BrexitBetraysBritain #TakeBackOurFuture #YesTo7 #FBPE https://t.co/mDHhcLkEk2","['brexitbetraysbritain', 'finalsay', 'hypocrisy', 'eu-ref', 'yesto7', 'thread', 'fbpe', 'brexit', 'takebackourfuture', 'brexitshambles']"
-105,105,105,1777690,938435262505541632,141141836,negative,remain,2017-12-06T15:49:36.000Z,"Henceforth, just as Fox's full honorific is ""the disgraced former defence secretary now international airmiles secretary Liam Fox MP"", so Davis will be known as ""the dishonourable secretary for #Brexit"".
-
-#brexitshambles #BrexitBetraysBritain #MPStopBrexit #StopBrexit #FBPE","['brexitbetraysbritain', 'mpstopbrexit', 'brexit', 'fbpe', 'stopbrexit', 'brexitshambles']"
-106,106,106,1728758,937688729937903616,141141836,negative,remain,2017-12-04T14:23:09.000Z,"@aidanjmcg @OwenJones84 He's just trying to get back in with Jezza, whom he had a massive falling out with when he briefed against him.
-
-It's Jezza's policy to follow, not lead, on #Brexit 🙄
-
-#brexitshambles #BrexitBetraysBritain #MPStopBrexit #StopBrexit #FinalSay #YesTo7 #MeaningfulVote #FBPE #Remain","['brexitbetraysbritain', 'mpstopbrexit', 'finalsay', 'meaningfulvote', 'yesto7', 'remain', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-107,107,107,1740491,937785548751757312,141141836,negative,remain,2017-12-04T20:47:52.000Z,"After today's performance on the World Stage, #Brexit is being rebranded! What's your preferred name?
-#brexitshambles #BrexitBetraysBritain #MPStopBrexit #StopBrexit #YesTo7 #FinalSay #FBPE #Leave #Remain","['brexitbetraysbritain', 'mpstopbrexit', 'finalsay', 'yesto7', 'leave', 'remain', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-108,108,108,1687778,936296778017726464,363557327,positive,remain,2017-11-30T18:12:02.000Z,"Not my PM, not my Government - I want my country back #NoConfidence #Brexit #StopBrexit #BrexitBetraysBritain #FBPE https://t.co/vjh31UYfSD","['brexitbetraysbritain', 'noconfidence', 'fbpe', 'brexit', 'stopbrexit']"
-109,109,109,1719099,937561012034666496,907526503570837632,negative,remain,2017-12-04T05:55:38.000Z,"#MondayMotivation today anti #brexit activists will continue the fight to #stopbrexit, bc for #remainers there's no weekend, the struggle for our continued prosperity must go on! #ExitFromBrexit #BrexitBetraysBritain #FinalSay #FBPE","['brexitbetraysbritain', 'remainers', 'finalsay', 'mondaymotivation', 'exitfrombrexit', 'fbpe', 'stopbrexit', 'brexit']"
-110,110,110,1749647,937970541914243072,907526503570837632,positive,remain,2017-12-05T09:02:58.000Z,"On #InternationalVolunteersDay remainers, are keeping up the fight to #SaveTheUK &amp; #stopbrexit, whilst paid Russian bots &amp; #brexit trolls continue with #brexitlies. #BrexitBetraysBritain #FBPE
-Huge thanks to all volunteers in all sectors! https://t.co/RWBS1IYPAg","['brexitbetraysbritain', 'savetheuk', 'brexitlies', 'fbpe', 'stopbrexit', 'brexit', 'internationalvolunteersday']"
-111,111,111,1843458,939841063296163840,141141836,positive,remain,2017-12-10T12:55:45.000Z,"@panmisthropist @Prague_Tony Superb thread.
-Needed to be said and you said it with style!
-#FBLE #FBPE
-#NoConfidence in this government or in their #Brexit
-#BrexitBetraysBritain #SaveTheUK #StopBrexit #YesTo7 #FinalSay","['brexitbetraysbritain', 'savetheuk', 'finalsay', 'fble', 'yesto7', 'noconfidence', 'fbpe', 'brexit', 'stopbrexit']"
-112,112,112,1762441,938148821246316544,363557327,positive,remain,2017-12-05T20:51:23.000Z,Perfectly said  #StopBrexit #Brexit #WeAreEurope #BrexitBetraysBritain #FBPE https://t.co/80irLq4mOy,"['brexitbetraysbritain', 'weareeurope', 'fbpe', 'brexit', 'stopbrexit']"
-113,113,113,1820213,939155823451832320,363557327,negative,remain,2017-12-08T15:32:51.000Z,"The lunacy is in full swing but unlikely to be portrayed that way in the media, so on we go - #StopBrexit #Brexit #BrexitBetraysBritain #WeAreEurope #FBPE https://t.co/i4U4tvLNNU","['brexitbetraysbritain', 'weareeurope', 'fbpe', 'brexit', 'stopbrexit']"
-114,114,114,1758495,938078830744436736,363557327,negative,remain,2017-12-05T16:13:16.000Z,"Brexshit - supported by Farage, UKIP, Britain First, EDL, Trump, Putin, Katie Hopkins, the KKK, every racist, the hate filled gutter press. Wouldn’t this make you think twice? perhaps you’re on the wrong side? #Brexit #StopBrexit #WeAreEurope #BrexitBetraysBritain #FBPE","['brexitbetraysbritain', 'weareeurope', 'fbpe', 'brexit', 'stopbrexit']"
-115,115,115,1789154,938708663971303424,363557327,positive,remain,2017-12-07T09:56:00.000Z,"I'm old enough to remember those days. Being in the EU has enriched our lives in so many ways. Until the referendum I thought we lived in an open minded, caring compassionate &amp; inclusive society! #BrexitBetraysBritain #StopBrexit #Brexit #FBPE #WeAreEurope https://t.co/QKZ9c77JIY","['brexitbetraysbritain', 'weareeurope', 'fbpe', 'brexit', 'stopbrexit']"
-116,116,116,1789312,938711007421194240,363557327,negative,remain,2017-12-07T10:05:19.000Z,"Joining the EU took us to the heart of Europe as a major player. The EU enriched our lives in all ways. Brexshit would put us again on the fringe, no influence, no respect....why do this... #WeAreEurope #StopBrexit #FBPE #Brexit #BrexitBetraysBritain","['brexitbetraysbritain', 'weareeurope', 'fbpe', 'brexit', 'stopbrexit']"
-117,117,117,1752246,937996179698278400,363557327,negative,other,2017-12-05T10:44:51.000Z,"What could ever in a million years prompt you to believe this idiot was Foreign Secretary - whatever happened to us, we need to regain sanity soon #StopBrexit #Brexit #BrexitBetraysBritain #WeAreEurope #FBPE https://t.co/xVbqczvEZr","['brexitbetraysbritain', 'weareeurope', 'fbpe', 'brexit', 'stopbrexit']"
-118,118,118,1752666,938001121293070336,363557327,positive,other,2017-12-05T11:04:29.000Z,Absolutely right. Proud to be European. Proud to be a Remainer. Want my country back #FBPE #StopBrexit #Brexit #WeAreEurope #BrexitBetraysBritain https://t.co/tx7SOJkC3x,"['brexitbetraysbritain', 'weareeurope', 'fbpe', 'brexit', 'stopbrexit']"
-119,119,119,1789095,938707611456802816,363557327,negative,remain,2017-12-07T09:51:49.000Z,And still in power!!!! still representing our country altho leading it week by week to economic &amp; political disaster - where the hell is the opposition #NoConfidence #StopBrexit #Brexit #FBPE #WeAreEurope #BrexitBetraysBritain https://t.co/nWkgax2zmn,"['brexitbetraysbritain', 'weareeurope', 'noconfidence', 'fbpe', 'brexit', 'stopbrexit']"
-120,120,120,1756167,938057097333309440,363557327,positive,remain,2017-12-05T14:46:54.000Z,I only support No Brexit and will only vote for a politician or party that believes in Remaining in EU #StopBrexit #WeAreEurope #FBPE #BrexitBetraysBritain #Remain https://t.co/zcSkv1Rcpm,"['brexitbetraysbritain', 'weareeurope', 'remain', 'fbpe', 'stopbrexit']"
-121,121,121,1477211,930211231918673920,220981118,positive,remain,2017-11-13T23:10:14.000Z,"It's beginning to look like Brexit was NOT the ""Will of the People"", but WAS the ""Will of the Russian People""?
-
-#FBPE #StopBrexit #followbackProEU #Brexit #RussianBots #brexitshambles #BrexitBill #Brexiteers #brexitmeansbrexit #brexitvote #Remain #BrexitCrisis","['brexitbill', 'brexiteers', 'remain', 'brexitcrisis', 'brexitmeansbrexit', 'fbpe', 'brexitvote', 'russianbots', 'followbackproeu', 'brexit', 'stopbrexit', 'brexitshambles']"
-122,122,122,1906629,941627835680215040,456973123,neutral,remain,2017-12-15T11:15:45.000Z,"Petition: Parliament's vote on the #Brexit deal must include an option to #Remain  in the #EU.
-
-#StopBrexit #RevokeA50 #StopBrexitSaveBritain #FBPE #CancelBrexit #ExitFromBrexit #FollowBackProEU #Parliament #Petition #BrexitBill #BrexitDeal 
- https://t.co/Y7PHbSdU7E","['brexitbill', 'eu', 'revokea50', 'stopbrexitsavebritain', 'parliament', 'exitfrombrexit', 'followbackproeu', 'brexitdeal', 'cancelbrexit', 'remain', 'fbpe', 'petition', 'brexit', 'stopbrexit']"
-123,123,123,1777091,938426404487815168,1316707231,positive,other,2017-12-06T15:14:24.000Z,@ChrisMasonBBC #politis #eu #brexit #fbpe #Brexitcast is GR8. It is factual and fun !,"['brexitcast', 'politis', 'fbpe', 'eu', 'brexit']"
-124,124,124,1938727,942770719624220672,931444970665463808,negative,remain,2017-12-18T14:57:10.000Z,"'It's not the size of the dog in the fight, it's the size of the fight in the dog.' 
-Join the #Wooferendum to #StopBrexit #Brexit #BrexitNews #Brexitcast #BrexitShambles #FightBrexit #FBPE #Referendum2018 https://t.co/NZKg2qdP8D","['brexitcast', 'referendum2018', 'wooferendum', 'brexitshambles', 'brexitnews', 'fbpe', 'fightbrexit', 'brexit', 'stopbrexit']"
-125,125,125,1818214,939146278222606336,721026242,neutral,other,2017-12-08T14:54:55.000Z,With the EU and DUP never going to budge Mrs May had to take a punt on her Brexit favouring MPs being all bluster and cowardice. A gamble that appears to have worked. #fbpe #brexitdeal,"['brexitdeal', 'fbpe']"
-126,126,126,1822180,939181864547336192,2529377821,neutral,leave,2017-12-08T17:16:20.000Z,EXACTLY! #Brexit #Brexitdeal #Brexitdealisaneyewash #BrexitnevermeantBrexit #FBPE https://t.co/rtiwBfIV60,"['brexitdealisaneyewash', 'brexitnevermeantbrexit', 'fbpe', 'brexitdeal', 'brexit']"
-127,127,127,1601595,933803783498420224,192614779,positive,remain,2017-11-23T21:05:45.000Z,"Fine, but what do they do now? Are they fighting to #StopBrexit ? Are they revolting because they were conned by lies ? Are they helping to restore our #democracy ? How vocal, determined &amp; organised are they? SVP, get them in touch. Let’s work together. #Brexit #FBPE #Brexiteers https://t.co/Klkw13x8ze","['brexiteers', 'democracy', 'fbpe', 'brexit', 'stopbrexit']"
-128,128,128,1487156,930479952423735296,907526503570837632,neutral,remain,2017-11-14T16:58:02.000Z,The #brexiter version of democracy; hold referendums to let the uninformed decide then hold GE to decide who should be the dummy who shouts 'aye' in parliament according to the will of the people. #stopbrexit #brexit #FBPE,"['brexiter', 'brexit', 'stopbrexit', 'fbpe']"
-129,129,129,1635415,934934130827120640,220981118,negative,remain,2017-11-26T23:57:21.000Z,"Senses working overtime..
-
-#FBPE #StopBrexit #exitfrombrexit #Brexit #brexitshambles #BrexitReality #brexitwar #BrexitChaos #BREXITCLOCK #BrexitNews #BrexitBritain #Remain #Remainers #RemainersNow #Brexiteers #brexiters #LeaveEU #leaver #Leave #brexidiots #BrexitMadness https://t.co/SWO8AZVdLA","['brexiters', 'brexitreality', 'brexitchaos', 'remain', 'exitfrombrexit', 'brexidiots', 'brexitmadness', 'remainers', 'brexit', 'remainersnow', 'brexiteers', 'brexitbritain', 'brexitclock', 'brexitnews', 'stopbrexit', 'brexitshambles', 'leave', 'leaver', 'fbpe', 'brexitwar', 'leaveeu']"
-130,130,130,1833082,939462233905647616,220981118,neutral,remain,2017-12-09T11:50:25.000Z,"It's a jungle out there @DavidDavisMP 
-#FBPE #WeAreEurope #Brexit #BrexitBritain #StopBrexit #exitfrombrexit #brexitshambles #BrexitReality #BrexitChaos #BrexitNews #Remain #Remainers #RemainersNow #Brexiteers #brexiters #LeaveEU #leaver #Leave #DavidDavis #trust #followbackProEU https://t.co/C48WCgXkFT","['brexiters', 'brexitreality', 'brexitchaos', 'remain', 'exitfrombrexit', 'remainers', 'brexit', 'remainersnow', 'brexiteers', 'brexitbritain', 'daviddavis', 'brexitnews', 'stopbrexit', 'brexitshambles', 'weareeurope', 'leave', 'leaver', 'trust', 'fbpe', 'followbackproeu', 'leaveeu']"
-131,131,131,1921384,942150787207229440,931306415649673216,negative,remain,2017-12-16T21:53:46.000Z,Latest poll shows massive swing towards UK remaining in the EU - British people are changing their minds on #Brexit - explains why #Brexiters so desperate to rush us out of EU #FBPE #StopBrexit #Remain https://t.co/Og466oXmtt,"['brexiters', 'remain', 'fbpe', 'brexit', 'stopbrexit']"
-132,132,132,1922419,942212645993754624,2188550432,negative,remain,2017-12-17T01:59:34.000Z,"Outnumbered, defeated … where next for the diehard #Brexiters?
-#Brexit #StopBrexit #FBPE 
-https://t.co/r7bku2H9HR","['brexiters?', 'fbpe', 'brexit', 'stopbrexit']"
-133,133,133,1870935,940871393129975808,907526503570837632,negative,other,2017-12-13T09:09:55.000Z,"Unsure if David Davis &amp; the Vote Leave team could tell you The Art of building 2017, they were using a model called The Art of Wrecking 2017. But they didn't manage! And they won't in 2018 either. Onward march #stopbrexit. #brexit #brexitfail #FBPE","['brexitfail', 'brexit', 'stopbrexit', 'fbpe']"
-134,134,134,1633461,934890194905464832,319619581,negative,remain,2017-11-26T21:02:46.000Z,"What I'm seeing this evening is that both the hard Left and the hard Right harbour a venomous nest of Vipers. All of them seemingly allied with #Brexit and defending their territory. 😣
-
-#StopBrexit #exitfrombrexit #FBPE #Brexitgate","['brexitgate', 'exitfrombrexit', 'fbpe', 'brexit', 'stopbrexit']"
-135,135,135,1917485,941992835829633024,722194882417336320,positive,leave,2017-12-16T11:26:08.000Z,"🇪🇺❤️🇬🇧🎅🎄 Calling on #Remainers #FBPE
-Please help say NO to #Brexit this #Christmas!
-If we can get the #BrexitGrinch Song in the #xmas charts the media coverage would be HUGE!
-We need at least 8000 downloads/streams! Please RT and Tag!
-https://t.co/w6Gl2xX9rW https://t.co/h5Uge8Bgjt","['brexitgrinch', 'christmas', 'xmas', 'fbpe', 'remainers', 'brexit']"
-136,136,136,1866407,940627074968096768,1243638660,positive,other,2017-12-12T16:59:05.000Z,"Here is Barnier explaining different trade models available to the UK at the press conference on Friday (note his comment “Korea ….. South” ha ha ha) – at 29 min 30 sec:
-https://t.co/SpT70hpGan
-
-#BrexitDeal #FBPE #BrexitChaos #brexit #BrexitNews","['brexitnews', 'brexitchaos', 'fbpe', 'brexit', 'brexitdeal']"
-137,137,137,1835590,939538878956032000,281628104,neutral,remain,2017-12-09T16:54:59.000Z,@jeremycorbyn @Jamesli07723738 @Conservatives End Brexit and I will consider your proposals Mr Corbyn https://t.co/fH4QGVopbK #BrexitReality #Brexit #FBPE #BrexitDeal #Remain,"['brexitreality', 'brexitdeal', 'remain', 'fbpe', 'brexit']"
-138,138,138,1687642,936292610486030336,99628982,negative,remain,2017-11-30T17:55:28.000Z,"Totally self inflicted - people are starting to wake up.
-
-#FBPE #brexitshambles #BrexitReality #exitbrexit #Brexit https://t.co/SE651ilbOq","['brexitreality', 'exitbrexit', 'fbpe', 'brexit', 'brexitshambles']"
-139,139,139,1608427,934017035088158720,99628982,neutral,remain,2017-11-24T11:13:09.000Z,"""Tell me why are we so blind to see
-That the ones we hurt are you and me?...""
-(Gangsta's Paradise lyrics)
-
-#StopBrexit #exitfrombrexit #Brexitshambles #BrexitReality  #brexit #FBPE https://t.co/ktpxr59V8A","['brexitreality', 'exitfrombrexit', 'brexitshambles', 'fbpe', 'brexit', 'stopbrexit']"
-140,140,140,1483158,930392398311690240,319619581,positive,remain,2017-11-14T11:10:08.000Z,"Dominic Grieve on @BBCNews saying that the Government has added a further amendment to the #EUWithdrawalBill that can allow itself the use of a statutory instrument to scrap the ""meaningful vote"" at a whim. #Brexit #StopBrexit #exitfrombrexit #BrexitReality #FBPE","['brexitreality', 'exitfrombrexit', 'euwithdrawalbill', 'fbpe', 'brexit', 'stopbrexit']"
-141,141,141,1611185,934079474848731136,99628982,negative,remain,2017-11-24T15:21:15.000Z,"This is self inflicted... Can you imagine what will happen when we actually leave?
-#BrexitReality #StopBrexit #Brexit #FBPE #brexitshambles https://t.co/RpL9kWGO0i","['brexitreality', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-142,142,142,1601205,933792626486202368,99628982,neutral,remain,2017-11-23T20:21:25.000Z,"#BrexitReality is right before our eyes... And we haven't even left yet!
-
-#brexitshambles #StopBrexit #Brexit  #FBPE https://t.co/lmBm9GStWG","['brexitreality', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-143,143,143,1542335,932315087754481664,319619581,neutral,remain,2017-11-19T18:30:13.000Z,Signed and retweeting... 👇 🙂 👇 #StopBrexit #exitfrombrexit #brexitshambles #BrexitReality #Remain #FBPE #Brexit #FollowBackProEU 👇 https://t.co/Wb45A77SOo,"['brexitreality', 'followbackproeu', 'remain', 'exitfrombrexit', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-144,144,144,1464665,929805593430429696,319619581,negative,remain,2017-11-12T20:18:23.000Z,"#Brexit #StopBrexit #exitfrombrexit #brexitshambles #BrexitReality #Remain #FBPE #FollowBackProEU
-
-Same here. The most incompetent, conniving, malicious, mendacious, despicable, deplorable, unspeakably atrocious Government I have ever known. 😡 https://t.co/ZS8aHHHqK0","['brexitreality', 'followbackproeu', 'remain', 'exitfrombrexit', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-145,145,145,1474791,930134359067316224,319619581,neutral,remain,2017-11-13T18:04:46.000Z,"#Brexit #StopBrexit #exitfrombrexit #brexitshambles #BrexitReality #Remain #FBPE #FollowBackProEU @Anna_Soubry @KenClarkeMP
-
-This! 👇 https://t.co/vb1Fv8MEmZ","['brexitreality', 'followbackproeu', 'remain', 'exitfrombrexit', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-146,146,146,1536569,932040272082554880,319619581,positive,remain,2017-11-19T00:18:11.000Z,"@jamesgould18 @JolyonMaugham @Conservatives @theresa_may @Jacob_Rees_Mogg @BorisJohnson @DavidDavisMP Stephen Dorrell, Norman Fowler, Michael Heseltine, Ken Clarke and John Major. All capable competent statesman compared to the shower at the top of the @Conservatives today. 😔 #Brexit #StopBrexit #exitfrombrexit #brexitshambles #BrexitReality #Remain #FBPE #FollowBackProEU 👇","['brexitreality', 'followbackproeu', 'remain', 'exitfrombrexit', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-147,147,147,1658258,935554045066039296,319619581,negative,remain,2017-11-28T17:00:40.000Z,"@RHHassall @andrewjskatz @UKLabour @LibDems #Brexit #StopBrexit #exitfrombrexit #brexitshambles #BrexitReality #Remain #FBPE #FollowBackProEU 👇 #ExitBrexit
-
-The #EUref was only a non legally binding advisory vote. Parliament wasn't bound to apply the result. https://t.co/NibQzXiUS6","['brexitreality', 'followbackproeu', 'remain', 'exitfrombrexit', 'fbpe', 'euref', 'exitbrexit', 'brexit', 'stopbrexit', 'brexitshambles']"
-148,148,148,1625472,934713300545306624,99628982,negative,remain,2017-11-26T09:19:51.000Z,"Yet another sample of #BrexitReality - haven't we lost enough jobs/investment?
-Fuel hit the £1.20 mark &amp; food prices are higher than ever. Why continue with this madness?
-
-#FBPE #FollowBackProEU 
-
-#StopBrexit #brexitshambles #Brexit #Remain https://t.co/yfaCNZ6B0i","['brexitreality', 'followbackproeu', 'remain', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-149,149,149,1622616,934556393444659200,99628982,negative,remain,2017-11-25T22:56:22.000Z,"Why risk losing Northern Ireland and Scotland? #Brexit is gonna end up splitting the country...
-
-#brexitshambles #BrexitReality #Remain #StopBrexit #FBPE #FollowBackProEU https://t.co/BcXtfOhTuY","['brexitreality', 'followbackproeu', 'remain', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-150,150,150,1647475,935272888164409344,192614779,positive,remain,2017-11-27T22:23:27.000Z,I wish😢 #Brexit #Brexiteers #Brexiteer #Brexiter #StopBrexit #FBPE #brexitreality #brexitwakeupcall #IrishBorder #IRA #Peace  @DanielJHannan #DanielHannan #ProjectFear #brexitscam #brexitshambles #RemainersNow https://t.co/ZpZk52xvzw,"['brexitreality', 'projectfear', 'brexiter', 'brexitwakeupcall', 'irishborder', 'brexiteers', 'danielhannan', 'remainersnow', 'ira', 'brexitscam', 'fbpe', 'brexiteer', 'peace', 'brexit', 'stopbrexit', 'brexitshambles']"
-151,151,151,1633776,934896201392148480,319619581,negative,remain,2017-11-26T21:26:38.000Z,"@chrisk_hw Yep. Unprecedented. Sane, sensible politicians from all parties need to come together and put a stop to this before this country is beyond saving. #Brexit #StopBrexit #exitfrombrexit #brexitshambles #BrexitReality #Remain #FBPE","['brexitreality', 'remain', 'exitfrombrexit', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-152,152,152,1475865,930162047911956480,319619581,negative,remain,2017-11-13T19:54:48.000Z,"#Brexit #StopBrexit #exitfrombrexit #brexitshambles #BrexitReality #Remain #FBPE
-
-Exactly.
-This is just smoke &amp; mirrors to fool those easily led. 👇 https://t.co/fPlADwFcHT","['brexitreality', 'remain', 'exitfrombrexit', 'fbpe', 'brexit', 'stopbrexit', 'brexitshambles']"
-153,153,153,1918764,942038477192990720,23073725,negative,remain,2017-12-16T14:27:29.000Z,@Otto_English If we want to feel sorry for anyone it should be for those whose lives and livelihoods are being ruined by #Brexit; for those who live in fear of violence and for those who lost their lives after the #Brexitref. #FBPE #StopBrexit,"['brexitref', 'brexit', 'fbpe', 'stopbrexit']"
-154,154,154,1527903,931631649921601536,456973123,neutral,remain,2017-11-17T21:14:28.000Z,A couple of #Brexit letters in The Times today. Is the #BrexitReality finally sinking in and making more and more #Brexiteers wake up experience #BrexitRegret? The #BrexitMutineers are building in ranks. #StopBrexit #Remain #Resist #FBPE https://t.co/AeD37ZZnTx,"['brexitregret?', 'resist', 'brexitreality', 'brexiteers', 'brexitmutineers', 'remain', 'fbpe', 'brexit', 'stopbrexit']"
-155,155,155,1690594,936399234688880640,781269157144854528,positive,remain,2017-12-01T00:59:09.000Z,@rapsiencyn @EliasMichalas Might now be  a good time for the @DailyMailUK to change it's stance on #Brexit and to start telling #TheTruth 😀 they may then see a change in fortune #Remainyouknowitmakessense #BrexitReports #BrexitShambles #DailyMail #FBPE,"['brexitreports', 'brexitshambles', 'thetruth', 'remainyouknowitmakessense', 'dailymail', 'fbpe', 'brexit']"
-156,156,156,1648338,935325781567385600,220981118,positive,remain,2017-11-28T01:53:38.000Z,"I'm not instinctively drawn to the Labour Party, but I've been pretty impressed by some of the stirling work of its leader recently.  So credit where credit is due.
-
-Take a bow, Keir Starmer!
-
-@Labour4EU @UKLabour 
-#FBPE #StopBrexit #LabourParty #LabourEU #brexit #BrexitReports","['brexitreports', 'laboureu', 'fbpe', 'labourparty', 'brexit', 'stopbrexit']"
-157,157,157,1671008,935836177130840064,220981118,negative,remain,2017-11-29T11:41:46.000Z,"I try to make it a point to read about the UK from overseas sources. 
-
-No surprise that Brexit seems to be a mystery to most.
-
-https://t.co/yx43WckFhA
-
-#FBPE #StopBrexit #Brexit #brexitshambles #BrexitReports #LeaveEU #leave
-#Remain #leavers #Remainers #UnitedKingdom #USA","['brexitreports', 'leaveeu', 'leave', 'unitedkingdom', 'leavers', 'remain', 'fbpe', 'usa', 'remainers', 'brexit', 'stopbrexit', 'brexitshambles']"
-158,158,158,1772795,938375063233015808,22714709,positive,remain,2017-12-06T11:50:23.000Z,"Not sure what's more surprising - David Davis lying to Parliament about the existence of #BrexitReports repeatedly or this govt not being prepared in any, way, shape or form for the most extensive political shift for a generation #Brexit #FBPE #PMQs #YouDontKnowWhatYoureDoing","['brexitreports', 'pmqs', 'brexit', 'fbpe', 'youdontknowwhatyouredoing']"
-159,159,159,1680441,936125808325857280,192614779,positive,remain,2017-11-30T06:52:39.000Z,"😂Solid #StopBrexit argument here. Special relationship, my butt, @Conservatives ! 🙄Can’t wait to see him in London, discrediting you lot and your lies even more blatantly! #ImpeachTrump #ToriesOut @theresa_may #Brexit #BrexitReports #BrexitReality #FBPE https://t.co/BbukJpU5sL","['brexitreports', 'toriesout', 'impeachtrump', 'brexitreality', 'fbpe', 'brexit', 'stopbrexit']"
-160,160,160,1501820,930857385748586496,319619581,negative,remain,2017-11-15T17:57:49.000Z,"I'd say that #Brexit is the Will of the Russian Government. A Government that wants to weaken and destabilise Europe.
-
-The people of Russia endure a corrupt regime. #StopBrexit #BrexitRussia #FBPE https://t.co/c19UQaAwZG","['brexitrussia', 'fbpe', 'brexit', 'stopbrexit']"
-161,161,161,1936860,942718934779924480,3018018880,neutral,remain,2017-12-18T11:31:23.000Z,"@NicolaSturgeon @BrexitBin Well said @NicolaSturgeon. 
-#negligence is a gentle term here.
-#BrexitDeal #Brexit #BrexitShambles #FBPE","['brexitshambles', 'brexit', 'brexitdeal', 'fbpe', 'negligence']"
-162,162,162,1714224,937360021683408896,730658801200812032,negative,remain,2017-12-03T16:36:59.000Z,"'If we don't back Theresa May, we'll have no #Brexit': Jeremy Hunt issues unprecedented warning. 
-
-If you want to #StopBrexit, you now know what must be done. #FBPE #NoBrexit #BrexitReality #BrexitShambles 
-
-https://t.co/6QFVpp82nh","['brexitshambles', 'brexit', 'brexitreality', 'nobrexit', 'stopbrexit', 'fbpe']"
-163,163,163,1756453,938045985653182464,2191984092,negative,remain,2017-12-05T14:02:45.000Z,People against #Brexit have to work together with opposition or be useful idiots for Tory #BrexitShambles as disunited rabbled unable to prevent harmful damage. Tory Gov works by dividing and ruling the useful idiots. Insane to blame #Corbyn for Tory Gov insane #Brexit.  #FBPE https://t.co/njreCAxd4B,"['brexitshambles', 'brexit', 'fbpe', 'corbyn', 'brexit']"
-164,164,164,1885618,941113291954446336,715873578663673856,positive,remain,2017-12-14T01:11:08.000Z,I wonder want leavers thought parliamentary sovereignty meant? #FBPE #Brexit #EUWithdrawalBill #brexitbill #BrexitShambles,"['brexitshambles', 'brexitbill', 'euwithdrawalbill', 'fbpe', 'brexit']"
-165,165,165,1844094,939859506653220864,784337886757855232,negative,remain,2017-12-10T14:09:02.000Z,#FBPE #BrexitShambles #Brexit #Remain I see some #Brexiteers are trying to block accounts that use the #FBPE hashtag... that's got me using it!! 😂😂😂 https://t.co/6K8H1WRZem,"['brexitshambles', 'brexiteers', 'remain', 'fbpe', 'brexit']"
-166,166,166,1625849,934719989864681472,99628982,neutral,remain,2017-11-26T09:46:26.000Z,"We might also lose Northern Ireland, Scotland and even Gibraltar because of #Brexit
-The cost gets higher &amp; higher every day!
-
-#FBPE #FollowBackProEU
-#BrexitReality #BrexitShambles #StopBrexit #ExitBrexit https://t.co/ogmXcuwyhE","['brexitshambles', 'brexitreality', 'followbackproeu', 'fbpe', 'exitbrexit', 'brexit', 'stopbrexit']"
-167,167,167,1840902,939789164228333568,192614779,neutral,remain,2017-12-10T09:29:31.000Z,#Brexit : #BrexitDeal or how to get 2 for the price of 3! 😜 #StopBrexit #DavidDavis #BrexitReality #brexitwonthappen #BrexitShambles #FBPE,"['brexitshambles', 'brexitwonthappen', 'brexitreality', 'brexit', 'brexitdeal', 'fbpe', 'daviddavis', 'stopbrexit']"
-168,168,168,1882150,941060713623277568,28530320,neutral,remain,2017-12-13T21:42:12.000Z,"Stephen Hammond: Tory MP sacked as a Conservative vice-chairman after Brexit rebellion
-#Brexshit #BrexitShambles #StopBrexit #FBPE #brexitbill 
-https://t.co/xtmXQtzApB","['brexitshambles', 'brexshit', 'brexitbill', 'fbpe', 'stopbrexit']"
-169,169,169,1787634,938686264844398592,28530320,negative,remain,2017-12-07T08:27:00.000Z,Theresa May’s #Brexit blinkers are preventing her seeing anything else #BrexitShambles #Brexshit #StopBrexit #FBPE  https://t.co/z2XLDFJahV,"['brexitshambles', 'brexshit', 'fbpe', 'brexit', 'stopbrexit']"
-170,170,170,1852755,940189671858081792,28530320,positive,remain,2017-12-11T12:01:00.000Z,"Country that gets paralysed by two inches of snow thinks going it alone will be great #BrexitShambles #Brexshit #Brexit #StopBrexit #FBPE 
-https://t.co/MdvpCGezNy","['brexitshambles', 'brexshit', 'fbpe', 'brexit', 'stopbrexit']"
-171,171,171,1919904,942087854959841280,28530320,positive,remain,2017-12-16T17:43:42.000Z,"Happy Christmas everyone, though as usual it's far from the truth #Brexit #Brexshit #BrexitShambles #StopBrexit #FBPE https://t.co/j8oY0iS03N","['brexitshambles', 'brexshit', 'fbpe', 'brexit', 'stopbrexit']"
-172,172,172,1921708,942162752231047168,28530320,negative,remain,2017-12-16T22:41:19.000Z,"Call off #Brexit bullies or face defeat, Tory peers tell Theresa May #BrexitShambles #Brexshit #StopBrexit #FBPE  https://t.co/qtJCDWu12k","['brexitshambles', 'brexshit', 'fbpe', 'brexit', 'stopbrexit']"
-173,173,173,1934561,942671961397891072,28530320,negative,remain,2017-12-18T08:24:44.000Z,"#Brexit lies: The demonstrably false claims of the EU referendum campaign #Brexshit #BrexitShambles #StopBrexit #FBPE  
-https://t.co/g8jlV0d4bn","['brexitshambles', 'brexshit', 'fbpe', 'brexit', 'stopbrexit']"
-174,174,174,1871595,940871255271632896,28530320,positive,remain,2017-12-13T09:09:22.000Z,"City millionaire says Vote Leave directed his donation decision
-#Brexit #StopBrexit #Brexshit #BrexitShambles #FBPE 
- https://t.co/0zO0t1ifMq","['brexitshambles', 'brexshit', 'fbpe', 'brexit', 'stopbrexit']"
-175,175,175,1787600,938685823037341696,28530320,positive,remain,2017-12-07T08:25:14.000Z,#Brexit - UK has 48 hours to agree potential deal or talks cannot progress #BrexitShambles #Brexshit #StopBrexit #FBPE  https://t.co/rb3baHZkUl,"['brexitshambles', 'brexshit', 'fbpe', 'brexit', 'stopbrexit']"
-176,176,176,1926722,942365306147745792,28530320,positive,remain,2017-12-17T12:06:11.000Z,"I'm more than happy to put my trust in the public to reconsider #Brexit #Brexshit #BrexitShambles #StopBrexit #FBPE  
-https://t.co/SKzDEtmb62","['brexitshambles', 'brexshit', 'fbpe', 'brexit', 'stopbrexit']"
-177,177,177,1880613,941029694698328064,36965067,neutral,remain,2017-12-13T19:38:57.000Z,"#Brexit #BrexitShambles #FBPE #Amendment7 
-#DominicGrieve: Man of the Day.","['brexitshambles', 'dominicgrieve', 'fbpe', 'brexit', 'amendment7']"
-178,178,178,1941458,942864320790220800,926128502436483072,neutral,remain,2017-12-18T21:09:06.000Z,@twickydicky @Arron_banks @PhilipHammondUK I not quite sure how your comment amounts to you giving me 3 reasons on why the #EU car manufacturers will retain their plants in the UK if #brexit were to occur? #StopBrexit #BrexitShambles #FBPE,"['brexitshambles', 'eu', 'fbpe', 'brexit', 'stopbrexit']"
-179,179,179,1863509,940565833369210880,384533439,negative,other,2017-12-12T12:55:44.000Z,"David Davis ‘risks undermining good faith’ in Brexit negotiations, angry European Parliament warns - #DavidDavis #BrexitShambles #EU #FBPE #EUref2 https://t.co/COc7uNx0Cv","['brexitshambles', 'euref2', 'eu', 'fbpe', 'daviddavis']"
-180,180,180,1846396,939944328302080000,748102783363072000,neutral,remain,2017-12-10T19:46:05.000Z,"My mother-in-law voted for #Brexit after watching this bogus 'NHS' campaign.
-...She also thought Jeremy Corbyn was Theresa May's husband.
-Is this the 'will of the people'?
-
-https://t.co/daoJAnpg2B
-#NHS #StopBrexit #FBPE #exitbrexit #ExitFromBrexit #BrexitShambles @BrexitCentral https://t.co/DTBFNfpFUW","['brexitshambles', 'exitfrombrexit', 'exitbrexit', 'fbpe', 'nhs', 'brexit', 'stopbrexit']"
-181,181,181,1843590,939844754178740224,20433240,positive,remain,2017-12-10T13:10:25.000Z,#Manchester based #MCFC #snowman makes it clear how he'd vote in a #FinalSay on the #Brexit deal.  #StopBrexit #MUFCvsMCFC #ManchesterDerby #ManchesterVotedRemain #MUFC #PL25 #PL #MUIP #MOTD2  #FBPE #NoBrexit #BrexitBetraysBritain #BrexitShambles #ForTheChildren #FinalSayForAll https://t.co/CI1vSdlWVs,"['brexitshambles', 'finalsay', 'finalsayforall', 'muip', 'pl', 'brexit', 'mcfc', 'pl25', 'nobrexit', 'forthechildren', 'snowman', 'manchesterderby', 'manchester', 'mufcvsmcfc', 'stopbrexit', 'brexitbetraysbritain', 'manchestervotedremain', 'mufc', 'fbpe', 'motd2']"
-182,182,182,1548102,932549247978868736,2908441097,negative,remain,2017-11-20T10:00:41.000Z,||::|: #Brexit https://t.co/49kix4MPra deadline https://t.co/1lHeNzCB5u #Moon #Ophiuchus #Jupiter | #StopBrexit #UK :|:||| #EU #Legal #Conflict #2025shift #taoiseach #FBPE #2019shift #BrexitShambles #PollTax #UniversalCredit #IamEuropean #Remain https://t.co/oRflmMLGHE,"['brexitshambles', 'legal', 'polltax', 'iameuropean', '2025shift', 'uk', 'taoiseach', 'ophiuchus', 'universalcredit', 'eu', 'moon', 'remain', 'fbpe', 'conflict', '2019shift', 'jupiter', 'brexit', 'stopbrexit']"
-183,183,183,1780926,938488785595195392,456973123,negative,remain,2017-12-06T19:22:17.000Z,"The Guardian view on the #Brexit crisis: time to stop the #fanatics
-
-#StopBrexit #BrexitShambles  #RevokeA50 #ToriesOut #MayMustGo #SackDavidDavis #ContemptOfParliament  #ArrestDavidDavis
-#FBPE #FollowBackProEU 
-
-https://t.co/3lAJCbwGTV","['brexitshambles', 'maymustgo', 'toriesout', 'revokea50', 'followbackproeu', 'arrestdaviddavis', 'fanatics', 'fbpe', 'contemptofparliament', 'brexit', 'stopbrexit', 'sackdaviddavis']"
-184,184,184,1548103,932549249966968832,2908441097,negative,remain,2017-11-20T10:00:41.000Z,||::|: #Brexit https://t.co/49kix4MPra deadline https://t.co/1lHeNzCB5u #Moon #Ophiuchus #Jupiter | #StopBrexit #UK :|:||| #EU #Legal #Conflict #Calais #LaManche #2025shift #taoiseach #FBPE #2019shift #BrexitShambles #PollTax #UniversalCredit #IamEurop… https://t.co/yPDT9ZvUAh,"['brexitshambles', 'ophiuchus', 'moon', 'brexit', 'polltax', '2025shift', 'iameuropâ\x80¦', 'taoiseach', 'universalcredit', 'legal', 'uk', 'calais', 'eu', 'jupiter', 'stopbrexit', 'lamanche', 'fbpe', 'conflict', '2019shift']"
-185,185,185,1546505,932519043747151872,2908441097,neutral,remain,2017-11-20T08:00:40.000Z,#Brexit https://t.co/49kix4MPra deadline https://t.co/1lHeNzCB5u #StopBrexit #2025shift #taoiseach #FBPE #2019shift #BrexitShambles #PollTax #UniversalCredit https://t.co/24dWupI5BR,"['brexitshambles', 'polltax', '2025shift', 'taoiseach', 'universalcredit', 'fbpe', '2019shift', 'brexit', 'stopbrexit']"
-186,186,186,1341618,924447748560244736,781269157144854528,positive,remain,2017-10-29T01:28:13.000Z,@JamesMelville #FBPE Very proud of #OurEnglishLads  #StopBrexit #BrexitShambles #Brexit #Remain #Remainyouknowitmakessense,"['brexitshambles', 'remainyouknowitmakessense', 'ourenglishlads', 'remain', 'fbpe', 'brexit', 'stopbrexit']"
-187,187,187,1341621,924448212349521920,781269157144854528,neutral,remain,2017-10-29T01:30:03.000Z,@Flomoll @JamesMelville #FBPE It's been a bit of a habit for #OurEnglishLads this year #StopBrexit #BrexitShambles #Remainyouknowitmakessense #Remain #Brexit 🤪,"['brexitshambles', 'remainyouknowitmakessense', 'ourenglishlads', 'remain', 'fbpe', 'brexit', 'stopbrexit']"
-188,188,188,1341710,924469198679609344,780840449963532160,positive,remain,2017-10-29T02:53:27.000Z,RT TakingJobs: JamesMelville #FBPE Very proud of #OurEnglishLads  #StopBrexit #BrexitShambles #Brexit #Remain #Remainyouknowitmakessense,"['brexitshambles', 'remainyouknowitmakessense', 'ourenglishlads', 'remain', 'fbpe', 'brexit', 'stopbrexit']"
-189,189,189,1762027,938139711411023872,456973123,negative,remain,2017-12-05T20:15:11.000Z,@wildwordz With more waking up each day to the fact that #Brexit is an unfolding #disaster the longer the #Tory-led #BrexitShambles continues. Stuff #FinalSay! It simply must be stopped and A50 revoked! #RevokeA50  #FBPE #FollowBackProEU,"['brexitshambles', 'revokea50', 'followbackproeu', 'tory-led', 'fbpe', 'disaster', 'brexit', 'finalsay']"
-190,190,190,1939952,942817068268834816,1243638660,positive,remain,2017-12-18T18:01:20.000Z,"Brexit will be nowhere near a good enough deal to keep 16.8m remainers happy and nowhere near what the 17.4m Brexiteers voted for. This won't end well.🙄
-
-#FBPE #BrexitChaos #BrexitDeal #BrexitShambles #StopBrexitSaveBritain","['brexitshambles', 'stopbrexitsavebritain', 'brexitchaos', 'fbpe', 'brexitdeal']"
-191,191,191,1727928,937680485597270016,28530320,positive,remain,2017-12-04T13:50:23.000Z,"Britain agrees Northern Ireland can keep EU regulations after #Brexit leaked draft agreement suggests #BrexitShambles #Brexshit #ToriesOut #StopBrexit #FBPE 
-https://t.co/uuaBH5VWZy","['brexitshambles', 'toriesout', 'brexshit', 'fbpe', 'brexit', 'stopbrexit']"
-192,192,192,1785447,938651086017220608,456973123,negative,remain,2017-12-07T06:07:12.000Z,"Even comedy geniuses like John Cleese, Ronnie Barker, etc, couldn't have dreamt this shit up.
-
-#BrexitReality is stranger than fiction.
-
-#Brexit #Brexiteers #StopBrexit #BrexitShambles #RevokeA50 #SackDavidDavis #ToriesOut #FBPE #FollowBackProEU 
-
-https://t.co/sSB7ch15ex","['brexitshambles', 'toriesout', 'revokea50', 'brexitreality', 'followbackproeu', 'brexiteers', 'fbpe', 'brexit', 'stopbrexit', 'sackdaviddavis']"
-193,193,193,1347335,924758716016136192,781269157144854528,negative,remain,2017-10-29T22:03:53.000Z,@LBC #FBPE #NigelFarage It certainly makes sense to discuss the damage that #Brexit is and will do to #UK #StopBrexit #BrexitShambles #Remain,"['brexitshambles', 'uk', 'nigelfarage', 'remain', 'fbpe', 'brexit', 'stopbrexit']"
-194,194,194,1548100,932549246133432320,2908441097,negative,remain,2017-11-20T10:00:40.000Z,||::|: #Brexit 1588 https://t.co/49kix4MPra deadline https://t.co/1lHeNzCB5u #Moon #Ophiuchus #Jupiter | #Armada #StopBrexit #UK :|:||| #EU #Legal #Conflict #Calais #LaManche #2025shift #taoiseach #FBPE #2019shift #BrexitShambles #PollTax #UniversalCre… https://t.co/p6vmARnaMu,"['brexitshambles', 'universalcreâ\x80¦', 'ophiuchus', 'moon', 'brexit', 'polltax', '2025shift', 'taoiseach', 'armada', 'legal', 'uk', 'calais', 'eu', 'jupiter', 'stopbrexit', 'lamanche', 'fbpe', 'conflict', '2019shift']"
-195,195,195,1890152,941234056838238208,220981118,positive,remain,2017-12-14T09:11:01.000Z,"I would LOVE to be a fly on the wall when Tinpot Theresa and Mavis Davis walk into that room this morning! 
-
-#FBPE #followbackproeurope #StopBrexit #Brexit #BrexitDeal #brexitbill #BrexitShambles #MeaningfulVote #Rebels #BrexitTalks  #BrexitWithdrawalbill","['brexittalks', 'brexitshambles', 'meaningfulvote', 'brexitdeal', 'followbackproeurope', 'brexitbill', 'rebels', 'fbpe', 'brexit', 'stopbrexit', 'brexitwithdrawalbill']"
-196,196,196,1755663,938035184133427200,4843236069,negative,remain,2017-12-05T13:19:50.000Z,"The UK Government put leaving the #SingleMarket &amp; #CustomsUnion to the electorate and they lost their majority.
+Since becoming part of the #FBPE community, I have often been asked why I support #Corbyn considering our opposing stances on #Brexit
+Please read on... 
+1/","['brexit', 'corbyn', 'fbpe']"
+1755663,938035184133427200,4843236069,negative,remain,2017-12-05T13:19:50.000Z,"The UK Government put leaving the #SingleMarket &amp; #CustomsUnion to the electorate and they lost their majority.
 
 Quite right, @ChukaUmunna 
 
-#Brexit #BrexitTalksQuestion #FBPE","['brexittalksquestion', 'singlemarket', 'customsunion', 'fbpe', 'brexit']"
-197,197,197,1771611,938365384817872896,746371177174679552,negative,remain,2017-12-06T11:11:56.000Z,"Of course there are no impact assessments. David Davis and his Brextremist pals don't give a damn about the impact of #Brexit so long as they get their #BrexitTaxHaven. 
-#StopBrexit #FBPE","['brexittaxhaven', 'fbpe', 'brexit', 'stopbrexit']"
-198,198,198,1908680,941658279473795072,746371177174679552,positive,remain,2017-12-15T13:16:43.000Z,"The Tory Brextremist MPs want the middling-rich like themselves who can't afford the full range of offshore perks available to the super-rich to be able to enjoy them in their very own #BrexitTaxHaven.
-And screw the rest of us. 
-#StopBrexit #Brexit #FBPE","['brexittaxhaven', 'fbpe', 'brexit', 'stopbrexit']"
-199,199,199,1792037,938754259096567808,746371177174679552,negative,remain,2017-12-07T12:57:11.000Z,"The more chaotic and brutal the #Brexit the better for #Legatum style disaster capitalists and the further Britain will be pushed towards the #BrexitTaxHaven economy of right wing Tory wet dreams.
-For them worse is better!
-#StopBrexit #FBPE https://t.co/sg4mALRsfK","['brexittaxhaven', 'legatum', 'fbpe', 'brexit', 'stopbrexit']"
+#Brexit #BrexitTalksQuestion #FBPE","['brexit', 'customsunion', 'fbpe', 'singlemarket', 'brexittalksquestion']"
+1736334,937750390640201728,23073725,negative,remain,2017-12-04T18:28:10.000Z,@Anna_Soubry @Trundlelin Staying in #SingleMarket  and #CustomsUnion means that there will be no point leaving the #EU at all which is what we've been saying all along! #FBPE #StopBrexit #Brexit,"['brexit', 'customsunion', 'stopbrexit', 'fbpe', 'singlemarket', 'eu']"
+1690594,936399234688880640,781269157144854528,positive,remain,2017-12-01T00:59:09.000Z,@rapsiencyn @EliasMichalas Might now be  a good time for the @DailyMailUK to change it's stance on #Brexit and to start telling #TheTruth 😀 they may then see a change in fortune #Remainyouknowitmakessense #BrexitReports #BrexitShambles #DailyMail #FBPE,"['brexit', 'dailymail', 'brexitreports', 'fbpe', 'remainyouknowitmakessense', 'thetruth', 'brexitshambles']"
+1810496,939068002489729024,6019362,positive,remain,2017-12-08T09:43:53.000Z,"Hurrah! Now we've agreed to mirror, signal, manoeuvre, we can finally drive ourselves off the cliff! #Brexit #ThelmaAndLouiseBrexit #DeathCultBrexit #StopBrexit #FBPE","['brexit', 'deathcultbrexit', 'thelmaandlouisebrexit', 'stopbrexit', 'fbpe']"
+1601595,933803783498420224,192614779,positive,remain,2017-11-23T21:05:45.000Z,"Fine, but what do they do now? Are they fighting to #StopBrexit ? Are they revolting because they were conned by lies ? Are they helping to restore our #democracy ? How vocal, determined &amp; organised are they? SVP, get them in touch. Let’s work together. #Brexit #FBPE #Brexiteers https://t.co/Klkw13x8ze","['brexit', 'democracy', 'stopbrexit', 'fbpe', 'brexiteers']"
+1908375,941654001619210240,20434170,negative,remain,2017-12-15T12:59:43.000Z,Only conclusion to these questions is that government has no intention of leaving EU but is going through motions as MPs are scared of something maybe threats from whips or sections of Brexit fraternity  #Stopbrexit #ECJ #GuyVerhofstadt #Brexit #FBPE https://t.co/4xjTvtqS0a,"['brexit', 'ecj', 'guyverhofstadt', 'fbpe', 'stopbrexit']"
+1429817,928595178390212608,3769352597,positive,remain,2017-11-09T12:08:37.000Z,"@MichelBarnier @EP_President @PaoloGentiloni @CarloCalenda Do remember Michel that 73% didn't vote for #Brexit, maybe you could reach out to UK public and say leaving #EU is not inevitable, Art 50 can be revoked?  #FBPE https://t.co/VUNoD35PXa","['brexit', 'eu', 'fbpe']"
+1764680,938214234592366592,20083727,positive,remain,2017-12-06T01:11:19.000Z,"Madeleina Kay (AKA #EUsupergirl @albawhitewolf) is better at clowning around than our Foreign Sec. (AKA @borisjohnson) 😂
+Giving us a much improved image too 😎
+#FBPE #theresa_may #BRExit https://t.co/LT3Pc1quPX","['brexit', 'eusupergirl', 'fbpe', 'theresa_may']"
+1928362,942420295247323136,404281100,neutral,other,2017-12-17T15:44:42.000Z,"#EUWithdrawalBill #Brexit #Labour #StopBrexit #FBPE #TheresaMay #ToriesOut @malloch_brown 
+
+Too much power concentrated in too few hands in London &amp; Brussels
+
+Build REAL democracy - devolve all law making in UK, EU unions https://t.co/d0dXb66leW","['brexit', 'euwithdrawalbill', 'stopbrexit', 'fbpe', 'labour', 'theresamay', 'toriesout']"
+1942998,942903674975727616,25104645,negative,remain,2017-12-18T23:45:29.000Z,"People change their minds. If they didn't, we'd have one party in power for centuries. When you need to undergo a difficult operation, you're always advised to go for a second opinion, third opinion etc. Brexit should be seen in the same if not a more serious light. #FBPE #Brexit","['brexit', 'fbpe']"
+1601387,933797552591339520,917515137577373696,negative,remain,2017-11-23T20:41:00.000Z,And who can blame them? (Well apart from the deaf and blind brexiters) European dismay at UK 'chaos and confusion' over #Brexit https://t.co/Bx2cXnhD7G via @rte #FBPE,"['brexit', 'fbpe']"
+1567498,932930007969812480,41570929,negative,remain,2017-11-21T11:13:41.000Z,"@69mib @MrRae1000 Remainers: Ireland. The economy. Agencies. Jobs being lost. Infrastructure needed. Financial passporting. Rich people betting against UK. And a thousand other issues. 
+Leavers: You lost, get over it. #FBPE #Brexit","['brexit', 'fbpe']"
+1708555,937219185788166144,358070901,negative,remain,2017-12-03T07:17:21.000Z,"Milburn's resignation letter says #Brexit has prevented May from having the bandwidth to make any difference to social mobility
+#FBPE 
+
+https://t.co/LUHySQAof2","['brexit', 'fbpe']"
+1787278,938681339653623808,281628104,positive,other,2017-12-07T08:07:25.000Z,A Song for Europe with thanks to Rebecca B xx 💜💜 https://t.co/TbPptM4Rw5 #FBPE #Brexit @Wok_Chi_Steve @WernerT_Man @acgrayling @albawhitewolf @ChatswithEurope @rsbuck,"['brexit', 'fbpe']"
+1468451,929999418354307072,2831637409,negative,leave,2017-11-13T09:08:34.000Z,@PeteNorth303 It is simply not intellectually defensible to argue vehemently for soft Norway type #Brexit but accept a No Deal. It would be an unacceptable admission of failure. #FBPE,"['brexit', 'fbpe']"
+1886124,941151530345992192,3306583817,negative,remain,2017-12-14T03:43:05.000Z,"What a load of invective. It's so OTT it's almost comical, but this level of hate against people exercising their democratic rights is no laughing matter. #Brexit #FBPE https://t.co/u5QYo6GXua","['brexit', 'fbpe']"
+1887772,941202395664658432,1931515028,negative,leave,2017-12-14T07:05:12.000Z,Time has come to question the whips’ role as the bullies of Parliament. The British people would have better decisions made by their MPs if they were allowed to vote with their consciences. Stop coercion. #FBPE #Brexit  https://t.co/xvl07eQLIt,"['brexit', 'fbpe']"
+1548273,932552236277882880,41570929,neutral,other,2017-11-20T10:12:33.000Z,"When #Brexit fails, government ministers are going to need to call in favours. #FBPE https://t.co/lgYwvDrx8n","['brexit', 'fbpe']"
+1852769,940189936925409280,747380400226508800,neutral,other,2017-12-11T12:02:03.000Z,"As if saying it makes it true. Wonder when/if they'll stop banging their heads against the #Brexit wall. Will they feel better? No, probably not... #FBPE https://t.co/CQd9DVwxcd","['brexit', 'fbpe']"
+1907134,941633756053598208,779678725663289344,positive,remain,2017-12-15T11:39:16.000Z,@SenWhitehouse @SenJohnKennedy @realDonaldTrump This is what journalists should do to #Brexit supporters. #FBPE,"['brexit', 'fbpe']"
+1445060,929014647038119936,2794516813,neutral,remain,2017-11-10T15:55:26.000Z,I think people are finally waking up to the economic nightmare that is #Brexit #FBPE,"['brexit', 'fbpe']"
+1468555,930001623744745472,17960088,neutral,remain,2017-11-13T09:17:20.000Z,"@fish_in_a_hat @ImIncorrigible @Keir_Starmer @UKLabour @LBC Impossible.  How on earth do you expect the electorate to understand the detail of, say, tariffs on chemicals?  There are just too many elements of this herculean undertaking.  #FBPE #Brexit","['brexit', 'fbpe']"
+1678252,935997261988925440,780735345310609408,negative,remain,2017-11-29T22:21:51.000Z,"A study of military incompetence can teach us about #Brexit
+"".. the agenda has been wrested by a group showing the classic symptoms of military incompetence..obsession w appearance over reality, pomp over practicality""
+@Simon4NDorset @Tobias_Ellwood
+#FBPE 
+https://t.co/MtLYKKHdzB","['brexit', 'fbpe']"
+1871127,940860564607291392,747380400226508800,positive,remain,2017-12-13T08:26:53.000Z,"Ooh! ANOTHER #Brexit bonus. It's like a ""Neverending Story"" of self-destruction. #FBPE https://t.co/YhFUmDXxUC","['brexit', 'fbpe']"
+1893790,941288341001129984,747380400226508800,positive,remain,2017-12-14T12:46:43.000Z,RT like the clappers folks. Then contact YOUR MP to stop locking in the #Brexit date. Ta. #FBPE https://t.co/S8BWDAMGVo,"['brexit', 'fbpe']"
+1938984,942777437678653440,634480882,positive,other,2017-12-18T15:23:51.000Z,"Remind me again why people voted Leave?  Surely, this was not one of the reasons?  So, leavers, do you want to lose your working rights and become a slave? #FBPE #Brexit https://t.co/7G9Ca5SScL","['brexit', 'fbpe']"
+1773464,938381026161758208,2256608786,positive,other,2017-12-06T12:14:05.000Z,"#FBPE Contact your local MP and ask if he/she really believes in #Brexit, and ask if they were bullied into backing Brexit contrary to their good conscience. It's time for the truth, the whole truth, and nothing but the truth to be revealed. https://t.co/v8yJf7dzil","['brexit', 'fbpe']"
+1633874,934897944045727744,1931515028,positive,other,2017-11-26T21:33:34.000Z,"Before Britain becomes like Russian, a playground for dodgy money, let’s investigate Legatum and all the greedy, rich Brits hoping the U.K. will be a tax haven for them and a nightmare for the rest of us. @BorisJohnson @michaelgove @LegatumInst #Brexit #FBPE https://t.co/1uA8QPA2WF","['brexit', 'fbpe']"
+1912615,941754521172267008,2303969876,neutral,remain,2017-12-15T19:39:09.000Z,"I didn't know this... The first part, not the second
+
+#FBPE #Brexit https://t.co/oyLxrCvrYJ","['brexit', 'fbpe']"
+1572201,933010124289044480,104141401,neutral,other,2017-11-21T16:32:02.000Z,It's possible Parliament just quietly started the process of a #Brexit reversal  #FBPE https://t.co/dsMU5sDK3p,"['brexit', 'fbpe']"
+1684034,936199396655497216,802100166039924608,positive,other,2017-11-30T11:45:04.000Z,"Peston discovers the least tortuous component of the #Brexit process 
+Looks like all plain sailing now...
+#FBPE https://t.co/f51QFmT8Aq","['brexit', 'fbpe']"
+1855034,940248900899868672,747380400226508800,positive,remain,2017-12-11T15:56:21.000Z,"There's GOOD news...? There's ONLY one ""Good News"" #Brexit is cancelled. Wake me when this happens #FBPE @faisalislam @krishgm @mrjamesob https://t.co/FcSeyS3EdJ","['brexit', 'fbpe']"
+1860892,940498015319506944,2831637409,positive,remain,2017-12-12T08:26:15.000Z,@UKBraveheartno1 @johnredwood @2tweetaboutit You were sold down the river when you were told a lot of fantasy about benefits of #Brexit #FBPE,"['brexit', 'fbpe']"
+1468422,929998890941763584,17960088,negative,other,2017-11-13T09:06:28.000Z,"The countdown to #Brexit is over halfway, but we still don’t know the terms of any trade deal with the 27 members of the EU. It’s difficult for businesses to plan for the future when they don’t know if they’ll be hit by tariffs.  Time to call in https://t.co/KGsJO2Cp2R  #FBPE https://t.co/qqUUX60XRm","['brexit', 'fbpe']"
+1935564,942691166381895680,450019366,negative,other,2017-12-18T09:41:03.000Z,"Hunger in Wirral: the truth behind the tale that made a Tory MP cry. But having been an active member of his constituency party for 30 years I know his support for #Brexit
+ Is making them poorer #FBPE
+https://t.co/FaGmOvdSYv","['brexit', 'fbpe']"
+1747012,937944386192756736,859668799,negative,remain,2017-12-05T07:19:02.000Z,"Brexit is a complete and utter mess. 
+Remainers know it. Brexiters with buyer's remorse know it. Even the government knows it. 
+So Jeremy Corbyn - in the national interest, can you now stand up and call for a second referendum? 
+#FBPE #Brexit","['brexit', 'fbpe']"
+1463983,929782700076097536,929283438007541632,negative,remain,2017-11-12T18:47:24.000Z,"@ChukaUmunna @bbcnickrobinson @BBCRadio4 @UKLabour ""If I was in a position to stop #Brexit, I'd put that before everything""
+From you lips to God's ears.
+#FBPE","['brexit', 'fbpe']"
+1586210,933371854248607744,295911977,neutral,remain,2017-11-22T16:29:25.000Z,"Could a prominent brexiteer give us a list of what they ""knew they were voting for"" so when another industry or agency goes ""tits up "" we can tick it off their list ?  #Brexit #FBPE","['brexit', 'fbpe']"
+1534732,931939258964807680,817475680195715072,neutral,remain,2017-11-18T17:36:48.000Z,"#Brexit is stoppable.
+
+Tell your friends.
+
+#FBPE","['brexit', 'fbpe']"
+1431483,928644788550881280,164809116,negative,remain,2017-11-09T15:25:45.000Z,"@GuideToPolitics One liar with another actually- Patel&amp;Israel, Mordaunt&amp;EU can’t stop Turkey joining and flooding UK with immigrants. She will fit right in.. #Brexit #FBPE # Stopbrexit","['brexit', 'fbpe']"
+1913936,941807223503761408,168117676,negative,other,2017-12-15T23:08:34.000Z,"#Brexit #FBPE
+.
+Mad Nad rebels 47 times &amp; then calls for the deselection of those who rebelled once
+.
+Isabel Oakeshott breaks the story of how David Cameron had simulated sex with a dead pig’s head &amp; then castigates Tory rebels for humiliating Theresa May
+.","['brexit', 'fbpe']"
+1840510,939781903468630016,905482497043160960,positive,leave,2017-12-10T09:00:40.000Z,"@JonathanHawley2 It’s certainly gathering pace, would need a leader with profile to take further.
+
+Need to get in amongst the #Brexit supporters with reasoned and rational arguments. 
+
+Be careful not to engage in any mud slinging though as they will attempt to get you suspended by Twitter
+
+#FBPE","['brexit', 'fbpe']"
+1490610,930556452619653120,313488283,neutral,other,2017-11-14T22:02:01.000Z,"Facebook Has Finally Opened The Door To Admitting Russia Meddled In #Brexit
+@theresa_may's response? 🙈🙊🙉
+Why don't you talk to @Guardian @carolecadwalla @Byline_Media or @J_amesp @Conservatives?
+https://t.co/nh9A3EisuN
+ #FBPE","['brexit', 'fbpe']"
+1918850,942042494103179264,941300413185380480,positive,remain,2017-12-16T14:43:27.000Z,"@kmqkatie @pickledpuffin Indeed, we see #Brexit as a regressive event. For those of us with a European identity, it feels like suddenly the government is saying that this region is yours, you're not allowed elsewhere so we're taking away your rights. #FBPE","['brexit', 'fbpe']"
+1452045,929302237490438144,140743052,positive,remain,2017-11-11T10:58:13.000Z,Cornwall like Grimsby plead for extra help due to #Brexit #FBPE https://t.co/wRSEcaHhRr,"['brexit', 'fbpe']"
+1822351,939184722067865600,2529377821,neutral,remain,2017-12-08T17:27:41.000Z,@The3Million @BHforEU @guyverhofstadt And if I may add: Under what criteria does a UK judge turn to ECJ and is the latter's ruling binding? #Brexit #FBPE,"['brexit', 'fbpe']"
+1345502,924649136963670016,780840449963532160,positive,other,2017-10-29T14:48:28.000Z,RT VesperUK: Possible model for post #Brexit free trade agreement? 🇬🇧🇪🇺🤔#StopBrexit #FBPE https://t.co/ZSJzkS2rDt,"['brexit', 'fbpe']"
+1390943,926771364773556224,958800630,negative,other,2017-11-04T11:21:26.000Z,#FBPE The time is now to fight against #Brexit https://t.co/BxgXa17Vbl,"['brexit', 'fbpe']"
+1542507,932322215013601280,17960088,negative,leave,2017-11-19T18:58:32.000Z,@scarlettpeach Same with dead - you can't be half dead.  But you can be half alive.  Our #Brexit negotiating team are a perfect example.  #FBPE,"['brexit', 'fbpe']"

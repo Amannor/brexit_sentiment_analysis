@@ -1,261 +1,316 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,1393717,745283357974667264,732674047687942144,neutral,leave,2016-06-21T15:52:53.000Z,#Brexit #VoteLeave #outout I think when we #voteout on the #23/6/2016 we should have national holiday street party's for #GreatBritain 🇬🇧🇬🇧,"['23/6/2016', 'greatbritain', 'outout', 'voteout', 'brexit', 'voteleave']"
-1,1,1,122218,701024966461038592,3710493135,positive,leave,2016-02-20T12:45:51.000Z,"David Cameron: ""We will be out of the open borders"". Wow. Blatant LIES. Fantastic start. #23rdjune #euref #EUreferendum #voteout #Brexit","['23rdjune', 'euref', 'voteout', 'eureferendum', 'brexit']"
-2,2,2,1646838,746176174947106816,1401600204,neutral,leave,2016-06-24T03:00:38.000Z,"Live #Brexit results at https://t.co/mZWOZu604b 
-Trending towards #VoteLeave #VotedLeave #VoteOut #auspol #ausvotes https://t.co/JCcFfkj4F6","['ausvotes', 'votedleave', 'auspol', 'voteleave', 'brexit', 'voteout']"
-3,3,3,795300,735922519018995712,174631667,neutral,leave,2016-05-26T19:56:15.000Z,#Bbcdebate. Any #VoteOut in a storm @TheoPaphitis - we'll take it to #TakeControl #Brexit https://t.co/cSIzYv5rXs,"['bbcdebate', 'brexit', 'takecontrol', 'voteout']"
-4,4,4,1398643,745339390164074496,295652292,negative,leave,2016-06-21T19:35:33.000Z,#BBCDebate not sure who anyone would vote remain. Scare tactics are sadly working #voteout #brexit #projectfear,"['bbcdebate', 'brexit', 'voteout', 'projectfear']"
-5,5,5,21935,690313430662823936,991041253,positive,leave,2016-01-21T23:22:01.000Z,Nice to see that NI has more open minded people on #Brexit than the rest of lefty britain #bbcqt #VoteOut,"['bbcqt', 'brexit', 'voteout']"
-6,6,6,1337175,744937667612246016,27867738,neutral,leave,2016-06-20T16:59:14.000Z,EU Gravy Train ... #VoteLeave #Brexit #VoteOut #EURef #BeLeave https://t.co/8c1BQ2IdcH,"['beleave', 'euref', 'voteleave', 'brexit', 'voteout']"
-7,7,7,823935,737051056027410432,732298631441747840,negative,leave,2016-05-29T22:40:40.000Z,"@JunckerEU  Why would you need an army in politics? Unless you need to force Tyranny, corrupt money man. #Brexit #LeaveEU #BeLeave #VoteOut","['beleave', 'leaveeu', 'brexit', 'voteout']"
-8,8,8,827433,737232796243136512,374141509,negative,leave,2016-05-30T10:42:50.000Z,"GROVELLING Merkel and Hollande launch thinly-veiled ATTACK on Brexit https://t.co/BtrK0T6fQA #Brexit #VoteLeave #VoteOut #BeLeave #EU""","['beleave', 'voteleave', 'eu', 'brexit', 'voteout']"
-9,9,9,827381,737231703010365440,27867738,negative,leave,2016-05-30T10:38:29.000Z,GROVELLING Merkel and Hollande launch thinly-veiled ATTACK on Brexit https://t.co/TXuZoQVqyJ #Brexit #VoteLeave #VoteOut #BeLeave #EU,"['beleave', 'voteleave', 'eu', 'brexit', 'voteout']"
-10,10,10,1053327,742079392504008704,3135565264,neutral,leave,2016-06-12T19:41:28.000Z,"#Brexit Proms next Sunday
+,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+795300,735922519018995712,174631667,neutral,leave,2016-05-26T19:56:15.000Z,#Bbcdebate. Any #VoteOut in a storm @TheoPaphitis - we'll take it to #TakeControl #Brexit https://t.co/cSIzYv5rXs,"['bbcdebate', 'takecontrol', 'voteout', 'brexit']"
+882883,738688543363633152,573569314,negative,leave,2016-06-03T11:07:27.000Z,@BBCRadio2 does the #bbc ever say anything balanced about #Brexit ?Bored of the scare stories! #biased #VoteLeave #voteout #leaveeu #bbcnews,"['bbcnews', 'voteleave', 'biased', 'voteout', 'brexit', 'leaveeu', 'bbc']"
+1474757,745694041803792384,238504218,negative,leave,2016-06-22T19:04:48.000Z,"2011 Journal Forewarned of Economic Malaise and EU Collapse
+https://t.co/Bnsinzisj4
+#bbcnews #Brexit #votein #voteout #VoteLeave #svpol #ap","['bbcnews', 'voteleave', 'votein', 'brexit', 'voteout', 'ap', 'svpol']"
+1286471,744593704929861632,2683958487,negative,leave,2016-06-19T18:12:27.000Z,"Poor old Dave is getting a hard time on #BBCqt 😆 Give it up @David_Cameron 🙄 The people have had enough of your bullshit! 
+#Brexit #VoteOut","['bbcqt', 'voteout', 'brexit']"
+1477467,745704573818519552,24728928,neutral,leave,2016-06-22T19:46:39.000Z,"Are you voting?
 
-#EURef #VoteLeave #BelieveInBritain #INorOUT #VoteOUT #Euro2016 https://t.co/L4MXqUTDSl","['believeinbritain', 'inorout', 'voteout', 'euref', 'euro2016', 'brexit', 'voteleave']"
-11,11,11,1109988,742743964701315072,2445451748,positive,leave,2016-06-14T15:42:15.000Z,@Nigel_Farage in #bexleyheath great amount of support #brexit #voteout #voteleave #votego https://t.co/CUIsoYkyi7,"['bexleyheath', 'votego', 'voteleave', 'voteout', 'brexit']"
-12,12,12,1409870,745369379857141760,59799918,neutral,leave,2016-06-21T21:34:43.000Z,More of us should watch this before we vote on Thursday. #brexit #strongerin #voteout #bremain   https://t.co/tFIyOH4C6A,"['bremain', 'voteout', 'strongerin', 'brexit']"
-13,13,13,2226860,746428835143442432,2524744218,positive,leave,2016-06-24T19:44:36.000Z,"Inspired by #Brexit, Pakistan to vote on leaving South Asia to join Arabia 😂 #VoteOut #brexitvote","['brexit', 'brexitvote', 'voteout']"
-14,14,14,593645,727084890475401216,1056267566,neutral,leave,2016-05-02T10:38:41.000Z,Time for the #British to stand up and be heard!! #EUref #GetBritainOut #VoteLeave #VoteOut #Brexit https://t.co/eVNW165mUW,"['brexit', 'british', 'getbritainout', 'euref', 'voteleave', 'voteout']"
-15,15,15,1286965,744597109857452032,34230483,neutral,other,2016-06-19T18:25:59.000Z,BBC News Channel:Live How much more deflection has #Cameron got? All along M3 A303 #VoteOut #Brexit https://t.co/6HRede1cgC,"['brexit', 'cameron', 'voteout']"
-16,16,16,1143462,743039763368824832,252846261,negative,leave,2016-06-15T11:17:39.000Z,All this scripted propaganda in the @HouseofCommons is pathetic #dailypolitics #VoteLeave #Brexit sick of scaremongering #VoteOUT,"['brexit', 'dailypolitics', 'voteleave', 'voteout']"
-17,17,17,565038,724875033831723008,431384245,positive,other,2016-04-26T08:17:30.000Z,"Excellent article on the economic case for #Brexit:
-#VoteOut #GO #LeaveEU https://t.co/zZrgbS4494","['brexit', 'go', 'leaveeu', 'voteout']"
-18,18,18,878456,738618847238840320,380836821,negative,leave,2016-06-03T06:30:30.000Z,If you have family that died in the World Wars then you have to #VoteOut otherwise they died for nothing. #brexit #LeaveEU,"['brexit', 'leaveeu', 'voteout']"
-19,19,19,813515,736583623445520384,730039478740500480,positive,leave,2016-05-28T15:43:15.000Z,@patel4witham bring our GREAT back to Britain. In 73 they sold us a bunch of BS. #makebritainGREATBRITAIN #LeaveEU #Brexit #EUref #voteout,"['brexit', 'makebritaingreatbritain', 'voteout', 'euref', 'leaveeu']"
-20,20,20,173529,702071551005429760,31075190,neutral,leave,2016-02-23T10:04:36.000Z,#RememberGrexitFail What have they done to Greece since they tried to break free! Punishing them big time! #Brexit #LeaveEU #VoteOut #No2EU,"['brexit', 'no2eu', 'remembergrexitfail', 'leaveeu', 'voteout']"
-21,21,21,324242,708850598649712640,3092157353,neutral,leave,2016-03-13T03:02:07.000Z,"We need a June Bank Holiday - Make 23rd June Independence Day.
-Vote OUT - #Brexit #LeaveEU #no2eu #voteout #VoteLeave #betteroffout #notoeu","['brexit', 'notoeu', 'betteroffout', 'voteout', 'no2eu', 'leaveeu', 'voteleave']"
-22,22,22,383836,712950556906688512,431384245,neutral,leave,2016-03-24T10:33:53.000Z,"We must look outward to the Commonwealth &amp; World. With #Brexit we will prosper &amp; grow. #NoToEU
-#VoteOut #GO #LeaveEU https://t.co/PVQZboefvr","['brexit', 'notoeu', 'go', 'leaveeu', 'voteout']"
-23,23,23,1189316,743398177882148864,431384245,neutral,leave,2016-06-16T11:01:51.000Z,"I don't think anyone would believe Cameron if he did repudiate Turkey!
+ #brexit #voteout #eureform #bri #leaveeu #ginoclock #beleave #VoteRemain #VoteStay #EUreferendum https://t.co/OK3CEePGf6","['beleave', 'bri', 'voteout', 'eureform', 'ginoclock', 'voteremain', 'leaveeu', 'eureferendum', 'brexit', 'votestay']"
+823935,737051056027410432,732298631441747840,negative,leave,2016-05-29T22:40:40.000Z,"@JunckerEU  Why would you need an army in politics? Unless you need to force Tyranny, corrupt money man. #Brexit #LeaveEU #BeLeave #VoteOut","['beleave', 'voteout', 'brexit', 'leaveeu']"
+149235,701690427762585600,25262540,positive,leave,2016-02-22T08:50:09.000Z,Jobless migrants £1.3MILLION house on benefits #brexit  #betteroffout #voteout  #britainout  #voteleave #leaveeu https://t.co/nZ8wZMwp1e,"['betteroffout', 'britainout', 'voteout', 'leaveeu', 'voteleave', 'brexit']"
+149886,701696606874107904,25262540,negative,leave,2016-02-22T09:14:42.000Z,Migrant BRAWL woman refuses to wear headscarf #betteroffout #brexit #notoeu #voteout #britainout #leaveeu #voteleave https://t.co/BJjLp4ZZFK,"['betteroffout', 'britainout', 'voteout', 'notoeu', 'leaveeu', 'voteleave', 'brexit']"
+785379,735564867608838144,1238328264,negative,leave,2016-05-25T20:15:05.000Z,"@End_of_Europe There are your Nazi's right there. The EU is in such a mess! #brexit, #no2eu, #betteroffout, #voteout, #leaveeu, #voteleave","['betteroffout', 'no2eu', 'voteout', 'voteleave', 'leaveeu', 'brexit']"
+592388,726934532516139008,169728596,neutral,leave,2016-05-02T00:41:12.000Z,"Article 50: ""Kept In The Dark"" not ""A Leap In The Dark""  
+https://t.co/z4PBFNQIse
+#brexit, #betteroffout, #voteout, #britainout, #leaveeu, …","['betteroffout', 'voteout', 'leaveeu', 'britainout', 'brexit']"
+911640,739515138034794496,261291481,neutral,leave,2016-06-05T17:52:03.000Z,The facts speak for themselves! #Brexit #voteout #timetoleave #takecontrol #EUreferendum #betterout #voteleave https://t.co/0PPThGasrw,"['betterout', 'brexit', 'voteout', 'timetoleave', 'takecontrol', 'eureferendum', 'voteleave']"
+650217,730712399825797120,223765747,neutral,other,2016-05-12T10:53:06.000Z,"EVERYONE NEEDS2 SIGN THIS.....
+#bluehand #Brexit #EDL #voteout https://t.co/QbJuBuwOjW","['bluehand', 'edl', 'brexit', 'voteout']"
+167422,701901701368979456,297429813,neutral,leave,2016-02-22T22:49:40.000Z,Lots of time to make up your mind #voteout #brexit #BoJo  https://t.co/d6OV9DmAAw,"['bojo', 'voteout', 'brexit']"
+182084,702256558017802240,297429813,neutral,other,2016-02-23T22:19:45.000Z,We kept our currency for Soverienty -  Penny Lane  #Brexit #voteout #supportboris #BorisJohnson #BoJo https://t.co/a6tPflIdpW via @YouTube,"['borisjohnson', 'brexit', 'voteout', 'supportboris', 'bojo']"
+990843,741004385048756224,74022051,negative,leave,2016-06-09T20:29:47.000Z,I could just punch @NicolaSturgeon her f@@king voice is worst than #fingeronablackboard #brexit #BorisJohnson #VoteLeave #voteout,"['borisjohnson', 'voteleave', 'fingeronablackboard', 'voteout', 'brexit']"
+1556910,746013623999422464,431384245,negative,leave,2016-06-23T16:14:42.000Z,"Completely agree, my gut, heart &amp; head all scream #VOTEOUT! 😊
 
- #NoToTurkey #Brexit #VoteOut #GO #LeaveEU https://t.co/jzEopeLXUn","['brexit', 'nototurkey', 'go', 'leaveeu', 'voteout']"
-24,24,24,550291,724010951121506304,428836020,negative,other,2016-04-23T23:03:56.000Z,"Dear Mr Obama, shove your fuckin trade up your fuckin arse. Signed UK #VOTEOUT #Obama #Brexit https://t.co/ZcoAnnA6Bo","['brexit', 'obama', 'voteout']"
-25,25,25,1556910,746013623999422464,431384245,negative,leave,2016-06-23T16:14:42.000Z,"Completely agree, my gut, heart &amp; head all scream #VOTEOUT! 😊
+#Brexit #GO #LeaveEU #ProjectHope #BeLeaveinBritain https://t.co/OJcs54ebDa","['brexit', 'beleaveinbritain', 'voteout', 'go', 'leaveeu', 'projecthope']"
+2226860,746428835143442432,2524744218,positive,leave,2016-06-24T19:44:36.000Z,"Inspired by #Brexit, Pakistan to vote on leaving South Asia to join Arabia 😂 #VoteOut #brexitvote","['brexit', 'brexitvote', 'voteout']"
+1350983,745027808045457408,3134110450,negative,other,2016-06-20T22:57:26.000Z,Those who would use violence for political gain have no place in Britain says #Corbyn #EUref #voteout #brexit https://t.co/4FS1BKXzzR,"['brexit', 'corbyn', 'voteout', 'euref']"
+1791007,746232690689531904,741152138752069632,neutral,other,2016-06-24T06:45:12.000Z,@bankruptspurs @flangeglanville Racists? How? Explain... #LeaveEU #VoteOut #Brexit #EURef #eng,"['brexit', 'eng', 'euref', 'leaveeu', 'voteout']"
+685750,731968142910607360,221354802,positive,other,2016-05-15T22:02:59.000Z,Imagine entering the best song by a country mile into Eurovision and still finishing in the bottom 3 #Brexit #voteout #Eurovision,"['brexit', 'eurovision', 'voteout']"
+857735,738063276664295424,180106872,neutral,leave,2016-06-01T17:42:52.000Z,What is the point of a people being 'sovereign &amp; independent' if some elite can usurp that right? #1916? #Irexit #Brexit #VoteOut #fb,"['brexit', 'fb', '1916?', 'voteout', 'irexit']"
+857760,738063715015217152,180106872,positive,other,2016-06-01T17:44:36.000Z,"Irish people in #UK &amp; 6 counties, u can do an important thing: #VoteOut in #Brexit &amp; support demand for #Irexit #fb","['brexit', 'fb', 'voteout', 'irexit', 'uk']"
+831697,737379227587215360,180106872,neutral,leave,2016-05-30T20:24:42.000Z,"If #UK #VoteOut in #Brexit we can still trade with them, 100% Either way, we NEED our own #Irexit &amp; national economic development plan #fb","['brexit', 'fb', 'voteout', 'irexit', 'uk']"
+943341,740159888375046144,431384245,neutral,leave,2016-06-07T12:34:03.000Z,"The EU is a vehicle for German domination of Europe (by other means)! 😕
+#VoteOut #Brexit #InOrOut #GO #LeaveEU https://t.co/H2WaKZ4Szg","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+943438,740161270394015744,431384245,negative,leave,2016-06-07T12:39:33.000Z,"Project fear gives way to project smear; soon we'll see project cover arse...
+#VoteOut #GO #LeaveEU #Brexit #InOrOut https://t.co/NdKX6KnXkJ","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+1043574,741916933101129728,431384245,positive,leave,2016-06-12T08:55:55.000Z,"Not a happy (unified) Europe, how true!
+#VoteOut #GO #LeaveEU #Brexit #InOrOut https://t.co/IsFDt13CHD","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+1096468,742645374792437760,431384245,negative,leave,2016-06-14T09:10:29.000Z,"Liar! Cameron is debasing office &amp; country in quest for his career/legacy. 😠
+#Brexit #GO #LeaveEU #VoteOut #InOrOut https://t.co/dRFELKjFjH","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+1078695,742432763295436800,431384245,negative,leave,2016-06-13T19:05:39.000Z,"Don't become complacent, fight on for every vote - right up to 23rd June!
+#Brexit #GO #LeaveEU #VoteOut #InOrOut https://t.co/QymXuwxN5K","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+924732,739793945471946752,431384245,neutral,leave,2016-06-06T12:19:55.000Z,"@LeaveEUOfficial @OwenJones84 
 
-#Brexit #GO #LeaveEU #ProjectHope #BeLeaveinBritain https://t.co/OJcs54ebDa","['brexit', 'projecthope', 'beleaveinbritain', 'go', 'voteout', 'leaveeu']"
-26,26,26,1293310,744663352476045312,431384245,positive,other,2016-06-19T22:49:13.000Z,"This is the nicest graphic I've seen for #Brexit. Clear &amp; emotive. #ProjectHope
-#VoteOut #GO #LeaveEU https://t.co/zJsDKrb2Fl","['brexit', 'projecthope', 'go', 'leaveeu', 'voteout']"
-27,27,27,1927652,746280716569284608,538346354,neutral,other,2016-06-24T09:56:02.000Z,Employment stats after #Brexit: Cameron's looking for work! #EURefResults #votein #VoteOut,"['brexit', 'votein', 'eurefresults', 'voteout']"
-28,28,28,667304,731230672933769216,628200605,positive,leave,2016-05-13T21:12:32.000Z,@Vote_LeaveMedia @SuzanneEvans f@cking lol hey #DavidCameron that's what most of the public think #VoteLeave #Brexit #VoteOut #LeaveEU,"['brexit', 'voteleave', 'davidcameron', 'leaveeu', 'voteout']"
-29,29,29,1147288,743062022116540416,618457871,negative,leave,2016-06-15T12:46:06.000Z,"@George_Osborne You lying, scaremongering fool. Looking forward to your upcoming resignation... #VOTEOUT #VOTELEAVE #BREXIT #","['brexit', 'voteleave', 'voteout']"
-30,30,30,599701,727616251187605504,27867738,negative,leave,2016-05-03T21:50:07.000Z,Major leak from Brussels reveals NHS will be ‘KILLED OFF’ if Britain remains in the EU https://t.co/2h24mMlHbG #VoteOut #VoteLeave #Brexit,"['brexit', 'voteleave', 'voteout']"
-31,31,31,583909,725988422502998016,724290070623215616,positive,leave,2016-04-29T10:01:42.000Z,Loveable Ken Livingstone is to emigrate in the event of #Brexit . Can we afford to lose this wonderful politician? #VoteLeave #VoteOUT,"['brexit', 'voteleave', 'voteout']"
-32,32,32,827638,737238777651945472,27867738,positive,leave,2016-05-30T11:06:36.000Z,If we stay in EU our beloved NHS will simply collapse under demand' says leading doctor  https://t.co/6FoegR0GL1 #VoteOut #VoteLeave #Brexit,"['brexit', 'voteleave', 'voteout']"
-33,33,33,667224,731226390679420928,27867738,positive,leave,2016-05-13T20:55:31.000Z,MIGRANT BENEFITS BOOM: Number of east Europeans claiming handouts DOUBLES in five years https://t.co/IalpZdgnNs #VoteOut #VoteLeave #Brexit,"['brexit', 'voteleave', 'voteout']"
-34,34,34,858691,738086129166123008,27867738,negative,leave,2016-06-01T19:13:40.000Z,Flood of bets on LEAVE in 24 hours force bookies to slash odds on a BREXIT in EU vote https://t.co/4iXRZZ5hXe #VoteOut #VoteLeave #Brexit,"['brexit', 'voteleave', 'voteout']"
-35,35,35,835207,737551747296559104,618457871,positive,leave,2016-05-31T07:50:14.000Z,@Lord_Sugar I'll be voting for the future of Great Britain. #VOTEOUT #VOTELEAVE #BREXIT,"['brexit', 'voteleave', 'voteout']"
-36,36,36,287683,707039150080454656,326041216,neutral,remain,2016-03-08T03:04:04.000Z,"https://t.co/LV1n78gqbQ - Lie, after lie after lie, from Cameron and the ""IN"" campaign.  IS anything they say true??  #brexit #VoteOut","['brexit', 'voteout']"
-37,37,37,1164813,743197050351796224,323873473,neutral,other,2016-06-15T21:42:39.000Z,So right #VoteOut #Brexit  https://t.co/lVBZopJCO3,"['brexit', 'voteout']"
-38,38,38,1448017,745595831835832320,431384245,neutral,other,2016-06-22T12:34:33.000Z,"Oh of course it won't happen....; why open negotiations, plus October start of visa-free access!
-#Brexit #VoteOut https://t.co/Y2eQq42Ndr","['brexit', 'voteout']"
-39,39,39,475811,720157901516640256,296380138,neutral,other,2016-04-13T07:53:18.000Z,"Nobody KNOWS what will happen if we #Brexit but I know that the EU is undemocratic and unaccountable.
+HOORAY! 😁 
 
-#VoteOut","['brexit', 'voteout']"
-40,40,40,1031793,741668284865622016,17568210,neutral,other,2016-06-11T16:27:53.000Z,BREXIT THE MOVIE FULL FILM https://t.co/q1l099lEEq via #Brexit #VoteOut,"['brexit', 'voteout']"
-41,41,41,1189489,743398908114665472,431384245,negative,leave,2016-06-16T11:04:46.000Z,"Despite Sturgeon &amp; SNP, the EU is bad for Scotland &amp; UK as a whole; less democracy &amp; no control.
+#Brexit #GO #LeaveEU #VoteOut #InOrOut","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+933682,739953576026492928,431384245,positive,other,2016-06-06T22:54:14.000Z,"Worth a read:
+Why Young People Like Me Should Back Brexit https://t.co/Lk3V2rLLkz via @HPYoungVoices
+#Brexit #VoteOut #GO #LeaveEU #InOrOut","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+1109917,742743355512217600,431384245,positive,leave,2016-06-14T15:39:50.000Z,"Not all luvvies love the EU (oh Keira ❤)! 😁
 
-#Brexit #VoteOut https://t.co/EAvoLN5ijh","['brexit', 'voteout']"
-42,42,42,472641,719965948200030208,2354660132,neutral,other,2016-04-12T19:10:33.000Z,Scaremongering yet again !! #Brexit #Voteout  https://t.co/J3VgwHw80M,"['brexit', 'voteout']"
-43,43,43,1506963,745867777269981184,2593179065,neutral,leave,2016-06-23T06:35:10.000Z,"How's this country meant to deal with with ISIS when it can't even deal with rain 
-#Voteout #Brexit","['brexit', 'voteout']"
-44,44,44,999591,741178969463087104,388242889,positive,remain,2016-06-10T08:03:31.000Z,"@LBC if it's rigged, like it ever increasingly seems like by the way they're signing employees up to vote Remain! #VoteOut #Brexit","['brexit', 'voteout']"
-45,45,45,1146231,743055258671284224,431384245,neutral,other,2016-06-15T12:19:13.000Z,"@easypoliticsUK 
-Such as a leave vote? #Brexit
-With a points based system we can invite many professionals to UK for NHS etc. #VoteOut","['brexit', 'voteout']"
-46,46,46,670224,731419179534929920,181583529,neutral,other,2016-05-14T09:41:36.000Z,"Intelligent actress, correct party BUT wrong decision!! #Brexit #VoteOut  https://t.co/QmdO2z9QER","['brexit', 'voteout']"
-47,47,47,821373,736930235405504512,23681896,positive,other,2016-05-29T14:40:34.000Z,@Nightingale_ I thought we had a government to protect us. All we have are puppets of the EU #Brexit  #VoteOut,"['brexit', 'voteout']"
-48,48,48,1549208,745988892743049216,210481524,negative,other,2016-06-23T14:36:26.000Z,@Beaking_News @AllieHBNews Ffs end this now and #Voteout now before they attack us again #brexit,"['brexit', 'voteout']"
-49,49,49,1363797,745155021466001408,436214964,negative,leave,2016-06-21T07:22:56.000Z,"No I bloody well wouldn't! Would you? 
-#VoteOut #Brexit https://t.co/477p3WTb7r","['brexit', 'voteout']"
-50,50,50,1409679,745367920797188096,613310990,neutral,other,2016-06-21T21:28:55.000Z,@David_Cameron All these millionaires/multi millionaires and billionaires are not representative of the average person? #Brexit #VoteOut,"['brexit', 'voteout']"
-51,51,51,473819,720015465880428544,785272046,neutral,other,2016-04-12T22:27:18.000Z,@SuzanneEvans1 I was undecided but now I'm certain #VoteOut #Brexit,"['brexit', 'voteout']"
-52,52,52,637785,730148055165640704,2949034312,neutral,other,2016-05-10T21:30:36.000Z,#Brexit: The (animated) Movie https://t.co/QFDTn9cXW9 #voteout,"['brexit', 'voteout']"
-53,53,53,1147515,743063659816095744,431384245,negative,leave,2016-06-15T12:52:36.000Z,"Even those who voted in 1975 were sold a cynical lie.
-A common market - yes
-EU superstate - NO!
+#Brexit #GO #LeaveEU #VoteOut #InOrOut https://t.co/yG231CVMWK","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+973991,740793617715957760,431384245,neutral,leave,2016-06-09T06:32:16.000Z,"The fundamental issue in the referendum; sovereignty is to me most important.
+#VoteOut #GO #LeaveEU #Brexit #InOrOut https://t.co/cP2NCX2EHT","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+943388,740160499535519744,431384245,neutral,leave,2016-06-07T12:36:29.000Z,"The environment has taken a back seat in referendum campaign - until now:
+#VoteOut #GO #LeaveEU #InOrOut #Brexit https://t.co/eRBzaQXTEW","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+892543,738965672747773952,431384245,positive,leave,2016-06-04T05:28:40.000Z,"You can tell Gove won the argument last night, absolutely no mention on it by the BBC this morning!
+#InOrOut #VoteOut #GO #LeaveEU #Brexit","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+938318,740090807806480384,431384245,positive,leave,2016-06-07T07:59:33.000Z,"Pleased to see this important point being made clearly:
+#VoteOut #GO #LeaveEU #Brexit #InOrOut https://t.co/0yrt8u0M4e","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+938282,740090234491260928,431384245,neutral,leave,2016-06-07T07:57:16.000Z,"One of main reasons for me; we must take back sovereignty &amp; thus control:
+#VoteOut #GO #LeaveEU #Brexit #InOrOut https://t.co/WexzY1BasT","['brexit', 'go', 'inorout', 'leaveeu', 'voteout']"
+974042,740794389740544000,20429704,negative,leave,2016-06-09T06:35:20.000Z,"I think the scare tactics that the #InCampaign are using should be enough to make anyone vote leave.
+#Brexit #VoteOut","['brexit', 'incampaign', 'voteout']"
+1612010,746149681651134464,272584499,positive,other,2016-06-24T01:15:21.000Z,@BorisJohnson Good luck you've been awesome.The standing ovation at Wembley said it all #IndependenceDay #Brexit #voteout,"['brexit', 'independenceday', 'voteout']"
+967436,740611514680389632,470383065,positive,leave,2016-06-08T18:28:39.000Z,Love this. #Brexit #Referendum #VoteOut #June23 #LastChance https://t.co/Du6LpmmKA0,"['brexit', 'june23', 'lastchance', 'referendum', 'voteout']"
+1600347,746132081483333632,252164256,positive,leave,2016-06-24T00:05:25.000Z,"#Leave the monster called European Union, dear britons make the right choice!! #Brexit #GoBrexit #VoteOut #LeaveTheEU","['brexit', 'leave', 'leavetheeu', 'gobrexit', 'voteout']"
+1428997,745524978230001664,14639500,positive,other,2016-06-22T07:53:00.000Z,"And like any other political promise, this is false. What don't people get about that? #voteOUT #brexit #leaveEU https://t.co/kx6VmDxbx9","['brexit', 'leaveeu', 'voteout']"
+1306223,744797220663287808,14639500,neutral,leave,2016-06-20T07:41:09.000Z,"&amp; once done, the only choice will be obvious.
 
-#BREXIT #VOTEOUT https://t.co/SMLDkyjJow","['brexit', 'voteout']"
-54,54,54,415249,715576497872965632,708600006895386624,negative,other,2016-03-31T16:28:26.000Z,@northdevon24 @BritainIrelandR MEP clearly misleading undecided voters without giving complete picture. #Brexit #Voteout,"['brexit', 'voteout']"
-55,55,55,1017412,741405229439176704,185817900,negative,other,2016-06-10T23:02:35.000Z,I was a kid when we joined the EEC. I was against it then. It's a million times worse now #VoteOut #Brexit,"['brexit', 'voteout']"
-56,56,56,680773,731786195521392640,1707369096,neutral,other,2016-05-15T09:59:59.000Z,BBC News - EU Referendum: Boris Johnson compares EU's aims to Hitler's https://t.co/5WgRoJHQWn #Brexit #VoteOut,"['brexit', 'voteout']"
-57,57,57,1562566,746033108445765632,3023791721,positive,other,2016-06-23T17:32:08.000Z,"I #VoteOut for the #Brexit because I haven't a clue what will happen so it's a laugh lol, What will you vote?#ivoted https://t.co/IliuQkEXQ4","['brexit', 'voteout']"
-58,58,58,680161,731773585895923712,193678021,positive,other,2016-05-15T09:09:53.000Z,"@piersmorgan Regardless of what he said, who in their right mind would want to stay in the EU 🙈🙈 #VoteOut #Brexit","['brexit', 'voteout']"
-59,59,59,924026,739783797609222144,618457871,neutral,remain,2016-06-06T11:39:36.000Z,@SkyNews @David_Cameron Nothing more than a traitor to his country. Surely everybody can see through his lies can't they? #VoteOut #Brexit,"['brexit', 'voteout']"
-60,60,60,1182871,743365851458445312,4264648378,positive,leave,2016-06-16T08:53:24.000Z,NICE DAVE! never judge a book by it's cover ✌#VoteLeave #VoteOut #brexit https://t.co/AMivE35LT7,"['brexit', 'voteout']"
-61,61,61,196463,702762959488073728,183090956,neutral,other,2016-02-25T07:52:00.000Z,"@skynews of course EU focus is on migrants, without border controls nothing else is relevant       #Brexit #VoteOut","['brexit', 'voteout']"
-62,62,62,336100,709652262918955008,16144559,positive,other,2016-03-15T08:07:38.000Z,#Brexit campaign has the edge...exclusive poll for The Telegraph shows that OUT supporters are more motivated to win.....YES..!! #VoteOUT,"['brexit', 'voteout']"
-63,63,63,893186,738984909704925184,379643081,positive,leave,2016-06-04T06:45:06.000Z,We are the brightest star of the lot............we have our own union.......let's keep it that way #VOTEOUT #BREXIT https://t.co/yZmdldtxSz,"['brexit', 'voteout']"
-64,64,64,1661468,746183788712108032,62160194,neutral,leave,2016-06-24T03:30:53.000Z,@ChukaUmunna you okay mate? #Brexit #VoteOut,"['brexit', 'voteout']"
-65,65,65,983915,740916011638087680,784959488,neutral,leave,2016-06-09T14:38:37.000Z,JCB boss: We can thrive on our own as a trading nation. #VoteOut #Brexit https://t.co/OSofWIcJCS,"['brexit', 'voteout']"
-66,66,66,627292,729680791396061184,4517468242,neutral,leave,2016-05-09T14:33:52.000Z,"How low will Cameron stoop next with the EU Referendum?
-""Vote IN or the kitten gets it""? #Brexit #Voteout https://t.co/ih0JxZkKLf","['brexit', 'voteout']"
-67,67,67,1237443,743895812908941312,4264648378,negative,leave,2016-06-17T19:59:17.000Z,No wonder he's not standing at next election  😈#VoteLeave #VoteOut #brexit https://t.co/CVf3p2vLwl,"['brexit', 'voteout']"
-68,68,68,856960,738045496636407808,379643081,positive,leave,2016-06-01T16:32:13.000Z,POSTAL VOTE CARD HAS ARRIVED BOTTOM BOX ........X .... ....&amp; POSTED....DONE MY BIT NOW YOU DO YOURS SAVE BRITANNIA FROM EU #VOTEOUT #BREXIT,"['brexit', 'voteout']"
-69,69,69,764454,734989195454877696,27867738,negative,other,2016-05-24T06:07:34.000Z,How do you feel people you have a prime minister and a chancellor that are both compulsive liars. #Brexit #VoteOut   https://t.co/waPYuUvAnI,"['brexit', 'voteout']"
-70,70,70,1396178,745296453715779584,151670088,negative,other,2016-06-21T16:44:56.000Z,"and so speaks the whiped bitch of the corporations.  
-#Voteout
-#Brexit https://t.co/SYG63fiM30","['brexit', 'voteout']"
-71,71,71,1090341,742605606222172160,358380597,positive,other,2016-06-14T06:32:28.000Z,Happy days - #Brexit is 7-10% ahead in the polls - we might actually do it - 9 days to go @vote_leave #VoteOut,"['brexit', 'voteout']"
-72,72,72,738659,734057999556349952,35386475,negative,other,2016-05-21T16:27:19.000Z,@PaulNudge9 Embarrassing #VoteOut #Brexit,"['brexit', 'voteout']"
-73,73,73,931722,739902765581864960,65890216,negative,other,2016-06-06T19:32:20.000Z,That is just desperate delusional panic setting in! The numbers supporting #Brexit online is staggering! #VoteOUT https://t.co/iHnqLCR7WW,"['brexit', 'voteout']"
-74,74,74,1483567,745730798775574528,28583191,neutral,leave,2016-06-22T21:30:52.000Z,Well said... Take a risk #VoteOut and at least you'll still have a chance of Democracy! #Brexit,"['brexit', 'voteout']"
-75,75,75,956791,740440632125227008,376830002,positive,other,2016-06-08T07:09:38.000Z,Just caught up with the ITV EU debate.. Not sure who made me want to #VoteOut more.. @Nigel_Farage or @Number10gov #Brexit,"['brexit', 'voteout']"
-76,76,76,1447710,745594807221948416,431384245,neutral,leave,2016-06-22T12:30:29.000Z,"Remain has reviled &amp; abused normal voting Brits; we are not racist but realist, we will be heard! #Brexit #VoteOut https://t.co/Njsp9DFiTN","['brexit', 'voteout']"
-77,77,77,1310332,744815823722680320,41819270,positive,leave,2016-06-20T08:55:05.000Z,"Sorry but @Nigel_Farage isn't racist and that poster was spot on, he just wants his country back so do I. #VoteOut #Brexit","['brexit', 'voteout']"
-78,78,78,1532463,745940111704080384,962803244,positive,leave,2016-06-23T11:22:36.000Z,"VOTED OUT that's all we can do to try and make Britain Great again, dont waste your chance to give us back some identity #VOTEOUT #BREXIT x","['brexit', 'voteout']"
-79,79,79,1640659,746172355119058944,35472396,negative,leave,2016-06-24T02:45:27.000Z,Going to the back of the queue. When I get to the front I'll kick Obamas ass! #Brexit #VoteOut,"['brexit', 'voteout']"
-80,80,80,126785,701115541453459456,970904035,positive,leave,2016-02-20T18:45:45.000Z,"Why don't you just do what the doctor says and f**k off, for good Cameron. #Brexit #VoteOut https://t.co/WfTwd1NC42","['brexit', 'voteout']"
-81,81,81,655273,730862455518285824,27867738,negative,other,2016-05-12T20:49:22.000Z,"Juncker says  ""He who leaves the table, may no longer eat at this table.” .... I say ""I'm sick of being told what to eat"" #Brexit #VoteOut","['brexit', 'voteout']"
-82,82,82,131071,701339673734598656,2623890075,positive,other,2016-02-21T09:36:23.000Z,Of course it would. Bring our border controls back over the channel &amp; have a zero tolerance #BREXIT #VOTEOUT  https://t.co/atKpKCFAK1,"['brexit', 'voteout']"
-83,83,83,1097094,742649601950388224,431384245,negative,other,2016-06-14T09:27:17.000Z,"Bullying &amp; threatening pensioners is a bad idea PM, they won't bow to lies/scare stories:
-#VoteOut #Brexit #VoteOut https://t.co/EBLM2THGIA","['brexit', 'voteout']"
-84,84,84,495337,721265462991040512,14536847,neutral,other,2016-04-16T09:14:21.000Z,@afneil tubthumping #Brexit speech by @BorisJohnson all over papers this mng but impossible 2 find online-big opportunity missed by #VoteOut,"['brexit', 'voteout']"
-85,85,85,786497,735637370184294400,3042702935,negative,other,2016-05-26T01:03:11.000Z,@StrongerInPress Majority of them are unemployed in debt &amp; broke  #Brexit #VoteOUT https://t.co/RDybs55XSx,"['brexit', 'voteout']"
-86,86,86,1046391,741951141882236928,4018508656,negative,leave,2016-06-12T11:11:51.000Z,@Independent The Tories have Jack the Ripper lined up to Tell us the dangerous of leaving the EU #Voteout  #Brexit,"['brexit', 'voteout']"
-87,87,87,599308,727581289998635008,212316811,negative,leave,2016-05-03T19:31:11.000Z,"If you seriously think @MayorofLondon is fighting for #Brexit #VoteOut 
-Think Again!
-Will be another renegotiation! https://t.co/DHXPlZA0DQ","['brexit', 'voteout']"
-88,88,88,827444,737233200238473216,23681896,neutral,leave,2016-05-30T10:44:26.000Z,All This Is Common Sense. If you don't vote out you have none! #Brexit #VoteOut,"['brexit', 'voteout']"
-89,89,89,1408133,745357626448420864,2747301904,neutral,leave,2016-06-21T20:48:00.000Z,"Finally, someone said it. The term 'nail' &amp; 'head' comes to mind. #VoteOut #brexit  https://t.co/wepfWJfcSK","['brexit', 'voteout']"
-90,90,90,1414652,745423303725158400,150830074,positive,leave,2016-06-22T01:08:59.000Z,"Tomorrow, we will have the one &amp; 'ONLY' chance, we will EVER have to get back the UK's control of our OWN destiny #VoteOut #Brexit","['brexit', 'voteout']"
-91,91,91,1136531,743004838947106816,2696363073,negative,leave,2016-06-15T08:58:52.000Z,@LeaveEUOfficial it's time to leave! #VoteOut #Brexit,"['brexit', 'voteout']"
-92,92,92,855600,738046746950041600,23681896,positive,leave,2016-06-01T16:37:11.000Z,@Nightingale_ #Brexit #VoteOut Vote Out and Take Our Country Back! We Stand Together British And Proud. Just Vote Out!,"['brexit', 'voteout']"
-93,93,93,729710,733686388412055552,431384245,neutral,other,2016-05-20T15:50:40.000Z,"The UK is highly attractive to poorer migrants, driving down wages &amp; wrecking services/housing! #Brexit #VoteOut https://t.co/BFJj5z172u","['brexit', 'voteout']"
-94,94,94,111190,700801778481307648,120493212,neutral,leave,2016-02-19T21:58:58.000Z,"23rd of June then for the Euro referendum, postal vote for me (In Lille) #Brexit #VoteOut","['brexit', 'voteout']"
-95,95,95,595497,727314194152960000,27867738,neutral,other,2016-05-03T01:49:51.000Z,"MEPs rake in up to £1million each in just five years
-https://t.co/GKZXNKgl23 #Brexit #VoteOut @VoteLeave","['brexit', 'voteout']"
-96,96,96,1125794,742935591327825920,4130970501,negative,other,2016-06-15T04:23:42.000Z,#Brexit  Refugees not welcome #VoteOut https://t.co/0om1IgUq3g,"['brexit', 'voteout']"
-97,97,97,591334,726784520918323200,721721504254279680,positive,leave,2016-05-01T14:45:07.000Z,As a country we boast of freedom &amp; democracy. But is it really !! 23rd June #VoteOut #Brexit then we can boast of true freedom &amp; democracy.,"['brexit', 'voteout']"
-98,98,98,951039,740279996237910016,431384245,positive,other,2016-06-07T20:31:19.000Z,"OK Dave, you're on next, set face for earnest statesman, oh &amp; try to appear honest.... 😂
-@LeaveEUOfficial @Grassroots_Out
-#Brexit #VoteOut","['brexit', 'voteout']"
-99,99,99,852874,737971625400926208,565196759,negative,other,2016-06-01T11:38:41.000Z,"Here we go the fascist hating fascists have raised their ugly, stemming debate, skunk induced heads #Brexit #VoteOUT https://t.co/fraIJK7wPz","['brexit', 'voteout']"
-100,100,100,828172,737255557090975744,23681896,negative,other,2016-05-30T12:13:17.000Z,"Message from Europe ""Hell is empty and all the Devils are here."" #Brexit #VoteOut","['brexit', 'voteout']"
-101,101,101,466241,719794439561076736,30986633,positive,leave,2016-04-12T07:49:02.000Z,#VoteOut will definitely get another bite at the cherry if #Brexit win the (1st) vote cos @David_Cameron will surely renegotiate with EU?,"['brexit', 'voteout']"
-102,102,102,857171,738050348292702208,23681896,neutral,leave,2016-06-01T16:51:30.000Z,Take our country back! #Brexit #VoteOut https://t.co/Q0PyXs2xPT,"['brexit', 'voteout']"
-103,103,103,898405,739124049134137344,37992438,neutral,leave,2016-06-04T15:58:00.000Z,Michael Gove is a legend #VoteOut #Brexit,"['brexit', 'voteout']"
-104,104,104,1390012,745265463681220608,431384245,neutral,leave,2016-06-21T14:41:47.000Z,"There is a big wide world waiting to trade with UK - vote to expand our horizons beyond failing EU.
-#Brexit #VoteOut https://t.co/YxX74hSr71","['brexit', 'voteout']"
-105,105,105,472931,719977269440155648,1468096854,neutral,other,2016-04-12T19:55:32.000Z,@dceet Another prime reason to #VoteOut #Brexit,"['brexit', 'voteout']"
-106,106,106,1479736,745713329780498432,379643081,positive,leave,2016-06-22T20:21:27.000Z,European countries sit with bated breath waiting the wedge that is #brexit   GIVE THEM HOPE 4 BETTER FUTURE WITHOUT EU DICTATORSHIP #VOTEOUT,"['brexit', 'voteout']"
-107,107,107,1426364,745541569705455616,431384245,neutral,leave,2016-06-22T08:58:56.000Z,"The whole EU project has been built on a lie; to regain our pride, sovereignty &amp; democracy vote #Brexit #VoteOut https://t.co/zZs46OIQxK","['brexit', 'voteout']"
-108,108,108,1188653,743394729539272704,831148974,positive,other,2016-06-16T10:48:09.000Z,Sooner we're free of insanity like this the better. #Brexit  #VoteOut https://t.co/o4Mo6DKLAG,"['brexit', 'voteout']"
-109,109,109,1962298,746294405326311424,904939886,neutral,other,2016-06-24T10:50:26.000Z,#Brexit #VoteOut we are waiting the 350 million weekly https://t.co/NnoctmlQMd,"['brexit', 'voteout']"
-110,110,110,1259761,744244228243456000,162785755,neutral,leave,2016-06-18T19:03:46.000Z,"If you need any reason vote #Brexit which i dont, just take a look at the Left going to Dover campaigning to let in the immigrants #Voteout","['brexit', 'voteout']"
-111,111,111,821281,736926895640612864,23681896,neutral,leave,2016-05-29T14:27:18.000Z,One small step for Britain Vote Out! #Brexit #VoteOut https://t.co/kBvzm0wM7Y,"['brexit', 'voteout']"
-112,112,112,124446,701057748058972160,593207684,neutral,leave,2016-02-20T14:56:06.000Z,@David_Cameron Our future Independence Day!  #VoteOut  #Brexit,"['brexit', 'voteout']"
-113,113,113,131298,701342350690414592,2623890075,positive,leave,2016-02-21T09:47:01.000Z,Pleased to see @stevedouble MP statement he is backing #BREXIT which is in line with majority of his constituents #VOTEOUT,"['brexit', 'voteout']"
-114,114,114,2387017,746650718787018752,279028552,neutral,other,2016-06-25T10:26:18.000Z,"Watching people interviewed on #BBCNews24. Did u really said ""more fish for us now""?!? #Brexit #VoteOut without know what means...","['brexit', 'voteout', 'bbcnews24']"
-115,115,115,1055668,742145311011921920,399726279,neutral,leave,2016-06-13T00:03:25.000Z,"@PA
-CHEEK!
-@FineGael's💰@SeanKellyMEP/VoiceOf💰#TPP/#TTIP
-telnUK PPL2stay😎
+#leaveEU
+#voteOUT
+#brexit
 
-#EUref
-#BREXIT
-#IRExit
-#VoteLEAVE
-#VoteOUT https://t.co/qgSMQOlwsz","['brexit', 'voteout', 'euref', 'voteleave', 'irexit']"
-116,116,116,719594,733260400880422912,727593506005499904,positive,leave,2016-05-19T11:37:57.000Z,Our Great Britain with our laws! 👊#InorOut #voteout #Brexit #LeaveEU #EUreferendum # by amandalewis68 … https://t.co/NkL7KrhnaL,"['brexit', 'voteout', 'eureferendum', 'leaveeu']"
-117,117,117,770010,735086222280937472,46624408,negative,leave,2016-05-24T12:33:07.000Z,That's all he can do scare the public 😠 #voteout #Brexit #LeaveEU #EUreferendum #VoteLeave https://t.co/ryFIY8UApo,"['brexit', 'voteout', 'eureferendum', 'leaveeu', 'voteleave']"
-118,118,118,287395,706982381832564736,602139095,positive,leave,2016-03-07T23:18:29.000Z,@andytmids @covlad007 @agendaitv sooo right . Is any media gonna give #Brexit a chance ? #FuckEU #VoteOUT,"['brexit', 'voteout', 'fuckeu']"
-119,119,119,636220,730070202117816320,74426541,negative,other,2016-05-10T16:21:14.000Z,He's  the Prime Mister. So of course he wouldn't lie to us; would he???? 🤔 #brexit #leave #VoteOut https://t.co/1cgc57Mig4,"['brexit', 'voteout', 'leave']"
-120,120,120,1000815,741191008231297024,252846261,positive,other,2016-06-10T08:51:21.000Z,"Labour MP @JohnMannMP declares support for #Brexit saying a ""People's revolution is under way"" Nice one John !!! #LoveEuropeHateEU #VoteOUT","['brexit', 'voteout', 'loveeuropehateeu']"
-121,121,121,173599,702072437618384896,31075190,negative,other,2016-02-23T10:08:07.000Z,@Tobbes73 So all EU traders going to drop their massive contracts with UK and lose billions? Don't think so! #Brexit #VoteOut #NO2EU,"['brexit', 'voteout', 'no2eu']"
-122,122,122,186663,702435184608722944,400908414,neutral,other,2016-02-24T10:09:33.000Z,"Counting down the days..
-#Brexit #NoToEU #VoteOut 🇬🇧 https://t.co/ATPiwbi0DF","['brexit', 'voteout', 'notoeu']"
-123,123,123,84409,699633768961859584,991041253,positive,other,2016-02-16T16:37:43.000Z,EU deal ‘will not be legally binding’ https://t.co/OCYDupAJmO #Brexit #VoteOut #NoToEU,"['brexit', 'voteout', 'notoeu']"
-124,124,124,1551917,745997410082689024,117810351,neutral,other,2016-06-23T15:10:17.000Z,The #Brexit referendum: A turning point in European politics https://t.co/e0dMgZglru #VoteOut #VoteIn https://t.co/gdQ3nN3kb0,"['brexit', 'voteout', 'votein']"
-125,125,125,1556573,746012552862195712,2396383963,neutral,remain,2016-06-23T16:10:27.000Z,.@_MarketEdge #VoteIn or #Voteout ?? Should they stay or should they go? #BREXIT https://t.co/TI51jfpOam,"['brexit', 'voteout', 'votein']"
-126,126,126,985070,740932411777789952,3360194440,negative,other,2016-06-09T15:43:47.000Z,"Just read that if we #VoteOut #Brexit our place in UEFA would be under threat, so no more European Championships. I urge you all to #VoteIn","['brexit', 'voteout', 'votein']"
-127,127,127,969507,740647994006114304,50117879,neutral,leave,2016-06-08T20:53:37.000Z,"Is anyone voting ""Shake it all about"" ? #brexit #VoteIn #VoteOut","['brexit', 'voteout', 'votein']"
-128,128,128,2432404,746707526973071360,392022182,positive,leave,2016-06-25T14:12:02.000Z,Please sign &amp; retweet if you want your vote to matter #VoteLeave #VoteOut https://t.co/gZhD7wLQDQ #Brexit,"['brexit', 'voteout', 'voteleave']"
-129,129,129,1041667,741897701831389184,4264648378,neutral,leave,2016-06-12T07:39:30.000Z,"ANDREA, say it how it is! #brexit #VoteLeave #VoteOut https://t.co/8FtMULbdVD","['brexit', 'voteout', 'voteleave']"
-130,130,130,1087554,742582905554231296,979493810,positive,leave,2016-06-14T05:02:15.000Z,@David_Cameron @George_Osborne What an amazing offer.. Would you do it.? 9 days to go.. #VoteLeave #VoteOut #Brexit https://t.co/mjkTV5obK6,"['brexit', 'voteout', 'voteleave']"
-131,131,131,1368043,745175401459134464,4264648378,positive,leave,2016-06-21T08:43:55.000Z,"""THE GREAT ESCAPE "".We've dug the tunnel, we're beyond the fence, don't turn back! #VoteLeave #VoteOut #brexit https://t.co/RfTVS6PAQ3","['brexit', 'voteout', 'voteleave']"
-132,132,132,1270268,744439322640785408,4264648378,neutral,leave,2016-06-19T07:59:00.000Z,"Clear and simple, vote leave. #brexit #VoteLeave #VoteOut https://t.co/gKkKiYWvqT","['brexit', 'voteout', 'voteleave']"
-133,133,133,1423035,745529630304534528,4264648378,neutral,leave,2016-06-22T08:11:29.000Z,"Kate Hoey, Dr Owen, John Mann, Frank Field,common sense voices. #VoteLeave #VoteOut #brexit https://t.co/sbsjfaD3jQ","['brexit', 'voteout', 'voteleave']"
-134,134,134,906357,739392956587741184,4264648378,neutral,leave,2016-06-05T09:46:32.000Z,"EU, just  a deck of cards, waiting 4, one too many on th pyramid! #brexit #VoteLeave #VoteOut https://t.co/FBXN7cl6W1","['brexit', 'voteout', 'voteleave']"
-135,135,135,1268069,744417579956068352,4264648378,neutral,leave,2016-06-19T06:32:36.000Z,"RACE TO THE BOTTOM, IT'S WHAT THE TORIES INTEND 👎#UBERBED #VOTELEAVE #VOTEOUT #brexit https://t.co/uqARxyN7EI","['brexit', 'voteout', 'voteleave']"
-136,136,136,856227,738029668994035712,4264648378,positive,leave,2016-06-01T15:29:19.000Z,Better out than in! #brexit #VoteLeave #VoteOut https://t.co/vUpEx0n86w,"['brexit', 'voteout', 'voteleave']"
-137,137,137,1026387,741588568531972096,27867738,neutral,leave,2016-06-11T11:11:07.000Z,'You’ve f***ed everything up' Cameron blasted by voters as Brexit takes 10-point lead https://t.co/TOK3BWOuWU #VoteLeave #VoteOut #Brexit,"['brexit', 'voteout', 'voteleave']"
-138,138,138,1370486,745185557572116480,4264648378,neutral,leave,2016-06-21T09:24:16.000Z,It's not just about us! #VoteLeave #VoteOut #brexit https://t.co/xeu2ff3GNI,"['brexit', 'voteout', 'voteleave']"
-139,139,139,1079482,742440561022513152,4264648378,neutral,leave,2016-06-13T19:36:38.000Z,"Too little too late, you keep telling people, what to think, rather than listen! #brexit #VoteLeave #VoteOut https://t.co/s04JpGQlKe","['brexit', 'voteout', 'voteleave']"
-140,140,140,1316064,744840143924764672,4264648378,neutral,leave,2016-06-20T10:31:43.000Z,Take a look from the other side of Europe #VoteLeave #VoteOut #brexit https://t.co/lApfDIJz4e,"['brexit', 'voteout', 'voteleave']"
-141,141,141,1004606,741231495059230720,4264648378,neutral,leave,2016-06-10T11:32:14.000Z,Says it all! #brexit #VoteLeave #VoteOut https://t.co/qsxnmqQqJy,"['brexit', 'voteout', 'voteleave']"
-142,142,142,1022256,741538556078919680,4264648378,positive,leave,2016-06-11T07:52:23.000Z,"Fine words, #brexit #VoteLeave  #VoteOut https://t.co/9z62Oaje3S","['brexit', 'voteout', 'voteleave']"
-143,143,143,1325568,744881460335812608,4264648378,neutral,leave,2016-06-20T13:15:54.000Z,Add building trades to the list below and most manual jobs! #VoteLeave #VoteOut #brexit https://t.co/PU4DeSNzch,"['brexit', 'voteout', 'voteleave']"
-144,144,144,1010116,741300997654511616,27867738,negative,leave,2016-06-10T16:08:25.000Z,'Remain have DESTROYED themselves' Brexit supporter lashes out at pro-EU 'Rottweilers' https://t.co/IH6mgZw9AH #VoteLeave #VoteOut #Brexit,"['brexit', 'voteout', 'voteleave']"
-145,145,145,881408,738667707558690816,4264648378,neutral,leave,2016-06-03T09:44:39.000Z,"Hear, hear! #VoteLeave #VoteOut #brexit https://t.co/0Wugr2pXjC","['brexit', 'voteout', 'voteleave']"
-146,146,146,1364699,745159483811201024,4264648378,positive,leave,2016-06-21T07:40:39.000Z,"Backs, non-tax paying comps, who use immigrant labour, to screw UK workers! #brexit #VoteLeave #VoteOut https://t.co/qkFPZ8e9i2","['brexit', 'voteout', 'voteleave']"
-147,147,147,1255224,744178080240046080,4264648378,neutral,leave,2016-06-18T14:40:55.000Z,Memories! #brexit #VoteLeave #VoteOut https://t.co/CPUvVGP5IJ,"['brexit', 'voteout', 'voteleave']"
-148,148,148,1962848,746294619458179072,4264648378,neutral,other,2016-06-24T10:51:17.000Z,"Boris Johnson, the Islington cat amongst the pigeons! #brexit #VoteLeave #VoteOut https://t.co/XrhK2lTT2c","['brexit', 'voteout', 'voteleave']"
-149,149,149,797079,735964060383125504,20538951,positive,leave,2016-05-26T22:41:20.000Z,My goodness this debate on @bbcquestiontime scaremongering to remain in !! Well I'm OUT #VoteLeave #VoteOut #Brexit,"['brexit', 'voteout', 'voteleave']"
-150,150,150,1276076,744489997043175424,4264648378,neutral,leave,2016-06-19T11:20:21.000Z,Controlled immigration  v's uncontrolled immigration! You decide. #brexit #VoteLeave #VoteOut https://t.co/doQASPeSxX,"['brexit', 'voteout', 'voteleave']"
-151,151,151,1270292,744439584193454080,4264648378,neutral,leave,2016-06-19T08:00:02.000Z,Need to say it louder! #brexit #VoteLeave #VoteOut https://t.co/kS2gQn8dqJ,"['brexit', 'voteout', 'voteleave']"
-152,152,152,874694,738469589198229504,4264648378,negative,leave,2016-06-02T20:37:24.000Z,"Failed political leader, defending EU, as if his pension depended on it! #brexit #VoteLeave #VoteOut https://t.co/uho7ACfU05","['brexit', 'voteout', 'voteleave']"
-153,153,153,1331113,744906935896522752,262761577,positive,leave,2016-06-20T14:57:07.000Z,Can we get this trending please as the dog wants out! #Brexit.#VoteLeave #voteout https://t.co/Q3ih6btKSK,"['brexit.#voteleave', 'voteout']"
-154,154,154,1016095,741378321175416832,2311561,neutral,other,2016-06-10T21:15:40.000Z,Quick Poll: Who governs UK post #Brexit? Find out + add to poll! #EUreferendum #LeaveEU #Remain #VoteOut #VoteLeave https://t.co/PypBKAPO4F,"['brexit?', 'voteleave', 'remain', 'eureferendum', 'leaveeu', 'voteout']"
-155,155,155,627112,729675223306518528,27866687,negative,leave,2016-05-09T14:11:44.000Z,"Thank you @David_Cameron. After spouting your fear mongering propaganda, I have decided to #Vote_out.  #Brexit #brexitfears","['brexitfears', 'voteout', 'brexit']"
-156,156,156,1505606,745863310524944384,2748517662,neutral,leave,2016-06-23T06:17:25.000Z,#iVoted Which is your vote today? #Brexit #BrexitLive #EUref #VoteLeave #VoteRemain #VoteStay #voteout,"['brexitlive', 'votestay', 'voteremain', 'voteout', 'euref', 'brexit', 'voteleave', 'ivoted']"
-157,157,157,1593795,746121375014858752,20538951,neutral,other,2016-06-23T23:22:52.000Z,Is it too late to place a Bet on #Brexit #BrexitOrNot #VoteLeave #VoteOut #VoteRemain wanted to head to bed but gotta stay up now #EUref,"['brexitornot', 'brexit', 'voteleave', 'euref', 'voteremain', 'voteout']"
-158,158,158,1581723,746093618381873152,3662737156,neutral,leave,2016-06-23T21:32:35.000Z,Don't wait for the result. Get this signed https://t.co/5cZvJXxc6f.  #brexit #BrexitOrNot #BrexitClub @iVoteLeave #VoteLeave #VoteOut,"['brexitornot', 'brexitclub', 'brexit', 'voteleave', 'voteout']"
-159,159,159,1643520,746174177246347264,109463821,neutral,leave,2016-06-24T02:52:41.000Z,"There's only one Nigel Farrage!
+https://t.co/5nhr17YVsJ https://t.co/MKzkKL6jTr","['brexit', 'leaveeu', 'voteout']"
+774354,735209899014131712,496031877,negative,other,2016-05-24T20:44:34.000Z,Quite saddened to see this outside City Hall today!! #London #voteout #Brexit #thisisengland https://t.co/rGSCSrDZEM,"['brexit', 'london', 'voteout', 'thisisengland']"
+859659,738115063580610560,470282061,positive,leave,2016-06-01T21:08:39.000Z,"Welcome on board,starting to believe that we are going to Win
+#brexit  #LeaveEU #LabourLeave #voteOut #PoliticsAside https://t.co/okX4Wea4gf","['brexit', 'politicsaside', 'labourleave', 'leaveeu', 'voteout']"
+570448,725230888657797120,724290070623215616,neutral,leave,2016-04-27T07:51:32.000Z,If you drive a European car you will only be able to fill it with petrol in mainland Europe after #brexit. #VoteLeave #projectfear  #voteout,"['brexit', 'projectfear', 'voteleave', 'voteout']"
+407214,715075720989564928,20749317,positive,leave,2016-03-30T07:18:32.000Z,"The morning manifesto left on my bench from the #UKIP supporter at work
 
-If only he had been a bit more optimistic.
+#voteout #votein #Brexit https://t.co/xAuyxwG1mX","['brexit', 'ukip', 'voteout', 'votein']"
+940734,740124710181187584,3526029614,neutral,other,2016-06-07T10:14:16.000Z,"Let us know what you think. Vote and Retweet.
 
-#VoteLeave #EUref #VoteOut #Brexit #brexitparty","['brexitparty', 'voteleave', 'euref', 'brexit', 'voteout']"
-160,160,160,675123,731586955511619584,14639500,positive,leave,2016-05-14T20:48:17.000Z,"Excellent, excellent movie. Sums up exactly why we should #LeaveEU. #VoteOut #Brexit… https://t.co/0CMNp78WAT","['brexitâ\x80¦', 'leaveeu', 'voteout']"
-161,161,161,821424,736932203641331712,727593506005499904,neutral,other,2016-05-29T14:48:23.000Z,Voting out #bringbackengland #brexit #voteout by claire_wassell https://t.co/sSXP4gsPZg https://t.co/NkL7KrhnaL,"['bringbackengland', 'voteout', 'brexit']"
-162,162,162,980183,740868845724913664,2787158879,neutral,leave,2016-06-09T11:31:12.000Z,Don't forget to put your cross in the leave box in black ink so they can't rub it out #brexit #voteleave #EUreferendum #voteout #britain,"['britain', 'voteleave', 'voteout', 'eureferendum', 'brexit']"
-163,163,163,328101,709134526874783744,86886629,positive,leave,2016-03-13T21:50:20.000Z,"#EU #Referendum https://t.co/ZCZg38q5Fj .@YouTube 
-#Brexit is Best for #Britain! Reclaim OUR Nation &amp; Put The GREAT Back Into #GB #VoteOUT!","['britain', 'voteout', 'eu', 'referendum', 'brexit', 'gb']"
-164,164,164,1579935,746089115288952832,4807247297,positive,other,2016-06-23T21:14:41.000Z,"We're fine as we are! Even without 🇬🇧
--
--
- #brexit #eureferendum #voteout #britainout @ London,… https://t.co/rykJwuQKxK","['britainout', 'voteout', 'brexit', 'eureferendum']"
-165,165,165,198910,702822865817702400,316535085,neutral,leave,2016-02-25T11:50:03.000Z,#Brits need to smell the coffee. #brexit #voteleave @vote_leave @LeaveEUOfficial #EUreferendum #voteout #eu https://t.co/UPwMWNGthr,"['brits', 'voteleave', 'voteout', 'eureferendum', 'eu', 'brexit']"
-166,166,166,1100004,742667978660032512,151670088,neutral,other,2016-06-14T10:40:18.000Z,"Ah yes, the guy who sold our heritage. #Brown deployed in #EU referendum battle https://t.co/UVogM4kvos
-#Brexit. #VoteOut","['brown', 'eu', 'voteout', 'brexit']"
-167,167,167,792322,735845720926900224,174631667,neutral,other,2016-05-26T14:51:05.000Z,.@mattjameswright And there is your answer in a nutshell. You can #VoteOut our #MPs. As for #Brussels.......  #BREXIT,"['brussels', 'mps', 'brexit', 'voteout']"
-168,168,168,859238,738101169420152832,27867738,positive,leave,2016-06-01T20:13:26.000Z,#DavidCameron has turned the #EUReferendum into a vote of confidence .... #Brexit #VoteOut #VoteLeave #ByeDave https://t.co/4GS1ye720V,"['byedave', 'eureferendum', 'brexit', 'davidcameron', 'voteleave', 'voteout']"
-169,169,169,1481188,745719901017477120,20640577,negative,leave,2016-06-22T20:47:33.000Z,Vote LEAVE! #brexit #voteout #voteleave #c4debate,"['c4debate', 'voteout', 'voteleave', 'brexit']"
-170,170,170,788712,735754246411325440,727593506005499904,negative,other,2016-05-26T08:47:36.000Z,#brexit #eu #uk #government #change #voteout #dontletthemfoolyou don't let the government make you feel racist if … https://t.co/NkL7KqZLMb,"['change', 'brexit', 'government', 'dontletthemfoolyou', 'voteout', 'eu', 'uk']"
-171,171,171,676478,731615856699002880,185817900,negative,other,2016-05-14T22:43:07.000Z,"So now we know. Public vote ...All the people of Europe don't like us #VoteOut #Brexit Hello US, Canada, Oz, NZ, SA #Commonwealth","['commonwealth', 'brexit', 'voteout']"
-172,172,172,1378977,745219447682703360,60888448,neutral,leave,2016-06-21T11:38:56.000Z,You Can't Be Lesbian Or Gay If Britain Leaves The EU #Corbyn Suggests https://t.co/Ei2AXbG6Wx More reason to #Voteleave #Brexit #VOTEOUT,"['corbyn', 'voteout', 'voteleave', 'brexit']"
-173,173,173,834841,737542672278159360,727593506005499904,neutral,leave,2016-05-31T07:14:10.000Z,#VoteOut #brexit #WomensRights #democracy by sherit.nair https://t.co/wNR7L50852 https://t.co/NkL7KqZLMb,"['democracy', 'womensrights', 'brexit', 'voteout']"
-174,174,174,653066,730784185389060096,27867738,positive,other,2016-05-12T15:38:21.000Z,"@David_Cameron To all those reading #DodgyDave's tweet, please see attached. #VoteOut #DesperateDave #Brexit https://t.co/2U0XfIzToG","['desperatedave', 'brexit', 'voteout', ""dodgydave's""]"
-175,175,175,492833,721026776890220544,1056267566,neutral,leave,2016-04-15T17:25:54.000Z,Don't listen to #DodgyDave and #projectfear #GetBritainOut #LeaveEU #voteout #VoteLeave #Brexit https://t.co/QuHJrqUxy5,"['dodgydave', 'brexit', 'projectfear', 'getbritainout', 'voteout', 'leaveeu', 'voteleave']"
-176,176,176,580696,725742850936324096,27867738,neutral,leave,2016-04-28T17:45:53.000Z,"Brussels diktats 'costing families £4,600 a year' https://t.co/oWkkg1l0o4 #VoteLeave #VoteOut #Brexit #DodgyDave #EUReferendum","['dodgydave', 'eureferendum', 'voteleave', 'brexit', 'voteout']"
-177,177,177,801516,736102878297751552,27867738,negative,leave,2016-05-27T07:52:56.000Z,"#DodgyDave says if we #VoteLeave on 23rd June, bad things will happen! #Brexit #VoteLeave #VoteOut #EUReferendum https://t.co/tnj48kKZI5","['dodgydave', 'eureferendum', 'voteleave', 'brexit', 'voteout']"
-178,178,178,983124,740905467086508032,27867738,neutral,leave,2016-06-09T13:56:43.000Z,"#DodgyDave has proven himself to be untrustworthy, why listen to him now? #VoteLeave #Brexit #VoteOut #DavidCameron https://t.co/ZhRaOttwV5","['dodgydave', 'voteleave', 'davidcameron', 'brexit', 'voteout']"
-179,179,179,1523292,745915471359283200,468778192,positive,leave,2016-06-23T09:44:41.000Z,#dogsatpollingstations after I cast my #VoteOut vote my dog was so happy she played with her toy !! #Brexit https://t.co/diuLLfynTg,"['dogsatpollingstations', 'brexit', 'voteout']"
-180,180,180,988392,740980001009508352,27867738,negative,remain,2016-06-09T18:52:53.000Z,This is what Les thinks of people who are going to #VoteIn it makes him angry! #EastEnders #Brexit #Voteout https://t.co/jRzCj770yC,"['eastenders', 'voteout', 'brexit', 'votein']"
-181,181,181,1590053,746114824262684672,370365011,neutral,leave,2016-06-23T22:56:50.000Z,"Only one result in so far, could be long night #EUreferendum #VoteLeave #VoteOut #election #voters #brexit #polling #polls #views #politics","['election', 'voters', 'views', 'polls', 'eureferendum', 'polling', 'brexit', 'voteleave', 'voteout', 'politics']"
-182,182,182,1264122,744332111650426880,4337205316,neutral,leave,2016-06-19T00:52:59.000Z,#UK 30 years after #VoteRemain . #EU #England #British #Brexit #VoteLeave #VoteOUT #Cameron #ISIS #Islam #France https://t.co/SMVJdWpxjT,"['england', 'voteout', 'france', 'uk', 'voteleave', 'islam', 'british', 'eu', 'cameron', 'isis', 'brexit', 'voteremain']"
-183,183,183,1494521,745807649766318080,4337205316,positive,leave,2016-06-23T02:36:14.000Z,These #Terrorists are good ol' chaps! #UK #Cameron #Brexit #VoteRemain #VoteLeave #VoteOUT #Remain #England #Quit https://t.co/suHclou1yO,"['england', 'voteout', 'terrorists', 'uk', 'voteleave', 'remain', 'cameron', 'quit', 'brexit', 'voteremain']"
-184,184,184,1290867,744664216716644352,4337205316,neutral,leave,2016-06-19T22:52:39.000Z,Let's exit the #EU before it's too late... #England #Cameron #UK #Brexit #VoteRemain #VoteLeave #VoteOUT #Britain https://t.co/rvWujUmdw7,"['england', 'voteout', 'uk', 'britain', 'voteleave', 'eu', 'cameron', 'brexit', 'voteremain']"
-185,185,185,1494392,745806798041526272,4337205316,neutral,leave,2016-06-23T02:32:51.000Z,Let's exit the #EU before it's too late... #England #Cameron #UK #Brexit #VoteRemain #VoteLeave #VoteOUT #Remain https://t.co/kcgEuKXrKf,"['england', 'voteout', 'uk', 'voteleave', 'eu', 'remain', 'cameron', 'brexit', 'voteremain']"
-186,186,186,1554897,746007087000469504,4337205316,neutral,leave,2016-06-23T15:48:44.000Z,Let's exit the #EU before it's too late... #England #Remain #UK #Brexit #VoteRemain #VoteLeave #VoteOUT #VoteStay https://t.co/frgorat45o,"['england', 'voteout', 'uk', 'voteleave', 'remain', 'eu', 'votestay', 'brexit', 'voteremain']"
-187,187,187,1494648,745808857214128128,4337205316,neutral,leave,2016-06-23T02:41:02.000Z,#UK 30 years after #VoteRemain . #EU #England #British #Brexit #VoteLeave #VoteOUT #Cameron #ISIS #Remain #Votequit https://t.co/4t2YJRlrXS,"['england', 'voteout', 'uk', 'voteleave', 'votequit', 'british', 'eu', 'remain', 'cameron', 'isis', 'brexit', 'voteremain']"
-188,188,188,619427,729404432157450240,2765580615,neutral,other,2016-05-08T20:15:42.000Z,@david_standing results are too close for comfort. Cannot understand why anyone would want to remain. Ludicrous #Brexit #EU #VoteOut,"['eu', 'brexit', 'voteout']"
-189,189,189,131202,701341403822030848,2623890075,neutral,leave,2016-02-21T09:43:15.000Z,Before you start speculating let's get us out the #EU first #BREXIT #VOTEOUT   https://t.co/TWsYrHaOzG,"['eu', 'brexit', 'voteout']"
-190,190,190,581812,725825669301735424,252846261,positive,other,2016-04-28T23:14:59.000Z,#Brexit will mean higher paid jobs &amp; stop these big companies who love the #EU exploiting workers #VoteOUT https://t.co/CKojLtVISp,"['eu', 'brexit', 'voteout']"
-191,191,191,1164549,743194783959683072,602139095,negative,other,2016-06-15T21:33:39.000Z,@MaccLabour @WantEnglandBack and the other 28 countries diluting our sovereignty #Brexit #VoteOUT .Like Europe hate #EU,"['eu', 'brexit', 'voteout']"
-192,192,192,463600,719594782830538752,252846261,negative,other,2016-04-11T18:35:40.000Z,Don't fall for the CONservative scam. The #EU does NOT create jobs / Job security #Brexit #VoteOUT @UKIP https://t.co/aDG4LJhJA8,"['eu', 'brexit', 'voteout']"
-193,193,193,1340073,744953573222584320,151670088,negative,other,2016-06-20T18:02:27.000Z,"Truly disgraceful. This Bloody #EU Referendum....... Dirty Tricksters Swing into Action https://t.co/jhTScaALes
-#Brexit #Voteout #Leave.","['eu', 'brexit', 'voteout', 'leave']"
-194,194,194,1457364,745656806534307840,41041018,neutral,leave,2016-06-22T16:36:50.000Z,If you're voting to #REMAIN in the #EU you need to watch this #BREXIT THE MOVIE then go out &amp; #VOTEOUT  https://t.co/T2JgZgvgYY via @YouTube,"['eu', 'brexit', 'voteout', 'remain']"
-195,195,195,931905,739906399887560704,252846261,negative,other,2016-06-06T19:46:47.000Z,Here we have another #EU Commission staff using troll accounts to smear #Brexit campaign (@oliverjsimonis) real name #RoyDickinson #VoteOUT,"['eu', 'brexit', 'voteout', 'roydickinson']"
-196,196,196,676051,731608946209882112,1292464694,positive,leave,2016-05-14T22:15:40.000Z,"What will you vote on 26 June?
-#VoteIn #VoteOut #EU
-#Brexit makes interesting viewing
-https://t.co/Zevzili8cP","['eu', 'brexit', 'voteout', 'votein']"
-197,197,197,675677,731598773059764224,252846261,neutral,other,2016-05-14T21:35:14.000Z,Have to wait for the results for the #Eurovision whilst the #EU tell us all how to vote :-D #Brexit #VoteOUT,"['eu', 'eurovision', 'brexit', 'voteout']"
-198,198,198,2238040,746437936942485504,1120209325,neutral,leave,2016-06-24T20:20:46.000Z,One of the reasons for the #Voteout which leadto #Brexit was the #immigration system established in #EU !,"['eu', 'immigration', 'brexit', 'voteout']"
-199,199,199,53533,695582356527300608,167880395,positive,leave,2016-02-05T12:18:51.000Z,"A reminder why we should #VoteOut from an #EU managed by big Corps &amp; Technocrats.
-#Brexit 
-#NoTTIP 
-#SaveOurNHS  https://t.co/9DtWjv0tCZ","['eu', 'nottip', 'saveournhs', 'brexit', 'voteout']"
+#Brexit #VoteIn #VoteOut #StrongerIn #StrongerOut #EURefReady #EUref","['brexit', 'votein', 'euref', 'strongerout', 'eurefready', 'voteout', 'strongerin']"
+1096707,742646854752538624,3526029614,positive,other,2016-06-14T09:16:22.000Z,"#EUref poll! #VoteOut are leading by majority! Help us reach 1000 votes!
+#Brexit #VoteIn #StrongerIn #StrongerOut &gt;
+
+https://t.co/zPzKA2ohg2","['brexit', 'votein', 'euref', 'strongerout', 'voteout', 'strongerin']"
+1096693,742646764117889024,3526029614,positive,other,2016-06-14T09:16:00.000Z,"One hour to go in #EUref poll! #VoteOut are leading by majority!
+#Brexit #VoteIn #StrongerIn #StrongerOut &gt;
+
+https://t.co/zPzKA2ohg2","['brexit', 'votein', 'euref', 'strongerout', 'voteout', 'strongerin']"
+783742,735507528189116416,81778094,negative,leave,2016-05-25T16:27:14.000Z,"Option 1: vote to stay in the EU. 
+
+Option 2: vote to leave the EU. 
+
+Option 3: #FuckTheSystem✊ 
+
+#VoteIn #VoteOut #Brexit #UK","['brexit', 'votein', 'fuckthesystem✊', 'voteout', 'uk']"
+1162563,743173856160952320,214633771,negative,leave,2016-06-15T20:10:29.000Z,"you disgusting vile pigs, support our #fishingforleave #VoteLeave #voteout #Brexit https://t.co/Z1VZxqA0PR","['brexit', 'voteleave', 'fishingforleave', 'voteout']"
+979393,740860682451718144,4927356533,neutral,leave,2016-06-09T10:58:45.000Z,'I may be some time'. Class from the one and only... @Nigel_Farage #VoteLeave #voteout #Brexit https://t.co/1ncJUTVcfH,"['brexit', 'voteleave', 'voteout']"
+719813,733268540250312704,2913109511,neutral,leave,2016-05-19T12:10:18.000Z,#VoteLeave #voteout time to get our identity &amp; county back from Europe #Brexit https://t.co/yYSGFH998O,"['brexit', 'voteleave', 'voteout']"
+893809,738999908062093312,261291481,positive,leave,2016-06-04T07:44:42.000Z,@David_Cameron we were called Great Britain LONG before the EU started. #VoteLeave #voteout #Brexit,"['brexit', 'voteleave', 'voteout']"
+1029044,741624300713725952,27867738,positive,leave,2016-06-11T13:33:06.000Z,"This is well worth a watch, Yes Minister from back in the day sums it all up perfectly! https://t.co/uv7xTE3Uib #VoteLeave #Brexit #VoteOut","['brexit', 'voteleave', 'voteout']"
+645199,730477323955359744,312352013,positive,leave,2016-05-11T19:19:00.000Z,It's amazing how many people still don't know which way they're voting in the EU referendum #VoteLeave #voteout #Brexit,"['brexit', 'voteleave', 'voteout']"
+1035876,741738931461427200,444034357,positive,leave,2016-06-11T21:08:36.000Z,I am with the leading UK manufacturers 👌🏼🇬🇧 #VoteLeave #Brexit #voteout @vote_leave  https://t.co/IvKNIKeili,"['brexit', 'voteleave', 'voteout']"
+1444205,745582677538013184,4068693082,negative,other,2016-06-22T11:42:17.000Z,"They are not going to cut their nose off, to spite their face. #VoteLeave #voteout #Brexit @vote_leave https://t.co/SdpIKeoEjG","['brexit', 'voteleave', 'voteout']"
+1638911,746171152050028544,109463821,negative,leave,2016-06-24T02:40:40.000Z,Come on voters! Those Remaniacs don't like it up em! #VoteLeave #Brexit #VoteOut,"['brexit', 'voteleave', 'voteout']"
+1517179,745897107639439360,633992428,positive,leave,2016-06-23T08:31:43.000Z,Please remember to vote today! Let's save our country! #VoteLeave #Brexit #VoteOut https://t.co/WdRfWemi5F,"['brexit', 'voteleave', 'voteout']"
+1550474,745992995883847680,443303708,negative,leave,2016-06-23T14:52:44.000Z,"Im italian and i really suggest british to #VoteLeave #Brexit #VoteOut 
+#BrexitPolls.
+We live under EU and euro slavery.","['brexit', 'voteleave', 'voteout', 'brexitpolls']"
+780951,735435444352131072,27867738,neutral,leave,2016-05-25T11:40:48.000Z,Imagine if we #VoteLeave on 23rd June ...... #Brexit #VoteOut #EUReferendum https://t.co/8eUFNEGEfa,"['brexit', 'voteleave', 'voteout', 'eureferendum']"
+730719,733731431390842880,27867738,neutral,leave,2016-05-20T18:49:39.000Z,Imagine if we #VoteLeave on 23rd May '16 #Brexit #VoteOut #EUReferendum https://t.co/BejcU1Ffbd,"['brexit', 'voteleave', 'voteout', 'eureferendum']"
+1150030,743080949668323328,201913148,negative,leave,2016-06-15T14:01:18.000Z,"If you want to know how bent &amp; corrupt the EU is....You need to watch this!!! 
+#VoteLeave #LeaveEU #Brexit #VoteOut 
+https://t.co/59tbltzH86","['brexit', 'voteleave', 'voteout', 'leaveeu']"
+1043034,741912647541633024,4927356533,negative,leave,2016-06-12T08:38:53.000Z,@David_Cameron I've heard that the other 99.99999% of UK farmers think your're a stinking liar... #VoteLeave #voteout #LeaveEU #Brexit,"['brexit', 'voteleave', 'voteout', 'leaveeu']"
+54732,695689486521475072,393629407,negative,other,2016-02-05T19:24:33.000Z,No agreement at EU HQ already. #voteout #Brexit,"['brexit', 'voteout']"
+1290333,744627854621683712,272584499,positive,other,2016-06-19T20:28:09.000Z,@vote_leave more like PM wouldnt answer the question because he knows we wont like the answer Glad we are not that stupid #Brexit #voteout,"['brexit', 'voteout']"
+723393,733421793399070720,15788608,positive,leave,2016-05-19T22:19:16.000Z,"#Brexit is not about immigration. It's about national wealth, jobs and a prosperous future for our kids. #voteout","['brexit', 'voteout']"
+830982,737353039586177024,867720912,positive,leave,2016-05-30T18:40:38.000Z,As much as I love and admire @eddieizzard someone needs to go to @sheffielduni to promote vote OUT #Brexit #voteout,"['brexit', 'voteout']"
+1528304,745928960157061120,68440544,positive,other,2016-06-23T10:38:17.000Z,let's hope not  #voteout #Brexit https://t.co/DWREu4usxd,"['brexit', 'voteout']"
+809569,736420738345766912,4119446079,positive,other,2016-05-28T04:56:00.000Z,.@ITbarbie Calais human being camp is reduced to ashes via @MailOnline #Brexit #voteout noone wants psychos like this. Go home!,"['brexit', 'voteout']"
+441732,717798970743980032,20769819,negative,leave,2016-04-06T19:39:45.000Z,How to Rig a Referendum: Give one side £9.3 million more resources than the other. #voteout #Brexit,"['brexit', 'voteout']"
+609811,728475411462529024,831148974,neutral,other,2016-05-06T06:44:07.000Z,"Labour’s EU delusion https://t.co/Kc0dSB3lX0
+EU-delusion#.Vyw89jRkeXL.twitter
+Even the Morning Star say Labour should #VoteOut. #Brexit","['brexit', 'voteout']"
+1118759,742815532307599360,42606530,positive,other,2016-06-14T20:26:38.000Z,@anniesuniverse let's see a portion of the money we would save by #Brexit spent on the all important NHS. #voteout,"['brexit', 'voteout']"
+473564,720003932626530304,28847698,neutral,leave,2016-04-12T21:41:29.000Z,Wasn't sure. Now I know #Brexit #voteout https://t.co/xfJ1qBhl42,"['brexit', 'voteout']"
+475984,720164429187432448,208141726,negative,remain,2016-04-13T08:19:14.000Z,"Long q's at doc, a&amp;e? Can't get the school place? house prices very high? https://t.co/iabbfQnsJz it is not sustainable. #voteout #Brexit","['brexit', 'voteout']"
+628406,729722792015433728,223765747,negative,leave,2016-05-09T17:20:45.000Z,"Mr Cameron is scared.....😂😂 #Brexit #voteout 
+
+https://t.co/MBU4XkghvE","['brexit', 'voteout']"
+876647,738531280749527040,16190689,neutral,other,2016-06-03T00:42:33.000Z,#Brexit #voteout RobinHood's Sons and Daughters BREXIT! https://t.co/sDpgAHzpM5,"['brexit', 'voteout']"
+387836,713289179791290368,2354660132,positive,other,2016-03-25T08:59:27.000Z,@BullshineBilly @SkyNewsBreak but apparently we're safer in ! #Brexit #voteout,"['brexit', 'voteout']"
+720988,733311933982605312,720207639486054400,negative,leave,2016-05-19T15:02:43.000Z,@RobC_UK @iVoteLeave @Change More EU nanny state interference. #voteout and #Brexit to stop the onslaught of EU control freak regulation,"['brexit', 'voteout']"
+366397,711889995045457920,256500128,positive,other,2016-03-21T12:19:35.000Z,Getting roasted because I think we should leave the Eu lmao #voteout #Brexit,"['brexit', 'voteout']"
+881004,738660893312094208,59552441,positive,leave,2016-06-03T09:17:35.000Z,Nick Clegg's opinion is just as irrelevant now as it was a year ago. . . Please just Ahhh #voteout #Brexit,"['brexit', 'voteout']"
+1520847,745908876567060480,194732581,positive,leave,2016-06-23T09:18:29.000Z,#BREXIT: Just a reminder that Paul Dacre wants you to #VoteOut; and what he wants is always best for the country. https://t.co/Dw40wTLdrA,"['brexit', 'voteout']"
+1279969,744528097802915840,3568912161,positive,leave,2016-06-19T13:51:45.000Z,@Reuters and the UK government want us to be controlled by Brussels they can't control their own #Brexit #voteout,"['brexit', 'voteout']"
+182463,702273890114998272,222571047,positive,other,2016-02-23T23:28:37.000Z,@David_Cameron the list of the signed FTSE companies is a gift for the #voteout 29 of the 35 evaded tax in the last 7 years #Brexit,"['brexit', 'voteout']"
+601018,727769352242614272,43114546,negative,leave,2016-05-04T07:58:29.000Z,Transatlantic trade deal is a full on assault on democracy https://t.co/vXzneQsFCH vote in Europe to get ttip! #Brexit #voteout,"['brexit', 'voteout']"
+511002,722142012363960320,84601057,positive,leave,2016-04-18T19:17:27.000Z,Don't believe Cameron and Osborne's propaganda. #Brexit will make us stronger and better off financially. #voteout https://t.co/G4pVkNSM9B,"['brexit', 'voteout']"
+1042763,741910032175005696,34116740,negative,other,2016-06-12T08:28:30.000Z,"@David_Cameron , plus scaring the elderly , saying they might loose the pension , bus passes etc dirty tactic Dave. #voteout #Brexit","['brexit', 'voteout']"
+1349681,745015103712600064,3448389268,positive,leave,2016-06-20T22:06:57.000Z,@CrusaderEnglish it's the sharing economy! We'll share yours !! #Brexit #voteout,"['brexit', 'voteout']"
+534531,723428778005811200,62228827,positive,leave,2016-04-22T08:30:35.000Z,Question Time economist RIPS APART pro-EU camp with equation &amp; gets BIGGEST cheer ever #Brexit #voteout  https://t.co/KS7UvuqAyk,"['brexit', 'voteout']"
+772750,735157770085863424,197944330,negative,other,2016-05-24T17:17:25.000Z,"We thrived before the EU, we will continue to thrive afterwards. The eurozone is a catastrophe. Making our own trade deals? #Brexit #voteout","['brexit', 'voteout']"
+259301,705429929643655168,103966056,positive,leave,2016-03-03T16:29:36.000Z,"Helping to get the word out, one car window vinyl at a time. #Brexit #voteout @LeaveEUOfficial @Grassroots_Out https://t.co/Hf9KRa1wiR","['brexit', 'voteout']"
+1094361,742632328195919872,1920464222,neutral,other,2016-06-14T08:18:39.000Z,and the wonder why we want to leave!!!! #voteout #Brexit https://t.co/SSvSRPEyXY,"['brexit', 'voteout']"
+812098,736519779155095552,4001238447,neutral,other,2016-05-28T11:29:33.000Z,Our Government is a shambles. It needs changing. It needs to be only British! #Brexit #voteout,"['brexit', 'voteout']"
+297230,707476714474049536,2354660132,neutral,other,2016-03-09T08:02:47.000Z,@PJA1066 @LondonCabbieDan wait for the backlash when they say she's not allowed an opinion ! #Brexit #voteout,"['brexit', 'voteout']"
+895834,739045919912517632,61742404,negative,other,2016-06-04T10:47:32.000Z,@alan_pez_perrie I blame the education system. #Brexit #voteout,"['brexit', 'voteout']"
+167890,701915640806948864,183090956,negative,remain,2016-02-22T23:45:04.000Z,@skypapers shocked to hear that Romania is the biggest EU supporter for the UK to remain in.    #Brexit #voteout,"['brexit', 'voteout']"
+89394,700027086317211648,404507889,positive,leave,2016-02-17T18:40:37.000Z,First time I've ever agreed with old Bernard 😁 #Brexit #voteout https://t.co/vR0qrcIqRU,"['brexit', 'voteout']"
+391258,713706696301002752,2354660132,positive,leave,2016-03-26T12:38:31.000Z,But we're safer IN apparently 😡 compulsory X-ray at our borders should be brought in #Brexit #voteout  https://t.co/knfOOASFYs,"['brexit', 'voteout']"
+1420491,745518136011612160,272584499,neutral,other,2016-06-22T07:25:49.000Z,@V_of_Europe @DailyCaller A very compelling reason to #voteout #Brexit,"['brexit', 'voteout']"
+1374345,745201796377882624,708412455509164032,positive,leave,2016-06-21T10:28:48.000Z,Beautiful sentiment #voteout #Brexit https://t.co/Dwe3cDFSJd,"['brexit', 'voteout']"
+896753,739070545828937728,235580273,negative,leave,2016-06-04T12:25:24.000Z,Polish rapist slipped into Britain unchecked and battered man https://t.co/6Snyv7kEHy via @MailOnline what the hellll?! 😶😤 #voteout #Brexit,"['brexit', 'voteout']"
+728427,733643096907468800,3072616433,neutral,other,2016-05-20T12:58:39.000Z,"@billyboymc1975 got our polling cards yesterday, already sorted #Brexit #voteout","['brexit', 'voteout']"
+446294,718044434663940096,47082321,neutral,other,2016-04-07T11:55:08.000Z,I note that the government are spending 9Million on leaflets to stay in the EU.  Surely Brexit groups should get £ too?  #voteout #Brexit,"['brexit', 'voteout']"
+637785,730148055165640704,2949034312,neutral,other,2016-05-10T21:30:36.000Z,#Brexit: The (animated) Movie https://t.co/QFDTn9cXW9 #voteout,"['brexit', 'voteout']"
+602688,727857060361187328,287613267,negative,leave,2016-05-04T13:47:00.000Z,@D_Hamblin @iVoteLeave @BBCNews just how hard can it be ... Just tell them to sod off if they get stroppy. #BREXIT #voteout,"['brexit', 'voteout']"
+312846,708054133337620480,406396312,positive,leave,2016-03-10T22:17:15.000Z,#Brexit  Make Britain Great again!!!! #voteout,"['brexit', 'voteout']"
+701995,732557140469112832,34907196,negative,other,2016-05-17T13:03:27.000Z,"The more @DavidCameron_MP talks, the stronger my decision to #voteout is reinforced in my mind. Absolute desperate nonsense. #Brexit","['brexit', 'voteout']"
+1326338,744884566758850560,272314285,positive,other,2016-06-20T13:28:14.000Z,Those tempted by #Brexit are mislead by politicians who want to be big fish in a small pond. #voteout 'll gain us 0! https://t.co/rNRvNltnCY,"['brexit', 'voteout']"
+1079924,742444452657127424,20172715,positive,leave,2016-06-13T19:52:06.000Z,Look's like we are going to have to restart the world if we vote out #Brexit #voteout so be it ....,"['brexit', 'voteout']"
+163967,701834960513187840,349610574,neutral,other,2016-02-22T18:24:28.000Z,Be wise #voteOUT #Brexit,"['brexit', 'voteout']"
+1544408,745974494276239360,48454326,negative,leave,2016-06-23T13:39:13.000Z,"[1975] Labour's Peter Shore on Project Fear - ""The message that comes ou... https://t.co/bFDqsd8ypz via @YouTube #Brexit #voteout","['brexit', 'voteout']"
+1472397,745685349943357440,156399328,neutral,other,2016-06-22T18:30:16.000Z,@UKLabour Find your polling station and plan your journey now..  #Brexit #voteout  🇬🇧,"['brexit', 'voteout']"
+1045173,741935746450391040,4018508656,negative,remain,2016-06-12T10:10:41.000Z,@guardian David Cameron Warns of England being Expelled in to space if we don't stay in the EU #Brexit #voteout,"['brexit', 'voteout']"
+1523292,745915471359283200,468778192,positive,leave,2016-06-23T09:44:41.000Z,#dogsatpollingstations after I cast my #VoteOut vote my dog was so happy she played with her toy !! #Brexit https://t.co/diuLLfynTg,"['brexit', 'voteout', 'dogsatpollingstations']"
+381302,712756888753016832,1056267566,negative,other,2016-03-23T21:44:19.000Z,This is reason alone to #voteout #LeaveEU #Brexit @David_Cameron is just @tonyblairoffice with a blue tie #EUpuppet https://t.co/imV98SVItS,"['brexit', 'voteout', 'eupuppet', 'leaveeu']"
+951535,740284625025667072,610136339,neutral,leave,2016-06-07T20:49:43.000Z,"Cameron getting nailed, hasnt got an answer just waffles about anything other than the actual questions aimed at him #EUref #voteout #Brexit","['brexit', 'voteout', 'euref']"
+719594,733260400880422912,727593506005499904,positive,leave,2016-05-19T11:37:57.000Z,Our Great Britain with our laws! 👊#InorOut #voteout #Brexit #LeaveEU #EUreferendum # by amandalewis68 … https://t.co/NkL7KrhnaL,"['brexit', 'voteout', 'eureferendum', 'leaveeu']"
+71922,698277994436157440,183718664,positive,leave,2016-02-12T22:50:21.000Z,If you believe in democracy #voteout #Brexit #freedom,"['brexit', 'voteout', 'freedom']"
+1028599,741618930477846528,431384245,negative,other,2016-06-11T13:11:46.000Z,"And don't we bloody know it!
+The British public are seeing through the lies &amp; scare stories...
+#VoteOut #GO #Brexit https://t.co/iTMeKIYAFd","['brexit', 'voteout', 'go']"
+789042,735762676828119040,431384245,positive,leave,2016-05-26T09:21:06.000Z,"Stuart who? After a bumbling start (&amp; glaring mistakes) Rose has been completely sidelined:
+#VoteOut #GO #Brexit https://t.co/k6wkQtUjrk","['brexit', 'voteout', 'go']"
+819175,736856333283143680,431384245,neutral,other,2016-05-29T09:46:54.000Z,"To say Cameron (&amp; Osbourne) have overplayed the Remain's hand is an understatement. 😕
+#VoteOut #GO #Brexit #VoteOut https://t.co/Uk3xkyYhGX","['brexit', 'voteout', 'go']"
+773406,735178924880076800,431384245,negative,leave,2016-05-24T18:41:29.000Z,"@GetBritainOut Cameron (&amp; Osbourne) have lost all respect &amp; legitimacy; I think both are gone however vote turns out.
+#VoteOut #GO #Brexit","['brexit', 'voteout', 'go']"
+726267,733582599184994304,431384245,negative,other,2016-05-20T08:58:15.000Z,"The Greek crisis &amp; lots more unpopular things being held back, UK being treated as fools! 😕
+#VoteOut #GO #Brexit https://t.co/XOUqClj0px","['brexit', 'voteout', 'go']"
+892408,738959547788886016,431384245,positive,leave,2016-06-04T05:04:20.000Z,"#InOrOut Gove makes good point, let's sack those unelected commissioners &amp; become great again.
+#VoteOut #GO #Brexit https://t.co/6utEKbTYRC","['brexit', 'voteout', 'go', 'inorout']"
+695603,732318483350994944,431384245,positive,leave,2016-05-16T21:15:06.000Z,"This is exactly why we are good enough to once again stand as an independent nation:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/InZhnLYxLv","['brexit', 'voteout', 'go', 'leaveeu']"
+890479,738840910226698242,431384245,neutral,leave,2016-06-03T21:12:54.000Z,"Out is the only sensible option:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/OFQEXkUZGU","['brexit', 'voteout', 'go', 'leaveeu']"
+763458,734959905623396352,431384245,negative,leave,2016-05-24T04:11:11.000Z,"Project Fear is outrageous, it's turning off millions of voters - it's unbecoming. 😕
+#VoteOut #GO #LeaveEU #Brexit https://t.co/l9QJArlHny","['brexit', 'voteout', 'go', 'leaveeu']"
+787706,735724727583440896,431384245,neutral,leave,2016-05-26T06:50:18.000Z,"Think on this, 4m more people if we remain!
+#VoteOut #GO #LeaveEU #Brexit https://t.co/INHEpn50hZ","['brexit', 'voteout', 'go', 'leaveeu']"
+662527,731081900077527040,431384245,positive,leave,2016-05-13T11:21:22.000Z,"Independent report - yeah we all believe that I'm sure!
+#VoteOut #GO #LeaveEU #Brexit https://t.co/tCgSsUaok9","['brexit', 'voteout', 'go', 'leaveeu']"
+631767,729928694660214784,431384245,positive,other,2016-05-10T06:58:56.000Z,"Let's hope this lead holds/builds further, staying in EU will be a complete disaster:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/YKgGDjazB7","['brexit', 'voteout', 'go', 'leaveeu']"
+632199,729940983492816896,431384245,neutral,leave,2016-05-10T07:47:46.000Z,"Germany is now doing through the EU what it used to do through force of arms! 😐
+#VoteOut #GO #LeaveEU #Brexit https://t.co/4meiPvPhls","['brexit', 'voteout', 'go', 'leaveeu']"
+632765,729955522263265280,431384245,positive,leave,2016-05-10T08:45:33.000Z,"Is this the sort of democracy we can expect in the EU?
+Unfortunately yes it is! 😐
+#VoteOut #GO #LeaveEU #Brexit https://t.co/snWmzWJeGJ","['brexit', 'voteout', 'go', 'leaveeu']"
+880117,738647465528852480,431384245,neutral,leave,2016-06-03T08:24:13.000Z,"Cameron has blown his credibility over remain tactics, I don't see any way back.
+#VoteOut #GO #LeaveEU #Brexit https://t.co/56E9MWCuhw","['brexit', 'voteout', 'go', 'leaveeu']"
+566010,724924414056341504,431384245,positive,leave,2016-04-26T11:33:43.000Z,"This is well reasoned and articulated, well worth a read:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/54pryDxBrf","['brexit', 'voteout', 'go', 'leaveeu']"
+867634,738334463130783744,431384245,positive,other,2016-06-02T11:40:28.000Z,"Good article on a points based border system alike to the Australian model:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/LsOrO1Sosy","['brexit', 'voteout', 'go', 'leaveeu']"
+791135,735814422573252608,431384245,negative,leave,2016-05-26T12:46:43.000Z,"This is a distant memory &amp; will remain so until we vote to leave the EU:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/WJ0Lktp5m7","['brexit', 'voteout', 'go', 'leaveeu']"
+1316328,744841158543671296,431384245,positive,other,2016-06-20T10:35:45.000Z,"Interesting read:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/h6p69czqDy","['brexit', 'voteout', 'go', 'leaveeu']"
+860071,738130385796780032,431384245,negative,leave,2016-06-01T22:09:32.000Z,"More reasons to dislike the Remain side? Labour's EU bod insults voters!
+#VoteOut #GO #LeaveEU #Brexit https://t.co/rb4rvptXvJ","['brexit', 'voteout', 'go', 'leaveeu']"
+727406,733611663476326400,431384245,neutral,other,2016-05-20T10:53:45.000Z,"Well there's a surprise - as 5th biggest world economy &amp; 2nd in EU, of course we can!
+#VoteOut #GO #LeaveEU #Brexit https://t.co/xkMW4XGLI5","['brexit', 'voteout', 'go', 'leaveeu']"
+1442087,745575925719437312,431384245,positive,leave,2016-06-22T11:15:27.000Z,"Don't you just love rich luvvies telling you to do as they say, not as they do.... 😟
+#VoteOut #GO #LeaveEU #Brexit https://t.co/T03B11ACgG","['brexit', 'voteout', 'go', 'leaveeu']"
+850192,737928257400655872,431384245,neutral,leave,2016-06-01T08:46:21.000Z,"This is exactly what the UK needs, a points system would make immigration equitable.
+#VoteOut #GO #LeaveEU #Brexit https://t.co/xOx1r78MVm","['brexit', 'voteout', 'go', 'leaveeu']"
+857433,738056424618627072,431384245,positive,leave,2016-06-01T17:15:38.000Z,"This is EU fairness in operation, grubby little deals done behind closed doors!
+#VoteOut #GO #LeaveEU #Brexit https://t.co/hNSrn7XZQG","['brexit', 'voteout', 'go', 'leaveeu']"
+658734,731024329966784512,431384245,negative,other,2016-05-13T07:32:36.000Z,"This graphic sums up the dodgy people who hide their money, biggest % - politicians! 😠
+#VoteOut #GO #LeaveEU #Brexit https://t.co/Jmymf7zpF0","['brexit', 'voteout', 'go', 'leaveeu']"
+865558,738301416649969664,431384245,positive,leave,2016-06-02T09:29:09.000Z,"Great argument on US versus THEM (the people v the establishment/big business):
+#VoteOut #GO #LeaveEU #Brexit https://t.co/2Ta6mI6WZ7","['brexit', 'voteout', 'go', 'leaveeu']"
+727520,733615554943168512,431384245,positive,other,2016-05-20T11:09:12.000Z,"Important read for lovers of science &amp; research:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/rzQ9WhFKLN","['brexit', 'voteout', 'go', 'leaveeu']"
+647615,730646673656041472,431384245,neutral,leave,2016-05-12T06:31:56.000Z,"This is how UK stands on control of decision making at the present in the EU:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/NihyV5iUPk","['brexit', 'voteout', 'go', 'leaveeu']"
+835076,737548639694819328,431384245,negative,leave,2016-05-31T07:37:53.000Z,"The EU is a failing project; disparate historic nations are not suitable for union.
+#VoteOut #GO #LeaveEU #Brexit https://t.co/EKsSRUNmuF","['brexit', 'voteout', 'go', 'leaveeu']"
+601819,727808435002212352,431384245,neutral,other,2016-05-04T10:33:47.000Z,In their own words - an EU superstate was always on the cards! #VoteOut #GO #LeaveEU #Brexit https://t.co/m80Szdw8PF,"['brexit', 'voteout', 'go', 'leaveeu']"
+699533,732501266316677120,431384245,negative,other,2016-05-17T09:21:25.000Z,"This is the truth; according to Govt pestilence, famine &amp; WWIII await apparently.....
+#VoteOut #GO #LeaveEU #Brexit https://t.co/Zabi4rhBHD","['brexit', 'voteout', 'go', 'leaveeu']"
+757830,734779441235300352,431384245,neutral,other,2016-05-23T16:14:04.000Z,"Shocked at Osborne &amp; Cameron's speeches today; it is so over the top it's laughable!
+#VoteOut #GO #LeaveEU #Brexit https://t.co/icyttN541s","['brexit', 'voteout', 'go', 'leaveeu']"
+725312,733559683114393600,431384245,negative,leave,2016-05-20T07:27:11.000Z,"Norway went through the same project fear campaign &amp; voted to stay independent: 😊
+#VoteOut #GO #LeaveEU #Brexit https://t.co/fa2M3UzFmc","['brexit', 'voteout', 'go', 'leaveeu']"
+864239,738280193064833024,431384245,positive,leave,2016-06-02T08:04:49.000Z,"I agree with this statement; the referendum is very much an us &amp; them vote.
+#VoteOut #GO #LeaveEU #Brexit https://t.co/wtgiBMeihs","['brexit', 'voteout', 'go', 'leaveeu']"
+709495,732851733886554112,431384245,neutral,leave,2016-05-18T08:34:03.000Z,"The cats out of the bag:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/9y2YP5tNnv","['brexit', 'voteout', 'go', 'leaveeu']"
+844301,737745360072937472,431384245,neutral,leave,2016-05-31T20:39:35.000Z,"France &amp; Italy are yet more Euro member states in trouble:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/jZsF9xq4ll","['brexit', 'voteout', 'go', 'leaveeu']"
+574716,725378048460226560,431384245,negative,leave,2016-04-27T17:36:18.000Z,"Graphic showing unemployment across the EU; no wonder so many come here:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/nTidp71eI3","['brexit', 'voteout', 'go', 'leaveeu']"
+575058,725403579851350016,431384245,negative,leave,2016-04-27T19:17:45.000Z,"We are going out, staying in is an inconceivable nightmare scenario - no more UK!
+#VoteOut #GO #LeaveEU #Brexit https://t.co/0WQk8VaCZN","['brexit', 'voteout', 'go', 'leaveeu']"
+841230,737683343899275264,431384245,negative,other,2016-05-31T16:33:09.000Z,"@EuroGuido 
+More dodgy shenanigans from the Govt to fix the referendum (in case they can't fix the result)? 😕
+#VoteOut #GO #LeaveEU #Brexit","['brexit', 'voteout', 'go', 'leaveeu']"
+835228,737552220791537664,431384245,negative,other,2016-05-31T07:52:07.000Z,"We are suffering 'death by a thousand cuts' whilst in EU, a slow death of UK:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/kgua5bX0in","['brexit', 'voteout', 'go', 'leaveeu']"
+867819,738337657101647872,431384245,positive,leave,2016-06-02T11:53:09.000Z,"Excellent comment, made at the Telegraph debate:
+#VoteOut #GO #LeaveEU #Brexit https://t.co/3VYCP8mlVf","['brexit', 'voteout', 'go', 'leaveeu']"
+666438,731193733321003008,431384245,positive,leave,2016-05-13T18:45:45.000Z,"Not a great record of achievement is it? IF just another dodgy rich club! 😠
+#VoteOut #GO #LeaveEU #Brexit https://t.co/slAAql7k91","['brexit', 'voteout', 'go', 'leaveeu']"
+650347,730715029700542464,431384245,negative,other,2016-05-12T11:03:33.000Z,"The truth on EU migration - something the Govt have been trying to hide from us: 😕
+#VoteOut #GO #LeaveEU #Brexit https://t.co/ArI3sZjCcs","['brexit', 'voteout', 'go', 'leaveeu']"
+789136,735763832644063232,431384245,neutral,leave,2016-05-26T09:25:42.000Z,"The difference being, non-EU immigration to UK is people with skills we actually need!
+#VoteOut #GO #LeaveEU #Brexit https://t.co/IBmj7pt03n","['brexit', 'voteout', 'go', 'leaveeu']"
+1189316,743398177882148864,431384245,neutral,leave,2016-06-16T11:01:51.000Z,"I don't think anyone would believe Cameron if he did repudiate Turkey!
+
+ #NoToTurkey #Brexit #VoteOut #GO #LeaveEU https://t.co/jzEopeLXUn","['brexit', 'voteout', 'go', 'leaveeu', 'nototurkey']"
+950916,740278846524641280,407931700,negative,leave,2016-06-07T20:26:45.000Z,"""I think the euro zone is a catastrophe"" #ITVEURef #voteout #Brexit","['brexit', 'voteout', 'itveuref']"
+823451,737026673749688320,573569314,neutral,leave,2016-05-29T21:03:46.000Z,@StrongerIn @David_Cameron bullsh@t #voteout #Brexit #LeaveEU,"['brexit', 'voteout', 'leaveeu']"
+54850,695705076988571648,44102608,negative,other,2016-02-05T20:26:30.000Z,Proposed EU legislation could be very bad for SMEs in our industry. Madness! #Brexit #LeaveEU #voteout @LeaveEUOfficial @Grassroots_Out,"['brexit', 'voteout', 'leaveeu']"
+1082966,742486710383153152,48568894,positive,leave,2016-06-13T22:40:01.000Z,The polls now seem to be consistently saying #brexit. Please let this be right. #voteout #leaveeu https://t.co/2Y8fH2xRFe,"['brexit', 'voteout', 'leaveeu']"
+1042840,741910730753081344,34116740,negative,leave,2016-06-12T08:31:16.000Z,"@David_Cameron , the #Nhs is already at breaking point , we have pay tourist tax in some European countries , etc etc etc #voteout #Brexit","['brexit', 'voteout', 'nhs']"
+547916,723855652070801408,2151002491,neutral,leave,2016-04-23T12:46:50.000Z,#StrongerIn Dont make me laugh ! UK is on a hiding to nothing. #Brexit is about democracy #voteout https://t.co/2tiPNruAgD,"['brexit', 'voteout', 'strongerin']"
+52934,695546296883683328,44102608,negative,other,2016-02-05T09:55:34.000Z,The EU is bad for our UK business! It's easier for us to export to the USA and Australia at present! #ukmfg #voteout #Brexit,"['brexit', 'voteout', 'ukmfg']"
+1109988,742743964701315072,2445451748,positive,leave,2016-06-14T15:42:15.000Z,@Nigel_Farage in #bexleyheath great amount of support #brexit #voteout #voteleave #votego https://t.co/CUIsoYkyi7,"['brexit', 'voteout', 'votego', 'voteleave', 'bexleyheath']"
+1243051,744031312059719680,4875416488,positive,other,2016-06-18T04:57:42.000Z,"@RT_com  #Brexit
+I overheard bus discussion, one said,
+""The only reason I #voteout is because cameron said #votein""
+Looks like a trust issue","['brexit', 'voteout', 'votein']"
+599701,727616251187605504,27867738,negative,leave,2016-05-03T21:50:07.000Z,Major leak from Brussels reveals NHS will be ‘KILLED OFF’ if Britain remains in the EU https://t.co/2h24mMlHbG #VoteOut #VoteLeave #Brexit,"['brexit', 'voteout', 'voteleave']"
+1087554,742582905554231296,979493810,positive,leave,2016-06-14T05:02:15.000Z,@David_Cameron @George_Osborne What an amazing offer.. Would you do it.? 9 days to go.. #VoteLeave #VoteOut #Brexit https://t.co/mjkTV5obK6,"['brexit', 'voteout', 'voteleave']"
+667224,731226390679420928,27867738,positive,leave,2016-05-13T20:55:31.000Z,MIGRANT BENEFITS BOOM: Number of east Europeans claiming handouts DOUBLES in five years https://t.co/IalpZdgnNs #VoteOut #VoteLeave #Brexit,"['brexit', 'voteout', 'voteleave']"
+858691,738086129166123008,27867738,negative,leave,2016-06-01T19:13:40.000Z,Flood of bets on LEAVE in 24 hours force bookies to slash odds on a BREXIT in EU vote https://t.co/4iXRZZ5hXe #VoteOut #VoteLeave #Brexit,"['brexit', 'voteout', 'voteleave']"
+797079,735964060383125504,20538951,positive,leave,2016-05-26T22:41:20.000Z,My goodness this debate on @bbcquestiontime scaremongering to remain in !! Well I'm OUT #VoteLeave #VoteOut #Brexit,"['brexit', 'voteout', 'voteleave']"
+1010116,741300997654511616,27867738,negative,leave,2016-06-10T16:08:25.000Z,'Remain have DESTROYED themselves' Brexit supporter lashes out at pro-EU 'Rottweilers' https://t.co/IH6mgZw9AH #VoteLeave #VoteOut #Brexit,"['brexit', 'voteout', 'voteleave']"
+582227,725914317141340160,720207639486054400,neutral,leave,2016-04-29T05:07:14.000Z,"What percentage of our laws are made in EU? 40%, 50%. 60%.? Anyones guess. .Irrespective  it should be 0%. #voteout #voteleave #Brexit","['brexit', 'voteout', 'voteleave']"
+827638,737238777651945472,27867738,positive,leave,2016-05-30T11:06:36.000Z,If we stay in EU our beloved NHS will simply collapse under demand' says leading doctor  https://t.co/6FoegR0GL1 #VoteOut #VoteLeave #Brexit,"['brexit', 'voteout', 'voteleave']"
+2432404,746707526973071360,392022182,positive,leave,2016-06-25T14:12:02.000Z,Please sign &amp; retweet if you want your vote to matter #VoteLeave #VoteOut https://t.co/gZhD7wLQDQ #Brexit,"['brexit', 'voteout', 'voteleave']"
+1026387,741588568531972096,27867738,neutral,leave,2016-06-11T11:11:07.000Z,'You’ve f***ed everything up' Cameron blasted by voters as Brexit takes 10-point lead https://t.co/TOK3BWOuWU #VoteLeave #VoteOut #Brexit,"['brexit', 'voteout', 'voteleave']"
+1572138,746064924225470464,27867738,neutral,leave,2016-06-23T19:38:33.000Z,Total shambles! Voters turned away from Leighton Buzzard poll station https://t.co/F2s3fcqSwe #VoteLeave #VoteOut #Brexit #EURef,"['brexit', 'voteout', 'voteleave', 'euref']"
+1509557,745905948275916800,740321625955012608,negative,leave,2016-06-23T09:06:50.000Z,@Billy_Moss No it is much more. #VoteOut #VoteLeave #EUref #Brexit https://t.co/CmcASiIxjz,"['brexit', 'voteout', 'voteleave', 'euref']"
+834916,737544849465835520,1056267566,negative,leave,2016-05-31T07:22:49.000Z,Only one way to stop this !! #EUref #VoteLeave #VoteOut #Brexit https://t.co/o6hw44CgfF,"['brexit', 'voteout', 'voteleave', 'euref']"
+689052,732123012535885824,27867738,negative,leave,2016-05-16T08:18:23.000Z,David Cameron writing an article for the Mirror ..... please ..... can he look any more desperate. #VoteLeave #VoteOut #Brexit #EUReferendum,"['brexit', 'voteout', 'voteleave', 'eureferendum']"
+1234356,743855496550027264,75518233,neutral,leave,2016-06-17T17:19:05.000Z,A Bit about the #EUReferendum #VoteLeave #VoteRemain #BrexitDebate #Brexit #votein #voteout  https://t.co/ZBn6PK38Gg,"['brexitdebate', 'voteleave', 'eureferendum', 'votein', 'brexit', 'voteout', 'voteremain']"
+477307,720208232199897088,2354660132,neutral,other,2016-04-13T11:13:18.000Z,RT RT RT for all the ignorant people who think we're safer IN #Brexit #BrexitFacts #VoteOut https://t.co/O4Xkz8dmLF,"['brexitfacts', 'voteout', 'brexit']"
+1505606,745863310524944384,2748517662,neutral,leave,2016-06-23T06:17:25.000Z,#iVoted Which is your vote today? #Brexit #BrexitLive #EUref #VoteLeave #VoteRemain #VoteStay #voteout,"['brexitlive', 'voteleave', 'brexit', 'voteout', 'voteremain', 'votestay', 'ivoted', 'euref']"
+1452181,745610018813272064,204754293,neutral,leave,2016-06-22T13:30:55.000Z,@Telegraph Selling my #EUReferendum https://t.co/nGczo64wTl #Brexit #BrexitOrNot #VoteRemain #VoteLeave #votein #voteout,"['brexitornot', 'eureferendum', 'voteleave', 'votein', 'brexit', 'voteout', 'voteremain']"
+1543832,745972515265183744,20458416,positive,leave,2016-06-23T13:31:21.000Z,In honor of #BrexitOrNot / 🇬🇧🇬🇧🇬🇧 #Brexit #referendum #EUref #voteout #votein @UKinAtlanta https://t.co/V1Kq9XyMbm,"['brexitornot', 'referendum', 'brexit', 'voteout', 'votein', 'euref']"
+1690174,746194774839824384,20458416,positive,leave,2016-06-24T04:14:32.000Z,Elections have consequences - big winners tonight @BorisJohnson &amp; @realDonaldTrump #BrexitOrNot / 🇬🇧🇬🇧#Brexit #referendum #EUref #voteout,"['brexitornot', 'referendum', 'voteout', 'euref']"
+2095254,746350474853507072,1921005684,neutral,leave,2016-06-24T14:33:14.000Z,Can anyone in the #UK who #VoteOut #VoteLeave please let me know if you stand by your decision to vote #leave? #Brexit #BrexitOrNot #ukip,"['brexitornot', 'voteleave', 'brexit', 'ukip', 'voteout', 'leave?', 'uk']"
+1593795,746121375014858752,20538951,neutral,other,2016-06-23T23:22:52.000Z,Is it too late to place a Bet on #Brexit #BrexitOrNot #VoteLeave #VoteOut #VoteRemain wanted to head to bed but gotta stay up now #EUref,"['brexitornot', 'voteleave', 'brexit', 'voteremain', 'voteout', 'euref']"
+1581723,746093618381873152,3662737156,neutral,leave,2016-06-23T21:32:35.000Z,Don't wait for the result. Get this signed https://t.co/5cZvJXxc6f.  #brexit #BrexitOrNot #BrexitClub @iVoteLeave #VoteLeave #VoteOut,"['brexitornot', 'voteleave', 'brexitclub', 'brexit', 'voteout']"
+1485876,745741859906068480,3363864430,neutral,leave,2016-06-22T22:14:49.000Z,Are you OUT? https://t.co/fBo981XXoX #out #brexit #BrexitOrNot #VoteLeave #voteout #vote https://t.co/6tgH0P5SRK,"['brexitornot', 'voteleave', 'out', 'vote', 'voteout', 'brexit']"
+1387374,745253669319348224,351076787,neutral,leave,2016-06-21T13:54:55.000Z,"John Oliver nails it!
+
+https://t.co/GtcOQypcgW
+
+#Brexit #BrexitOrNot #VoteRemain #VoteLeave #votein #voteout #StrongerIn #referendum #EUref","['brexitornot', 'voteleave', 'votein', 'brexit', 'voteout', 'referendum', 'euref', 'voteremain', 'strongerin']"
+1452421,745610689469890560,204754293,neutral,leave,2016-06-22T13:33:35.000Z,https://t.co/nGczo64wTl Selling my vote @realDonaldTrump have your say Donald #Brexit #BrexitOrNot #VoteRemain #VoteLeave #votein #voteout,"['brexitornot', 'voteleave', 'votein', 'brexit', 'voteout', 'voteremain']"
+1452540,745611162423799808,204754293,neutral,leave,2016-06-22T13:35:28.000Z,@richardbranson https://t.co/nGczo64wTl Selling my vote why not have two #Brexit #BrexitOrNot #VoteRemain #VoteLeave #votein #voteout,"['brexitornot', 'voteleave', 'votein', 'brexit', 'voteout', 'voteremain']"

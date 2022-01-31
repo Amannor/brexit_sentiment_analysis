@@ -1,420 +1,591 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,36973,693757669442768896,22085760,neutral,remain,2016-01-31T11:28:12.000Z,@politicshome &amp; the rest will find themselves discarded by thier #GrassRoots who on a scale of 4 to 1 want #BritishIndependence #Brexit,"['britishindependence', 'brexit', 'grassroots']"
-1,1,1,2207656,771805875883343872,1581061698,negative,remain,2016-09-02T20:23:54.000Z,"The one good thing about old racist unionists is their hate of all forms of nationalism.
-#Brexit #TakingBackControl #BritishIndependence","['britishindependence', 'brexit', 'takingbackcontrol']"
-2,2,2,810205,978064684040499200,50659468,neutral,leave,2018-03-26T00:22:46.000Z,"#BREXIT 🇬🇧🇬🇧🇬🇧
+,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+36973,693757669442768896,22085760,neutral,remain,2016-01-31T11:28:12.000Z,@politicshome &amp; the rest will find themselves discarded by thier #GrassRoots who on a scale of 4 to 1 want #BritishIndependence #Brexit,"['grassroots', 'brexit', 'britishindependence']"
+2207656,771805875883343872,1581061698,negative,remain,2016-09-02T20:23:54.000Z,"The one good thing about old racist unionists is their hate of all forms of nationalism.
+#Brexit #TakingBackControl #BritishIndependence","['takingbackcontrol', 'britishindependence', 'brexit']"
+810205,978064684040499200,50659468,neutral,leave,2018-03-26T00:22:46.000Z,"#BREXIT 🇬🇧🇬🇧🇬🇧
 #BritishIndependence 🇬🇧🇬🇧🇬🇧
 #BREXIT 🇬🇧🇬🇧🇬🇧
 #BritishIndependence 🇬🇧🇬🇧🇬🇧
 
 British INDEPENDENCE NOW‼️","['britishindependence', 'brexit']"
-3,3,3,786382,977195153218785280,62372798,negative,other,2018-03-23T14:47:34.000Z,"@MichelBarnier you are a manipulative greedy self absorbed cunt did u know that??? 
+786382,977195153218785280,62372798,negative,other,2018-03-23T14:47:34.000Z,"@MichelBarnier you are a manipulative greedy self absorbed cunt did u know that??? 
 
-#Brexit #BritishIndependence #FuckTheEU #WeWantOurCountryBack ! #LeaveTheEU #NoDeals !!!","['britishindependence', 'leavetheeu', 'fucktheeu', 'nodeals', 'wewantourcountryback', 'brexit']"
-4,4,4,223210,1171708661825253376,106815936,positive,remain,2019-09-11T08:54:48.000Z,#BritishIndependence is obviously trending because most #Brexit supporters need a history lesson (or 100 lessons!) #Remain #1066BritishIndependence,"['1066britishindependence', 'britishindependence', 'remain', 'brexit']"
-5,5,5,569075,1176526636788920320,1257817368,negative,other,2019-09-24T15:59:43.000Z,"@LoyalDefender2K @UKAnglosphere Leaks are starting 🤔 but lets face it even the #Attorney #General could not have anticipated this highly surprising #SupremeCourt verdict, could he @dealatrip 😎🇬🇧 #Brexit #Leave #BritishIndependence","['attorney', 'britishindependence', 'supremecourt', 'leave', 'general', 'brexit']"
-6,6,6,421451,1174314476964855808,1018085394041265920,negative,other,2019-09-18T13:29:23.000Z,This sums up the EU close down any debate......unless they want to talk about it! Disgusting retweet please #BritishIndependence #Brexit #BackBoris https://t.co/ISwyi1G3oE,"['backboris', 'britishindependence', 'brexit']"
-7,7,7,737603,1178643068322492416,1018085394041265920,neutral,leave,2019-09-30T12:09:40.000Z,What us her position in government exactly? #BritishIndependence #Brexit #BackBoris https://t.co/xeta8pPIvW,"['backboris', 'britishindependence', 'brexit']"
-8,8,8,693587,1177925577497595904,2972872659,negative,remain,2019-09-28T12:38:37.000Z,"Vote Of No Confidence In Boris Johnson Could Be Held Next Week 
+#Brexit #BritishIndependence #FuckTheEU #WeWantOurCountryBack ! #LeaveTheEU #NoDeals !!!","['wewantourcountryback', 'britishindependence', 'brexit', 'nodeals', 'leavetheeu', 'fucktheeu']"
+344007,1173205920584732672,142587336,positive,other,2019-09-15T12:04:23.000Z,"@katyballs I bet she’d sell her soul to enable revoking of Article 50 and so putting Corbyn in #10, no problem! 
+
+#BritishIndependence
+
+#Brexit","['10', 'brexit', 'britishindependence']"
+421458,1174314563648544768,2654949820,neutral,remain,2019-09-18T13:29:44.000Z,Seems the remainers weren’t quite as scrupulous as the claim. Lets make #Brexit #BritishIndependence and #Brextober happen role on #31Brextober. https://t.co/t7BSesAqfY,"['31brextober', 'britishindependence', 'brexit', 'brextober']"
+266665,1172094110464925696,288930711,negative,leave,2019-09-12T10:26:27.000Z,"@Anna_Soubry Wrong, you should be on the dole. #Brexit #31october #LeaveMeansLeave #dealwithit #democracy #Remoaners #GodSavetheQueen #BritishIndependence","['31october', 'leavemeansleave', 'brexit', 'britishindependence', 'democracy', 'godsavethequeen', 'dealwithit', 'remoaners']"
+536867,1176294697733689344,20275274,positive,leave,2019-09-24T00:38:05.000Z,"#FixedIT
+
+Its clear that Brexit #NoDeal = #BritishIndependence, this is the way forward, best option than being integrated &amp; shackled to an EU membership  
+
+Brexit is an #opportunity to tackle the real issues facing the #UK. #Brexit #31stOct 
+
+https://t.co/F0PrFP2ZXk https://t.co/kGa7XVXtSQ","['31stoct', 'brexit', 'britishindependence', 'uk', 'nodeal', 'fixedit', 'opportunity']"
+652054,1177353896135667712,1096091315752849408,positive,remain,2019-09-26T22:46:57.000Z,"Brexit Party Rises in the Polls, as Leave Supporters Back Election Pact https://t.co/JBAeY4DfQw via @BreitbartNews 
+#4🇬🇧A😁REAL😁👍BREXIT👍🇬🇧# 
+
+#BritishIndependence
+#AcceptReferendumResult 
+#LeaveMeansLeaveCompletely#LeaveOct31
+#NewDealOrNoDeal 
+
+PLEASE READ &amp; RETWEET!👍🇬🇧","['4🇬🇧a😁real😁👍brexit👍🇬🇧', 'britishindependence', 'acceptreferendumresult', 'leavemeansleavecompletely#leaveoct31', 'newdealornodeal']"
+394809,1173918145846960128,1096091315752849408,negative,other,2019-09-17T11:14:30.000Z,"Another eminent QC claims that we exited the EU on the 29th of March https://t.co/WdUdxtDbf2 via @https://twitter.com/UnityNewsNet 
+#4🇬🇧A😁REAL😁👍BREXIT👍🇬🇧#
+
+#BritishIndependence
+#DeliverBrexitNow
+ 
+DID WE ACTUALLY LEAVE THE EU ON 29 MARCH?
+
+PLEASE READ &amp; RETWEET!👍🇬🇧","['4🇬🇧a😁real😁👍brexit👍🇬🇧', 'britishindependence', 'deliverbrexitnow']"
+514646,1176052655661223936,1096091315752849408,positive,leave,2019-09-23T08:36:17.000Z,"#4🇬🇧A😁REAL😁👍BREXIT👍🇬🇧#
+
+#BritishIndependence
+#SupportRealDemocracy
+#SupportOurMonarchy
+#GODSAVETHEQUEEN
+#RespectTheNationlAnthem
+#Proud2BeBritish
+#SupportUKArmedForces
+#ControlOurBorders
+
+MANY LABOUR MEMBERS HAVE LITTLE RESPECT FOR OUR MONARCHY!👎😡
+
+PLEASE RETWEET THIS!🇬🇧👍 https://t.co/y0vy7j4jOg","['4🇬🇧a😁real😁👍brexit👍🇬🇧', 'supportrealdemocracy', 'britishindependence', 'proud2bebritish', 'supportukarmedforces', 'supportourmonarchy', 'godsavethequeen', 'controlourborders', 'respectthenationlanthem']"
+712120,1178246736013336576,377769326,positive,remain,2019-09-29T09:54:47.000Z,"Trust is a fundamental element of social capital –a key contributor to sustaining well-being outcomes, incl. economic development
+
+Data from European countries shows trust in the political system is particularly low
+#Brexit
+#BritishIndependence
+#66Million
+
+https://t.co/5okVscjY91","['66million', 'britishindependence', 'brexit']"
+678821,1177668385729056768,343433446,negative,other,2019-09-27T19:36:37.000Z,@ecJulie @64brig @BlackwaterRive2 @UxbEconomist07 @BorisJohnson @Conservatives No more #virginatlantic #virginholudays for us. Other airlines are available. #brexit #brexitnow #stufftheEU #acceptthevote #BritishIndependence,"['acceptthevote', 'virginatlantic', 'brexit', 'britishindependence', 'brexitnow', 'stufftheeu', 'virginholudays']"
+273253,1172139782258024448,903363711485825024,positive,other,2019-09-12T13:27:56.000Z,"@MauriceOLeary1 @rawley_tom @afneil If it is of any interest, I have written a very quick summary of the law relating to Article 50, with links so you can read it yourself. 
+
+https://t.co/KYHb6fa9Ms
+
+#brexit #Brexitvote #BrexitParty #Brexiteers #BritishIndependence #article50 https://t.co/Lnwfxdal5Q","['article50', 'brexitparty', 'britishindependence', 'brexitvote', 'brexit', 'brexiteers']"
+737603,1178643068322492416,1018085394041265920,neutral,leave,2019-09-30T12:09:40.000Z,What us her position in government exactly? #BritishIndependence #Brexit #BackBoris https://t.co/xeta8pPIvW,"['backboris', 'brexit', 'britishindependence']"
+422032,1174321260261761024,1018085394041265920,negative,remain,2019-09-18T13:56:20.000Z,@maggies891 @Rinaldi_euro Here it is again....shutting down a speech they dont like EU in action....Italy are worried about who they are going to trade with EU dont want to hear it?...... reveals just how democratic the EU are please retweet #BritishIndependence #BackBoris #Brexit,"['backboris', 'brexit', 'britishindependence']"
+421451,1174314476964855808,1018085394041265920,negative,other,2019-09-18T13:29:23.000Z,This sums up the EU close down any debate......unless they want to talk about it! Disgusting retweet please #BritishIndependence #Brexit #BackBoris https://t.co/ISwyi1G3oE,"['backboris', 'brexit', 'britishindependence']"
+700359,1178022741917782016,1018085394041265920,neutral,remain,2019-09-28T19:04:42.000Z,@1maggiewinter @TelegraphNews He's right. #BritishIndependence #BackBoris #Brexit,"['backboris', 'brexit', 'britishindependence']"
+294728,1172434348445855744,254552007,positive,other,2019-09-13T08:58:26.000Z,@tweeting_keith You don’t say...good god you remoaners do not have any sense of humour and you cannot stop being condescending #BritishIndependence #BackBoris #Boris #Brexit,"['backboris', 'brexit', 'britishindependence', 'boris']"
+638793,1177215264443772928,1018085394041265920,positive,other,2019-09-26T13:36:05.000Z,"@BrexitBetrayed Tories don't need a conference their popularity or rather Boris's is rising by the minute, they will hammer the opposition in a GE........providing they do a proper brexit! #BackBoris #BritishIndependence #brexitfollowback","['backboris', 'brexitfollowback', 'britishindependence']"
+706678,1178198372341239808,272462821,positive,other,2019-09-29T06:42:36.000Z,"A very happy rainy Sunday morning to all brexit supporters. 
+I sense today might be the calm before the storm of the week ahead. 
+Remoaners are going to ramp up the prevention tactics this week.
+Keep your spirits up. We will win.
+#BackBoris #BritishIndependence","['backboris', 'britishindependence']"
+549342,1176441563678990336,1169527337802752000,positive,leave,2019-09-24T10:21:40.000Z,Boris do not resign under any circumstances! You are our last hope of democracy the people are waiting for you to deliver Brexit #backboris for #BritishIndependence,"['backboris', 'britishindependence']"
+431181,1174442912366714880,2806205453,neutral,leave,2019-09-18T21:59:45.000Z,"@Angela_C00k @AlienatedPeople @UKLabour Every time theirs one being interviewed 🤔I’m smiling and thinking what the f🤬 are they on about🤷‍♀️ car crash interview any moment ...never disappointed!
+
+I can’t make head nor arse of their brexit stance! 😂 
+
+@10DowningStreet #backboris 
+#BritishIndependence","['backboris', 'britishindependence']"
+487754,1175520241650216960,1051435500773548032,negative,remain,2019-09-21T21:20:40.000Z,@reeve_anthony @DanielJHannan Worry now how they can do it with terrible Parliament.They are out to screw Boris at every turn and screw Brexit. Even if they stop him leaving in October - they’ll still stop a GE incase he tries to leave in January.Itll be like GroundhogDay #BritishIndependence #BackBoris,"['backboris', 'britishindependence']"
+634450,1177178747163828224,1018085394041265920,positive,other,2019-09-26T11:10:58.000Z,People just want to get on with Brexit ... #BritishIndependence #BackBoris #brexit https://t.co/gzz5fppJHL,"['backboris', 'britishindependence', 'brexit']"
+218405,1171676781851631616,1018085394041265920,negative,other,2019-09-11T06:48:08.000Z,How stupid us this tweet! #BritishIndependence #brexit #BackBoris https://t.co/7hn2p9Q76H,"['backboris', 'britishindependence', 'brexit']"
+614873,1176963686885404672,2894882361,negative,other,2019-09-25T20:56:24.000Z,@thecarolemalone He’s absolutely spot on! Why should anyone vote again?! It is a disgrace! #brexit #britishindependence #backboris,"['backboris', 'britishindependence', 'brexit']"
+707158,1178205001199624192,790650786829234048,positive,other,2019-09-29T07:08:56.000Z,"@SKinnock @SkyNews “I want to deliver as good a Brexit as possible, to secure future of our democracy, &amp; to avoid no-deal disaster.”
+
+Stop lying. All you want to do is stop #Brexit. #GravyTrain 
+#BackBoris #BritishIndependence","['backboris', 'britishindependence', 'gravytrain', 'brexit']"
+590251,1176769778591178752,1133336333345316864,negative,remain,2019-09-25T08:05:53.000Z,"None will, because it's not about No Deal, it's about No Brexit. And they are all scared they would lose at a GE. That's the true reason to delay an Election. #BritishIndependence #BACKBORIS #LeaveOct31st @BorisJohnson @Conservatives","['backboris', 'britishindependence', 'leaveoct31st']"
+693587,1177925577497595904,2972872659,negative,remain,2019-09-28T12:38:37.000Z,"Vote Of No Confidence In Boris Johnson Could Be Held Next Week 
 
 If they manage to get him out, then we either sit back &amp; accept Brexit has gone or we get up &amp; fight for it! 
 
 @BorisJohnson @Jacob_Rees_Mogg #FightForBrexit #BritishIndependence #BackBoris 
 
-https://t.co/BVbeLER2Zs","['backboris', 'britishindependence', 'fightforbrexit']"
-9,9,9,580635,1176617027588513792,1133336333345316864,positive,other,2019-09-24T21:58:54.000Z,"@MPIainDS @Telegraph Indeed tomorrow, already plans to table SO24 motion to take control again. Undoubtedly to shackle further, add a chain plus wrecking ball too. It's the #PeoplevsParliament #BritishIndependence #BACKBORIS. Some Remainers are so smug and sneering.They care Not one jot about Brexit.","['backboris', 'britishindependence', 'peoplevsparliament']"
-10,10,10,573744,1176556957198684160,1096091315752849408,positive,other,2019-09-24T18:00:12.000Z,"Stephen Laws: Why today's Supreme Court ruling is a recipe for constitutional conflict | Conservative Home https://t.co/Il01rTXxqr 
+https://t.co/BVbeLER2Zs","['backboris', 'fightforbrexit', 'britishindependence']"
+527983,1176183550305079296,887376836472295424,neutral,leave,2019-09-23T17:16:25.000Z,"@Steven_Swinford What a farce - Labour can’t even carry out a vote at Conference on their Brexit position...how are we supposed to trust that they could run another Referendum?
 
-#4🇬🇧A😁REAL😁👍BREXIT👍🇬🇧#
-
-#BRITISHINDEPENDENCE
-#BACKBORIS4BREXIT 
-#PEOPLESPRIMEMINISTER 
-#LEAVEMEANSLEAVECOMPLETELY
-
-PLEASE READ &amp; RETWEET!👍🇬🇧","['backboris4brexit', '4ð\x9f\x87¬ð\x9f\x87§að\x9f\x98\x81realð\x9f\x98\x81ð\x9f\x91\x8dbrexitð\x9f\x91\x8dð\x9f\x87¬ð\x9f\x87§', 'britishindependence', 'leavemeansleavecompletely', 'peoplesprimeminister']"
-11,11,11,316054,1172767964606730240,966757385380474880,negative,other,2019-09-14T07:04:06.000Z,"11 months ago the EU forecast for Germany in 2019 was 1.8% GDP GROWTH.
+#BackBoris
+#StandUp4Brexit 
+#BritishIndependence","['backboris', 'standup4brexit', 'britishindependence']"
+316054,1172767964606730240,966757385380474880,negative,other,2019-09-14T07:04:06.000Z,"11 months ago the EU forecast for Germany in 2019 was 1.8% GDP GROWTH.
 
 Today Germany is in RECESSION after 3rd qtr estimates show further contraction. 
 
 STOP TELLING ME TO LISTEN TO THE ‘EXPERTS’. 
 
-#BritishIndependence #brexit #yellowhammer #backborris","['backborris', 'britishindependence', 'brexit', 'yellowhammer']"
-12,12,12,385443,1173808283834114048,47419120,positive,other,2019-09-17T03:57:57.000Z,"#BackDoorBoris
+#BritishIndependence #brexit #yellowhammer #backborris","['backborris', 'yellowhammer', 'britishindependence', 'brexit']"
+385443,1173808283834114048,47419120,positive,other,2019-09-17T03:57:57.000Z,"#BackDoorBoris
 Well done Boris. Nows the time to walk out on the EU who clearly disrespect our Country &amp; want to put us down at every turn 
 A Clean Break Brexit                    #BritishIndependence is the only way now.","['backdoorboris', 'britishindependence']"
-13,13,13,298981,1172472008342462464,794514563316191232,negative,other,2019-09-13T11:28:04.000Z,@richardplackett @TheSDPUK Perhaps it's time to organise a civil disobedience campaign - no more 'taxation' by the #BBC without representation #BritishIndependence,"['bbc', 'britishindependence']"
-14,14,14,457202,1174940608604950528,4784794821,positive,leave,2019-09-20T06:57:25.000Z,Great question time last night. Ed Davey and Charles Falconer completely dumbfounded when they come into contact with the public. So out of touch. #brexit #BritishIndependence #bbcqt,"['bbcqt', 'britishindependence', 'brexit']"
-15,15,15,286720,1172274426412503040,1452248792,negative,other,2019-09-12T22:22:57.000Z,Really #bbcqt is not worth watching a one sided remoaner anti majority programme #BritishIndependence #Brexit,"['bbcqt', 'britishindependence', 'brexit']"
-16,16,16,296742,1172452170941292544,307917928,negative,other,2019-09-13T10:09:15.000Z,Why can't #Bercow be removed now he is making threats against the democratic vote outside Parliament in a speech yesterday! @HouseofCommons #Brexit #BritishIndependence,"['bercow', 'britishindependence', 'brexit']"
-17,17,17,358350,1173476198481092608,877867878502019072,negative,other,2019-09-16T05:58:22.000Z,@The_Brexit_Bear @Nikkipage44 I'm from loughborough and we don't want her #BritishIndependence #bollockstobercow,"['bollockstobercow', 'britishindependence']"
-18,18,18,273832,1172144904715325440,243798443,neutral,other,2019-09-12T13:48:17.000Z,"£1.3bn contract for fleet of warships to 'bring shipbuilding home 🥳🇬🇧🥳🇬🇧🥳🇬🇧🥳
+298981,1172472008342462464,794514563316191232,negative,other,2019-09-13T11:28:04.000Z,@richardplackett @TheSDPUK Perhaps it's time to organise a civil disobedience campaign - no more 'taxation' by the #BBC without representation #BritishIndependence,"['bbc', 'britishindependence']"
+622978,1177107206048755712,252007655,positive,other,2019-09-26T06:26:42.000Z,"@BBCBreakfast @BBCNaga 
+I have watched this morning and you have deliberately focused on phrases and comments made in Parliament yesterday. You are fanning the flames of division because it suits your agenda. #BBCBias #BritishIndependence #Brexit","['bbcbias', 'brexit', 'britishindependence']"
+606358,1176891937850351616,724976417776259072,negative,other,2019-09-25T16:11:18.000Z,"@Channel4News Heseltine is President of the evil European Movement.  An organisation that is so evil broadcast journalists dare not mention it.
+
+See https://t.co/NjZG5orwlc
+
+#BritishIndependence #Brexit #bbcpm https://t.co/pXqXVMBwgr","['bbcpm', 'brexit', 'britishindependence']"
+457035,1174938291272990720,711591530427973632,negative,other,2019-09-20T06:48:12.000Z,#BritishIndependance #BritishIndependence #bbcqt #BBCQuestionTime #Brexit This the problem with a lot of MPs in parliament #ConservativeManBad give him a change before you start hating him for no reason. https://t.co/1TFu3CgqQt,"['bbcqt', 'brexit', 'britishindependence', 'bbcquestiontime', 'conservativemanbad', 'britishindependance']"
+650431,1177339437321265152,1257817368,positive,other,2019-09-26T21:49:30.000Z,@DarcyJanie @bbcquestiontime Ha ha.....  Just did exactly the same.  Will not listen to that woman! #ginamiller #BBCQuestionTime #qt #bbcqt @dealatrip 😎🇬🇧 #brexit #Leave #britishindependence,"['bbcqt', 'ginamiller', 'leave', 'britishindependence', 'bbcquestiontime', 'brexit', 'qt']"
+296742,1172452170941292544,307917928,negative,other,2019-09-13T10:09:15.000Z,Why can't #Bercow be removed now he is making threats against the democratic vote outside Parliament in a speech yesterday! @HouseofCommons #Brexit #BritishIndependence,"['bercow', 'britishindependence', 'brexit']"
+444267,1174666792641409024,966903620,positive,other,2019-09-19T12:49:22.000Z,"Utterly fabulous  ↓ #SirBillCash #SupremeCourt
+#BritishIndependence #BillOfRights #Brexit #WTOBrexit 
+#TheBrexitParty #ParliamentVsthePeople #BercowsRabble #r4today #lbc #skynews #c4news #5live #radio4 #BBCWorld #radio4 #BBCNews #wato #BBCwato https://t.co/vZVtfxopFn","['billofrights', 'r4today', 'c4news', 'britishindependence', '5live', 'bbcwato', 'skynews', 'lbc', 'bbcworld', 'parliamentvsthepeople', 'brexit', 'supremecourt', 'thebrexitparty', 'wtobrexit', 'radio4', 'bbcnews', 'bercowsrabble', 'wato', 'sirbillcash']"
+488706,1175548125756436480,17715104,negative,other,2019-09-21T23:11:28.000Z,"@Fox_Claire @Europarl_EN @LibDems #LibDemsWantTo 
+#BlockAnyDeal 
+#BlockPeoplesBrexit 
+#BlockGE 
+#LetThePeopleDecide 
+#BritishIndependence 
+
+Lib Dems working against the democratic majority who voted Leave &amp; beg Brussels to help block any deal, block BREXIT, while blocking a new GE. Is this Liberal or Democratic?","['blockpeoplesbrexit', 'libdemswantto', 'britishindependence', 'blockanydeal', 'letthepeopledecide', 'blockge']"
+488709,1175548158237126656,17715104,negative,other,2019-09-21T23:11:36.000Z,"#LibDemsWantTo 
+#BlockAnyDeal 
+#BlockPeoplesBrexit 
+#BlockGE 
+#LetThePeopleDecide 
+#BritishIndependence 
+
+Lib Dems working against the democratic majority who voted Leave &amp; beg Brussels to help block any deal, block BREXIT, while blocking a new GE. Is this Liberal or Democratic? https://t.co/x9VzEpQpql","['blockpeoplesbrexit', 'libdemswantto', 'britishindependence', 'blockanydeal', 'letthepeopledecide', 'blockge']"
+358350,1173476198481092608,877867878502019072,negative,other,2019-09-16T05:58:22.000Z,@The_Brexit_Bear @Nikkipage44 I'm from loughborough and we don't want her #BritishIndependence #bollockstobercow,"['bollockstobercow', 'britishindependence']"
+363899,1173524529580261376,815235053626093440,negative,remain,2019-09-16T09:10:25.000Z,"@purrfect1509 @piersmorgan @GMB @joswinson She said this morning Paddy Ashdown wanted to cancel #Brexit. I was absolutely furious, how can she use and LIE about a predecessor leader of her own party. she is beneath contempt. #JoSwinson #LibDems #bollockstobrexit #LeaveAlliance #BritishIndependence  #GeneralElection2019 https://t.co/aUPNI5WG1Z","['bollockstobrexit', 'leavealliance', 'britishindependence', 'libdems', 'joswinson', 'brexit', 'generalelection2019']"
+273832,1172144904715325440,243798443,neutral,other,2019-09-12T13:48:17.000Z,"£1.3bn contract for fleet of warships to 'bring shipbuilding home 🥳🇬🇧🥳🇬🇧🥳🇬🇧🥳
 
 Keep going #Boris! 
 #BritishIndependence  https://t.co/HMMewJGvNW","['boris', 'britishindependence']"
-19,19,19,294728,1172434348445855744,254552007,positive,other,2019-09-13T08:58:26.000Z,@tweeting_keith You don’t say...good god you remoaners do not have any sense of humour and you cannot stop being condescending #BritishIndependence #BackBoris #Boris #Brexit,"['boris', 'britishindependence', 'backboris', 'brexit']"
-20,20,20,640012,1177228194648342528,1257817368,negative,remain,2019-09-26T14:27:28.000Z,@pwete1 @SkyNews @SamCoatesSky Getting so petty now 🙄 whatever next @dealatrip 😎🇬🇧 #brexit #leave #BritishIndependence #BorisJohnsonPM,"['borisjohnsonpm', 'britishindependence', 'brexit', 'leave']"
-21,21,21,451996,1174778067266543616,1257817368,negative,remain,2019-09-19T20:11:32.000Z,"@OutragedMary @BorisJohnson Boris must know that, I'm sure he has a handle on it 😎  @dealatrip #brexit #Leave #BritishIndependence #BorisJohnsonPM 😎🇬🇧","['borisjohnsonpm', 'leave', 'britishindependence', 'brexit']"
-22,22,22,210181,1171496643281047552,782865319446601728,negative,remain,2019-09-10T18:52:19.000Z,@labourlewis I watched it live - you were anything but - you brought disgrace on the House. The only silenced people are the Brexit voters. #britishindependence #borispeoplespm,"['borispeoplespm', 'britishindependence']"
-23,23,23,614873,1176963686885404672,2894882361,negative,other,2019-09-25T20:56:24.000Z,@thecarolemalone He’s absolutely spot on! Why should anyone vote again?! It is a disgrace! #brexit #britishindependence #backboris,"['brexit', 'backboris', 'britishindependence']"
-24,24,24,285874,1172265447846289408,41415976,positive,leave,2019-09-12T21:47:17.000Z,Glad he says was because its an indication of his acceptance were leaving 31/10 #brexit #britishindependence https://t.co/i9MmMtced7,"['brexit', 'britishindependence']"
-25,25,25,337626,1173145883887722496,340868527,positive,remain,2019-09-15T08:05:49.000Z,"@guyverhofstadt @joswinson #brexit may have created the biggest pro-EU movement but it is nowhere near as big as the anti-EU movement. #britishindependence will come, if not Oct then certainly after the next General Election!","['brexit', 'britishindependence']"
-26,26,26,240298,1171832216411938816,1031950356169809920,positive,other,2019-09-11T17:05:46.000Z,"Post #Brexit, with careful regulation, the UK is perfectly positioned to be a global leader in the industries of the future. 🌍🧪
+249169,1171899624547704832,2457146785,positive,leave,2019-09-11T21:33:37.000Z,Hopefully #BorisJohnson will deliver #Brexit in full on October 31st 2019. I am looking forward to #BritishIndependence - Bring it on.,"['borisjohnson', 'brexit', 'britishindependence']"
+566446,1176510669149167616,41679521,positive,remain,2019-09-24T14:56:16.000Z,"I STAND WITH OUR PRIME MINISTER #BorisJohnson #BritishIndependence #Brexit 
+Like and retweet if u feel the same! 💪","['borisjohnson', 'brexit', 'britishindependence']"
+210707,1171504746013720576,1143600176,neutral,other,2019-09-10T19:24:31.000Z,"@haveigotnews The public aren't allowed into the dinning rooms in the HoP, if they were, #BorisJohnson would have 17.4 million allies dinning with him. 
+#DownWithRemonstreamMedia
+#BritishIndependence
+#Brexit","['borisjohnson', 'brexit', 'britishindependence', 'downwithremonstreammedia']"
+680940,1177695662386925568,1257817368,negative,leave,2019-09-27T21:25:01.000Z,"@JuliaHB1 @RathboneKim The opposition parties are showing they are scared of taking on #borisjohnson at the ballot box. If they avoid him they will run into #NigelFarage #BrexitParty 🙄 Either way, they lose 🥳 so what are they waiting for 🤔 @dealatrip 😎🇬🇧 #brexit #BritishIndependence #BrexitBetrayal","['borisjohnson', 'brexitparty', 'britishindependence', 'brexitbetrayal', 'brexit', 'nigelfarage']"
+308987,1172587842104700928,1162387720477519872,neutral,remain,2019-09-13T19:08:21.000Z,@heidiallen75 @unitetoremain I’m going to take a guess that @heidiallen75 takes this pinned tweet down in the next 2 months #BritishIndependence #brexit #BorisJohnson,"['borisjohnson', 'britishindependence', 'brexit']"
+459644,1174972139012624384,1257817368,negative,remain,2019-09-20T09:02:42.000Z,@falgal @JohnnyTYKE @brexitwarrior Scotland under the SNP has a similar issue with them up to every trick in the book to indoctrinate young people 😡 the EU is another project with many subversive undertones making people feel in hoc to them 🙄 @dealatrip #Brexit #Leave #BritishIndependence #BorisJohnson 😎🇬🇧,"['borisjohnson', 'britishindependence', 'brexit', 'leave']"
+317997,1172786372651995136,599225925,neutral,other,2019-09-14T08:17:15.000Z,"@OxfordDiplomat Highwayman #BorisJohnson Said he would STAND for Parliament and will DELIVER Brexit! 
+#BritishIndependence
+#PanamaPapers
+Panama, Hong Kong, Isle of Man, Guernsey and Jersey #dreamsculptor©
+https://t.co/vQlykMHUEh","['borisjohnson', 'britishindependence', 'dreamsculptor©', 'panamapapers']"
+659068,1177495778689863680,343433446,negative,remain,2019-09-27T08:10:45.000Z,#GinaMiller handing the UK #WTOBrexit #brexit!! .... oh the irony! #BritishIndependence #brexitopportunities #stufftheEU #brexitnow.  #BorisJohnson to note!! https://t.co/qy3n62Ca9S,"['borisjohnson', 'ginamiller', 'britishindependence', 'brexitopportunities', 'brexitnow', 'wtobrexit', 'brexit', 'stufftheeu']"
+378829,1173666316915499008,3098707774,negative,other,2019-09-16T18:33:50.000Z,"The incredible #Hulk is #green with #rage, he will soon be #red with #shame.
+#Brexit #BorisJohnson #BoJo #BritainFirst #BritishIndependence #Britain #BritishIndependance @AlexTaylorNews https://t.co/rgTRycbB3C","['borisjohnson', 'green', 'brexit', 'britishindependence', 'red', 'bojo', 'britainfirst', 'shame', 'hulk', 'britishindependance', 'britain', 'rage']"
+677604,1177654123996561408,427722282,positive,other,2019-09-27T18:39:57.000Z,"@JuliaHB1 @jessphillips is such an inspirational role model.
+
+Her family must be so proud.
+
+#PotKettle #JessPhillips #BritishIndependence #BorisJohnson #Brexit #DontSayHumbug https://t.co/3J6SHg8Qwb","['borisjohnson', 'jessphillips', 'brexit', 'britishindependence', 'dontsayhumbug', 'potkettle']"
+401259,1174000591699398656,815235053626093440,neutral,remain,2019-09-17T16:42:07.000Z,John Major takes to the stand at the   #SupremeCourtFacts #SupremeCourtLive #Prorogation #BorisJohnson #brexit #LeaveAlliance #BritishIndependence https://t.co/UOwxAwQQli,"['borisjohnson', 'leavealliance', 'britishindependence', 'prorogation', 'supremecourtfacts', 'brexit', 'supremecourtlive']"
+383946,1173732800438112256,20339671,negative,remain,2019-09-16T22:58:01.000Z,@Xavier_Bettel @BorisJohnson @gouv_lu I can see why you don't want us to leave but we've got such a bad deal it's time to go independent! #Brexit #BritishIndependence #BorisJohnson #LeaveMeansLeave #Luxembourg #UK https://t.co/vZNFvI6RLY,"['borisjohnson', 'leavemeansleave', 'britishindependence', 'brexit', 'luxembourg', 'uk']"
+485945,1175478946059771904,1257817368,negative,remain,2019-09-21T18:36:34.000Z,"Poll about how Brexit is going to pan out (this time):
+#brexit #leave #LeaveOct31st #LeaveMeansLeave #BritishIndependence #Boris #BorisJohnson #NoDeal #NoDealReady #NoDealBrexit #LeaveAlliance #brexitopportunities @dealatrip 😎🇬🇧 https://t.co/RVh7wdUaqc","['borisjohnson', 'leaveoct31st', 'leavemeansleave', 'nodealready', 'britishindependence', 'leavealliance', 'boris', 'nodealbrexit', 'brexitopportunities', 'nodeal', 'brexit', 'leave']"
+271184,1172124120965898240,1152880519547408384,positive,other,2019-09-12T12:25:42.000Z,"If a clean break brexit could be secured, BUT only if we give northern Ireland back to the republic, would you do it? #Brexit #Yellowhammer #RecallParliamentNow #BritishIndependence #operationyellowhammer #BorisJohnson #NigelFarage @Conservatives @brexitparty_uk @Nigel_Farage","['borisjohnson', 'operationyellowhammer', 'britishindependence', 'brexit', 'yellowhammer', 'nigelfarage', 'recallparliamentnow']"
+379308,1173671838045675520,1005578737281372032,neutral,leave,2019-09-16T18:55:46.000Z,"The Population of #Luxemburg is  roughly 600,000
+
+That's 3.4% of the total number of people who voted for #BritishIndependence
+
+Britain would Never do that to a visiting #PrimeMinister. But just watch the polls, I bet #BorisJohnson gets a bounce because of today's events
+
+#Brexit","['borisjohnson', 'primeminister', 'brexit', 'britishindependence', 'luxemburg']"
+560487,1176479268752244736,1257817368,positive,other,2019-09-24T12:51:30.000Z,@SkyNews #BorisJohnson is a great #ambassador for the #UK 🇬🇧 he's like a prize fighter who gets punched by #remainers but is straight back on his feet again! 🙂 We could not have a better person in charge of getting #brexit delivered and #BritishIndependence restored 👏👍 @dealatrip 😎🇬🇧,"['borisjohnson', 'remainers', 'ambassador', 'britishindependence', 'brexit', 'uk']"
+283839,1172239286860754944,1005578737281372032,neutral,other,2019-09-12T20:03:19.000Z,"The Government has ordered for 5 new #RoyalNavy frigates to be produced in Britain 🇬🇧 
+
+After #Brexit all All Royal Armed Forces manufacturing, should be completed In full, In Britain!
+
+#BorisJohnson
+#ThursdayThoughts
+#BritishIndependence","['borisjohnson', 'thursdaythoughts', 'brexit', 'britishindependence', 'royalnavy']"
+451996,1174778067266543616,1257817368,negative,remain,2019-09-19T20:11:32.000Z,"@OutragedMary @BorisJohnson Boris must know that, I'm sure he has a handle on it 😎  @dealatrip #brexit #Leave #BritishIndependence #BorisJohnsonPM 😎🇬🇧","['borisjohnsonpm', 'britishindependence', 'leave', 'brexit']"
+618432,1176991802131406848,1118179958860517120,negative,remain,2019-09-25T22:48:07.000Z,"Yes, I think @IanBlackfordMP is a twat. And furthermore I'm sick of listening to him constantly droning on about nothing. He's a complete empty suit! 
+
+#BritishIndependence #Brexit #borisjohnsonspeech https://t.co/Gvx4uJ6hhw","['borisjohnsonspeech', 'brexit', 'britishindependence']"
+303093,1172517433816559616,711591530427973632,neutral,other,2019-09-13T14:28:35.000Z,#BritishIndependence #PeoplesPrimeMinster #peoplesparliament #BorisLiedToTheQueen #Brexitvote #YellowHammer #LeaveAlliance #PeoplesPrimeMinister #TommyRobinson Boris Johnson 'won't be deterred' from Brexit on 31 October and the remoaners can get over it https://t.co/nu0ddQdGYU,"['borisliedtothequeen', 'peoplesparliament', 'peoplesprimeminster', 'peoplesprimeminister', 'britishindependence', 'brexitvote', 'leavealliance', 'tommyrobinson', 'yellowhammer']"
+210181,1171496643281047552,782865319446601728,negative,remain,2019-09-10T18:52:19.000Z,@labourlewis I watched it live - you were anything but - you brought disgrace on the House. The only silenced people are the Brexit voters. #britishindependence #borispeoplespm,"['borispeoplespm', 'britishindependence']"
+340119,1173166690017918976,723271016538091520,negative,remain,2019-09-15T09:28:29.000Z,Bad news for remainers today as #BoycottWetherspoons is still trending so christ knows where they're going to go for their Sunday roast? Still more room for me and Ethel! Xx #Brexit #leaveallience #BritishIndependence,"['boycottwetherspoons', 'britishindependence', 'brexit', 'leaveallience']"
+347917,1173250639972974592,1007691207072534400,negative,leave,2019-09-15T15:02:05.000Z,"@LeaveEUOfficial @StJosephsSlough Yep! I've caught teachers on Twitter, from certain schools, who were gloating of doing similar things. Example attached. He assured me he wasn't pushing an agenda. I believed him.🤥
+
+#Brainwashing - #BritishIndependence - #Brexit https://t.co/Xp57oRov7h","['brainwashing', 'brexit', 'britishindependence']"
+251950,1171925942274596864,1168783665217847296,negative,leave,2019-09-11T23:18:12.000Z,@VivaPipLeaver @Tricky_1 #OrwellMayhem has been trending in the UK for years now. It's just been hiding behind many masks. #Prorogation #Brexit #Prorogation #Yellowhammer #Brexitvote #Brexiteers #BritishIndependence #BrexitNow and so on,"['brexit', 'brexitvote', 'prorogation', 'britishindependence', 'brexitnow', 'orwellmayhem', 'yellowhammer', 'brexiteers']"
+254222,1172009498090717184,489129133,positive,remain,2019-09-12T04:50:13.000Z,#BritishIndependence - Fun new hashtag going around! I like it! I also kinda like the idea of Britain being able to do business with Australia without having to go through the EU first! Also saw someone propose #BrIndy instead opf #Brexit - cute! 🤣,"['brexit', 'brindy', 'britishindependence']"
+398452,1173961491646701568,246133609,positive,other,2019-09-17T14:06:45.000Z,"When Jo #BrexitChaos Swinson @joswinson gives a speech (that's every time she speaks) she always seems like a headmistress telling off naughty students 
+#BritishIndependence 
+#BringOnBrexit 
+#Brexit https://t.co/LtYYRRNB0a","['brexit', 'bringonbrexit', 'britishindependence', 'brexitchaos']"
+291843,1172408322030370816,295670809,neutral,remain,2019-09-13T07:15:00.000Z,"@Gary_M_Wilkes I can see a time when, if we were to remain in the #EU, a veteran (like myself) tells a young person he was in the #britisharmy and the response is ""What's that?"" #Brexit #BritishIndependence","['brexit', 'britisharmy', 'eu', 'britishindependence']"
+319910,1172803933040889856,1118179958860517120,negative,other,2019-09-14T09:27:01.000Z,"The bias at the BBC is unbearable. And then you get overpaid idiots (such as ex footballers) telling you what to do. I've not watched the BBC for months. 
+
+#BritishIndependence 
+#Brexit https://t.co/K90qwdgfIE","['brexit', 'britishindependence']"
+243188,1171858508427472896,2870350781,neutral,other,2019-09-11T18:50:15.000Z,@IanCharlesUK @infoukphotodis1 #BritishIndependence is what #Brexit is all about.,"['brexit', 'britishindependence']"
+610263,1176926848271486976,1356488054,neutral,other,2019-09-25T18:30:01.000Z,@MaziAguEast @talkRADIO @EamonnHolmes @jon_trickett What a ridiculous moronic comment...The far left and common  sense do not go together lol #BritishIndependence #Brexit,"['brexit', 'britishindependence']"
+284630,1172248496927399936,865412954,positive,remain,2019-09-12T20:39:55.000Z,"@joswinson Still spinning lies eh? Clever - not. Could you please let us know when you plan changing your party's name to ""The British Fascist Party""? It is a more fitting name. #BritishIndependence #Brexit","['brexit', 'britishindependence']"
+601843,1176847055794376704,4866242493,positive,other,2019-09-25T13:12:57.000Z,"@Geoffrey_Cox you BEAUTY!!! 😍😍
+#BritishIndependence 
+#Brexit https://t.co/Zy0jUxRAHR","['brexit', 'britishindependence']"
+307967,1172574077241962496,302855021,negative,remain,2019-09-13T18:13:40.000Z,"@LeaveEUOfficial If @BorisJohnson is stupid enough not to form a pact with @Nigel_Farage @brexitparty_uk as the situation stands at present, then he deserves to lose a general election quite frankly! #BritishIndependence #Brexit","['brexit', 'britishindependence']"
+370488,1173586334126153728,1545543349,neutral,other,2019-09-16T13:16:00.000Z,@Conservatives makes sense to this ex tory voter #BritishIndependence #Brexit 🇬🇧✌️ https://t.co/WUW9q7R6XN,"['brexit', 'britishindependence']"
+318804,1172794196618559488,723271016538091520,positive,other,2019-09-14T08:48:20.000Z,@jessphillips Your hypocrisy is unbelievable. at least @BorisJohnson is out and about and being put on the spot by some yet you and your mob don't leave your safe havens or give it Johnny big potatoes from your phone! Give us an election so the people CAN rule! #BritishIndependence #Brexit,"['brexit', 'britishindependence']"
+576437,1176578039955824640,4866242493,negative,leave,2019-09-24T19:23:59.000Z,"@GrumpyOldMan55 We voted to leave the EU. 
+NATO doesn't negotiate trade deals for the UK or any member neither does the UN. 
+Stop being an ignoramus. 😂🤡
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence']"
+548228,1176438835959488512,131457057,neutral,leave,2019-09-24T10:10:50.000Z,RIP British Democracy. #BritishIndependence #Brexit,"['brexit', 'britishindependence']"
+658537,1177491849159663616,4866242493,positive,other,2019-09-27T07:55:08.000Z,"@robert_ll_mj @fbpe_jojo77 @Disruptingb You're a little bit far away sir! 
+If you want to be a bigot that's your choice. 
+We don't live in the Eurozone! 😉👍
+#BritishIndependence 
+#Brexit 
+https://t.co/RsrVK7o6jh","['brexit', 'britishindependence']"
+564188,1176497253927870464,1118179958860517120,positive,other,2019-09-24T14:02:58.000Z,"@Peston Impressed Robert? I'm completely outraged. I cannot even describe how I'm feeling right now and for you to suggest this is impressive makes me even more angry. Like the rest of the MSM, you've completely ignored the mood of the country. 
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+477410,1175331559865573376,1113898497357623296,positive,leave,2019-09-21T08:50:55.000Z,"Lord please take UK out of EU on 31 October 2019 smoothly, safely, without any issues. Set this country free forever and bless British people and their leaders
+
+@BorisJohnson
+ @Jacob_Rees_Mogg
+@Nigel_Farage 
+
+In Jesus Name we pray!
+
+Amen
+
+#BritishIndependence
+#Brexit","['brexit', 'britishindependence']"
+437504,1174599767286042624,1118179958860517120,negative,other,2019-09-19T08:23:02.000Z,"@grose_lord @EndHowards You forgot to mention that he cheated on his wife. So he's hardly a paragon of virtue ....
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+275472,1172160235336871936,905117480393297920,negative,other,2019-09-12T14:49:12.000Z,"@john4brexit @keithdahacker Yellowhammer is - and this is worth repetition - a WORST CASE SCENARIO and part of sensible WORST CASE SCENARIO planning.
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+378919,1173667165351874560,142587336,negative,other,2019-09-16T18:37:12.000Z,"@guyverhofstadt @Xavier_Bettel Absolutely pathetic!  
+
+You are talking about our PM here! How dare you!!!!!!!!
+
+Btw  How’s yourEmpire going!
+
+#BritishIndependence #Brexit x 17.4 million!","['brexit', 'britishindependence']"
+240298,1171832216411938816,1031950356169809920,positive,other,2019-09-11T17:05:46.000Z,"Post #Brexit, with careful regulation, the UK is perfectly positioned to be a global leader in the industries of the future. 🌍🧪
 
 Despite the hysteria of the Islington set, venture capital investment into UK AI increased over SIXFOLD last year alone.💻
 
 #BritishIndependence","['brexit', 'britishindependence']"
-27,27,27,580088,1176611506391310336,2566263529,positive,other,2019-09-24T21:36:58.000Z,"""the only way of ending this thing once and for all is through a 'no deal' #Brexit.""
+260341,1172057407880646656,1088054607576776832,neutral,other,2019-09-12T08:00:36.000Z,"Can someone inform @AmberRuddHR you are now an Independent MP not  @Conservatives Independent. There is a difference.
+
+Your on your own Mrs! 🙂
+
+#BritishIndependence #Brexit 🇬🇧🇬🇧🇬🇧","['brexit', 'britishindependence']"
+284473,1172246633846857728,865412954,neutral,other,2019-09-12T20:32:31.000Z,@SteveBakerHW I'm in a Conservative constituency but I have a message for @BorisJohnson. Perhaps you could pass it along? #BritishIndependence #Brexit https://t.co/XZFMSRBQGe,"['brexit', 'britishindependence']"
+307484,1172567719755100160,77447379,neutral,remain,2019-09-13T17:48:24.000Z,"@billy_na_mates @natts @DavidLammy @UKLabour They’ll agree and the anti-democratic MPs will seek to hold another referendum with a crap deal and remain.
+
+Just remember what ever happens the way to leave will be to elect a strong #BritishIndependence Parliament that actually want to be the ones to Govern the UK. #Brexit","['brexit', 'britishindependence']"
+380392,1173684000814174208,142587336,negative,other,2019-09-16T19:44:06.000Z,"Tonight I left a message on the Luxembourg Embassy website to express my disgust on how our PM @BorisJohnson was treated today in their country.
+
+If you want to do the same the website can be found here....
+
+https://t.co/mFTa4YR9aU
+
+#BritishIndependence
+
+#Brexit","['brexit', 'britishindependence']"
+459444,1174969762914263040,15261672,negative,other,2019-09-20T08:53:16.000Z,"""You should know better, you're an immigrant"" &lt;- says the utter racist.  Someone lock this good for nothing prick up #BritishIndependence #Brexit https://t.co/zIv5KsP9Xa","['brexit', 'britishindependence']"
+646512,1177294295440809984,828914963209129984,positive,remain,2019-09-26T18:50:07.000Z,"Watching the @brexitparty_uk event live. The feed is full of condescending comments like this from @JungleCanopy who clearly thinks all Brexiteers are thick and can’t cope with polysyllabic words. 
+
+You’re the reason we want to leave @JungleCanopy 
+
+#BritishIndependence #Brexit https://t.co/pbQlOoWuwH","['brexit', 'britishindependence']"
+229866,1171746795933917184,771369493406810112,neutral,other,2019-09-11T11:26:20.000Z,Delighted to see Scotland's Court of Session defending #BritishIndependence and Sovereignty of Parliament from a cabal of #Brexit criminals.,"['brexit', 'britishindependence']"
+726212,1178434488864579584,953375195372367872,negative,remain,2019-09-29T22:20:51.000Z,"@PeteBlanchard @DavidHazie @CBItweets You mean if these people lose there houses or jobs, they might get pay rises, which is happening now, just as the unemployment is dropping. Unless of course you look at the other 27 nations, where unemployment is rising. You forgot to mention this.
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence']"
+236323,1171797622757167104,63890279,negative,other,2019-09-11T14:48:18.000Z,"'Call upon our politicians and media to drop a language of fear and be a lot more tolerable to each other.' SO RELEVANT #BritishIndependence #Brexit
+https://t.co/t72a909koD","['brexit', 'britishindependence']"
+360340,1173496498597838848,1118179958860517120,negative,leave,2019-09-16T07:19:02.000Z,"@theboyjai What an appalling individual. You should be ashamed @DavidLammy ... this is exactly the type of comment that puts people off politicians. 
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+317385,1172780918395809792,1125466842821218432,negative,remain,2019-09-14T07:55:34.000Z,@JuliaHB1 Oh @jeremycorbyn that's gotta hurt #BritishIndependence #Brexit,"['brexit', 'britishindependence']"
+266803,1172094977624748032,747070162315149312,positive,remain,2019-09-12T10:29:53.000Z,"@TiceRichard Boris standing up for #BritishIndependence is a ruse, its only purpose is designed to somehow win back support from TBP in the hope they can salvage their party with the sympathy vote without delivering #Brexit","['brexit', 'britishindependence']"
+389023,1173864250336522240,142587336,negative,remain,2019-09-17T07:40:21.000Z,"In the bizarre world of the Remainer everything the EU says is absolute truth and everything our Government says are total lies!
+
+I know where the truth resides!
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+716709,1178295071487213568,351801057,positive,other,2019-09-29T13:06:51.000Z,"@Lindaukc21 @tmt_QGM @LeslieH24367191 Yes it is! He's the only one willing to carry out #Brexit and win us #BritishIndependence.  You will find, in spite of his shortcomings,  he grows in popularity day by day. Let's face it hun, both Corbyn and Swinson  are currently lying through their teeth!","['brexit', 'britishindependence']"
+580088,1176611506391310336,2566263529,positive,other,2019-09-24T21:36:58.000Z,"""the only way of ending this thing once and for all is through a 'no deal' #Brexit.""
 https://t.co/H7LJSnGlp7
 U.K. Supreme Court Dismantles Boris' Brexit Plan
 #BritishIndependence","['brexit', 'britishindependence']"
-28,28,28,337219,1173141546381860864,340868527,negative,leave,2019-09-15T07:48:35.000Z,@andrew_lilico If Remainers think that revoking Art50 will kill off #brexit #britishindependence then they are even more deluded than ever!,"['brexit', 'britishindependence']"
-29,29,29,468207,1175094344774291456,2195857762,positive,other,2019-09-20T17:08:18.000Z,"@SupportOurLefty I'm lucky enough to live within a short distance of three Spooneys, all very friendly, clean, cheap and excellent service
-Ruddles 1.89 a pint and 1.39 on Tim's brexit special day..
-The ideal places to discuss benefits of #britishindependence 
-#brexit
-and how daft Remainers are...","['brexit', 'britishindependence']"
-30,30,30,318655,1172792894257807360,4869320122,neutral,other,2019-09-14T08:43:10.000Z,@novonordisk @neko_mellor Oh look #RemainAlliance ... It's called mitigation #BritishIndependence #BrexitOpportunities #brexit,"['brexit', 'britishindependence', 'brexitopportunities', 'remainalliance']"
-31,31,31,298121,1172463667155218432,1161646846365904896,positive,remain,2019-09-13T10:54:56.000Z,"@DVATW @SGH_Guitars The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
+206246,1171442660994777088,1155744659613859840,neutral,other,2019-09-10T15:17:49.000Z,"@MoggMentum #BritishIndependence ? Yes !
+But what is the sense of #Brexit if it means 
+- more Pakistanis and less Polishs ?
+- more US and less Europe ?
+- more ease for big-money and less defense of the humbles ?
+#BritishIndependence 1000xYes but Stop The Scam !","['brexit', 'britishindependence']"
+382407,1173709847692488704,142587336,positive,remain,2019-09-16T21:26:48.000Z,"@OxfordDiplomat You will be on the wrong side of history on this one! 
 
-Retweet. Get #LeaveAlliance trending. https://t.co/SV9EYsfgq1","['brexit', 'britishindependence', 'leavealliance']"
-32,32,32,380330,1173683298478022656,1176458989,positive,remain,2019-09-16T19:41:18.000Z,"@tomhfh @JuliaHB1 The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
+Good to see one of our great University’s employing EU sycophants so readily! 
 
-Retweet. Get #LeaveAlliance trending. https://t.co/XUu0kigeD0","['brexit', 'britishindependence', 'leavealliance']"
-33,33,33,459545,1174970981112139776,1161646846365904896,positive,remain,2019-09-20T08:58:06.000Z,"@Nigel_Farage Most people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧
-Retweet. Get #LeaveAlliance and #BritishIndependence trending. https://t.co/wtH3HNa1ch","['brexit', 'britishindependence', 'leavealliance']"
-34,34,34,297905,1172461817144238080,1161646846365904896,positive,remain,2019-09-13T10:47:35.000Z,"@SteveBarclay The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+282755,1172227518629179392,633200900,negative,other,2019-09-12T19:16:34.000Z,"Remember, no taxation without representation. Britain needs to flee from the EU. #BritishIndependence #Brexit","['brexit', 'britishindependence']"
+517938,1176078523922038784,778299955849072640,neutral,remain,2019-09-23T10:19:05.000Z,"@rtwith It is the reality at the back of Jo Swinson's Messiah pose:
 
-Retweet. Get #LeaveAlliance trending. https://t.co/xMbLQELjq1","['brexit', 'britishindependence', 'leavealliance']"
-35,35,35,298306,1172465338459525120,1161646846365904896,positive,remain,2019-09-13T11:01:34.000Z,"@Diana_Kempster @MilneCharlotte1 The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
+#BritishIndependence #Brexit 
+
+https://t.co/X8vA19Dh8V","['brexit', 'britishindependence']"
+249007,1171898577645424640,19705398,neutral,other,2019-09-11T21:29:28.000Z,"@FT Pity they won't be able to help the UK next time .
+#BritishIndependence 
+#Brexit https://t.co/Q3QP4rBww3","['brexit', 'britishindependence']"
+507146,1175921766704799744,303242615,positive,other,2019-09-22T23:56:11.000Z,"@DavidLammy do you want to be on the same side as George Osborne, Michael Heseltine, Dominic Grieve, Tony Blair, Richard Branson, Bob Geldof and David Cameron, or lead a political group in favour of Goldman Sachs etc against the working people?
+#BritishIndependence #Brexit https://t.co/OHPvUZmpRD","['brexit', 'britishindependence']"
+285515,1172261016102756352,857922020,neutral,other,2019-09-12T21:29:40.000Z,"@WinterfellT @leaversofdorset Why should we use #BritishIndependence ?
+Or rather why should we not use #BritishIndependence as #BritishIndependence has so much me meaning than #Brexit","['brexit', 'britishindependence']"
+285281,1172257719518146560,865412954,neutral,other,2019-09-12T21:16:34.000Z,"Some common sense at last.
+
+#BritishIndependence #Brexit https://t.co/C68dJYf7Up","['brexit', 'britishindependence']"
+288094,1172295841379487744,1972918141,positive,other,2019-09-12T23:48:03.000Z,"@jreynoldsMP Just watched Capture! So photographic evidence can be faked!? Nothing new there and btw, Capture was more fun than you. Still wait long enough and you’ll see #BritishIndependence restored to its rightful place! #Brexit","['brexit', 'britishindependence']"
+475308,1175306989653639168,2583603211,positive,leave,2019-09-21T07:13:17.000Z,"@BorisJohnson Lord please take UK out of EU on 31 October 2019 smoothly, safely, without any issues. Set this country free forever and bless British people and their leaders
+
+@BorisJohnson 
+@Jacob_Rees_Mogg
+@Nigel_Farage
+@MarkFrancois12.
+
+In Jesus Name we pray!
+
+#BritishIndependence
+#Brexit","['brexit', 'britishindependence']"
+735203,1178618308968554496,1058297529320833024,negative,remain,2019-09-30T10:31:17.000Z,#BritishIndependence #Brexit sounds about right for these anti democratic idiots https://t.co/8Nf9owETAw,"['brexit', 'britishindependence']"
+331522,1172973802806009856,3349848874,neutral,other,2019-09-14T20:42:02.000Z,@MoggMentum #Brexit is easier to say than #BritishIndependence. Two syllables as opposed to six.,"['brexit', 'britishindependence']"
+437412,1174598672761446400,1118179958860517120,neutral,remain,2019-09-19T08:18:41.000Z,"@jodieshroder @EndHowards Not sure, but it seems they might have hit a nerve?  
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+480331,1175370120832671744,223243811,negative,other,2019-09-21T11:24:08.000Z,"@piablepebble My opinion is based on experience. Propaganda, influences  BOTH sides (Remain/Leave).We now have two opposing groups being pitted against one another facilitated and whipped up by the many anti-establishment figures within Parliament! #BritishIndependence #Brexit 🇬🇧🇬🇧🇬🇧","['brexit', 'britishindependence']"
+516967,1176070295674900480,4866242493,neutral,leave,2019-09-23T09:46:23.000Z,"@MarkMyWordsJCPM Under EU rules we can't give state aid to any industry.
+Meanwhile we've paid the EU over £5,000,000,000 since we should have left in March! 😂🤡👍
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence']"
+538556,1176377237832183808,1051435500773548032,negative,other,2019-09-24T06:06:04.000Z,The millions in EU funding the BBC tried to hide | Coffee House Please RT the hell out of this..  #BritishIndependence #Brexit # ⁦@Telegraph⁩  https://t.co/bMtytsyRzL,"['brexit', 'britishindependence']"
+309939,1172601110776995840,18326284,positive,leave,2019-09-13T20:01:05.000Z,"#BritishIndependence = English Nationalism. There is no and never has been a ""British"" nation. Britain was a successful experiment as a Union of Nations. 
+Not for much longer. 
+#Brexit will result in the dissolution of the UK. 
+The independence of Scotland.
+A reunited Ireland.","['brexit', 'britishindependence']"
+288135,1172296493509894144,458264478,positive,other,2019-09-12T23:50:38.000Z,"@OxfordDiplomat As an IRISH academic you should fully appreciate people in the UK wanting #BritishIndependence &amp; detachment from the latest Empire builder - the eu
+MOST previous members of the BritishEmpire fully understand our desire for #Brexit","['brexit', 'britishindependence']"
+377263,1173649560880713728,2762359868,positive,other,2019-09-16T17:27:15.000Z,@SkyNewsPolitics I’m hoping he begged you not to extend... just get us out!!! #BritishIndependence #Brexit,"['brexit', 'britishindependence']"
+300469,1172487131228528640,204473477,positive,other,2019-09-13T12:28:10.000Z,"I have a very real question for the #BritishIndependence and #Brexit lot.
+Let's say we have a general election and the LibDems win a majority on a manifesto of revoke A50. Can we rely on you to be such avid supporters of the will of the people then?","['brexit', 'britishindependence']"
+282879,1172228947939069952,865412954,neutral,remain,2019-09-12T19:22:14.000Z,93 less quisling Labour seats soon. #BritishIndependence #Brexit https://t.co/Ry9doWEdrl,"['brexit', 'britishindependence']"
+316464,1172771945957482496,142587336,positive,leave,2019-09-14T07:19:55.000Z,"@SuzanneEvans1 @oflynnsocial It’ll be Soubry next, the greatest anti-Democrat of all time! #BritishIndependence #Brexit","['brexit', 'britishindependence']"
+303607,1172523596444577792,142587336,positive,leave,2019-09-13T14:53:04.000Z,@EBabade Excellent news! #BritishIndependence #Brexit,"['brexit', 'britishindependence']"
+671215,1177586606854868992,4866242493,negative,leave,2019-09-27T14:11:40.000Z,"@Santilespr @fbpe_jojo77 @Disruptingb I'm afraid your crazy cat lady tinfoil hat theories have been cleared in full. 
+No one cheated. 
+We voted leave.
+#BritishIndependence 
+#Brexit 
+https://t.co/e9xNGNTEKu","['brexit', 'britishindependence']"
+591085,1176774448474664960,1118179958860517120,negative,other,2019-09-25T08:24:26.000Z,"@markkee_mark @dennisspencer6 He's completely deluded and is totally unfit to run our country. His shadow cabinet do not have an ounce of common sense and we'd be back in the dark ages if he became PM. 
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+303734,1172525113658527744,2583603211,positive,other,2019-09-13T14:59:06.000Z,"@RaheemKassam Father! We sing praises unto Your Precious and Mighty name. We thank You for all You have done for #Brexit and #BritishIndependence. Be with us daily Lord, guide us &amp; protect us as we remove obstacles in our way. Lead us along plain path of righteousness. We pray in Jesus's Name!","['brexit', 'britishindependence']"
+489250,1175579614644563968,1169969452412231680,positive,remain,2019-09-22T01:16:36.000Z,@MartinDaubney @ChrisDaviesLD What a true democrat! #BritishIndependence #Brexit,"['brexit', 'britishindependence']"
+547972,1176438240963911680,1118179958860517120,positive,leave,2019-09-24T10:08:28.000Z,"Time to drain the swamp with a very big net!!
+
+#BritishIndependence #Brexit https://t.co/2E26DvMAZP","['brexit', 'britishindependence']"
+320009,1172804965229875200,1118179958860517120,neutral,other,2019-09-14T09:31:08.000Z,"@David_Cameron @christiancalgie @thetimes Wheeled out by the establishment David?  Was Barack Obama too busy ... or is he lined up for next week?
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+290430,1172391653161623552,307917928,negative,leave,2019-09-13T06:08:46.000Z,Bercow or his tribe of remainers fighting democracy cannot force the PM to appoint a Commissioner to the EU that will cause problems let's do it! #BritishIndependence #Brexit @HouseofCommons,"['brexit', 'britishindependence']"
+379105,1173669438459142144,220632407,negative,remain,2019-09-16T18:46:14.000Z,"I'm so angry at the way Boris was treated today in Luxembourg, it's not the way to treat a PM when visiting another country
+Our government would not dream of treatment anyone with the disrespect Boris got
+
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence']"
+206856,1171450509074395136,1155744659613859840,neutral,other,2019-09-10T15:49:00.000Z,"@TobyBaxendale @EUVoteLeave23rd #BritishIndependence ? Yes !
+But what is the sense of #Brexit if it means 
+- more Pakistanis and less Polishs ?
+- more US and less Europe ?
+- more ease for big-money and less defense of the humbles ?
+#BritishIndependence 1000xYes but Stop The Scam !","['brexit', 'britishindependence']"
+412471,1174230993726844928,1162680151,neutral,other,2019-09-18T07:57:39.000Z,Another reminder why the EU needs us more than we need them #BritishIndependence #Brexit https://t.co/rMXtzGLIr0,"['brexit', 'britishindependence']"
+562437,1176488461743923200,1138436135221374720,positive,leave,2019-09-24T13:28:02.000Z,@kaleidascope0 @GordonM44010068 @IiRamseyG We need to be out and we can build ourselves back up to our former independent glory. #BritishIndependence #Brexit,"['brexit', 'britishindependence']"
+360428,1173497185498992640,1118179958860517120,neutral,remain,2019-09-16T07:21:46.000Z,"@SteveBakerHW @brexitparty_uk @BorisJohnson Steve, the Brexit party will see a massive upturn in the polls if Boris sells out to Junker today.
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+255570,1172028263394414592,362587129,positive,leave,2019-09-12T06:04:47.000Z,"@JennyFefs There is a movement to use the hashtag #BritishIndependence because it is more positive than #Brexit , and I think there's a lot in that.","['brexit', 'britishindependence']"
+557289,1176466934440898560,1176437763656298496,negative,other,2019-09-24T12:02:29.000Z,"We’ve seen our vote ignored at every opportunity! 3 years of parliamentary &amp; party obstruction, EU collusion, numerous legal challenges, talk of a 2nd referendum and talk of revoking article 50!!! 
+Its time to stand up and be heard people!!!! 
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+514716,1176053179458424832,114239916,neutral,other,2019-09-23T08:38:22.000Z,"@Anthony56568052 @BayKurley @TCshadow1984 @adamboultonSKY I'm surprised the EU aren't campaigning for the election to be rerun.....................
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence']"
+296507,1172450472415772672,379799822,negative,leave,2019-09-13T10:02:30.000Z,"Looking at Twitter, I can't help get the impression Remainers have got a massive, out-of-control, superiority complex. They must get it from those smug, elite Remainer MPs colluding on their behalf. #BritishIndependence #Brexit","['brexit', 'britishindependence']"
+355508,1173360591131553792,1118179958860517120,positive,leave,2019-09-15T22:18:59.000Z,"Yes, I've noticed that there's a really good atmosphere in Weatherspoons recently. No sneering nasty folk in sight! Well worth a visit!! 
+
+#BritishIndependence #Brexit https://t.co/4uRp5EDvwK","['brexit', 'britishindependence']"
+366697,1173549457977368576,302855021,neutral,other,2019-09-16T10:49:28.000Z,@Nigel_Farage We’re all right behind you @Nigel_Farage @brexitparty_uk 👍🇬🇧 #BritishIndependence #Brexit,"['brexit', 'britishindependence']"
+264993,1172083587543425024,717340176486375424,positive,remain,2019-09-12T09:44:38.000Z,It’s wild to see a big chunk of the british parliament fighting tooth and nail to subvert democracy against #BritishIndependence. Here’s hoping Boris Johnson manages to stay the course and #Brexit happens Oct. 31st.,"['brexit', 'britishindependence']"
+239841,1171827890964635648,466519557,negative,other,2019-09-11T16:48:35.000Z,"Poor, desperate populists:  #BritishIndependence is a chimera. No successful, functioning country can be fully independent in today's interdependent world, nor would it want to be #Brexit https://t.co/aN6Su6e9D3","['brexit', 'britishindependence']"
+332700,1172991944290656256,806927548148051840,neutral,other,2019-09-14T21:54:07.000Z,"@1SweetTexan Whaddya mean, non-political? 
+It's what we Brits think of the EU (&amp;Remainiacs) every day!
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence']"
+365038,1173534488007233536,1118179958860517120,neutral,leave,2019-09-16T09:49:59.000Z,"@Anna_Soubry @peoplesvote_uk @ForChange_Now Anna - does anyone even listen to you any more? 
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+374432,1173620899821563904,1118179958860517120,positive,other,2019-09-16T15:33:21.000Z,"@BBCNormanS Good. Lets leave with no deal on 31st October and negotiate with them after Christmas (to give them 2 months to get over it!!) 
+
+#BritishIndependence #Brexit","['brexit', 'britishindependence']"
+446830,1174702187336929280,41679521,neutral,leave,2019-09-19T15:10:01.000Z,"REMOANERS PLEASE WAKE UP!!!!!!! We can't let the EU control our defence system! We need to LEAVE !
+#BritishIndependence
+#Brexit
+
+https://t.co/z0auNre0ur","['brexit', 'britishindependence']"
+718589,1178320128729059328,297429813,positive,leave,2019-09-29T14:46:25.000Z,@JimMFelton Brexiteer dog taking away remoaner comfort doll. #BritishIndependence #Brexit https://t.co/I4iOFVZvfs,"['brexit', 'britishindependence']"
+233837,1171775676745224192,704587653564538880,neutral,other,2019-09-11T13:21:06.000Z,#BritishIndependence #Brexit https://t.co/FFELpwrprS,"['brexit', 'britishindependence']"
+327200,1172901097410879488,4866242493,positive,other,2019-09-14T15:53:07.000Z,"@GB_OH @bobpitt4 @HannahFBPE What trade deal?? 
+
+""Negotiations for a comprehensive Free Trade Agreement (FTA) between the EU and India were launched in 2007 and suspended in 2013 due to a gap in the level of ambition between the EU and India.""
+#BritishIndependence 
+#Brexit
+
+https://t.co/NPhsc2qQNO","['brexit', 'britishindependence']"
+286720,1172274426412503040,1452248792,negative,other,2019-09-12T22:22:57.000Z,Really #bbcqt is not worth watching a one sided remoaner anti majority programme #BritishIndependence #Brexit,"['brexit', 'britishindependence', 'bbcqt']"
+295415,1172440769854001152,1118179958860517120,positive,other,2019-09-13T09:23:57.000Z,"George at his best (=worst!!) 
+
+#BritishIndependence #Brexit #BollockstoBercow https://t.co/hT2or9FTga","['brexit', 'britishindependence', 'bollockstobercow']"
+395939,1173930873995112448,1671330638,neutral,remain,2019-09-17T12:05:05.000Z,Oh what a surprise! Another #brexitboost. #BritishIndependence #Brexit #BackBoris #ParliamentVsThePeople https://t.co/1Uz2FZ38Oy,"['brexit', 'britishindependence', 'brexitboost', 'backboris', 'parliamentvsthepeople']"
+294964,1172436596336971776,254552007,positive,other,2019-09-13T09:07:22.000Z,A matter of clarification to us thick Brexiteers #BritishIndependence #Brexit #Brexitcast https://t.co/PigPYUHFwD,"['brexit', 'britishindependence', 'brexitcast']"
+239823,1171827791509241856,741927788672917504,positive,other,2019-09-11T16:48:11.000Z,"If this is true why is @10DowningStreet not going to court the Remoners are able to get a hearing in days but #Brexiteers can't get a hearing for months!!!
+#BritishIndependence @ChrisBaxi @Conservatives @Stop_The_EU #Brexit @JuliaHB1 @afneil https://t.co/Tc80Mld1RM","['brexit', 'britishindependence', 'brexiteers']"
+286868,1172275968532197376,817160343675867008,negative,remain,2019-09-12T22:29:05.000Z,Boris says he wants to leave but does everything he can to enable those that oppose what he says a chance to stop him implementing what he says. Another Tory fraud. #Brexitparty_uk for me and should be for the 17.4 plus million people that voted for #BritishIndependence  #Brexit,"['brexit', 'britishindependence', 'brexitparty_uk']"
+249484,1171902187108220928,2195857762,positive,other,2019-09-11T21:43:48.000Z,"@AmandeepBhogal @BorisJohnson Amandeep I know you to be a good and honest man.
+I fear you are going to be let down by @BorisJohnson 
+When this happens, as it surely will, please join us,
+#BrexitParty_UK  #brexit #BritishIndependence","['brexit', 'britishindependence', 'brexitparty_uk']"
+587075,1176751406319099904,2656108470,positive,leave,2019-09-25T06:52:52.000Z,"@june_mummery Keep up the great work June, they are running a bit scared by the looks of it, the #British people have been red pilled.
+#BritishIndependence #Brexit","['brexit', 'britishindependence', 'british']"
+283561,1172236254341206016,1168460411307462656,positive,other,2019-09-12T19:51:16.000Z,"I'm confused???? 
+Are we still using #BritishIndependence or are we not using #BritishIndependence.
+You really need to make things clear on the #BritishIndependence hash tag
+Also, is #BritishIndependence to be used instead of #Brexit or do we use #BritishIndependence and #Brexit https://t.co/iqSHQXNjas","['brexit', 'britishindependence', 'britishindependence']"
+498822,1175761620552880128,4866242493,negative,leave,2019-09-22T13:19:49.000Z,"@JeannieMac1 @SimonBruni You stick with your time foil hat crazy cat lady with her mad conspiracies! I'll stick with the actual news... 😂🤡👍
+#FBPE #Cult #Brexit #conspiracytheory 
+#BritishIndependence
+https://t.co/cD7ZaL0YXA","['brexit', 'britishindependence', 'cult', 'fbpe', 'conspiracytheory']"
+666329,1177547371305230336,4866242493,negative,other,2019-09-27T11:35:45.000Z,"@I_am_porr1dge @awesomead78 @fbpe_jojo77 @Disruptingb Shall we just scrap all further public votes to avoid the stupid plebs making any more undesirable decisions and install Juncker as de facto president for life? 🤔😂👍
+#FBPE #Cult #Logic 
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence', 'cult', 'fbpe', 'logic']"
+672804,1177603042918711296,4866242493,negative,other,2019-09-27T15:16:58.000Z,"@Santilespr @fbpe_jojo77 @Disruptingb The public made their own mind up. The majority having lived through 40 years of EEC/EU experience. If you were swayed either way by an advert either on a bus or Facebook the day before then you're an imbecile. 😂🤡👍
+#FBPE #Cult #Logic 
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence', 'cult', 'fbpe', 'logic']"
+675817,1177634991989243904,4866242493,negative,remain,2019-09-27T17:23:56.000Z,"@cathymwafer @A_48er @fbpe_jojo77 @Disruptingb Not one side, remain or leave, said they would only use it for advice! 😂🤡👍
+52-48 are the only percentages that matter. 
+#FBPE #Cult #Nonsense 
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence', 'cult', 'nonsense', 'fbpe']"
+595376,1176799999906197504,4866242493,neutral,other,2019-09-25T10:05:58.000Z,"@eddieduggan @PimphallPumpkin @alanjstedman @EmmaKennedy Like the one that Bush started then Obama extended by 2/3 and installed a border force 1/4 the size of the British army to Police it?? 
+#FBPE #Cult #Nonsense 
+#BritishIndependence 
+#Brexit 
+https://t.co/HIwfBXuGCA","['brexit', 'britishindependence', 'cult', 'nonsense', 'fbpe']"
+550407,1176444342942220288,1519189512,negative,leave,2019-09-24T10:32:43.000Z,"@SkyNews So , It's illegal to shut down parliament as has happened numerous times before but it's legal to ignore a democratic vote and timelines/deadlines associated with it? I'm obviously missing something!?!#
+#DrainTheSwamp #BritishIndependence #Brexit","['brexit', 'britishindependence', 'draintheswamp']"
+591940,1176779265444057088,1118179958860517120,neutral,other,2019-09-25T08:43:35.000Z,"Time to drain the swamp of all these people. They serve only to satisfy their own interests.
+
+#DrainTheSwamp #BritishIndependence #Brexit https://t.co/EakI4P7ZvZ","['brexit', 'britishindependence', 'draintheswamp']"
+467946,1175090026746654720,4866242493,neutral,leave,2019-09-20T16:51:09.000Z,"@henrietta_22 Tell her to vote @brexitparty_uk 👍😉
+#BritishIndependence 
+#EndTheUncertainty
+#Brexit","['brexit', 'britishindependence', 'endtheuncertainty']"
+659153,1177496454937493504,4866242493,positive,other,2019-09-27T08:13:26.000Z,"@fbpe_jojo77 My glorious, beautiful customers are directly the leavers you and your #FBPE cult are wishing death on. 🤔😟
+#BritishIndependence 
+#Brexit 
+https://t.co/iPLG4Tv29e","['brexit', 'britishindependence', 'fbpe']"
+601524,1176843983798132736,4866242493,negative,other,2019-09-25T13:00:45.000Z,"To the triggered #FBPE crank ringing me up to scream about political views on a rainy lunch time, I would advise;
+A) I am a builder not @NickFerrariLBC @IainDale or @Nigel_Farage on @lbc 
+B) You at least let me respond. 
+C) We meet for a cup of tea.
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence', 'fbpe']"
+566381,1176510266303025152,4866242493,positive,other,2019-09-24T14:54:40.000Z,"@tnewtondunn We are effectively hostages to these EU sycophant cranks in parliament! 
+It's been three and a half years and I'm still not getting Stockholm syndrome or sympathy! 
+FFS LET MY COUNTRY OUT OF THIS BRUSSELS CAGE!!! 🤬🤬🤬
+#FreeBritain 
+#BritishIndependence 
+#BrexitBetrayal 
+#Brexit","['brexit', 'britishindependence', 'freebritain', 'brexitbetrayal']"
+511658,1176031937896558592,1118179958860517120,neutral,leave,2019-09-23T07:13:58.000Z,#BritishIndependence #Brexit #Frexit https://t.co/PyhDXkASg2,"['brexit', 'britishindependence', 'frexit']"
+238131,1171813436445077504,4866242493,negative,other,2019-09-11T15:51:09.000Z,"@Hillybarber @Baz704 @BorisJohnson EU laws and treaties exempt, no government can bind it's successor. After #GE2019 the Benn surrender bill can be repealed! 😉👍
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence', 'ge2019']"
+387658,1173853021886984192,4866242493,negative,leave,2019-09-17T06:55:44.000Z,"@CarolineLucas No it won't. Stop being hysterical. 
+P45 please. 
+#BritishIndependence 
+#GE2019 
+#Brexit","['brexit', 'britishindependence', 'ge2019']"
+339929,1173164944424099840,4866242493,negative,other,2019-09-15T09:21:33.000Z,"@DavidLammy You dragged it pretty damn low with the names you've called me and my fellow leavers, then tried to invoke civil unrest in the streets! 
+You've pissed on democracy and this glorious nation as a whole! 
+P45 please! 
+#GE2019 
+#BritishIndependence 
+#Brexit 
+https://t.co/l7AejG4N1q","['brexit', 'britishindependence', 'ge2019']"
+549690,1176442460731523072,1176437763656298496,positive,leave,2019-09-24T10:25:14.000Z,Follow share and retweet! Let’s build momentum for this!! It’s time to act! #GilletsJaunes style !!!    #BritishIndependence #Brexit,"['brexit', 'britishindependence', 'gilletsjaunes']"
+671000,1177584430581506048,141167153,negative,remain,2019-09-27T14:03:01.000Z,"So #humbug is bad but this is ok? Really? 
+
+https://t.co/iMAlpPyzya
+
+#brexit #BritishIndependence #SurrenderAct #SurrenderBill @SkyNews https://t.co/0wLjPbSOT2","['brexit', 'britishindependence', 'humbug', 'surrenderact', 'surrenderbill']"
+436796,1174592661325565952,1158734612216123392,negative,leave,2019-09-19T07:54:47.000Z,@Leeewissss @jbwaiheke @JayneDWales @PWildebest @martynbigdog @tbrookes84 @CottamTerry @peanut_astro @adamczuk @guyverhofstadt @Europarl_EN Same here. To fail to carry out the instructions of a democratic vote will destroy democracy. Simple as. #BritishIndependence #Brexit #IndependentNotVassal,"['brexit', 'britishindependence', 'independentnotvassal']"
+631482,1177157944191913984,1452248792,positive,leave,2019-09-26T09:48:19.000Z,@Karenwales66 Why not? Because not everyone living in Scotland wants more wasted public money We want our *hospitals fixed *education improved *potholes filled in &amp; we don't need the Antonine wall rebuilding #BritishIndependence #Brexit When done have an #indyref2 if you want https://t.co/Ebp6O5wKMG,"['brexit', 'britishindependence', 'indyref2']"
+595535,1176801015766667264,4866242493,positive,leave,2019-09-25T10:10:00.000Z,"@cybertenchi @PimphallPumpkin @alanjstedman @EmmaKennedy Thanks for taking part. 
+Excellent contribution. 😂👍🤡
+#FBPE #Cult #Intellectuals
+#BritishIndependence 
+#Brexit","['brexit', 'britishindependence', 'intellectuals', 'cult', 'fbpe']"
+488655,1175546213808181248,225850264,neutral,other,2019-09-21T23:03:52.000Z,"Image from #Islington 
+
+#BritishIndependence #Brexit #Rochester https://t.co/jxcH35RTf8","['brexit', 'britishindependence', 'islington', 'rochester']"
+298306,1172465338459525120,1161646846365904896,positive,remain,2019-09-13T11:01:34.000Z,"@Diana_Kempster @MilneCharlotte1 The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
 
 Retweet. Get #LeaveAlliance trending. https://t.co/ubJzgVZtPv","['brexit', 'britishindependence', 'leavealliance']"
-36,36,36,298354,1172465814269812736,1161646846365904896,positive,remain,2019-09-13T11:03:28.000Z,"@Paul_J_Chapman @purrfect1509 @the The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
-
-Retweet. Get #LeaveAlliance trending. https://t.co/NyHEZ9zKfr","['brexit', 'britishindependence', 'leavealliance']"
-37,37,37,324951,1172864953172340736,1161646846365904896,positive,remain,2019-09-14T13:29:30.000Z,"@john4brexit @LeaveMnsLeave The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
-
-Retweet. Get #LeaveAlliance trending. https://t.co/1mLZ8x1s2L","['brexit', 'britishindependence', 'leavealliance']"
-38,38,38,331037,1172965680217563136,815235053626093440,positive,other,2019-09-14T20:09:45.000Z,This guy is so respectful and democratic when @brexitparty_uk won the European elections he completely ignored them and went running to Vince Cable. #LeaveAlliance #brexit #BritishIndependence https://t.co/YCiqfzSfqm,"['brexit', 'britishindependence', 'leavealliance']"
-39,39,39,380243,1173682282957332480,1176458989,positive,remain,2019-09-16T19:37:16.000Z,"@tomhfh @jakewoodman4 The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
+382432,1173710101242425344,1176458989,positive,remain,2019-09-16T21:27:49.000Z,"@EllDee72361131 The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧","['brexit', 'britishindependence', 'leavealliance']"
+380243,1173682282957332480,1176458989,positive,remain,2019-09-16T19:37:16.000Z,"@tomhfh @jakewoodman4 The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
 
 Retweet. Get #LeaveAlliance trending. https://t.co/SYMRzVrUoX","['brexit', 'britishindependence', 'leavealliance']"
-40,40,40,382432,1173710101242425344,1176458989,positive,remain,2019-09-16T21:27:49.000Z,"@EllDee72361131 The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧","['brexit', 'britishindependence', 'leavealliance']"
-41,41,41,294746,1172434526749872128,1153092803116843008,positive,leave,2019-09-13T08:59:08.000Z,Come on @BorisJohnson @Conservatives you need to make a non aggression pact with @Nigel_Farage @brexitparty_uk #BritishIndependence #LeaveAlliance #brexit,"['brexit', 'britishindependence', 'leavealliance']"
-42,42,42,735716,1178623870678568960,2583603211,positive,leave,2019-09-30T10:53:23.000Z,"@AlastairJT @SayNoToLabour10 God bless #ConservativePartyConference,
-#Brexit, and
-#BritishIndependence!
+297905,1172461817144238080,1161646846365904896,positive,remain,2019-09-13T10:47:35.000Z,"@SteveBarclay The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
 
-#GetBrexitDone","['brexit', 'conservativepartyconference', 'getbrexitdone', 'britishindependence']"
-43,43,43,640390,1177232028179292160,1118179958860517120,neutral,other,2019-09-26T14:42:42.000Z,Do you mean #SurrenderAct or #SurrenderBill or should I just keep talking about #BritishIndependence and #Brexit? https://t.co/LYPD46fn1V,"['brexit?', 'surrenderbill', 'britishindependence', 'surrenderact']"
-44,44,44,404769,1174047500271009792,865412954,negative,other,2019-09-17T19:48:31.000Z,Nothing of the sort you dumb idiot. You do talk a load a load of old Bollocks. #Brexit #BrexitBetrayal #BritishIndependence https://t.co/a9ioiFGVzT,"['brexitbetrayal', 'britishindependence', 'brexit']"
-45,45,45,418235,1174284589411573760,3985708041,neutral,other,2019-09-18T11:30:37.000Z,@DavidMillitt @MartinDaubney @CarolineVoaden 👏👏👏 Well said David #Brexit #BrexitBetrayal #BritishIndependence https://t.co/JiQ2AVW1Q0,"['brexitbetrayal', 'britishindependence', 'brexit']"
-46,46,46,407928,1174096562991112192,865412954,positive,other,2019-09-17T23:03:28.000Z,Good speech but it fell on deaf ears. Why should any of the MEP's want to get off the gold salary/pension gravy train? #Brexit #BrexitBetrayal #BritishIndependence,"['brexitbetrayal', 'britishindependence', 'brexit']"
-47,47,47,600717,1176837053767659520,2966230157,negative,other,2019-09-25T12:33:12.000Z,Cox: This Parliament is a Disgrace! #Brexit  #BritishIndependence #BrexitBetrayal  #GeneralElectionNow  https://t.co/XIDG51ALbD via @GuidoFawkes,"['brexitbetrayal', 'generalelectionnow', 'britishindependence', 'brexit']"
-48,48,48,644039,1177270029118836736,4866242493,neutral,leave,2019-09-26T17:13:42.000Z,"@JolyonMaugham Obviously @Nigel_Farage does! 🤔🤡😂
-#SurrenderBill 
+Retweet. Get #LeaveAlliance trending. https://t.co/xMbLQELjq1","['brexit', 'britishindependence', 'leavealliance']"
+298354,1172465814269812736,1161646846365904896,positive,remain,2019-09-13T11:03:28.000Z,"@Paul_J_Chapman @purrfect1509 @the The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
+
+Retweet. Get #LeaveAlliance trending. https://t.co/NyHEZ9zKfr","['brexit', 'britishindependence', 'leavealliance']"
+459545,1174970981112139776,1161646846365904896,positive,remain,2019-09-20T08:58:06.000Z,"@Nigel_Farage Most people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧
+Retweet. Get #LeaveAlliance and #BritishIndependence trending. https://t.co/wtH3HNa1ch","['brexit', 'britishindependence', 'leavealliance']"
+380330,1173683298478022656,1176458989,positive,remain,2019-09-16T19:41:18.000Z,"@tomhfh @JuliaHB1 The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
+
+Retweet. Get #LeaveAlliance trending. https://t.co/XUu0kigeD0","['brexit', 'britishindependence', 'leavealliance']"
+298121,1172463667155218432,1161646846365904896,positive,remain,2019-09-13T10:54:56.000Z,"@DVATW @SGH_Guitars The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
+
+Retweet. Get #LeaveAlliance trending. https://t.co/SV9EYsfgq1","['brexit', 'britishindependence', 'leavealliance']"
+324951,1172864953172340736,1161646846365904896,positive,remain,2019-09-14T13:29:30.000Z,"@john4brexit @LeaveMnsLeave The vast majority of us people who voted to leave the EU in the referendum want a #LeaveAlliance with the Brexit Party in the oncoming General Election. To guarantee us our full, clean #Brexit, and to reclaim our #BritishIndependence 🇬🇧 
+
+Retweet. Get #LeaveAlliance trending. https://t.co/1mLZ8x1s2L","['brexit', 'britishindependence', 'leavealliance']"
+726278,1178436432450478080,769644436288577408,neutral,other,2019-09-29T22:28:34.000Z,"@nooouch Read the BBC article; its a fact. The UK is a net contributor to the EU budget. In other words, it contributes more to the EU budget than it receives back from it. https://t.co/2EMZiNYv0Z #BritishIndependence #Brexit #LeaveMeansLeave","['brexit', 'britishindependence', 'leavemeansleave']"
+479719,1175361875166584832,1107909870970457856,negative,other,2019-09-21T10:51:22.000Z,@C4Gogglebox These two are the most annoying on the show! #BritishIndependence #Brexit #LeaveMeansLeave,"['brexit', 'britishindependence', 'leavemeansleave']"
+679758,1177679872426221568,1087354620463247232,positive,leave,2019-09-27T20:22:16.000Z,"Excellent! Thank you @spikedonline, a superb video | Deplorables: Trump, Brexit and the Demonised Masses https://t.co/bE0qwfeO5f | #BritishIndependence #MAGA #Brexit","['brexit', 'britishindependence', 'maga']"
+721360,1178357909966721024,1121488403638431744,positive,other,2019-09-29T17:16:33.000Z,"@OTVDesk @rwaterer Oh please #RoryStewart  just crawl away into obscurity and do us all a favour! You just don't get it do you? We want politicians who deliver what the people voted for, not your take on it that no doubt lines your pockets...
+#DemocracyNow 
 #BritishIndependence 
-#BrexitBlockers 
-#Brexit","['brexitblockers', 'surrenderbill', 'britishindependence', 'brexit']"
-49,49,49,294964,1172436596336971776,254552007,positive,other,2019-09-13T09:07:22.000Z,A matter of clarification to us thick Brexiteers #BritishIndependence #Brexit #Brexitcast https://t.co/PigPYUHFwD,"['brexitcast', 'britishindependence', 'brexit']"
-50,50,50,611127,1176934590247833600,1149945913365995520,neutral,other,2019-09-25T19:00:47.000Z,@Nigel_Farage @BorisJohnson After defending you and voting for TBP in eu elections! Nigel Farage👀 you are so wrong! This #Brexiteer PM should be supported! I'm #BackBoris #Brexit and 🇬🇧 #BritishIndependence 🇬🇧,"['brexiteer', 'britishindependence', 'backboris', 'brexit']"
-51,51,51,452569,1174787947209658368,832312907799080960,neutral,leave,2019-09-19T20:50:47.000Z,"A good 20 people I follow have had their accounts suspended. All pro-Brexit, shock horror! #brexit #LeaveMeansLeave #Brexiteer #BritishIndependence","['brexiteer', 'britishindependence', 'brexit', 'leavemeansleave']"
-52,52,52,227319,1171731131542200320,1146698290198695936,negative,other,2019-09-11T10:24:06.000Z,"🔴  Any reasonable citizen knows there is only one result from taking No Deal off the table, unacceptable cost. Blocking No Deal is Blocking Brexit, then the only acceptable outcome. Forward, Together ⏬  
-#BrexitFollowBack ✅
-#BritishIndependence ✅ https://t.co/R4MYIqnR7X","['brexitfollowback', 'britishindependence']"
-53,53,53,247550,1171889173588074496,100818501,neutral,other,2019-09-11T20:52:06.000Z,#EU We must all fight for #BritishIndependence what do we want? #Brexit When do we want it? #BrexitNow,"['brexitnow', 'britishindependence', 'eu', 'brexit']"
-54,54,54,678821,1177668385729056768,343433446,negative,other,2019-09-27T19:36:37.000Z,@ecJulie @64brig @BlackwaterRive2 @UxbEconomist07 @BorisJohnson @Conservatives No more #virginatlantic #virginholudays for us. Other airlines are available. #brexit #brexitnow #stufftheEU #acceptthevote #BritishIndependence,"['brexitnow', 'stufftheeu', 'britishindependence', 'virginatlantic', 'virginholudays', 'acceptthevote', 'brexit']"
-55,55,55,485945,1175478946059771904,1257817368,negative,remain,2019-09-21T18:36:34.000Z,"Poll about how Brexit is going to pan out (this time):
-#brexit #leave #LeaveOct31st #LeaveMeansLeave #BritishIndependence #Boris #BorisJohnson #NoDeal #NoDealReady #NoDealBrexit #LeaveAlliance #brexitopportunities @dealatrip 😎🇬🇧 https://t.co/RVh7wdUaqc","['brexitopportunities', 'leaveoct31st', 'britishindependence', 'boris', 'leavemeansleave', 'borisjohnson', 'nodealbrexit', 'leavealliance', 'nodeal', 'nodealready', 'brexit', 'leave']"
-56,56,56,424599,1174353355856068608,1009700744361119744,positive,leave,2019-09-18T16:03:53.000Z,"🔁 Retweet if you agree that it’s time for a #BrexitPact! 🇬🇧
-
-#LeaveAlliance #Brexit #BritishIndependence https://t.co/ynkdncLNf0","['brexitpact', 'britishindependence', 'leavealliance', 'brexit']"
-57,57,57,425191,1174360672832036864,1009700744361119744,neutral,leave,2019-09-18T16:32:57.000Z,"Does Britain need a #BrexitPact? 🇬🇧
-
-#LeaveAlliance #Brexit #BritishIndependence","['brexitpact?', 'britishindependence', 'leavealliance', 'brexit']"
-58,58,58,233142,1171769786663079936,326149679,positive,other,2019-09-11T12:57:42.000Z,@Nigel_Farage Nigel if you ask me to vote conservative I will do holding my nose if you don’t I we vote brexit party thanks for all you are doing #BritishIndependence #BrexitParty,"['brexitparty', 'britishindependence']"
-59,59,59,224226,1171714576943071232,932648218780995584,neutral,other,2019-09-11T09:18:19.000Z,"If I am ever allowed a vote again i will be voting for the Brexit party
-#BrexitParty #BritishIndependence","['brexitparty', 'britishindependence']"
-60,60,60,271320,1172125112029646848,931188956946935808,negative,other,2019-09-12T12:29:38.000Z,@Richardwtaylors @RuleBrexitannia @brexitparty_uk People must in vast numbers vote for the Brexit Party. All the treacherous  parties currently infesting Parliament must be consigned to the bin of history asap.#DrainTheWestminsterSwamp  #BritishIndependence #BrexitParty,"['brexitparty', 'britishindependence']"
-61,61,61,405815,1174062886970429440,903363711485825024,positive,other,2019-09-17T20:49:39.000Z,"Helpful and interesting 2017 column by John Redwood MP giving financial advice for Charles Stanley, entitled ""Time to look further afield as UK economy hits the brakes"" #brexit #BrexitParty #BritishIndependence https://t.co/ZeXi3NnLpQ via @financialtimes","['brexitparty', 'britishindependence', 'brexit']"
-62,62,62,695393,1177949900694310912,443194577,negative,other,2019-09-28T14:15:16.000Z,"They still won’t believe it , even when it comes from the horses mouth... his own sister , nevermind project fear it’s more a case of project stupidity #BrexitParty #brexit #BritishIndependence https://t.co/Oa4NsTSS8N","['brexitparty', 'britishindependence', 'brexit']"
-63,63,63,315614,1172763422058041344,350474228,negative,remain,2019-09-14T06:46:03.000Z,"@joswinson No, you're right, the choice isn't just @jeremycorbyn or @BorisJohnson ... the voters can also select @Nigel_Farage 
-
-#Brexit #BrexitParty
-
-Oh, and just to stir the pot a little more #BritishIndependence","['brexitparty', 'britishindependence', 'brexit']"
-64,64,64,592085,1176780013347246080,769634997682655232,negative,other,2019-09-25T08:46:33.000Z,"@CJordanjb @june_mummery I’m extremely proud of all our #BrexitParty MEPs. They’re the only ones defending the UK when many others are hell bent on surrender to the EU.
-
-Our fight for #Brexit continues. We won’t give up on #BritishIndependence. Our democracy is now rancid. We MUST #ChangePoliticsForGood.","['brexitparty', 'britishindependence', 'brexit', 'changepoliticsforgood']"
-65,65,65,287031,1172278332714561536,1855399650,negative,other,2019-09-12T22:38:29.000Z,☆UN DEMOCRATIC PERSON ALERT☆ #QuestionTime #Brexit #BritishIndependence #BrexitParty https://t.co/Mi9zC66K3Q,"['brexitparty', 'britishindependence', 'brexit', 'questiontime']"
-66,66,66,278596,1172187966313250816,1000912761013133056,positive,remain,2019-09-12T16:39:24.000Z,"Boris's office should have said nothing, rather than choosing to insult #NigelFarage, while he has been vocal about supporting Boris. I have a feeling we're going to have to sweep the House with the #BrexitParty before we get our clean #Brexit. 
-
-#BritishIndependence https://t.co/j0EauNYwHY","['brexitparty', 'britishindependence', 'nigelfarage', 'brexit']"
-67,67,67,690017,1177886924184403968,1074309802225004544,positive,other,2019-09-28T10:05:01.000Z,"@BeaumontBee @marmitemarmz @mi5uk I support the Brexit Party.
-
-I'm most definitely not a thug &amp; neither were any of the other 600 or so who were at the rally I attended last weekend.
-
-#BritishIndependence 
-#PeopleVsParliament 
-#BrexitParty","['brexitparty', 'britishindependence', 'peoplevsparliament']"
-68,68,68,533327,1176234266084159488,1156683457721974784,positive,other,2019-09-23T20:37:57.000Z,"""God help England if she had no Scots to think for her""
-
-- George Bernard Shaw
-
-Seems rather apt.
-
-#BrexitShambles #brexit #Cherrycase #DissolveTheUnion #indyref2 #DissolveTheUnion #indywales #moggmentum #britishindependence https://t.co/WDnAGN6mRn","['brexitshambles', 'cherrycase', 'dissolvetheunion', 'indyref2', 'indywales', 'moggmentum', 'brexit', 'britishindependence']"
-69,69,69,701423,1178038871604387840,1048737705918521344,negative,remain,2019-09-28T20:08:48.000Z,"🔵 Only Boris Johnson and the Conservatives will get Brexit done. No ifs, no buts.
-
-⛔️ All Jeremy Corbyn and Labour can offer is more talk, more confusion and more delay on Brexit.
-#BritishIndependence 
-#BrexitVote","['brexitvote', 'britishindependence']"
-70,70,70,374499,1173621413791621120,711591530427973632,positive,remain,2019-09-16T15:35:24.000Z,"#Brexit #BrexitVote #BritishIndependence #BritishIndependance If the @LibDems win a general election I want a 2nd election as the people who voted didn't know what they were voting for. Also I want a soft @LibDems government, not a hard @LibDems government @BorisJohnson https://t.co/pJm6hNQvli","['brexitvote', 'britishindependence', 'brexit', 'britishindependance']"
-71,71,71,258541,1172047682866745344,459643250,positive,other,2019-09-12T07:21:57.000Z,"@RichardFoleher good bit of proof reading... 
-
-#BritishIndependence
-#brexit #Brexitvote @Conservatives
-#LeaveMeansLeave @MoggMentum
-
-https://t.co/Wo4wQ5xQKo","['brexitvote', 'britishindependence', 'brexit', 'leavemeansleave']"
-72,72,72,299609,1172478311064358912,4869320122,negative,remain,2019-09-13T11:53:07.000Z,"Who's causing a fuss over Yellowhammer? Who's protesting against the prorogation? Who's trying their hardest to bring down Boris?
-
-It's the #RemainAlliance. I wish they'd just cut to the chase and admit its all about stopping Brexit.
-
-#BritishIndependence #Brexitvote","['brexitvote', 'britishindependence', 'remainalliance']"
-73,73,73,295506,1172441587487391744,957410565776924672,negative,other,2019-09-13T09:27:12.000Z,@RobertJTAC McDonald’s did away with root beer. How I miss that. Quite possibly the Fault of Brexit. #BritishIndependence #bringbackrootbeer,"['bringbackrootbeer', 'britishindependence']"
-74,74,74,349195,1173268185749106688,746423444074540928,neutral,remain,2019-09-15T16:11:48.000Z,"@patel4witham and the Tory’s are preparing to sell out Brexit for #BRINO 😡
-
-My vote will stay with the @brexitparty_uk 
-
-#BritishIndependence 🇬🇧 https://t.co/Jp8AigZOZf","['brino', 'britishindependence']"
-75,75,75,499075,1175766057371480064,312531954,negative,remain,2019-09-22T13:37:27.000Z,"The only deal acceptable to the failing EU bloc is #BRINO
-
- #BREXIT is unacceptable to them.
-
-#NoDeal and #BritishIndependence  stares them in the face.
-
-Their budgets screwed; their exports to U.K. screwed.
-
-Screwed just about sums it up ?
-@BorisJohnson  @Jacob_Rees_Mogg https://t.co/Pz7PTVL4Ba","['brino', 'britishindependence', 'brexit', 'nodeal']"
-76,76,76,587075,1176751406319099904,2656108470,positive,leave,2019-09-25T06:52:52.000Z,"@june_mummery Keep up the great work June, they are running a bit scared by the looks of it, the #British people have been red pilled.
-#BritishIndependence #Brexit","['british', 'britishindependence', 'brexit']"
-77,77,77,520911,1176105833324843008,1671330638,positive,other,2019-09-23T12:07:36.000Z,OMG! Not ANOTHER Brexit boost! #brexitboost #Brexit #BritishIndependence #BritishIndependance https://t.co/VtDFHxf5MU,"['britishindependance', 'britishindependence', 'brexit', 'brexitboost']"
-78,78,78,465256,1175045990958678016,101316641,negative,remain,2019-09-20T13:56:10.000Z,@snowleopardess Sad sad person when your argument revolves around others deaths Changing of minds is not part of an election once a vote is cast and as for 3 years true it is a disgrace that the Goverment and Parliament have failed to deliver Brexit #BritishIndependence,['britishindependence']
-79,79,79,228123,1171735752490782720,353125270,positive,other,2019-09-11T10:42:27.000Z,"#BritishIndependence is nothing to do with Brexit. 
-""According to the @thetimes archaeologists in Hampshire have discovered brickwork at Silchester that suggests Iron Age man may have enjoyed a good soak in the tub well before the invasion of AD43.""
-That's what it is about.",['britishindependence']
-80,80,80,339454,1173160938893168640,1106129955279245056,negative,other,2019-09-15T09:05:38.000Z,"We can go on and on about judges who are not impartial, MPs who don’t respect democracy and the will of the people, the elite trying to thwart Brexit. But the million dollar question is will we leave on October 31st. #BritishIndependence",['britishindependence']
-81,81,81,220044,1171687704045719552,326041216,neutral,other,2019-09-11T07:31:32.000Z,"It's about time. We won the biggest vote in British history and the remain bias Parliament have denied us our democratic choice. Let us give Brexit a try, let us have #BritishIndependence",['britishindependence']
-82,82,82,686132,1177849496220422144,228775344,negative,other,2019-09-28T07:36:17.000Z,"@GeoffreyDWest @peterwalker99 @Asparagus88 They found nothing because there was nothing to find! Like this latest slander. Desperate measures to try and head off Brexit, but the electorate will have the final say regardless! #BritishIndependence",['britishindependence']
-83,83,83,251642,1171921692807094272,69663428,positive,other,2019-09-11T23:01:19.000Z,Can I see the report on operation red white and bluehammer? The positives and best case scenario for no deal brexit? @BorisJohnson #BritishIndependence,['britishindependence']
-84,84,84,321854,1172824502645993472,746371177174679552,negative,leave,2019-09-14T10:48:46.000Z,The nonsensical #britishindependence tag shows clearly how  one strand of Brexit is built around a fantasy war of independence against the EU which will wipe away the stain of humiliation left by the collapse of empire &amp; our forlorn entry into the EU as the 'sick man of Europe'.,['britishindependence']
-85,85,85,290271,1172389008040579072,288262141,negative,remain,2019-09-13T05:58:16.000Z,"@Femi_Sorry @jeremycorbyn Dear Femi, no decent person will now vote Labour, they feel betrayed by the party they once supported at the ballot box no more, as the majority of supporters voted for Brexit, and no deal was not on the ballot paper. #BritishIndependence",['britishindependence']
-86,86,86,220286,1171689486981500928,711591530427973632,negative,remain,2019-09-11T07:38:37.000Z,#BritishIndependence what was that about the damage brexit will do to the UK https://t.co/S1B9V2UHG6,['britishindependence']
-87,87,87,480709,1175375785563250688,569369019,negative,remain,2019-09-21T11:46:39.000Z,"@stellacreasy I love seeing the Marxist Party stewing in its own juices. They have no chance in a GE, they will be crushed by the FibUnDems, the Brexit Party and the Tory Party. #BritishIndependence",['britishindependence']
-88,88,88,238487,1171816479517548544,74211503,negative,remain,2019-09-11T16:03:14.000Z,#BritishIndependence — what a fucking joke...just like Brexit!,['britishindependence']
-89,89,89,228064,1171735416757768192,2529721061,negative,remain,2019-09-11T10:41:07.000Z,Theres going to be no   #BritishIndependence after Brexit because we're going to be the USA's bitch.,['britishindependence']
-90,90,90,231580,1171758254843670528,1130610237034127232,positive,remain,2019-09-11T12:11:52.000Z,So now Keir starker not only wants an election but another referendum after the election to vote yes or not on Brexit. The mind boggles  #BritishIndependence,['britishindependence']
-91,91,91,302724,1172512531732213760,1171381847273746432,neutral,remain,2019-09-13T14:09:06.000Z,@Michael_Heaver @TracyAnnLilly11 Brexit Party and Torys 'Stronger together' for #BritishIndependence,['britishindependence']
-92,92,92,471279,1175150645181071360,908762794933329920,negative,other,2019-09-20T20:52:01.000Z,"@MrDiddy85 This has no parallel to the silly cow in the USA who ruined her career with the severed President Trump  head... Naa... TOO OBVIOUS, BORIS WANTS A DEAL THE POTUS 45 RECOMMENDS BREXIT FOR #BritishIndependence.. So i won't be getting BOJO mixed up with the POTUS..",['britishindependence']
-93,93,93,317309,1172780206605709312,793970022,positive,leave,2019-09-14T07:52:45.000Z,@UKAnglosphere @MartinDaubney You won’t be Defending Brexit then. Us Brexiteers MUST use EVERY Opportunity to Vote for #BritishIndependence,['britishindependence']
-94,94,94,422933,1174332034786963456,134481334,neutral,other,2019-09-18T14:39:09.000Z,"Gina Miller the person that says ""it's not about brexit it's about the law"" could have fooled me Twitter will always find you out! #BritishIndependence https://t.co/CW8RDMh1cd",['britishindependence']
-95,95,95,313910,1172691997087490048,1156953960655273984,neutral,remain,2019-09-14T02:02:14.000Z,"@politicalpig Proper 'Brexit' though, or BRINO ?
-#BritishIndependence",['britishindependence']
-96,96,96,324766,1172862593570091008,3675178876,neutral,other,2019-09-14T13:20:07.000Z,"Cross the floor Kate, Brexit Party ready with open arms. #BritishIndependence https://t.co/ZIB1iaiKut",['britishindependence']
-97,97,97,334928,1173084015097733120,622544648,positive,other,2019-09-15T03:59:58.000Z,"Writing Brexit on the “what are you grateful for?” wall. Jack Whitehall’s dad is a star 
-
-#BritishIndependence https://t.co/HD0e72sqUJ",['britishindependence']
-98,98,98,404281,1174040578499252224,3675178876,neutral,remain,2019-09-17T19:21:01.000Z,"@Brexit__Greg @sharmilaxx @JuliaHB1 We in Ulster have the name, Lundy, for those that conspire against their own. The lure of the EU is almost demonic. #BritishIndependence",['britishindependence']
-99,99,99,307645,1172569839656951808,133630181,neutral,leave,2019-09-13T17:56:49.000Z,"@gavinesler Don’t listen to Gavin folks. 
-He ardently believes that Brexit (that we voted for) must be stopped.
-He therefore doesn’t believe in voting, what’s the point?
-#BritishIndependence",['britishindependence']
-100,100,100,724341,1178400318029271040,2787943292,negative,remain,2019-09-29T20:05:04.000Z,"Boris Johnson fuels speculation he could ignore Brexit delay law https://t.co/qlTIaWkcGX 
-#BritishIndependence 🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧",['britishindependence']
-101,101,101,596629,1176808100709445632,473439203,negative,other,2019-09-25T10:38:09.000Z,"@oflynnsocial Have been trying, for some time, to find out, from the Brexit Party, who our prospective Parliamentary candidate is for our constituency, but deafening silence! Total nil response! And people wonder why I don't trust politicians, local &amp; national! #BritishIndependence",['britishindependence']
-102,102,102,318478,1172791087838244864,1169576752441638656,neutral,remain,2019-09-14T08:35:59.000Z,@Femi_Sorry At least now you have changed your rhetoric from 'Nobody voted for a no deal' to 'Not all Brexit voters voted for a no deal' maybe you read one of my earlier tweets but either way the change should be applauded #BritishIndependence,['britishindependence']
-103,103,103,308424,1172580362775666688,221688224,negative,remain,2019-09-13T18:38:38.000Z,@Ciren0613 @OwenJones84 One fool follows another without knowing where the first fool is heading. Turns out the first fool was following the other and they were just going around in circles. That's Brexit. That's #BritishIndependence,['britishindependence']
-104,104,104,486614,1175493223374106624,1631109614,positive,leave,2019-09-21T19:33:18.000Z,"@hattiepolitics @MoggMentum Trust me, I voted #BritishIndependence so get on with it or have a GE So we can Kick you out of parliament. Plenty off Brexit MEPs will be looking for a new job!",['britishindependence']
-105,105,105,263393,1172074212300939264,1171650231886389248,neutral,other,2019-09-12T09:07:22.000Z,A big Brexit thanks for all the follows and retweet’s.. I’m at work at the min ( I would be I’m not a lefty ponce) but soon as I get time I’ll follow you all back.. No Surrender to the EU #BritishIndependence,['britishindependence']
-106,106,106,327351,1172903520590270464,2922619011,neutral,leave,2019-09-14T16:02:45.000Z,"@Boomera15476385 Yes I am. But what will be, will be. We need to start looking Beyond Brexit. It's taking over everything! So many things are being pushed aside and forgotten! #BritishIndependence 🇬🇧",['britishindependence']
-107,107,107,235169,1171787589919154176,1022093662623281280,negative,other,2019-09-11T14:08:26.000Z,"@MartinDaubney I read the part that I don't have to pay for and saw the words ""king maker"" for Nigel and the Brexit Party.
-
-Boris, Cummings, et al are going to hate those two words. They need to suck it up if they want to stay in govt.
-
-#BritishIndependence",['britishindependence']
-108,108,108,266785,1172094838289895424,704702348724142080,negative,other,2019-09-12T10:29:20.000Z,"The lawsuit brought in Belfast claiming that Brexit #BritishIndependence will damage the Northern Ireland peace process has been DISMISSED.
-
-Project Fear unraveling 👏👏👏",['britishindependence']
-109,109,109,243359,1171860024718700544,303348279,neutral,remain,2019-09-11T18:56:16.000Z,The Brexit Party are the only party that will deliver #BritishIndependence,['britishindependence']
-110,110,110,223879,1171712732204343296,265569557,positive,other,2019-09-11T09:10:59.000Z,#BritishIndependence brexit peddlers clearly don't respond well to polite challenge. https://t.co/SO8DWUVZ3U,['britishindependence']
-111,111,111,408770,1174137806173724672,1156953960655273984,neutral,other,2019-09-18T01:47:22.000Z,"@higgyboson @LibDems At least with all of these Brexit shenanigans, all of the dumbest politicians, @SamGyimah, seem to be finding one common home in the LibUnDems.
-When will Diane Abbott and Barry Gardiner be moving across?
-#BritishIndependence",['britishindependence']
-112,112,112,237122,1171804339259813888,1074309802225004544,neutral,remain,2019-09-11T15:15:00.000Z,"@BrexitBetrayed ""Brexit Stunt""?
-
-""Cupid Stunt"" more like.
-
-#BritishIndependence",['britishindependence']
-113,113,113,576984,1176582927674744832,1156953960655273984,neutral,remain,2019-09-24T19:43:24.000Z,"@wjrelliott @Hillchaser Brexit Party - Leave
-#BritishIndependence",['britishindependence']
-114,114,114,238157,1171813561934516224,1131584041415839744,positive,other,2019-09-11T15:51:39.000Z,BXP slowly gaining. The anger across the country is growing. A Brexit alliance is the only way to ensure that #BritishIndependence is achieved. https://t.co/hhuCLiOBhb,['britishindependence']
-115,115,115,290179,1172387383628615680,1113555251141984128,negative,remain,2019-09-13T05:51:48.000Z,"Boris: If you need to break the remainer law to enact our independence from the EU then do whatever it takes. No jury in the land would find you guilty. 
-
-John Bercow tells Boris Johnson not to break Brexit law like a 'bank robber'
-
-#BritishIndependence https://t.co/MpiiZ6f56o",['britishindependence']
-116,116,116,284893,1172252352457465856,4269035795,negative,remain,2019-09-12T20:55:14.000Z,"@NoDemocracyInUK @people_brexit To be fair, I thought he was taking the piss out of the opposition for saying they wanted a GER for years and then bottling it.
-
-#BritishIndependence",['britishindependence']
-117,117,117,428043,1174395750404558848,908762794933329920,positive,other,2019-09-18T18:52:20.000Z,"@BrexitAlex @BrexBox @Nigel_Farage @RupertLowe10 @drdavidbull @BelindadeLucy Said it before but have to say it again: @brexitparty_uk + Brexit MEPs We really appreciate what you are doing for us the public. Like the POTUS in the U.S you are wanting the U.K to have true #BritishIndependence and to bring peace, prosperity and health back to the U.K! So...",['britishindependence']
-118,118,118,345182,1173218581229854720,99728277,negative,remain,2019-09-15T12:54:41.000Z,"Brexit is not working, because we still haven’t bloody left yet. We leave and you see us fly, Guy. #BritishIndependence https://t.co/wxeTAunxm5",['britishindependence']
-119,119,119,343973,1173205435207360512,1074309802225004544,negative,other,2019-09-15T12:02:27.000Z,"@ActionBrexit @MetroUK ""Anti-Brexit propaganda"" is anti-British propaganda.
-
-#BritishIndependence",['britishindependence']
-120,120,120,390522,1173877416898510848,630058248,positive,other,2019-09-17T08:32:40.000Z,@OwenPaterson @BorisJohnson Just better not be May's chopped up 'deal'. That would not be Brexit #BritishIndependence,['britishindependence']
-121,121,121,703191,1178066585438883840,1631109614,positive,remain,2019-09-28T21:58:56.000Z,"@Fransfedup @HuwOS @JMPSimor Then there natural home would be the Brexit Party. Leavers 1st and foremost want to be out, May's surrender document would leave us in all but name only.! #BritishIndependence",['britishindependence']
-122,122,122,437950,1174604098492129280,1015802182053056256,negative,other,2019-09-19T08:40:14.000Z,"@mattersofpersp @afneil What split the country is the inability to accept democracy and the endless attempts by remain to reframe Brexit, what it is and isn't, why people voted, what they did and didn't vote for, and ultimately try taking control and/or stopping #BritishIndependence.",['britishindependence']
-123,123,123,250537,1171910330416541696,411009339,neutral,leave,2019-09-11T22:16:10.000Z,"@DianaJohnsonMP @KarlTurnerMP @EmmaHardyMP 
-
-Caller Who Used To Run Port Of Dover On What No-Deal Brexit Will REALLY Mean - LBC @LBC https://t.co/My1aZ5IdxO
-
-#BritishIndependence",['britishindependence']
-124,124,124,349141,1173267357793509376,1069191475,positive,remain,2019-09-15T16:08:31.000Z,⁦@LibDems⁩ agree to cancel Brexit without 2nd referendum if they win next election. Proof positive that this shower of Sh1.e hate democracy. Remember a referendum morons? #BritishIndependence NOW PLEASE ⁦@BorisJohnson⁩ https://t.co/TclwcW2Mdv,['britishindependence']
-125,125,125,220776,1171693130388840448,102955736,negative,leave,2019-09-11T07:53:05.000Z,"I suspect Dominic Cummings is behind this pitiful attempt to rebrand the wilfully idiotic carnage of hard Brexit with the superficially fluffy sounding 
-#BritishIndependence.
-
-We were NEVER independent - we we dependent on the brutalised colonies we robbed and sponged off",['britishindependence']
-126,126,126,235733,1171792648044195840,931188956946935808,neutral,remain,2019-09-11T14:28:32.000Z,@rockter @keithsonofhod Brexit Party is the only option for leavers #BritishIndependence,['britishindependence']
-127,127,127,224883,1171717683907313664,45010849,positive,other,2019-09-11T09:30:39.000Z,"Apparently we want to become independent of all logic and rational thought. We can retreat to the caves, and turn our backs on a globalised world. Thanks, Brexit! #BritishIndependence",['britishindependence']
-128,128,128,581280,1176623481619980288,1168460411307462656,positive,remain,2019-09-24T22:24:33.000Z,"@SooksThe @Countess_Brexit Noooo. You have to keep the faith!! There's 37 days left until #BritishIndependence. We've come this far, we have to carry on. He's got something planned.",['britishindependence']
-129,129,129,235475,1171790377721970688,53646835,positive,leave,2019-09-11T14:19:31.000Z,"🇦🇮🇹🇨🇧🇲🇰🇾 all considering gaining independence because of Brexit.
-
-Says George Galloway's Russian employers.
-
-#BritishIndependence
-
-Why Brexit Could Boost Independence Bids by Britain's Last Colonies in Caribbean: https://t.co/PMdLhM45dd via @SputnikInt",['britishindependence']
-130,130,130,492328,1175687906121388032,191934632,negative,other,2019-09-22T08:26:54.000Z,"Junker has said he’s not responsible if there’s a hard border and the EU is not responsible either? The fault is the British people who voted for Brexit! Ridge replied this is why so many people hate Brussels and sums up the negative attitude of EU..
-#BritishIndependence https://t.co/rQ7ONCW5oY",['britishindependence']
-131,131,131,251807,1171923566058754048,1001138621347491840,negative,leave,2019-09-11T23:08:46.000Z,"Brexit is no longer just about leaving the EU, remain MP’s have gone against the referendum and thus usurped the public. It is now a question of which sovereign, the parliamentarian elites, or the citizens of the U.K. there can only be one legitimate outcome #BritishIndependence",['britishindependence']
-132,132,132,286382,1172270665535279104,1105555341255819264,positive,remain,2019-09-12T22:08:01.000Z,@ramblanista Don’t worry we’re doing something about the Tin pot dictatorship by enacting the will of the people and getting #BritishIndependence via a Clean Break Brexit - hopefully we can fix the rest of it with a General Election while your gone - take care,['britishindependence']
-133,133,133,222701,1171705428515930112,311959416,neutral,leave,2019-09-11T08:41:58.000Z,#BritishIndependence is *exactly* why the rest of us believe only morons voted for Brexit,['britishindependence']
-134,134,134,524454,1176145373712269312,1141232712667283328,positive,other,2019-09-23T14:44:43.000Z,"""I don’t know how to inspect a cow with virtual methods."" has to be one of the best Brexit quotes yet. #BritishIndependence   https://t.co/B4yCeBO8mn",['britishindependence']
-135,135,135,296200,1172448318334496768,232592152,negative,remain,2019-09-13T09:53:56.000Z,@SkyNews What does that make all the MPs that are trying to stop Brexit. #BritishIndependence,['britishindependence']
-136,136,136,376003,1173635580200140800,102464462,positive,leave,2019-09-16T16:31:42.000Z,"To keep the tone balanced I'll say it now, I don't particularly give a toss what you think about Brexit, each to their own. I have never used the hashtag #BritishIndependence but knowing that it winds some people up, I'll make an exception",['britishindependence']
-137,137,137,314286,1172722502788886528,1286317154,positive,other,2019-09-14T04:03:27.000Z,@inacentre @BorisJohnson @michaelgove David Cameron walked away from responsibility after the Referendum. David Cameron intervenes in the Brexit debate to make money. What a charmer! #BritishIndependence,['britishindependence']
-138,138,138,539812,1176391631953715200,1037976211224440832,neutral,leave,2019-09-24T07:03:16.000Z,We tactically vote brexit at every opp until it is delivered #BritishIndependence https://t.co/Wih4VYtPEv,['britishindependence']
-139,139,139,614133,1176957519077552128,316535085,positive,remain,2019-09-25T20:31:54.000Z,Nomination of @Nigel_Farage as UK commissioner to the EU if forced? Is this true or rumour. He might. It be welcome 😂#brexit #BritishIndependence,['britishindependence']
-140,140,140,286415,1172270965411188736,33529962,positive,remain,2019-09-12T22:09:12.000Z,"@LeslieH24367191 @2112Frankie Let’s be clear , all those wanting to take no deal off the table want to halt Brexit completely.  How they square the lie with their consciences is unclear, maybe just thinking they are superior and clever is sufficient . #BritishIndependence",['britishindependence']
-141,141,141,431445,1174446789442920448,217872947,neutral,leave,2019-09-18T22:15:09.000Z,@jeremycorbyn The power was put in the hands of the people we voted for brexit and the politicians took the power away! #BritishIndependence,['britishindependence']
-142,142,142,229315,1171743398946119680,779890435,positive,other,2019-09-11T11:12:50.000Z,One of the core divisions over the narrow brexit ref win is that The majority of support for leave was in England while Scotland in particular voted against it. So the answer is simple. Why doesn’t England break away on their own and leave the rest of us be? #BritishIndependence,['britishindependence']
-143,143,143,529232,1176194099512262656,187932362,neutral,other,2019-09-23T17:58:20.000Z,@BrexitBetrayed I find the EU stance unacceptable. This is why we must have a clean Brexit. #BritishIndependence,['britishindependence']
-144,144,144,421850,1174319066787602432,353584648,neutral,leave,2019-09-18T13:47:37.000Z,Thought the people had already voted on Brexit #BritishIndependence https://t.co/gq91JGIs34,['britishindependence']
-145,145,145,290230,1172388227568685056,1129337949022297856,neutral,remain,2019-09-13T05:55:10.000Z,@MoggMentum The Brexit party for #BritishIndependence in conjunction with the Tory party. That would work.,['britishindependence']
-146,146,146,256048,1172032187878780928,73378045,negative,leave,2019-09-12T06:20:23.000Z,"@davd_farrell @Lordbrexit You can't vote BREXIT. It wasn't on the Paper. If you vote to leave you're a Leaver or remain you're a Remainer.
-#BritishIndependence",['britishindependence']
-147,147,147,349597,1173273577698877440,1037976211224440832,negative,other,2019-09-15T16:33:13.000Z,Jo Swindle brexit betrayal of 17.4 million votes #BritishIndependence https://t.co/ApylRldrtZ,['britishindependence']
-148,148,148,492311,1175687764186161152,191934632,negative,other,2019-09-22T08:26:20.000Z,"Junker has said he’s not responsible if there’s a hard border and the EU is not responsible either? The fault is the British people who voted for Brexit! Ridge replied this is why so many people hate Brussels and sums up the negative attitude of EU..
-#BritishIndependence https://t.co/1IXJxElNSq",['britishindependence']
-149,149,149,700031,1178017903490338816,1460342282,negative,leave,2019-09-28T18:45:29.000Z,"Moron:""its racist bullshit""..i'm missing something here,while backing johnson,with fingers crossed,im totally not racist,and a brexit party supporter who are our last line of defence in #BritishIndependence ..I still don't understand the logic of foreign control of our country. https://t.co/pZuD1xGt4Q",['britishindependence']
-150,150,150,436118,1174585678639882240,70925032,negative,other,2019-09-19T07:27:03.000Z,@Glostermeteor @Zobyismyname @BBCNormanS @BBCr4today @jeremycorbyn You mean Remain.  The BBC hate Brexit with a passion and it shows!   #BritishIndependence,['britishindependence']
-151,151,151,492374,1175688419701350400,191934632,negative,other,2019-09-22T08:28:57.000Z,"@KA_Todd19 @bobmca1 Junker has said he’s not responsible if there’s a hard border and the EU is not responsible either? The fault is the British people who voted for Brexit! Ridge replied this is why so many people hate Brussels and sums up the negative attitude of EU..
-#BritishIndependence",['britishindependence']
-152,152,152,316610,1172773656172388352,1069562792607457280,neutral,other,2019-09-14T07:26:43.000Z,"The poor luvvie can’t sleep at night. Bless. #BritishIndependence 
-David Cameron says Brexit referendum result left him 'hugely depressed' and he 'thinks about it' every day https://t.co/QmVdTEJOs0 via @Telegraph",['britishindependence']
-153,153,153,379943,1173678595941765120,187932362,positive,leave,2019-09-16T19:22:37.000Z,@HHepplewhite @badger_keeper @BorisJohnson #BritishIndependence We need a clean Brexit ASAP.,['britishindependence']
-154,154,154,329725,1172945402649333760,825317245710630912,positive,remain,2019-09-14T18:49:10.000Z,"Brilliant! The whole Remain estab, already lacking credibility have reduced it to dust with their endless bs efforts to wreck Brexit #BritishIndependence https://t.co/cIUybzo9DZ",['britishindependence']
-155,155,155,269471,1172112423064604672,1141416729647693824,negative,remain,2019-09-12T11:39:13.000Z,@emilyhewertson As much as I have championed Boris he did say do or die and if this doesn’t happen then the Brexit party will the Conservative vote and we will have the worst deal of all a Corbyn led government #BritishIndependence,['britishindependence']
-156,156,156,256971,1172038677385666560,228807254,negative,leave,2019-09-12T06:46:10.000Z,Have been brexit banned not sure what it means #BritishIndependence https://t.co/yiSe6jMF1g,['britishindependence']
-157,157,157,418671,1174287922020966400,848796245950955520,neutral,other,2019-09-18T11:43:52.000Z,"@LeaveEUOfficial Summarising our views precisely...which is why The Brexit Party is the largest single elected group of MEPs.
-#BritishIndependence",['britishindependence']
-158,158,158,502340,1175822555980148736,1133336333345316864,positive,remain,2019-09-22T17:21:57.000Z,"@StandUp4Brexit Good you have to do what it takes to Get Brexit Done or the Tories will be yesterday's Toast! Do or Die, no kicking the Tory bucket.  Leavers want you to succeed! @BorisJohnson @conservatives #BritishIndependence",['britishindependence']
-159,159,159,323594,1172845680249004032,230830290,negative,leave,2019-09-14T12:12:55.000Z,"Our MPs support Hong Kong's struggle for independence yet claim that the Brexit independence struggle is xenophobic and racist.
-#BritishIndependence",['britishindependence']
-160,160,160,228379,1171737440014536704,348748338,negative,leave,2019-09-11T10:49:10.000Z,"I suspect Dominic Cummings is behind this pitiful attempt to rebrand the wilfully idiotic carnage of hard Brexit with the superficially fluffy sounding 
-#BritishIndependence.
-
-We were NEVER independent - we we dependent on the brutalised colonies we robbed and sponged off",['britishindependence']
-161,161,161,285808,1172264807262838784,115208362,neutral,remain,2019-09-12T21:44:44.000Z,@JolyonMaugham Perhaps prorogation was Her Majs idea and Boris is implementing Her desire to Brexit. You have no evidence otherwise. #BritishIndependence,['britishindependence']
-162,162,162,460621,1174985270183288832,42527025,negative,remain,2019-09-20T09:54:53.000Z,"@GoodwinMJ it's critical that Boris drastically changes May's surrender treaty. He knows this, then a common sense deal with the brexit party will be struck. #BritishIndependence",['britishindependence']
-163,163,163,386680,1173842177434238976,94583465,negative,remain,2019-09-17T06:12:38.000Z,"@OxfordDiplomat Get help &amp; quick; your brexit derangement syndrome is severe to say the least. All decent reasoning, sense &amp; humility seem lost on you. Your bitter hatred shines through &amp; its not a good look. #BritishIndependence",['britishindependence']
-164,164,164,437012,1174594744653160448,994987680126693120,negative,other,2019-09-19T08:03:04.000Z,"@BrexitCentral It must now be a no deal exit or it will risk no Brexit
-
-#BritishIndependence",['britishindependence']
-165,165,165,595698,1176802098803068928,1079760458,positive,leave,2019-09-25T10:14:18.000Z,It’s a total stitch up and I hope Boris overcomes it. He has my full support even if it means breaking the law. Brexit and #BritishIndependence have to be delivered o maintain our democracy. https://t.co/81G2Pw4gO7,['britishindependence']
-166,166,166,287468,1172284462119510016,228775344,positive,other,2019-09-12T23:02:50.000Z,"@phantomsteve @Saczak1 @meophamister Highly unlikely, far too many variables. It would be about as useful as BoE forecasts! However as you well know Brexit voters did not vote based on economics, that's the Remain position. #BritishIndependence",['britishindependence']
-167,167,167,487481,1175514298539479040,711265537993666560,positive,remain,2019-09-21T20:57:03.000Z,"""Clean break Brexit is empowerment, independence and opportunity"". #BritishIndependence , why would anyone think it's a bad thing? Cowards, traitors, fatheads and the parasites who've most to lose are not to be borne. https://t.co/8HcwRGOYyD",['britishindependence']
-168,168,168,575856,1176572655547355136,307293455,negative,other,2019-09-24T19:02:35.000Z,"@243Andrew @GeodanNew @lewis_goodall @SkyNews Not sure what you think Brexit is, but agreeing to a withdrawal agreement which meant being governed by the eu is not Brexit. Mays deal would’ve meant we were a vassal state in the eu in perpetuity. #BritishIndependence",['britishindependence']
-169,169,169,302594,1172510774729859072,21890033,negative,other,2019-09-13T14:02:07.000Z,@errjustsaying @brexit_dr What’s so wrong with #BritishIndependence anyway I’ll take ur advice and desist from using #BritishIndependence (for a while at least),['britishindependence']
-170,170,170,430635,1174434494436261888,2389096058,neutral,remain,2019-09-18T21:26:18.000Z,"@LBC @IainDale Brexit Party obvs, 'does what it says on the tin'.
-
-#BritishIndependence",['britishindependence']
-171,171,171,323620,1172845939733794816,97863902,negative,other,2019-09-14T12:13:57.000Z,"@Femi_Sorry The deal did not deliver on the main issues that caused the Brexit decision or the things promised by May in order to get elected. May's deal was not Brexit the people voted for.
-
-Parliament is obstructing Brexit in order to prevent the people's vote for #BritishIndependence",['britishindependence']
-172,172,172,225485,1171720586604797952,2748240700,neutral,remain,2019-09-11T09:42:12.000Z,"#BritishIndependence 
-
-A No-Deal Brexit is essentially self-imposed colonial karma.",['britishindependence']
-173,173,173,666969,1177551979851190272,48023381,negative,other,2019-09-27T11:54:04.000Z,@benrosie1 There’s no such thing as a “no deal” Brexit. Lets use #BritishIndependence,['britishindependence']
-174,174,174,368202,1173564427926474752,748214638442061824,positive,remain,2019-09-16T11:48:58.000Z,"#BritishIndependence 
-My thinking is if Boris takes us out and I mean out then he will get my vote, if he comes back with a BRINO deal then I will vote Brexit Party because anything other than a clean break is not Brexit. https://t.co/lkc8lUeV8r",['britishindependence']
-175,175,175,356327,1173380102807269376,946908960992432000,positive,remain,2019-09-15T23:36:31.000Z,"@LibDems @SiobhanBenita Liberal Democrats are neither Liberal or Democrats.
-
-They are politically career minded, motivated by cancelling Brexit.
-
-#BritishIndependence",['britishindependence']
-176,176,176,302588,1172510620136235008,1106129955279245056,positive,other,2019-09-13T14:01:30.000Z,@Lugey6 We now see MPs true colours as the 31st looms. It was definitely to stop #BritishIndependence (Brexit) altogether and not to honour the referendum,['britishindependence']
-177,177,177,289997,1172383562969911296,1168859702937231104,neutral,other,2019-09-13T05:36:37.000Z,"I agree @MichelBarnier
-The WA is shite and should be binned.
-We dont want it .
-
-We want #BritishIndependence
-
-Michel Barnier: no grounds for reopening Brexit talks https://t.co/pNW51lNqFr",['britishindependence']
-178,178,178,309821,1172599505545510912,984790626381258880,positive,other,2019-09-13T19:54:42.000Z,@sunick51 @Tomwin100 @LeanneWood @BylineTimes As leavers we no longer use the media’s term for leaving ‘brexit’ we use the true leavers term #BritishIndependence pass it round👍🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧,['britishindependence']
-179,179,179,494844,1175712154760208384,191934632,negative,other,2019-09-22T10:03:16.000Z,"Junker has said he’s not responsible if there’s a hard border and the EU is not responsible either? The fault is the British people who voted for Brexit! Ridge replied this is why so many people hate Brussels and sums up the negative attitude of EU..
-#BritishIndependence https://t.co/jYev6KTwcc",['britishindependence']
-180,180,180,501558,1175809173055037440,175156844,positive,leave,2019-09-22T16:28:46.000Z,@TiceRichard Great positivity! My first ever political rally. Finally some positivity about Brexit. Ann’s speech was a barnstormer. Well done all.@brexitparty_uk #BritishIndependence,['britishindependence']
-181,181,181,260958,1172060468107763712,2738155487,positive,other,2019-09-12T08:12:46.000Z,Bye bye Boris. The only way we'll ever get #BritishIndependence is to vote for @Nigel_Farage and the Brexit Party. The smell of coffee could not be stronger!!! https://t.co/hXaPJJyi74,['britishindependence']
-182,182,182,462092,1175003618455560192,1656245251,negative,leave,2019-09-20T11:07:47.000Z,"@bennythesetter @MarkFletch117 @RachelSJohnson @thatginamiller @you He checked with all his mates in the pub and in their expert opinion: Brexit means Brexit, No Deal is better than a Bad Deal, Fuck Remoaners, #BritishIndependence.
-Not to forget that anyone who is (or does anything) against Boris taking us out of Europe with No Deal is a traitor.",['britishindependence']
-183,183,183,595897,1176803366007123968,17715104,positive,other,2019-09-25T10:19:21.000Z,"Professor RICHARD EKINS argues with  Supreme Court https://t.co/w5MRLYFxxU via @MailOnline 
-
-Disgraceful Judicial interference to delay People's BREXIT. Parliament's true remedy was GE &amp; face the ballot, not extend Judicial power into the political process. 
-#BritishIndependence",['britishindependence']
-184,184,184,403354,1174028323447627776,997137450635055232,negative,leave,2019-09-17T18:32:19.000Z,"Remoaners spew out childlike comments and failed attempts at humour
-
-But because their imbecility can't be used to block out the reality of living inside the EU
-
-We Brexit 31st October
-
-#BritishIndependence https://t.co/SiuPkXw4R0",['britishindependence']
-185,185,185,448837,1174730587447484416,913390712028368896,negative,remain,2019-09-19T17:02:52.000Z,"@kaznorbury @DVATW @Nigel_Farage @brexitparty_uk Nothing will improve with a defeatist attitude. Indeed, if we don't fight back, things will continue to get worse, just as they have for the last 25+ years.
-Brexit is a springboard, which is partly why the establishment is so desperate to scupper it.
-#BritishIndependence",['britishindependence']
-186,186,186,317053,1172778094643560448,224623891,negative,other,2019-09-14T07:44:21.000Z,"#BritishIndependence
-Brexit-bashing Lords receive £500k in EU pensions a year and aren't allowed to criticise Brussels... but won't say so in Brexit debate https://t.co/5r81KhbUPF",['britishindependence']
-187,187,187,375604,1173631539327983616,129027459,negative,other,2019-09-16T16:15:38.000Z,"A TV scientist doesn't like opposite opinions.
-
-All he does is voice his anti brexit opinion but when anyone voices anything against his view, he blocks.
-
-No surprise from a bias, hypocritical child.
-
-#BritishIndependence https://t.co/7iTjasV9VD",['britishindependence']
-188,188,188,336685,1173135986387292160,3226281353,positive,other,2019-09-15T07:26:29.000Z,"@joswinson To true Brexit party waiting
-#britishindependence",['britishindependence']
-189,189,189,450210,1174749470564765696,447952582,negative,other,2019-09-19T18:17:54.000Z,More Brexit misery for Huddersfield. #BritishIndependence https://t.co/nihWRXwZZx,['britishindependence']
-190,190,190,278158,1172184044651634688,29141378,neutral,other,2019-09-12T16:23:49.000Z,#BritishIndependence the new name for brexit,['britishindependence']
-191,191,191,286019,1172266908944613376,260812751,positive,other,2019-09-12T21:53:05.000Z,Is hard work to find the reality of what is being planned post Brexit. We already have trade deals in place with 49 countries so why is nobody jumping for joy rather than assuming we are on a one way trip to hell? #BritishIndependence,['britishindependence']
-192,192,192,695029,1177944871962861568,2256762803,neutral,other,2019-09-28T13:55:17.000Z,@SteveBarclay Here's the checklist for your next visit to Brussels to get close to a proper Brexit 🤔  #BritishIndependence https://t.co/Ddugc1dD59,['britishindependence']
-193,193,193,281149,1172211150303432704,1171650231886389248,positive,leave,2019-09-12T18:11:31.000Z,A massive thank you for all the follows 😊 Great people.. Great Britain.. Let’s make a great Brexit #BritishIndependence,['britishindependence']
-194,194,194,421433,1174314372795179008,913390712028368896,neutral,remain,2019-09-18T13:28:58.000Z,"@RogerHelmerMEP Anything that leads to a WTO Brexit gets my vote.
-#BritishIndependence",['britishindependence']
-195,195,195,267038,1172096243377610752,2449730299,negative,other,2019-09-12T10:34:55.000Z,@AgrippaSPQR @Nigelsmate @resurgentsheep @JennyFefs @Conservatives @brexitparty_uk #BritishIndependence we  need alliance with Brexit Party or Cons are doomed @10DowningStreet,['britishindependence']
-196,196,196,281173,1172211318482460672,295068067,neutral,leave,2019-09-12T18:12:11.000Z,@bbcquestiontime @BrandonLewis @JohnHealey_MP @J_Donaldson_MP @CSBarnard24 @afuahirsch @BBCOne Wow this is a must watch😳 yet more #BritishIndependence hating z listers. I’m sure the planted boast questions will be just as dire - when will you have one question that actually sees the positive in brexit!,['britishindependence']
-197,197,197,350260,1173283004044709888,406201822,negative,other,2019-09-15T17:10:41.000Z,"@richardplackett That one sentence speaks volumes as to the direction of the EU. They’re so close now, Military, Fed State (2025) they’re openly talking about it. A few more pieces to move around the chess board and it’ll be checkmate for Europe &amp; us if no clean Brexit.. #BritishIndependence",['britishindependence']
-198,198,198,240427,1171833261162729472,1132339221094649728,neutral,remain,2019-09-11T17:09:55.000Z,"@MajorGrubert @MoggMentum Not really ,because the next general election will be more of a referendum for brexit or remain. #BritishIndependence",['britishindependence']
-199,199,199,293059,1172419623196618752,910154037466734592,positive,leave,2019-09-13T07:59:55.000Z,"Mine too.  I've donated £100 in total to the Brexit Party.  This month I'll bung them another £25 or so.  I'll do this every month from now on.
-#BritishIndependence https://t.co/Y5IWdDq82N",['britishindependence']
+#GoBoris 
+#Brexit","['brexit', 'britishindependence', 'rorystewart', 'democracynow', 'goboris']"
+419288,1174293739856105472,711591530427973632,neutral,remain,2019-09-18T12:06:59.000Z,#BritishIndependence #Brexit #SingASongForJohnson Why on earth are we still in the EU https://t.co/QptIc1Csh4,"['brexit', 'britishindependence', 'singasongforjohnson']"
+281352,1172213157659648000,98456136,negative,other,2019-09-12T18:19:30.000Z,Belfast High Court dismisses no-deal Brexit challenge #BritishIndependence #StandUp4Brexit #Brexit  https://t.co/C9JxIcWywO,"['brexit', 'britishindependence', 'standup4brexit']"
+281418,1172213758271414272,98456136,neutral,other,2019-09-12T18:21:53.000Z,"Belfast court dismisses third legal challenge to Brexit as 'unmistakably political' #BritishIndependence #StandUp4Brexit #Brexit 
+https://t.co/OCcLoLALMd","['brexit', 'britishindependence', 'standup4brexit']"

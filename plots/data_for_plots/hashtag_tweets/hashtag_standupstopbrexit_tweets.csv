@@ -1,17 +1,17 @@
 ,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-402453,999209561117556736,45970216,positive,remain,2018-05-23T08:44:58.000Z,"Last stand before Brexit. #Wiseup #RiseUp
-Take to the streets and shout
-UKGov are not fit for purpose
-They are not representing our best interests. 
-If Brexit isn't the will of enough people now, we need to show it &amp; soon.
-#PeoplesVote #PeoplesMarch
-#StandUpStopBrexit #StopBrexit https://t.co/7yAN2OKK3Y","['riseup', 'wiseup', 'standupstopbrexit', 'stopbrexit', 'peoplesvote', 'peoplesmarch']"
 402452,999209561117556736,45970216,positive,remain,2018-05-23T08:44:58.000Z,"Last stand before Brexit. #Wiseup #RiseUp
 Take to the streets and shout
 UKGov are not fit for purpose
 They are not representing our best interests. 
 If Brexit isn't the will of enough people now, we need to show it &amp; soon.
 #PeoplesVote #PeoplesMarch
-#StandUpStopBrexit #StopBrexit https://t.co/7yAN2OKK3Y","['riseup', 'wiseup', 'standupstopbrexit', 'stopbrexit', 'peoplesvote', 'peoplesmarch']"
-346673,1054067001063362560,2344911886,negative,remain,2018-10-21T17:48:51.000Z,"Brexit could kill off entire industries, says Jaguar Land Rover chief | Politics | The Guardian #BrexitChaos  #StandUpStopBrexit  https://t.co/v4xGjfOxtH","['brexitchaos', 'standupstopbrexit']"
-346674,1054067001063362560,2344911886,negative,remain,2018-10-21T17:48:51.000Z,"Brexit could kill off entire industries, says Jaguar Land Rover chief | Politics | The Guardian #BrexitChaos  #StandUpStopBrexit  https://t.co/v4xGjfOxtH","['brexitchaos', 'standupstopbrexit']"
+#StandUpStopBrexit #StopBrexit https://t.co/7yAN2OKK3Y","['wiseup', 'peoplesvote', 'peoplesmarch', 'riseup', 'stopbrexit', 'standupstopbrexit']"
+402453,999209561117556736,45970216,positive,remain,2018-05-23T08:44:58.000Z,"Last stand before Brexit. #Wiseup #RiseUp
+Take to the streets and shout
+UKGov are not fit for purpose
+They are not representing our best interests. 
+If Brexit isn't the will of enough people now, we need to show it &amp; soon.
+#PeoplesVote #PeoplesMarch
+#StandUpStopBrexit #StopBrexit https://t.co/7yAN2OKK3Y","['wiseup', 'peoplesvote', 'peoplesmarch', 'riseup', 'stopbrexit', 'standupstopbrexit']"
+346674,1054067001063362560,2344911886,negative,remain,2018-10-21T17:48:51.000Z,"Brexit could kill off entire industries, says Jaguar Land Rover chief | Politics | The Guardian #BrexitChaos  #StandUpStopBrexit  https://t.co/v4xGjfOxtH","['standupstopbrexit', 'brexitchaos']"
+346673,1054067001063362560,2344911886,negative,remain,2018-10-21T17:48:51.000Z,"Brexit could kill off entire industries, says Jaguar Land Rover chief | Politics | The Guardian #BrexitChaos  #StandUpStopBrexit  https://t.co/v4xGjfOxtH","['standupstopbrexit', 'brexitchaos']"

@@ -1,260 +1,288 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,371577,789150557839695872,203652187,positive,other,2016-10-20T17:05:29.000Z,Please fight #Brexit for good of UK and us  all. #Brexitwontwork https://t.co/p3D5hIgLEb,"['brexit', 'brexitwontwork']"
-1,1,1,284652,787329071487254528,203652187,neutral,remain,2016-10-15T16:27:33.000Z,@theresa_may #putthebrakeson now. You don't need to do this. #Brexit is rubbish. Most people now realise #Brexitwontwork https://t.co/Uq6kH6sND3,"['putthebrakeson', 'brexit', 'brexitwontwork']"
-2,2,2,751876,904773773446062080,747436971417559040,negative,remain,2017-09-04T18:30:52.000Z,"Who will get the blame when #Brexit fails?
-#Brexitwontwork https://t.co/HIHkP6AANe","['brexit', 'brexitwontwork']"
-3,3,3,466375,892668611252424704,746985479992709120,neutral,remain,2017-08-02T08:49:16.000Z,Brexit was a vote people were thinking they having a Joseph they ended having the pharaoh #StopBrexit #BrexitCoup #brexitwontwork #EU,"['brexitcoup', 'eu', 'stopbrexit', 'brexitwontwork']"
-4,4,4,582707,897357249349382144,239961306,neutral,remain,2017-08-15T07:20:14.000Z,#Brexitwontwork #brexitshambles No such thing as a good Brexit which is why the Govt is in chaos about what it wants,"['brexitshambles', 'brexitwontwork']"
-5,5,5,476019,893010341990457344,747436971417559040,positive,other,2017-08-03T07:27:11.000Z,#Brexitwontwork Britain's top universities give Theresa May 10 demands.. to protect higher education after Brexit https://t.co/X8mEQezE43,['brexitwontwork']
-6,6,6,500867,893821341572501504,747436971417559040,negative,remain,2017-08-05T13:09:48.000Z,"Brexit UK = ""foreign workers not welcome"" 
-So guess what? They aren't coming, 20% shortfall already
-#BrexitwontWork
-https://t.co/VkmMBikMqr",['brexitwontwork']
-7,7,7,460855,892440527207100416,55788328,negative,other,2017-08-01T17:42:57.000Z,"Retweeted BritainStays (@BritainStays):
+,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+371577,789150557839695872,203652187,positive,other,2016-10-20T17:05:29.000Z,Please fight #Brexit for good of UK and us  all. #Brexitwontwork https://t.co/p3D5hIgLEb,"['brexit', 'brexitwontwork']"
+284652,787329071487254528,203652187,neutral,remain,2016-10-15T16:27:33.000Z,@theresa_may #putthebrakeson now. You don't need to do this. #Brexit is rubbish. Most people now realise #Brexitwontwork https://t.co/Uq6kH6sND3,"['brexit', 'putthebrakeson', 'brexitwontwork']"
+754647,904943775453241344,424307445,negative,other,2017-09-05T05:46:23.000Z,"UK 'does not have capacity to strike new trade deals after #Brexit ' #brexitshambles #Brexitwontwork 
 
-#brexitwontwork the Tories are screwing up brexit. There is no such... https://t.co/vZeAmehEGZ",['brexitwontwork']
-8,8,8,582300,897348322486300672,747436971417559040,negative,leave,2017-08-15T06:44:46.000Z,"#brexitwontwork ""doesn’t matter how it’s dressed up..government’s extreme Brexit will end up leaving Britain poorer"" https://t.co/bcvfiTam3W",['brexitwontwork']
-9,9,9,862087,908811902628884480,747436971417559040,negative,other,2017-09-15T21:56:57.000Z,"Theresa Mays ‘reckless’ Brexit..a threat to millions of pounds of investment in schools and hospital
+https://t.co/3S31lQ7JKc","['brexit', 'brexitshambles', 'brexitwontwork']"
+761988,905166765247823872,424307445,negative,remain,2017-09-05T20:32:28.000Z,"Leaked document reveals UK #Brexit  plan to deter EU immigrants #brexitshambles #Brexitwontwork 
+
+https://t.co/jOXUc7EuKg","['brexit', 'brexitshambles', 'brexitwontwork']"
+907735,910497608250118144,424307445,positive,other,2017-09-20T13:35:20.000Z,"The real saboteurs are the Tory fantasists backing hard #Brexit #brexitshambles #Brexitwontwork #WednesdayWisdom 
+
+https://t.co/NQW6L2Ucnk","['brexit', 'brexitshambles', 'wednesdaywisdom', 'brexitwontwork']"
+920519,910973678296453120,19441006,positive,remain,2017-09-21T21:07:04.000Z,"acgrayling: RT BritainStays: New £10 note worth £8.60 compared to pre #Brexit
+money 
+https://t.co/qHafHAzxCz
+#brexitwontwork","['brexit', 'brexitwontwork']"
+751876,904773773446062080,747436971417559040,negative,remain,2017-09-04T18:30:52.000Z,"Who will get the blame when #Brexit fails?
+#Brexitwontwork https://t.co/HIHkP6AANe","['brexit', 'brexitwontwork']"
+440567,891749379299827712,440260593,negative,other,2017-07-30T19:56:34.000Z,"@max1e6 #Brexit must really be falling apart before you acknowledge ""smug remainers"". Your words, not mine. #brexitwontwork","['brexit', 'brexitwontwork']"
+1154855,918379874049581056,1258835366,positive,other,2017-10-12T07:36:39.000Z,"Wow, trucks leave #UK empty, exports to #Germany down from 1,65m tons to 1,48yoy https://t.co/Z3oFFvVEgE #Brexit #Brexitwontwork @zeitonline","['brexit', 'brexitwontwork', 'uk', 'germany']"
+466375,892668611252424704,746985479992709120,neutral,remain,2017-08-02T08:49:16.000Z,Brexit was a vote people were thinking they having a Joseph they ended having the pharaoh #StopBrexit #BrexitCoup #brexitwontwork #EU,"['brexitcoup', 'stopbrexit', 'eu', 'brexitwontwork']"
+759342,905105849227599872,747436971417559040,positive,remain,2017-09-05T16:30:25.000Z,"The Brexit bill is cataclysmic. Only a swerve will save us | Polly Toynbee 
 #brexitwontwork
-https://t.co/reunudgF8I",['brexitwontwork']
-10,10,10,1153495,918360611238678528,747436971417559040,negative,other,2017-10-12T06:20:06.000Z,"""steep drop in EU nationals registering as nurses since the Brexit vote"" 
+#brexitshambles
+https://t.co/tNSQNBylMo","['brexitshambles', 'brexitwontwork']"
+582707,897357249349382144,239961306,neutral,remain,2017-08-15T07:20:14.000Z,#Brexitwontwork #brexitshambles No such thing as a good Brexit which is why the Govt is in chaos about what it wants,"['brexitshambles', 'brexitwontwork']"
+1674430,935902658732236800,88251779,positive,remain,2017-11-29T16:05:56.000Z,40-55 billion Euros for #Brexit is not what #Leave promised or what 37% voted for is clearly impossible to deliver #StopBrexit as it is now obvious that #brexitwontwork and so #BrexitWontHappen,"['brexitwonthappen', 'brexit', 'leave', 'stopbrexit', 'brexitwontwork']"
+1621709,934530733301026816,88251779,neutral,other,2017-11-25T21:14:24.000Z,Australia slams UK post-Brexit trade plans https://t.co/mQIZ7X7IWZ via @CityAM #StopBrexit #brexitwontwork #BrexitWontHappen,"['brexitwonthappen', 'stopbrexit', 'brexitwontwork']"
+1626287,934743731646992384,88251779,neutral,remain,2017-11-26T11:20:46.000Z,"Ireland promises to ""play tough""on Brexit as border issue looms https://t.co/KeBgcDuloK via @CityAM #StopBrexit #brexitwontwork #BrexitWontHappen","['brexitwonthappen', 'stopbrexit', 'brexitwontwork']"
+1626168,934741224292012032,88251779,negative,remain,2017-11-26T11:10:49.000Z,Senior Holyrood figures in bid to avert Brexit ‘power-grab’ crisis https://t.co/uFepYWhEBH #StopBrexit #brexitwontwork #BrexitWontHappen,"['brexitwonthappen', 'stopbrexit', 'brexitwontwork']"
+580643,897224503683670016,19441006,neutral,remain,2017-08-14T22:32:45.000Z,"acgrayling: RT BritainStays: Nonsense, what government studies would show is that #brexitwontwork and help to END BREXIT
+
+…",['brexitwontwork']
+1153495,918360611238678528,747436971417559040,negative,other,2017-10-12T06:20:06.000Z,"""steep drop in EU nationals registering as nurses since the Brexit vote"" 
 We are killing our NHS
 #brexitwontwork
 https://t.co/oW2Ueg7CuD",['brexitwontwork']
-11,11,11,580643,897224503683670016,19441006,neutral,remain,2017-08-14T22:32:45.000Z,"acgrayling: RT BritainStays: Nonsense, what government studies would show is that #brexitwontwork and help to END BREXIT
-
-…",['brexitwontwork']
-12,12,12,533033,895042219744407552,747436971417559040,negative,other,2017-08-08T22:01:08.000Z,The tragic truth is that Brexit.. will mean less money for our NHS rather than more #brexitwontwork https://t.co/VWZfyTD9TE,['brexitwontwork']
-13,13,13,974260,912452615056871424,747436971417559040,positive,leave,2017-09-25T23:03:50.000Z,"A Nobel laureate economist just said there is 'zero chance' Brexit will make Britain better off 
-#brexitwontwork
-https://t.co/GNS5VYUITt",['brexitwontwork']
-14,14,14,638191,899734341479223296,747436971417559040,negative,remain,2017-08-21T20:45:57.000Z,"#Brexitwontwork ""there is only one choice: hard Brexit and staying in (if Britain's lucky)"" https://t.co/uzWbkSPvXN",['brexitwontwork']
-15,15,15,488146,893386737132744704,747436971417559040,neutral,remain,2017-08-04T08:22:51.000Z,End Brexit #brexitwontwork https://t.co/JzwapugibI,['brexitwontwork']
-16,16,16,1108562,917421676727545856,747436971417559040,neutral,leave,2017-10-09T16:09:07.000Z,"What about the extra time clearing customs?  Brexit = Hours vs Current = 20 secs 
-#brexitwontwork https://t.co/9p0E5tRDuL",['brexitwontwork']
-17,17,17,949011,911728134269100032,747436971417559040,negative,leave,2017-09-23T23:05:00.000Z,"""Brexit means Brexit: Britain cannot leave the EU and expect to escape the consequences"" 
-#brexitwontwork
-https://t.co/OZ700WyRHY",['brexitwontwork']
-18,18,18,451758,892157322398769152,747436971417559040,negative,other,2017-07-31T22:57:35.000Z,"#Brexitwontwork There is growing household debt amid signs of Brexit downturn, warns credit rating agency Moody's https://t.co/o0Iv4dTn4X",['brexitwontwork']
-19,19,19,974305,912454029342646272,747436971417559040,negative,other,2017-09-25T23:09:27.000Z,"Brexit an “awful complicated mess”
-#brexitwontwork
- https://t.co/P5OT2Q4xNa",['brexitwontwork']
-20,20,20,476077,893011919463997440,747436971417559040,negative,other,2017-08-03T07:33:27.000Z,"#Brexitwontwork ""It will cost Britain £520m to stop hosting an agency that employs 890 people after Brexit"" https://t.co/xa2NtJ7hFU",['brexitwontwork']
-21,21,21,687245,902095274335772672,747436971417559040,positive,other,2017-08-28T09:07:28.000Z,"U.K. Can't Make Irish Peace a Brexit Bargain Chip, EU Says 
+752577,904835870217424896,747436971417559040,neutral,other,2017-09-04T22:37:37.000Z,"We're still no closer to a Brexit deal, but when one is agreed we should have another referendum 
+#brexitwontwork https://t.co/f7aTTFbqPw",['brexitwontwork']
+533033,895042219744407552,747436971417559040,negative,other,2017-08-08T22:01:08.000Z,The tragic truth is that Brexit.. will mean less money for our NHS rather than more #brexitwontwork https://t.co/VWZfyTD9TE,['brexitwontwork']
+632298,899520320570314752,747436971417559040,negative,remain,2017-08-21T06:35:31.000Z,"#brexitwontwork ""Right now, I feel that everything from Brexit will be negative,”  https://t.co/zH0mOp2ocP",['brexitwontwork']
+806901,906861850335301632,747436971417559040,negative,other,2017-09-10T12:48:08.000Z,"Prime Minister failing to prepare public for inevitable 'compromises' of Brexit, #brexitwontwork https://t.co/BvDkwCmSNa",['brexitwontwork']
+451758,892157322398769152,747436971417559040,negative,other,2017-07-31T22:57:35.000Z,"#Brexitwontwork There is growing household debt amid signs of Brexit downturn, warns credit rating agency Moody's https://t.co/o0Iv4dTn4X",['brexitwontwork']
+687245,902095274335772672,747436971417559040,positive,other,2017-08-28T09:07:28.000Z,"U.K. Can't Make Irish Peace a Brexit Bargain Chip, EU Says 
 #brexitwontwork
 https://t.co/wjvXdTouQY via @bpolitics",['brexitwontwork']
-22,22,22,500885,893821896025886720,747436971417559040,neutral,other,2017-08-05T13:12:01.000Z,"#BrexitwontWork
+500885,893821896025886720,747436971417559040,neutral,other,2017-08-05T13:12:01.000Z,"#BrexitwontWork
 UK car industry facing an 'utterly demoralising' Brexit https://t.co/LrimhAkJuh",['brexitwontwork']
-23,23,23,506298,894106516126654464,747436971417559040,neutral,other,2017-08-06T08:02:59.000Z,#brexitwontwork NHS 'could go under' if EU staff are not assured job security post Brexit https://t.co/6KVD4McsTd,['brexitwontwork']
-24,24,24,1108634,917422500799287296,747436971417559040,negative,other,2017-10-09T16:12:23.000Z,"What about the NHS inability to recruit?  6% shortage of staff before Brexit vote, 12% now
+974260,912452615056871424,747436971417559040,positive,leave,2017-09-25T23:03:50.000Z,"A Nobel laureate economist just said there is 'zero chance' Brexit will make Britain better off 
+#brexitwontwork
+https://t.co/GNS5VYUITt",['brexitwontwork']
+500867,893821341572501504,747436971417559040,negative,remain,2017-08-05T13:09:48.000Z,"Brexit UK = ""foreign workers not welcome"" 
+So guess what? They aren't coming, 20% shortfall already
+#BrexitwontWork
+https://t.co/VkmMBikMqr",['brexitwontwork']
+460855,892440527207100416,55788328,negative,other,2017-08-01T17:42:57.000Z,"Retweeted BritainStays (@BritainStays):
+
+#brexitwontwork the Tories are screwing up brexit. There is no such... https://t.co/vZeAmehEGZ",['brexitwontwork']
+638191,899734341479223296,747436971417559040,negative,remain,2017-08-21T20:45:57.000Z,"#Brexitwontwork ""there is only one choice: hard Brexit and staying in (if Britain's lucky)"" https://t.co/uzWbkSPvXN",['brexitwontwork']
+488146,893386737132744704,747436971417559040,neutral,remain,2017-08-04T08:22:51.000Z,End Brexit #brexitwontwork https://t.co/JzwapugibI,['brexitwontwork']
+582300,897348322486300672,747436971417559040,negative,leave,2017-08-15T06:44:46.000Z,"#brexitwontwork ""doesn’t matter how it’s dressed up..government’s extreme Brexit will end up leaving Britain poorer"" https://t.co/bcvfiTam3W",['brexitwontwork']
+633375,899556794267258880,103029808,positive,remain,2017-08-21T09:00:27.000Z,"@aintcricket @EUtopean And yet he has colluded in Brexit and supports the trashing of the UK economy and, therefore, of NHS, jobs,prospects. #brexitwontwork",['brexitwontwork']
+1108562,917421676727545856,747436971417559040,neutral,leave,2017-10-09T16:09:07.000Z,"What about the extra time clearing customs?  Brexit = Hours vs Current = 20 secs 
 #brexitwontwork https://t.co/9p0E5tRDuL",['brexitwontwork']
-25,25,25,551269,895904074142494720,747436971417559040,negative,other,2017-08-11T07:05:51.000Z,"#brexitwontwork
-The experts strike back! 
-How economists are being proved right on Brexit | Barry Eichengreen https://t.co/oNPmHBM4Pr",['brexitwontwork']
-26,26,26,869346,909193044909576192,747436971417559040,positive,other,2017-09-16T23:11:28.000Z,"time for May to provide a clear position and strategy over Brexit to..British citizens and business
+476077,893011919463997440,747436971417559040,negative,other,2017-08-03T07:33:27.000Z,"#Brexitwontwork ""It will cost Britain £520m to stop hosting an agency that employs 890 people after Brexit"" https://t.co/xa2NtJ7hFU",['brexitwontwork']
+862087,908811902628884480,747436971417559040,negative,other,2017-09-15T21:56:57.000Z,"Theresa Mays ‘reckless’ Brexit..a threat to millions of pounds of investment in schools and hospital
+#brexitwontwork
+https://t.co/reunudgF8I",['brexitwontwork']
+869346,909193044909576192,747436971417559040,positive,other,2017-09-16T23:11:28.000Z,"time for May to provide a clear position and strategy over Brexit to..British citizens and business
 #brexitwontwork
 https://t.co/xXzxG4QW5R",['brexitwontwork']
-27,27,27,632298,899520320570314752,747436971417559040,negative,remain,2017-08-21T06:35:31.000Z,"#brexitwontwork ""Right now, I feel that everything from Brexit will be negative,”  https://t.co/zH0mOp2ocP",['brexitwontwork']
-28,28,28,633375,899556794267258880,103029808,positive,remain,2017-08-21T09:00:27.000Z,"@aintcricket @EUtopean And yet he has colluded in Brexit and supports the trashing of the UK economy and, therefore, of NHS, jobs,prospects. #brexitwontwork",['brexitwontwork']
-29,29,29,806901,906861850335301632,747436971417559040,negative,other,2017-09-10T12:48:08.000Z,"Prime Minister failing to prepare public for inevitable 'compromises' of Brexit, #brexitwontwork https://t.co/BvDkwCmSNa",['brexitwontwork']
-30,30,30,762646,905184747743318016,747436971417559040,neutral,other,2017-09-05T21:43:56.000Z,"Morgan Stanley: Brexit might not happen
+1118854,917676962176479232,854701267771428864,negative,other,2017-10-10T09:03:32.000Z,Theresa May refusing to answer questions about secret advice that says Brexit can be stopped https://t.co/XWGwhQj3pm #brexitwontwork,['brexitwontwork']
+476047,893011132696363008,747436971417559040,positive,other,2017-08-03T07:30:20.000Z,"#Brexitwontwork Referendum on a united Ireland inevitable following Brexit vote, report author says https://t.co/QT9tjQIb1F",['brexitwontwork']
+506298,894106516126654464,747436971417559040,neutral,other,2017-08-06T08:02:59.000Z,#brexitwontwork NHS 'could go under' if EU staff are not assured job security post Brexit https://t.co/6KVD4McsTd,['brexitwontwork']
+476019,893010341990457344,747436971417559040,positive,other,2017-08-03T07:27:11.000Z,#Brexitwontwork Britain's top universities give Theresa May 10 demands.. to protect higher education after Brexit https://t.co/X8mEQezE43,['brexitwontwork']
+1517987,931410268432760832,88251779,negative,remain,2017-11-17T06:34:47.000Z,"Brian Wilson: Fundamentalists forced ‘bonkers’ Brexit deadline on May https://t.co/0YTNTPchhm ""#StopBrexit #brexitwontwork",['brexitwontwork']
+667709,901079559600263168,2374482812,neutral,other,2017-08-25T13:51:22.000Z,EU 💙 Brexit 🦀🕷🐜🦂🐍 @BritainStays #brexitwontwork https://t.co/tiw6ZOyxvf,['brexitwontwork']
+762646,905184747743318016,747436971417559040,neutral,other,2017-09-05T21:43:56.000Z,"Morgan Stanley: Brexit might not happen
 #brexitwontwork
 https://t.co/yvS9BS8119",['brexitwontwork']
-31,31,31,762778,905188824271249408,747436971417559040,neutral,leave,2017-09-05T22:00:07.000Z,"#Brexitwontwork
-Frankfurt and Dublin set to sweep bank jobs away from Britain after Brexit https://t.co/uH9G212pi7",['brexitwontwork']
-32,32,32,517861,894498802673045504,19815513,neutral,other,2017-08-07T10:01:48.000Z,NHS 'could go under' if EU staff are not assured job security post Brexit https://t.co/5D0S6ayO0b #brexitwontwork,['brexitwontwork']
-33,33,33,453683,892283139225268224,747436971417559040,neutral,other,2017-08-01T07:17:32.000Z,#brexitwontwork UK farmers will be undercut by trade deals @Brexit https://t.co/0A1wNGCqHT,['brexitwontwork']
-34,34,34,1118854,917676962176479232,854701267771428864,negative,other,2017-10-10T09:03:32.000Z,Theresa May refusing to answer questions about secret advice that says Brexit can be stopped https://t.co/XWGwhQj3pm #brexitwontwork,['brexitwontwork']
-35,35,35,856473,908603016726614016,747436971417559040,neutral,leave,2017-09-15T08:06:54.000Z,"#brexitwontwork 
+974305,912454029342646272,747436971417559040,negative,other,2017-09-25T23:09:27.000Z,"Brexit an “awful complicated mess”
+#brexitwontwork
+ https://t.co/P5OT2Q4xNa",['brexitwontwork']
+1108634,917422500799287296,747436971417559040,negative,other,2017-10-09T16:12:23.000Z,"What about the NHS inability to recruit?  6% shortage of staff before Brexit vote, 12% now
+#brexitwontwork https://t.co/9p0E5tRDuL",['brexitwontwork']
+517861,894498802673045504,19815513,neutral,other,2017-08-07T10:01:48.000Z,NHS 'could go under' if EU staff are not assured job security post Brexit https://t.co/5D0S6ayO0b #brexitwontwork,['brexitwontwork']
+949011,911728134269100032,747436971417559040,negative,leave,2017-09-23T23:05:00.000Z,"""Brexit means Brexit: Britain cannot leave the EU and expect to escape the consequences"" 
+#brexitwontwork
+https://t.co/OZ700WyRHY",['brexitwontwork']
+551269,895904074142494720,747436971417559040,negative,other,2017-08-11T07:05:51.000Z,"#brexitwontwork
+The experts strike back! 
+How economists are being proved right on Brexit | Barry Eichengreen https://t.co/oNPmHBM4Pr",['brexitwontwork']
+856473,908603016726614016,747436971417559040,neutral,leave,2017-09-15T08:06:54.000Z,"#brexitwontwork 
 Just do the maths
 BBC News - UK could need '5,000 more customs officials after Brexit' https://t.co/A9Nk7yozZ1",['brexitwontwork']
-36,36,36,752577,904835870217424896,747436971417559040,neutral,other,2017-09-04T22:37:37.000Z,"We're still no closer to a Brexit deal, but when one is agreed we should have another referendum 
-#brexitwontwork https://t.co/f7aTTFbqPw",['brexitwontwork']
-37,37,37,1517987,931410268432760832,88251779,negative,remain,2017-11-17T06:34:47.000Z,"Brian Wilson: Fundamentalists forced ‘bonkers’ Brexit deadline on May https://t.co/0YTNTPchhm ""#StopBrexit #brexitwontwork",['brexitwontwork']
-38,38,38,476047,893011132696363008,747436971417559040,positive,other,2017-08-03T07:30:20.000Z,"#Brexitwontwork Referendum on a united Ireland inevitable following Brexit vote, report author says https://t.co/QT9tjQIb1F",['brexitwontwork']
-39,39,39,667709,901079559600263168,2374482812,neutral,other,2017-08-25T13:51:22.000Z,EU 💙 Brexit 🦀🕷🐜🦂🐍 @BritainStays #brexitwontwork https://t.co/tiw6ZOyxvf,['brexitwontwork']
-40,40,40,584033,897352185725538304,747436971417559040,positive,other,2017-08-15T07:00:07.000Z,"Brilliant, what a relief: 
+453683,892283139225268224,747436971417559040,neutral,other,2017-08-01T07:17:32.000Z,#brexitwontwork UK farmers will be undercut by trade deals @Brexit https://t.co/0A1wNGCqHT,['brexitwontwork']
+762778,905188824271249408,747436971417559040,neutral,leave,2017-09-05T22:00:07.000Z,"#Brexitwontwork
+Frankfurt and Dublin set to sweep bank jobs away from Britain after Brexit https://t.co/uH9G212pi7",['brexitwontwork']
+676247,901572111130615808,747436971417559040,neutral,other,2017-08-26T22:28:36.000Z,Don't forget @labouruk 6 tests. No form of #brexit can pass these tests @Keir_Starmer we are trusting you to deliver #6tests #brexitwontwork https://t.co/3AAN1AiNhP,"['brexitwontwork', '6tests', 'brexit']"
+584033,897352185725538304,747436971417559040,positive,other,2017-08-15T07:00:07.000Z,"Brilliant, what a relief: 
 #brexit plan is to delay border chaos for two years,
 no plan after this..
 #brexitwontwork
 https://t.co/tJIJzRiSey","['brexitwontwork', 'brexit']"
-41,41,41,502087,893838406844899328,36045950,positive,other,2017-08-05T14:17:37.000Z,The latest The Peter English Daily! https://t.co/DXPAhmoDfT Thanks to @ppenttin @Wok_Chi_Steve @scopedbylarry #brexit #brexitwontwork,"['brexitwontwork', 'brexit']"
-42,42,42,552487,895905736684969984,19441006,positive,remain,2017-08-11T07:12:27.000Z,"acgrayling: RT BritainStays: A very good analysis of Labour #brexit options
-#brexitwontwork
- https://t.co/fVfryj6hYp via tony_nog","['brexitwontwork', 'brexit']"
-43,43,43,920519,910973678296453120,19441006,positive,remain,2017-09-21T21:07:04.000Z,"acgrayling: RT BritainStays: New £10 note worth £8.60 compared to pre #Brexit
-money 
-https://t.co/qHafHAzxCz
-#brexitwontwork","['brexitwontwork', 'brexit']"
-44,44,44,543870,895538438526558208,747436971417559040,positive,remain,2017-08-10T06:52:56.000Z,"A very good analysis of Labour #brexit options
+502087,893838406844899328,36045950,positive,other,2017-08-05T14:17:37.000Z,The latest The Peter English Daily! https://t.co/DXPAhmoDfT Thanks to @ppenttin @Wok_Chi_Steve @scopedbylarry #brexit #brexitwontwork,"['brexitwontwork', 'brexit']"
+543870,895538438526558208,747436971417559040,positive,remain,2017-08-10T06:52:56.000Z,"A very good analysis of Labour #brexit options
 #brexitwontwork
  https://t.co/BzqgQXBLOK via @tony_nog","['brexitwontwork', 'brexit']"
-45,45,45,440567,891749379299827712,440260593,negative,other,2017-07-30T19:56:34.000Z,"@max1e6 #Brexit must really be falling apart before you acknowledge ""smug remainers"". Your words, not mine. #brexitwontwork","['brexitwontwork', 'brexit']"
-46,46,46,676247,901572111130615808,747436971417559040,neutral,other,2017-08-26T22:28:36.000Z,Don't forget @labouruk 6 tests. No form of #brexit can pass these tests @Keir_Starmer we are trusting you to deliver #6tests #brexitwontwork https://t.co/3AAN1AiNhP,"['brexitwontwork', 'brexit', '6tests']"
-47,47,47,476269,892986614661730304,3001744492,positive,other,2017-08-03T05:52:54.000Z,"hope the silly #Brexiteers dont need a holiday #Brexit  #brexitshambles  #brexitwontwork 
-
-https://t.co/YZ5845Lxta","['brexitwontwork', 'brexit', 'brexiteers', 'brexitshambles']"
-48,48,48,494818,893525987824201728,57100823,neutral,other,2017-08-04T17:36:11.000Z,I told you so .... Just doesn't cover it. #Brexit #brexitshambles #brexitwontwork  https://t.co/AWMCLtLY0M,"['brexitwontwork', 'brexit', 'brexitshambles']"
-49,49,49,761988,905166765247823872,424307445,negative,remain,2017-09-05T20:32:28.000Z,"Leaked document reveals UK #Brexit  plan to deter EU immigrants #brexitshambles #Brexitwontwork 
-
-https://t.co/jOXUc7EuKg","['brexitwontwork', 'brexit', 'brexitshambles']"
-50,50,50,754647,904943775453241344,424307445,negative,other,2017-09-05T05:46:23.000Z,"UK 'does not have capacity to strike new trade deals after #Brexit ' #brexitshambles #Brexitwontwork 
-
-https://t.co/3S31lQ7JKc","['brexitwontwork', 'brexit', 'brexitshambles']"
-51,51,51,636644,899631899412275200,738720242,positive,remain,2017-08-21T13:58:53.000Z,Couldn't agree more! #StopBrexit #Brexit #brexitshambles #brexitwontwork https://t.co/n9Vg7zt1Zc,"['brexitwontwork', 'brexit', 'stopbrexit', 'brexitshambles']"
-52,52,52,759342,905105849227599872,747436971417559040,positive,remain,2017-09-05T16:30:25.000Z,"The Brexit bill is cataclysmic. Only a swerve will save us | Polly Toynbee 
+552487,895905736684969984,19441006,positive,remain,2017-08-11T07:12:27.000Z,"acgrayling: RT BritainStays: A very good analysis of Labour #brexit options
 #brexitwontwork
-#brexitshambles
-https://t.co/tNSQNBylMo","['brexitwontwork', 'brexitshambles']"
-53,53,53,1593116,933645761996296192,88251779,neutral,remain,2017-11-23T10:37:50.000Z,Growth forecasts cut as productivity stalls and Brexit looms https://t.co/4kbRopGbLl #stopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'brexitwonthappen', 'stopbrexit']"
-54,54,54,629551,899276942523977728,856556892688142208,negative,remain,2017-08-20T14:28:25.000Z,"We lost because the other side lied @OwenJones84. We risk our services, NHS and the most vulnerable with #brexit. #EUref2 #brexitwontwork","['brexitwontwork', 'euref2', 'brexit']"
-55,55,55,1181866,919098066707283968,88251779,negative,other,2017-10-14T07:10:29.000Z,Business warnings grow as clock ticks on Brexit talks https://t.co/wkFGsez3DN via @CityAM #StopBrexit #exitbrokenbrexit #brexitwontwork,"['brexitwontwork', 'exitbrokenbrexit', 'stopbrexit']"
-56,56,56,1674430,935902658732236800,88251779,positive,remain,2017-11-29T16:05:56.000Z,40-55 billion Euros for #Brexit is not what #Leave promised or what 37% voted for is clearly impossible to deliver #StopBrexit as it is now obvious that #brexitwontwork and so #BrexitWontHappen,"['brexitwontwork', 'leave', 'brexitwonthappen', 'brexit', 'stopbrexit']"
-57,57,57,510121,894159648768614400,747499967040921600,neutral,other,2017-08-06T11:34:07.000Z,New LIAM FOX NEWS - the show that finds the +ve in #Brexit!  #NameTheToryGlasto #brexitshambles #EU #LiamFox #JacobReesMogg #brexitwontwork https://t.co/Nwb8Sozcq7,"['brexitwontwork', 'liamfox', 'jacobreesmogg', 'eu', 'namethetoryglasto', 'brexit', 'brexitshambles']"
-58,58,58,573311,896922469616975872,734755010928648320,neutral,remain,2017-08-14T02:32:35.000Z,"@Femi_Sorry @Nigel_Farage @realDonaldTrump ""we voted for Donald Trump because he said he will take our country back"" sounds familiar.. #Brexit #BrexitShambles #brexitwontwork #Remain","['brexitwontwork', 'remain', 'brexitshambles', 'brexit']"
-59,59,59,649781,900276848017502208,2680541218,neutral,other,2017-08-23T08:41:41.000Z,#Scottish and #Welsh leaders to co-operate on #Brexit strategy https://t.co/dVKIug17Bv via @FT #brexitwontwork,"['brexitwontwork', 'scottish', 'welsh', 'brexit']"
-60,60,60,1303691,923069330153267200,88251779,negative,other,2017-10-25T06:10:52.000Z,No deal Brexit would cost northern Scotland an extra £7 billion… https://t.co/da3T2edfCO via @pressjournal #SropBrexit #brexitwontwork,"['brexitwontwork', 'sropbrexit']"
-61,61,61,1374320,925989688825040896,88251779,neutral,remain,2017-11-02T07:35:20.000Z,Unpublished Brexit studies will now be released to the public https://t.co/trdeRdTjBF via @metrouk #SropBrexit #brexitwontwork,"['brexitwontwork', 'sropbrexit']"
-62,62,62,1303711,923070065548939264,88251779,neutral,other,2017-10-25T06:13:48.000Z,May called on to publish UK Government's Brexit analysis on Scotland https://t.co/RTuyqFkR1T #SropBrexit #brexitwontwork,"['brexitwontwork', 'sropbrexit']"
-63,63,63,1374171,925984163290808320,88251779,negative,other,2017-11-02T07:13:23.000Z,Bercow could consider contempt of Parliament if Brexit impact papers unreleased https://t.co/lkPGJXFeP1 #SropBrexit #brexitwontwork,"['brexitwontwork', 'sropbrexit']"
-64,64,64,1257609,921355155689361408,780840449963532160,negative,remain,2017-10-20T12:39:21.000Z,"Treasury Select Committee to probe ""no deal"" Brexit's economics https://t.co/ciuEsSrAoN via CityAM #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-65,65,65,1367773,925706130973655040,88251779,neutral,remain,2017-11-01T12:48:35.000Z,"Brexit: Whitehall headcount to balloon by 8,000 workers https://t.co/oZZEJx3eBW #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-66,66,66,1478609,930311718500265984,88251779,negative,remain,2017-11-14T05:49:32.000Z,May faces Tory rebellion over her Brexit bill amendment https://t.co/V65Aq0F0RL via @CityAM #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-67,67,67,1327148,923804833823457280,88251779,negative,remain,2017-10-27T06:53:30.000Z,I'm reading Tory MPs ‘deadly serious’ about vote on Brexit deal via the Metro app #StopBrexit #brexitwontwork https://t.co/ZwGo0HsiQh,"['brexitwontwork', 'stopbrexit']"
-68,68,68,1347993,924880001043976192,88251779,negative,remain,2017-10-30T06:05:50.000Z,Labour leads Lords plot to inflict defeat on Government's Brexit plans https://t.co/SUdOYJLcEy #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-69,69,69,1364174,925599307692216320,88251779,neutral,remain,2017-11-01T05:44:06.000Z,Whitehall staffing levels balloon to cope with Brexit https://t.co/4dZx21MaNp #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-70,70,70,1355086,925234234360582144,88251779,neutral,remain,2017-10-31T05:33:26.000Z,May and Sturgeon set for St Andrew's Day showdown over Brexit https://t.co/zlR7lbNNJp #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-71,71,71,1492730,930684302525943808,88251779,neutral,remain,2017-11-15T06:30:03.000Z,‘Disgraceful!’ The day Labour MPs tore each other apart over Brexit https://t.co/tXcvXtxxjX via @telegraphnews #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-72,72,72,1341855,924511977099218944,780840449963532160,negative,remain,2017-10-29T05:43:26.000Z,Brexit one of the biggest travesties of the modern era which will result in no winners #StopBrexit #brexitwontwork https://t.co/x0gL6vxVxW,"['brexitwontwork', 'stopbrexit']"
-73,73,73,1341880,924515722398781440,780840449963532160,positive,other,2017-10-29T05:58:19.000Z,Where are the heroes who will lead the Brexit retreat? | Nick Cohen https://t.co/tyzMi8JDX0 #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-74,74,74,1674351,935916164169027584,88251779,negative,remain,2017-11-29T16:59:36.000Z,Brexit must and will be broken for this. #StopBrexit #brexitwontwork # brexitwonthappen https://t.co/EhZGn0dRtj,"['brexitwontwork', 'stopbrexit']"
-75,75,75,1500546,930840181342724096,88251779,negative,remain,2017-11-15T16:49:28.000Z,Tory rebels warn Theresa May 'do not to enshrine Brexit date in law' https://t.co/b7v8fjUPO3 #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-76,76,76,1355136,925240835981135872,88251779,neutral,remain,2017-10-31T05:59:40.000Z,"I'm reading Brexit reports stay secret, says David Davis via the Metro app #StopBrexit #brexitwontwork https://t.co/Fc2gu8icAp","['brexitwontwork', 'stopbrexit']"
-77,77,77,1466366,929957718651297792,88251779,neutral,remain,2017-11-13T06:22:52.000Z,"Theresa May ""taken hostage"" by Johnson and Gove over Brexit https://t.co/Hrq94hQ6tG #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-78,78,78,1214029,920220519521234944,88251779,negative,remain,2017-10-17T09:30:43.000Z,"A Brexit no deal would hit millions of British families, major new study warns https://t.co/9mWCBy9nDQ #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-79,79,79,1272431,922019881696006144,88251779,neutral,remain,2017-10-22T08:40:44.000Z,Brexit analysis: in the end it will all come down to cash https://t.co/9Djgqol97o #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-80,80,80,1518033,931412721572155392,88251779,neutral,remain,2017-11-17T06:44:32.000Z,The full extent of Brexit strain on government revealed https://t.co/3z4qmwiz6c via @CityAM #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-81,81,81,1311626,923219874054377472,88251779,neutral,remain,2017-10-25T16:09:05.000Z,"I'm reading Britain can walk away from Brexit, says Tusk via the Metro app #StopBrexit #brexitwontwork https://t.co/HF4FcBG1xw","['brexitwontwork', 'stopbrexit']"
-82,82,82,1213794,920216224835031040,780840449963532160,neutral,remain,2017-10-17T09:13:39.000Z,"Scots job exodus planned after a 'no deal' Brexit, warns top expert https://t.co/k28rCXSCvn #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-83,83,83,1379784,926136562550747136,88251779,neutral,remain,2017-11-02T17:18:57.000Z,"@Brexit Should this not ready ""A New Pro British Party Emerges""? we are EU already, so Pro EU is pro British. #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-84,84,84,1181855,919097667678035968,88251779,neutral,remain,2017-10-14T07:08:54.000Z,Jean-Claude Juncker: Brexit process will take longer than the UK thinks https://t.co/d3FYTGskjM via @CityAM #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-85,85,85,1341871,924514167075360768,88251779,neutral,remain,2017-10-29T05:52:08.000Z,EU investment bank 'will owe Britain money for 35 years after Brexit' https://t.co/EPvAqiIEzO #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-86,86,86,1181797,919095842233036800,88251779,neutral,remain,2017-10-14T07:01:39.000Z,No-deal Brexit ‘to trigger a new vote on Union’ https://t.co/L33DpXXUHt #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-87,87,87,1466377,929958243748720640,88251779,negative,other,2017-11-13T06:24:57.000Z,Theresa May caught between Brexit demands and pro-EU rebellions https://t.co/kBgp31IcEb #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-88,88,88,1355093,925234905679892480,88251779,neutral,remain,2017-10-31T05:36:06.000Z,Cabinet to discuss plans for a 'no deal' Brexit https://t.co/xOHurcxM15 #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-89,89,89,1364345,925613028191670272,88251779,neutral,remain,2017-11-01T06:38:37.000Z,Labour to force government's hand on Brexit studies https://t.co/NsZxTazq0a via @CityAM #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-90,90,90,1272441,922020171098804224,780840449963532160,neutral,remain,2017-10-22T08:41:53.000Z,Brexit analysis: in the end it will all come down to cash https://t.co/lBG7W4wUlS #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-91,91,91,1341875,924514632907280384,88251779,positive,other,2017-10-29T05:53:59.000Z,Where are the heroes who will lead the Brexit retreat? | Nick Cohen https://t.co/jpSr9jvVwH #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-92,92,92,1364247,925605214027223040,88251779,neutral,remain,2017-11-01T06:07:34.000Z,"I'm reading 5,000 more Brexit jobs at tax office via the Metro app #StopBrexit #brexitwontwork https://t.co/i1pEPlEFTN","['brexitwontwork', 'stopbrexit']"
-93,93,93,1505440,931035642078859264,88251779,negative,remain,2017-11-16T05:46:09.000Z,I'm reading ‘Brexit mutineer’ MP target of online threats via the Metro app #StopBrexit #brexitwontwork https://t.co/25Yz50NNXb,"['brexitwontwork', 'stopbrexit']"
-94,94,94,1236149,920784945089515520,88251779,neutral,remain,2017-10-18T22:53:32.000Z,"Corbyn thinks he can ""break the Brexit logjam"" - but Barnier doesn't https://t.co/YBgFzeuRuo via @CityAM #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-95,95,95,1311635,923220124018110464,88251779,neutral,other,2017-10-25T16:10:04.000Z,I'm reading PM 'contradicts David Davis over Brexit deal' via the Metro app #StopBrexit #brexitwontwork https://t.co/OeNCz5BKGG,"['brexitwontwork', 'stopbrexit']"
-96,96,96,1341872,924514463100780544,780840449963532160,neutral,remain,2017-10-29T05:53:19.000Z,EU investment bank 'will owe Britain money for 35 years after Brexit' https://t.co/IedeBxyOJr #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-97,97,97,1389261,926712833437585408,88251779,neutral,other,2017-11-04T07:28:51.000Z,The Brexit impact studies must be released in full | Gina Miller https://t.co/NEZj8F5n6V #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-98,98,98,1399977,927411529791754240,88251779,neutral,remain,2017-11-06T05:45:13.000Z,Time to press the reset button on Brexit say SNP https://t.co/xfn2tAHo6p #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-99,99,99,1408032,927781316006948864,88251779,negative,remain,2017-11-07T06:14:37.000Z,"CBI warns of Brexit ""soap opera"" as businesses ready contingency plans https://t.co/mm21BSzjcu via @CityAM #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-100,100,100,1331886,923931883104362496,88251779,negative,remain,2017-10-27T15:18:21.000Z,The Brexit department just lost another senior minister https://t.co/BRvC2XbWrf via @CityAM #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-101,101,101,1436109,928861044071596032,88251779,negative,remain,2017-11-10T05:45:04.000Z,Gordon Brown: Leave voters could still turn against Brexit https://t.co/Wx3Un0IX4M #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-102,102,102,1457390,929587965759770624,88251779,negative,remain,2017-11-12T05:53:36.000Z,SNP fear for future of Scottish steel plants post-Brexit https://t.co/p02HkwItYG #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-103,103,103,1505400,931032008884711424,88251779,neutral,remain,2017-11-16T05:31:43.000Z,Scots Tory 'mutineer' defends position on Brexit Bill https://t.co/0QGYKDs10z #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-104,104,104,1213739,920215313970548736,88251779,neutral,remain,2017-10-17T09:10:02.000Z,"Scots job exodus planned after a 'no deal' Brexit, warns top expert https://t.co/760cxGLQXV #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-105,105,105,1336114,924154649288105984,780840449963532160,neutral,remain,2017-10-28T06:03:33.000Z,"Brexit one of biggest travesties of modern times, says vice-president of EIB https://t.co/YuLSoGWJDy #stopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-106,106,106,1336128,924155891145994240,780840449963532160,neutral,remain,2017-10-28T06:08:29.000Z,"Brexit one of biggest travesties of modern times, says vice-president of EIB https://t.co/YuLSoGWJDy #stopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-107,107,107,1457400,929591123294736384,88251779,negative,remain,2017-11-12T06:06:09.000Z,Theresa May faces defeat by MPs demanding vote on final Brexit deal https://t.co/15k1cht6LM #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-108,108,108,1380099,926146183717892096,88251779,negative,remain,2017-11-02T17:57:11.000Z,Bank of England warns Brexit to blame for interest rate hike https://t.co/j0WtaydSve #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-109,109,109,1316232,923414808690601984,88251779,positive,other,2017-10-26T05:03:41.000Z,SNP's Alyn Smith: Brexit Britain is breaching Ireland's Good Friday Agreement https://t.co/Hy32zkEOdI #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-110,110,110,1214220,920223757926588416,780840449963532160,neutral,remain,2017-10-17T09:43:35.000Z,"RT TakingJobs: Scots job exodus planned after a 'no deal' Brexit, warns top expert https://t.co/k28rCXSCvn #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-111,111,111,1201879,919861266440736768,88251779,positive,other,2017-10-16T09:43:10.000Z,Theresa May flies to Brussels in last-ditch effort to save Brexit talks https://t.co/rBp3PatDL1 via @MetroUK #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-112,112,112,1400056,927421994785746944,88251779,negative,remain,2017-11-06T06:26:48.000Z,Ministers 'could be in contempt of parliament over Brexit papers' https://t.co/RCA94RLima #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-113,113,113,1450271,929267839361605632,88251779,neutral,remain,2017-11-11T08:41:32.000Z,"Davidson challenges May to ""step up the pace"" on Brexit https://t.co/sbyeRwH0d2 #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-114,114,114,1436167,928865680350474240,88251779,negative,other,2017-11-10T06:03:30.000Z,Brexit talks thrown into chaos after Ireland makes fresh border demands in leaked document https://t.co/RIGddGKtfE via @telegraphnews #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-115,115,115,1400019,927417537536692224,88251779,positive,remain,2017-11-06T06:09:06.000Z,BoE's Mark Carney: Brexit no deal will slow UK growth https://t.co/z948zaGZ4A via @CityAM #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-116,116,116,1288938,922695741197471744,780840449963532160,negative,remain,2017-10-24T05:26:22.000Z,Hard Brexit 'would cost London more than £100bn' https://t.co/cLnpQu4SFW #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-117,117,117,1445914,929050130677944320,88251779,negative,remain,2017-11-10T18:16:26.000Z,Life sciences firms warn of Brexit drain on skills… https://t.co/j03Z2zNUFd via @pressjournal #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-118,118,118,1214072,920221303411564544,780840449963532160,negative,other,2017-10-17T09:33:50.000Z,RT TakingJobs: Brexit talks 'could collapse within weeks' https://t.co/4PSXvzhbfq #StopBrexit #brexitwontwork,"['brexitwontwork', 'stopbrexit']"
-119,119,119,1214074,920221330771005440,780840449963532160,negative,remain,2017-10-17T09:33:56.000Z,"A Brexit no deal would hit millions of British families, major new study warns https://t.co/a236cysUJO #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-120,120,120,1492662,930680113938694144,88251779,negative,remain,2017-11-15T06:13:25.000Z,"Theresa May faces Brexit rebellion as at least 15 Tory MPs threaten to side with Labour against departure date https://t.co/Xma2LtAywS via @telegraphnews Mutineers? No, they’re Democrats or pre UKIP Conservatives #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-121,121,121,1285599,922512273486295040,88251779,negative,remain,2017-10-23T17:17:20.000Z,"Liam Fox suppressing damage of no deal Brexit, say SNP https://t.co/SE7aQte2ZC #StopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
-122,122,122,1708135,937208205574377472,88251779,neutral,other,2017-12-03T06:33:43.000Z,Scottish government vows to help Ireland fight hard border after Brexit https://t.co/sflK9EeKWg #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-123,123,123,1665358,935782061411053568,88251779,negative,remain,2017-11-29T08:06:44.000Z,I'm reading ‘Brexit bung’ alarms critics on both sides via the Metro app #StopBrexit #brexitwontwork #brexitwonthappen  https://t.co/iwHnt7RDyF,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-124,124,124,1559934,932758529466945536,88251779,positive,other,2017-11-20T23:52:17.000Z,Brexit minister apologises for incorrectly saying Supreme Court had ruled Article 50 was irreversible https://t.co/sizjk5RTji #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-125,125,125,1718649,937556322140278784,88251779,negative,remain,2017-12-04T05:37:00.000Z,"Scotland's Brexit Minister warns EU divorce Bill is ""thoroughly disliked"" https://t.co/amuzXnG5Jt  #StopBrexit #brexitwontwork #brexitwonthappen","['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-126,126,126,1637149,935043214272352256,88251779,neutral,remain,2017-11-27T07:10:49.000Z,Fox ups Brexit ante over Irish border issue https://t.co/KevMPpRFI4 #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-127,127,127,1545375,932504146359607296,88251779,negative,remain,2017-11-20T07:01:28.000Z,Scotland among hardest hit as Brexit costs every worker a week's wages - even before we leave EU https://t.co/np8OWybfk8 #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-128,128,128,1637239,935045094369095680,88251779,negative,remain,2017-11-27T07:18:17.000Z,Senior Holyrood figures in bid to avert Brexit ‘power-grab’ crisis https://t.co/uFepYWhEBH #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-129,129,129,1589418,933476030760849408,88251779,neutral,remain,2017-11-22T23:23:23.000Z,Growth forecasts cut as productivity stalls and Brexit looms https://t.co/4kbRopGbLl #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-130,130,130,1536970,932129826403766272,88251779,neutral,remain,2017-11-19T06:14:03.000Z,Corbyn still silent on figure Labour would offer to settle Brexit divorce bill https://t.co/XAZjKiC1Sm #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-131,131,131,1701583,936855125028585472,88251779,positive,remain,2017-12-02T07:10:42.000Z,"62% of Scots want European powers moved to Holyrood after Brexit, poll finds… https://t.co/tA6Ou0lULW via @pressjournal #StopBrexit #brexitwontwork #brexitwonthappen","['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-132,132,132,1708151,937209396375015424,88251779,neutral,other,2017-12-03T06:38:27.000Z,Sturgeon: Brexit deal 'must include transition period inside single market'… https://t.co/AedXieEJTI via @pressjournal #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-133,133,133,1527481,931632416581668864,88251779,negative,remain,2017-11-17T21:17:31.000Z,Tory rebels torpedo May's plan to fix Brexit date in law https://t.co/h0AI7M54r3 #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-134,134,134,1745974,937943795387256832,88251779,negative,remain,2017-12-05T07:16:41.000Z,"DUP blocks May's Brexit border deal, branding it ""Unionist nightmare"" https://t.co/amKlqPfW9x #StopBrexit #brexitwontwork #brexitwonthappen","['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-135,135,135,1637138,935042924332703744,88251779,neutral,remain,2017-11-27T07:09:40.000Z,"Davidson says Brexit deal could be ""five-past-midnight job"" https://t.co/CvOKWlHmMm #StopBrexit #brexitwontwork #brexitwonthappen","['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-136,136,136,1646291,935252936204193792,88251779,neutral,remain,2017-11-27T21:04:10.000Z,"Where are we up to in these Brexit talks? https://t.co/AhplxEJ550
-#StopBrexit #brexitwontwork #brexitwonthappen","['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-137,137,137,1745982,937943969882935296,88251779,negative,remain,2017-12-05T07:17:23.000Z,Alistair Darling: Brexit will only make UK’s stagnating economy ever worse off https://t.co/89PZCKQBNw #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-138,138,138,1626168,934741224292012032,88251779,negative,remain,2017-11-26T11:10:49.000Z,Senior Holyrood figures in bid to avert Brexit ‘power-grab’ crisis https://t.co/uFepYWhEBH #StopBrexit #brexitwontwork #BrexitWontHappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-139,139,139,1621709,934530733301026816,88251779,neutral,other,2017-11-25T21:14:24.000Z,Australia slams UK post-Brexit trade plans https://t.co/mQIZ7X7IWZ via @CityAM #StopBrexit #brexitwontwork #BrexitWontHappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-140,140,140,1560319,932767612588740608,88251779,neutral,remain,2017-11-21T00:28:23.000Z,Barnier: City firms will lose financial passports after Brexit https://t.co/bbzoOo99AT via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-141,141,141,1662280,935642807158616064,88251779,positive,remain,2017-11-28T22:53:23.000Z,UK and EU 'agree Brexit divorce bill which could reach almost £50bn' https://t.co/J7YODyKATM #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-142,142,142,1626287,934743731646992384,88251779,neutral,remain,2017-11-26T11:20:46.000Z,"Ireland promises to ""play tough""on Brexit as border issue looms https://t.co/KeBgcDuloK via @CityAM #StopBrexit #brexitwontwork #BrexitWontHappen","['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-143,143,143,1637281,935046564082536448,88251779,negative,remain,2017-11-27T07:24:07.000Z,May warned to change course or risk Brexit chaos over Irish border https://t.co/Hip7JKW6kK #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-144,144,144,1529950,931796558043115520,88251779,neutral,other,2017-11-18T08:09:46.000Z,EU leaders demand more money before continuing Brexit talks https://t.co/jgFruCD7S6 #StopBrexit Vote Leave’s promises can’t be delivered #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-145,145,145,1545389,932504661566873600,88251779,neutral,remain,2017-11-20T07:03:31.000Z,MPs urge UK Government to clarify Brexit Bill devolution plans… https://t.co/KaEtc2Ifhp via @pressjournal #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-146,146,146,1637258,935045669580083200,88251779,neutral,remain,2017-11-27T07:20:34.000Z,Record tax take from financial services as Brexit crunch point nears https://t.co/9yULBnSkal via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-147,147,147,1697664,936655737467654144,88251779,positive,other,2017-12-01T17:58:24.000Z,"EXCLUSIVE: Brexit Secretary in threat to quit over Damian Green 'porn' storm https://t.co/mMfiO7NmrW great, #StopBrexit #brexitwontwork #brexitwonthappen","['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-148,148,148,1536985,932132798487515136,88251779,negative,remain,2017-11-19T06:25:52.000Z,Theresa May refuses to back down on key Brexit pledge https://t.co/BvmgBEu3rX #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-149,149,149,1640329,935107381037535232,88251779,neutral,remain,2017-11-27T11:25:47.000Z,I'm reading Brexit divorce bill ‘may be buried to dodge backlash’ via the Metro app #StopBrexit #brexitwontwork #brexitwonthappen https://t.co/yGZ2OKkxoI,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-150,150,150,1637267,935046025294831616,88251779,neutral,remain,2017-11-27T07:21:59.000Z,"Ireland promises to ""play tough""on Brexit as border issue looms https://t.co/KeBgcDuloK via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen","['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-151,151,151,1606431,933997210693402624,88251779,negative,remain,2017-11-24T09:54:22.000Z,Brexit lurks behind Britain’s cautious Budget https://t.co/EUjrTMMATA via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-152,152,152,1662276,935642648165208064,88251779,negative,other,2017-11-28T22:52:45.000Z,David Davis could be held in contempt by MPs on censored Brexit papers https://t.co/XPb1O5o8MI #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-153,153,153,1664756,935770987097882624,88251779,positive,remain,2017-11-29T07:22:43.000Z,Brexit: £50bn divorce bill ‘agreed’ according to reports https://t.co/HDS0Pl7xVd #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-154,154,154,1718675,937557974205239296,88251779,negative,remain,2017-12-04T05:43:34.000Z,Scotland and Wales ‘can’t accept’ Brexit bill in current form https://t.co/nMNWNiqJvC  #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-155,155,155,1530010,931798909294391296,88251779,neutral,other,2017-11-18T08:19:06.000Z,The Irish border has joined the divorce bill on the pile of reasons for Brexit talks being deadlocked https://t.co/OgdVNj1vVC  #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-156,156,156,1672990,935885928190660608,88251779,positive,remain,2017-11-29T14:59:27.000Z,This is how big the €55bn Brexit divorce bill really is https://t.co/55tjAcBVPD #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-157,157,157,1529926,931795754599018496,88251779,positive,remain,2017-11-18T08:06:34.000Z,Tusk gives UK new deadline  for Brexit progress https://t.co/AtM2QhVtAT #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-158,158,158,1672933,935884711397863424,88251779,positive,other,2017-11-29T14:54:37.000Z,May faces backlash over £50bn 'Brexit divorce bill' after breakthrough in talks https://t.co/9LMLe8bKkY #StopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-159,159,159,875429,909467107682918400,747436971417559040,negative,other,2017-09-17T17:20:30.000Z,"People are starting to use #Brexit to describe self-inflicted problems or things that are just crap 
-#StopBrexitHour
-#brexitwontwork https://t.co/5wZBcz9POO","['brexitwontwork', 'stopbrexithour', 'brexit']"
-160,160,160,1154855,918379874049581056,1258835366,positive,other,2017-10-12T07:36:39.000Z,"Wow, trucks leave #UK empty, exports to #Germany down from 1,65m tons to 1,48yoy https://t.co/Z3oFFvVEgE #Brexit #Brexitwontwork @zeitonline","['brexitwontwork', 'uk', 'brexit', 'germany']"
-161,161,161,657696,900621466567421952,2680541218,neutral,other,2017-08-24T07:31:05.000Z,#EU diplomats scoff at #UK customs proposal ahead of #Brexit talks https://t.co/c4lSNqMNDz #brexitwontwork,"['brexitwontwork', 'uk', 'eu', 'brexit']"
-162,162,162,907735,910497608250118144,424307445,positive,other,2017-09-20T13:35:20.000Z,"The real saboteurs are the Tory fantasists backing hard #Brexit #brexitshambles #Brexitwontwork #WednesdayWisdom 
+ https://t.co/fVfryj6hYp via tony_nog","['brexitwontwork', 'brexit']"
+494818,893525987824201728,57100823,neutral,other,2017-08-04T17:36:11.000Z,I told you so .... Just doesn't cover it. #Brexit #brexitshambles #brexitwontwork  https://t.co/AWMCLtLY0M,"['brexitwontwork', 'brexit', 'brexitshambles']"
+476269,892986614661730304,3001744492,positive,other,2017-08-03T05:52:54.000Z,"hope the silly #Brexiteers dont need a holiday #Brexit  #brexitshambles  #brexitwontwork 
 
-https://t.co/NQW6L2Ucnk","['brexitwontwork', 'wednesdaywisdom', 'brexit', 'brexitshambles']"
-163,163,163,1943600,942991996611956736,88251779,negative,remain,2017-12-19T05:36:26.000Z,"Brexit ""turning off tap"" to keep EU workers, warn Scotland's carers https://t.co/a278VrGdLi  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-164,164,164,1853117,940212926476111872,88251779,negative,remain,2017-12-11T13:33:24.000Z,"More than 10,000 City jobs will leave the UK after Brexit https://t.co/jVdYVsjf6C via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-165,165,165,1851632,940181484098543616,88251779,negative,remain,2017-12-11T11:28:28.000Z,"So…the Referendum which was Advisory has to be followed, Article 50 which is reversible has to continue, and the “Brexit” bill which is an obligation is “conditional”? This from a man who says he is not clever. #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-166,166,166,1785508,938667556872900608,88251779,neutral,remain,2017-12-07T07:12:39.000Z,Unionist campaign splits over Brexit and second referendum https://t.co/LKBBUfiIfK #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-167,167,167,1851426,940176004160675840,88251779,positive,remain,2017-12-11T11:06:41.000Z,David Davis: I just have to be calm - not very clever - to be Brexit Secretary https://t.co/1RM7nFq9Af #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-168,168,168,1932952,942638142116556800,88251779,neutral,remain,2017-12-18T06:10:21.000Z,'I've seen secret Brexit impact papers' says SNP MP https://t.co/QIlexlJg8Q  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-169,169,169,1902227,941552221765947392,88251779,negative,remain,2017-12-15T06:15:17.000Z,DEBATE: Will the government’s Brexit defeat affect our exit from the EU? https://t.co/YnlB0SAOgM via @CityAM  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-170,170,170,1943610,942992827713286144,88251779,negative,remain,2017-12-19T05:39:44.000Z,"Second referendum on Brexit would be betrayal, says Theresa May https://t.co/UpiMjj67of just  #StopBrexit then #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-171,171,171,1859377,940465972779147264,88251779,positive,remain,2017-12-12T06:18:55.000Z,"Employer confidence at five-year low as Brexit looms, says survey https://t.co/Ko9NIwTMCr #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-172,172,172,1848969,940122900643897344,88251779,positive,remain,2017-12-11T07:35:40.000Z,"May boasts ""new sense of optimism"" in Brexit talks https://t.co/Y8pn4AZoYx #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-173,173,173,1838820,939722031423283200,88251779,neutral,remain,2017-12-10T05:02:46.000Z,"The Brexit bill for each home in the UK is set to hit £1,400 https://t.co/70gDZXQ9A9 #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-174,174,174,1828448,939381234635026432,88251779,neutral,remain,2017-12-09T06:28:33.000Z,How Theresa May sealed a Brexit deal as her staff partied around Downing Street https://t.co/R17zgwAZja #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-175,175,175,1912639,941770341130612736,88251779,negative,remain,2017-12-15T20:42:01.000Z,Pound tumbles on Brexit doubts but FTSE 100 edges higher https://t.co/lVGdtGqv3D via @CityAM   #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-176,176,176,1785653,938670597298622464,88251779,neutral,remain,2017-12-07T07:24:44.000Z,"Commons majority for soft Brexit can be achieved, insists SNP's Blackford https://t.co/RzcDFEzlW7 #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-177,177,177,1886747,941195362412396544,88251779,neutral,other,2017-12-14T06:37:15.000Z,Brexit analysis: Westminster vote makes May's negotiating hand weaker https://t.co/ShUMtmFK3v #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-178,178,178,1838823,939722571116933120,88251779,neutral,remain,2017-12-10T05:04:54.000Z,Brexit confusion intensifies https://t.co/5CHzabVsGy #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-179,179,179,1785698,938671546524225536,88251779,neutral,remain,2017-12-07T07:28:31.000Z,UK-wide Brexit deal takes a step closer after Northern Irish drama… https://t.co/7CStpd77cW via @pressjournal #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-180,180,180,1873633,940926316664193024,88251779,neutral,remain,2017-12-13T12:48:10.000Z,PMQs as Theresa May faces backbench revolt on Brexit - live updates https://t.co/ZSzDo19N48  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-181,181,181,1846056,939945333618040832,88251779,neutral,remain,2017-12-10T19:50:05.000Z,"Britain must ‘stay aligned’ with EU post-Brexit, urges Sir Keir Starmer… https://t.co/As7Uu935nf via @pressjournalc  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-182,182,182,1876939,941000320070635520,88251779,negative,remain,2017-12-13T17:42:13.000Z,"No going back on promises made in EU-UK Brexit agreement, warns Barnier https://t.co/grYKq6irkS #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-183,183,183,1923389,942309574002073600,88251779,neutral,remain,2017-12-17T08:24:44.000Z,"Hammond: UK is not looking for a ""Canada"" style Brexit trade deal https://t.co/67fEW5htbs via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-184,184,184,1762871,938173100033757184,88251779,negative,remain,2017-12-05T22:27:52.000Z,Scotland must 'speak with one voice' to prevent hard Brexit https://t.co/I4c6MIghNW  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-185,185,185,1762894,938173505258049536,88251779,positive,remain,2017-12-05T22:29:28.000Z,Brexit: SNP minister wants united Holyrood voice for single market bid https://t.co/qfI6bJ5NT7  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-186,186,186,1873580,940925357733146624,88251779,neutral,remain,2017-12-13T12:44:21.000Z,Disagreement over progress of Brexit talks… https://t.co/2FvlL1ch6n via @pressjournal  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-187,187,187,1762917,938174156197199872,88251779,negative,other,2017-12-05T22:32:03.000Z,Brexit: Ruth Davidson warns PM against Northern Ireland deal https://t.co/9areclBRsw  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-188,188,188,1803434,939043839146414080,88251779,neutral,remain,2017-12-08T08:07:52.000Z,Kirsty Blackman: Tories are letting Scotland down over Brexit 'shambles'… https://t.co/4lmE8aYfly via @pressjournal #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-189,189,189,1923366,942308763557560320,88251779,neutral,remain,2017-12-17T08:21:31.000Z,Tory Eurosceptics brand Hammond 'only too willing to do Brussels' bidding' over 'Brexit status quo' comments https://t.co/a2bvnI8roj #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-190,190,190,1902244,941552719604649984,88251779,neutral,remain,2017-12-15T06:17:16.000Z,Theresa May faces 'much bigger defeat' over vote on Brexit date https://t.co/rtWj2lzy6F  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-191,191,191,1838839,939723751800889344,88251779,negative,remain,2017-12-10T05:09:36.000Z,Leader comment: UK-EU deal exposes the contradictions of Brexit https://t.co/VostYE9Nbg #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-192,192,192,1849002,940124557473665024,88251779,positive,remain,2017-12-11T07:42:15.000Z,Brexit: Theresa May thinks it’s time for ‘new sense of optimism’ https://t.co/n1WXFJgbe4 #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-193,193,193,1915721,941959240083795968,88251779,negative,remain,2017-12-16T09:12:38.000Z,Theresa May could have just escaped another humiliating Brexit defeat https://t.co/2dBulUe85I  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-194,194,194,1765725,938309878644387840,88251779,neutral,remain,2017-12-06T07:31:22.000Z,Brexit: Special Northern Ireland terms could have ‘unravelled’ the UK https://t.co/cYUYjEiuaP #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-195,195,195,1915526,941951933753020416,88251779,positive,remain,2017-12-16T08:43:36.000Z,May hails EU leaders over progress on Brexit talks https://t.co/sfRPJibSwL #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-196,196,196,1839140,939755817536032768,88251779,negative,remain,2017-12-10T07:17:01.000Z,Cabinet Brexit truce threatens to unravel as Leavers 'told concession to EU meaningless' https://t.co/sT43QuP6Pt via @telegraphnews #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-197,197,197,1859390,940466666974171136,88251779,neutral,remain,2017-12-12T06:21:41.000Z,"Corbyn calls on May to scrap ""unnecessary"" Brexit deadline of March 2019 https://t.co/8xzV36y7uE #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-198,198,198,1766175,938321075313799168,88251779,neutral,remain,2017-12-06T08:15:52.000Z,Labour’s Brexit muddle puts them on thin ice https://t.co/s8PzF3hEVA via @CityAM  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
-199,199,199,1803278,939042903246147584,88251779,positive,remain,2017-12-08T08:04:09.000Z,BREAKING: Theresa May achieves breakthrough in Brexit negotiations https://t.co/91J84JPrNe #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['fbpe', 'brexitwontwork', 'stopbrexit', 'brexitwonthappen']"
+https://t.co/YZ5845Lxta","['brexitwontwork', 'brexit', 'brexitshambles', 'brexiteers']"
+629551,899276942523977728,856556892688142208,negative,remain,2017-08-20T14:28:25.000Z,"We lost because the other side lied @OwenJones84. We risk our services, NHS and the most vulnerable with #brexit. #EUref2 #brexitwontwork","['brexitwontwork', 'brexit', 'euref2']"
+1593116,933645761996296192,88251779,neutral,remain,2017-11-23T10:37:50.000Z,Growth forecasts cut as productivity stalls and Brexit looms https://t.co/4kbRopGbLl #stopBrexit #brexitwontwork #brexitwonthappen,"['brexitwontwork', 'brexitwonthappen', 'stopbrexit']"
+1336114,924154649288105984,780840449963532160,neutral,remain,2017-10-28T06:03:33.000Z,"Brexit one of biggest travesties of modern times, says vice-president of EIB https://t.co/YuLSoGWJDy #stopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
+1336128,924155891145994240,780840449963532160,neutral,remain,2017-10-28T06:08:29.000Z,"Brexit one of biggest travesties of modern times, says vice-president of EIB https://t.co/YuLSoGWJDy #stopBrexit #brexitwontwork","['brexitwontwork', 'stopbrexit']"
+636644,899631899412275200,738720242,positive,remain,2017-08-21T13:58:53.000Z,Couldn't agree more! #StopBrexit #Brexit #brexitshambles #brexitwontwork https://t.co/n9Vg7zt1Zc,"['brexitwontwork', 'stopbrexit', 'brexit', 'brexitshambles']"
+657696,900621466567421952,2680541218,neutral,other,2017-08-24T07:31:05.000Z,#EU diplomats scoff at #UK customs proposal ahead of #Brexit talks https://t.co/c4lSNqMNDz #brexitwontwork,"['eu', 'brexit', 'brexitwontwork', 'uk']"
+649740,900275879040995328,2680541218,negative,other,2017-08-23T08:37:50.000Z,#Irish Government rejects British proposals on invisible border https://t.co/1DIyKpzjMy via @IrishTimes #Brexit #brexitwontwork,"['irish', 'brexit', 'brexitwontwork']"
+510121,894159648768614400,747499967040921600,neutral,other,2017-08-06T11:34:07.000Z,New LIAM FOX NEWS - the show that finds the +ve in #Brexit!  #NameTheToryGlasto #brexitshambles #EU #LiamFox #JacobReesMogg #brexitwontwork https://t.co/Nwb8Sozcq7,"['jacobreesmogg', 'namethetoryglasto', 'brexit', 'liamfox', 'brexitwontwork', 'eu', 'brexitshambles']"
+981646,912690398702825472,37755581,neutral,other,2017-09-26T14:48:42.000Z,"@theveindoc @Binzyi @David18054465 @cia262 @Otto_English Nope will not do that, as Farage said he wouldn't 
+
+#Brexit #OmniShambles #Brexitwontwork","['omnishambles', 'brexit', 'brexitwontwork']"
+573311,896922469616975872,734755010928648320,neutral,remain,2017-08-14T02:32:35.000Z,"@Femi_Sorry @Nigel_Farage @realDonaldTrump ""we voted for Donald Trump because he said he will take our country back"" sounds familiar.. #Brexit #BrexitShambles #brexitwontwork #Remain","['remain', 'brexit', 'brexitwontwork', 'brexitshambles']"
+1303711,923070065548939264,88251779,neutral,other,2017-10-25T06:13:48.000Z,May called on to publish UK Government's Brexit analysis on Scotland https://t.co/RTuyqFkR1T #SropBrexit #brexitwontwork,"['sropbrexit', 'brexitwontwork']"
+1303691,923069330153267200,88251779,negative,other,2017-10-25T06:10:52.000Z,No deal Brexit would cost northern Scotland an extra £7 billion… https://t.co/da3T2edfCO via @pressjournal #SropBrexit #brexitwontwork,"['sropbrexit', 'brexitwontwork']"
+1374171,925984163290808320,88251779,negative,other,2017-11-02T07:13:23.000Z,Bercow could consider contempt of Parliament if Brexit impact papers unreleased https://t.co/lkPGJXFeP1 #SropBrexit #brexitwontwork,"['sropbrexit', 'brexitwontwork']"
+1374320,925989688825040896,88251779,neutral,remain,2017-11-02T07:35:20.000Z,Unpublished Brexit studies will now be released to the public https://t.co/trdeRdTjBF via @metrouk #SropBrexit #brexitwontwork,"['sropbrexit', 'brexitwontwork']"
+1355093,925234905679892480,88251779,neutral,remain,2017-10-31T05:36:06.000Z,Cabinet to discuss plans for a 'no deal' Brexit https://t.co/xOHurcxM15 #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1191831,919512598323884032,747436971417559040,neutral,remain,2017-10-15T10:37:41.000Z,"This is why we’re taking David Davis to court over Brexit 
+#stopbrexit
+#brexitwontwork
+https://t.co/zR4ZevqJCI","['stopbrexit', 'brexitwontwork']"
+1201879,919861266440736768,88251779,positive,other,2017-10-16T09:43:10.000Z,Theresa May flies to Brussels in last-ditch effort to save Brexit talks https://t.co/rBp3PatDL1 via @MetroUK #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1327148,923804833823457280,88251779,negative,remain,2017-10-27T06:53:30.000Z,I'm reading Tory MPs ‘deadly serious’ about vote on Brexit deal via the Metro app #StopBrexit #brexitwontwork https://t.co/ZwGo0HsiQh,"['stopbrexit', 'brexitwontwork']"
+1518033,931412721572155392,88251779,neutral,remain,2017-11-17T06:44:32.000Z,The full extent of Brexit strain on government revealed https://t.co/3z4qmwiz6c via @CityAM #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1380099,926146183717892096,88251779,negative,remain,2017-11-02T17:57:11.000Z,Bank of England warns Brexit to blame for interest rate hike https://t.co/j0WtaydSve #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1674351,935916164169027584,88251779,negative,remain,2017-11-29T16:59:36.000Z,Brexit must and will be broken for this. #StopBrexit #brexitwontwork # brexitwonthappen https://t.co/EhZGn0dRtj,"['stopbrexit', 'brexitwontwork']"
+1399977,927411529791754240,88251779,neutral,remain,2017-11-06T05:45:13.000Z,Time to press the reset button on Brexit say SNP https://t.co/xfn2tAHo6p #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1355136,925240835981135872,88251779,neutral,remain,2017-10-31T05:59:40.000Z,"I'm reading Brexit reports stay secret, says David Davis via the Metro app #StopBrexit #brexitwontwork https://t.co/Fc2gu8icAp","['stopbrexit', 'brexitwontwork']"
+1500546,930840181342724096,88251779,negative,remain,2017-11-15T16:49:28.000Z,Tory rebels warn Theresa May 'do not to enshrine Brexit date in law' https://t.co/b7v8fjUPO3 #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1408032,927781316006948864,88251779,negative,remain,2017-11-07T06:14:37.000Z,"CBI warns of Brexit ""soap opera"" as businesses ready contingency plans https://t.co/mm21BSzjcu via @CityAM #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1436109,928861044071596032,88251779,negative,remain,2017-11-10T05:45:04.000Z,Gordon Brown: Leave voters could still turn against Brexit https://t.co/Wx3Un0IX4M #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1153619,918362940427919360,780840449963532160,positive,other,2017-10-12T06:29:22.000Z,"Brexit no deal would be 'devastating for Northern Ireland peace process' 
+#stopbrexit
+#brexitwontwork
+https://t.co/9lGIjGsdCa","['stopbrexit', 'brexitwontwork']"
+1331886,923931883104362496,88251779,negative,remain,2017-10-27T15:18:21.000Z,The Brexit department just lost another senior minister https://t.co/BRvC2XbWrf via @CityAM #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1272431,922019881696006144,88251779,neutral,remain,2017-10-22T08:40:44.000Z,Brexit analysis: in the end it will all come down to cash https://t.co/9Djgqol97o #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1272441,922020171098804224,780840449963532160,neutral,remain,2017-10-22T08:41:53.000Z,Brexit analysis: in the end it will all come down to cash https://t.co/lBG7W4wUlS #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1236149,920784945089515520,88251779,neutral,remain,2017-10-18T22:53:32.000Z,"Corbyn thinks he can ""break the Brexit logjam"" - but Barnier doesn't https://t.co/YBgFzeuRuo via @CityAM #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1436167,928865680350474240,88251779,negative,other,2017-11-10T06:03:30.000Z,Brexit talks thrown into chaos after Ireland makes fresh border demands in leaked document https://t.co/RIGddGKtfE via @telegraphnews #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1400056,927421994785746944,88251779,negative,remain,2017-11-06T06:26:48.000Z,Ministers 'could be in contempt of parliament over Brexit papers' https://t.co/RCA94RLima #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1400019,927417537536692224,88251779,positive,remain,2017-11-06T06:09:06.000Z,BoE's Mark Carney: Brexit no deal will slow UK growth https://t.co/z948zaGZ4A via @CityAM #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1379784,926136562550747136,88251779,neutral,remain,2017-11-02T17:18:57.000Z,"@Brexit Should this not ready ""A New Pro British Party Emerges""? we are EU already, so Pro EU is pro British. #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1257609,921355155689361408,780840449963532160,negative,remain,2017-10-20T12:39:21.000Z,"Treasury Select Committee to probe ""no deal"" Brexit's economics https://t.co/ciuEsSrAoN via CityAM #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1355086,925234234360582144,88251779,neutral,remain,2017-10-31T05:33:26.000Z,May and Sturgeon set for St Andrew's Day showdown over Brexit https://t.co/zlR7lbNNJp #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1466377,929958243748720640,88251779,negative,other,2017-11-13T06:24:57.000Z,Theresa May caught between Brexit demands and pro-EU rebellions https://t.co/kBgp31IcEb #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1214220,920223757926588416,780840449963532160,neutral,remain,2017-10-17T09:43:35.000Z,"RT TakingJobs: Scots job exodus planned after a 'no deal' Brexit, warns top expert https://t.co/k28rCXSCvn #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1478609,930311718500265984,88251779,negative,remain,2017-11-14T05:49:32.000Z,May faces Tory rebellion over her Brexit bill amendment https://t.co/V65Aq0F0RL via @CityAM #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1288938,922695741197471744,780840449963532160,negative,remain,2017-10-24T05:26:22.000Z,Hard Brexit 'would cost London more than £100bn' https://t.co/cLnpQu4SFW #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1341855,924511977099218944,780840449963532160,negative,remain,2017-10-29T05:43:26.000Z,Brexit one of the biggest travesties of the modern era which will result in no winners #StopBrexit #brexitwontwork https://t.co/x0gL6vxVxW,"['stopbrexit', 'brexitwontwork']"
+1341871,924514167075360768,88251779,neutral,remain,2017-10-29T05:52:08.000Z,EU investment bank 'will owe Britain money for 35 years after Brexit' https://t.co/EPvAqiIEzO #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1181797,919095842233036800,88251779,neutral,remain,2017-10-14T07:01:39.000Z,No-deal Brexit ‘to trigger a new vote on Union’ https://t.co/L33DpXXUHt #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1341872,924514463100780544,780840449963532160,neutral,remain,2017-10-29T05:53:19.000Z,EU investment bank 'will owe Britain money for 35 years after Brexit' https://t.co/IedeBxyOJr #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1341875,924514632907280384,88251779,positive,other,2017-10-29T05:53:59.000Z,Where are the heroes who will lead the Brexit retreat? | Nick Cohen https://t.co/jpSr9jvVwH #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1492730,930684302525943808,88251779,neutral,remain,2017-11-15T06:30:03.000Z,‘Disgraceful!’ The day Labour MPs tore each other apart over Brexit https://t.co/tXcvXtxxjX via @telegraphnews #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1192128,919517533664931840,780840449963532160,neutral,remain,2017-10-15T10:57:18.000Z,"RT BritainStays: This is why we’re taking David Davis to court over Brexit 
+#stopbrexit
+#brexitwontwork
+https://t.co/rRburaZxsI","['stopbrexit', 'brexitwontwork']"
+1311626,923219874054377472,88251779,neutral,remain,2017-10-25T16:09:05.000Z,"I'm reading Britain can walk away from Brexit, says Tusk via the Metro app #StopBrexit #brexitwontwork https://t.co/HF4FcBG1xw","['stopbrexit', 'brexitwontwork']"
+1457390,929587965759770624,88251779,negative,remain,2017-11-12T05:53:36.000Z,SNP fear for future of Scottish steel plants post-Brexit https://t.co/p02HkwItYG #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1341880,924515722398781440,780840449963532160,positive,other,2017-10-29T05:58:19.000Z,Where are the heroes who will lead the Brexit retreat? | Nick Cohen https://t.co/tyzMi8JDX0 #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1389261,926712833437585408,88251779,neutral,other,2017-11-04T07:28:51.000Z,The Brexit impact studies must be released in full | Gina Miller https://t.co/NEZj8F5n6V #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1457400,929591123294736384,88251779,negative,remain,2017-11-12T06:06:09.000Z,Theresa May faces defeat by MPs demanding vote on final Brexit deal https://t.co/15k1cht6LM #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1311635,923220124018110464,88251779,neutral,other,2017-10-25T16:10:04.000Z,I'm reading PM 'contradicts David Davis over Brexit deal' via the Metro app #StopBrexit #brexitwontwork https://t.co/OeNCz5BKGG,"['stopbrexit', 'brexitwontwork']"
+1181855,919097667678035968,88251779,neutral,remain,2017-10-14T07:08:54.000Z,Jean-Claude Juncker: Brexit process will take longer than the UK thinks https://t.co/d3FYTGskjM via @CityAM #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1364345,925613028191670272,88251779,neutral,remain,2017-11-01T06:38:37.000Z,Labour to force government's hand on Brexit studies https://t.co/NsZxTazq0a via @CityAM #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1445914,929050130677944320,88251779,negative,remain,2017-11-10T18:16:26.000Z,Life sciences firms warn of Brexit drain on skills… https://t.co/j03Z2zNUFd via @pressjournal #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1214074,920221330771005440,780840449963532160,negative,remain,2017-10-17T09:33:56.000Z,"A Brexit no deal would hit millions of British families, major new study warns https://t.co/a236cysUJO #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1214029,920220519521234944,88251779,negative,remain,2017-10-17T09:30:43.000Z,"A Brexit no deal would hit millions of British families, major new study warns https://t.co/9mWCBy9nDQ #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1450271,929267839361605632,88251779,neutral,remain,2017-11-11T08:41:32.000Z,"Davidson challenges May to ""step up the pace"" on Brexit https://t.co/sbyeRwH0d2 #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1364174,925599307692216320,88251779,neutral,remain,2017-11-01T05:44:06.000Z,Whitehall staffing levels balloon to cope with Brexit https://t.co/4dZx21MaNp #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1347993,924880001043976192,88251779,negative,remain,2017-10-30T06:05:50.000Z,Labour leads Lords plot to inflict defeat on Government's Brexit plans https://t.co/SUdOYJLcEy #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1466366,929957718651297792,88251779,neutral,remain,2017-11-13T06:22:52.000Z,"Theresa May ""taken hostage"" by Johnson and Gove over Brexit https://t.co/Hrq94hQ6tG #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1364247,925605214027223040,88251779,neutral,remain,2017-11-01T06:07:34.000Z,"I'm reading 5,000 more Brexit jobs at tax office via the Metro app #StopBrexit #brexitwontwork https://t.co/i1pEPlEFTN","['stopbrexit', 'brexitwontwork']"
+1367773,925706130973655040,88251779,neutral,remain,2017-11-01T12:48:35.000Z,"Brexit: Whitehall headcount to balloon by 8,000 workers https://t.co/oZZEJx3eBW #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1214072,920221303411564544,780840449963532160,negative,other,2017-10-17T09:33:50.000Z,RT TakingJobs: Brexit talks 'could collapse within weeks' https://t.co/4PSXvzhbfq #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1198121,919700306652549120,780840449963532160,neutral,remain,2017-10-15T23:03:34.000Z,"RT BritainStays: This is why we’re taking David Davis to court over Brexit 
+#stopbrexit
+#brexitwontwork
+https://t.co/rRburaZxsI","['stopbrexit', 'brexitwontwork']"
+1492662,930680113938694144,88251779,negative,remain,2017-11-15T06:13:25.000Z,"Theresa May faces Brexit rebellion as at least 15 Tory MPs threaten to side with Labour against departure date https://t.co/Xma2LtAywS via @telegraphnews Mutineers? No, they’re Democrats or pre UKIP Conservatives #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1285599,922512273486295040,88251779,negative,remain,2017-10-23T17:17:20.000Z,"Liam Fox suppressing damage of no deal Brexit, say SNP https://t.co/SE7aQte2ZC #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1505400,931032008884711424,88251779,neutral,remain,2017-11-16T05:31:43.000Z,Scots Tory 'mutineer' defends position on Brexit Bill https://t.co/0QGYKDs10z #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1507468,931092103580585984,747436971417559040,negative,remain,2017-11-16T09:30:31.000Z,"U.K. faces threat of ""major border disruptions"" after Brexit, lawmakers say the government so far has undertaken “insufficient contingency planning” to prepare the Border Force
+#stopbrexit
+#brexitwontwork
+https://t.co/02W7KlTkbt via @bpolitics","['stopbrexit', 'brexitwontwork']"
+1316232,923414808690601984,88251779,positive,other,2017-10-26T05:03:41.000Z,SNP's Alyn Smith: Brexit Britain is breaching Ireland's Good Friday Agreement https://t.co/Hy32zkEOdI #StopBrexit #brexitwontwork,"['stopbrexit', 'brexitwontwork']"
+1213739,920215313970548736,88251779,neutral,remain,2017-10-17T09:10:02.000Z,"Scots job exodus planned after a 'no deal' Brexit, warns top expert https://t.co/760cxGLQXV #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1213794,920216224835031040,780840449963532160,neutral,remain,2017-10-17T09:13:39.000Z,"Scots job exodus planned after a 'no deal' Brexit, warns top expert https://t.co/k28rCXSCvn #StopBrexit #brexitwontwork","['stopbrexit', 'brexitwontwork']"
+1505440,931035642078859264,88251779,negative,remain,2017-11-16T05:46:09.000Z,I'm reading ‘Brexit mutineer’ MP target of online threats via the Metro app #StopBrexit #brexitwontwork https://t.co/25Yz50NNXb,"['stopbrexit', 'brexitwontwork']"
+1161831,918451002809962496,747436971417559040,neutral,remain,2017-10-12T12:19:17.000Z,"Leaving EU without a trade deal will cost £400bn (£11,500 per person) by 2030
+#brexitwontwork 
+#stopbrexit
+#brexit
+https://t.co/3Wv4HeJ1dh","['stopbrexit', 'brexitwontwork', 'brexit']"
+1173575,918755025945616384,780840449963532160,negative,remain,2017-10-13T08:27:22.000Z,"HMG cannot keep hiding the #brexit impact reports. 
+#brexitwontwork
+#stopbrexit
+ https://t.co/COpqES1dBu via bpolitics","['stopbrexit', 'brexitwontwork', 'brexit']"
+1173576,918755030089523200,780840449963532160,negative,remain,2017-10-13T08:27:23.000Z,"RT BritainStays: HMG cannot keep hiding the #brexit impact reports. 
+#brexitwontwork
+#stopbrexit
+ https://t.co/COpqES1dBu via bpolitics","['stopbrexit', 'brexitwontwork', 'brexit']"
+1173545,918754493663195136,747436971417559040,negative,remain,2017-10-13T08:25:15.000Z,"HMG cannot keep hiding the #brexit impact reports. 
+#brexitwontwork
+#stopbrexit
+ https://t.co/j3s7mNweNc via @bpolitics","['stopbrexit', 'brexitwontwork', 'brexit']"
+1640329,935107381037535232,88251779,neutral,remain,2017-11-27T11:25:47.000Z,I'm reading Brexit divorce bill ‘may be buried to dodge backlash’ via the Metro app #StopBrexit #brexitwontwork #brexitwonthappen https://t.co/yGZ2OKkxoI,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1560319,932767612588740608,88251779,neutral,remain,2017-11-21T00:28:23.000Z,Barnier: City firms will lose financial passports after Brexit https://t.co/bbzoOo99AT via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1662276,935642648165208064,88251779,negative,other,2017-11-28T22:52:45.000Z,David Davis could be held in contempt by MPs on censored Brexit papers https://t.co/XPb1O5o8MI #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1708151,937209396375015424,88251779,neutral,other,2017-12-03T06:38:27.000Z,Sturgeon: Brexit deal 'must include transition period inside single market'… https://t.co/AedXieEJTI via @pressjournal #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1697664,936655737467654144,88251779,positive,other,2017-12-01T17:58:24.000Z,"EXCLUSIVE: Brexit Secretary in threat to quit over Damian Green 'porn' storm https://t.co/mMfiO7NmrW great, #StopBrexit #brexitwontwork #brexitwonthappen","['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1664756,935770987097882624,88251779,positive,remain,2017-11-29T07:22:43.000Z,Brexit: £50bn divorce bill ‘agreed’ according to reports https://t.co/HDS0Pl7xVd #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1527481,931632416581668864,88251779,negative,remain,2017-11-17T21:17:31.000Z,Tory rebels torpedo May's plan to fix Brexit date in law https://t.co/h0AI7M54r3 #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1606431,933997210693402624,88251779,negative,remain,2017-11-24T09:54:22.000Z,Brexit lurks behind Britain’s cautious Budget https://t.co/EUjrTMMATA via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1637281,935046564082536448,88251779,negative,remain,2017-11-27T07:24:07.000Z,May warned to change course or risk Brexit chaos over Irish border https://t.co/Hip7JKW6kK #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1646291,935252936204193792,88251779,neutral,remain,2017-11-27T21:04:10.000Z,"Where are we up to in these Brexit talks? https://t.co/AhplxEJ550
+#StopBrexit #brexitwontwork #brexitwonthappen","['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1536970,932129826403766272,88251779,neutral,remain,2017-11-19T06:14:03.000Z,Corbyn still silent on figure Labour would offer to settle Brexit divorce bill https://t.co/XAZjKiC1Sm #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1536985,932132798487515136,88251779,negative,remain,2017-11-19T06:25:52.000Z,Theresa May refuses to back down on key Brexit pledge https://t.co/BvmgBEu3rX #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1545389,932504661566873600,88251779,neutral,remain,2017-11-20T07:03:31.000Z,MPs urge UK Government to clarify Brexit Bill devolution plans… https://t.co/KaEtc2Ifhp via @pressjournal #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1718649,937556322140278784,88251779,negative,remain,2017-12-04T05:37:00.000Z,"Scotland's Brexit Minister warns EU divorce Bill is ""thoroughly disliked"" https://t.co/amuzXnG5Jt  #StopBrexit #brexitwontwork #brexitwonthappen","['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1545375,932504146359607296,88251779,negative,remain,2017-11-20T07:01:28.000Z,Scotland among hardest hit as Brexit costs every worker a week's wages - even before we leave EU https://t.co/np8OWybfk8 #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1708135,937208205574377472,88251779,neutral,other,2017-12-03T06:33:43.000Z,Scottish government vows to help Ireland fight hard border after Brexit https://t.co/sflK9EeKWg #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1589418,933476030760849408,88251779,neutral,remain,2017-11-22T23:23:23.000Z,Growth forecasts cut as productivity stalls and Brexit looms https://t.co/4kbRopGbLl #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1662280,935642807158616064,88251779,positive,remain,2017-11-28T22:53:23.000Z,UK and EU 'agree Brexit divorce bill which could reach almost £50bn' https://t.co/J7YODyKATM #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1665358,935782061411053568,88251779,negative,remain,2017-11-29T08:06:44.000Z,I'm reading ‘Brexit bung’ alarms critics on both sides via the Metro app #StopBrexit #brexitwontwork #brexitwonthappen  https://t.co/iwHnt7RDyF,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1530010,931798909294391296,88251779,neutral,other,2017-11-18T08:19:06.000Z,The Irish border has joined the divorce bill on the pile of reasons for Brexit talks being deadlocked https://t.co/OgdVNj1vVC  #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1718675,937557974205239296,88251779,negative,remain,2017-12-04T05:43:34.000Z,Scotland and Wales ‘can’t accept’ Brexit bill in current form https://t.co/nMNWNiqJvC  #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1672990,935885928190660608,88251779,positive,remain,2017-11-29T14:59:27.000Z,This is how big the €55bn Brexit divorce bill really is https://t.co/55tjAcBVPD #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1637149,935043214272352256,88251779,neutral,remain,2017-11-27T07:10:49.000Z,Fox ups Brexit ante over Irish border issue https://t.co/KevMPpRFI4 #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1701583,936855125028585472,88251779,positive,remain,2017-12-02T07:10:42.000Z,"62% of Scots want European powers moved to Holyrood after Brexit, poll finds… https://t.co/tA6Ou0lULW via @pressjournal #StopBrexit #brexitwontwork #brexitwonthappen","['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1672933,935884711397863424,88251779,positive,other,2017-11-29T14:54:37.000Z,May faces backlash over £50bn 'Brexit divorce bill' after breakthrough in talks https://t.co/9LMLe8bKkY #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1637138,935042924332703744,88251779,neutral,remain,2017-11-27T07:09:40.000Z,"Davidson says Brexit deal could be ""five-past-midnight job"" https://t.co/CvOKWlHmMm #StopBrexit #brexitwontwork #brexitwonthappen","['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1559934,932758529466945536,88251779,positive,other,2017-11-20T23:52:17.000Z,Brexit minister apologises for incorrectly saying Supreme Court had ruled Article 50 was irreversible https://t.co/sizjk5RTji #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1529926,931795754599018496,88251779,positive,remain,2017-11-18T08:06:34.000Z,Tusk gives UK new deadline  for Brexit progress https://t.co/AtM2QhVtAT #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1745982,937943969882935296,88251779,negative,remain,2017-12-05T07:17:23.000Z,Alistair Darling: Brexit will only make UK’s stagnating economy ever worse off https://t.co/89PZCKQBNw #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1637258,935045669580083200,88251779,neutral,remain,2017-11-27T07:20:34.000Z,Record tax take from financial services as Brexit crunch point nears https://t.co/9yULBnSkal via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1637267,935046025294831616,88251779,neutral,remain,2017-11-27T07:21:59.000Z,"Ireland promises to ""play tough""on Brexit as border issue looms https://t.co/KeBgcDuloK via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen","['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1637239,935045094369095680,88251779,negative,remain,2017-11-27T07:18:17.000Z,Senior Holyrood figures in bid to avert Brexit ‘power-grab’ crisis https://t.co/uFepYWhEBH #StopBrexit #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1529950,931796558043115520,88251779,neutral,other,2017-11-18T08:09:46.000Z,EU leaders demand more money before continuing Brexit talks https://t.co/jgFruCD7S6 #StopBrexit Vote Leave’s promises can’t be delivered #brexitwontwork #brexitwonthappen,"['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1745974,937943795387256832,88251779,negative,remain,2017-12-05T07:16:41.000Z,"DUP blocks May's Brexit border deal, branding it ""Unionist nightmare"" https://t.co/amKlqPfW9x #StopBrexit #brexitwontwork #brexitwonthappen","['stopbrexit', 'brexitwontwork', 'brexitwonthappen']"
+1181866,919098066707283968,88251779,negative,other,2017-10-14T07:10:29.000Z,Business warnings grow as clock ticks on Brexit talks https://t.co/wkFGsez3DN via @CityAM #StopBrexit #exitbrokenbrexit #brexitwontwork,"['stopbrexit', 'exitbrokenbrexit', 'brexitwontwork']"
+1886747,941195362412396544,88251779,neutral,other,2017-12-14T06:37:15.000Z,Brexit analysis: Westminster vote makes May's negotiating hand weaker https://t.co/ShUMtmFK3v #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1915526,941951933753020416,88251779,positive,remain,2017-12-16T08:43:36.000Z,May hails EU leaders over progress on Brexit talks https://t.co/sfRPJibSwL #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1785698,938671546524225536,88251779,neutral,remain,2017-12-07T07:28:31.000Z,UK-wide Brexit deal takes a step closer after Northern Irish drama… https://t.co/7CStpd77cW via @pressjournal #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1923389,942309574002073600,88251779,neutral,remain,2017-12-17T08:24:44.000Z,"Hammond: UK is not looking for a ""Canada"" style Brexit trade deal https://t.co/67fEW5htbs via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1912639,941770341130612736,88251779,negative,remain,2017-12-15T20:42:01.000Z,Pound tumbles on Brexit doubts but FTSE 100 edges higher https://t.co/lVGdtGqv3D via @CityAM   #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1923366,942308763557560320,88251779,neutral,remain,2017-12-17T08:21:31.000Z,Tory Eurosceptics brand Hammond 'only too willing to do Brussels' bidding' over 'Brexit status quo' comments https://t.co/a2bvnI8roj #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1838839,939723751800889344,88251779,negative,remain,2017-12-10T05:09:36.000Z,Leader comment: UK-EU deal exposes the contradictions of Brexit https://t.co/VostYE9Nbg #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1846056,939945333618040832,88251779,neutral,remain,2017-12-10T19:50:05.000Z,"Britain must ‘stay aligned’ with EU post-Brexit, urges Sir Keir Starmer… https://t.co/As7Uu935nf via @pressjournalc  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1838823,939722571116933120,88251779,neutral,remain,2017-12-10T05:04:54.000Z,Brexit confusion intensifies https://t.co/5CHzabVsGy #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1838820,939722031423283200,88251779,neutral,remain,2017-12-10T05:02:46.000Z,"The Brexit bill for each home in the UK is set to hit £1,400 https://t.co/70gDZXQ9A9 #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1902244,941552719604649984,88251779,neutral,remain,2017-12-15T06:17:16.000Z,Theresa May faces 'much bigger defeat' over vote on Brexit date https://t.co/rtWj2lzy6F  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1859377,940465972779147264,88251779,positive,remain,2017-12-12T06:18:55.000Z,"Employer confidence at five-year low as Brexit looms, says survey https://t.co/Ko9NIwTMCr #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1853117,940212926476111872,88251779,negative,remain,2017-12-11T13:33:24.000Z,"More than 10,000 City jobs will leave the UK after Brexit https://t.co/jVdYVsjf6C via @CityAM #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1766175,938321075313799168,88251779,neutral,remain,2017-12-06T08:15:52.000Z,Labour’s Brexit muddle puts them on thin ice https://t.co/s8PzF3hEVA via @CityAM  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1859390,940466666974171136,88251779,neutral,remain,2017-12-12T06:21:41.000Z,"Corbyn calls on May to scrap ""unnecessary"" Brexit deadline of March 2019 https://t.co/8xzV36y7uE #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1943600,942991996611956736,88251779,negative,remain,2017-12-19T05:36:26.000Z,"Brexit ""turning off tap"" to keep EU workers, warn Scotland's carers https://t.co/a278VrGdLi  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1785653,938670597298622464,88251779,neutral,remain,2017-12-07T07:24:44.000Z,"Commons majority for soft Brexit can be achieved, insists SNP's Blackford https://t.co/RzcDFEzlW7 #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1876939,941000320070635520,88251779,negative,remain,2017-12-13T17:42:13.000Z,"No going back on promises made in EU-UK Brexit agreement, warns Barnier https://t.co/grYKq6irkS #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1849002,940124557473665024,88251779,positive,remain,2017-12-11T07:42:15.000Z,Brexit: Theresa May thinks it’s time for ‘new sense of optimism’ https://t.co/n1WXFJgbe4 #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1848969,940122900643897344,88251779,positive,remain,2017-12-11T07:35:40.000Z,"May boasts ""new sense of optimism"" in Brexit talks https://t.co/Y8pn4AZoYx #StopBrexit #brexitwontwork #brexitwonthappen #FBPE","['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1762917,938174156197199872,88251779,negative,other,2017-12-05T22:32:03.000Z,Brexit: Ruth Davidson warns PM against Northern Ireland deal https://t.co/9areclBRsw  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1932952,942638142116556800,88251779,neutral,remain,2017-12-18T06:10:21.000Z,'I've seen secret Brexit impact papers' says SNP MP https://t.co/QIlexlJg8Q  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1785508,938667556872900608,88251779,neutral,remain,2017-12-07T07:12:39.000Z,Unionist campaign splits over Brexit and second referendum https://t.co/LKBBUfiIfK #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1828448,939381234635026432,88251779,neutral,remain,2017-12-09T06:28:33.000Z,How Theresa May sealed a Brexit deal as her staff partied around Downing Street https://t.co/R17zgwAZja #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1940141,942822636186456064,88251779,negative,remain,2017-12-18T18:23:27.000Z,Brexit war cabinet ‘fails to agree position on UK-EU trade’ https://t.co/ZkuCRa3Kv8  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1803278,939042903246147584,88251779,positive,remain,2017-12-08T08:04:09.000Z,BREAKING: Theresa May achieves breakthrough in Brexit negotiations https://t.co/91J84JPrNe #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1762894,938173505258049536,88251779,positive,remain,2017-12-05T22:29:28.000Z,Brexit: SNP minister wants united Holyrood voice for single market bid https://t.co/qfI6bJ5NT7  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"
+1902227,941552221765947392,88251779,negative,remain,2017-12-15T06:15:17.000Z,DEBATE: Will the government’s Brexit defeat affect our exit from the EU? https://t.co/YnlB0SAOgM via @CityAM  #StopBrexit #brexitwontwork #brexitwonthappen #FBPE,"['stopbrexit', 'fbpe', 'brexitwontwork', 'brexitwonthappen']"

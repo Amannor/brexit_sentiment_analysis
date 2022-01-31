@@ -1,13 +1,16 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,1543320,745970782241693696,1978165356,negative,leave,2016-06-23T13:24:28.000Z,"#EU - failed project
-
-#VoteLeave
+,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+1433584,745546829379469312,1978165356,negative,leave,2016-06-22T09:19:50.000Z,"If you would #VoteLeave, you would also say no to #TTIP!
+#Brexit
 #LeaveEU
 #No2EU
-#NoTTIP
-#Brexit
-#adiEU https://t.co/HX9IG7levs","['adieu', 'brexit', 'no2eu', 'eu', 'nottip', 'leaveeu', 'voteleave']"
-1,1,1,925689,739806040280182784,4835879128,negative,other,2016-06-06T13:07:59.000Z,"#annewill
+no #TTIP
+#No2TTIP
+#adiEU
+#euXit","['adieu', 'voteleave', 'no2ttip', 'brexit', 'ttip', 'euxit', 'leaveeu', 'ttip', 'no2eu']"
+875691,738492188472922112,424714505,neutral,other,2016-06-02T22:07:12.000Z,"Retweeted #No2EU (@stardust193):
+
+#InOrOut POLL #EUref #bbcqt #Brexit #LeaveEU #skynewsdebate #StrongerIn... https://t.co/6bB3zKYDjp","['bbcqt', 'brexit', 'strongerin', 'skynewsdebate', 'inorout', 'leaveeu', 'no2eu', 'euref']"
+925689,739806040280182784,4835879128,negative,other,2016-06-06T13:07:59.000Z,"#annewill
 #bbcqt
 SCHWEIZ
 #Brexit
@@ -15,416 +18,433 @@ SCHWEIZ
 
 THAT'S EXACTLY how a REGIME / FASCISTS act!!!
 
-#NO2EU -REGIME https://t.co/uStEeHVLhR","['annewill', 'nuitdebout', 'no2eu', 'bbcqt', 'brexit']"
-2,2,2,204094,702996383259873280,31075190,negative,remain,2016-02-25T23:19:33.000Z,@cheekylatte Thats terrible! #bbcqt #Brexit #No2EU #labourLeave,"['bbcqt', 'brexit', 'labourleave', 'no2eu']"
-3,3,3,24722,690985093578514432,45435232,positive,leave,2016-01-23T19:50:58.000Z,Best line from #bbcqt 'UK Staying in EU like person on dole not wanting a job as they'd lose their benefits' #Brexit #No2EU,"['bbcqt', 'brexit', 'no2eu']"
-4,4,4,1292748,744657252007677952,31075190,negative,leave,2016-06-19T22:24:58.000Z,@IjomaGalvin just watch 5 mins then rewind... #bbcqt Because that's about it all the way through! Boring gobshite! #VoteLeave #Brexit #No2EU,"['bbcqt', 'brexit', 'voteleave', 'no2eu']"
-5,5,5,341642,709936386640510976,36975998,positive,leave,2016-03-16T02:56:39.000Z,100 days until #Brexit makes #Britian &amp; all #UK great again! #GrassrootsOut #EUReferendum #EURef #BetterOffOut #No2EU #BelieveInBritain,"['believeinbritain', 'britian', 'betteroffout', 'uk', 'eureferendum', 'grassrootsout', 'no2eu', 'euref', 'brexit']"
-6,6,6,263806,705656120161996800,3135565264,neutral,leave,2016-03-04T07:28:24.000Z,"#VoteLeave if you #BelieveInBritain 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU #no2EU https://t.co/bKw2s9JXTr","['believeinbritain', 'strongerin', 'brexit', 'loveeuropeleaveeu', 'eureferendum', 'no2eu', 'leaveeu', 'voteleave']"
-7,7,7,61719,696730096103776256,3135565264,negative,remain,2016-02-08T16:19:34.000Z,"We have nothing fear from #Brexit
-
-#BelieveInBritain 
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #No2EU https://t.co/gvCoILTPuC","['believeinbritain', 'strongerout', 'leadnotleave', 'strongerin', 'brexit', 'no2eu', 'euref', 'leaveeu']"
-8,8,8,73271,698572259565445120,606785697,positive,other,2016-02-13T18:19:40.000Z,"I just supported @BrexitTheMovie with 30 pounds. Please pledge too. #No2EU 
-#BetterOffOut #Brexit #BelieveInBritain https://t.co/ecyzE19BqD","['betteroffout', 'believeinbritain', 'brexit', 'no2eu']"
-9,9,9,940846,740126391728021504,1642941187,negative,leave,2016-06-07T10:20:57.000Z,"hahahahahaha first Europe, then the Worlddddd!!!!#VoteLeave #Brexit #BetterOffOut #no2eu #Leave #WorldDomination https://t.co/9SQ3fR1WlI","['betteroffout', 'brexit', 'leave', 'no2eu', 'worlddomination']"
-10,10,10,327652,709098521555832832,3135565264,neutral,leave,2016-03-13T19:27:16.000Z,"@samsonofsam 
+#NO2EU -REGIME https://t.co/uStEeHVLhR","['bbcqt', 'nuitdebout', 'no2eu', 'brexit', 'annewill']"
+73271,698572259565445120,606785697,positive,other,2016-02-13T18:19:40.000Z,"I just supported @BrexitTheMovie with 30 pounds. Please pledge too. #No2EU 
+#BetterOffOut #Brexit #BelieveInBritain https://t.co/ecyzE19BqD","['believeinbritain', 'betteroffout', 'brexit', 'no2eu']"
+511518,722169927390601216,721081786332233728,neutral,remain,2016-04-18T21:08:22.000Z,Only 39 percent of Swedes think it's a 'good idea' that Sweden is in the EU https://t.co/4HJwPi6w9O #EU #Brexit #BetterOffOut #Merkel #No2EU,"['betteroffout', 'brexit', 'eu', 'no2eu', 'merkel']"
+327652,709098521555832832,3135565264,neutral,leave,2016-03-13T19:27:16.000Z,"@samsonofsam 
 
 Who’s Next to Follow UK out of #EU ?
 
-#EUref #BetterOffOut #LeaveEU #Brexit #No2EU https://t.co/oXWa8o03xU","['betteroffout', 'brexit', 'no2eu', 'eu', 'euref', 'leaveeu']"
-11,11,11,426444,716626249393766400,1978165356,neutral,other,2016-04-03T13:59:46.000Z,"#Brexit goes real.
+#EUref #BetterOffOut #LeaveEU #Brexit #No2EU https://t.co/oXWa8o03xU","['betteroffout', 'brexit', 'leaveeu', 'eu', 'no2eu', 'euref']"
+18861,689752034774482944,275547016,positive,remain,2016-01-20T10:11:14.000Z,"@PurnL It's almost as if they desire #Brexit with their constant ""rule changes to get up UK noses"" announcements! #BetterOffOut #No2EU","['betteroffout', 'brexit', 'no2eu']"
+273028,706120558740709376,3131688450,positive,leave,2016-03-05T14:13:54.000Z,Then the EU will give full membership to Turkey &amp; they'll be free to go anywhere. #Brexit #BetterOffOut #No2EU https://t.co/6YFe94hbnF,"['betteroffout', 'brexit', 'no2eu']"
+106847,700743804190461952,19345311,neutral,remain,2016-02-19T18:08:36.000Z,Brilliantly written and says everything those outside Westminster bubble are thinking #Brexit #BetterOffOut #No2EU https://t.co/6qUqffbReY,"['betteroffout', 'brexit', 'no2eu']"
+19412,689884139043037184,275547016,negative,other,2016-01-20T18:56:10.000Z,Perhaps that's in lieu of the taxes they avoid! #Brexit #BetterOffOut #No2EU  https://t.co/M5OTuAKbw0,"['betteroffout', 'brexit', 'no2eu']"
+426444,716626249393766400,1978165356,neutral,other,2016-04-03T13:59:46.000Z,"#Brexit goes real.
 #No2EU
 #BetterOffOut
-#euXit https://t.co/CWVn2R9kWk","['betteroffout', 'euxit', 'brexit', 'no2eu']"
-12,12,12,47806,694903813380165632,44620154,negative,other,2016-02-03T15:22:34.000Z,William Hague blasting the PM's 'red card' deal years ago! https://t.co/Wbcxr7vdjP #Leave #Brexit #No2EU #BetterOffOut,"['betteroffout', 'leave', 'brexit', 'no2eu']"
-13,13,13,47347,694871664832675840,44620154,negative,other,2016-02-03T13:14:49.000Z,"Farage exposures Cameron's worthless ""renegotiation"". No treaty changes at all! https://t.co/sE2r0so7Qz #Leave #Brexit #No2EU #BetterOffOut","['betteroffout', 'leave', 'brexit', 'no2eu']"
-14,14,14,563586,724727057523957760,721081786332233728,positive,leave,2016-04-25T22:29:29.000Z,Welcome Refugees #EU #Merkel #Brexit #VoteLeave #EUReferendum #BetterOffOut #No2EU #NoToEU #Trump #Trump2016 #MAGA https://t.co/Q69xPyodiE,"['betteroffout', 'merkel', 'eureferendum', 'trump', 'no2eu', 'eu', 'maga', 'trump2016', 'notoeu', 'brexit', 'voteleave']"
-15,15,15,511518,722169927390601216,721081786332233728,neutral,remain,2016-04-18T21:08:22.000Z,Only 39 percent of Swedes think it's a 'good idea' that Sweden is in the EU https://t.co/4HJwPi6w9O #EU #Brexit #BetterOffOut #Merkel #No2EU,"['betteroffout', 'merkel', 'no2eu', 'eu', 'brexit']"
-16,16,16,599574,727607588330704896,721081786332233728,neutral,leave,2016-05-03T21:15:42.000Z,‘Sharia police’ that patrolled German city to be tried https://t.co/1rJvZ4FoIG #EU #Merkel #Brexit #VoteLeave #BetterOffOut #NoToEU #No2EU,"['betteroffout', 'merkel', 'no2eu', 'eu', 'notoeu', 'brexit', 'voteleave']"
-17,17,17,525933,722937806016778240,722195754727510016,negative,leave,2016-04-20T23:59:39.000Z,Awful #EU #Merkel #Brexit #VoteLeave #No2EU #BetterOffOut #NoToEU #Trump #Trump2016 #MakeAmericaGreatAgain https://t.co/nKfYFZ4QVI,"['betteroffout', 'merkel', 'trump', 'no2eu', 'makeamericagreatagain', 'eu', 'trump2016', 'notoeu', 'brexit', 'voteleave']"
-18,18,18,740615,734162083391148032,3131688450,positive,other,2016-05-21T23:20:55.000Z,"I like this one. 
+#euXit https://t.co/CWVn2R9kWk","['betteroffout', 'brexit', 'no2eu', 'euxit']"
+47347,694871664832675840,44620154,negative,other,2016-02-03T13:14:49.000Z,"Farage exposures Cameron's worthless ""renegotiation"". No treaty changes at all! https://t.co/sE2r0so7Qz #Leave #Brexit #No2EU #BetterOffOut","['betteroffout', 'brexit', 'no2eu', 'leave']"
+47806,694903813380165632,44620154,negative,other,2016-02-03T15:22:34.000Z,William Hague blasting the PM's 'red card' deal years ago! https://t.co/Wbcxr7vdjP #Leave #Brexit #No2EU #BetterOffOut,"['betteroffout', 'brexit', 'no2eu', 'leave']"
+846056,737815767543074816,706651419772895232,negative,leave,2016-06-01T01:19:21.000Z,"#BREXIT  #betteroffout #leaveeu #voteleave #leave #no2eu 
+
+GET 
+OUT 
+THERE 
+AND 
+VOLUNTEER 
+ONLY 
+23 
+DAYS 
+LEFT https://t.co/BmBqBOuYh5","['betteroffout', 'no2eu', 'brexit', 'leaveeu', 'voteleave', 'leave']"
+876228,738508952195960832,706651419772895232,negative,leave,2016-06-02T23:13:49.000Z,"#BREXIT  #betteroffout #leaveeu #voteleave #leave #no2eu 
+
+GET 
+OUT 
+THERE 
+AND 
+VOLUNTEER 
+ONLY 
+21
+DAYS 
+LEFT https://t.co/jpAd8SHwT7","['betteroffout', 'no2eu', 'brexit', 'leaveeu', 'voteleave', 'leave']"
+1108617,742762000187461632,3045149182,positive,leave,2016-06-14T16:53:55.000Z,"nother very clear video about Brexit:
+https://t.co/IB3yyarHfw
+Please vote Leave
+#voteleave #betteroffout #strongerout #leaveeu #no2eu","['betteroffout', 'no2eu', 'leaveeu', 'voteleave', 'strongerout']"
+638541,730275034187567104,3045149182,negative,leave,2016-05-11T05:55:10.000Z,"No joke: EU kettle &amp; toaster limits coming after Brexit vote
+https://t.co/2w79SAhgp9 …
+#voteleave #betteroffout #strongerout #leaveeu #no2eu","['betteroffout', 'no2eu', 'leaveeu', 'voteleave', 'strongerout']"
+566810,724969039945187328,3045149182,negative,leave,2016-04-26T14:31:03.000Z,"More 'stay' nonsense: Falklands &amp; Gib at risk from #brexit: https://t.co/nkGcO4evNY
+#strongerout #betteroffout
+#voteleave #no2eu #leaveeu","['betteroffout', 'no2eu', 'leaveeu', 'voteleave', 'strongerout', 'brexit']"
+785379,735564867608838144,1238328264,negative,leave,2016-05-25T20:15:05.000Z,"@End_of_Europe There are your Nazi's right there. The EU is in such a mess! #brexit, #no2eu, #betteroffout, #voteout, #leaveeu, #voteleave","['betteroffout', 'no2eu', 'voteout', 'voteleave', 'leaveeu', 'brexit']"
+593716,727090448200794112,169728596,negative,leave,2016-05-02T11:00:46.000Z,"John Major - extremism, shared sovereignty and his war on democracy https://t.co/unlXi32ZuQ
+#brexit, #no2eu, #notoeu, #betteroffout, #voteo…","['betteroffout', 'notoeu', 'no2eu', 'voteo…', 'brexit']"
+289720,707139066232500224,243393079,positive,other,2016-03-08T09:41:06.000Z,"Good luck today, @SuzanneEvans1, @patel4witham, &amp; @annietrev on launch of pro-#Brexit @WomenforBritain!
+#VoteLeave
+#BetterOffOut
+#No2EU","['betteroffout', 'voteleave', 'no2eu']"
+728818,733684466762297344,731465935308128128,neutral,other,2016-05-20T15:43:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #No2EU #BRemain #StrongerIn #EURef","['bremain', 'euref', 'no2eu', 'strongerin']"
+740615,734162083391148032,3131688450,positive,other,2016-05-21T23:20:55.000Z,"I like this one. 
 The #EU without the UK.
-#BRexit #No2EU #LeaveEU #BetterOffOut @UKIP https://t.co/fZ3hfFXSUP","['betteroffout', 'no2eu', 'eu', 'brexit', 'leaveeu']"
-19,19,19,101123,700596319652417536,3135565264,positive,leave,2016-02-19T08:22:33.000Z,"I support #GrassrootsOut
+#BRexit #No2EU #LeaveEU #BetterOffOut @UKIP https://t.co/fZ3hfFXSUP","['brexit', 'betteroffout', 'leaveeu', 'eu', 'no2eu']"
+170151,702024592915873792,218104275,neutral,other,2016-02-23T06:58:00.000Z,#pvv RT @DVATW: The LEFT wing #dailymirror poll tonight.... #brexit #No2EU https://t.co/wbg7FzlTXK,"['brexit', 'dailymirror', 'no2eu', 'pvv']"
+27857,691694354352717824,31075190,neutral,other,2016-01-25T18:49:19.000Z,@politicsHour Love Ireland! Hate #EU! .. #UK need to #Brexit #LabourLeave #No2EU,"['brexit', 'eu', 'labourleave', 'no2eu', 'uk']"
+73122,698542053932822528,3135565264,neutral,remain,2016-02-13T16:19:38.000Z,"the end of #Schengen is the end of the #EU ..!
 
-#VoteLeave #EURef #StrongerIn #No2EU #BetterOffOut #Brexit #EUdeal   https://t.co/vhmOprR6gm","['betteroffout', 'strongerin', 'grassrootsout', 'no2eu', 'euref', 'eudeal', 'brexit', 'voteleave']"
-20,20,20,90279,700100756339351552,3135565264,neutral,leave,2016-02-17T23:33:22.000Z,"Dont believe all the scaremongering 
+#EU RIP
 
-Britain is #BetterOffOut
+#LeaveEU #EURef #StrongerIn #LeadNotLeave #Brexit #No2EU https://t.co/TbHjjGnDXx","['brexit', 'euref', 'leadnotleave', 'leaveeu', 'schengen', 'eu', 'no2eu', 'strongerin']"
+790945,735808712200310784,2311561,neutral,leave,2016-05-26T12:24:02.000Z,Why Look to Norway for model of how to thrive outside #EU via @MorrisseyHelena #EURef #UK #Brexit #LeaveEU #No2EU https://t.co/KjZkALocnF,"['brexit', 'euref', 'leaveeu', 'eu', 'no2eu', 'uk']"
+81993,699494917190582272,3135565264,neutral,leave,2016-02-16T07:25:58.000Z,"UK has nothing to fear from being a global leading nation state after #Brexit 
 
-#VoteLeave #EURef #StrongerIn #No2EU #Brexit #EUdeal https://t.co/qldPgGnmxG","['betteroffout', 'strongerin', 'no2eu', 'euref', 'eudeal', 'brexit', 'voteleave']"
-21,21,21,423318,716274171957886976,3135565264,positive,leave,2016-04-02T14:40:44.000Z,"#Birmingham people support the vote to #LeaveEU
+#EURef #StrongerIn #LeaveEU #No2EU https://t.co/dbtuRRzQTD","['brexit', 'euref', 'leaveeu', 'no2eu', 'strongerin']"
+118679,700982764980535296,3135565264,positive,leave,2016-02-20T09:58:09.000Z,"Out of the #EU &amp; into the World Lets Make Britain GREAT again...
 
-#VoteLeave #EUreferendum #StrongerIn #StayinEU #No2EU #Brexit https://t.co/D3aCU7jbny","['birmingham', 'strongerin', 'brexit', 'no2eu', 'stayineu', 'eureferendum', 'leaveeu', 'voteleave']"
-22,22,22,852560,737966272755994624,102044458,neutral,other,2016-06-01T11:17:24.000Z,https://t.co/F8lgC9wCwh Debate about OBV’s EU poster @saatchilondon #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/WfEYgEPuVn,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
-23,23,23,886059,738749285538238464,102044458,neutral,other,2016-06-03T15:08:49.000Z,https://t.co/2W1kXA2ewe #EUreferendum  Debate: The implications for Black Britain #brexit #bremain #no2eu #yes2eu https://t.co/3Moc0y8y9b,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
-24,24,24,854992,738003725722214400,102044458,neutral,remain,2016-06-01T13:46:14.000Z,https://t.co/2tZT1jUSYO BME voters could decide EU outcome #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/Lyi67ouyta,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
-25,25,25,754222,734681798249185280,102044458,neutral,remain,2016-05-23T09:46:05.000Z,https://t.co/HJGmfReuRN The Vale of Glamorgan EU debate - Stay or Go? #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/siSu137DKE,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
-26,26,26,726921,733598534264463360,102044458,neutral,remain,2016-05-20T10:01:34.000Z,https://t.co/27MHYXVBcU Register to vote before it's too late #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/tZRN4icKPY,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
-27,27,27,548124,723865259807805440,121855199,positive,leave,2016-04-23T13:25:01.000Z,"#eureferendum: ""we got this."" ... ""yeah, we do. just awaiting merkel to speak out and we can ransack the place."" #brexit for better! #no2eu:","['brexit', 'eureferendum', 'no2eu']"
-28,28,28,246271,704975160277921792,88312530,negative,leave,2016-03-02T10:22:30.000Z,"Appalling ""DVLA staff must be 'especially careful' ahead of #EUReferendum"" https://t.co/iuVEmFfagA #VoteLeave #Brexit #No2EU","['brexit', 'eureferendum', 'voteleave', 'no2eu']"
-29,29,29,30638,692268379047067648,88312530,neutral,other,2016-01-27T08:50:17.000Z,#IslamicState is taking advantage of the EU’s incompetence. https://t.co/aSzFI2on2J #ISIS #Brexit #No2EU,"['brexit', 'islamicstate', 'isis', 'no2eu']"
-30,30,30,933099,739935642562486272,1642941187,positive,other,2016-06-06T21:42:59.000Z,"Hang on a minute lads, I've got a great idea, let's stay in the EU!! #VoteLeave #Brexit #betteroffout #no2eu #Leave https://t.co/vgy39H8Zjr","['brexit', 'leave', 'betteroffout', 'no2eu', 'voteleave']"
-31,31,31,57633,696305834083684352,44620154,negative,other,2016-02-07T12:13:42.000Z,"Even the Tory cabinet believe Cameron has lied to them. And Boris NEVER wanted to #Brexit, just a ploy https://t.co/hnlUi2dQjR #Leave #No2EU","['brexit', 'leave', 'no2eu']"
-32,32,32,47271,694866808243904512,31075190,negative,leave,2016-02-03T12:55:31.000Z,"There is NO 'Ifs' 'buts' or 'maybes' WE HAVE TO #LeaveEU 'If' it was going to work, it would have worked by now! #brexit #LabourLEAVE #No2EU","['brexit', 'leaveeu', 'labourleave', 'no2eu']"
-33,33,33,25098,691198802007429120,168644899,positive,leave,2016-01-24T10:00:10.000Z,The Market Solution I of V - We need a soft landing: https://t.co/q6CpkPhOHY #LeaveEU #VoteLeave #Brexit #No2EU https://t.co/uS7518S5Ab,"['brexit', 'leaveeu', 'voteleave', 'no2eu']"
-34,34,34,67494,697676695642329088,630506149,positive,leave,2016-02-11T07:01:01.000Z,Thatcher would be backing leave #VoteLeave #LeaveEU #Brexit #No2EU https://t.co/H2Uv8xow5x,"['brexit', 'leaveeu', 'voteleave', 'no2eu']"
-35,35,35,595042,727216217656807424,3003173050,negative,remain,2016-05-02T19:20:31.000Z,"@Fight4UK They really do think we are bloody stupid don't they! We won't be fooled, we are voting for Independence on 23/06 #Brexit #No2EU","['brexit', 'no2eu']"
-36,36,36,320530,708534899926568960,275896693,negative,other,2016-03-12T06:07:38.000Z,A disaster zone that's dominated by the Germans https://t.co/Mu5mAnpeh6 via https://t.co/xKsWZhohqI #NO2EU  #Brexit,"['brexit', 'no2eu']"
-37,37,37,1090085,742603830899118080,124230401,negative,other,2016-06-14T06:25:24.000Z,The government has to STOP the sale of the @LSEplc Madness to sell the jewel in the UK financial crown to a competitor. #No2EU #Brexit,"['brexit', 'no2eu']"
-38,38,38,7707,685994988744892416,3056392245,neutral,other,2016-01-10T01:22:05.000Z,"@N1K0LAK1 @wcsoto #No2EU #Brexit
-This is going TOO far
-I can see the German people,Police included,in open anti-govt.revolt if it carries on","['brexit', 'no2eu']"
-39,39,39,4569,684786936649748480,3056392245,negative,remain,2016-01-06T17:21:43.000Z,"@2tweetaboutit @seafarer1847 #No2EU
-Apart from abolishing UK,this is also Cameron 's stated ambition too
-Roll on post #Brexit treason trials","['brexit', 'no2eu']"
-40,40,40,10858,686947970563059712,3056392245,neutral,other,2016-01-12T16:28:53.000Z,"@WeDoNotLearn73 @stardust193 #Brexit #No2EU
-""Bullying""Britain????
-@jorisluyendijk you have an astonishing knack for getting things backwards","['brexit', 'no2eu']"
-41,41,41,127056,701124745568329728,145296590,neutral,other,2016-02-20T19:22:20.000Z,@SamSussex im not a citizen im a subject of Her Majesty Queen Elizabeth and always will be #brexit #no2eu,"['brexit', 'no2eu']"
-42,42,42,917693,739708433151229952,124230401,positive,remain,2016-06-06T06:40:08.000Z,@bbclaurak The ONLY star of #Brexit is the sensational @andrealeadsom  why isn't she at the forefront of the OUT campaign? #No2EU,"['brexit', 'no2eu']"
-43,43,43,33133,692766068885053440,88312530,negative,remain,2016-01-28T17:47:56.000Z,"Not Good Enough! ""#EU To Offer @David_Cameron 'Migrant Brake' Deal"" https://t.co/LXvmtitPUq #Brexit #No2EU","['brexit', 'no2eu']"
-44,44,44,670149,731416247460614144,416434503,positive,leave,2016-05-14T09:29:57.000Z,*USA* - Lend moral support for Britain's vote to LEAVE EU on June 23. Watch https://t.co/MkGOT4W0aE  #Brexit #No2EU https://t.co/ELqI06gVym,"['brexit', 'no2eu']"
-45,45,45,1129432,742964715991752704,124230401,neutral,leave,2016-06-15T06:19:26.000Z,How a William Hogarth painting predicted #Brexit 250 years ago https://t.co/NMOxTw39bw sneers at the entire European continent.  #No2EU,"['brexit', 'no2eu']"
-46,46,46,131314,701342511348973568,145296590,neutral,leave,2016-02-21T09:47:39.000Z,This is the very reason we have to vote to get out of the E.U. #Brexit #No2EU https://t.co/UvRXPnkSu1,"['brexit', 'no2eu']"
-47,47,47,10760,686918737027547136,3056392245,positive,other,2016-01-12T14:32:43.000Z,"@Karelcb @DouglasCarswell @guardian #Brexit #No2EU
-... yes, old indeed
-&amp; now it's actually *necessary*-to preserve democracy(for all Europe)","['brexit', 'no2eu']"
-48,48,48,67925,697713576975409152,44620154,positive,other,2016-02-11T09:27:34.000Z,"Letter from 1993 proves Thatcher would have backed #Brexit #No2EU 
- https://t.co/0gHOMlG3HK","['brexit', 'no2eu']"
-49,49,49,10846,686944957324722176,3056392245,positive,other,2016-01-12T16:16:55.000Z,"@tamworthps #Brexit #No2EU
-..elected by the gullible/uninformed/rich&amp;unaffected in FPTP
-&amp; then the joke is on us,the mainstream population","['brexit', 'no2eu']"
-50,50,50,277,682924910344273920,3056392245,positive,other,2016-01-01T14:02:41.000Z,"@UKIPPOOLE #Brexit #No2EU
-If it does, she richly deserves the full legal backlash from the German people,not to mention the rest of us","['brexit', 'no2eu']"
-51,51,51,1378571,745217828245151744,124230401,positive,other,2016-06-21T11:32:30.000Z,@standardnews David wants a knighthood so he's a pawn of his friend the PM - I'll say anything you say Prime Minister.  #No2EU #Brexit,"['brexit', 'no2eu']"
-52,52,52,254019,705311326009167872,3580984589,positive,remain,2016-03-03T08:38:18.000Z,"Why large companies want to stay in the EU, to keep our wages lower! #Brexit #No2EU https://t.co/5bV5prMbLe","['brexit', 'no2eu']"
-53,53,53,76657,699112886648627200,3003173050,negative,other,2016-02-15T06:07:55.000Z,HSBC HQ staying in UK &amp; not phased by #Brexit - the REMAIN camp's Project Fear argument is falling apart. #No2EU  https://t.co/XuibnJ1RKH,"['brexit', 'no2eu']"
-54,54,54,273,682922271497957376,3056392245,positive,remain,2016-01-01T13:52:12.000Z,"@DVATW #Brexit #No2EU
-Like this ?
-https://t.co/Tc29ktFt8u","['brexit', 'no2eu']"
-55,55,55,359086,711304160902299648,343363419,neutral,other,2016-03-19T21:31:42.000Z,Migrant crisis: Amnesty hits out at EU over Turkey deal #No2EU #Brexit  https://t.co/HN3GppXRNA,"['brexit', 'no2eu']"
-56,56,56,698587,732478947590471680,332782895,positive,leave,2016-05-17T07:52:44.000Z,A free country can vote out their ruler. You can't vote out unelected EU. #brexit #no2eu,"['brexit', 'no2eu']"
-57,57,57,141771,701506989717852160,133787157,neutral,other,2016-02-21T20:41:14.000Z,@DavieTait @2053pam #brexit #no2eu GO Holland!,"['brexit', 'no2eu']"
-58,58,58,320072,708443214164979712,1975814814,negative,leave,2016-03-12T00:03:19.000Z,@ladycarole2 @PleaseDemocracy @Number10gov @David_Cameron And shameful. @Conservatives need to get a back bone &amp; get rid. #Brexit #NO2EU,"['brexit', 'no2eu']"
-59,59,59,898622,739130204472414208,124230401,negative,other,2016-06-04T16:22:27.000Z,@BethRigby We don't need Mr Hilton - the ONE person to fire #Brexit across the finishing line is @andrealeadsom where is she? #No2EU,"['brexit', 'no2eu']"
-60,60,60,63018,696949036998397952,3056392245,positive,other,2016-02-09T06:49:33.000Z,"@WeDoNotLearn73 @NoThanksEU @TheSun @stardust193 @WantEnglandBack #Brexit #No2EU
-Safety in nos.quisling isTERRIFIED of 1to1 w @Nigel_Farage","['brexit', 'no2eu']"
-61,61,61,36378,693507968663425024,4805032703,negative,leave,2016-01-30T18:55:59.000Z,#BREXIT #NO2EU VOTE TO LEAVE EU! https://t.co/baYusiEgKB,"['brexit', 'no2eu']"
-62,62,62,1544,683893160838361088,3056392245,neutral,remain,2016-01-04T06:10:10.000Z,"@wmsolomon #No2EU #Brexit
-Maddening/sickening/disgraceful...words fail
-MSMedia LIE BY OMISSION by NOT reporting it","['brexit', 'no2eu']"
-63,63,63,85520,699716812011925504,19345311,neutral,other,2016-02-16T22:07:42.000Z,Blow to EU army plans as UK Parliament tell Brussels: 'You are not policeman of the world' https://t.co/wyphkAhmCf #Brexit #No2eu,"['brexit', 'no2eu']"
-64,64,64,3836,684542035706122240,3056392245,negative,leave,2016-01-06T01:08:34.000Z,"@checkerhd #Brexit #No2EU
-You need to get rid of this lunatic ... soon
-I wish you all well and Godspeed https://t.co/IrKWVTv2DK","['brexit', 'no2eu']"
-65,65,65,354913,710938499952865280,124230401,neutral,other,2016-03-18T21:18:41.000Z,@robinlustig IDS can now put his full political weight behind the #Brexit campaign.  #No2EU,"['brexit', 'no2eu']"
-66,66,66,70284,698048472528850944,1611644940,neutral,other,2016-02-12T07:38:19.000Z,Leaving the EU isn’t an ‘unknown’; it’s a return to the known https://t.co/2VoUQKHm8T @ChathamHouse #Brexit #No2EU,"['brexit', 'no2eu']"
-67,67,67,1294983,744692702500036608,43518113,neutral,other,2016-06-20T00:45:50.000Z,The latest COUNCIL OF EUROPE! https://t.co/enTJocuTfP #brexit #no2eu,"['brexit', 'no2eu']"
-68,68,68,12095,687373295344324608,3003173050,negative,other,2016-01-13T20:38:59.000Z,"Nigel Farage Is Right, Carwyn Jones Wrong: Leaving The EU Would Make No Difference To UK Job Numbers #Brexit #No2EU
-https://t.co/QUL7PgJsEN","['brexit', 'no2eu']"
-69,69,69,628106,729712635403472896,124230401,positive,other,2016-05-09T16:40:24.000Z,The dream ticket @BorisJohnson and @andrealeadsom  #Brexit  #No2EU,"['brexit', 'no2eu']"
-70,70,70,669069,731381226033008640,416434503,positive,leave,2016-05-14T07:10:47.000Z,*USA* - Support Britain's vote for FREEDOM from the EU on June 23. Watch   https://t.co/GBgJySqRcX #Brexit #No2EU  https://t.co/EB3B0wampT,"['brexit', 'no2eu']"
-71,71,71,556357,724300155793629184,344957703,positive,other,2016-04-24T18:13:08.000Z,"Here they come, benefit claim forms pre printed. 
-#No2EU #Brexit  https://t.co/1gs6cYoeCJ","['brexit', 'no2eu']"
-72,72,72,422186,716175065432395776,332782895,neutral,other,2016-04-02T08:06:56.000Z,@LeaveEUOfficial #brexit or eventually there will only be one song in the EUrovision song contest. #no2eu,"['brexit', 'no2eu']"
-73,73,73,749477,734560140700098560,2444646074,positive,other,2016-05-23T01:42:39.000Z,"I just want my bleeding country back.....gulp!
-#Brexit
-#No2EU
- https://t.co/d8FAyOpl0K","['brexit', 'no2eu']"
-74,74,74,83483,699588430225895424,757487155,neutral,leave,2016-02-16T13:37:34.000Z,@bbcquestiontime @Nigel_Farage The man is right!! #BREXIT #NO2EU,"['brexit', 'no2eu']"
-75,75,75,591812,726841979158597632,3003173050,positive,other,2016-05-01T18:33:26.000Z,"@David_Cameron @TurnbullMalcolm Except Dave, it isn't reformed - you achieved nothing. We want out, we'll show you on 23/06 #Brexit #No2EU","['brexit', 'no2eu']"
-76,76,76,55379,695870885706735616,3003173050,negative,leave,2016-02-06T07:25:22.000Z,@suttonnick @BlueEyedSoulMan &amp; just look who the 2 smirking prats sitting behind him are..?! Shameron &amp; Osborne make me sick #Brexit #No2EU,"['brexit', 'no2eu']"
-77,77,77,12997,687650141617164288,3056392245,negative,other,2016-01-14T14:59:04.000Z,"@BreitbartLondon #No2EU #Brexit
-If bus/train/taxi etc. drivers refused to carry them it'd paralyse Merkel's assinine,short-sighted ""plan""","['brexit', 'no2eu']"
-78,78,78,885274,738735015132024832,124230401,positive,remain,2016-06-03T14:12:07.000Z,The country requires @andrealeadsom to be at the the forefront of #Brexit - she is the outright star of the referendum campaign.  #No2eu,"['brexit', 'no2eu']"
-79,79,79,769,683372503503384576,3056392245,neutral,leave,2016-01-02T19:41:15.000Z,"@realdealdanny @MikkiL #Brexit #No2EU
-Yes
-Eminently practical common sense","['brexit', 'no2eu']"
-80,80,80,23051,690533601000210432,3056392245,negative,leave,2016-01-22T13:56:54.000Z,"@mattlomas40 #Brexit #No2EU
-This is where the ones who want to ban @realDonaldTrump are
-Hardly a national sentiment https://t.co/Li3lr3uxTv","['brexit', 'no2eu']"
-81,81,81,136257,701429399158177792,415808169,neutral,remain,2016-02-21T15:32:55.000Z,BREAKING: Boris Johnson to campaign to LEAVE the EU in boost for Brexit https://t.co/D8HnRDzXRb #brexit #No2eu,"['brexit', 'no2eu']"
-82,82,82,671,683283603019722752,3056392245,neutral,other,2016-01-02T13:48:00.000Z,"@2tweetaboutit #Brexit #No2EU
-@KateHoeyMP you are a politician &amp; woman of integrity,putting country before party before yourself","['brexit', 'no2eu']"
-83,83,83,7333,685786346942775296,3056392245,neutral,other,2016-01-09T11:33:01.000Z,"@REPORTER_47 #Brexit #No2EU
-Merkel should""consider""resigning for 1 millisecond,
-do so,
-&amp; immediately take 1 of these https://t.co/j9FNvbu2aq","['brexit', 'no2eu']"
-84,84,84,12998,687650550121365504,3056392245,neutral,other,2016-01-14T15:00:41.000Z,"@73Antw @BreitbartNews #Brexit #No2EU
-What?
-Has he been ""bought off""?","['brexit', 'no2eu']"
-85,85,85,2028,684027570980012032,3056392245,neutral,other,2016-01-04T15:04:16.000Z,"@2tweetaboutit #Brexit #No2EU
-...as in ... we've already had a tidal wave ?
-pretty soon there'll be no""water* (=illegal FREELOADERS) left","['brexit', 'no2eu']"
-86,86,86,585287,726056388506599424,3156483754,neutral,other,2016-04-29T14:31:47.000Z,All you need to know is the European union was Hitler's idea #Brexit #No2eu,"['brexit', 'no2eu']"
-87,87,87,471202,719913135256256512,88906546,neutral,remain,2016-04-12T15:40:41.000Z,@GuyVerhofstadt @BBCNews @PoliticoRyan @MailOnline @Telegraph Who are you? Who elected you ? Are you British ? #Brexit #No2EU,"['brexit', 'no2eu']"
-88,88,88,10777,686922136762593280,3056392245,negative,remain,2016-01-12T14:46:14.000Z,"@Karelcb @DouglasCarswell @guardian #Brexit #No2EU
-Worse
-https://t.co/DsVjG9cAhc","['brexit', 'no2eu']"
-89,89,89,7215,685748450592448512,3056392245,neutral,other,2016-01-09T09:02:25.000Z,"@WantEnglandBack #Brexit #No2EU
-Fact:""Multiculturalism""DOES NOT EXIST,ANYWHERE on Earth, but only in the minds of PCorrect Cultural Marxists","['brexit', 'no2eu']"
-90,90,90,14216,688027012246695936,3056392245,negative,other,2016-01-15T15:56:37.000Z,"@patcondell @JTruscott5040 #Brexit #No2EU
-Yes
-The disease of PCorrect Cultural Marxism continues&amp;spreads, UNchecked https://t.co/2slHMO2SqO","['brexit', 'no2eu']"
-91,91,91,7231,685754946344611840,3056392245,positive,other,2016-01-09T09:28:14.000Z,"@ukneeds @DavidJo52951945 #No2EU
-Fingers crossed/wishful thinking?=maybe we could asset strip him/his-kind in post #Brexit teason trials ;-)","['brexit', 'no2eu']"
-92,92,92,53223,695577983185248256,757487155,neutral,remain,2016-02-05T12:01:29.000Z,@afneil yep and ya cursed @Nigel_Farage when he said that would happen.. #NO2EU #Brexit,"['brexit', 'no2eu']"
-93,93,93,695200,732299155796836352,2444646074,neutral,other,2016-05-16T19:58:18.000Z,"Who cares? Truth hurts!
-#No2EU
-#BREXIT https://t.co/FD2BIqCIVX","['brexit', 'no2eu']"
-94,94,94,56459,696061946681016320,4805032703,negative,leave,2016-02-06T20:04:34.000Z,"#BREXIT #NO2EU 
-VOTE TO LEAVE EU! 
-GO! GRASSROOTS OUT! https://t.co/4bB8iMS0A7 https://t.co/v3SjdeS7Dk","['brexit', 'no2eu']"
-95,95,95,3062,684374611958624256,3056392245,neutral,other,2016-01-05T14:03:17.000Z,"@MikkiL @Tesco #Brexit #No2EU
-""because""(note the inverted commas)you are a 2nd class citizen in your own country...like myself,&amp;many more","['brexit', 'no2eu']"
-96,96,96,863257,738264007912607744,124230401,negative,other,2016-06-02T07:00:30.000Z,@vote_leave @patel4witham @BorisJohnson  Where is @andrealeadsom why is she excluded from the national #Brexit stage? #No2EU,"['brexit', 'no2eu']"
-97,97,97,10009,686678595998203904,3056392245,positive,other,2016-01-11T22:38:29.000Z,"#Brexit #No2EU
-Jones v Farage EU debate
-Nigel wins - Music to my eyes :-)
-Have your say:  https://t.co/kPmOr607rj","['brexit', 'no2eu']"
-98,98,98,10066,686712342667739136,3056392245,negative,leave,2016-01-12T00:52:35.000Z,"@lorac22allen @DanHannanMEP #Brexit #No2EU
-Yes, it's a choice with him, &amp; he puts his country at the bottom of his self-serving list :-(","['brexit', 'no2eu']"
-99,99,99,7324,685784658915782656,3056392245,neutral,remain,2016-01-09T11:26:18.000Z,"@BreitbartLondon #Brexit #No2EU
-When are we going to hear about ARRESTS,TRIALS,&amp;PUNISHMENT/BANISHMENT of these imported FAKE""refugee""scum?","['brexit', 'no2eu']"
-100,100,100,8829,686401134697775104,3056392245,neutral,other,2016-01-11T04:15:57.000Z,"@Ricky_Vaughn99 #Brexit #No2EU
-A *must* watch if you haven't seen it
-( Breitbart have also preserved it )","['brexit', 'no2eu']"
-101,101,101,55263,695830519225843712,1611644940,negative,other,2016-02-06T04:44:58.000Z,EU ‘vote leave’ campaign hits record high after PM’s deal https://t.co/zNCKbDj94g #Brexit #No2EU,"['brexit', 'no2eu']"
-102,102,102,2033,684028602237718528,3056392245,neutral,remain,2016-01-04T15:08:22.000Z,"@BolsoverBeast @UKIPPOOLE #Brexit #No2EU
-posting without comment...oh what the hell
-Pair of self-serving SLIME balls https://t.co/xjXw8U3AKV","['brexit', 'no2eu']"
-103,103,103,106847,700743804190461952,19345311,neutral,remain,2016-02-19T18:08:36.000Z,Brilliantly written and says everything those outside Westminster bubble are thinking #Brexit #BetterOffOut #No2EU https://t.co/6qUqffbReY,"['brexit', 'no2eu', 'betteroffout']"
-104,104,104,19412,689884139043037184,275547016,negative,other,2016-01-20T18:56:10.000Z,Perhaps that's in lieu of the taxes they avoid! #Brexit #BetterOffOut #No2EU  https://t.co/M5OTuAKbw0,"['brexit', 'no2eu', 'betteroffout']"
-105,105,105,18861,689752034774482944,275547016,positive,remain,2016-01-20T10:11:14.000Z,"@PurnL It's almost as if they desire #Brexit with their constant ""rule changes to get up UK noses"" announcements! #BetterOffOut #No2EU","['brexit', 'no2eu', 'betteroffout']"
-106,106,106,273028,706120558740709376,3131688450,positive,leave,2016-03-05T14:13:54.000Z,Then the EU will give full membership to Turkey &amp; they'll be free to go anywhere. #Brexit #BetterOffOut #No2EU https://t.co/6YFe94hbnF,"['brexit', 'no2eu', 'betteroffout']"
-107,107,107,452358,718452784543240192,349837018,neutral,other,2016-04-08T14:57:46.000Z,#CameronMustGo back to Brussels and tell them to do one #brexit #no2eu,"['brexit', 'no2eu', 'cameronmustgo']"
-108,108,108,167618,701906910904197120,3135565264,positive,leave,2016-02-22T23:10:23.000Z,"Out of #EU &amp; into the World 
+#LeaveEU #EURef #StrongerIn #Brexit #UKinEU #No2EU https://t.co/Yy6S3nOa3f","['brexit', 'euref', 'ukineu', 'leaveeu', 'eu', 'no2eu', 'strongerin']"
+29634,692025184761561088,3056392245,neutral,leave,2016-01-26T16:43:55.000Z,"#Brexit #EUref #EUreferendum #No2EU
+#EU
+The hitherto faceless non-entities who warp/waste European lives/countries https://t.co/aCL8XdHB1s","['brexit', 'eureferendum', 'eu', 'no2eu', 'euref']"
+15194,688557024628621312,3056392245,negative,leave,2016-01-17T03:02:42.000Z,"@UK__News #Brexit #No2EU #EUref #EUreferendum no #EUSSR
+Translation :- https://t.co/LqffHlFvIW","['brexit', 'eureferendum', 'eussr', 'no2eu', 'euref']"
+17339,689140311898062848,3056392245,negative,other,2016-01-18T17:40:28.000Z,"@UK__News @StrongerIn #Brexit #No2EU #EUref #EUreferendum no #EUSSR
+&amp; so say all of us! ( in ""Category B"" )
+SHAMEFUL https://t.co/mjECpDz8Rk","['brexit', 'eureferendum', 'eussr', 'no2eu', 'euref']"
+167618,701906910904197120,3135565264,positive,leave,2016-02-22T23:10:23.000Z,"Out of #EU &amp; into the World 
 
 there is life after #Brexit &amp; it could be rather good 
 
-#EUreferendum #LeaveEU #No2EU https://t.co/sbJLkstNax","['brexit', 'no2eu', 'eu', 'eureferendum', 'leaveeu']"
-109,109,109,517655,722461085622779904,1978165356,negative,leave,2016-04-19T16:25:20.000Z,"Bernie Ecclestone has called for Britain to leave the European Union.
-#F1 #EU
-#NO2EU
-#Brexit
+#EUreferendum #LeaveEU #No2EU https://t.co/sbJLkstNax","['brexit', 'eureferendum', 'leaveeu', 'eu', 'no2eu']"
+416092,715623615320956928,3135565264,neutral,other,2016-03-31T19:35:40.000Z,"Remember when you see this sign , its not #EU Funded it UK funded
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #No2EU https://t.co/jmUEp0MSgS","['brexit', 'eureferendum', 'leaveeu', 'eu', 'no2eu', 'strongerin']"
+17795,689398747399254016,3417616097,negative,leave,2016-01-19T10:47:24.000Z,The first casualty of globalisation is democracy https://t.co/Kbvjx5pTyz #Brexit #LeaveEU #No2EU #EUref #eureferendum @PeteNorth303,"['brexit', 'eureferendum', 'leaveeu', 'no2eu', 'euref']"
+75448,698908944157306880,3417616097,neutral,leave,2016-02-14T16:37:32.000Z,What is Brexit? #Brexit @LeaveEUOfficial @Grassroots_Out @LeaveHQ #LeaveEU #EUref #eureferendum #No2EU https://t.co/Grt6YaVYpZ,"['brexit', 'eureferendum', 'leaveeu', 'no2eu', 'euref']"
+864534,738285168738308096,2444646074,negative,other,2016-06-02T08:24:35.000Z,"This is all getting ridiculous.
+#EUReferendum is turning into a fraudulent farce.
+
 #LeaveEU
-#euXit","['brexit', 'no2eu', 'eu', 'euxit', 'leaveeu', 'f1']"
-110,110,110,368880,712029862593208320,3135565264,neutral,leave,2016-03-21T21:35:22.000Z,"the #EU is in decline ..UK must start trading Worldwide
-
-#LeaveEU #Remain #Brexit #VoteLeave #EUreferendum #No2EU https://t.co/50qjR5eJN9","['brexit', 'no2eu', 'eu', 'remain', 'eureferendum', 'leaveeu', 'voteleave']"
-111,111,111,569786,725218265442701312,3135565264,positive,leave,2016-04-27T07:01:23.000Z,"People of #MiltonKeynes support the vote to #LeaveEU
-
-  #VoteLeave #EUreferendum #strongerIn #No2EU #Brexit https://t.co/GZfelGyqzI","['brexit', 'no2eu', 'eureferendum', 'strongerin', 'miltonkeynes', 'leaveeu', 'voteleave']"
-112,112,112,364420,711822585944805376,422508446,positive,other,2016-03-21T07:51:44.000Z,"Please don't panic, look at the reality, not the fear. We need OUT of the #Eurodrain. Vote for #Brexit, #No2EU. https://t.co/oPgG5UHzp7","['brexit', 'no2eu', 'eurodrain']"
-113,113,113,1539156,745958202148327424,704748594134441984,positive,other,2016-06-23T12:34:29.000Z,#GodBlessBrexit #Brexit Be the beginning of the return to honour!!! #No2EU https://t.co/AGinILEWbg,"['brexit', 'no2eu', 'godblessbrexit']"
-114,114,114,35640,693234828758683648,35054369,positive,other,2016-01-30T00:50:37.000Z,"@KateHoeyMP Please RT #Petition regarding Lead Campaigner additional funding in Referenda.
-https://t.co/sYaLU64cCV
-#no2eu 
-#Brexit","['brexit', 'no2eu', 'petition']"
-115,115,115,173529,702071551005429760,31075190,neutral,leave,2016-02-23T10:04:36.000Z,#RememberGrexitFail What have they done to Greece since they tried to break free! Punishing them big time! #Brexit #LeaveEU #VoteOut #No2EU,"['brexit', 'no2eu', 'remembergrexitfail', 'leaveeu', 'voteout']"
-116,116,116,695635,732320328865710080,2444646074,neutral,other,2016-05-16T21:22:26.000Z,"Hilarious. Another, either deluded or severely lacking integrity.
-#Soames
-#EU
 #Brexit
 #No2EU
-#LeaveEU
- https://t.co/5HWAfvVLDr","['brexit', 'no2eu', 'soames', 'eu', 'leaveeu']"
-117,117,117,385867,713053991274475520,31075190,positive,other,2016-03-24T17:24:54.000Z,Who is Michael Fallon to tell us we are safer in? Is he in intelligence or just another #Tory MP #Brexit #No2EU,"['brexit', 'no2eu', 'tory']"
-118,118,118,506492,721999933788790784,31075190,negative,other,2016-04-18T09:52:52.000Z,They're running scared lads! #Brexit #VoteLeave They know they're jobs are on the line #ToryLies @George_Osborne #treasury #JC4PM #No2EU,"['brexit', 'no2eu', 'treasury', 'jc4pm', 'torylies', 'voteleave']"
-119,119,119,324242,708850598649712640,3092157353,neutral,leave,2016-03-13T03:02:07.000Z,"We need a June Bank Holiday - Make 23rd June Independence Day.
-Vote OUT - #Brexit #LeaveEU #no2eu #voteout #VoteLeave #betteroffout #notoeu","['brexit', 'notoeu', 'betteroffout', 'voteout', 'no2eu', 'leaveeu', 'voteleave']"
-120,120,120,227048,703982837620477952,3656559557,positive,leave,2016-02-28T16:39:22.000Z,"I know which one I'd want join #Brexit
-#LeaveEU
-#migrantcrisis
-#GO
-#OUTEU
-#votetoleave
-#no2eu
-👍👍👍👍😲✔
- https://t.co/UvvVbFFN0f","['brexit', 'outeu', 'migrantcrisis', 'no2eu', 'go', 'leaveeu', 'votetoleave']"
-121,121,121,940476,740121006719832064,1642941187,positive,leave,2016-06-07T09:59:33.000Z,"We're better off, safer and stronger in the EU! Are we you naughty boy!! #VoteLeave #Brexit #Leave #no2eu #pinochio https://t.co/yt3WlhNMR6","['brexit', 'pinochio', 'leave', 'no2eu', 'voteleave']"
-122,122,122,1003956,741224650995322880,740678859381690240,negative,leave,2016-06-10T11:05:02.000Z,"Every time UK has opposed EU policy it's lost. UK has no influence in EU, and is taken advantage of. #VoteLeave #TakeControl #Brexit #No2EU","['brexit', 'takecontrol', 'voteleave', 'no2eu']"
-123,123,123,322706,708688429224226816,301967736,negative,leave,2016-03-12T16:17:42.000Z,"The EU leave campaign has dishonesty at core | Vince Cable, Anna Soubry and Chuka Umunna https://t.co/jwi3wpURbh #Brexit #No2EU #VoteLeave","['brexit', 'voteleave', 'no2eu']"
-124,124,124,562401,724644679581577216,3003173050,negative,leave,2016-04-25T17:02:09.000Z,Look at all those businesses too scared to invest in case we #Brexit - NOT! Trade will continue. #VoteLeave #No2EU https://t.co/3jg8SC5VoH,"['brexit', 'voteleave', 'no2eu']"
-125,125,125,817137,736827017249849344,422508446,neutral,leave,2016-05-29T07:50:25.000Z,Would you rather spend your own money or put it in a large whip-round and let somebody else say what you can buy? #Brexit #VoteLeave #No2EU,"['brexit', 'voteleave', 'no2eu']"
-126,126,126,163,682884667192795136,44620154,positive,leave,2016-01-01T11:22:46.000Z,Happy New Year and here's hoping 2016 will be the year we vote to Leave the EU #Brexit #No2EU #VoteLeave,"['brexit', 'voteleave', 'no2eu']"
-127,127,127,79236,699254784814116864,1452322664,positive,leave,2016-02-15T15:31:46.000Z,@DavidJo52951945 @Fight4UK @Independent No worries they can have our slot when we leave EUrabia in June #VoteLeave #No2EU #Brexit,"['brexit', 'voteleave', 'no2eu']"
-128,128,128,674346,731572890399875072,416434503,positive,leave,2016-05-14T19:52:23.000Z,BREXIT Poll: Who Do You Trust To Tell The Truth ?... https://t.co/wNhqv64aps #Brexit #No2EU #VoteLeave,"['brexit', 'voteleave', 'no2eu']"
-129,129,129,127334,701135434412376064,3003173050,neutral,leave,2016-02-20T20:04:48.000Z,We're all with you @Nigel_Farage - we can do this! #Brexit #No2EU #VoteLeave https://t.co/ucpVItTvIt,"['brexit', 'voteleave', 'no2eu']"
-130,130,130,998075,741162934882205696,422508446,positive,other,2016-06-10T06:59:48.000Z,"Ha ha ha ha, so very true! #No2EU #Brexit #VoteLeave https://t.co/R73BsSFP7E","['brexit', 'voteleave', 'no2eu']"
-131,131,131,173599,702072437618384896,31075190,negative,other,2016-02-23T10:08:07.000Z,@Tobbes73 So all EU traders going to drop their massive contracts with UK and lose billions? Don't think so! #Brexit #VoteOut #NO2EU,"['brexit', 'voteout', 'no2eu']"
-132,132,132,257477,705383734942568448,31075190,negative,leave,2016-03-03T13:26:02.000Z,@JohnClarke1960 so she suggests going down with the sinking ship? Err NO!!! #Brexit2016 #Brexit #VoteLeave #No2EU,"['brexit2016', 'brexit', 'voteleave', 'no2eu']"
-133,133,133,37973,693916796873760768,88312530,negative,other,2016-01-31T22:00:31.000Z,"Really? ""UK’s current circumstances meet criteria for triggering emergency brake"". Does this justify #Brexit? #No2EU https://t.co/lLpL0aGYru","['brexit?', 'no2eu']"
-134,134,134,794381,735904793223389184,701399449055137792,neutral,leave,2016-05-26T18:45:49.000Z,OBV Poster  #EUreferendum #brexit #bremain #no2eu #yes2eu #bnp #edl #pegida #britainfirst #ukip #voteleave #LeaveEU https://t.co/I0ZfBfjtNW,"['britainfirst', 'ukip', 'leaveeu', 'bnp', 'pegida', 'voteleave', 'edl', 'bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
-135,135,135,794729,735914259801092096,701399449055137792,neutral,leave,2016-05-26T19:23:26.000Z,#OBV Poster  #brexit #no2eu #bnp #edl #pegida #britainfirst #ukip #voteleave #LeaveEU #London #housingcrisis https://t.co/vPERcsCSL8,"['britainfirst', 'ukip', 'leaveeu', 'bnp', 'pegida', 'voteleave', 'london', 'housingcrisis', 'obv', 'brexit', 'no2eu', 'edl']"
-136,136,136,794844,735915900960952320,701399449055137792,neutral,leave,2016-05-26T19:29:58.000Z,#OBV poster #EUreferendum #brexit #no2eu #bnp #edl #pegida #britainfirst #ukip #voteleave #LeaveEU #BBCDebate https://t.co/8ByH7AgUCX,"['britainfirst', 'ukip', 'leaveeu', 'bnp', 'pegida', 'voteleave', 'obv', 'bbcdebate', 'eureferendum', 'brexit', 'no2eu', 'edl']"
-137,137,137,101755,700610469204271104,31075190,positive,leave,2016-02-19T09:18:47.000Z,@BBCWorld #BuggerOffEU #RememberGrexitFail #NoNoNo We will be just fine thanks Frankie.. #Brexit #LabourLeave #LeaveEU #NoEU #no2eu,"['buggeroffeu', 'leaveeu', 'labourleave', 'noeu', 'nonono', 'remembergrexitfail', 'no2eu', 'brexit']"
-138,138,138,51492,695369490914119680,3135565264,neutral,leave,2016-02-04T22:13:00.000Z,"What do you think of #Cameron's #EURenegotiations ?
+ https://t.co/xz7LXWMQxd","['brexit', 'eureferendum', 'no2eu', 'leaveeu']"
+216700,703528760423874560,3135565264,positive,leave,2016-02-27T10:35:02.000Z,"Britain will be Free soon to rule &amp; run its own Country
 
-#bbcqt #EUdeal #EURef #VoteLeave #Brexit #StrongerIn #No2EU https://t.co/MkgHUDmOBW","[""cameron's"", 'eurenegotiations', 'strongerin', 'no2eu', 'euref', 'eudeal', 'bbcqt', 'brexit', 'voteleave']"
-139,139,139,448172,718134890882080768,31075190,positive,leave,2016-04-07T17:54:34.000Z,£9m leaflet from #CameronResign ... Please #ReturnToSender as soon as arrives! #Brexit #No2EU #LeaveEU #VoteLeave #labourLeave,"['cameronresign', 'returntosender', 'brexit', 'no2eu', 'labourleave', 'leaveeu', 'voteleave']"
-140,140,140,14957,688430834211229696,3056392245,positive,remain,2016-01-16T18:41:15.000Z,"@DavidJo52951945 #Brexit #No2EU
+#EUreferendum #Brexit #loveEuropeLeaveEU #strongerIn #No2EU https://t.co/6EKSED3Sg2","['brexit', 'eureferendum', 'strongerin', 'no2eu', 'loveeuropeleaveeu']"
+123935,701047576179642368,895881930,neutral,leave,2016-02-20T14:15:41.000Z,"Check out how much the EU is costing us!
+
+ https://t.co/AhYgbcJAIH #Brexit #No2EU #Yes2EU #StopTheEU #Grexit #EUref","['brexit', 'grexit', 'stoptheeu', 'yes2eu', 'no2eu', 'euref']"
+10019,686681718900830208,3056392245,positive,other,2016-01-11T22:50:54.000Z,"@kel_emvor #IWADebate #Brexit #No2EU no #EUSSR
+Yes, you've said it, my friend :-)
+""The truth will out""
+Roll on #EUreferendum #EUref","['brexit', 'iwadebate', 'eussr', 'eureferendum', 'no2eu', 'euref']"
+46306,694817128302641152,31075190,positive,remain,2016-02-03T09:38:07.000Z,#JUNE2016 #GetTheFuckOutofEU before too late! Do you really really want to belong to #FederationofEurope? #Brexit #No2EU #LabourLEAVE,"['brexit', 'labourleave', 'june2016', 'federationofeurope?', 'no2eu', 'getthefuckoutofeu']"
+892208,738948619252961280,2444646074,positive,other,2016-06-04T04:20:54.000Z,"Good to hear.
+We must protect our #NHS.
+#Gove
+#LeaveEU
+#Brexit
+#No2EU https://t.co/7wp39dMuGM","['brexit', 'leaveeu', 'gove', 'nhs', 'no2eu']"
+8214,686175895795675136,261805462,neutral,leave,2016-01-10T13:20:56.000Z,It's time the left saw the #EU for what it really is | John Hilary @WarOnWant https://t.co/OCzMtaQjDa #No2EU #LabourLeave #Brexit #Lexit,"['brexit', 'lexit', 'labourleave', 'eu', 'no2eu']"
+10858,686947970563059712,3056392245,neutral,other,2016-01-12T16:28:53.000Z,"@WeDoNotLearn73 @stardust193 #Brexit #No2EU
+""Bullying""Britain????
+@jorisluyendijk you have an astonishing knack for getting things backwards","['brexit', 'no2eu']"
+2028,684027570980012032,3056392245,neutral,other,2016-01-04T15:04:16.000Z,"@2tweetaboutit #Brexit #No2EU
+...as in ... we've already had a tidal wave ?
+pretty soon there'll be no""water* (=illegal FREELOADERS) left","['brexit', 'no2eu']"
+7215,685748450592448512,3056392245,neutral,other,2016-01-09T09:02:25.000Z,"@WantEnglandBack #Brexit #No2EU
+Fact:""Multiculturalism""DOES NOT EXIST,ANYWHERE on Earth, but only in the minds of PCorrect Cultural Marxists","['brexit', 'no2eu']"
+67925,697713576975409152,44620154,positive,other,2016-02-11T09:27:34.000Z,"Letter from 1993 proves Thatcher would have backed #Brexit #No2EU 
+ https://t.co/0gHOMlG3HK","['brexit', 'no2eu']"
+1544,683893160838361088,3056392245,neutral,remain,2016-01-04T06:10:10.000Z,"@wmsolomon #No2EU #Brexit
+Maddening/sickening/disgraceful...words fail
+MSMedia LIE BY OMISSION by NOT reporting it","['brexit', 'no2eu']"
+769,683372503503384576,3056392245,neutral,leave,2016-01-02T19:41:15.000Z,"@realdealdanny @MikkiL #Brexit #No2EU
+Yes
+Eminently practical common sense","['brexit', 'no2eu']"
+7231,685754946344611840,3056392245,positive,other,2016-01-09T09:28:14.000Z,"@ukneeds @DavidJo52951945 #No2EU
+Fingers crossed/wishful thinking?=maybe we could asset strip him/his-kind in post #Brexit teason trials ;-)","['brexit', 'no2eu']"
+70284,698048472528850944,1611644940,neutral,other,2016-02-12T07:38:19.000Z,Leaving the EU isn’t an ‘unknown’; it’s a return to the known https://t.co/2VoUQKHm8T @ChathamHouse #Brexit #No2EU,"['brexit', 'no2eu']"
+471202,719913135256256512,88906546,neutral,remain,2016-04-12T15:40:41.000Z,@GuyVerhofstadt @BBCNews @PoliticoRyan @MailOnline @Telegraph Who are you? Who elected you ? Are you British ? #Brexit #No2EU,"['brexit', 'no2eu']"
+10846,686944957324722176,3056392245,positive,other,2016-01-12T16:16:55.000Z,"@tamworthps #Brexit #No2EU
+..elected by the gullible/uninformed/rich&amp;unaffected in FPTP
+&amp; then the joke is on us,the mainstream population","['brexit', 'no2eu']"
+12998,687650550121365504,3056392245,neutral,other,2016-01-14T15:00:41.000Z,"@73Antw @BreitbartNews #Brexit #No2EU
+What?
+Has he been ""bought off""?","['brexit', 'no2eu']"
+556357,724300155793629184,344957703,positive,other,2016-04-24T18:13:08.000Z,"Here they come, benefit claim forms pre printed. 
+#No2EU #Brexit  https://t.co/1gs6cYoeCJ","['brexit', 'no2eu']"
+3062,684374611958624256,3056392245,neutral,other,2016-01-05T14:03:17.000Z,"@MikkiL @Tesco #Brexit #No2EU
+""because""(note the inverted commas)you are a 2nd class citizen in your own country...like myself,&amp;many more","['brexit', 'no2eu']"
+12997,687650141617164288,3056392245,negative,other,2016-01-14T14:59:04.000Z,"@BreitbartLondon #No2EU #Brexit
+If bus/train/taxi etc. drivers refused to carry them it'd paralyse Merkel's assinine,short-sighted ""plan""","['brexit', 'no2eu']"
+4569,684786936649748480,3056392245,negative,remain,2016-01-06T17:21:43.000Z,"@2tweetaboutit @seafarer1847 #No2EU
+Apart from abolishing UK,this is also Cameron 's stated ambition too
+Roll on post #Brexit treason trials","['brexit', 'no2eu']"
+14216,688027012246695936,3056392245,negative,other,2016-01-15T15:56:37.000Z,"@patcondell @JTruscott5040 #Brexit #No2EU
+Yes
+The disease of PCorrect Cultural Marxism continues&amp;spreads, UNchecked https://t.co/2slHMO2SqO","['brexit', 'no2eu']"
+628106,729712635403472896,124230401,positive,other,2016-05-09T16:40:24.000Z,The dream ticket @BorisJohnson and @andrealeadsom  #Brexit  #No2EU,"['brexit', 'no2eu']"
+591812,726841979158597632,3003173050,positive,other,2016-05-01T18:33:26.000Z,"@David_Cameron @TurnbullMalcolm Except Dave, it isn't reformed - you achieved nothing. We want out, we'll show you on 23/06 #Brexit #No2EU","['brexit', 'no2eu']"
+7707,685994988744892416,3056392245,neutral,other,2016-01-10T01:22:05.000Z,"@N1K0LAK1 @wcsoto #No2EU #Brexit
+This is going TOO far
+I can see the German people,Police included,in open anti-govt.revolt if it carries on","['brexit', 'no2eu']"
+8829,686401134697775104,3056392245,neutral,other,2016-01-11T04:15:57.000Z,"@Ricky_Vaughn99 #Brexit #No2EU
+A *must* watch if you haven't seen it
+( Breitbart have also preserved it )","['brexit', 'no2eu']"
+12095,687373295344324608,3003173050,negative,other,2016-01-13T20:38:59.000Z,"Nigel Farage Is Right, Carwyn Jones Wrong: Leaving The EU Would Make No Difference To UK Job Numbers #Brexit #No2EU
+https://t.co/QUL7PgJsEN","['brexit', 'no2eu']"
+33133,692766068885053440,88312530,negative,remain,2016-01-28T17:47:56.000Z,"Not Good Enough! ""#EU To Offer @David_Cameron 'Migrant Brake' Deal"" https://t.co/LXvmtitPUq #Brexit #No2EU","['brexit', 'no2eu']"
+76657,699112886648627200,3003173050,negative,other,2016-02-15T06:07:55.000Z,HSBC HQ staying in UK &amp; not phased by #Brexit - the REMAIN camp's Project Fear argument is falling apart. #No2EU  https://t.co/XuibnJ1RKH,"['brexit', 'no2eu']"
+671,683283603019722752,3056392245,neutral,other,2016-01-02T13:48:00.000Z,"@2tweetaboutit #Brexit #No2EU
+@KateHoeyMP you are a politician &amp; woman of integrity,putting country before party before yourself","['brexit', 'no2eu']"
+695200,732299155796836352,2444646074,neutral,other,2016-05-16T19:58:18.000Z,"Who cares? Truth hurts!
+#No2EU
+#BREXIT https://t.co/FD2BIqCIVX","['brexit', 'no2eu']"
+55379,695870885706735616,3003173050,negative,leave,2016-02-06T07:25:22.000Z,@suttonnick @BlueEyedSoulMan &amp; just look who the 2 smirking prats sitting behind him are..?! Shameron &amp; Osborne make me sick #Brexit #No2EU,"['brexit', 'no2eu']"
+254019,705311326009167872,3580984589,positive,remain,2016-03-03T08:38:18.000Z,"Why large companies want to stay in the EU, to keep our wages lower! #Brexit #No2EU https://t.co/5bV5prMbLe","['brexit', 'no2eu']"
+749477,734560140700098560,2444646074,positive,other,2016-05-23T01:42:39.000Z,"I just want my bleeding country back.....gulp!
+#Brexit
+#No2EU
+ https://t.co/d8FAyOpl0K","['brexit', 'no2eu']"
+1129432,742964715991752704,124230401,neutral,leave,2016-06-15T06:19:26.000Z,How a William Hogarth painting predicted #Brexit 250 years ago https://t.co/NMOxTw39bw sneers at the entire European continent.  #No2EU,"['brexit', 'no2eu']"
+898622,739130204472414208,124230401,negative,other,2016-06-04T16:22:27.000Z,@BethRigby We don't need Mr Hilton - the ONE person to fire #Brexit across the finishing line is @andrealeadsom where is she? #No2EU,"['brexit', 'no2eu']"
+2033,684028602237718528,3056392245,neutral,remain,2016-01-04T15:08:22.000Z,"@BolsoverBeast @UKIPPOOLE #Brexit #No2EU
+posting without comment...oh what the hell
+Pair of self-serving SLIME balls https://t.co/xjXw8U3AKV","['brexit', 'no2eu']"
+55263,695830519225843712,1611644940,negative,other,2016-02-06T04:44:58.000Z,EU ‘vote leave’ campaign hits record high after PM’s deal https://t.co/zNCKbDj94g #Brexit #No2EU,"['brexit', 'no2eu']"
+917693,739708433151229952,124230401,positive,remain,2016-06-06T06:40:08.000Z,@bbclaurak The ONLY star of #Brexit is the sensational @andrealeadsom  why isn't she at the forefront of the OUT campaign? #No2EU,"['brexit', 'no2eu']"
+669069,731381226033008640,416434503,positive,leave,2016-05-14T07:10:47.000Z,*USA* - Support Britain's vote for FREEDOM from the EU on June 23. Watch   https://t.co/GBgJySqRcX #Brexit #No2EU  https://t.co/EB3B0wampT,"['brexit', 'no2eu']"
+354913,710938499952865280,124230401,neutral,other,2016-03-18T21:18:41.000Z,@robinlustig IDS can now put his full political weight behind the #Brexit campaign.  #No2EU,"['brexit', 'no2eu']"
+10777,686922136762593280,3056392245,negative,remain,2016-01-12T14:46:14.000Z,"@Karelcb @DouglasCarswell @guardian #Brexit #No2EU
+Worse
+https://t.co/DsVjG9cAhc","['brexit', 'no2eu']"
+7324,685784658915782656,3056392245,neutral,remain,2016-01-09T11:26:18.000Z,"@BreitbartLondon #Brexit #No2EU
+When are we going to hear about ARRESTS,TRIALS,&amp;PUNISHMENT/BANISHMENT of these imported FAKE""refugee""scum?","['brexit', 'no2eu']"
+23051,690533601000210432,3056392245,negative,leave,2016-01-22T13:56:54.000Z,"@mattlomas40 #Brexit #No2EU
+This is where the ones who want to ban @realDonaldTrump are
+Hardly a national sentiment https://t.co/Li3lr3uxTv","['brexit', 'no2eu']"
+10760,686918737027547136,3056392245,positive,other,2016-01-12T14:32:43.000Z,"@Karelcb @DouglasCarswell @guardian #Brexit #No2EU
+... yes, old indeed
+&amp; now it's actually *necessary*-to preserve democracy(for all Europe)","['brexit', 'no2eu']"
+277,682924910344273920,3056392245,positive,other,2016-01-01T14:02:41.000Z,"@UKIPPOOLE #Brexit #No2EU
+If it does, she richly deserves the full legal backlash from the German people,not to mention the rest of us","['brexit', 'no2eu']"
+670149,731416247460614144,416434503,positive,leave,2016-05-14T09:29:57.000Z,*USA* - Lend moral support for Britain's vote to LEAVE EU on June 23. Watch https://t.co/MkGOT4W0aE  #Brexit #No2EU https://t.co/ELqI06gVym,"['brexit', 'no2eu']"
+359086,711304160902299648,343363419,neutral,other,2016-03-19T21:31:42.000Z,Migrant crisis: Amnesty hits out at EU over Turkey deal #No2EU #Brexit  https://t.co/HN3GppXRNA,"['brexit', 'no2eu']"
+131314,701342511348973568,145296590,neutral,leave,2016-02-21T09:47:39.000Z,This is the very reason we have to vote to get out of the E.U. #Brexit #No2EU https://t.co/UvRXPnkSu1,"['brexit', 'no2eu']"
+1090085,742603830899118080,124230401,negative,other,2016-06-14T06:25:24.000Z,The government has to STOP the sale of the @LSEplc Madness to sell the jewel in the UK financial crown to a competitor. #No2EU #Brexit,"['brexit', 'no2eu']"
+1378571,745217828245151744,124230401,positive,other,2016-06-21T11:32:30.000Z,@standardnews David wants a knighthood so he's a pawn of his friend the PM - I'll say anything you say Prime Minister.  #No2EU #Brexit,"['brexit', 'no2eu']"
+10009,686678595998203904,3056392245,positive,other,2016-01-11T22:38:29.000Z,"#Brexit #No2EU
+Jones v Farage EU debate
+Nigel wins - Music to my eyes :-)
+Have your say:  https://t.co/kPmOr607rj","['brexit', 'no2eu']"
+273,682922271497957376,3056392245,positive,remain,2016-01-01T13:52:12.000Z,"@DVATW #Brexit #No2EU
+Like this ?
+https://t.co/Tc29ktFt8u","['brexit', 'no2eu']"
+863257,738264007912607744,124230401,negative,other,2016-06-02T07:00:30.000Z,@vote_leave @patel4witham @BorisJohnson  Where is @andrealeadsom why is she excluded from the national #Brexit stage? #No2EU,"['brexit', 'no2eu']"
+7333,685786346942775296,3056392245,neutral,other,2016-01-09T11:33:01.000Z,"@REPORTER_47 #Brexit #No2EU
+Merkel should""consider""resigning for 1 millisecond,
+do so,
+&amp; immediately take 1 of these https://t.co/j9FNvbu2aq","['brexit', 'no2eu']"
+3836,684542035706122240,3056392245,negative,leave,2016-01-06T01:08:34.000Z,"@checkerhd #Brexit #No2EU
+You need to get rid of this lunatic ... soon
+I wish you all well and Godspeed https://t.co/IrKWVTv2DK","['brexit', 'no2eu']"
+10066,686712342667739136,3056392245,negative,leave,2016-01-12T00:52:35.000Z,"@lorac22allen @DanHannanMEP #Brexit #No2EU
+Yes, it's a choice with him, &amp; he puts his country at the bottom of his self-serving list :-(","['brexit', 'no2eu']"
+63018,696949036998397952,3056392245,positive,other,2016-02-09T06:49:33.000Z,"@WeDoNotLearn73 @NoThanksEU @TheSun @stardust193 @WantEnglandBack #Brexit #No2EU
+Safety in nos.quisling isTERRIFIED of 1to1 w @Nigel_Farage","['brexit', 'no2eu']"
+595042,727216217656807424,3003173050,negative,remain,2016-05-02T19:20:31.000Z,"@Fight4UK They really do think we are bloody stupid don't they! We won't be fooled, we are voting for Independence on 23/06 #Brexit #No2EU","['brexit', 'no2eu']"
+14957,688430834211229696,3056392245,positive,remain,2016-01-16T18:41:15.000Z,"@DavidJo52951945 #Brexit #No2EU
 Blind&amp;Deaf to Reality,but not DUMB when mouthing off to spout PCorrect STUPIDITY
-Let her holiday in #Cologne","['cologne', 'brexit', 'no2eu']"
-141,141,141,205127,703068301228773376,1611644940,neutral,other,2016-02-26T04:05:20.000Z,Commonwealth citizens could swing the EU referendum | via @Telegraph https://t.co/WMtnyb2SIt #LeaveEu #Brexit #No2EU #Commonwealth,"['commonwealth', 'brexit', 'no2eu', 'leaveeu']"
-142,142,142,7089,685620543228350464,35054369,positive,leave,2016-01-09T00:34:10.000Z,"Looking forward to campaigning to #VoteLeave.
-It will be a difficult fight, but it is one we must win. 
-#Conservatives
-#No2EU
-#Brexit","['conservatives', 'brexit', 'voteleave', 'no2eu']"
-143,143,143,700156,732515044223791104,1435760725,negative,remain,2016-05-17T10:16:10.000Z,Leaked letter 'shows how David Cameron plotted against Leave' https://t.co/Y3epTS5neH #dodgydave #brexit #no2eu #leave.eu #conservatives,"['conservatives', 'dodgydave', 'leaveeu', 'brexit', 'no2eu']"
-144,144,144,33496,692842590903734272,3656559557,neutral,leave,2016-01-28T22:52:00.000Z,"Absolutely vote to #LeaveEU &amp; #contolmigration #controlborders
-#freeloaders 
-#StopRefugees  
-#Brexit
-#EUExit
-#no2eu  https://t.co/IgQMObdFoj","['contolmigration', 'euexit', 'controlborders', 'stoprefugees', 'brexit', 'no2eu', 'leaveeu', 'freeloaders']"
-145,145,145,385953,713059099190104064,3656559557,neutral,leave,2016-03-24T17:45:11.000Z,"#UK Needs To #Brexit Now &amp; #controlborders #contolmigration
+Let her holiday in #Cologne","['brexit', 'no2eu', 'cologne']"
+36613,693608768446296064,3056392245,negative,remain,2016-01-31T01:36:31.000Z,"@JamesMcHaleUK #Brexit #EUref #No2EU
+1 flaw?
+The non-entities pictured below would be INCAPABLE of constructing it https://t.co/Gavg91azmZ","['brexit', 'no2eu', 'euref']"
+364420,711822585944805376,422508446,positive,other,2016-03-21T07:51:44.000Z,"Please don't panic, look at the reality, not the fear. We need OUT of the #Eurodrain. Vote for #Brexit, #No2EU. https://t.co/oPgG5UHzp7","['brexit', 'no2eu', 'eurodrain']"
+14811,688359352210735104,3056392245,neutral,leave,2016-01-16T13:57:13.000Z,"@73Antw #Brexit #No2EU #Germany
+Watch it -An open invite by PCorrect Govt.to mad-dog scum to drag civilisation into the gutter -they LOVE it","['brexit', 'no2eu', 'germany']"
+29430,692007986164830208,44620154,negative,remain,2016-01-26T15:35:35.000Z,Schengen scrapped for at least 2 years. Is this the beginning of the end for the EU? https://t.co/u4O25TXXaA #Leave #Brexit #No2EU,"['brexit', 'no2eu', 'leave']"
+41483,694443335927402496,44620154,negative,other,2016-02-02T08:52:48.000Z,"Conman Cameron renegotiates ""bugger all"" in unambitious deal designed to fool his electorate: https://t.co/YKBQ6H5T9N #Brexit #Leave #No2EU","['brexit', 'no2eu', 'leave']"
+75274,698881709845127168,44620154,negative,remain,2016-02-14T14:49:18.000Z,Ministers set to break ranks and campaign for #Brexit https://t.co/9ujlX1GptT #Leave #No2EU,"['brexit', 'no2eu', 'leave']"
+108239,700761635955281920,44620154,negative,other,2016-02-19T19:19:28.000Z,Petition: Prevent Obama From Speaking In Westminster Regarding The In/Out Referendum.. https://t.co/dY5QZfIOFw #Brexit #No2EU #Leave,"['brexit', 'no2eu', 'leave']"
+63262,696974210409893888,44620154,positive,other,2016-02-09T08:29:35.000Z,"The NHS has been left 'on its knees' by uncontrolled migration from the EU, says top doc: https://t.co/YtafzQy2hJ #Brexit #Leave #No2EU","['brexit', 'no2eu', 'leave']"
+57633,696305834083684352,44620154,negative,other,2016-02-07T12:13:42.000Z,"Even the Tory cabinet believe Cameron has lied to them. And Boris NEVER wanted to #Brexit, just a ploy https://t.co/hnlUi2dQjR #Leave #No2EU","['brexit', 'no2eu', 'leave']"
+20063,690110105220730880,44620154,negative,other,2016-01-21T09:54:05.000Z,New threat from EU leaders to UK over returning illegal migrants to 'first country of entry' https://t.co/ifp2vzh3Xy #Brexit #Leave #No2EU,"['brexit', 'no2eu', 'leave']"
+283759,706795098466607104,250745472,neutral,leave,2016-03-07T10:54:17.000Z,WAKE UP! #LeaveEU #Brexit #No2EU  https://t.co/PRbcjMml5K,"['brexit', 'no2eu', 'leaveeu']"
+1305,683702383969435648,3417616097,neutral,leave,2016-01-03T17:32:05.000Z,The actual Norway Option scorecard #Brexit #No2EU #LeaveEU https://t.co/n41DYGEdDu,"['brexit', 'no2eu', 'leaveeu']"
+16810,689014103290081280,2300332196,negative,remain,2016-01-18T09:18:58.000Z,Iain Duncan Smith to head Universal #Brexit campaign to #Leave.EU. Due to roll out in selected areas over the next 5 years. #No2EU,"['brexit', 'no2eu', 'leaveeu']"
+22989,690526474101747712,2185485662,neutral,leave,2016-01-22T13:28:35.000Z,"Follow @LeaveEUOfficial 
+The largest cross-party &amp; non-political campaign, advocating vote to #LeaveEU in coming referendum #Brexit #No2EU","['brexit', 'no2eu', 'leaveeu']"
+44600,694646209206710272,227380816,positive,leave,2016-02-02T22:18:56.000Z,"State aid to the steel industry: illegal
+State control of benefit payments: illegal 
+Vote for freedom from the EU #Brexit #No2EU #LeaveEU","['brexit', 'no2eu', 'leaveeu']"
+256326,705357532416626688,31075190,negative,leave,2016-03-03T11:41:55.000Z,@TeckieJazzy It's 4k unfortunate people. Lets take them. #LeaveEU and start Australian immigration system. Problem solved! #Brexit #No2EU,"['brexit', 'no2eu', 'leaveeu']"
+892378,738957674524598272,2444646074,positive,other,2016-06-04T04:56:53.000Z,"Brilliant. Well done Gove. 
 #LeaveEU
-#migrantcrisis
-#GO
-#votetoleave 👍
-#no2eu
-#UKIP
-https://t.co/PD4saZjRyA","['contolmigration', 'ukip', 'controlborders', 'uk', 'brexit', 'migrantcrisis', 'no2eu', 'go', 'leaveeu', 'votetoleave']"
-146,146,146,34189,693023265401487360,3392276704,negative,leave,2016-01-29T10:49:56.000Z,Intelligent woman Karen Brady but on the EU she is deluded.  https://t.co/2yhL29adQj #Brexit #No2EU #Corrupt #Dictatorship,"['corrupt', 'brexit', 'dictatorship', 'no2eu']"
-147,147,147,604657,728123516642463744,124230401,positive,other,2016-05-05T07:25:48.000Z,David Cameron will appear on #Countryfile in a last-ditch effort to stop rural voters from backing Brexit https://t.co/A6syUZRO6m #No2EU,"['countryfile', 'no2eu']"
-148,148,148,208619,703197872397766656,168644899,positive,leave,2016-02-26T12:40:12.000Z,The Leave Alliance #crowdfunding Support and Retweet to help us campaign! #LeaveEU #Brexit #VoteLeave #No2EU https://t.co/Ifk2wWCd6B,"['crowdfunding', 'brexit', 'no2eu', 'leaveeu', 'voteleave']"
-149,149,149,696195,732345238610710528,557862434,negative,other,2016-05-16T23:01:25.000Z,EXCLUSIVE: Leaked letter reveals PM hatched anti-Brexit plot https://t.co/ZvaGQkoZV3  #no2eu #Cameron #brexit #lies  #deceit,"['deceit', 'lies', 'cameron', 'brexit', 'no2eu']"
-150,150,150,91364,700215421841076224,380929787,neutral,leave,2016-02-18T07:09:00.000Z,You won't hear that on @BBCNews @bbclaurak @LeaveEUOfficial #Brexit #No2Flexit #BetterOffOut #VoteLeave #No2EU #Democracy #Independence,"['democracy', 'betteroffout', 'no2eu', 'no2flexit', 'independence', 'brexit', 'voteleave']"
-151,151,151,617547,729283193111744512,3135565264,negative,leave,2016-05-08T12:13:57.000Z,"This #EUreferendum is a battle between
+#Brexit
+#No2EU https://t.co/8QXFbWtMw8","['brexit', 'no2eu', 'leaveeu']"
+244809,704841993462149120,480008070,positive,other,2016-03-02T01:33:21.000Z,@theordinaryman2 anyone not in favour of #BREXIT is in favour of Sharia- for that's what's coming and Merkel started it! #NoSharia #No2EU !,"['brexit', 'no2eu', 'nosharia']"
+404162,714818514058653696,235124996,positive,other,2016-03-29T14:16:29.000Z,"The wrong kind of people are supporting EU membership. People I despise… “OUT” is the common sense vote!
 
-#Democracy V #Dictatorship
+#No2EU #Brexit #OUT 🇬🇧","['brexit', 'no2eu', 'out']"
+115705,700929059493122048,247937612,neutral,leave,2016-02-20T06:24:45.000Z,Don't believe the hype! #Brexit #UK #No2EU  https://t.co/c1UqKfOYNW,"['brexit', 'no2eu', 'uk']"
+354275,710919068027625472,117810351,negative,remain,2016-03-18T20:01:28.000Z,The pseudo-left’s nationalist “Leave” campaign in the #UK #Brexit referendum https://t.co/XRbTbRWk3s #No2EU,"['brexit', 'no2eu', 'uk']"
+573351,725309566674685952,2915195838,positive,other,2016-04-27T13:04:10.000Z,"Thought I'd share this site, please RT if you agree :)
 
- #LeaveEU #VoteLeave #Brexit #StrongerIn #No2EU https://t.co/tIdG6MMBh5","['democracy', 'dictatorship', 'strongerin', 'brexit', 'no2eu', 'eureferendum', 'leaveeu', 'voteleave']"
-152,152,152,897611,739097086688415744,3135565264,neutral,leave,2016-06-04T14:10:51.000Z,"If you're looking for #Democracy you won't find it in the #EU
+ https://t.co/ZdMoSPHJfe #Brexit #No2EU #Yes2EU #StopTheEU #EUref","['brexit', 'stoptheeu', 'yes2eu', 'no2eu', 'euref']"
+3634,684473728072298496,110652735,positive,other,2016-01-05T20:37:08.000Z,"Thought I'd share this site, please RT if you agree :)
 
-#EURef #VoteLeave #Brexit #VoteRemain #InOrOut #No2EU https://t.co/Vy7Ty90hWU","['democracy', 'inorout', 'no2eu', 'euref', 'eu', 'voteremain', 'brexit', 'voteleave']"
-153,153,153,338175,709714592730095616,3135565264,neutral,leave,2016-03-15T12:15:19.000Z,"I simple choice ...
+ https://t.co/8aTLnqKAUe #Brexit #No2EU #Yes2EU #StopTheEU #EUref","['brexit', 'stoptheeu', 'yes2eu', 'no2eu', 'euref']"
+61719,696730096103776256,3135565264,negative,remain,2016-02-08T16:19:34.000Z,"We have nothing fear from #Brexit
 
- #democracy or #dictatorship ?
+#BelieveInBritain 
 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #No2EU https://t.co/DP7H1x6bW2","['dictatorship', 'strongerin', 'brexit', 'no2eu', 'democracy', 'eureferendum', 'leaveeu', 'voteleave']"
-154,154,154,761417,734842766275006464,31075190,neutral,leave,2016-05-23T20:25:42.000Z,@UKLabour @sphenefan #LabourLeave!!!! #brexit!!!! #No2EU #VoteLeave #DIYRecession my arse!!!,"['diyrecession', 'labourleave', 'no2eu', 'brexit', 'voteleave']"
-155,155,155,447889,718119288301817856,448516309,negative,leave,2016-04-07T16:52:34.000Z,#CurseDavidCameron for this alone. #Brexit #DontPatroniseMe #StrongerIn #VoteLeave #EUref #No2EU https://t.co/oBSvK5Npxl,"['dontpatroniseme', 'strongerin', 'cursedavidcameron', 'no2eu', 'euref', 'brexit', 'voteleave']"
-156,156,156,42120,694484306920620032,31075190,negative,other,2016-02-02T11:35:36.000Z,We HAVE an emergency brake already!!! What is this? Walt Disney? #Dumbo ? #Brexit #no2eu #LabourLeave #GetTheFuckOutofEU! #RedCard ???,"['dumbo', 'getthefuckoutofeu', 'labourleave', 'brexit', 'redcard', 'no2eu']"
-157,157,157,492703,721017859875479552,422508446,negative,remain,2016-04-15T16:50:28.000Z,That's just one of #REMAIN's flaws. They've forgotten the #ERM disaster and the awful #Euro project. #No2EU #Brexit. https://t.co/i09WoSu9Ad,"['erm', 'brexit', 'no2eu', 'euro', ""remain's""]"
-158,158,158,201830,702906930617032704,550825346,positive,other,2016-02-25T17:24:06.000Z,Paul De Grauwe on Why The European Union Will Benefit From #Brexit https://t.co/tLX1gruz3c via @socialeurope #EU #No2EU,"['eu', 'brexit', 'no2eu']"
-159,159,159,4564,684785128363659264,3056392245,neutral,remain,2016-01-06T17:14:31.000Z,"@martha_majestic @patcondell @BBCNews #Brexit #No2EU
-LIES ( by OMISSION ) ... again
-Despicable #EU puppet TV station https://t.co/vEdEoSotNQ","['eu', 'brexit', 'no2eu']"
-160,160,160,347003,710380837024493568,3135565264,negative,remain,2016-03-17T08:22:44.000Z,"@jchr5667
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #No2EU https://t.co/gvCoILTPuC","['brexit', 'strongerout', 'believeinbritain', 'euref', 'leadnotleave', 'leaveeu', 'no2eu', 'strongerin']"
+711680,732909604645023744,2444646074,neutral,other,2016-05-18T12:24:01.000Z,"@walid970721 I wonder how his family feels, knowing he supports #AlQaeda terrorists &amp; their affils?
+#Syria
+#No2EU + their #proxywars
+#Brexit","['brexit', 'syria', 'alqaeda', 'proxywars', 'no2eu']"
+61118,696682015966564352,88312530,neutral,leave,2016-02-08T13:08:30.000Z,Especially if #Turkey joins the #EU?! #No2EU #Brexit #LeaveEU https://t.co/AbGrfVrcxJ,"['brexit', 'turkey', 'eu?', 'leaveeu', 'no2eu']"
+231206,704230145394151424,422508446,positive,leave,2016-02-29T09:02:05.000Z,"Referendum #June23:   In = #Euro shackles. Out = freedom. Your choice.
+
+#Brexit #No2EU #UKIP.","['brexit', 'ukip', 'june23', 'euro', 'no2eu']"
+1292748,744657252007677952,31075190,negative,leave,2016-06-19T22:24:58.000Z,@IjomaGalvin just watch 5 mins then rewind... #bbcqt Because that's about it all the way through! Boring gobshite! #VoteLeave #Brexit #No2EU,"['brexit', 'voteleave', 'bbcqt', 'no2eu']"
+348621,710478581114216448,1975814814,positive,leave,2016-03-17T14:51:08.000Z,@Brexpats @Foxgoose @manugib And that reply says it all. I'm doing plenty. Go find some integrity #VoteLeave #Brexit #BetterOffOut #No2EU,"['brexit', 'voteleave', 'betteroffout', 'no2eu']"
+79236,699254784814116864,1452322664,positive,leave,2016-02-15T15:31:46.000Z,@DavidJo52951945 @Fight4UK @Independent No worries they can have our slot when we leave EUrabia in June #VoteLeave #No2EU #Brexit,"['brexit', 'voteleave', 'no2eu']"
+1339139,744948874213658624,2548704415,positive,leave,2016-06-20T17:43:46.000Z,I guess they'll say @Nigel_Farage deserves it like they do with @realDonaldTrump. #VoteLeave #EUref #Brexit #No2EU https://t.co/fdsqQGOPir,"['brexit', 'voteleave', 'no2eu', 'euref']"
+246271,704975160277921792,88312530,negative,leave,2016-03-02T10:22:30.000Z,"Appalling ""DVLA staff must be 'especially careful' ahead of #EUReferendum"" https://t.co/iuVEmFfagA #VoteLeave #Brexit #No2EU","['brexit', 'voteleave', 'no2eu', 'eureferendum']"
+67494,697676695642329088,630506149,positive,leave,2016-02-11T07:01:01.000Z,Thatcher would be backing leave #VoteLeave #LeaveEU #Brexit #No2EU https://t.co/H2Uv8xow5x,"['brexit', 'voteleave', 'no2eu', 'leaveeu']"
+25098,691198802007429120,168644899,positive,leave,2016-01-24T10:00:10.000Z,The Market Solution I of V - We need a soft landing: https://t.co/q6CpkPhOHY #LeaveEU #VoteLeave #Brexit #No2EU https://t.co/uS7518S5Ab,"['brexit', 'voteleave', 'no2eu', 'leaveeu']"
+695712,732324733996441600,31075190,neutral,other,2016-05-16T21:39:57.000Z,£179 million a week is not to be sniffed at!!! #VoteLeave #Brexit @BBCNewsnight #newsnight #No2EU,"['brexit', 'voteleave', 'no2eu', 'newsnight']"
+349996,710577778438115328,1268333359,neutral,other,2016-03-17T21:25:18.000Z,Welsh polls show an 8% #LeaveEU lead &amp; Telegraph's poll shows a 7% lead overall for #Brexit #Wales #English #No2EU https://t.co/sNDU39z6hG,"['brexit', 'wales', 'leaveeu', 'english', 'no2eu']"
+128570,701185681943617536,701101238499278848,positive,leave,2016-02-20T23:24:28.000Z,#WhichTony? #EUreferendum Keep calm &amp; change the world! #Brexit #No2EU https://t.co/4EDEr41L5R,"['brexit', 'whichtony?', 'eureferendum', 'no2eu']"
+37973,693916796873760768,88312530,negative,other,2016-01-31T22:00:31.000Z,"Really? ""UK’s current circumstances meet criteria for triggering emergency brake"". Does this justify #Brexit? #No2EU https://t.co/lLpL0aGYru","['brexit?', 'no2eu']"
+512189,722216059437248512,31075190,negative,leave,2016-04-19T00:11:41.000Z,@jason_a69 @MartinSLewis Yep he said that also..'we just don't know' so fuck it lets gooooo #VoteLeave #Brexit #BrexitRisks #No2EU #no2TTIP,"['brexitrisks', 'no2ttip', 'voteleave', 'brexit', 'no2eu']"
+316795,708280413970698240,4718719516,positive,leave,2016-03-11T13:16:24.000Z,"Fantastic #brexit case put by @DanHannanMEP 
+#brexit #no2eu #notoeu #voteout #britainout #leaveeu #voteleave https://t.co/qwX07rJmfK","['britainout', 'no2eu', 'voteout', 'notoeu', 'leaveeu', 'voteleave', 'brexit']"
+101755,700610469204271104,31075190,positive,leave,2016-02-19T09:18:47.000Z,@BBCWorld #BuggerOffEU #RememberGrexitFail #NoNoNo We will be just fine thanks Frankie.. #Brexit #LabourLeave #LeaveEU #NoEU #no2eu,"['buggeroffeu', 'remembergrexitfail', 'leaveeu', 'no2eu', 'nonono', 'brexit', 'labourleave', 'noeu']"
+1557097,746014212590342144,3135565264,positive,leave,2016-06-23T16:17:03.000Z,"Re-tweet..if you're from #Cambridgeshire &amp; support #VoteLeave
+
+#EURef  #Brexit #INorOUT #LeaveEU #No2EU #IVotedLeave https://t.co/Wmtejz1bIU","['cambridgeshire', 'voteleave', 'brexit', 'inorout', 'euref', 'leaveeu', 'ivotedleave', 'no2eu']"
+828104,737253345795178496,422508446,positive,leave,2016-05-30T12:04:29.000Z,#bbcnews #Khan and #Cameron in bed together? Bonkers! It really is time to #VoteLeave #Brexit #No2EU. They want to cede #Britain.,"['cameron', 'bbcnews', 'voteleave', 'khan', 'brexit', 'britain', 'no2eu']"
+1036665,741756138711068672,422508446,negative,leave,2016-06-11T22:16:59.000Z,"#Cameron is morphing into #Blair with his tall tales, now pensions are threatened, what next????? #Brexit #No2EU #UKIP #VoteLeave","['cameron', 'blair', 'ukip', 'voteleave', 'brexit', 'no2eu']"
+828471,737264720835665920,422508446,negative,leave,2016-05-30T12:49:41.000Z,The way I see it #Cameron is about as bad a politician as #Blair ever was. Time for #Brexit and freedom. #VoteLeave #No2EU #UKIP.,"['cameron', 'blair', 'voteleave', 'brexit', 'ukip', 'no2eu']"
+696195,732345238610710528,557862434,negative,other,2016-05-16T23:01:25.000Z,EXCLUSIVE: Leaked letter reveals PM hatched anti-Brexit plot https://t.co/ZvaGQkoZV3  #no2eu #Cameron #brexit #lies  #deceit,"['cameron', 'no2eu', 'lies', 'deceit', 'brexit']"
+288736,707117320947294208,3135565264,negative,leave,2016-03-08T08:14:41.000Z,"What did #Cameron say.. no more powers to go to #EU ?
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #No2EU https://t.co/Q0xU4goKvM","['cameron', 'voteleave', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'no2eu', 'strongerin']"
+145996,701659921570512896,1611644940,positive,leave,2016-02-22T06:48:56.000Z,Michael Gove: Why I’m backing Brexit https://t.co/zXcUgFT9NG #Brexit #LeaveEU #No2EU #Commonwealth,"['commonwealth', 'brexit', 'no2eu', 'leaveeu']"
+700156,732515044223791104,1435760725,negative,remain,2016-05-17T10:16:10.000Z,Leaked letter 'shows how David Cameron plotted against Leave' https://t.co/Y3epTS5neH #dodgydave #brexit #no2eu #leave.eu #conservatives,"['conservatives', 'no2eu', 'leaveeu', 'brexit', 'dodgydave']"
+34189,693023265401487360,3392276704,negative,leave,2016-01-29T10:49:56.000Z,Intelligent woman Karen Brady but on the EU she is deluded.  https://t.co/2yhL29adQj #Brexit #No2EU #Corrupt #Dictatorship,"['corrupt', 'brexit', 'no2eu', 'dictatorship']"
+604657,728123516642463744,124230401,positive,other,2016-05-05T07:25:48.000Z,David Cameron will appear on #Countryfile in a last-ditch effort to stop rural voters from backing Brexit https://t.co/A6syUZRO6m #No2EU,"['countryfile', 'no2eu']"
+193016,702566723283763200,448516309,neutral,leave,2016-02-24T18:52:14.000Z,@Drealmie This says it all doesn't it re #DavidCameron #Brexit #LeaveEU #EUreferendum #no2eu,"['davidcameron', 'no2eu', 'brexit', 'eureferendum', 'leaveeu']"
+967090,740603571582865408,40439501,negative,leave,2016-06-08T17:57:05.000Z,Germany started The #GreatWar in 1914 and we stop it in 2016 with #BREXIT https://t.co/Cyhgr7HkKB  #Education #no2eu!,"['education', 'no2eu', 'brexit', 'greatwar']"
+492703,721017859875479552,422508446,negative,remain,2016-04-15T16:50:28.000Z,That's just one of #REMAIN's flaws. They've forgotten the #ERM disaster and the awful #Euro project. #No2EU #Brexit. https://t.co/i09WoSu9Ad,"['erm', ""remain's"", 'euro', 'no2eu', 'brexit']"
+611197,728528988579213312,720098948736790528,negative,other,2016-05-06T10:17:00.000Z,Europe's Horrific Increasing Incidences of Rape ! #eu #uk #euref #brexit #no2eu #notoeu #betteroffout #voteout https://t.co/oeK8N5flwy,"['eu', 'betteroffout', 'no2eu', 'euref', 'voteout', 'uk', 'notoeu', 'brexit']"
+97256,700402886824628224,261805462,neutral,other,2016-02-18T19:33:55.000Z,Our letter in today's Guardian &lt; #EU: a profoundly anti-demoxratic inatitution https://t.co/oaRAA3aIoB #No2EU #LabourLeave #Brexit #StopTTIP,"['eu', 'brexit', 'labourleave', 'stopttip', 'no2eu']"
+9623,686590334600671232,3056392245,neutral,other,2016-01-11T16:47:46.000Z,"@DanHannanMEP @lorac22allen #Brexit #No2EU
+He is the #EU puppet PM of UK - nothing more
+O moral compass,totally self-serving,blind to truth","['eu', 'brexit', 'no2eu']"
+266,682919566578696192,3056392245,neutral,leave,2016-01-01T13:41:27.000Z,"@RedHotSquirrel
+This is probably ONE of the*few*reasons he can think of to be against #Brexit &amp; #No2EU
+Quisling #EU puppet
+O moral compass","['eu', 'brexit', 'no2eu']"
+347003,710380837024493568,3135565264,negative,remain,2016-03-17T08:22:44.000Z,"@jchr5667
  I prey 10 times a day at present...
 
 ""oh please god why are people so blind not to see the damage the #EU does""
 
 #Brexit #No2EU","['eu', 'brexit', 'no2eu']"
-161,161,161,779,683378877473931264,3056392245,negative,other,2016-01-02T20:06:35.000Z,"@LeaveEUOfficial @stardust193 #Brexit #No2EU
+607034,728261379673751552,247937612,neutral,remain,2016-05-05T16:33:38.000Z,@richardbranson @tyrabanks @MarcusButler @SPANX @PeterJohnKelly @vmbusiness was that trying to flog your #EU dream? #Brexit #No2EU,"['eu', 'brexit', 'no2eu']"
+712,683323250915557376,3056392245,positive,other,2016-01-02T16:25:33.000Z,"@DanHannanMEP @UK_Awakening @SuzanneEvans1 @vote_leave 
+Winning the #Brexit #No2EU debate is easy
+Fighting pro #EU propgandists' £s is hard","['eu', 'brexit', 'no2eu']"
+779,683378877473931264,3056392245,negative,other,2016-01-02T20:06:35.000Z,"@LeaveEUOfficial @stardust193 #Brexit #No2EU
 #EU has been the worst blight on GB since the Bubonic Plague :-(","['eu', 'brexit', 'no2eu']"
-162,162,162,266,682919566578696192,3056392245,neutral,leave,2016-01-01T13:41:27.000Z,"@RedHotSquirrel
-This is probably ONE of the*few*reasons he can think of to be against #Brexit &amp; #No2EU
-Quisling #EU puppet
-O moral compass","['eu', 'brexit', 'no2eu']"
-163,163,163,1337482,744939481124474880,557862434,neutral,other,2016-06-20T17:06:27.000Z,Its simple the #EU is a gravy train for career politicians both  elected and unelected their friends and business partners #brexit #no2eu,"['eu', 'brexit', 'no2eu']"
-164,164,164,9623,686590334600671232,3056392245,neutral,other,2016-01-11T16:47:46.000Z,"@DanHannanMEP @lorac22allen #Brexit #No2EU
-He is the #EU puppet PM of UK - nothing more
-O moral compass,totally self-serving,blind to truth","['eu', 'brexit', 'no2eu']"
-165,165,165,6830,685499952546615296,606785697,negative,other,2016-01-08T16:34:59.000Z,"The #EU is a disgrace to Democracy - Nigel Farage
+4564,684785128363659264,3056392245,neutral,remain,2016-01-06T17:14:31.000Z,"@martha_majestic @patcondell @BBCNews #Brexit #No2EU
+LIES ( by OMISSION ) ... again
+Despicable #EU puppet TV station https://t.co/vEdEoSotNQ","['eu', 'brexit', 'no2eu']"
+201830,702906930617032704,550825346,positive,other,2016-02-25T17:24:06.000Z,Paul De Grauwe on Why The European Union Will Benefit From #Brexit https://t.co/tLX1gruz3c via @socialeurope #EU #No2EU,"['eu', 'brexit', 'no2eu']"
+1017027,741394900298698752,557862434,neutral,other,2016-06-10T22:21:33.000Z,"The Shadow of 1916 on Britain's Momentous #EU Decision: In, Out, or Is There Something Else?   https://t.co/5WwBDVlisU #Brexit #no2eu","['eu', 'brexit', 'no2eu']"
+705267,732643044080660480,557862434,positive,leave,2016-05-17T18:44:48.000Z,#BREXIT THE MOVIE FULL https://t.co/3Z6vEsrzrq  documentary film to inspire as many people as possible to vote to LEAVE the #EU #no2eu,"['eu', 'brexit', 'no2eu']"
+6830,685499952546615296,606785697,negative,other,2016-01-08T16:34:59.000Z,"The #EU is a disgrace to Democracy - Nigel Farage
 
 #Brexit - ASAP! 
 #No2EU https://t.co/mS9zN21Ke9","['eu', 'brexit', 'no2eu']"
-166,166,166,607034,728261379673751552,247937612,neutral,remain,2016-05-05T16:33:38.000Z,@richardbranson @tyrabanks @MarcusButler @SPANX @PeterJohnKelly @vmbusiness was that trying to flog your #EU dream? #Brexit #No2EU,"['eu', 'brexit', 'no2eu']"
-167,167,167,712,683323250915557376,3056392245,positive,other,2016-01-02T16:25:33.000Z,"@DanHannanMEP @UK_Awakening @SuzanneEvans1 @vote_leave 
-Winning the #Brexit #No2EU debate is easy
-Fighting pro #EU propgandists' £s is hard","['eu', 'brexit', 'no2eu']"
-168,168,168,516014,722396490044456960,247937612,negative,other,2016-04-19T12:08:39.000Z,Biased as always with your reporting on the #EUref @BBCNews how much did the #EU pay you? #Brexit #No2EU,"['eu', 'euref', 'brexit', 'no2eu']"
-169,169,169,142915,701543890583683072,1975814814,positive,leave,2016-02-21T23:07:52.000Z,"@murrisonMP @Hammertime983 
+516014,722396490044456960,247937612,negative,other,2016-04-19T12:08:39.000Z,Biased as always with your reporting on the #EUref @BBCNews how much did the #EU pay you? #Brexit #No2EU,"['eu', 'brexit', 'no2eu', 'euref']"
+11869,687305134834073600,3056392245,negative,other,2016-01-13T16:08:08.000Z,"@WAYNEANDCATH1 #Brexit #No2EU
+So it can be replaced by the #EU ""national anthem""and the Queen can join in as she swears allegiance to #EUSSR","['eu', 'brexit', 'no2eu', 'eussr']"
+50104,695208586520190976,88312530,negative,other,2016-02-04T11:33:38.000Z,"UK PM @David_Cameron's #EU deal is ""falling apart as it emerges sham reforms to be blocked'. https://t.co/WqNTCjHhW1 #Brexit #No2EU #LeaveEU","['eu', 'brexit', 'no2eu', 'leaveeu']"
+142915,701543890583683072,1975814814,positive,leave,2016-02-21T23:07:52.000Z,"@murrisonMP @Hammertime983 
 
 Please insert the word UNDEMOCRATIC between the and #EU
 
-#LeaveEU #Brexit #No2EU","['eu', 'leaveeu', 'brexit', 'no2eu']"
-170,170,170,194410,702636208036380672,1975814814,neutral,other,2016-02-24T23:28:21.000Z,@CoaghUKIP Can sellout @David_Cameron &amp; the in @Conservatives sink any lower to try to keep the #UK in the undemocratic #EU #Brexit #No2EU,"['eu', 'uk', 'brexit', 'no2eu']"
-171,171,171,85068,699670645987241984,3056392245,neutral,leave,2016-02-16T19:04:15.000Z,"@Orwellian_EU #Brexit #EUref #No2EU 
+#LeaveEU #Brexit #No2EU","['eu', 'brexit', 'no2eu', 'leaveeu']"
+706845,732762468209070080,2444646074,neutral,other,2016-05-18T02:39:21.000Z,"There's a traitor in the House!
+#Brexit 23 June 2016, or the UK is toast!
+#No2EU
+#LeaveEU
+#EU https://t.co/aDXCPz8ibC","['eu', 'brexit', 'no2eu', 'leaveeu']"
+194410,702636208036380672,1975814814,neutral,other,2016-02-24T23:28:21.000Z,@CoaghUKIP Can sellout @David_Cameron &amp; the in @Conservatives sink any lower to try to keep the #UK in the undemocratic #EU #Brexit #No2EU,"['eu', 'brexit', 'no2eu', 'uk']"
+1337482,744939481124474880,557862434,neutral,other,2016-06-20T17:06:27.000Z,Its simple the #EU is a gravy train for career politicians both  elected and unelected their friends and business partners #brexit #no2eu,"['eu', 'no2eu', 'brexit']"
+613038,728653258265374720,721081786332233728,negative,other,2016-05-06T18:30:49.000Z,"Japan REFUSES To Let In Syrian ‘Refugees’, says it must look after its own citizens FIRST https://t.co/4wlLMkBdBs #EU #Merkel #Brexit #No2EU","['eu', 'no2eu', 'brexit', 'merkel']"
+85068,699670645987241984,3056392245,neutral,leave,2016-02-16T19:04:15.000Z,"@Orwellian_EU #Brexit #EUref #No2EU 
 #SNP=
 No2Thatcher
 NoWelshIrishEnglishCelts in Scotland
 No2UK
 Yes to #EU/SSR
-Votes4 Migrants&amp;Children","['eu/ssr', 'snp', 'no2eu', 'euref', 'brexit']"
-172,172,172,70772,698101286386987008,3656559557,neutral,leave,2016-02-12T11:08:11.000Z,"@nick_clegg @LibDems
-SorryNick please don't get it wrong again. Most of #UK want #Brexit
-#LeaveEU
-#migrantcrisis
-#votetoleave
-#EUExit
-#no2eu","['euexit', 'uk', 'brexit', 'migrantcrisis', 'no2eu', 'leaveeu', 'votetoleave']"
-173,173,173,131294,701342321359646720,3656559557,positive,leave,2016-02-21T09:46:54.000Z,"@UKIP @Nigel_Farage
-Yes hope we get #BOGO 👍😲
-#Brexit
-#LeaveEU
-#migrantcrisis
-#UKIP
-#closeborders
-#EUref
+Votes4 Migrants&amp;Children","['eu/ssr', 'brexit', 'snp', 'no2eu', 'euref']"
+587184,726282795518185472,3135565264,negative,leave,2016-04-30T05:31:26.000Z,"Re-Tweet &amp; send a message to #EU 
+
+WE DONT WANT YOUR #EUARMY
+
+@EUCouncil #EURef #VoteLeave #Brexit #remain #No2EU https://t.co/mYHq4YQW6z","['euarmy', 'voteleave', 'remain', 'brexit', 'euref', 'eu', 'no2eu']"
+118844,700985530952060928,3135565264,neutral,other,2016-02-20T10:09:08.000Z,"The #EU is a money pit , Always has been &amp; always will.
+
+#LeaveEU #EURef #StrongerIn #Brexit #EUdeal  #UKinEU #No2EU https://t.co/n02qnGayo1","['eudeal', 'brexit', 'euref', 'ukineu', 'leaveeu', 'eu', 'no2eu', 'strongerin']"
+587756,726329348739878912,2371993946,neutral,leave,2016-04-30T08:36:25.000Z,#EU-Exit: https://t.co/59bItOmbi9 #EUExit #No2EU #Brexit #Grexit,"['euexit', 'brexit', 'eu-exit', 'grexit', 'no2eu']"
+279748,706583081898123264,3656559557,positive,leave,2016-03-06T20:51:49.000Z,"@RedHotSquirrel 
+We just need to #Brexit as there is no real positive alternative
+#LEAVEEU
 #GO
 #votetoleave
 #EUExit
 #no2eu
-👍👍👍😲","['euexit', 'ukip', 'go', 'brexit', 'bogo', 'migrantcrisis', 'closeborders', 'no2eu', 'euref', 'leaveeu', 'votetoleave']"
-174,174,174,728818,733684466762297344,731465935308128128,neutral,other,2016-05-20T15:43:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #No2EU #BRemain #StrongerIn #EURef","['euref', 'bremain', 'strongerin', 'no2eu']"
-175,175,175,17702,689356640961859584,3056392245,neutral,other,2016-01-19T08:00:05.000Z,"@chrisem61 #Brexit #No2EU #EUref
-@StrongerIn Lies&amp;PROPAGANDA sponsored by #Labour= party before country EVERY time https://t.co/mGdCbLRSxP","['euref', 'brexit', 'labour', 'no2eu']"
-176,176,176,628187,729715665419051008,3003173050,positive,remain,2016-05-09T16:52:26.000Z,"@A_Liberty_Rebel If it were really true, why would he have offered 2 hold the #EURef in the 1st place? He wouldn't. All lies. #Brexit #No2EU","['euref', 'brexit', 'no2eu']"
-177,177,177,36613,693608768446296064,3056392245,negative,remain,2016-01-31T01:36:31.000Z,"@JamesMcHaleUK #Brexit #EUref #No2EU
-1 flaw?
-The non-entities pictured below would be INCAPABLE of constructing it https://t.co/Gavg91azmZ","['euref', 'brexit', 'no2eu']"
-178,178,178,199583,702856511312273408,757487155,neutral,leave,2016-02-25T14:03:45.000Z,Absolutely disgusting..#troops #EUref #Brexit #NO2EU  https://t.co/SvTguxLUuZ,"['euref', 'brexit', 'no2eu']"
-179,179,179,1339139,744948874213658624,2548704415,positive,leave,2016-06-20T17:43:46.000Z,I guess they'll say @Nigel_Farage deserves it like they do with @realDonaldTrump. #VoteLeave #EUref #Brexit #No2EU https://t.co/fdsqQGOPir,"['euref', 'brexit', 'voteleave', 'no2eu']"
-180,180,180,324487,708918425742090240,301967736,neutral,leave,2016-03-13T07:31:38.000Z,The perils of a British Bill of Rights https://t.co/ntXdbGBUtr #Brexit #EURef EUReferendum #VoteLeave #No2EU,"['euref', 'brexit', 'voteleave', 'no2eu']"
-181,181,181,17700,689355785692958720,3056392245,neutral,remain,2016-01-19T07:56:41.000Z,"@chrisem61 #No2EU #EUref
-Yes &amp; it is a #Labour ( = party before country ) PROPAGANDA+LIES attack on #Brexit+UKIP
-https://t.co/x7v4kEax1D","['euref', 'brexit+ukip', 'labour', 'no2eu']"
-182,182,182,19320,689850685786066944,3056392245,positive,other,2016-01-20T16:43:14.000Z,"@GranadaReports @Vote_UKIP #Brexit #EUref #eureferendum 
-#No2EU currently at 89.44%  = encouraging","['euref', 'eureferendum', 'brexit', 'no2eu']"
-183,183,183,19315,689849343227117568,3056392245,positive,leave,2016-01-20T16:37:54.000Z,"@CasAnnStephens @MikkiL #Brexit #No2EU #EUref #eureferendum 
-Spot on :-)","['euref', 'eureferendum', 'brexit', 'no2eu']"
-184,184,184,27758,691680477980262400,3056392245,negative,other,2016-01-25T17:54:11.000Z,"@TRobinsonNewEra @CommonSenseASAP #Brexit #No2EU #euref #EUreferendum 
-Assuming it goes ahead,will it be reported, or censored (as usual)","['euref', 'eureferendum', 'brexit', 'no2eu']"
-185,185,185,176969,702122722076323840,2185485662,positive,leave,2016-02-23T13:27:56.000Z,"Multinationals back the EU
+@UKIP","['euexit', 'no2eu', 'brexit', 'votetoleave', 'go', 'leaveeu']"
+628187,729715665419051008,3003173050,positive,remain,2016-05-09T16:52:26.000Z,"@A_Liberty_Rebel If it were really true, why would he have offered 2 hold the #EURef in the 1st place? He wouldn't. All lies. #Brexit #No2EU","['euref', 'brexit', 'no2eu']"
+27758,691680477980262400,3056392245,negative,other,2016-01-25T17:54:11.000Z,"@TRobinsonNewEra @CommonSenseASAP #Brexit #No2EU #euref #EUreferendum 
+Assuming it goes ahead,will it be reported, or censored (as usual)","['euref', 'brexit', 'no2eu', 'eureferendum']"
+13114,687678996637741056,3417616097,neutral,remain,2016-01-14T16:53:43.000Z,What happens if we stay in the EU? https://t.co/wNBnAcJOJq #Brexit #No2EU #LeaveEU #EUref,"['euref', 'brexit', 'no2eu', 'leaveeu']"
+17799,689399418949206016,3417616097,neutral,leave,2016-01-19T10:50:04.000Z,Brexit: a leaderless revolution https://t.co/DiBvP3BxPy #Brexit #LeaveEU #No2EU #EUref @LeaveHQ,"['euref', 'brexit', 'no2eu', 'leaveeu']"
+791140,735814591972823040,2311561,positive,leave,2016-05-26T12:47:24.000Z,Excellent short animation by @piffleTV makes case for why Britain should leave the EU https://t.co/GggzrxTql0 #EURef #Brexit #LeaveEU #No2EU,"['euref', 'brexit', 'no2eu', 'leaveeu']"
+176969,702122722076323840,2185485662,positive,leave,2016-02-23T13:27:56.000Z,"Multinationals back the EU
 Big Business, Big Banks, Big Government, Little Tax Havens
-#LeaveEU #Brexit #EUref #No2EU https://t.co/8vsB6G6ZaR","['euref', 'leaveeu', 'brexit', 'no2eu']"
-186,186,186,791140,735814591972823040,2311561,positive,leave,2016-05-26T12:47:24.000Z,Excellent short animation by @piffleTV makes case for why Britain should leave the EU https://t.co/GggzrxTql0 #EURef #Brexit #LeaveEU #No2EU,"['euref', 'leaveeu', 'brexit', 'no2eu']"
-187,187,187,10019,686681718900830208,3056392245,positive,other,2016-01-11T22:50:54.000Z,"@kel_emvor #IWADebate #Brexit #No2EU no #EUSSR
-Yes, you've said it, my friend :-)
-""The truth will out""
-Roll on #EUreferendum #EUref","['euref', 'no2eu', 'eussr', 'eureferendum', 'iwadebate', 'brexit']"
-188,188,188,339154,709756405444640768,3045149182,negative,leave,2016-03-15T15:01:28.000Z,"R.Bootle: #brexit= short term disruption, medium term uncertainty, long term advantage: https://t.co/NpPbDxn7YM
-#euref #voteremain #no2eu","['euref', 'no2eu', 'voteremain', 'brexit']"
-189,189,189,788519,735779770743459840,731465935308128128,neutral,other,2016-05-26T10:29:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #No2EU #UKInEU #StrongerIn #EURef","['euref', 'ukineu', 'strongerin', 'no2eu']"
-190,190,190,824876,737187046016552960,731465935308128128,neutral,other,2016-05-30T07:41:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #No2EU #BetterOffIn #Yes2EU #EUReferendum","['eureferendum', 'betteroffin', 'yes2eu', 'no2eu']"
-191,191,191,75448,698908944157306880,3417616097,neutral,leave,2016-02-14T16:37:32.000Z,What is Brexit? #Brexit @LeaveEUOfficial @Grassroots_Out @LeaveHQ #LeaveEU #EUref #eureferendum #No2EU https://t.co/Grt6YaVYpZ,"['eureferendum', 'brexit', 'no2eu', 'euref', 'leaveeu']"
-192,192,192,17795,689398747399254016,3417616097,negative,leave,2016-01-19T10:47:24.000Z,The first casualty of globalisation is democracy https://t.co/Kbvjx5pTyz #Brexit #LeaveEU #No2EU #EUref #eureferendum @PeteNorth303,"['eureferendum', 'brexit', 'no2eu', 'euref', 'leaveeu']"
-193,193,193,325245,708946887991279616,168644899,negative,leave,2016-03-13T09:24:44.000Z,@LeaveHQ Donate to the Leave Alliance fighting fund! #Brexit #LeaveEU #VoteLeave #No2EU #EUReferendum #EUref,"['eureferendum', 'brexit', 'no2eu', 'euref', 'leaveeu', 'voteleave']"
-194,194,194,458575,719135820960178176,3135565264,positive,leave,2016-04-10T12:11:55.000Z,"#Brexit is Best for #Britain
-
-#EUReferendum #LeaveEU #VoteLeave #No2EU #StrongerIn #Labour https://t.co/3QkvUDGM94","['eureferendum', 'britain', 'brexit', 'no2eu', 'strongerin', 'labour', 'leaveeu', 'voteleave']"
-195,195,195,6136,685238771399430144,3056392245,neutral,leave,2016-01-07T23:17:08.000Z,"#Brexit #No2EU #EUref #EUreferendum 
-... many years have passed, since those summer days of 1975
-https://t.co/FLJjd5mkMZ","['eureferendum', 'euref', 'brexit', 'no2eu']"
-196,196,196,28178,691746695567294464,3056392245,positive,other,2016-01-25T22:17:18.000Z,"@wmsolomon #Brexit #No2EU #EUref #EUreferendum 
-Worth watching
-Video demonstration with sweet jars
-Allowing mass immigration SOLVES NOTHING","['eureferendum', 'euref', 'brexit', 'no2eu']"
-197,197,197,18180,689497960044961792,3056392245,negative,other,2016-01-19T17:21:38.000Z,"@mkpdavies @YouTube #Brexit #No2EU #EUref #EUreferendum 
-@Nigel_Farage totally frank&amp;common sense on women's*rights*in the face of stupidity","['eureferendum', 'euref', 'brexit', 'no2eu']"
-198,198,198,18187,689499765856452608,3056392245,positive,leave,2016-01-19T17:28:49.000Z,"@allisonpearson #Brexit #No2EU #EUref #EUreferendum
+#LeaveEU #Brexit #EUref #No2EU https://t.co/8vsB6G6ZaR","['euref', 'brexit', 'no2eu', 'leaveeu']"
+50532,695249339577450496,3417616097,neutral,leave,2016-02-04T14:15:34.000Z,Sticky Ideas: Progression via Selection https://t.co/JkKR8WpscZ … #Brexit #LeaveEU #No2EU #EUref @LeaveEUOfficial https://t.co/Qrx08OlYQe,"['euref', 'brexit', 'no2eu', 'leaveeu']"
+812352,736530244316897280,731771593542766720,neutral,remain,2016-05-28T12:11:08.000Z,Come to Sardinia this summer. Book before it's too late! https://t.co/TYXhussDyS #brexit #LeaveEU #EUREF #no2eu https://t.co/d6NATigNoo,"['euref', 'leaveeu', 'no2eu', 'brexit']"
+794139,735897160437387264,731771593542766720,neutral,remain,2016-05-26T18:15:30.000Z,Come to Sardinia this summer. Book before it's too late! https://t.co/eTSpU61dDZ #brexit #LeaveEU #EUREF #no2eu https://t.co/rR604sQZAg,"['euref', 'leaveeu', 'no2eu', 'brexit']"
+324487,708918425742090240,301967736,neutral,leave,2016-03-13T07:31:38.000Z,The perils of a British Bill of Rights https://t.co/ntXdbGBUtr #Brexit #EURef EUReferendum #VoteLeave #No2EU,"['euref', 'no2eu', 'brexit', 'voteleave']"
+339154,709756405444640768,3045149182,negative,leave,2016-03-15T15:01:28.000Z,"R.Bootle: #brexit= short term disruption, medium term uncertainty, long term advantage: https://t.co/NpPbDxn7YM
+#euref #voteremain #no2eu","['euref', 'no2eu', 'brexit', 'voteremain']"
+361813,711603275120951296,3045149182,neutral,leave,2016-03-20T17:20:16.000Z,"Anti-EU is not being anti-Europe: 2 different things
+#brexit #euref
+#voteleave #no2eu
+#eureferendum #strongerout https://t.co/AdmUIsqMSE","['euref', 'no2eu', 'eureferendum', 'voteleave', 'brexit', 'strongerout']"
+734207,733915709315682304,720098948736790528,neutral,leave,2016-05-21T07:01:55.000Z,Remainers view of the EU ? #euref #brexit #no2eu #notoeu #voteout #eureform #leaveeu #voteleave #loveeuropeleaveeu https://t.co/N6e9BpTBsb,"['euref', 'no2eu', 'voteout', 'eureform', 'notoeu', 'leaveeu', 'voteleave', 'brexit', 'loveeuropeleaveeu']"
+19320,689850685786066944,3056392245,positive,other,2016-01-20T16:43:14.000Z,"@GranadaReports @Vote_UKIP #Brexit #EUref #eureferendum 
+#No2EU currently at 89.44%  = encouraging","['eureferendum', 'brexit', 'no2eu', 'euref']"
+14819,688361743274344448,3056392245,neutral,leave,2016-01-16T14:06:43.000Z,"@Fight4UK @UKIPPOOLE #Brexit #No2EU #EUref #EUreferendum 
+Well said, Roger ""We wont get fooled again""
+https://t.co/R4Pz9YVVhR","['eureferendum', 'brexit', 'no2eu', 'euref']"
+19315,689849343227117568,3056392245,positive,leave,2016-01-20T16:37:54.000Z,"@CasAnnStephens @MikkiL #Brexit #No2EU #EUref #eureferendum 
+Spot on :-)","['eureferendum', 'brexit', 'no2eu', 'euref']"
+18180,689497960044961792,3056392245,negative,other,2016-01-19T17:21:38.000Z,"@mkpdavies @YouTube #Brexit #No2EU #EUref #EUreferendum 
+@Nigel_Farage totally frank&amp;common sense on women's*rights*in the face of stupidity","['eureferendum', 'brexit', 'no2eu', 'euref']"
+18187,689499765856452608,3056392245,positive,leave,2016-01-19T17:28:49.000Z,"@allisonpearson #Brexit #No2EU #EUref #EUreferendum
 Welcome to""CategoryC""
 https://t.co/Sxg8pQctR0
-Ack.to @mkpdavies https://t.co/rna7RgAs7d","['eureferendum', 'euref', 'brexit', 'no2eu']"
-199,199,199,14819,688361743274344448,3056392245,neutral,leave,2016-01-16T14:06:43.000Z,"@Fight4UK @UKIPPOOLE #Brexit #No2EU #EUref #EUreferendum 
-Well said, Roger ""We wont get fooled again""
-https://t.co/R4Pz9YVVhR","['eureferendum', 'euref', 'brexit', 'no2eu']"
+Ack.to @mkpdavies https://t.co/rna7RgAs7d","['eureferendum', 'brexit', 'no2eu', 'euref']"
+6136,685238771399430144,3056392245,neutral,leave,2016-01-07T23:17:08.000Z,"#Brexit #No2EU #EUref #EUreferendum 
+... many years have passed, since those summer days of 1975
+https://t.co/FLJjd5mkMZ","['eureferendum', 'brexit', 'no2eu', 'euref']"
+28178,691746695567294464,3056392245,positive,other,2016-01-25T22:17:18.000Z,"@wmsolomon #Brexit #No2EU #EUref #EUreferendum 
+Worth watching
+Video demonstration with sweet jars
+Allowing mass immigration SOLVES NOTHING","['eureferendum', 'brexit', 'no2eu', 'euref']"
+548124,723865259807805440,121855199,positive,leave,2016-04-23T13:25:01.000Z,"#eureferendum: ""we got this."" ... ""yeah, we do. just awaiting merkel to speak out and we can ransack the place."" #brexit for better! #no2eu:","['eureferendum', 'no2eu', 'brexit']"
+549092,723926858023211008,121855199,positive,leave,2016-04-23T17:29:47.000Z,"#eureferendum: ""I meet Merkel next and then europe will belong to #islam."" #no2eu #voteleave #brexit for better! https://t.co/vFlw3vNlkl","['eureferendum', 'no2eu', 'islam', 'voteleave', 'brexit']"
+683710,731879992758566912,3135565264,neutral,leave,2016-05-15T16:12:42.000Z,"If youre looking for #democracy you wont find it in the #EU
+
+#EUReferendum #VoteLeave #Brexit #StrongerIn #No2EU https://t.co/gpcnixHSHq","['eureferendum', 'voteleave', 'brexit', 'democracy', 'eu', 'no2eu', 'strongerin']"

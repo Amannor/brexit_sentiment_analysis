@@ -1,284 +1,276 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,2091737,746348778429489152,2165983896,negative,leave,2016-06-24T14:26:29.000Z,For all #pro-#EU parents out there: 'There's no such thing as a Brusselo!' https://t.co/TMde1ubKlQ  #academicdad #UKref #Brexit,"['academicdad', 'proeu', 'brexit', 'ukref']"
-1,1,1,470091,719885690041970688,182739631,negative,remain,2016-04-12T13:51:37.000Z,The more #antibrexit messages I hear the more likely I am to vote for #Brexit. Seems the #proEU camp are trying too hard to cause fear,"['antibrexit', 'proeu', 'brexit']"
-2,2,2,241106,704651132522651648,20550442,negative,other,2016-03-01T12:54:56.000Z,"#BBCBias #ProEUBias #ProEU
-#LoveEuropeLeaveEU
-#BrExit #EURef #UK
-The millions in #EU funding the #BBC tried to hide https://t.co/eVkdIMkoVQ","['bbcbias', 'proeu', 'uk', 'brexit', 'euref', 'bbc', 'eu', 'proeubias', 'loveeuropeleaveeu']"
-3,3,3,788180,735769953266061312,28144181,neutral,remain,2016-05-26T09:50:01.000Z,"Brexit is a pack of lies, dreamt up by isolationist little Englanders, who lack the ability to think. #BetterTogether #ProEU","['bettertogether', 'proeu']"
-4,4,4,1360193,745166719912546304,282277236,negative,remain,2016-06-21T08:09:25.000Z,Five of the worst Brexit campaign lies busted. #BetterTogether #VoteRemain #VoteIn #YesToEU #ProEurope #ProEU https://t.co/j3oLtGp5Nz,"['bettertogether', 'votein', 'proeurope', 'yestoeu', 'proeu', 'voteremain']"
-5,5,5,516039,722397518731087872,355752178,negative,leave,2016-04-19T12:12:44.000Z,"Traitorous Cameron does not care for democracy
+,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+2091737,746348778429489152,2165983896,negative,leave,2016-06-24T14:26:29.000Z,For all #pro-#EU parents out there: 'There's no such thing as a Brusselo!' https://t.co/TMde1ubKlQ  #academicdad #UKref #Brexit,"['academicdad', 'brexit', 'ukref', 'proeu']"
+470091,719885690041970688,182739631,negative,remain,2016-04-12T13:51:37.000Z,The more #antibrexit messages I hear the more likely I am to vote for #Brexit. Seems the #proEU camp are trying too hard to cause fear,"['antibrexit', 'proeu', 'brexit']"
+401169,714664894612774912,712236067206930432,negative,other,2016-03-29T04:06:03.000Z,"@Complaining_Q https://t.co/c69p27lAQd #proeu ad with over 200 dislikes and comments blocked
+#brexit","['brexit', 'proeu']"
+1274568,744476881072824320,2198456290,neutral,other,2016-06-19T10:28:14.000Z,Im planning of writing a blog about the EU and GB as we're approaching the elections 🗳 #Eu #ProEu #Brexit,"['brexit', 'proeu', 'eu']"
+444874,718026475312701440,527372536,positive,leave,2016-04-07T10:43:46.000Z,"£9m on #proEU leaflet. What happened to #BRITISH #DEMOCRACY+FAIR DEBATE? FORGET IT! We're now ruled by #EU.
+#Brexit
+https://t.co/yHF2xNfjYW","['british', 'democracy+fair', 'proeu', 'brexit', 'eu']"
+344072,710087600611205120,221489980,positive,other,2016-03-16T12:57:31.000Z,"George Osborne uses his #Budget2016 speech to say Britain is ""stronger"" and ""safer"" in a reformed EU. #ProEU #Brexit","['budget2016', 'proeu', 'brexit']"
+71123,698144403974709248,2985242001,negative,other,2016-02-12T13:59:31.000Z,Former #proeu MPs are now supporting #Brexit following #Cameron negotiation failure https://t.co/ZdqQNvyQBv #brixham #Devon #LeaveEU #Totnes,"['cameron', 'brixham', 'proeu', 'devon', 'brexit', 'totnes', 'leaveeu']"
+58158,696390535276314624,527372536,negative,other,2016-02-07T17:50:16.000Z,"#Cameron #EUdeal is not legally binding....
+#Conservative #proEU stich up.
+#BRexit @Grassroots_Out @LeaveEUOfficial 
+https://t.co/mguZ6gtXig","['cameron', 'proeu', 'brexit', 'eudeal', 'conservative']"
+516039,722397518731087872,355752178,negative,leave,2016-04-19T12:12:44.000Z,"Traitorous Cameron does not care for democracy
 https://t.co/Im2O1M5EpC
 #BNP = #VoteLeave
 #EUreferendum
-#proEu #Cameron TERRIFIED of #Brexit","['bnp', 'proeu', 'cameron', 'eureferendum', 'brexit', 'voteleave']"
-6,6,6,1274568,744476881072824320,2198456290,neutral,other,2016-06-19T10:28:14.000Z,Im planning of writing a blog about the EU and GB as we're approaching the elections 🗳 #Eu #ProEu #Brexit,"['brexit', 'eu', 'proeu']"
-7,7,7,2050821,746330799776145408,1615227336,neutral,other,2016-06-24T13:15:03.000Z,I am a #German with an #Irish wife and we are living in #Italy I am #ProEU #ProEurope #brexit #BoycottUK,"['brexit', 'irish', 'proeurope', 'proeu', 'italy', 'boycottuk', 'german']"
-8,8,8,475729,720155646457417728,441976183,neutral,leave,2016-04-13T07:44:20.000Z,#LeaveEU great news #Conservative donors prepare 2 sink £5million into #Brexit campaign as anger over #proEU leaflet https://t.co/0OsBLZkWTP,"['brexit', 'leaveeu', 'conservative', 'proeu']"
-9,9,9,909543,739492777197772800,527372536,neutral,other,2016-06-05T16:23:11.000Z,"@StrongerIn The more old #proEU hasbeen politicians get rolled out the higher #BRexit poll results go :)
-@vote_leave
-https://t.co/ADWvXdSgQ3","['brexit', 'proeu']"
-10,10,10,484950,720613123447787520,142785875,positive,other,2016-04-14T14:02:11.000Z,Real good to do. #proEU #brexit  https://t.co/nTPeBcni6P,"['brexit', 'proeu']"
-11,11,11,162297,701813099523866624,1001593795,positive,other,2016-02-22T16:57:36.000Z,"Roger Polley can't leave it. His quest to find the most accurate polling #Brexit #proEU 
-Is this it? https://t.co/1Osqmhvijc @Channel4News","['brexit', 'proeu']"
-12,12,12,155440,701744284471578624,240402040,neutral,other,2016-02-22T12:24:09.000Z,Please don't let #Brexit happen... it would be a huge step backwards! It's all getting a bit too real now :( #proEU https://t.co/cPDnTm7tb2,"['brexit', 'proeu']"
-13,13,13,712492,732935253136932864,2405096358,negative,other,2016-05-18T14:05:56.000Z,@AdamRutherford the programme suggested #Brexit would be a bad move thus putting a #proEU slant no balance @rog_ukip @agapanthus49,"['brexit', 'proeu']"
-14,14,14,2279154,746482043710758912,15682928,negative,other,2016-06-24T23:16:02.000Z,Democracy is done by democratic education! Sorry not sorry for your fictitious demonstration of democracy #Brexit  #ProEu,"['brexit', 'proeu']"
-15,15,15,554180,724188812402896896,61029033,positive,other,2016-04-24T10:50:42.000Z,"I respected David McWilliams in his Pope's Children day - now expounding #brexit scaremongering on #marian - let them off IMHO, I'm #proEU!","['brexit', 'proeu', 'marian']"
-16,16,16,905858,739385348090953728,151587371,neutral,leave,2016-06-05T09:16:18.000Z,@BBC just to remind you you're not supposed to have any political agenda whatsoever so quit with the #proEU stance #VoteLeave #Brexit,"['brexit', 'proeu', 'voteleave']"
-17,17,17,444874,718026475312701440,527372536,positive,leave,2016-04-07T10:43:46.000Z,"£9m on #proEU leaflet. What happened to #BRITISH #DEMOCRACY+FAIR DEBATE? FORGET IT! We're now ruled by #EU.
-#Brexit
-https://t.co/yHF2xNfjYW","['british', 'proeu', 'eu', 'democracy+fair', 'brexit']"
-18,18,18,473737,720011735588057088,671653,neutral,other,2016-04-12T22:12:29.000Z,"#Brexit #ProEU #Debate
+#proEu #Cameron TERRIFIED of #Brexit","['cameron', 'voteleave', 'brexit', 'bnp', 'eureferendum', 'proeu']"
+473737,720011735588057088,671653,neutral,other,2016-04-12T22:12:29.000Z,"#Brexit #ProEU #Debate
 
 HT Peter Williams 
 
 https://t.co/wMXklgjQZr","['debate', 'proeu', 'brexit']"
-19,19,19,943979,740200067324334080,527372536,positive,leave,2016-06-07T15:13:42.000Z,"#ProEU MPs say they will defy #EURef if #BRexit wins. This is #EU #democracy? 
-Yet another reason to @vote_leave.
-https://t.co/wwvq4oVgdQ","['democracy?', 'proeu', 'euref', 'eu', 'brexit']"
-20,20,20,434170,717256443196477440,183560064,positive,other,2016-04-05T07:43:56.000Z,"Please, someone, tell me that #EU membership is not the £350m per week claimed by #Pritipatel. Surely not. #Brexit #proEU","['eu', 'proeu', 'brexit', 'pritipatel']"
-21,21,21,735702,733951542978576384,20550442,neutral,other,2016-05-21T09:24:18.000Z,"#EUistheProblem #BrExit
-#ProEU celebrities benefited from millions in #EU funding for films  | via @telegraphnews https://t.co/4A2oUdqi1Q","['euistheproblem', 'proeu', 'eu', 'brexit']"
-22,22,22,1287192,744598579306700800,253941749,neutral,remain,2016-06-19T18:31:49.000Z,UK gone mad: Reason2Remain supporter punched 4 wearing #ProEU badge! #Brexit will only embolden #Leave thugs! #euref https://t.co/zCUEw4YcRI,"['euref', 'proeu', 'brexit', 'leave']"
-23,23,23,286276,706907519973720064,18832456,neutral,other,2016-03-07T18:21:01.000Z,Can the #EUreferendum be brought forward please? Can't stand having a daily debate with my strongly #Brexit parents when I'm #proEU,"['eureferendum', 'brexit', 'proeu']"
-24,24,24,13781,687926831241129984,424215348,negative,leave,2016-01-15T09:18:32.000Z,"""In the #EUreferendum, there's no such thing as facts – only spin"" @Telegraph https://t.co/EDZHgAFahB #brexit #proEU @strongerin thoughts?","['eureferendum', 'brexit', 'proeu']"
-25,25,25,441428,717780089866420224,349978606,neutral,other,2016-04-06T18:24:43.000Z,Gov to spend £9mil on advertising for #ProEU campaign - #PROJECTFEAR #BREXIT #EUreferendum #EUref,"['eureferendum', 'proeu', 'projectfear', 'euref', 'brexit']"
-26,26,26,2303564,746558678262775808,98326125,negative,other,2016-06-25T04:20:33.000Z,"#ProEU Scots, Northern Irish eye #UK escape after #Brexit vote  https://t.co/AedAAjbHgu #NIreland #EU ##EuropeanUnion","['europeanunion', 'proeu', 'uk', 'eu', 'nireland', 'brexit']"
-27,27,27,2386206,746649853300776960,210867076,neutral,other,2016-06-25T10:22:51.000Z,There goes all those second homes in the sun! They'll send us packing! #Brexit #expats #ProEU #WhatHaveWeDone,"['expats', 'proeu', 'brexit', 'whathavewedone']"
-28,28,28,366248,711883874826067968,2709151927,neutral,other,2016-03-21T11:55:16.000Z,"British #expats face uncertainty. #brexit https://t.co/99qNqmCspX 
-#mortgage #LeaveEU #ProEU https://t.co/TFuAGZZH3W","['expats', 'proeu', 'mortgage', 'brexit', 'leaveeu']"
-29,29,29,1768189,746224503747837952,1375469156,negative,other,2016-06-24T06:12:40.000Z,"Worst decision ever, Britain! Hate and Greed won - you will soon regret and your children wont thank you for this! #brexit #goisland #ProEU","['goisland', 'proeu', 'brexit']"
-30,30,30,381431,712768000932319232,712064313721233408,positive,leave,2016-03-23T22:28:28.000Z,#hungary and #poland doing good let #brexit follow if people are #proeu export them to #brussels,"['hungary', 'proeu', 'brexit', 'brussels', 'poland']"
-31,31,31,1205050,743530635751391232,2984140421,neutral,remain,2016-06-16T19:48:12.000Z,"#jobs #jobsearch # #Pro-EU British lawmaker fatally shot; Brexit campaign suspended:  
-           #Campaignin... https://t.co/af7XhAZMLH","['jobs', 'campaignin', 'jobsearch', 'proeu']"
-32,32,32,925422,739832932383096832,2984140421,neutral,other,2016-06-06T14:54:51.000Z,"#jobs #jobsearch # #Pro-EU MPs could stage guerrilla campaign to reverse Brexit decision:  
-           #MPs c... https://t.co/7kZvfjdRlP","['jobs', 'mps', 'jobsearch', 'proeu']"
-33,33,33,270942,706026725143158784,1430630954,neutral,other,2016-03-05T08:01:03.000Z,Britain's relationship with Europe up for discussion #Brexit #EU #Referendum #EUOUT #ProEU #KennethWilliams https://t.co/ZMH2HapQqb,"['kennethwilliams', 'euout', 'proeu', 'eu', 'referendum', 'brexit']"
-34,34,34,71123,698144403974709248,2985242001,negative,other,2016-02-12T13:59:31.000Z,Former #proeu MPs are now supporting #Brexit following #Cameron negotiation failure https://t.co/ZdqQNvyQBv #brixham #Devon #LeaveEU #Totnes,"['leaveeu', 'totnes', 'brixham', 'proeu', 'cameron', 'devon', 'brexit']"
-35,35,35,368892,712046070155624448,136638179,negative,leave,2016-03-21T22:39:46.000Z,Wake up — Britain is heading for Brexit https://t.co/IfUBpFW9KF via @FT &gt;Underscores need for simple #proEU messages &amp; no complacency.,['proeu']
-36,36,36,364433,711838271656038400,706160916446978048,neutral,other,2016-03-21T08:54:03.000Z,"Report for #proEU CBI: 
+434170,717256443196477440,183560064,positive,other,2016-04-05T07:43:56.000Z,"Please, someone, tell me that #EU membership is not the £350m per week claimed by #Pritipatel. Surely not. #Brexit #proEU","['eu', 'brexit', 'proeu', 'pritipatel']"
+962147,740519706814251008,4077379402,neutral,remain,2016-06-08T12:23:50.000Z,#pro-EU #Bremain case in #Brexit #referendum campaign: My #British &amp; #European identities are intertwined: https://t.co/VpzKEHNCO5 via @FT,"['european', 'british', 'referendum', 'brexit', 'proeu', 'bremain']"
+2386206,746649853300776960,210867076,neutral,other,2016-06-25T10:22:51.000Z,There goes all those second homes in the sun! They'll send us packing! #Brexit #expats #ProEU #WhatHaveWeDone,"['expats', 'proeu', 'brexit', 'whathavewedone']"
+2081009,746343846846554112,524404494,negative,leave,2016-06-24T14:06:54.000Z,"So many #ProEU people filled with hate #Brexit side has not insulted anyone yet they are called racists, xenophobes and stupid. #irony","['irony', 'proeu', 'brexit']"
+480539,720354280138366976,718934764271575040,positive,other,2016-04-13T20:53:38.000Z,"that #proeu leaflet should have been made by #andrex it felt like #izal on my arse
+
+#brexit","['izal', 'brexit', 'andrex', 'proeu']"
+1205050,743530635751391232,2984140421,neutral,remain,2016-06-16T19:48:12.000Z,"#jobs #jobsearch # #Pro-EU British lawmaker fatally shot; Brexit campaign suspended:  
+           #Campaignin... https://t.co/af7XhAZMLH","['jobsearch', 'campaignin', 'proeu', 'jobs']"
+554180,724188812402896896,61029033,positive,other,2016-04-24T10:50:42.000Z,"I respected David McWilliams in his Pope's Children day - now expounding #brexit scaremongering on #marian - let them off IMHO, I'm #proEU!","['marian', 'proeu', 'brexit']"
+517880,722472640145977344,721124872307548160,negative,remain,2016-04-19T17:11:14.000Z,"#putin #sanders #trump and #brexit are the kings
+
+if you are #proeu please kill yourself and join #satan in hell
+#mccann are shite","['mccann', 'proeu', 'putin', 'satan', 'brexit', 'sanders', 'trump']"
+925422,739832932383096832,2984140421,neutral,other,2016-06-06T14:54:51.000Z,"#jobs #jobsearch # #Pro-EU MPs could stage guerrilla campaign to reverse Brexit decision:  
+           #MPs c... https://t.co/7kZvfjdRlP","['mps', 'jobsearch', 'proeu', 'jobs']"
+364433,711838271656038400,706160916446978048,neutral,other,2016-03-21T08:54:03.000Z,"Report for #proEU CBI: 
 
 Brexit means 'a potential cost to UK GDP of £100 billion and 950,000 jobs by 2020' https://t.co/DqLZBT9k84",['proeu']
-37,37,37,1369687,745182308248887296,47659686,positive,other,2016-06-21T09:11:21.000Z,What Could Brexit Mean for International Travelers? https://t.co/uQQnEPtCWi via @luxury #brexit #proeu,"['proeu', 'brexit']"
-38,38,38,277811,706477394593447936,527372536,neutral,other,2016-03-06T13:51:51.000Z,"WHO DO YOU TRUST?  #ProEU politicians or British people+UK ballot box?
-Time for #BRexit
-@Grassroots_Out @vote_leave
-https://t.co/AMxmNuZ7Db","['proeu', 'brexit']"
-39,39,39,445719,718022053274759168,829694792,neutral,other,2016-04-07T10:26:12.000Z,"When you get your #ProEU leaflet simply return it to:
+368892,712046070155624448,136638179,negative,leave,2016-03-21T22:39:46.000Z,Wake up — Britain is heading for Brexit https://t.co/IfUBpFW9KF via @FT &gt;Underscores need for simple #proEU messages &amp; no complacency.,['proeu']
+788180,735769953266061312,28144181,neutral,remain,2016-05-26T09:50:01.000Z,"Brexit is a pack of lies, dreamt up by isolationist little Englanders, who lack the ability to think. #BetterTogether #ProEU","['proeu', 'bettertogether']"
+1360193,745166719912546304,282277236,negative,remain,2016-06-21T08:09:25.000Z,Five of the worst Brexit campaign lies busted. #BetterTogether #VoteRemain #VoteIn #YesToEU #ProEurope #ProEU https://t.co/j3oLtGp5Nz,"['proeu', 'bettertogether', 'yestoeu', 'votein', 'voteremain', 'proeurope']"
+1037241,741773159926534144,316091496,neutral,leave,2016-06-11T23:24:37.000Z,Those traitorous #proEU folks would have this kept from us until too late and the door slammed behind us #Brexit https://t.co/bOovYYsmR7,"['proeu', 'brexit']"
+33848,692984238828883968,316469433,positive,other,2016-01-29T08:14:52.000Z,"The strongest reason I have seen so far for #proEU, two-thirds of players could get the boot @PoliticsHome https://t.co/2maQE91WQ4 #BREXIT","['proeu', 'brexit']"
+1369687,745182308248887296,47659686,positive,other,2016-06-21T09:11:21.000Z,What Could Brexit Mean for International Travelers? https://t.co/uQQnEPtCWi via @luxury #brexit #proeu,"['proeu', 'brexit']"
+712492,732935253136932864,2405096358,negative,other,2016-05-18T14:05:56.000Z,@AdamRutherford the programme suggested #Brexit would be a bad move thus putting a #proEU slant no balance @rog_ukip @agapanthus49,"['proeu', 'brexit']"
+445719,718022053274759168,829694792,neutral,other,2016-04-07T10:26:12.000Z,"When you get your #ProEU leaflet simply return it to:
 Con' Party HQ
 4 Matthew Parker Street
 London
 SW1H 9HQ
 In an UNSTAMPED envelope
 #Brexit","['proeu', 'brexit']"
-40,40,40,401169,714664894612774912,712236067206930432,negative,other,2016-03-29T04:06:03.000Z,"@Complaining_Q https://t.co/c69p27lAQd #proeu ad with over 200 dislikes and comments blocked
-#brexit","['proeu', 'brexit']"
-41,41,41,33848,692984238828883968,316469433,positive,other,2016-01-29T08:14:52.000Z,"The strongest reason I have seen so far for #proEU, two-thirds of players could get the boot @PoliticsHome https://t.co/2maQE91WQ4 #BREXIT","['proeu', 'brexit']"
-42,42,42,479902,720311036998385664,671653,positive,leave,2016-04-13T18:01:48.000Z,"The UK spends some 2% of Tax Revenue on making Europe a better, safer place
+2279154,746482043710758912,15682928,negative,other,2016-06-24T23:16:02.000Z,Democracy is done by democratic education! Sorry not sorry for your fictitious demonstration of democracy #Brexit  #ProEu,"['proeu', 'brexit']"
+479902,720311036998385664,671653,positive,leave,2016-04-13T18:01:48.000Z,"The UK spends some 2% of Tax Revenue on making Europe a better, safer place
 
 https://t.co/zSOETuGYtK  #Brexit #ProEU https://t.co/AOJYiUyp6d","['proeu', 'brexit']"
-43,43,43,448618,718158965977128960,247391930,neutral,other,2016-04-07T19:30:14.000Z,"Read more about the latest move in the #Brexit campaign. The gov spends £9mil on #ProEU campaign for UK households
+277811,706477394593447936,527372536,neutral,other,2016-03-06T13:51:51.000Z,"WHO DO YOU TRUST?  #ProEU politicians or British people+UK ballot box?
+Time for #BRexit
+@Grassroots_Out @vote_leave
+https://t.co/AMxmNuZ7Db","['proeu', 'brexit']"
+484950,720613123447787520,142785875,positive,other,2016-04-14T14:02:11.000Z,Real good to do. #proEU #brexit  https://t.co/nTPeBcni6P,"['proeu', 'brexit']"
+162297,701813099523866624,1001593795,positive,other,2016-02-22T16:57:36.000Z,"Roger Polley can't leave it. His quest to find the most accurate polling #Brexit #proEU 
+Is this it? https://t.co/1Osqmhvijc @Channel4News","['proeu', 'brexit']"
+448618,718158965977128960,247391930,neutral,other,2016-04-07T19:30:14.000Z,"Read more about the latest move in the #Brexit campaign. The gov spends £9mil on #ProEU campaign for UK households
 https://t.co/b4XHB6ddWg","['proeu', 'brexit']"
-44,44,44,1037241,741773159926534144,316091496,neutral,leave,2016-06-11T23:24:37.000Z,Those traitorous #proEU folks would have this kept from us until too late and the door slammed behind us #Brexit https://t.co/bOovYYsmR7,"['proeu', 'brexit']"
-45,45,45,435725,717326142999552000,84151450,neutral,other,2016-04-05T12:20:54.000Z,".@SLATUKIP Why when a #ProEU Person speaks up, the #Brexiteers tell them keep their opinion to themselves. If it's #Brexit they make a meme?","['proeu', 'brexit', 'brexiteers']"
-46,46,46,382990,712918780914098176,625562499,negative,leave,2016-03-24T08:27:37.000Z,The #ProEU arguments about how UK security would be damaged by #Brexit are looking more &amp; more hollow. #EUreferendum,"['proeu', 'brexit', 'eureferendum']"
-47,47,47,480539,720354280138366976,718934764271575040,positive,other,2016-04-13T20:53:38.000Z,"that #proeu leaflet should have been made by #andrex it felt like #izal on my arse
-
-#brexit","['proeu', 'brexit', 'izal', 'andrex']"
-48,48,48,344072,710087600611205120,221489980,positive,other,2016-03-16T12:57:31.000Z,"George Osborne uses his #Budget2016 speech to say Britain is ""stronger"" and ""safer"" in a reformed EU. #ProEU #Brexit","['proeu', 'budget2016', 'brexit']"
-49,49,49,1889809,746266156277862400,245968713,neutral,other,2016-06-24T08:58:11.000Z,"@therealdcf1 you were a fine Prime Minister, sorry that your having to step down. You will not be forgotten. #DCrules! #Brexit #ProEU","['proeu', 'dcrules', 'brexit']"
-50,50,50,58158,696390535276314624,527372536,negative,other,2016-02-07T17:50:16.000Z,"#Cameron #EUdeal is not legally binding....
-#Conservative #proEU stich up.
-#BRexit @Grassroots_Out @LeaveEUOfficial 
-https://t.co/mguZ6gtXig","['proeu', 'eudeal', 'cameron', 'brexit', 'conservative']"
-51,51,51,267474,705776182755782656,4915395519,neutral,other,2016-03-04T15:25:29.000Z,‘Grab your #granny’ to keep #Britain in #EU - #Brexit #GrabYourGranny #Referendum #Ireland #ProEU https://t.co/N3Eg82TVNB,"['proeu', 'grannyâ\x80\x99', 'britain', 'eu', 'ireland', 'referendum', 'grabyourgranny', 'brexit']"
-52,52,52,2006340,746312099282980864,407643996,negative,other,2016-06-24T12:00:44.000Z,In #Scotland we're devastated by #Brexit @NicolaSturgeon pls move fast + #indyref2 #ProEU,"['proeu', 'indyref2', 'scotland', 'brexit']"
-53,53,53,2081009,746343846846554112,524404494,negative,leave,2016-06-24T14:06:54.000Z,"So many #ProEU people filled with hate #Brexit side has not insulted anyone yet they are called racists, xenophobes and stupid. #irony","['proeu', 'irony', 'brexit']"
-54,54,54,1492127,745817515016617984,206269356,neutral,remain,2016-06-23T03:15:26.000Z,@GaryLineker it would be sad to see them disqualified if Brexit wins #ProEU #NoToBrexit,"['proeu', 'notobrexit']"
-55,55,55,1287486,744600761561124864,578470453,negative,other,2016-06-19T18:40:30.000Z,#Brexit #ProEU #Propaganda in #Britain Goes into Overdrive https://t.co/XGOSoc3wl9,"['proeu', 'propaganda', 'brexit', 'britain']"
-56,56,56,2390683,746654848729387008,443194577,positive,other,2016-06-25T10:42:42.000Z,"#Brexit  hoping I will be allowed to move to scotland before they leave uk, #scotland #ProEU","['proeu', 'scotland', 'brexit']"
-57,57,57,670614,731431869976346624,1473219745,positive,other,2016-05-14T10:32:01.000Z,Oh!! How much #ProEU feel good factor propaganda the #PoliticalElite need. Step forward #Eurovision &amp; a #UK win the power of a #Brexit ☺,"['proeu', 'uk', 'eurovision', 'politicalelite', 'brexit']"
-58,58,58,270614,706023001620406272,527372536,negative,other,2016-03-05T07:46:15.000Z,"The #proEU #ProjectFear -&gt; #ProjectDirtyTricks -&gt; #ProjectYourFired as Biz Leader Suspended for #Brexit
+909543,739492777197772800,527372536,neutral,other,2016-06-05T16:23:11.000Z,"@StrongerIn The more old #proEU hasbeen politicians get rolled out the higher #BRexit poll results go :)
+@vote_leave
+https://t.co/ADWvXdSgQ3","['proeu', 'brexit']"
+155440,701744284471578624,240402040,neutral,other,2016-02-22T12:24:09.000Z,Please don't let #Brexit happen... it would be a huge step backwards! It's all getting a bit too real now :( #proEU https://t.co/cPDnTm7tb2,"['proeu', 'brexit']"
+241106,704651132522651648,20550442,negative,other,2016-03-01T12:54:56.000Z,"#BBCBias #ProEUBias #ProEU
+#LoveEuropeLeaveEU
+#BrExit #EURef #UK
+The millions in #EU funding the #BBC tried to hide https://t.co/eVkdIMkoVQ","['proeu', 'brexit', 'bbc', 'loveeuropeleaveeu', 'euref', 'proeubias', 'bbcbias', 'eu', 'uk']"
+435725,717326142999552000,84151450,neutral,other,2016-04-05T12:20:54.000Z,".@SLATUKIP Why when a #ProEU Person speaks up, the #Brexiteers tell them keep their opinion to themselves. If it's #Brexit they make a meme?","['proeu', 'brexit', 'brexiteers']"
+475729,720155646457417728,441976183,neutral,leave,2016-04-13T07:44:20.000Z,#LeaveEU great news #Conservative donors prepare 2 sink £5million into #Brexit campaign as anger over #proEU leaflet https://t.co/0OsBLZkWTP,"['proeu', 'brexit', 'conservative', 'leaveeu']"
+943979,740200067324334080,527372536,positive,leave,2016-06-07T15:13:42.000Z,"#ProEU MPs say they will defy #EURef if #BRexit wins. This is #EU #democracy? 
+Yet another reason to @vote_leave.
+https://t.co/wwvq4oVgdQ","['proeu', 'brexit', 'euref', 'democracy?', 'eu']"
+1287192,744598579306700800,253941749,neutral,remain,2016-06-19T18:31:49.000Z,UK gone mad: Reason2Remain supporter punched 4 wearing #ProEU badge! #Brexit will only embolden #Leave thugs! #euref https://t.co/zCUEw4YcRI,"['proeu', 'brexit', 'euref', 'leave']"
+382990,712918780914098176,625562499,negative,leave,2016-03-24T08:27:37.000Z,The #ProEU arguments about how UK security would be damaged by #Brexit are looking more &amp; more hollow. #EUreferendum,"['proeu', 'brexit', 'eureferendum']"
+286276,706907519973720064,18832456,neutral,other,2016-03-07T18:21:01.000Z,Can the #EUreferendum be brought forward please? Can't stand having a daily debate with my strongly #Brexit parents when I'm #proEU,"['proeu', 'brexit', 'eureferendum']"
+441428,717780089866420224,349978606,neutral,other,2016-04-06T18:24:43.000Z,Gov to spend £9mil on advertising for #ProEU campaign - #PROJECTFEAR #BREXIT #EUreferendum #EUref,"['proeu', 'brexit', 'eureferendum', 'projectfear', 'euref']"
+267474,705776182755782656,4915395519,neutral,other,2016-03-04T15:25:29.000Z,‘Grab your #granny’ to keep #Britain in #EU - #Brexit #GrabYourGranny #Referendum #Ireland #ProEU https://t.co/N3Eg82TVNB,"['proeu', 'brexit', 'granny’', 'grabyourgranny', 'ireland', 'referendum', 'eu', 'britain']"
+2060264,746334902723960832,2505604154,positive,other,2016-06-24T13:31:21.000Z,"#UK, ""I'm still Loving You"" https://t.co/6AbsjxzVBO
+#Brexit #ProEU #EU #MessageFromEurope","['proeu', 'brexit', 'messagefromeurope', 'eu', 'uk']"
+270614,706023001620406272,527372536,negative,other,2016-03-05T07:46:15.000Z,"The #proEU #ProjectFear -&gt; #ProjectDirtyTricks -&gt; #ProjectYourFired as Biz Leader Suspended for #Brexit
 @vote_leave 
-https://t.co/WN6Oyoy0QS","['projectfear', 'proeu', 'projectdirtytricks', 'projectyourfired', 'brexit']"
-59,59,59,444974,718029532167606272,527372536,negative,other,2016-04-07T10:55:55.000Z,"#UKGovt #ProjectFear spends #taxpayers £9m on #proEU #propaganda in 
+https://t.co/WN6Oyoy0QS","['proeu', 'brexit', 'projectyourfired', 'projectfear', 'projectdirtytricks']"
+2390683,746654848729387008,443194577,positive,other,2016-06-25T10:42:42.000Z,"#Brexit  hoping I will be allowed to move to scotland before they leave uk, #scotland #ProEU","['proeu', 'brexit', 'scotland']"
+905858,739385348090953728,151587371,neutral,leave,2016-06-05T09:16:18.000Z,@BBC just to remind you you're not supposed to have any political agenda whatsoever so quit with the #proEU stance #VoteLeave #Brexit,"['proeu', 'brexit', 'voteleave']"
+381431,712768000932319232,712064313721233408,positive,leave,2016-03-23T22:28:28.000Z,#hungary and #poland doing good let #brexit follow if people are #proeu export them to #brussels,"['proeu', 'brussels', 'poland', 'brexit', 'hungary']"
+1889809,746266156277862400,245968713,neutral,other,2016-06-24T08:58:11.000Z,"@therealdcf1 you were a fine Prime Minister, sorry that your having to step down. You will not be forgotten. #DCrules! #Brexit #ProEU","['proeu', 'dcrules', 'brexit']"
+735702,733951542978576384,20550442,neutral,other,2016-05-21T09:24:18.000Z,"#EUistheProblem #BrExit
+#ProEU celebrities benefited from millions in #EU funding for films  | via @telegraphnews https://t.co/4A2oUdqi1Q","['proeu', 'euistheproblem', 'brexit', 'eu']"
+270942,706026725143158784,1430630954,neutral,other,2016-03-05T08:01:03.000Z,Britain's relationship with Europe up for discussion #Brexit #EU #Referendum #EUOUT #ProEU #KennethWilliams https://t.co/ZMH2HapQqb,"['proeu', 'euout', 'brexit', 'kennethwilliams', 'referendum', 'eu']"
+13781,687926831241129984,424215348,negative,leave,2016-01-15T09:18:32.000Z,"""In the #EUreferendum, there's no such thing as facts – only spin"" @Telegraph https://t.co/EDZHgAFahB #brexit #proEU @strongerin thoughts?","['proeu', 'eureferendum', 'brexit']"
+670614,731431869976346624,1473219745,positive,other,2016-05-14T10:32:01.000Z,Oh!! How much #ProEU feel good factor propaganda the #PoliticalElite need. Step forward #Eurovision &amp; a #UK win the power of a #Brexit ☺,"['proeu', 'eurovision', 'brexit', 'politicalelite', 'uk']"
+1768189,746224503747837952,1375469156,negative,other,2016-06-24T06:12:40.000Z,"Worst decision ever, Britain! Hate and Greed won - you will soon regret and your children wont thank you for this! #brexit #goisland #ProEU","['proeu', 'goisland', 'brexit']"
+2050821,746330799776145408,1615227336,neutral,other,2016-06-24T13:15:03.000Z,I am a #German with an #Irish wife and we are living in #Italy I am #ProEU #ProEurope #brexit #BoycottUK,"['proeu', 'irish', 'italy', 'brexit', 'german', 'proeurope', 'boycottuk']"
+366248,711883874826067968,2709151927,neutral,other,2016-03-21T11:55:16.000Z,"British #expats face uncertainty. #brexit https://t.co/99qNqmCspX 
+#mortgage #LeaveEU #ProEU https://t.co/TFuAGZZH3W","['proeu', 'mortgage', 'brexit', 'leaveeu', 'expats']"
+2303564,746558678262775808,98326125,negative,other,2016-06-25T04:20:33.000Z,"#ProEU Scots, Northern Irish eye #UK escape after #Brexit vote  https://t.co/AedAAjbHgu #NIreland #EU ##EuropeanUnion","['proeu', 'nireland', 'brexit', 'europeanunion', 'eu', 'uk']"
+1492127,745817515016617984,206269356,neutral,remain,2016-06-23T03:15:26.000Z,@GaryLineker it would be sad to see them disqualified if Brexit wins #ProEU #NoToBrexit,"['proeu', 'notobrexit']"
+444974,718029532167606272,527372536,negative,other,2016-04-07T10:55:55.000Z,"#UKGovt #ProjectFear spends #taxpayers £9m on #proEU #propaganda in 
 #outrageous #undemocratic #remain panic
 #Brexit
-https://t.co/su9YQ4xTrl","['projectfear', 'remain', 'proeu', 'taxpayers', 'outrageous', 'ukgovt', 'propaganda', 'undemocratic', 'brexit']"
-60,60,60,962147,740519706814251008,4077379402,neutral,remain,2016-06-08T12:23:50.000Z,#pro-EU #Bremain case in #Brexit #referendum campaign: My #British &amp; #European identities are intertwined: https://t.co/VpzKEHNCO5 via @FT,"['referendum', 'european', 'proeu', 'british', 'bremain', 'brexit']"
-61,61,61,964251,740584893655228416,3303560099,neutral,remain,2016-06-08T16:42:52.000Z,https://t.co/MKGVBEBePp this guy's got brexit down to a t. #proEU #Remain #StrongerIn,"['remain', 'strongerin', 'proeu']"
-62,62,62,517880,722472640145977344,721124872307548160,negative,remain,2016-04-19T17:11:14.000Z,"#putin #sanders #trump and #brexit are the kings
-
-if you are #proeu please kill yourself and join #satan in hell
-#mccann are shite","['sanders', 'trump', 'putin', 'proeu', 'mccann', 'satan', 'brexit']"
-63,63,63,418481,715851516607873024,1153726057,negative,remain,2016-04-01T10:41:16.000Z,"“Brexit — If its broke, then fix it!” by @robinklein https://t.co/ZiS5hMveoO #ProEU #strongerIN","['strongerin', 'proeu']"
-64,64,64,425415,716573351129587712,1978980979,negative,other,2016-04-03T10:29:34.000Z,116 Reasons to Vote IN: Students' response to Brexit businessman's challenge https://t.co/1XnnHM0i8p #StrongerInEurope #proEU,"['strongerineurope', 'proeu']"
-65,65,65,2141521,746373761557987328,1615227336,positive,other,2016-06-24T16:05:46.000Z,"Ahhh, a nice cold #beer from #Germany under the #sun of #Italy in my #garden #ProEurope #ProEU #brexit #boycottuk","['sun', 'germany', 'proeurope', 'proeu', 'italy', 'beer', 'garden', 'boycottuk', 'brexit']"
-66,66,66,2060264,746334902723960832,2505604154,positive,other,2016-06-24T13:31:21.000Z,"#UK, ""I'm still Loving You"" https://t.co/6AbsjxzVBO
-#Brexit #ProEU #EU #MessageFromEurope","['uk', 'proeu', 'eu', 'messagefromeurope', 'brexit']"
-67,67,67,235422,704356802536853504,81063819,neutral,remain,2016-02-29T17:25:22.000Z,"I'm strongly #proEU #UKinEU but also pro rational, truthful #brexit campaign &amp; this seems obv potential outcome... https://t.co/cc2pqHBdhh","['ukineu', 'brexit', 'proeu']"
-68,68,68,1566731,746047847682940928,3388993191,neutral,remain,2016-06-23T18:30:42.000Z,"people are voting, and meanwhile I'm ""trying to eat EU flag"" #justkidding
+https://t.co/su9YQ4xTrl","['proeu', 'propaganda', 'remain', 'undemocratic', 'brexit', 'ukgovt', 'taxpayers', 'projectfear', 'outrageous']"
+418481,715851516607873024,1153726057,negative,remain,2016-04-01T10:41:16.000Z,"“Brexit — If its broke, then fix it!” by @robinklein https://t.co/ZiS5hMveoO #ProEU #strongerIN","['proeu', 'strongerin']"
+425415,716573351129587712,1978980979,negative,other,2016-04-03T10:29:34.000Z,116 Reasons to Vote IN: Students' response to Brexit businessman's challenge https://t.co/1XnnHM0i8p #StrongerInEurope #proEU,"['proeu', 'strongerineurope']"
+235422,704356802536853504,81063819,neutral,remain,2016-02-29T17:25:22.000Z,"I'm strongly #proEU #UKinEU but also pro rational, truthful #brexit campaign &amp; this seems obv potential outcome... https://t.co/cc2pqHBdhh","['proeu', 'ukineu', 'brexit']"
+1566731,746047847682940928,3388993191,neutral,remain,2016-06-23T18:30:42.000Z,"people are voting, and meanwhile I'm ""trying to eat EU flag"" #justkidding
 #brexit 
-#votein #VoteRemain #proEU https://t.co/YqDIMRDvED","['votein', 'justkidding', 'proeu', 'brexit', 'voteremain']"
-69,69,69,337036,747422942045306880,1615227336,negative,remain,2016-06-27T13:34:50.000Z,Pity I cant buy @MarshallAmpsUK anymore I really like them. Great tone but I #BoycottUk. That's the ugly side of a #boycott. #ProEU #Brexit,"['boycott', 'proeu', 'boycottuk', 'brexit']"
-70,70,70,2154252,770243155803471872,1931515028,positive,other,2016-08-29T12:54:13.000Z,#Brexit isn't a done deal as outstanding legal challenges. Pragmatic negotiation is fine but we need a #proEU party https://t.co/KUtRsMkYEB,"['brexit', 'proeu']"
-71,71,71,146514,747069400222679040,794723894,neutral,other,2016-06-26T14:09:59.000Z,"@LibDems whilst both Labour and Tories fall into meltdown following #Brexit, it seems you are the voice of reason. #ProEU #LibDemFightback","['brexit', 'proeu', 'libdemfightback']"
-72,72,72,313101,747393974873239552,747384822797115520,neutral,remain,2016-06-27T11:39:44.000Z,What are our 3 'Brexit-type' options? https://t.co/rKiKsqcaEX #euref #brexit #proeu #referendum,"['euref', 'proeu', 'referendum', 'brexit']"
-73,73,73,1349715,751670768841416704,351885973,negative,other,2016-07-09T06:54:11.000Z,"#Europeans resurgence in #ProEU leanings post #Brexit is a rejection of hate and fear. Hope remains.
-https://t.co/j2iGBw4L0x","['europeans', 'proeu', 'brexit']"
-74,74,74,1716688,756519951054336000,15682928,neutral,other,2016-07-22T16:03:06.000Z,Eurozone economy shows resilience despite Brexit - https://t.co/Iec0rDLLZ6 https://t.co/OuAMgiOxzt #ProEU #Brexit #Freemovement,"['freemovement', 'proeu', 'brexit']"
-75,75,75,244453,747294884571156480,95882055,negative,other,2016-06-27T05:05:59.000Z,Boris has shit himself over the weekend. People voted to be out properly. No freedom of movement. Get a grip son. #indyref2 #ProEU #Brexit,"['indyref2', 'proeu', 'brexit']"
-76,76,76,116341,747050458469007360,2656251778,positive,leave,2016-06-26T12:54:43.000Z,Strong @UKLabour paired up with @LibDems to challenge brexit and keep us in EU. It's what we need #wearethe48 #proEU #love,"['love', 'proeu', 'wearethe48']"
-77,77,77,2299453,773964330668847104,420368126,neutral,other,2016-09-08T19:20:50.000Z,#EU institutions keep nominating hardcore #proEU #federalists as #Art50 #Brexit #negotiators https://t.co/LmGfLbODGm,"['negotiators', 'proeu', 'federalists', 'art50', 'eu', 'brexit']"
-78,78,78,2063220,766713145419333632,1931515028,negative,other,2016-08-19T19:07:13.000Z,Read this - a model for a press free from the dodgy influence press barons #journalism #pressfreedom #proEU  #Brexit https://t.co/UMiQm5qLLC,"['pressfreedom', 'journalism', 'proeu', 'brexit']"
-79,79,79,338049,747424253788721152,1615227336,positive,leave,2016-06-27T13:40:03.000Z,Lucky I was never into @OrangeAmps or @VOXamps so I don't really miss them. #Brexit #boycottuk #boycottukproducts #boycottukcompanies #ProEU,"['proeu', 'boycottukproducts', 'boycottukcompanies', 'boycottuk', 'brexit']"
-80,80,80,1027300,749566629592305664,2783875490,positive,leave,2016-07-03T11:33:05.000Z,@StrongerInPress I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW!,"['proeu', 'brexit']"
-81,81,81,737715,748185837481902080,134051679,negative,leave,2016-06-29T16:06:18.000Z,#proeu protests from the remainers will be nothing compared to the rioting we will see if the will of the majority is not invoked #Brexit,"['proeu', 'brexit']"
-82,82,82,1027448,749567703132860416,2783875490,positive,leave,2016-07-03T11:37:21.000Z,@timfarron I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW me!,"['proeu', 'brexit']"
-83,83,83,1341572,751515407832457216,38474832,neutral,other,2016-07-08T20:36:50.000Z,#Brexit causes resurgence in #pro-EU leanings across continent https://t.co/FH6B9fM0e0,"['proeu', 'brexit']"
-84,84,84,357595,747449833397551104,354301116,negative,leave,2016-06-27T15:21:41.000Z,"Yes. Because a racist always starts a sentence with, ""I'm a racist"", don't they. #brexit #ProEU https://t.co/nV5BZ5wCUb","['proeu', 'brexit']"
-85,85,85,627086,747869301307215872,38474832,neutral,other,2016-06-28T19:08:30.000Z,Thousands Attend #Pro-EU Rally In London Despite Cancellation #Brexit https://t.co/0XukAM0isr,"['proeu', 'brexit']"
-86,86,86,2146280,769887425363574784,742361039879188480,neutral,other,2016-08-28T13:20:40.000Z,I wrote something on #Brexit https://t.co/f7vpx6wqaw #ProEU,"['proeu', 'brexit']"
-87,87,87,1027541,749568274057297920,2783875490,positive,leave,2016-07-03T11:39:37.000Z,@NicolaSturgeon I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW!,"['proeu', 'brexit']"
-88,88,88,1027634,749568914011648000,2783875490,positive,leave,2016-07-03T11:42:10.000Z,@ChukaUmunna I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW me!,"['proeu', 'brexit']"
-89,89,89,632252,747879984035934208,87686159,positive,leave,2016-06-28T19:50:57.000Z,Great to see young people making their voice heard #ProEU #brexit  https://t.co/mI4Volqy0Z,"['proeu', 'brexit']"
-90,90,90,680925,748063815305134080,46119906,neutral,leave,2016-06-29T08:01:26.000Z,"Will the #ProEU demo outside Westminster last night change anything?
+#votein #VoteRemain #proEU https://t.co/YqDIMRDvED","['proeu', 'votein', 'voteremain', 'brexit', 'justkidding']"
+1287486,744600761561124864,578470453,negative,other,2016-06-19T18:40:30.000Z,#Brexit #ProEU #Propaganda in #Britain Goes into Overdrive https://t.co/XGOSoc3wl9,"['propaganda', 'proeu', 'brexit', 'britain']"
+964251,740584893655228416,3303560099,neutral,remain,2016-06-08T16:42:52.000Z,https://t.co/MKGVBEBePp this guy's got brexit down to a t. #proEU #Remain #StrongerIn,"['remain', 'proeu', 'strongerin']"
+2006340,746312099282980864,407643996,negative,other,2016-06-24T12:00:44.000Z,In #Scotland we're devastated by #Brexit @NicolaSturgeon pls move fast + #indyref2 #ProEU,"['scotland', 'proeu', 'indyref2', 'brexit']"
+2141521,746373761557987328,1615227336,positive,other,2016-06-24T16:05:46.000Z,"Ahhh, a nice cold #beer from #Germany under the #sun of #Italy in my #garden #ProEurope #ProEU #brexit #boycottuk","['sun', 'proeu', 'italy', 'beer', 'brexit', 'garden', 'proeurope', 'boycottuk', 'germany']"
+737715,748185837481902080,134051679,negative,leave,2016-06-29T16:06:18.000Z,#proeu protests from the remainers will be nothing compared to the rioting we will see if the will of the majority is not invoked #Brexit,"['brexit', 'proeu']"
+146514,747069400222679040,794723894,neutral,other,2016-06-26T14:09:59.000Z,"@LibDems whilst both Labour and Tories fall into meltdown following #Brexit, it seems you are the voice of reason. #ProEU #LibDemFightback","['brexit', 'proeu', 'libdemfightback']"
+626405,747867876787392512,747800040794632320,positive,other,2016-06-28T19:02:51.000Z,Amazing scenes at #Westminster from #ProEu supporters! #Brexit #ScotlandinEurope #S4EU https://t.co/B6pQVbgIr1,"['brexit', 'westminster', 's4eu', 'scotlandineurope', 'proeu']"
+2350926,775797994272743424,252276052,negative,other,2016-09-13T20:47:10.000Z,@DavidDavisMP @theresa_may @Nigel_Farage @BorisJohnson @BillCashMP all clueless #Brexit twits #clueless. #VoteRemain 100% @JunckerEU #ProEU,"['clueless', 'proeu', 'voteremain', 'brexit']"
+625959,747897254711787520,75397872,negative,other,2016-06-28T20:59:35.000Z,"""Cancelled"" anti-Brexit protest in Trafalgar Square. #londonstays #protest #brexit #proeu … https://t.co/F5jOhTUplE https://t.co/Gw1nr6e1cq","['londonstays', 'protest', 'proeu', 'brexit']"
+2063220,766713145419333632,1931515028,negative,other,2016-08-19T19:07:13.000Z,Read this - a model for a press free from the dodgy influence press barons #journalism #pressfreedom #proEU  #Brexit https://t.co/UMiQm5qLLC,"['pressfreedom', 'brexit', 'journalism', 'proeu']"
+2063312,766747530466037760,252276052,neutral,other,2016-08-19T21:23:51.000Z,"Why Osborne’s ‘Rambo’ outing is not the way to go after Brexit blow
+
+https://t.co/hz5jUBZT1p #VoteRemain #Bremain #Bremainers #ProEU #EU","['proeu', 'bremainers', 'voteremain', 'bremain', 'eu']"
+632252,747879984035934208,87686159,positive,leave,2016-06-28T19:50:57.000Z,Great to see young people making their voice heard #ProEU #brexit  https://t.co/mI4Volqy0Z,"['proeu', 'brexit']"
+1027300,749566629592305664,2783875490,positive,leave,2016-07-03T11:33:05.000Z,@StrongerInPress I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW!,"['proeu', 'brexit']"
+2154252,770243155803471872,1931515028,positive,other,2016-08-29T12:54:13.000Z,#Brexit isn't a done deal as outstanding legal challenges. Pragmatic negotiation is fine but we need a #proEU party https://t.co/KUtRsMkYEB,"['proeu', 'brexit']"
+1027578,749568551749558272,2783875490,positive,leave,2016-07-03T11:40:43.000Z,@CarolineLucas I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW me!,"['proeu', 'brexit']"
+1027448,749567703132860416,2783875490,positive,leave,2016-07-03T11:37:21.000Z,@timfarron I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW me!,"['proeu', 'brexit']"
+1027541,749568274057297920,2783875490,positive,leave,2016-07-03T11:39:37.000Z,@NicolaSturgeon I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW!,"['proeu', 'brexit']"
+680925,748063815305134080,46119906,neutral,leave,2016-06-29T08:01:26.000Z,"Will the #ProEU demo outside Westminster last night change anything?
 
 👫👬👭👭👬👫👭👬👫👫👬👭👭👬👫👬👭👭👭👫👬👭👬👫👫👬👭👬👫👬👭👭👬👬👫👬
 
 What was the point? #Brexit","['proeu', 'brexit']"
-91,91,91,1027578,749568551749558272,2783875490,positive,leave,2016-07-03T11:40:43.000Z,@CarolineLucas I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW me!,"['proeu', 'brexit']"
-92,92,92,1342349,751525011295535104,243270604,neutral,other,2016-07-08T21:15:00.000Z,#Brexit causes resurgence in #Pro-EU leanings across continent https://t.co/GAcVGV3gx4,"['proeu', 'brexit']"
-93,93,93,1426753,752573864111140864,417004115,neutral,other,2016-07-11T18:42:46.000Z,Both @David_Cameron &amp; Teresa May are #ProEU so why couldn't DC stay?? A credible #Brexit leader was what everyone called for &amp; now look! 😳,"['proeu', 'brexit']"
-94,94,94,1364637,751856609492631552,182353814,neutral,other,2016-07-09T19:12:39.000Z,"#Brexit #Jeugdstem De Britse jeugd is helemaal niet #proEU ‘remain’-stemmer https://t.co/D58t2jChGW via @TPOnl
+2146280,769887425363574784,742361039879188480,neutral,other,2016-08-28T13:20:40.000Z,I wrote something on #Brexit https://t.co/f7vpx6wqaw #ProEU,"['proeu', 'brexit']"
+1426753,752573864111140864,417004115,neutral,other,2016-07-11T18:42:46.000Z,Both @David_Cameron &amp; Teresa May are #ProEU so why couldn't DC stay?? A credible #Brexit leader was what everyone called for &amp; now look! 😳,"['proeu', 'brexit']"
+627086,747869301307215872,38474832,neutral,other,2016-06-28T19:08:30.000Z,Thousands Attend #Pro-EU Rally In London Despite Cancellation #Brexit https://t.co/0XukAM0isr,"['proeu', 'brexit']"
+1027634,749568914011648000,2783875490,positive,leave,2016-07-03T11:42:10.000Z,@ChukaUmunna I am a vociferous #ProEU advocate who wants #Brexit overturned. I need to speak to more like minded people. Please FOLLOW me!,"['proeu', 'brexit']"
+357595,747449833397551104,354301116,negative,leave,2016-06-27T15:21:41.000Z,"Yes. Because a racist always starts a sentence with, ""I'm a racist"", don't they. #brexit #ProEU https://t.co/nV5BZ5wCUb","['proeu', 'brexit']"
+1342349,751525011295535104,243270604,neutral,other,2016-07-08T21:15:00.000Z,#Brexit causes resurgence in #Pro-EU leanings across continent https://t.co/GAcVGV3gx4,"['proeu', 'brexit']"
+1341572,751515407832457216,38474832,neutral,other,2016-07-08T20:36:50.000Z,#Brexit causes resurgence in #pro-EU leanings across continent https://t.co/FH6B9fM0e0,"['proeu', 'brexit']"
+337036,747422942045306880,1615227336,negative,remain,2016-06-27T13:34:50.000Z,Pity I cant buy @MarshallAmpsUK anymore I really like them. Great tone but I #BoycottUk. That's the ugly side of a #boycott. #ProEU #Brexit,"['proeu', 'brexit', 'boycottuk', 'boycott']"
+338049,747424253788721152,1615227336,positive,leave,2016-06-27T13:40:03.000Z,Lucky I was never into @OrangeAmps or @VOXamps so I don't really miss them. #Brexit #boycottuk #boycottukproducts #boycottukcompanies #ProEU,"['proeu', 'brexit', 'boycottukcompanies', 'boycottuk', 'boycottukproducts']"
+615194,747844110778777600,1543121984,neutral,other,2016-06-28T17:28:24.000Z,Massive turn out for the #ProEU rally on College Green. #Brexit #Bristol https://t.co/3B1gwvCfKq,"['proeu', 'brexit', 'bristol']"
+2080112,767638053246697472,155926407,neutral,other,2016-08-22T08:22:28.000Z,@colinrtalbot @Bob__Hudson Surely there's a massive opening for a #ProEU (or #Brexit lite) policy vacated by #Corbyn and #Tories ?,"['proeu', 'brexit', 'corbyn', 'tories']"
+1716688,756519951054336000,15682928,neutral,other,2016-07-22T16:03:06.000Z,Eurozone economy shows resilience despite Brexit - https://t.co/Iec0rDLLZ6 https://t.co/OuAMgiOxzt #ProEU #Brexit #Freemovement,"['proeu', 'brexit', 'freemovement']"
+1364637,751856609492631552,182353814,neutral,other,2016-07-09T19:12:39.000Z,"#Brexit #Jeugdstem De Britse jeugd is helemaal niet #proEU ‘remain’-stemmer https://t.co/D58t2jChGW via @TPOnl
 FOUTE CONCLUSIE","['proeu', 'brexit', 'jeugdstem']"
-95,95,95,1029538,749578325861994496,2783875490,positive,leave,2016-07-03T12:19:34.000Z,.@andrealeadsom We don't need a #Brexit PM. We need someone who cares about the future of the UK. #ProEU #OverturnBrexitNow,"['proeu', 'brexit', 'overturnbrexitnow']"
-96,96,96,706964,748115281726234624,2603308723,neutral,other,2016-06-29T11:25:57.000Z,"#ProEU #rally held in central London
+1047134,749696929400033280,2273497872,neutral,other,2016-07-03T20:10:51.000Z,"#MarchForEurope: Tens of thousands marched #proEU and against #Brexit but what are the options for keeping #UKinEU?
 
-#brexit https://t.co/owjXl6ac5v https://t.co/tIFL8CPiby","['proeu', 'brexit', 'rally']"
-97,97,97,2320150,774769101646524416,252276052,neutral,other,2016-09-11T00:38:43.000Z,Wonder if @Eurosport_UK will change its name once tossers @Nigel_Farage @BorisJohnson @DavidDavisMP get there #Brexit way #VoteRemain #ProEU,"['proeu', 'brexit', 'voteremain']"
-98,98,98,2021081,765488261141786624,252276052,positive,leave,2016-08-16T09:59:58.000Z,Away to the seaside before #Brexit makes fish and chips become a luxury food..... well done @Nigel_Farage @BorisJohnson #VoteRemain #ProEU,"['proeu', 'brexit', 'voteremain']"
-99,99,99,615194,747844110778777600,1543121984,neutral,other,2016-06-28T17:28:24.000Z,Massive turn out for the #ProEU rally on College Green. #Brexit #Bristol https://t.co/3B1gwvCfKq,"['proeu', 'bristol', 'brexit']"
-100,100,100,2350926,775797994272743424,252276052,negative,other,2016-09-13T20:47:10.000Z,@DavidDavisMP @theresa_may @Nigel_Farage @BorisJohnson @BillCashMP all clueless #Brexit twits #clueless. #VoteRemain 100% @JunckerEU #ProEU,"['proeu', 'clueless', 'brexit', 'voteremain']"
-101,101,101,2080112,767638053246697472,155926407,neutral,other,2016-08-22T08:22:28.000Z,@colinrtalbot @Bob__Hudson Surely there's a massive opening for a #ProEU (or #Brexit lite) policy vacated by #Corbyn and #Tories ?,"['proeu', 'corbyn', 'brexit', 'tories']"
-102,102,102,2063312,766747530466037760,252276052,neutral,other,2016-08-19T21:23:51.000Z,"Why Osborne’s ‘Rambo’ outing is not the way to go after Brexit blow
+https://t.co/YBv2TC4qXa","['proeu', 'brexit', 'marchforeurope', 'ukineu?']"
+1029538,749578325861994496,2783875490,positive,leave,2016-07-03T12:19:34.000Z,.@andrealeadsom We don't need a #Brexit PM. We need someone who cares about the future of the UK. #ProEU #OverturnBrexitNow,"['proeu', 'brexit', 'overturnbrexitnow']"
+313101,747393974873239552,747384822797115520,neutral,remain,2016-06-27T11:39:44.000Z,What are our 3 'Brexit-type' options? https://t.co/rKiKsqcaEX #euref #brexit #proeu #referendum,"['proeu', 'euref', 'referendum', 'brexit']"
+1349715,751670768841416704,351885973,negative,other,2016-07-09T06:54:11.000Z,"#Europeans resurgence in #ProEU leanings post #Brexit is a rejection of hate and fear. Hope remains.
+https://t.co/j2iGBw4L0x","['proeu', 'europeans', 'brexit']"
+2299453,773964330668847104,420368126,neutral,other,2016-09-08T19:20:50.000Z,#EU institutions keep nominating hardcore #proEU #federalists as #Art50 #Brexit #negotiators https://t.co/LmGfLbODGm,"['proeu', 'federalists', 'brexit', 'art50', 'eu', 'negotiators']"
+244453,747294884571156480,95882055,negative,other,2016-06-27T05:05:59.000Z,Boris has shit himself over the weekend. People voted to be out properly. No freedom of movement. Get a grip son. #indyref2 #ProEU #Brexit,"['proeu', 'indyref2', 'brexit']"
+116341,747050458469007360,2656251778,positive,leave,2016-06-26T12:54:43.000Z,Strong @UKLabour paired up with @LibDems to challenge brexit and keep us in EU. It's what we need #wearethe48 #proEU #love,"['proeu', 'love', 'wearethe48']"
+706964,748115281726234624,2603308723,neutral,other,2016-06-29T11:25:57.000Z,"#ProEU #rally held in central London
 
-https://t.co/hz5jUBZT1p #VoteRemain #Bremain #Bremainers #ProEU #EU","['proeu', 'eu', 'bremainers', 'bremain', 'voteremain']"
-103,103,103,625959,747897254711787520,75397872,negative,other,2016-06-28T20:59:35.000Z,"""Cancelled"" anti-Brexit protest in Trafalgar Square. #londonstays #protest #brexit #proeu … https://t.co/F5jOhTUplE https://t.co/Gw1nr6e1cq","['proeu', 'londonstays', 'brexit', 'protest']"
-104,104,104,2401367,777394585601470464,1931515028,positive,other,2016-09-18T06:31:27.000Z,This is Tim Farron's chance to speak for the 48 per cent https://t.co/PAuGFHIkJR #Brexit #strongerin #proEU #NoDust #SavingLabour #Refugees,"['proeu', 'refugees', 'savinglabour', 'strongerin', 'brexit', 'nodust']"
-105,105,105,2015501,765246002743902208,901703629,negative,remain,2016-08-15T17:57:19.000Z,"I follow ALL #Remain #ProEU #BetterIn #voteremain accounts, because I firmly believe in European cooperation. Stop the Brexit nonsense!","['proeu', 'remain', 'voteremain', 'betterin']"
-106,106,106,2263384,773159295433203712,252276052,neutral,remain,2016-09-06T14:01:55.000Z,@theresa_may you were #VoteRemain but now you have turned traitor and sided with #Brexit and that numpty @DavidDavisMP #StrongerIn #ProEU,"['proeu', 'strongerin', 'brexit', 'voteremain']"
-107,107,107,2063282,766746074350546944,252276052,negative,remain,2016-08-19T21:18:04.000Z,Brexit pushes Opel to cut staff hours in Germany - https://t.co/FGC7OSCNe4 #Brexit #Bremain #ProEU #strongerin #VoteRemain #StrongerTogether,"['proeu', 'strongerin', 'strongertogether', 'bremain', 'brexit', 'voteremain']"
-108,108,108,329537,747413476352663552,2154657479,negative,leave,2016-06-27T12:57:13.000Z,My assumption is there won't be any #Brexit . We all know the underlying consequences that follow afterwards. #ProEU fuck #UKIP,"['proeu', 'ukip', 'brexit']"
-109,109,109,678924,748089422554501120,43155698,negative,remain,2016-06-29T09:43:11.000Z,Brexit people moan at us for being upset. Do they realise they've fucked up the whole country? 😰 #farageout #ProEurope #ProEU #votein,"['proeurope', 'proeu', 'votein', 'farageout']"
-110,110,110,2066739,766938639821598720,749925932534788096,positive,other,2016-08-20T10:03:15.000Z,Interesting read. #Brexit plan by @peterc0206 https://t.co/ZTpaVUdhpK #remain #proEU,"['remain', 'brexit', 'proeu']"
-111,111,111,2074877,767415162320068608,749925932534788096,positive,other,2016-08-21T17:36:47.000Z,Great summary of the current positions. Wwll worth the quick read. https://t.co/TJApOzM03G #remain #stay #brexit #proEU,"['remain', 'brexit', 'proeu', 'stay']"
-112,112,112,2066828,766942561084829696,749925932534788096,neutral,remain,2016-08-20T10:18:50.000Z,Getting that #Brexit Deal https://t.co/ImwyX1hiEN via @tony_nog #remain #proEU #proremain,"['remain', 'brexit', 'proremain', 'proeu']"
-113,113,113,626405,747867876787392512,747800040794632320,positive,other,2016-06-28T19:02:51.000Z,Amazing scenes at #Westminster from #ProEu supporters! #Brexit #ScotlandinEurope #S4EU https://t.co/B6pQVbgIr1,"['s4eu', 'proeu', 'scotlandineurope', 'brexit', 'westminster']"
-114,114,114,618642,747851484335869952,254321788,positive,leave,2016-06-28T17:57:42.000Z,How about @LeanneWood lead a #proEU rally at RCT. accept democracy #Brexit #Remain  #senedd @Nigel_Farage @NeilUKIP https://t.co/mjNT7JbeHw,"['senedd', 'remain', 'proeu', 'brexit']"
-115,115,115,1587512,754675514107895808,527372536,neutral,remain,2016-07-17T13:53:58.000Z,"After @vote_leave+#BRexit it is the #proEU #remain-rs #LibDems+ international #socialists who have chip on their shoulder :)
-@AdamShrimpton","['socialists', 'proeu', 'libdems', 'remain-rs']"
-116,116,116,1047134,749696929400033280,2273497872,neutral,other,2016-07-03T20:10:51.000Z,"#MarchForEurope: Tens of thousands marched #proEU and against #Brexit but what are the options for keeping #UKinEU?
-
-https://t.co/YBv2TC4qXa","['ukineu?', 'marchforeurope', 'proeu', 'brexit']"
-117,117,117,791250,748400485019820032,34230483,positive,other,2016-06-30T06:19:14.000Z,#UKPolitics @Conservatives Cannot see a #ProEU #PM Leading #Government:The #People Majority-Voted #Brexit:Many suggest #CrossParty,"['ukpolitics', 'people', 'proeu', 'pm', 'government:the', 'brexit:many', 'crossparty']"
-118,118,118,603849,794262403307356160,252276052,positive,remain,2016-11-03T19:38:08.000Z,Dear @BorisJohnson @theresa_may @Nigel_Farage @BillCashMP @UKIP @DavidDavisMP good verdict in high court against #Brexit #Article50 #ProEU,"['article50', 'proeu', 'brexit']"
-119,119,119,1320234,810873339527000064,252276052,negative,remain,2016-12-19T15:44:04.000Z,Every decent person #Bremain #VoteRemain please boycott @dailyexpressuk @DailyMailUK @TheSun as they are #brexit propoganda bullshit #ProEU,"['brexit', 'bremain', 'proeu', 'voteremain']"
-120,120,120,1367163,813420657564385280,476919502,negative,remain,2016-12-26T16:26:12.000Z,"It's not a shock to Remainers, now the majority. #Remain #BrexitShambles #Brexit #loveEU #proEU #ParliamentisSovereign https://t.co/f6iVGvozsQ","['brexitshambles', 'proeu', 'loveeu', 'parliamentissovereign', 'remain', 'brexit']"
-121,121,121,1242772,807716702897180672,476919502,positive,other,2016-12-10T22:40:43.000Z,I just supported this case! https://t.co/AK5mxf9UZU via @CrowdJustice #Remain #BrexitShambles #loveEU #ParliamentisSovereign #Brexit #proEU,"['brexitshambles', 'proeu', 'loveeu', 'parliamentissovereign', 'remain', 'brexit']"
-122,122,122,1236631,807470577783017472,476919502,positive,remain,2016-12-10T06:22:42.000Z,Oh dear ... https://t.co/8fdihiU6ts #Remain #Brexit #BrexitShambles #ParliamentisSovereign #proEU https://t.co/HgX5pA9ZPT,"['brexitshambles', 'proeu', 'parliamentissovereign', 'remain', 'brexit']"
-123,123,123,495599,791992301581111296,789761823738368000,negative,other,2016-10-28T13:17:33.000Z,Manufacturers demand Britain be allowed to continue trading with EU https://t.co/Yc15BYvPjg via @MailOnline #BREXIT #EU #PROEU,"['eu', 'brexit', 'proeu']"
-124,124,124,1724,782132825051000832,1665031826,positive,other,2016-10-01T08:19:31.000Z,Has #Brexit increased #proEU sentiment in #Europe?https://t.co/leStfD1ZN6,"['europe?https://t.co/lestfd1zn6', 'brexit', 'proeu']"
-125,125,125,966069,799978642080141312,1064199554,neutral,remain,2016-11-19T14:12:25.000Z,It’s a #Eurosceptic fantasy that the ‘#Anglosphere’ wants #Brexit https://t.co/Q3Ivjx1BXf #ProEU #CommowealthISRedundant #Remain #Bremain,"['eurosceptic', 'proeu', 'remain', 'commowealthisredundant', 'bremain', 'brexit']"
-126,126,126,1396490,814925208410877952,124219310,neutral,other,2016-12-30T20:04:44.000Z,#ProEU #fightback: @WINGALLUP #EoY 2016 #poll on #UK #Brexit U-turn https://t.co/fbTBH8lZBO @indy100 @independent @Jessica_E_Brown,"['fightback', 'poll', 'proeu', 'uk', 'eoy', 'brexit']"
-127,127,127,1394313,814823602495299584,156996670,neutral,other,2016-12-30T13:21:00.000Z,#UK PM @theresa_may faces 2017 #proEU #Brexit #fightback https://t.co/dG8HqKOT4P @jessicaelgot @guardian @joecarberryUK @ElspethHoskins,"['fightback', 'uk', 'proeu', 'brexit']"
-128,128,128,346490,788713567591788544,252276052,positive,other,2016-10-19T12:09:02.000Z,#Brexit #VoteRemain #StrongerIn #ProEU #ProEUROPE @JunckerEU @EU_Commission @Europarl_EN dont forget about the 48% #Bremainers #ForEurope https://t.co/KHfJ31s3uF,"['foreurope', 'proeurope', 'proeu', 'strongerin', 'bremainers', 'brexit', 'voteremain']"
-129,129,129,25454,782606900986871808,759791193534242816,neutral,other,2016-10-02T15:43:19.000Z,We need to fight against #Brexit 💪 join the #LibDemFightback - the only #proEU party! https://t.co/puzSPmixeP https://t.co/qPE9bYejRg,"['libdemfightback', 'brexit', 'proeu']"
-130,130,130,1409979,815836358623301632,719983077360078848,neutral,other,2017-01-02T08:25:20.000Z,#Bresistance #brexit my front garden. #nobrexit #EU #proEU https://t.co/6DPHgzqpWp,"['nobrexit', 'proeu', 'bresistance', 'eu', 'brexit']"
-131,131,131,1302750,810022537472200704,719983077360078848,neutral,other,2016-12-17T07:23:17.000Z,On the commmute reading my new European. 👇🏼 #brexit #brexit #proEU #remainer #neweuropean #paper https://t.co/9iKryScGdU,"['paper', 'proeu', 'neweuropean', 'remainer', 'brexit']"
-132,132,132,1120405,804450200035164160,476919502,negative,remain,2016-12-01T22:20:48.000Z,Begone troll! 😆🇪🇺#Remain #Brexit #brexitshambles #proEU #ParliamentisSovereign https://t.co/FmGPZF3pNF,"['parliamentissovereign', 'proeu', 'brexit', 'brexitshambles']"
-133,133,133,1345933,811951319967760384,1064199554,neutral,leave,2016-12-22T15:07:34.000Z,"Somebody DO SOMETHING! 
-Status of the #Irish in #Britain could change after #Brexit says #PrimeMinister https://t.co/3Ra8vhGD5f #ProEU","['primeminister', 'irish', 'proeu', 'britain', 'brexit']"
-134,134,134,75574,783422485601673216,168161185,positive,leave,2016-10-04T21:44:10.000Z,"Couldn't agree more. Current Brexit plan = unicorns, fairy dust and magic beans #ProEU @Anna_Soubry https://t.co/IwGYlj54VM",['proeu']
-135,135,135,1319713,810853235682590720,252276052,positive,other,2016-12-19T14:24:10.000Z,#brexit #brexitshambles #BrexitBritain this is britain before it was in @Europarl_EN @EU_Commission dear @Nigel_Farage @theresa_may #ProEU https://t.co/ii1wg6ZA3L,"['proeu', 'brexit', 'brexitbritain', 'brexitshambles']"
-136,136,136,40981,782898508202385408,252276052,negative,remain,2016-10-03T11:02:04.000Z,@UKParliament if @Conservatives telling @UKLabour to keep quiet in @HouseofCommons cos they lost the election #Brexit #VoteRemain #ProEU,"['proeu', 'brexit', 'voteremain']"
-137,137,137,891305,798154564562223104,351789144,positive,other,2016-11-14T13:24:11.000Z,I really hope this materialises https://t.co/IJcJZebIJL @Independent #Europe #Brexit #ProEU @CharlesGoerens,"['proeu', 'europe', 'brexit']"
-138,138,138,1449566,817109650311102464,550415486,positive,other,2017-01-05T20:44:56.000Z,@LBC Great signing for the station covering the biggest #proEU area in the country. #Windupradio #LBC #LordHawHaw #Brexit ❤️#EU,"['proeu', 'lbc', 'windupradio', 'lordhawhaw', 'brexit']"
-139,139,139,934835,799095475538432000,476919502,neutral,other,2016-11-17T03:43:02.000Z,UK faces £100bn Brexit hole in budget #brexitshambles #Brexit #Remain #StrongerIN #ProEU #ParliamentisSovereign  https://t.co/p9ojV4iNLd,"['proeu', 'parliamentissovereign', 'remain', 'brexit', 'strongerin', 'brexitshambles']"
-140,140,140,1154693,805535338009686016,476919502,positive,remain,2016-12-04T22:12:45.000Z,Let Brexit Happen. Let People Learn https://t.co/b3uAA9OIxs # via @HuffPostUKPol Not a chance! #Remain #Brexit #brexitshambles #proEU,"['proeu', 'remain', 'brexit', 'brexitshambles']"
-141,141,141,931243,798953749838434304,476919502,neutral,remain,2016-11-16T18:19:52.000Z,Guide to EU Citizenship #Remain #brexitshambles #Brexit #proeu  https://t.co/O5KUG6Ss0p,"['proeu', 'remain', 'brexit', 'brexitshambles']"
-142,142,142,322994,788264085876011008,252276052,positive,remain,2016-10-18T06:22:57.000Z,@UKIP in tatters @Nigel_Farage Good news. Just desserts for #Brexit #VoteRemain #StrongerIn @JunckerEU @EU_Commission @NewEuropeans #ProEU,"['proeu', 'strongerin', 'brexit', 'voteremain']"
-143,143,143,1357896,812639230748925952,156996670,neutral,remain,2016-12-24T12:41:05.000Z,New #survey #Wolverhampton #Dudley @expressandstar readers shift from #Brexit to #proEU #UKinEU https://t.co/1uObHwuKQM #StopBrexit,"['proeu', 'ukineu', 'wolverhampton', 'dudley', 'survey', 'brexit', 'stopbrexit']"
-144,144,144,1024136,801604050915573760,476919502,positive,remain,2016-11-24T01:51:13.000Z,I just made a donation to help @SarahJOlney1 win the Richmond Park  https://t.co/55ZOSim82L #Remain #Brexit #proEU #brexitshambles,"['remain', 'brexit', 'brexitshambles', 'proeu']"
-145,145,145,941870,799244634048397312,476919502,negative,other,2016-11-17T13:35:44.000Z,Petition: Formally consult resident EU citizens on whether the UK should leave the EU . https://t.co/C1TMdlXvgD #Brexit #Remain #proEU,"['remain', 'brexit', 'proeu']"
-146,146,146,1236261,807433825588572160,476919502,neutral,remain,2016-12-10T03:56:40.000Z,So sad that this is true. I had such high hopes for Corbyn but I'm one of the abandoned two-thirds. @jeremycorbyn #Remain #Brexit #proEU https://t.co/AD5ceiDpVk,"['remain', 'brexit', 'proeu']"
-147,147,147,1236271,807435324842450944,476919502,positive,other,2016-12-10T04:02:37.000Z,And we were a VIP member too with the best deal of all. And what do we do? We throw it all away like spoilt brats. #Brexit #Remain #proEU https://t.co/9IL5bVWIHl,"['remain', 'brexit', 'proeu']"
-148,148,148,635548,794618279570640896,527372536,negative,leave,2016-11-04T19:12:15.000Z,"#Remain + #proEU judges 'declare war on #democracy' by defying 17.4m #Brexit voters =&gt; constitutional crisis.
-https://t.co/j1ktvg3Hlg","['remain', 'brexit', 'proeu', 'democracy']"
-149,149,149,1171183,805884898275946496,351065029,negative,leave,2016-12-05T21:21:47.000Z,Federalism Week - Being German- The federal way of life https://t.co/4zL853UEO3 via @wordpressdotcom #brexit #ProEu #leave #remain,"['remain', 'leave', 'brexit', 'proeu']"
-150,150,150,1194871,806347308665278464,476919502,neutral,other,2016-12-07T03:59:14.000Z,LSE BREXIT – Brexit is not the will of the British people – it never has been #Remain #Brexit #brexitshambles #proEU https://t.co/fIoFk4hVHH,"['remain', 'proeu', 'brexit', 'brexitshambles']"
-151,151,151,1011168,801367486688018432,81302916,positive,leave,2016-11-23T10:11:12.000Z,Why Germany would be more sympathetic to #Scottish_independence after #Brexit - if #SNP stays #pro_EU.  https://t.co/Ep9HOM7RDN,"['scottish_independence', 'proeu', 'brexit', 'snp']"
-152,152,152,551394,793807672013389824,1064199554,neutral,other,2016-11-02T13:31:11.000Z,#EwanMcGregor 'totally confused' about #ScottishIndependence after #Brexit vote https://t.co/mrD6P3yjwI #NotMyVote #WeAreThe48 #ProEU,"['scottishindependence', 'ewanmcgregor', 'proeu', 'notmyvote', 'wearethe48', 'brexit']"
-153,153,153,895429,798260579970514944,94152234,positive,other,2016-11-14T20:25:27.000Z,Thanks @nickreeves9876 for adding me to the Pro-EU Campaigners list! Let's make some noise! #brexit #ProEU #sropbrexit,"['sropbrexit', 'proeu', 'brexit']"
-154,154,154,32075,782740332412805120,252276052,positive,leave,2016-10-03T00:33:32.000Z,@LiamFoxMP @BorisJohnson @DavidDavisMP the three #Brexit #Stooges. God help britain with these clowns inc @Nigel_Farage @theresa_may #ProEU,"['stooges', 'proeu', 'brexit']"
-155,155,155,687725,795686406530236416,711936734158856192,negative,remain,2016-11-07T17:56:37.000Z,"because the #Tories are against #democracy.  #ProEU #Brexit is a disaster, administered by old guard. #defunct https://t.co/Uic47JCMF8","['tories', 'democracy', 'proeu', 'brexit', 'defunct']"
-156,156,156,1153457,805499320942362624,347510048,negative,other,2016-12-04T19:49:38.000Z,"#UK, #EU -- Powerful forces of the #proEU lobby strike a blow against #Brexit. Here`s how we fight back https://t.co/OMlVtmkIXm","['uk', 'eu', 'proeu', 'brexit']"
-157,157,157,1042678,847539300891754496,252276052,negative,remain,2017-03-30T20:01:30.000Z,"@eucopresident dont tar all people in uk over #brexitshambles. I voted to remain and detest leaving the eu, hate #Article50 #brexit #ProEU","['article50', 'brexit', 'brexitshambles', 'proeu']"
-158,158,158,1509027,861904007299817472,1134262608,negative,other,2017-05-09T11:21:43.000Z,The 48% are being dismissed by @theresa_may &amp; @jeremycorbyn And @timfarron not bold enough #proEU We need a British #Macron! #bbcdp #Brexit,"['brexit', 'bbcdp', 'proeu', 'macron']"
-159,159,159,370777,827297122349379584,50593665,neutral,remain,2017-02-02T23:26:19.000Z,Why oh why #Brexit #Brexitshambles #proEU https://t.co/3CRoIuA7GB,"['brexit', 'brexitshambles', 'proeu']"
-160,160,160,1016819,847204439228383232,4588060343,negative,other,2017-03-29T21:50:53.000Z,I am disgusted by #brexit #Article50 #TheresaMay #britain #uk #LeaveEU It is #madness #insanity #tragic #mistake I am #proeu #proudeuropean,"['britain', 'proeu', 'theresamay', 'insanity', 'article50', 'mistake', 'proudeuropean', 'uk', 'tragic', 'brexit', 'leaveeu', 'madness']"
-161,161,161,898274,845630086313398272,1305414678,neutral,other,2017-03-25T13:34:58.000Z,Sunny #Edinburgh hosts #proEU #march on EU #anniversary #Brexit #Scotland https://t.co/h4qdxloMUt,"['edinburgh', 'proeu', 'march', 'anniversary', 'scotland', 'brexit']"
-162,162,162,1548668,863383774012350464,745331511990362112,positive,other,2017-05-13T13:21:47.000Z,"In the wake of #Brexit , #ProEU parties are making gains throughout #Europe - via @TheEconomist","['europe', 'proeu', 'brexit']"
-163,163,163,1507381,861870607864090624,830095582337314816,positive,leave,2017-05-09T09:09:00.000Z,"Happy #EuropeDay People..  Thanks to the bravery and sacrifices of so many young men, Europe has known peace for 60+ years.  #ProEU #Brexit","['europeday', 'proeu', 'brexit']"
-164,164,164,457745,830376074735403008,40047786,negative,other,2017-02-11T11:20:58.000Z,Regardless of #ProEU/ #brexit views. The #Euro is flawed. Just ask the #Greeks/ #portugese. With #brexit are the #germans getting worried.,"['greeks', 'germans', 'proeu', 'portugese', 'euro', 'brexit']"
-165,165,165,1660365,868127042818236416,17959664,neutral,other,2017-05-26T15:29:50.000Z,Live in #wokingham &amp; oppose @johnredwood's extreme #brexit? the #proEU tactical vote is #libdem https://t.co/TRrYy2SZYA @BestForBritain,"['libdem', 'brexit?', 'proeu', 'wokingham']"
-166,166,166,235416,823880857656197120,628533137,positive,other,2017-01-24T13:11:18.000Z,"Could #LibDems save the nation from #brexit? That would be quite some comeback! We need that, as Labour offer no opposition at all. #proeu","['libdems', 'proeu', 'brexit?']"
-167,167,167,1429352,859660431127957504,719983077360078848,neutral,remain,2017-05-03T06:46:33.000Z,"This. #brexit #brexshit #wreckingball 
-#Remain #proEU #EU #nobrexit #damagingbrexit https://t.co/rqScXQkA8e","['nobrexit', 'proeu', 'damagingbrexit', 'wreckingball', 'remain', 'eu', 'brexit', 'brexshit']"
-168,168,168,1526421,862596267154845696,409161771,neutral,other,2017-05-11T09:12:31.000Z,"the cure for Brexit blindness - tactical voting, make sure you are registered to vote
-#ToriesOut #proEU #nobrexit","['nobrexit', 'proeu', 'toriesout']"
-169,169,169,331575,826542262981099520,484025997,negative,other,2017-01-31T21:26:46.000Z,"@Doener ich habe die Zahlen von https://t.co/qNdnhuJGEG genommen, da ist London 1 Berlin 2. Und in 2 Jahren Brexit 😥 #proEU",['proeu']
-170,170,170,1973130,876290286376431616,409165145,negative,remain,2017-06-18T04:07:39.000Z,"sign the petition to show you do not support brexit https://t.co/ntZTVwcdg2
+#brexit https://t.co/owjXl6ac5v https://t.co/tIFL8CPiby","['proeu', 'rally', 'brexit']"
+2401367,777394585601470464,1931515028,positive,other,2016-09-18T06:31:27.000Z,This is Tim Farron's chance to speak for the 48 per cent https://t.co/PAuGFHIkJR #Brexit #strongerin #proEU #NoDust #SavingLabour #Refugees,"['proeu', 'refugees', 'strongerin', 'brexit', 'savinglabour', 'nodust']"
+2063282,766746074350546944,252276052,negative,remain,2016-08-19T21:18:04.000Z,Brexit pushes Opel to cut staff hours in Germany - https://t.co/FGC7OSCNe4 #Brexit #Bremain #ProEU #strongerin #VoteRemain #StrongerTogether,"['proeu', 'strongerin', 'brexit', 'strongertogether', 'voteremain', 'bremain']"
+329537,747413476352663552,2154657479,negative,leave,2016-06-27T12:57:13.000Z,My assumption is there won't be any #Brexit . We all know the underlying consequences that follow afterwards. #ProEU fuck #UKIP,"['proeu', 'ukip', 'brexit']"
+791250,748400485019820032,34230483,positive,other,2016-06-30T06:19:14.000Z,#UKPolitics @Conservatives Cannot see a #ProEU #PM Leading #Government:The #People Majority-Voted #Brexit:Many suggest #CrossParty,"['proeu', 'ukpolitics', 'pm', 'crossparty', 'brexit:many', 'government:the', 'people']"
+678924,748089422554501120,43155698,negative,remain,2016-06-29T09:43:11.000Z,Brexit people moan at us for being upset. Do they realise they've fucked up the whole country? 😰 #farageout #ProEurope #ProEU #votein,"['proeu', 'votein', 'farageout', 'proeurope']"
+2320150,774769101646524416,252276052,neutral,other,2016-09-11T00:38:43.000Z,Wonder if @Eurosport_UK will change its name once tossers @Nigel_Farage @BorisJohnson @DavidDavisMP get there #Brexit way #VoteRemain #ProEU,"['proeu', 'voteremain', 'brexit']"
+2021081,765488261141786624,252276052,positive,leave,2016-08-16T09:59:58.000Z,Away to the seaside before #Brexit makes fish and chips become a luxury food..... well done @Nigel_Farage @BorisJohnson #VoteRemain #ProEU,"['proeu', 'voteremain', 'brexit']"
+2263384,773159295433203712,252276052,neutral,remain,2016-09-06T14:01:55.000Z,@theresa_may you were #VoteRemain but now you have turned traitor and sided with #Brexit and that numpty @DavidDavisMP #StrongerIn #ProEU,"['proeu', 'voteremain', 'brexit', 'strongerin']"
+2015501,765246002743902208,901703629,negative,remain,2016-08-15T17:57:19.000Z,"I follow ALL #Remain #ProEU #BetterIn #voteremain accounts, because I firmly believe in European cooperation. Stop the Brexit nonsense!","['remain', 'proeu', 'betterin', 'voteremain']"
+2066739,766938639821598720,749925932534788096,positive,other,2016-08-20T10:03:15.000Z,Interesting read. #Brexit plan by @peterc0206 https://t.co/ZTpaVUdhpK #remain #proEU,"['remain', 'proeu', 'brexit']"
+618642,747851484335869952,254321788,positive,leave,2016-06-28T17:57:42.000Z,How about @LeanneWood lead a #proEU rally at RCT. accept democracy #Brexit #Remain  #senedd @Nigel_Farage @NeilUKIP https://t.co/mjNT7JbeHw,"['remain', 'proeu', 'brexit', 'senedd']"
+2066828,766942561084829696,749925932534788096,neutral,remain,2016-08-20T10:18:50.000Z,Getting that #Brexit Deal https://t.co/ImwyX1hiEN via @tony_nog #remain #proEU #proremain,"['remain', 'proeu', 'proremain', 'brexit']"
+2074877,767415162320068608,749925932534788096,positive,other,2016-08-21T17:36:47.000Z,Great summary of the current positions. Wwll worth the quick read. https://t.co/TJApOzM03G #remain #stay #brexit #proEU,"['remain', 'proeu', 'stay', 'brexit']"
+1587512,754675514107895808,527372536,neutral,remain,2016-07-17T13:53:58.000Z,"After @vote_leave+#BRexit it is the #proEU #remain-rs #LibDems+ international #socialists who have chip on their shoulder :)
+@AdamShrimpton","['socialists', 'proeu', 'remain-rs', 'libdems']"
+1153457,805499320942362624,347510048,negative,other,2016-12-04T19:49:38.000Z,"#UK, #EU -- Powerful forces of the #proEU lobby strike a blow against #Brexit. Here`s how we fight back https://t.co/OMlVtmkIXm","['brexit', 'eu', 'uk', 'proeu']"
+1319713,810853235682590720,252276052,positive,other,2016-12-19T14:24:10.000Z,#brexit #brexitshambles #BrexitBritain this is britain before it was in @Europarl_EN @EU_Commission dear @Nigel_Farage @theresa_may #ProEU https://t.co/ii1wg6ZA3L,"['brexitbritain', 'proeu', 'brexitshambles', 'brexit']"
+1396490,814925208410877952,124219310,neutral,other,2016-12-30T20:04:44.000Z,#ProEU #fightback: @WINGALLUP #EoY 2016 #poll on #UK #Brexit U-turn https://t.co/fbTBH8lZBO @indy100 @independent @Jessica_E_Brown,"['eoy', 'proeu', 'fightback', 'brexit', 'uk', 'poll']"
+495599,791992301581111296,789761823738368000,negative,other,2016-10-28T13:17:33.000Z,Manufacturers demand Britain be allowed to continue trading with EU https://t.co/Yc15BYvPjg via @MailOnline #BREXIT #EU #PROEU,"['eu', 'brexit', 'proeu']"
+1449566,817109650311102464,550415486,positive,other,2017-01-05T20:44:56.000Z,@LBC Great signing for the station covering the biggest #proEU area in the country. #Windupradio #LBC #LordHawHaw #Brexit ❤️#EU,"['lordhawhaw', 'proeu', 'brexit', 'lbc', 'windupradio']"
+1120405,804450200035164160,476919502,negative,remain,2016-12-01T22:20:48.000Z,Begone troll! 😆🇪🇺#Remain #Brexit #brexitshambles #proEU #ParliamentisSovereign https://t.co/FmGPZF3pNF,"['parliamentissovereign', 'proeu', 'brexit', 'brexitshambles']"
+75574,783422485601673216,168161185,positive,leave,2016-10-04T21:44:10.000Z,"Couldn't agree more. Current Brexit plan = unicorns, fairy dust and magic beans #ProEU @Anna_Soubry https://t.co/IwGYlj54VM",['proeu']
+603849,794262403307356160,252276052,positive,remain,2016-11-03T19:38:08.000Z,Dear @BorisJohnson @theresa_may @Nigel_Farage @BillCashMP @UKIP @DavidDavisMP good verdict in high court against #Brexit #Article50 #ProEU,"['proeu', 'article50', 'brexit']"
+346490,788713567591788544,252276052,positive,other,2016-10-19T12:09:02.000Z,#Brexit #VoteRemain #StrongerIn #ProEU #ProEUROPE @JunckerEU @EU_Commission @Europarl_EN dont forget about the 48% #Bremainers #ForEurope https://t.co/KHfJ31s3uF,"['proeu', 'brexit', 'bremainers', 'proeurope', 'voteremain', 'foreurope', 'strongerin']"
+1724,782132825051000832,1665031826,positive,other,2016-10-01T08:19:31.000Z,Has #Brexit increased #proEU sentiment in #Europe?https://t.co/leStfD1ZN6,"['proeu', 'brexit', 'europe?https://t.co/lestfd1zn6']"
+1394313,814823602495299584,156996670,neutral,other,2016-12-30T13:21:00.000Z,#UK PM @theresa_may faces 2017 #proEU #Brexit #fightback https://t.co/dG8HqKOT4P @jessicaelgot @guardian @joecarberryUK @ElspethHoskins,"['proeu', 'brexit', 'fightback', 'uk']"
+25454,782606900986871808,759791193534242816,neutral,other,2016-10-02T15:43:19.000Z,We need to fight against #Brexit 💪 join the #LibDemFightback - the only #proEU party! https://t.co/puzSPmixeP https://t.co/qPE9bYejRg,"['proeu', 'brexit', 'libdemfightback']"
+1357896,812639230748925952,156996670,neutral,remain,2016-12-24T12:41:05.000Z,New #survey #Wolverhampton #Dudley @expressandstar readers shift from #Brexit to #proEU #UKinEU https://t.co/1uObHwuKQM #StopBrexit,"['proeu', 'brexit', 'survey', 'stopbrexit', 'dudley', 'ukineu', 'wolverhampton']"
+687725,795686406530236416,711936734158856192,negative,remain,2016-11-07T17:56:37.000Z,"because the #Tories are against #democracy.  #ProEU #Brexit is a disaster, administered by old guard. #defunct https://t.co/Uic47JCMF8","['proeu', 'defunct', 'brexit', 'democracy', 'tories']"
+891305,798154564562223104,351789144,positive,other,2016-11-14T13:24:11.000Z,I really hope this materialises https://t.co/IJcJZebIJL @Independent #Europe #Brexit #ProEU @CharlesGoerens,"['proeu', 'europe', 'brexit']"
+1345933,811951319967760384,1064199554,neutral,leave,2016-12-22T15:07:34.000Z,"Somebody DO SOMETHING! 
+Status of the #Irish in #Britain could change after #Brexit says #PrimeMinister https://t.co/3Ra8vhGD5f #ProEU","['proeu', 'irish', 'primeminister', 'brexit', 'britain']"
+1409979,815836358623301632,719983077360078848,neutral,other,2017-01-02T08:25:20.000Z,#Bresistance #brexit my front garden. #nobrexit #EU #proEU https://t.co/6DPHgzqpWp,"['proeu', 'nobrexit', 'bresistance', 'brexit', 'eu']"
+551394,793807672013389824,1064199554,neutral,other,2016-11-02T13:31:11.000Z,#EwanMcGregor 'totally confused' about #ScottishIndependence after #Brexit vote https://t.co/mrD6P3yjwI #NotMyVote #WeAreThe48 #ProEU,"['proeu', 'notmyvote', 'scottishindependence', 'ewanmcgregor', 'brexit', 'wearethe48']"
+895429,798260579970514944,94152234,positive,other,2016-11-14T20:25:27.000Z,Thanks @nickreeves9876 for adding me to the Pro-EU Campaigners list! Let's make some noise! #brexit #ProEU #sropbrexit,"['proeu', 'sropbrexit', 'brexit']"
+32075,782740332412805120,252276052,positive,leave,2016-10-03T00:33:32.000Z,@LiamFoxMP @BorisJohnson @DavidDavisMP the three #Brexit #Stooges. God help britain with these clowns inc @Nigel_Farage @theresa_may #ProEU,"['proeu', 'stooges', 'brexit']"
+1320234,810873339527000064,252276052,negative,remain,2016-12-19T15:44:04.000Z,Every decent person #Bremain #VoteRemain please boycott @dailyexpressuk @DailyMailUK @TheSun as they are #brexit propoganda bullshit #ProEU,"['proeu', 'voteremain', 'bremain', 'brexit']"
+40981,782898508202385408,252276052,negative,remain,2016-10-03T11:02:04.000Z,@UKParliament if @Conservatives telling @UKLabour to keep quiet in @HouseofCommons cos they lost the election #Brexit #VoteRemain #ProEU,"['proeu', 'voteremain', 'brexit']"
+322994,788264085876011008,252276052,positive,remain,2016-10-18T06:22:57.000Z,@UKIP in tatters @Nigel_Farage Good news. Just desserts for #Brexit #VoteRemain #StrongerIn @JunckerEU @EU_Commission @NewEuropeans #ProEU,"['proeu', 'voteremain', 'brexit', 'strongerin']"
+931243,798953749838434304,476919502,neutral,remain,2016-11-16T18:19:52.000Z,Guide to EU Citizenship #Remain #brexitshambles #Brexit #proeu  https://t.co/O5KUG6Ss0p,"['remain', 'brexit', 'brexitshambles', 'proeu']"
+1171183,805884898275946496,351065029,negative,leave,2016-12-05T21:21:47.000Z,Federalism Week - Being German- The federal way of life https://t.co/4zL853UEO3 via @wordpressdotcom #brexit #ProEu #leave #remain,"['remain', 'leave', 'proeu', 'brexit']"
+941870,799244634048397312,476919502,negative,other,2016-11-17T13:35:44.000Z,Petition: Formally consult resident EU citizens on whether the UK should leave the EU . https://t.co/C1TMdlXvgD #Brexit #Remain #proEU,"['remain', 'proeu', 'brexit']"
+1236271,807435324842450944,476919502,positive,other,2016-12-10T04:02:37.000Z,And we were a VIP member too with the best deal of all. And what do we do? We throw it all away like spoilt brats. #Brexit #Remain #proEU https://t.co/9IL5bVWIHl,"['remain', 'proeu', 'brexit']"
+1236261,807433825588572160,476919502,neutral,remain,2016-12-10T03:56:40.000Z,So sad that this is true. I had such high hopes for Corbyn but I'm one of the abandoned two-thirds. @jeremycorbyn #Remain #Brexit #proEU https://t.co/AD5ceiDpVk,"['remain', 'proeu', 'brexit']"
+1024136,801604050915573760,476919502,positive,remain,2016-11-24T01:51:13.000Z,I just made a donation to help @SarahJOlney1 win the Richmond Park  https://t.co/55ZOSim82L #Remain #Brexit #proEU #brexitshambles,"['remain', 'proeu', 'brexit', 'brexitshambles']"
+1154693,805535338009686016,476919502,positive,remain,2016-12-04T22:12:45.000Z,Let Brexit Happen. Let People Learn https://t.co/b3uAA9OIxs # via @HuffPostUKPol Not a chance! #Remain #Brexit #brexitshambles #proEU,"['remain', 'proeu', 'brexit', 'brexitshambles']"
+1194871,806347308665278464,476919502,neutral,other,2016-12-07T03:59:14.000Z,LSE BREXIT – Brexit is not the will of the British people – it never has been #Remain #Brexit #brexitshambles #proEU https://t.co/fIoFk4hVHH,"['remain', 'proeu', 'brexit', 'brexitshambles']"
+635548,794618279570640896,527372536,negative,leave,2016-11-04T19:12:15.000Z,"#Remain + #proEU judges 'declare war on #democracy' by defying 17.4m #Brexit voters =&gt; constitutional crisis.
+https://t.co/j1ktvg3Hlg","['remain', 'proeu', 'brexit', 'democracy']"
+1236631,807470577783017472,476919502,positive,remain,2016-12-10T06:22:42.000Z,Oh dear ... https://t.co/8fdihiU6ts #Remain #Brexit #BrexitShambles #ParliamentisSovereign #proEU https://t.co/HgX5pA9ZPT,"['remain', 'proeu', 'brexit', 'parliamentissovereign', 'brexitshambles']"
+966069,799978642080141312,1064199554,neutral,remain,2016-11-19T14:12:25.000Z,It’s a #Eurosceptic fantasy that the ‘#Anglosphere’ wants #Brexit https://t.co/Q3Ivjx1BXf #ProEU #CommowealthISRedundant #Remain #Bremain,"['remain', 'proeu', 'commowealthisredundant', 'brexit', 'bremain', 'eurosceptic']"
+1242772,807716702897180672,476919502,positive,other,2016-12-10T22:40:43.000Z,I just supported this case! https://t.co/AK5mxf9UZU via @CrowdJustice #Remain #BrexitShambles #loveEU #ParliamentisSovereign #Brexit #proEU,"['remain', 'proeu', 'loveeu', 'brexit', 'parliamentissovereign', 'brexitshambles']"
+1367163,813420657564385280,476919502,negative,remain,2016-12-26T16:26:12.000Z,"It's not a shock to Remainers, now the majority. #Remain #BrexitShambles #Brexit #loveEU #proEU #ParliamentisSovereign https://t.co/f6iVGvozsQ","['remain', 'proeu', 'loveeu', 'brexit', 'parliamentissovereign', 'brexitshambles']"
+934835,799095475538432000,476919502,neutral,other,2016-11-17T03:43:02.000Z,UK faces £100bn Brexit hole in budget #brexitshambles #Brexit #Remain #StrongerIN #ProEU #ParliamentisSovereign  https://t.co/p9ojV4iNLd,"['remain', 'proeu', 'strongerin', 'brexit', 'parliamentissovereign', 'brexitshambles']"
+1302750,810022537472200704,719983077360078848,neutral,other,2016-12-17T07:23:17.000Z,On the commmute reading my new European. 👇🏼 #brexit #brexit #proEU #remainer #neweuropean #paper https://t.co/9iKryScGdU,"['remainer', 'paper', 'proeu', 'neweuropean', 'brexit']"
+1011168,801367486688018432,81302916,positive,leave,2016-11-23T10:11:12.000Z,Why Germany would be more sympathetic to #Scottish_independence after #Brexit - if #SNP stays #pro_EU.  https://t.co/Ep9HOM7RDN,"['scottish_independence', 'snp', 'brexit', 'proeu']"
+1966364,875993459664064512,179561005,neutral,other,2017-06-17T08:28:10.000Z,Perhaps the Brexit talks could be a renegotiation of our place within the EU:  https://t.co/ffE7SXjQqL #Breixt #ProEU,"['breixt', 'proeu']"
+370777,827297122349379584,50593665,neutral,remain,2017-02-02T23:26:19.000Z,Why oh why #Brexit #Brexitshambles #proEU https://t.co/3CRoIuA7GB,"['brexitshambles', 'brexit', 'proeu']"
+46344,819662529765015552,719983077360078848,neutral,remain,2017-01-12T21:49:10.000Z,This #Brexit #brexitshambles  #remain #proEU #eu #nationalshame https://t.co/D63PxfXv7H,"['eu', 'proeu', 'nationalshame', 'remain', 'brexit', 'brexitshambles']"
+652055,837761847369609216,719983077360078848,negative,remain,2017-03-03T20:29:23.000Z,"Still proud to say i voted remain. Hate Brexit. Go on say what you want, I'll always hate it. #brexit #remain #eu #proeu #broken https://t.co/u4YxwCkM9e","['eu', 'proeu', 'remain', 'broken', 'brexit']"
+1899586,874196456445538304,185789804,positive,other,2017-06-12T09:27:31.000Z,Damian Green: May's loyal political friend and #pro-EU advocate #GE2017 #Brexit  https://t.co/mZhuZxMU12,"['ge2017', 'brexit', 'proeu']"
+457745,830376074735403008,40047786,negative,other,2017-02-11T11:20:58.000Z,Regardless of #ProEU/ #brexit views. The #Euro is flawed. Just ask the #Greeks/ #portugese. With #brexit are the #germans getting worried.,"['greeks', 'portugese', 'proeu', 'brexit', 'euro', 'germans']"
+1016819,847204439228383232,4588060343,negative,other,2017-03-29T21:50:53.000Z,I am disgusted by #brexit #Article50 #TheresaMay #britain #uk #LeaveEU It is #madness #insanity #tragic #mistake I am #proeu #proudeuropean,"['leaveeu', 'proeu', 'proudeuropean', 'article50', 'mistake', 'insanity', 'uk', 'britain', 'brexit', 'madness', 'tragic', 'theresamay']"
+235416,823880857656197120,628533137,positive,other,2017-01-24T13:11:18.000Z,"Could #LibDems save the nation from #brexit? That would be quite some comeback! We need that, as Labour offer no opposition at all. #proeu","['libdems', 'brexit?', 'proeu']"
+1726769,870139040103837696,409161771,negative,remain,2017-06-01T04:44:48.000Z,"I’m not voting Lab unless JC vows to stop Brexit and understands contribution immigrants make to UK economy, no FOM, no Single Market #proEU",['proeu']
+331575,826542262981099520,484025997,negative,other,2017-01-31T21:26:46.000Z,"@Doener ich habe die Zahlen von https://t.co/qNdnhuJGEG genommen, da ist London 1 Berlin 2. Und in 2 Jahren Brexit 😥 #proEU",['proeu']
+1973130,876290286376431616,409165145,negative,remain,2017-06-18T04:07:39.000Z,"sign the petition to show you do not support brexit https://t.co/ntZTVwcdg2
 #proEU",['proeu']
-171,171,171,1973131,876290286279905280,409161771,negative,remain,2017-06-18T04:07:39.000Z,"sign the petition to show you do not support brexit https://t.co/41nt14GjRn
+1973131,876290286279905280,409161771,negative,remain,2017-06-18T04:07:39.000Z,"sign the petition to show you do not support brexit https://t.co/41nt14GjRn
 #proEU",['proeu']
-172,172,172,1726769,870139040103837696,409161771,negative,remain,2017-06-01T04:44:48.000Z,"I’m not voting Lab unless JC vows to stop Brexit and understands contribution immigrants make to UK economy, no FOM, no Single Market #proEU",['proeu']
-173,173,173,1966364,875993459664064512,179561005,neutral,other,2017-06-17T08:28:10.000Z,Perhaps the Brexit talks could be a renegotiation of our place within the EU:  https://t.co/ffE7SXjQqL #Breixt #ProEU,"['proeu', 'breixt']"
-174,174,174,124805,821401444456734720,252276052,positive,other,2017-01-17T16:58:59.000Z,Dear @JunckerEU @MartinSchulz @eucopresident @GuyVerhofstadt @Europarl_EN not all the uk is for #brexit dont tar us with same brush #ProEU,"['proeu', 'brexit']"
-175,175,175,989118,847060185164271616,578520632,neutral,leave,2017-03-29T12:17:40.000Z,"Rather than independence day, today will be remembered as the day Britain steps back 40 years. #Brexit #ProEU","['proeu', 'brexit']"
-176,176,176,1899586,874196456445538304,185789804,positive,other,2017-06-12T09:27:31.000Z,Damian Green: May's loyal political friend and #pro-EU advocate #GE2017 #Brexit  https://t.co/mZhuZxMU12,"['proeu', 'brexit', 'ge2017']"
-177,177,177,4012,818039901400760320,719983077360078848,negative,remain,2017-01-08T10:21:25.000Z,This mornings thought for the day. #brexit #EU #proEU #brexitshambles #brexitisbrexit #bullshit https://t.co/SrqDkSZEj5,"['proeu', 'eu', 'bullshit', 'brexitisbrexit', 'brexit', 'brexitshambles']"
-178,178,178,1209874,853549933785382912,1931515028,negative,remain,2017-04-16T10:05:37.000Z,".@BrexitDogs Post Brexit, Millie the collie protests the whole country is going to pot! #Brexit #ProEU #ProgressiveAlliance #LibDems #Labour https://t.co/ljPBc9FjXk","['proeu', 'libdems', 'progressivealliance', 'labour', 'brexit']"
-179,179,179,1874576,873647439814774784,2724368082,negative,remain,2017-06-10T21:05:55.000Z,"#Remain groups were WRONG to back @jeremycorbyn in #GE2017 Now we have ""80% voted for #Brexit"" nonsense! The only #ProEU party are @LibDems.","['proeu', 'remain', 'brexit', 'ge2017']"
-180,180,180,770448,841576608800624640,123513362,positive,other,2017-03-14T09:07:53.000Z,Interesting to get the opinion of staunch #ProEU #Liberals &amp; #HumanRights #Remain supporters on this ruling. #Brexit @SkyNews https://t.co/sEDuiwzgFW,"['proeu', 'remain', 'liberals', 'humanrights', 'brexit']"
-181,181,181,40172,819456930762653696,819208200532688896,positive,other,2017-01-12T08:12:11.000Z,'Hard Brexit greatest threat to UK universities' Do you agree? https://t.co/L9lERACyWb #YesEU #Brexit #ProEU #Remain @independent,"['proeu', 'remain', 'yeseu', 'brexit']"
-182,182,182,590682,835577965039714304,17361663,neutral,other,2017-02-25T19:51:25.000Z,"This is #BrexitBritain
+1042678,847539300891754496,252276052,negative,remain,2017-03-30T20:01:30.000Z,"@eucopresident dont tar all people in uk over #brexitshambles. I voted to remain and detest leaving the eu, hate #Article50 #brexit #ProEU","['proeu', 'article50', 'brexitshambles', 'brexit']"
+124805,821401444456734720,252276052,positive,other,2017-01-17T16:58:59.000Z,Dear @JunckerEU @MartinSchulz @eucopresident @GuyVerhofstadt @Europarl_EN not all the uk is for #brexit dont tar us with same brush #ProEU,"['proeu', 'brexit']"
+989118,847060185164271616,578520632,neutral,leave,2017-03-29T12:17:40.000Z,"Rather than independence day, today will be remembered as the day Britain steps back 40 years. #Brexit #ProEU","['proeu', 'brexit']"
+898274,845630086313398272,1305414678,neutral,other,2017-03-25T13:34:58.000Z,Sunny #Edinburgh hosts #proEU #march on EU #anniversary #Brexit #Scotland https://t.co/h4qdxloMUt,"['proeu', 'brexit', 'anniversary', 'edinburgh', 'scotland', 'march']"
+1507381,861870607864090624,830095582337314816,positive,leave,2017-05-09T09:09:00.000Z,"Happy #EuropeDay People..  Thanks to the bravery and sacrifices of so many young men, Europe has known peace for 60+ years.  #ProEU #Brexit","['proeu', 'brexit', 'europeday']"
+1509027,861904007299817472,1134262608,negative,other,2017-05-09T11:21:43.000Z,The 48% are being dismissed by @theresa_may &amp; @jeremycorbyn And @timfarron not bold enough #proEU We need a British #Macron! #bbcdp #Brexit,"['proeu', 'brexit', 'macron', 'bbcdp']"
+1209874,853549933785382912,1931515028,negative,remain,2017-04-16T10:05:37.000Z,".@BrexitDogs Post Brexit, Millie the collie protests the whole country is going to pot! #Brexit #ProEU #ProgressiveAlliance #LibDems #Labour https://t.co/ljPBc9FjXk","['proeu', 'brexit', 'progressivealliance', 'libdems', 'labour']"
+4012,818039901400760320,719983077360078848,negative,remain,2017-01-08T10:21:25.000Z,This mornings thought for the day. #brexit #EU #proEU #brexitshambles #brexitisbrexit #bullshit https://t.co/SrqDkSZEj5,"['proeu', 'bullshit', 'brexitisbrexit', 'brexit', 'eu', 'brexitshambles']"
+1548668,863383774012350464,745331511990362112,positive,other,2017-05-13T13:21:47.000Z,"In the wake of #Brexit , #ProEU parties are making gains throughout #Europe - via @TheEconomist","['proeu', 'europe', 'brexit']"
+1526421,862596267154845696,409161771,neutral,other,2017-05-11T09:12:31.000Z,"the cure for Brexit blindness - tactical voting, make sure you are registered to vote
+#ToriesOut #proEU #nobrexit","['proeu', 'nobrexit', 'toriesout']"
+40172,819456930762653696,819208200532688896,positive,other,2017-01-12T08:12:11.000Z,'Hard Brexit greatest threat to UK universities' Do you agree? https://t.co/L9lERACyWb #YesEU #Brexit #ProEU #Remain @independent,"['proeu', 'remain', 'yeseu', 'brexit']"
+1331426,857154964753448960,1134262608,negative,other,2017-04-26T08:50:43.000Z,Do @LibDems impede the values they purport to stand 4? Wouldn't an open liberal #ProEU #RemainParty pledge to #reverse Brexit? #OpposeBrexit https://t.co/xiQHW4elun,"['proeu', 'reverse', 'opposebrexit', 'remainparty']"
+1560102,863754666336759808,1134262608,positive,other,2017-05-14T13:55:34.000Z,@DavidJo52951945 Staunch #Remainers did not want a 2nd ref. They wanted @libdems to pledge to #reverse Brexit in manifesto. Be bold #proEU like Macron!,"['proeu', 'reverse', 'remainers']"
+1117261,849248175043076096,774995564912054272,neutral,other,2017-04-04T13:11:57.000Z,@RCorbettMEP @MarkEuromark @EU_CoR @BrexitWatch @brexitaffairs @lsebrexitvote @Brexit @euromove @_Britain4Europe @labour4europe @Labour4EU @Open_Britain @Keir_Starmer #stopbrexit #TheresaMay ignoring more than half the population of #UK @EU_CoR #ProEU Mp's must work together #ToriesOut @CollaborationEU https://t.co/IliNaHd4Kj,"['proeu', 'stopbrexit', 'toriesout', 'theresamay', 'uk']"
+1536879,862924046861840384,409161771,positive,leave,2017-05-12T06:54:59.000Z,"if Brexit were a tug of war - there would be the super rich on one side pulling us over the cliff
+#ToriesOut #TacticalVoting #proEU","['proeu', 'toriesout', 'tacticalvoting']"
+1232114,854306987647135744,3089966869,neutral,leave,2017-04-18T12:13:52.000Z,"""We need an anti-Brexit alliance and we need it now"" #proEU #Remain https://t.co/MOzlSmYv9r","['remain', 'proeu']"
+337531,826731551434141696,3070443321,neutral,other,2017-02-01T09:58:56.000Z,"Witty speech from Ken Clarke who hits out at Tories ""Wonderland"" #brexit #remain #proEU @KCQCMP @ https://t.co/vTTGR0kmNh via @BIUK_Politics","['remain', 'proeu', 'brexit']"
+1429352,859660431127957504,719983077360078848,neutral,remain,2017-05-03T06:46:33.000Z,"This. #brexit #brexshit #wreckingball 
+#Remain #proEU #EU #nobrexit #damagingbrexit https://t.co/rqScXQkA8e","['remain', 'proeu', 'brexshit', 'wreckingball', 'nobrexit', 'damagingbrexit', 'brexit', 'eu']"
+1874576,873647439814774784,2724368082,negative,remain,2017-06-10T21:05:55.000Z,"#Remain groups were WRONG to back @jeremycorbyn in #GE2017 Now we have ""80% voted for #Brexit"" nonsense! The only #ProEU party are @LibDems.","['remain', 'proeu', 'ge2017', 'brexit']"
+770448,841576608800624640,123513362,positive,other,2017-03-14T09:07:53.000Z,Interesting to get the opinion of staunch #ProEU #Liberals &amp; #HumanRights #Remain supporters on this ruling. #Brexit @SkyNews https://t.co/sEDuiwzgFW,"['remain', 'proeu', 'humanrights', 'liberals', 'brexit']"
+1336432,857253484692987904,1134262608,positive,remain,2017-04-26T15:22:12.000Z,"@RosChappell @marcuschown Agree LibDems are not #proEU #Remain party, otherwise they'd be offering to #reverse Brexit.","['remain', 'proeu', 'reverse']"
+897903,845621285153574912,21617980,positive,other,2017-03-25T12:59:59.000Z,"Wow, huge crowds outside Parliament for #UniteForEurope  - nearly joined them myself. #proEU #brexit #Remain https://t.co/DfTfDkut1q","['remain', 'uniteforeurope', 'proeu', 'brexit']"
+1739221,870380782321270784,1134262608,negative,other,2017-06-01T20:45:24.000Z,@SusanPickin @timfarron Not true. Macron is clearly #proEU. @timfarron himself said he was Eurosceptic and he did not offer to #reverse Brexit in his manifesto.,"['reverse', 'proeu']"
+919108,846308499625783296,2523269705,negative,other,2017-03-27T10:30:44.000Z,"@BBCNews @BBCWorld Why so much attention on failed #Ukip ...100,000 March against #Brexit and #pro-Eu  That is news!","['ukip', 'brexit', 'proeu']"
+590682,835577965039714304,17361663,neutral,other,2017-02-25T19:51:25.000Z,"This is #BrexitBritain
 
-#RejectTrump #RejectBrexit #Trump #Ukip #NoWayMay #HardBrexit #saturdaymorning #ProEU #AntiTrump #AntiBrexit #Brexit https://t.co/2IKH2hrrGK","['rejectbrexit', 'hardbrexit', 'proeu', 'trump', 'antibrexit', 'rejecttrump', 'brexitbritain', 'nowaymay', 'antitrump', 'ukip', 'saturdaymorning', 'brexit']"
-183,183,183,337531,826731551434141696,3070443321,neutral,other,2017-02-01T09:58:56.000Z,"Witty speech from Ken Clarke who hits out at Tories ""Wonderland"" #brexit #remain #proEU @KCQCMP @ https://t.co/vTTGR0kmNh via @BIUK_Politics","['remain', 'brexit', 'proeu']"
-184,184,184,1232114,854306987647135744,3089966869,neutral,leave,2017-04-18T12:13:52.000Z,"""We need an anti-Brexit alliance and we need it now"" #proEU #Remain https://t.co/MOzlSmYv9r","['remain', 'proeu']"
-185,185,185,652055,837761847369609216,719983077360078848,negative,remain,2017-03-03T20:29:23.000Z,"Still proud to say i voted remain. Hate Brexit. Go on say what you want, I'll always hate it. #brexit #remain #eu #proeu #broken https://t.co/u4YxwCkM9e","['remain', 'proeu', 'eu', 'brexit', 'broken']"
-186,186,186,46344,819662529765015552,719983077360078848,neutral,remain,2017-01-12T21:49:10.000Z,This #Brexit #brexitshambles  #remain #proEU #eu #nationalshame https://t.co/D63PxfXv7H,"['remain', 'proeu', 'nationalshame', 'eu', 'brexit', 'brexitshambles']"
-187,187,187,1336432,857253484692987904,1134262608,positive,remain,2017-04-26T15:22:12.000Z,"@RosChappell @marcuschown Agree LibDems are not #proEU #Remain party, otherwise they'd be offering to #reverse Brexit.","['remain', 'proeu', 'reverse']"
-188,188,188,897903,845621285153574912,21617980,positive,other,2017-03-25T12:59:59.000Z,"Wow, huge crowds outside Parliament for #UniteForEurope  - nearly joined them myself. #proEU #brexit #Remain https://t.co/DfTfDkut1q","['remain', 'uniteforeurope', 'brexit', 'proeu']"
-189,189,189,1560102,863754666336759808,1134262608,positive,other,2017-05-14T13:55:34.000Z,@DavidJo52951945 Staunch #Remainers did not want a 2nd ref. They wanted @libdems to pledge to #reverse Brexit in manifesto. Be bold #proEU like Macron!,"['remainers', 'reverse', 'proeu']"
-190,190,190,1331426,857154964753448960,1134262608,negative,other,2017-04-26T08:50:43.000Z,Do @LibDems impede the values they purport to stand 4? Wouldn't an open liberal #ProEU #RemainParty pledge to #reverse Brexit? #OpposeBrexit https://t.co/xiQHW4elun,"['remainparty', 'proeu', 'opposebrexit', 'reverse']"
-191,191,191,1739221,870380782321270784,1134262608,negative,other,2017-06-01T20:45:24.000Z,@SusanPickin @timfarron Not true. Macron is clearly #proEU. @timfarron himself said he was Eurosceptic and he did not offer to #reverse Brexit in his manifesto.,"['reverse', 'proeu']"
-192,192,192,1117261,849248175043076096,774995564912054272,neutral,other,2017-04-04T13:11:57.000Z,@RCorbettMEP @MarkEuromark @EU_CoR @BrexitWatch @brexitaffairs @lsebrexitvote @Brexit @euromove @_Britain4Europe @labour4europe @Labour4EU @Open_Britain @Keir_Starmer #stopbrexit #TheresaMay ignoring more than half the population of #UK @EU_CoR #ProEU Mp's must work together #ToriesOut @CollaborationEU https://t.co/IliNaHd4Kj,"['stopbrexit', 'toriesout', 'theresamay', 'proeu', 'uk']"
-193,193,193,1536879,862924046861840384,409161771,positive,leave,2017-05-12T06:54:59.000Z,"if Brexit were a tug of war - there would be the super rich on one side pulling us over the cliff
-#ToriesOut #TacticalVoting #proEU","['tacticalvoting', 'proeu', 'toriesout']"
-194,194,194,919108,846308499625783296,2523269705,negative,other,2017-03-27T10:30:44.000Z,"@BBCNews @BBCWorld Why so much attention on failed #Ukip ...100,000 March against #Brexit and #pro-Eu  That is news!","['ukip', 'proeu', 'brexit']"
-195,195,195,1164540,851023832970403840,118776163,neutral,leave,2017-04-09T10:47:47.000Z,The future of European Union https://t.co/2WiJf9BnIw via @TheEconomist #JeanMonnet #EU #Brexit #UnitedinDiversity #BrandEU #ProEU #Schengen,"['unitedindiversity', 'jeanmonnet', 'proeu', 'brandeu', 'schengen', 'eu', 'brexit']"
-196,196,196,520571,894529996219441152,2697437910,neutral,other,2017-08-07T12:05:45.000Z,#Pro-#EU #activists to stage 'stop #Brexit' march during Tory conference https://t.co/BH7dby48o4,"['activists', 'proeu', 'brexit']"
-197,197,197,1328018,923802486791659520,861203106079678464,negative,other,2017-10-27T06:44:10.000Z,#Pro-#EU #Tory rebels ready to #BETRAY #17.4 million #Brexit voters: 'We are deadly serious' https://t.co/V8uVjYAvyo,"['betray', 'tory', 'proeu', '17.4', 'brexit']"
-198,198,198,1078101,916568102644731904,831248271716802560,negative,remain,2017-10-07T07:37:19.000Z,"#BrexitInFiveWords
-
-Tax cheats need Brexit now
-
-#StopBrexit #proEU","['brexitinfivewords', 'proeu', 'stopbrexit']"
-199,199,199,1078815,916582291958304768,780840449963532160,negative,other,2017-10-07T08:33:42.000Z,"RT john196201: #BrexitInFiveWords
-
-Tax cheats need Brexit now
-
-#StopBrexit #proEU","['brexitinfivewords', 'proeu', 'stopbrexit']"
+#RejectTrump #RejectBrexit #Trump #Ukip #NoWayMay #HardBrexit #saturdaymorning #ProEU #AntiTrump #AntiBrexit #Brexit https://t.co/2IKH2hrrGK","['ukip', 'proeu', 'antitrump', 'rejectbrexit', 'brexit', 'antibrexit', 'brexitbritain', 'rejecttrump', 'nowaymay', 'trump', 'saturdaymorning', 'hardbrexit']"
+1164540,851023832970403840,118776163,neutral,leave,2017-04-09T10:47:47.000Z,The future of European Union https://t.co/2WiJf9BnIw via @TheEconomist #JeanMonnet #EU #Brexit #UnitedinDiversity #BrandEU #ProEU #Schengen,"['unitedindiversity', 'proeu', 'jeanmonnet', 'brexit', 'schengen', 'brandeu', 'eu']"
+1660365,868127042818236416,17959664,neutral,other,2017-05-26T15:29:50.000Z,Live in #wokingham &amp; oppose @johnredwood's extreme #brexit? the #proEU tactical vote is #libdem https://t.co/TRrYy2SZYA @BestForBritain,"['wokingham', 'proeu', 'libdem', 'brexit?']"
+1328018,923802486791659520,861203106079678464,negative,other,2017-10-27T06:44:10.000Z,#Pro-#EU #Tory rebels ready to #BETRAY #17.4 million #Brexit voters: 'We are deadly serious' https://t.co/V8uVjYAvyo,"['17.4', 'betray', 'brexit', 'tory', 'proeu']"
+46829,878510175606452224,29686160,neutral,other,2017-06-24T07:08:42.000Z,@JoHornA @riahazenberg @theresa_may Ik ben bang dat dit geen realiteit wordt. Iedereen wil een zachte #brexit. Ik ben #proEU maar op deze manier heeft #EU geen zin…,"['brexit', 'proeu', 'eu']"
+843765,908087742806073344,799375162072240128,negative,leave,2017-09-13T21:59:23.000Z,Brexit won't solve issues that made people to vote leave says ex trade minister. Time to rethink Brexit? #proEU #eu https://t.co/pHD5YjXY8g,"['eu', 'proeu']"
+843222,908071556257140736,111388931,negative,leave,2017-09-13T20:55:04.000Z,Brexit won't solve issues that made people to vote leave says ex trade minister. Time to rethink Brexit? #proEU #eu https://t.co/ikkXdlEhvI,"['eu', 'proeu']"

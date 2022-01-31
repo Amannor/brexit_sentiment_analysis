@@ -1,254 +1,283 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,203124,702964318556434432,305829824,positive,other,2016-02-25T21:12:08.000Z,"What was it like last time? #BABMember, @guardian recalls: https://t.co/g5jUW9uiVo
-#Brexit #referendum #UKinEU #BAB","['bab', 'referendum', 'ukineu', 'brexit', 'babmember']"
-1,1,1,327219,709062953614462976,57611007,neutral,leave,2016-03-13T17:05:56.000Z,Think people in  #UKinEU  are finally catching on that now is the time #Brexit #VoteLeave @MayorofLondon #bbcdp #bbc https://t.co/mfWFkTDhk2,"['bbc', 'ukineu', 'bbcdp', 'brexit', 'voteleave']"
-2,2,2,1447024,745592331068375040,27303589,negative,remain,2016-06-22T12:20:38.000Z,"if we leave, who pays to change our passports, drivng license &amp; # plates?. #bbcbreakfast #bbcqt #Remain #Brexit @David_Cameron #ukineu","['bbcbreakfast', 'ukineu', 'remain', 'bbcqt', 'brexit']"
-3,3,3,114129,700840349141315584,3135565264,neutral,leave,2016-02-20T00:32:14.000Z,"This is why I #BelieveInBritain &amp; will vote to #LeaveEU
+,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+217321,703539511666548736,252946241,negative,remain,2016-02-27T11:17:45.000Z,Brexit referendum: A risk not worth taking https://t.co/hvRAqvEXrH #UKinEU #2016 #Brexit,"['2016', 'ukineu', 'brexit']"
+122660,701029869434621952,1638153074,neutral,other,2016-02-20T13:05:20.000Z,I keep imagining @David_Cameron's Cabinet dancing to this https://t.co/j3wVXvwOwT via @YouTube #UKinEU #Brexit #23rdJune @JeremyCorbyn4PM,"['23rdjune', 'ukineu', 'brexit']"
+2412975,746682385576628224,959947411,neutral,other,2016-06-25T12:32:08.000Z,More than 1.3 million signatures now for another #EUref #2ndEUReferendum https://t.co/4sZBm9Gbvt #UKinEU #Brexit,"['2ndeureferendum', 'ukineu', 'brexit', 'euref']"
+122802,701031356290244608,4715830097,neutral,other,2016-02-20T13:11:14.000Z,https://t.co/fRTkRzC9Vy 5 SURPRISING SUPERFOODS!!!#EXOluXioninChicago #SLFLOsaka #LFW #FakeItLikeNDTV #Brexit #UKinEU #ALDUBAngPagbabalik,"['aldubangpagbabalik', 'slflosaka', 'brexit', 'fakeitlikendtv', 'ukineu', 'lfw']"
+212420,703325812892831744,3403916055,positive,other,2016-02-26T21:08:35.000Z,"After #politicians #economist #analysts and #business, now the #gruffalo wades into the #Brexit #UKinEU debate and supports in. Who next??","['analysts', 'gruffalo', 'brexit', 'business', 'ukineu', 'economist', 'politicians']"
+88049,699954354070151168,191850160,positive,leave,2016-02-17T13:51:37.000Z,tweeps can I have your insight - # for upcoming discussions ... #Brexit #UKinEU #inorout #anythingelse? help me out here :),"['anythingelse?', 'inorout', 'brexit', 'ukineu']"
+419626,715876392987045888,161243998,negative,leave,2016-04-01T12:20:07.000Z,"England to face Euro 2016 ban if Britain votes to leave EU @Fans4EU #EUref #UKinEU #Brexit #StrongerIN #AprilFools
+https://t.co/qfZagvbycO","['aprilfools', 'strongerin', 'brexit', 'ukineu', 'euref']"
+419772,715886657229029376,161243998,neutral,remain,2016-04-01T13:00:54.000Z,"Royal family considering dramatic #Brexit intervention #EUref #UKinEU #StrongerIN #AprilFools
+https://t.co/OWsWb9NxXq","['aprilfools', 'strongerin', 'brexit', 'ukineu', 'euref']"
+171210,702041202212913152,2364434006,positive,leave,2016-02-23T08:04:00.000Z,Great #banking piece from @patrickjenkins_ #Brexit brings risk #EUreferendum #BritIn #UKinEU https://t.co/lXfA4LF3e3,"['banking', 'brexit', 'britin', 'ukineu', 'eureferendum']"
+546575,723805264093282304,351500954,negative,other,2016-04-23T09:26:37.000Z,It took #BarackObama to crush the #Brexit fantasy #UKinEU - @BritainBetterIn @StrongerIn @jeanfrancoisdor,"['barackobama', 'brexit', 'ukineu']"
+770370,735094394869719040,348451340,neutral,other,2016-05-24T13:05:35.000Z,#BBC News - #EU referendum: Polls reveal divided nation #Brexit #UKinEU #politics #socialsciences @cityforEU https://t.co/NCwaFuFKeI,"['bbc', 'brexit', 'socialsciences', 'ukineu', 'politics', 'eu']"
+110928,700799246057021440,78645562,positive,other,2016-02-19T21:48:55.000Z,"The EU deal. It's all brilliant / bollocks, delete as appropriate #UKinEU #Brexit #EUSummit #bbcnews","['bbcnews', 'eusummit', 'ukineu', 'brexit']"
+111347,700803200417398784,78645562,negative,remain,2016-02-19T22:04:37.000Z,How is George Galloway relevant to anything at all? #twat #Brexit #UKinEU #bbcnews,"['bbcnews', 'ukineu', 'brexit', 'twat']"
+32820,692708437210349568,959947411,positive,leave,2016-01-28T13:58:55.000Z,"EU offering UK 'emergency brake' on #migrant #benefits, any MS could benefit. https://t.co/LJf5H4TWlY #Brexit #UKinEU #EUreferendum","['benefits', 'brexit', 'ukineu', 'migrant', 'eureferendum']"
+117353,700962337772142592,343890630,neutral,other,2016-02-20T08:36:59.000Z,Cameron + Osborne channelling Hannah Montana. #bestofbothworlds #UKinEU #brexit #r4today https://t.co/0F49wMwcKr,"['bestofbothworlds', 'ukineu', 'r4today', 'brexit']"
+264937,705690127633391616,1412631595,positive,other,2016-03-04T09:43:32.000Z,"Interested in the academic debate on #Brexit?
+#EU #BetterTogether #Euro #ukineu #UK https://t.co/T8ej67QVKR","['bettertogether', 'eu', 'ukineu', 'brexit?', 'euro', 'uk']"
+84134,699618011502796800,1412631595,positive,remain,2016-02-16T15:35:06.000Z,"on the same happy note....: #keepcalm &amp; #reflect
+#UKinEU #BetterTogether #Brexit #EU #Europe #referendum #UK https://t.co/01rkiYTWCy","['bettertogether', 'europe', 'brexit', 'referendum', 'keepcalm', 'ukineu', 'eu', 'reflect', 'uk']"
+48545,694989654458769408,581736707,negative,remain,2016-02-03T21:03:40.000Z,@nature reports that a Brexit could be bad for science in the UK. We are #bettertogether #UKinEU,"['bettertogether', 'ukineu']"
+181103,702233914782433280,375236642,negative,other,2016-02-23T20:49:46.000Z,#Brexit or #UKinEU. I do recall south of the border crying out for #bettertogether not so long ago https://t.co/OJEvFgIUpk,"['bettertogether', 'ukineu', 'brexit']"
+1428744,745553869971718144,338266070,negative,other,2016-06-22T09:47:48.000Z,"Lost in France: the Britons facing Brexit limbo https://t.co/nzWOUwxExr
+#bettertogether #ukineu #voteremain #voteleave","['bettertogether', 'voteremain', 'ukineu', 'voteleave']"
+118657,700982428303806464,20666234,positive,other,2016-02-20T09:56:49.000Z,Brilliant opinion piece in today's @thetimes from Matthew Parris on the #UKinEU #Brexit debate. #biggerpicture,"['biggerpicture', 'ukineu', 'brexit']"
+64421,697099054216515584,48254583,positive,other,2016-02-09T16:45:40.000Z,10% immediate £ devaluation. Hit to spending. Yes #Brexit will cost us all dear - #Bloomberg report. Still the fanatics want it. #UKinEU,"['bloomberg', 'brexit', 'ukineu']"
+112336,700810041473966080,22255886,neutral,other,2016-02-19T22:31:48.000Z,"You can tell he's lying, he has gone bright red and keeps touching his face! #bodylanguage #voteleave #Brexit No to #UKinEU","['bodylanguage', 'ukineu', 'brexit', 'voteleave']"
+112218,700809210733264896,22255886,neutral,other,2016-02-19T22:28:30.000Z,"You can tell he's lying, he has gone bright red and keeps tounching his face! #bodylanguage #voteleave #Brexit No to #UKinEU","['bodylanguage', 'ukineu', 'brexit', 'voteleave']"
+652741,730774198361149440,4849096455,neutral,leave,2016-05-12T14:58:40.000Z,#BoE Review:Repeats it is sidelined until after the referendum https://t.co/8S4L4mASzB #Brexit #UK #LeaveEU #UKinEU https://t.co/2u8RLb8PQh,"['boe', 'brexit', 'ukineu', 'leaveeu', 'uk']"
+484831,720607453071740928,4849096455,neutral,other,2016-04-14T13:39:39.000Z,BoE Review: BoE does nothing ahead of the EU in/out referendum. https://t.co/9qc6PfnsHG #BoE #GBP #Brexit #UKinEU https://t.co/JCdBXfWOyh,"['boe', 'gbp', 'ukineu', 'brexit']"
+1197281,743442705452253184,4849096455,neutral,remain,2016-06-16T13:58:48.000Z,#BoE review: Just waiting for the referendum outcome https://t.co/r3UVzNWX8n #GBP #Brexit #UKinEU https://t.co/z088MLvMKT,"['boe', 'gbp', 'ukineu', 'brexit']"
+291258,707176967267860480,632438587,neutral,other,2016-03-08T12:11:42.000Z,Carney Outlines Bank's Referendum Position #Brexit #BoE #UKinEU  https://t.co/vzsqDidRhb,"['boe', 'ukineu', 'brexit']"
+182091,702256706676506624,700989420648927232,neutral,other,2016-02-23T22:20:20.000Z,"YouGov/Times (#EURef):
 
-#GrassrootsOut #UKinEU #VoteLeave #BetterOffOut #Brexit  https://t.co/76j4fONWn3","['believeinbritain', 'betteroffout', 'ukineu', 'grassrootsout', 'brexit', 'leaveeu', 'voteleave']"
-4,4,4,113964,700838429769101312,3135565264,neutral,leave,2016-02-20T00:24:37.000Z,"This is why I #BelieveInBritain &amp; will vote to #LeaveEU
+#REMAIN 37 (+1)
+#LEAVE 38 (-7)
 
-#GrassrootsOut #UKinEU #VoteLeave #StrongerIn #Brexit https://t.co/ZKuFAuXTmc","['believeinbritain', 'ukineu', 'strongerin', 'grassrootsout', 'brexit', 'leaveeu', 'voteleave']"
-5,5,5,1036573,741753573180989440,26363035,neutral,leave,2016-06-11T22:06:47.000Z,Watch this short film! #EUref #Brexit #VoteLeave #UKinEU #BetterOffOut #EUreferendum #TakeBackControl #BackBritain https://t.co/RZKfGnVpqY,"['betteroffout', 'ukineu', 'backbritain', 'takebackcontrol', 'eureferendum', 'euref', 'brexit', 'voteleave']"
-6,6,6,113778,700832327283257344,3135565264,positive,leave,2016-02-20T00:00:22.000Z,"Im supporting #GrassrootsOut to #LeaveEU
+Fieldwork 22nd-23rd (post #BoGo)
+N=1,674
+#EUreferendum #Brexit #UKinEU","['bogo', 'brexit', 'remain', 'ukineu', 'eureferendum', 'leave']"
+136810,701437745634344960,1327843160,neutral,remain,2016-02-21T16:06:05.000Z,#EUreferendum: London mayor said to back British exit from #EuropeanUnion https://t.co/yMsuwVzpFS #BorisJohnson #UKinEU #Brexit,"['borisjohnson', 'brexit', 'eureferendum', 'ukineu', 'europeanunion']"
+75750,698944617983520768,2488415784,neutral,remain,2016-02-14T18:59:17.000Z,#BorisJohnson says there is 'no reason to be afraid' of leaving the #EU https://t.co/FX2lMtZNou via @MailOnline #nofear #Brexit #Out #UKinEU,"['borisjohnson', 'brexit', 'nofear', 'ukineu', 'out', 'eu']"
+132549,701360884715810816,167419922,neutral,leave,2016-02-21T11:00:40.000Z,'Conflicted' #BorisJohnson expected to back #EU exit: @BBCPolitics https://t.co/f5F8ZGaUT4 #Brexit #UKinEU #Britain,"['borisjohnson', 'brexit', 'ukineu', 'eu', 'britain']"
+138922,701460375007535104,50247851,neutral,remain,2016-02-21T17:36:00.000Z,Boris Johnson confirms he'll campaign for #Brexit Now the #EUreferendum #Bremain just got started #BorisJohnson #UKinEU #UKoutEU #euref,"['borisjohnson', 'euref', 'brexit', 'ukineu', 'eureferendum', 'bremain', 'ukouteu']"
+162322,701813441229627392,2364434006,negative,other,2016-02-22T16:58:58.000Z,#BorisJohnson puts #london status at risk by promoting #Brexit #EUreferendum #BritIn #UKinEU https://t.co/vOICvXwbyh,"['borisjohnson', 'london', 'brexit', 'britin', 'ukineu', 'eureferendum']"
+236972,704433692513574912,566383494,neutral,remain,2016-02-29T22:30:54.000Z,#EUreferendum: #BorisJohnson calls Cameron's Project Fact 'baloney' https://t.co/5DUnWfX2zC #brexit #ukineu #ProjectFact,"['borisjohnson', 'projectfact', 'ukineu', 'eureferendum', 'brexit']"
+137721,701464126116261888,19393864,neutral,other,2016-02-21T17:50:54.000Z,"Zoals ik deze week zelf merkte: er heerst grote verdeeldheid in UK over Brexit.
+https://t.co/ZD2tdsuphh #BorisJohnson #UKinEU","['borisjohnson', 'ukineu']"
+151062,701706288514867200,1339550364,neutral,remain,2016-02-22T09:53:10.000Z,British Pound plummets most in yr on fears of #Brexit Down &gt;1% intraday. #BorisJohnson #UKinEU @dwnews @dw_business https://t.co/n6psDjXjnE,"['borisjohnson', 'ukineu', 'brexit']"
+288639,707114487913037824,458154227,positive,remain,2016-03-08T08:03:26.000Z,Apparently #borisjohnson tells his political appointments to agree with what he says. Complete non-story #brexit #UKinEU,"['borisjohnson', 'ukineu', 'brexit']"
+138859,701459708293554176,135632471,negative,remain,2016-02-21T17:33:21.000Z,Bad for you #BorisJohnson #Brexit #UKinEU,"['borisjohnson', 'ukineu', 'brexit']"
+152949,701721494326530048,16421475,positive,remain,2016-02-22T10:53:36.000Z,"When #BorisJohnson said ""out"", the pound didn't like it: https://t.co/nKZgnd0UZD #Brexit #UKinEU #BorisSaysLeave https://t.co/qZwTUEroJA","['borisjohnson', 'ukineu', 'brexit', 'borissaysleave']"
+678452,731748296050511872,30000122,neutral,other,2016-05-15T07:29:23.000Z,#DonaldTrump broke Godwin's Law and now it looks like #BorisJohnson is testing its limits.  #Brexit #UkinEU #EURef,"['borisjohnson', 'ukineu', 'brexit', 'donaldtrump', 'euref']"
+154044,701731069603794944,24210835,positive,remain,2016-02-22T11:31:39.000Z,So that's what defeaning éclat sounds like.  More of a whimper than a bang. #BorisJohnson #UKinEU #euref #Brexit,"['borisjohnson', 'ukineu', 'brexit', 'euref']"
+143285,701536874372972544,566383494,neutral,remain,2016-02-21T22:39:59.000Z,Boris' @Telegraph column on why he is campaigning for #Brexit: https://t.co/Jtb3QW4hCH #BorisJohnson #EUreferendum #UKinEU,"['borisjohnson', 'ukineu', 'brexit', 'eureferendum']"
+142083,701513995233005568,4839039273,neutral,other,2016-02-21T21:09:04.000Z,Tomorrow: My Take On The EU Referendum #EUreferendum #BorisJohnson #Brexit #UKinEU,"['borisjohnson', 'ukineu', 'brexit', 'eureferendum']"
+128875,701203661058416640,3233242655,neutral,leave,2016-02-21T00:35:55.000Z,Rumour has it @MayorofLondon will declare his intention to #voteleave in his Telegraph column Monday. #Brexit #UKinEU #BorisJohnson,"['borisjohnson', 'ukineu', 'brexit', 'voteleave']"
+588940,726447190114222080,4715830097,positive,other,2016-04-30T16:24:41.000Z,https://t.co/Kjuh10RZoj TOP TEN RICHEST PEOPLE IN THE UK !#money #UKinEU #Brexit #entrepreneur #London #top10 #westham #Villa #AFCvNCFC #BPL,"['bpl', 'top10', 'london', 'brexit', 'entrepreneur', 'afcvncfc', 'ukineu', 'westham', 'villa']"
+131585,701345937365590016,25067168,neutral,other,2016-02-21T10:01:16.000Z,#Breaking: British PM Cameron says to enhance UK Parliament's over EU law. (Reuters) #UKinEU #Brexit https://t.co/B2vQOD1Jr5,"['breaking', 'ukineu', 'brexit']"
+1342463,744966304210255872,731465935308128128,neutral,other,2016-06-20T18:53:02.000Z,Within the EU there are 19 members of the eurozone currency area. #Brexit #UKInEU #BRemain #EURef,"['bremain', 'euref', 'brexit', 'ukineu']"
+894020,739035221132247040,731465935308128128,negative,other,2016-06-04T10:05:01.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #LeaveEU #BRemain #UKInEU #EURef,"['bremain', 'euref', 'ukineu', 'leaveeu']"
+1291456,744640154124550144,731465935308128128,neutral,remain,2016-06-19T21:17:02.000Z,UK's inflation trebled in the 3 years after we joined EU. #Brexit #UKInEU #BRemain #EUReferendum,"['bremain', 'eureferendum', 'brexit', 'ukineu']"
+903989,739357344832839680,731465935308128128,negative,remain,2016-06-05T07:25:02.000Z,Corrupt EU staff are immune from prosecution. #Brexit #BRemain #UKInEU #EUReferendum,"['bremain', 'eureferendum', 'brexit', 'ukineu']"
+1231470,743852968819187712,731465935308128128,neutral,other,2016-06-17T17:09:02.000Z,"The EU and the Single Market are not the same thing. The EU has 28 members, the Single Market has 31. #Brexit #UKInEU #BRemain #EUReferendum","['bremain', 'eureferendum', 'brexit', 'ukineu']"
+745275,734390113355108352,731465935308128128,neutral,other,2016-05-22T14:27:01.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #NoToEU #BRemain #UKInEU #EUReferendum","['bremain', 'eureferendum', 'notoeu', 'ukineu']"
+747701,734462706531618816,1888629146,negative,other,2016-05-22T19:15:29.000Z,"#Brexit or #Bremain? It seems a difficult choice. 
+#strongerin #voteleave #EUref #incrowd #UKinEU https://t.co/OI4VSKpjoB","['bremain?', 'strongerin', 'incrowd', 'brexit', 'ukineu', 'voteleave', 'euref']"
+231583,704239472553156608,162427574,negative,remain,2016-02-29T09:39:09.000Z,"#Brexit' may allow EU to tighten #pollution rules - even in #UK
 
-#VoteLeave #EURef #StrongerIn #BetterOffOut #Brexit #EUdeal #UKinEU https://t.co/BFq9GUPer1","['betteroffout', 'ukineu', 'strongerin', 'grassrootsout', 'brexit', 'euref', 'eudeal', 'leaveeu', 'voteleave']"
-7,7,7,264937,705690127633391616,1412631595,positive,other,2016-03-04T09:43:32.000Z,"Interested in the academic debate on #Brexit?
-#EU #BetterTogether #Euro #ukineu #UK https://t.co/T8ej67QVKR","['bettertogether', 'brexit?', 'uk', 'ukineu', 'eu', 'euro']"
-8,8,8,107790,700750635650519040,1412631595,positive,other,2016-02-19T18:35:45.000Z,"Grande! ;) 
-#Chips4UKinEU #EU #Europe #UKinEU #BetterTogether #Merkel #Brexit #EUCO #Cameron  https://t.co/QQL4dCLLJ6","['bettertogether', 'chips4ukineu', 'ukineu', 'euco', 'merkel', 'europe', 'eu', 'cameron', 'brexit']"
-9,9,9,84134,699618011502796800,1412631595,positive,remain,2016-02-16T15:35:06.000Z,"on the same happy note....: #keepcalm &amp; #reflect
-#UKinEU #BetterTogether #Brexit #EU #Europe #referendum #UK https://t.co/01rkiYTWCy","['bettertogether', 'reflect', 'referendum', 'ukineu', 'uk', 'europe', 'keepcalm', 'eu', 'brexit']"
-10,10,10,1296190,744714959217516544,246134345,neutral,remain,2016-06-20T02:14:17.000Z,"STAY BABY. 
+https://t.co/JYSmBy8iLm #EnergyUnion #climate #AirQuality #CleanAir #UKinEU","['brexit', 'airquality', 'climate', 'pollution', 'ukineu', 'energyunion', 'cleanair', 'uk']"
+497889,721494631213436928,2488415784,negative,other,2016-04-17T00:24:59.000Z,#Boris launches his #Brexit battle - and gets shouted down https://t.co/4dJWSwFs7B via @MailOnline #takecontrol #UKinEU #migration #border,"['brexit', 'boris', 'takecontrol', 'ukineu', 'migration', 'border']"
+132565,701361206863511552,1270739179,neutral,other,2016-02-21T11:01:57.000Z,"#UkInEu deal - key points explained
 
-#BetterTogether 
-#VoteRemain 
-#BREXIT 
+#Brexit #Bremain 
+ https://t.co/FNH9Yw5lQJ","['brexit', 'bremain', 'ukineu']"
+378407,712594752710041600,161243998,negative,other,2016-03-23T11:00:03.000Z,"#Brexit campaigners use Brussels attacks to criticize EU #EUref #BrusselsAttacks #UKinEU #StrongerIn
+https://t.co/ExbWwXkXQ7","['brexit', 'brusselsattacks', 'euref', 'ukineu', 'strongerin']"
+160269,701794888384434176,2828057292,neutral,other,2016-02-22T15:45:14.000Z,".@Kaletsky making THE point on #BREXIT, via @ProSyn. 
 
-#UKinEU  https://t.co/4WmqFtO5Sr","['bettertogether', 'ukineu', 'brexit', 'voteremain']"
-11,11,11,285152,706848870387605504,1412631595,positive,leave,2016-03-07T14:27:57.000Z,Excellent analysis on #Brexit: Why the sovereignty argument doesn't work https://t.co/7jTRSMSRz4 #UKinEU #UK #EU #BetterTogether #europe,"['bettertogether', 'ukineu', 'uk', 'europe', 'eu', 'brexit']"
-12,12,12,603252,727896915325620224,4715830097,positive,other,2016-05-04T16:25:22.000Z,https://t.co/Kjuh10RZoj TOP TEN RICHEST PEOPLE IN THE UK !#money #UKinEU #Brexit #entrepreneur #London #PMQs  #billionaire #GBProud #million,"['billionaire', 'pmqs', 'ukineu', 'million', 'london', 'gbproud', 'entrepreneur', 'brexit']"
-13,13,13,73314,698583282510909440,3297922053,neutral,other,2016-02-13T19:03:28.000Z,#BREAKING: #Brexit #campaigners #blast #PM's 'feeble'. #EUdeal #UKinEU #UKexit #EUexit #EUdebt #EUreform #referendum2016 #asylumseekers,"['blast', 'ukineu', 'campaigners', 'breaking', 'referendum2016', 'eureform', 'eudebt', ""pm's"", 'eudeal', 'euexit', 'ukexit', 'brexit', 'asylumseekers']"
-14,14,14,291258,707176967267860480,632438587,neutral,other,2016-03-08T12:11:42.000Z,Carney Outlines Bank's Referendum Position #Brexit #BoE #UKinEU  https://t.co/vzsqDidRhb,"['boe', 'ukineu', 'brexit']"
-15,15,15,1197281,743442705452253184,4849096455,neutral,remain,2016-06-16T13:58:48.000Z,#BoE review: Just waiting for the referendum outcome https://t.co/r3UVzNWX8n #GBP #Brexit #UKinEU https://t.co/z088MLvMKT,"['boe', 'ukineu', 'gbp', 'brexit']"
-16,16,16,484831,720607453071740928,4849096455,neutral,other,2016-04-14T13:39:39.000Z,BoE Review: BoE does nothing ahead of the EU in/out referendum. https://t.co/9qc6PfnsHG #BoE #GBP #Brexit #UKinEU https://t.co/JCdBXfWOyh,"['boe', 'ukineu', 'gbp', 'brexit']"
-17,17,17,652741,730774198361149440,4849096455,neutral,leave,2016-05-12T14:58:40.000Z,#BoE Review:Repeats it is sidelined until after the referendum https://t.co/8S4L4mASzB #Brexit #UK #LeaveEU #UKinEU https://t.co/2u8RLb8PQh,"['boe', 'ukineu', 'uk', 'brexit', 'leaveeu']"
-18,18,18,146904,701670881207128064,22985183,positive,other,2016-02-22T07:32:29.000Z,That's interesting. Not what he said on #r4today #Brexit #BoGo #UKinEU #EUreferendum  https://t.co/asa3b1pGt9,"['bogo', 'ukineu', 'r4today', 'eureferendum', 'brexit']"
-19,19,19,1097160,742680133950185472,179903876,negative,leave,2016-06-14T11:28:36.000Z,#Germany's 10-year #bond yield turns negative on #Brexit worries https://t.co/RChkuEmOX4 #debt #UK #EU #UKinEU #VoteLeave,"['bond', 'ukineu', 'uk', 'debt', ""germany's"", 'eu', 'brexit', 'voteleave']"
-20,20,20,497889,721494631213436928,2488415784,negative,other,2016-04-17T00:24:59.000Z,#Boris launches his #Brexit battle - and gets shouted down https://t.co/4dJWSwFs7B via @MailOnline #takecontrol #UKinEU #migration #border,"['boris', 'takecontrol', 'migration', 'ukineu', 'border', 'brexit']"
-21,21,21,171019,702038299913879552,2389336800,neutral,remain,2016-02-23T07:52:28.000Z,Boris Johnson: Everything about you is phoney https://t.co/TI0ywoe9Ez #Cameron #Brexit #UKinEU #EUref #Boris #Tories #LibDemocrats,"['boris', 'tories', 'ukineu', 'libdemocrats', 'cameron', 'euref', 'brexit']"
-22,22,22,140047,701474574156873728,501139438,neutral,remain,2016-02-21T18:32:25.000Z,"@bbclaurak When will you start your 2 week, nonstop analysis of #Tory Party meltdown? #Boris #Brexit #LeaveEU #UKinEU #StrongerIn #Corbyn","['boris', 'tory', 'ukineu', 'strongerin', 'brexit', 'corbyn', 'leaveeu']"
-23,23,23,682724,731838773206507520,2488415784,neutral,other,2016-05-15T13:28:55.000Z,#Boris Johnson compares the #EU to HITLER https://t.co/CX1szj4M0R via @MailOnline #VoteLeave #Brexit #UKinEU,"['boris', 'ukineu', 'eu', 'brexit', 'voteleave']"
-24,24,24,144268,701592227953377280,313259069,neutral,remain,2016-02-22T02:19:56.000Z,#Boris #IDS #Forage #Galloway The undesirables #UKinEU #Federalist # Brexit https://t.co/yMEJwIrMCx https://t.co/3Wuds5b9Eh,"['boris', 'ukineu', 'federalist', 'ids', 'galloway', 'forage']"
-25,25,25,135495,701418099745103872,2389336800,positive,other,2016-02-21T14:48:01.000Z,The final UK/EU renegotiation deal: legal status and legal effect https://t.co/UmhyNPXV3a #Brexit #UKinEU #UKoutEU #Cameron #Marr #Boris #EU,"['boris', 'ukouteu', 'ukineu', 'eu', 'cameron', 'marr', 'brexit']"
-26,26,26,678452,731748296050511872,30000122,neutral,other,2016-05-15T07:29:23.000Z,#DonaldTrump broke Godwin's Law and now it looks like #BorisJohnson is testing its limits.  #Brexit #UkinEU #EURef,"['borisjohnson', 'euref', 'ukineu', 'donaldtrump', 'brexit']"
-27,27,27,2391852,746656165866639360,15225200,neutral,remain,2016-06-25T10:47:56.000Z,Petition: EU Referendum Rules triggering a 2nd EU Referendum https://t.co/xCW3XYoyyw #brexit #Bregret #UKinEU #EUref,"['bregret', 'euref', 'brexit', 'ukineu']"
-28,28,28,2391663,746655931333750784,2335411062,positive,other,2016-06-25T10:47:00.000Z,Keep UK in EU for goodness sake #brexit #Bregret  #UKinEU #EUref #UKreferendum  https://t.co/gDkt4Kk9Sp,"['bregret', 'ukineu', 'ukreferendum', 'euref', 'brexit']"
-29,29,29,516374,722411732979814400,202721441,neutral,remain,2016-04-19T13:09:13.000Z,"#Brexit #VoteLeave #votein, #ukineu, #bremain Michael Gove, Boris and Farage in the #EuroReferendum Park https://t.co/Un6675wr16","['bremain', 'euroreferendum', 'ukineu', 'votein', 'brexit', 'voteleave']"
-30,30,30,113812,700833520042827776,310535567,neutral,remain,2016-02-20T00:05:06.000Z,Let the divisive EU referendum begin in the UK.  #bremain or #Brexit 🇪🇺🇬🇧 🤔 The choice of the British people (&amp; me) &amp; you. #UKinEU #EUSummit,"['bremain', 'eusummit', 'ukineu', 'brexit']"
-31,31,31,779513,735403659723452416,720884762,neutral,remain,2016-05-25T09:34:30.000Z,"#Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
+#UKinEU #EUref #UKdeal #Bremain #Brégage https://t.co/p3mlebTSlV","['brexit', 'brégage', 'ukineu', 'bremain', 'ukdeal', 'euref']"
+202895,702953862630678528,251752579,positive,remain,2016-02-25T20:30:35.000Z,"bittersweet symphony ;) once u realize u have to ""hug"" someone like #Corbyn to reach The spot -- #Brexit #UKinEU  https://t.co/n7oUkyDN3D","['brexit', 'corbyn', 'ukineu']"
+112122,700808738362396672,22255886,negative,leave,2016-02-19T22:26:38.000Z,Where is the promised made in the Bloomberg speech on treaty change? No control on borders at all. #coward #voteleave #Brexit No to #UKinEU,"['brexit', 'coward', 'ukineu', 'voteleave']"
+732102,733778374204739584,419844233,neutral,other,2016-05-20T21:56:12.000Z,Who was that #DailyMail barrack room commentator  on #newsnight? #EUref #Brexit #Bremain #UKinEU,"['brexit', 'dailymail', 'ukineu', 'bremain', 'newsnight?', 'euref']"
+79590,699279027526303744,17039236,neutral,other,2016-02-15T17:08:06.000Z,#earlybird... 06h45 I will be Interviewed on #UKinEU &amp; #Brexit at @dkultur https://t.co/b4euYng6MY,"['brexit', 'earlybird', 'ukineu']"
+200113,702855803758247936,161243998,neutral,remain,2016-02-25T14:00:56.000Z,"Factory bosses attack ‘flat Earth’ #Brexit campaign: 82% want UK to REMAIN (£) #EUreferendum #UKinEU #EEF2016 #ukmfg
+https://t.co/jZxGQKpmXd","['brexit', 'eef2016', 'ukineu', 'eureferendum', 'ukmfg']"
+53970,695617000333320192,2840199321,positive,remain,2016-02-05T14:36:31.000Z,"If #Brexit, the #EU would lose its historically most solid democracy, a major military power and a key chunk of its economic weight. #UKinEU","['brexit', 'eu', 'ukineu']"
+53990,695618450425802752,2364434006,positive,remain,2016-02-05T14:42:17.000Z,"If #Brexit, the #EU would lose its historically most solid democracy, a major military power and a key chunk of its economic weight. #UKinEU","['brexit', 'eu', 'ukineu']"
+96957,700390832252256256,109288334,positive,remain,2016-02-18T18:46:01.000Z,"Enough of #Brexit, #EUCO, #UKinEU for today. It's time for #pietroEXIT the office :-) Good evening everyone!","['brexit', 'euco', 'pietroexit', 'ukineu']"
+121523,701019592425132032,115020963,neutral,remain,2016-02-20T12:24:29.000Z,#UKinEU referendum will be 23/6 says @David_Cameron #eudk #dkpol #brexit,"['brexit', 'eudk', 'ukineu', 'dkpol']"
+385195,713012525764218880,161243998,neutral,other,2016-03-24T14:40:07.000Z,"#EUreferendum: Row over claim #Brexit would push up bills #EUref #UKinEU #StrongerIn
+https://t.co/v1SeEu2GXN","['brexit', 'euref', 'eureferendum', 'ukineu', 'strongerin']"
+452430,718458397620744192,161243998,negative,other,2016-04-08T15:20:04.000Z,"#Brexit may be bigger risk for #Eurozone than UK | @Simon_Nixon (£) #EUref #UKinEU #StrongerIn #VoteRemain #Yes2EU
+https://t.co/n6pbKM8vKz","['brexit', 'euref', 'eurozone', 'ukineu', 'voteremain', 'yes2eu', 'strongerin']"
+515814,722389302533959680,161243998,neutral,other,2016-04-19T11:40:05.000Z,"#Brexit might lead to weaker environmental rules, says Commons report @Env4Eur #EUref #UKinEU #StrongerIn #GreenerIn
+https://t.co/PNzkvOx8WN","['brexit', 'euref', 'greenerin', 'ukineu', 'strongerin']"
+339252,709761086841430016,161243998,negative,other,2016-03-15T15:20:04.000Z,"#Brexit 'could weaken NATO', warns commander of US Army in Europe #EUref #UKinEU #NATO #StrongerIn
+https://t.co/jEn2BnDPsO","['brexit', 'euref', 'nato', 'ukineu', 'strongerin']"
+325406,708953484842954752,1448355728,positive,other,2016-03-13T09:50:57.000Z,. @essexdb at least you are open about making the racist case for #brexit. Appreciate the honesty ;)! #euref #ukineu @FederalBritain,"['brexit', 'euref', 'ukineu']"
+572372,725273301145145344,161243998,neutral,remain,2016-04-27T10:40:04.000Z,"#Brexit would cost Britons a month's salary by 2020: OECD report @A_Gurria #EUref #UKinEU #StrongerIn #Bremain #OECD
+https://t.co/hJW7ww6Io3","['brexit', 'euref', 'ukineu', 'bremain', 'oecd', 'strongerin']"
+636093,730065066612023296,161243998,negative,remain,2016-05-10T16:00:50.000Z,"Lord Patten: Oxford's global standing at risk over #Brexit @UniversitiesUK #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/CFHQgnTw7H","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+598322,727503013795909632,161243998,positive,remain,2016-05-03T14:20:09.000Z,"UK consumer confidence hits 15-month low as #Brexit fears mount, @GfK says #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/AO0fUHPAQn","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+641670,730346755628273664,161243998,neutral,remain,2016-05-11T10:40:10.000Z,"Evening Standard Editorial | The #Brexit debate is getting down to basics #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/8tlPmhokwH","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+635019,730024622599475200,161243998,neutral,other,2016-05-10T13:20:07.000Z,"Chatham House: #Brexit will actually reduce British sovereignty @ChathamHouse #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/5ScX3qViZX","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+790903,735807729592238080,161243998,negative,remain,2016-05-26T12:20:08.000Z,"Mark Carney should keep cool on #Brexit He's done nothing wrong | @NilsPratley #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/K9mB4wnwDJ","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+468725,719857831801794560,161243998,positive,other,2016-04-12T12:00:56.000Z,"City of London says #Brexit would hit growth @markboleat #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/KFUgka8Yer","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+767905,735042688412590080,161243998,negative,remain,2016-05-24T09:40:08.000Z,"#Brexit could add £230 to the cost of a European holiday, David Cameron warns #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/FZFzMseLh8","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+652580,730769529811271680,161243998,negative,remain,2016-05-12T14:40:07.000Z,"#Brexit would hurt Britain, US foreign policy expert says @AtlanticCouncil #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/Qwyv0Zyfzq","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+469435,719872909804580864,161243998,neutral,remain,2016-04-12T13:00:50.000Z,"Available jobs in London fell in March as businesses' #Brexit fears bite #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/N0V4Bk5TYL","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+606086,728192708632666112,161243998,positive,remain,2016-05-05T12:00:45.000Z,"London’s Hong Kong dreams | Francesco Guerrera @guerreraf72 #EUref #UKinEU #Brexit #StrongerIn #Bremain 
+https://t.co/xsEZuBwCL7","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+792666,735858069343608832,161243998,negative,other,2016-05-26T15:40:09.000Z,"PM: #Brexit offers no residency guarantees for Britons or Europeans @expats4eu #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/BCgl2cqJmE","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+467499,719842742742810624,161243998,positive,other,2016-04-12T11:00:58.000Z,"#Brexit would not bring about better deal on trade: Lord Hill @JHillEU #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/hPVk5xyCJk","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+651659,730744480639242240,161243998,neutral,remain,2016-05-12T13:00:35.000Z,"'Like Dunkirk': #Brexit donor trumpets 'fantastic insecurity' of leaving EU #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/6ZC9HQgXAv","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+509430,722082283084058624,161243998,neutral,other,2016-04-18T15:20:06.000Z,"Barack Obama to give 'very candid' #Brexit view on UK visit #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/h403AVRMIs","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+530120,723192095549218816,161243998,negative,remain,2016-04-21T16:50:06.000Z,"#Brexit means blood, toil, sweat and tears | Ambrose Evans-Pritchard @AmbroseEP #EUref #UKinEU #StrongerIn #Bremain
+https://t.co/KjFmHh6UWQ","['brexit', 'euref', 'ukineu', 'bremain', 'strongerin']"
+414263,715514828710879232,715502235032096768,neutral,other,2016-03-31T12:23:23.000Z,SEE Briefing | Future UK Trade Patterns: Fantasy &amp; Reality #EUref #Brexit #UKinEU #trade #BRICS #WTO https://t.co/0IJnprP4QQ,"['brexit', 'euref', 'ukineu', 'brics', 'wto', 'trade']"
+414499,715528686200553472,715502235032096768,neutral,other,2016-03-31T13:18:27.000Z,"SEE Briefing | Future UK Trade Patterns: Fantasy &amp; Reality #EUref #Brexit #UKinEU #trade #BRICS #WTO
+https://t.co/fnx4TpZHev","['brexit', 'euref', 'ukineu', 'brics', 'wto', 'trade']"
+643415,730407139512975360,161243998,positive,remain,2016-05-11T14:40:07.000Z,"How to win a referendum | Brian Wheeler @BrianWheeler01 #EUref #EUreferendum #UKinEU #StrongerIn #Bremain #Brexit
+https://t.co/ThjQ45xzd9","['brexit', 'euref', 'ukineu', 'eureferendum', 'bremain', 'strongerin']"
+159408,701786550997229568,118736440,neutral,other,2016-02-22T15:12:06.000Z,Coming up at 3.30pm #EUreferendum debate in the House Of Commons #EUref #UKinEU #StrongerIn #Brexit,"['brexit', 'euref', 'ukineu', 'eureferendum', 'strongerin']"
+624403,729606857531121664,161243998,negative,remain,2016-05-09T09:40:04.000Z,"David Cameron: #Brexit could lead to Europe descending into war #EUref #UKinEU #StrongerIn #Bremain #EuropeDay
+https://t.co/oIolrXXgBz","['brexit', 'euref', 'ukineu', 'europeday', 'bremain', 'strongerin']"
+116292,700943452834504704,201201906,negative,leave,2016-02-20T07:21:56.000Z,Should #Britain leave the #EU? Arguments for and against https://t.co/3AC7CeBsDS  #Brexit #LeaveEU #UKinEU #EUref https://t.co/TvnONkmT4w,"['brexit', 'euref', 'ukineu', 'leaveeu', 'britain', 'eu?']"
+82506,699523822886715392,201201906,negative,leave,2016-02-16T09:20:50.000Z,Should #Britain leave the #EU? Arguments for and against https://t.co/3AC7CeBsDS  #Brexit #LeaveEU #UKinEU #EUref https://t.co/eLwOSihK0u,"['brexit', 'euref', 'ukineu', 'leaveeu', 'britain', 'eu?']"
+118679,700982764980535296,3135565264,positive,leave,2016-02-20T09:58:09.000Z,"Out of the #EU &amp; into the World Lets Make Britain GREAT again...
 
-https://t.co/Q6jGOdDQPT - Thoughts?","['bremain', 'leadnotleave', 'voteremain', 'betteroffin', 'yestoeu', 'ukineu', 'votein', 'strongerin', 'brexit', 'yes2eu']"
-32,32,32,864257,738280364494442496,720884762,neutral,remain,2016-06-02T08:05:30.000Z,"My view on #Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
+#LeaveEU #EURef #StrongerIn #Brexit #UKinEU #No2EU https://t.co/Yy6S3nOa3f","['brexit', 'euref', 'ukineu', 'leaveeu', 'eu', 'no2eu', 'strongerin']"
+855887,738022411430289408,161243998,neutral,other,2016-06-01T15:00:29.000Z,"#Brexit 'would mean 100,000 fewer manufacturing jobs by 2030': @Cebr_uk report #EUref #UKinEU #StrongerIn #ukmfg
+https://t.co/fWzO5CRGHp","['brexit', 'euref', 'ukineu', 'ukmfg', 'strongerin']"
+869588,738369785533079552,161243998,neutral,other,2016-06-02T14:00:49.000Z,"£20bn wiped off FTSE 100 in two days as #Brexit fears grip the City #EUref #UKinEU #StrongerIn #Bremain #VoteRemain
+https://t.co/WwHXbXdZf1","['brexit', 'euref', 'ukineu', 'voteremain', 'bremain', 'strongerin']"
+692752,732214055054643200,161243998,negative,remain,2016-05-16T14:20:09.000Z,"#Brexit vote worries European p-and-comers lured to Britain (£) #EUref #UKinEU #StrongerIn #Bremain #VoteRemain
+https://t.co/GXVVPGmLVH","['brexit', 'euref', 'ukineu', 'voteremain', 'bremain', 'strongerin']"
+836352,737579392663097344,161243998,neutral,remain,2016-05-31T09:40:05.000Z,"Economists overwhelmingly reject #Brexit in boost for Cameron #EUref #UKinEU #StrongerIn #Bremain #VoteRemain
+https://t.co/9YCM6U7G7V","['brexit', 'euref', 'ukineu', 'voteremain', 'bremain', 'strongerin']"
+602481,727845377949335552,161243998,negative,remain,2016-05-04T13:00:35.000Z,"Manufacturing slowdown shows #Brexit fears hurting economy: report #EUref #UKinEU #StrongerIn #Bremain #VoteRemain
+https://t.co/2RiWsrEBfd","['brexit', 'euref', 'ukineu', 'voteremain', 'bremain', 'strongerin']"
+693380,732234170676580352,161243998,negative,remain,2016-05-16T15:40:05.000Z,"Mark Carney: BoE has 'responsibility' to warn of #Brexit risks #EUref #UKinEU #StrongerIn #Bremain #VoteRemain
+https://t.co/kOLcYHdsZG","['brexit', 'euref', 'ukineu', 'voteremain', 'bremain', 'strongerin']"
+612130,728585262842793984,161243998,neutral,remain,2016-05-06T14:00:37.000Z,"#Brexit question weighs heavily on British economy #EUref #EUreferendum #UKinEU #StrongerIn #Bremain #VoteRemain
+https://t.co/6XdK9GRC6c","['brexit', 'euref', 'ukineu', 'voteremain', 'eureferendum', 'bremain', 'strongerin']"
+452568,718468581801861120,161243998,negative,other,2016-04-08T16:00:33.000Z,"Dublin braces for pain of #Brexit | Bruce Clark @InFactsOrg #EUref #UKinEU #StrongerIn #VoteRemain @Irish4Europe
+https://t.co/VBdRmgj2eZ","['brexit', 'euref', 'ukineu', 'voteremain', 'strongerin']"
+451026,718372858745921536,161243998,positive,remain,2016-04-08T09:40:10.000Z,"Corbyn to the rescue in Tories’ #Brexit storm @UKLabourIN #EUref #UKinEU #StrongerIn #VoteRemain
+https://t.co/9l5agh0KWM","['brexit', 'euref', 'ukineu', 'voteremain', 'strongerin']"
+446881,718068410601447424,161243998,negative,remain,2016-04-07T13:30:24.000Z,"Why #Brexit could be bad news for disabled people | @BronaghByrneQUB #EUref #UKinEU #StrongerIn #VoteRemain
+https://t.co/BzV7JUF7wY","['brexit', 'euref', 'ukineu', 'voteremain', 'strongerin']"
+446506,718053296590565376,161243998,neutral,remain,2016-04-07T12:30:21.000Z,"The biggest impact of #Brexit could be felt in Europe | @Simon_Nixon (£) #EUref #UKinEU #StrongerIn #VoteRemain
+https://t.co/tBEtW5grRs","['brexit', 'euref', 'ukineu', 'voteremain', 'strongerin']"
+452299,718448360697364480,161243998,negative,remain,2016-04-08T14:40:11.000Z,"#Brexit would damage the value of the London office market, S&amp;P warns #EUref #UKinEU #StrongerIn #VoteRemain #Yes2EU
+https://t.co/BQJl9QtZ5Y","['brexit', 'euref', 'ukineu', 'voteremain', 'yes2eu', 'strongerin']"
+482995,720540794055221248,1060264448,positive,other,2016-04-14T09:14:46.000Z,What attracts #EU workers to the #UK? - BBC News #Brexit #StrongerIn #VoteToLeave #UKinEU #EuReferendum https://t.co/OcxuJg9a06,"['brexit', 'eureferendum', 'uk?', 'ukineu', 'eu', 'votetoleave', 'strongerin']"
+350880,710730365225332736,38474832,negative,leave,2016-03-18T07:31:38.000Z,"#EUReferendum on #Brexit or #UKinEU hots up, many voters undecided, polls unreliable https://t.co/wEWWohUoZr","['brexit', 'eureferendum', 'ukineu']"
+188794,702470554943627264,294028805,positive,other,2016-02-24T12:30:06.000Z,#UKinEU: read the @EUCouncil conclusions on new settlement for the UK #EUreferendum #Brexit https://t.co/HGE9ShEL2D https://t.co/sgT9djUK4C,"['brexit', 'eureferendum', 'ukineu']"
+257884,705392604083523584,1327843160,neutral,leave,2016-03-03T14:01:17.000Z,#EUreferendum: A look at the campaigns for and against #Britain exiting the #EuropeanUnion https://t.co/70LMCgQrbQ #Brexit #UKinEU,"['brexit', 'eureferendum', 'ukineu', 'europeanunion', 'britain']"
+249194,705065167508283392,161243998,neutral,remain,2016-03-02T16:20:10.000Z,"#EUreferendum: How British #expats in Spain feel about the vote #Brexit #UKinEU #StrongerIn
+https://t.co/oPWtY7jL0E","['brexit', 'eureferendum', 'ukineu', 'expats', 'strongerin']"
+252931,705292422117462016,501139438,neutral,remain,2016-03-03T07:23:11.000Z,#EUreferendum: How British #expats in Spain feel about the vote #Brexit #UKinEU #StrongerIn https://t.co/dJShz7xIDr,"['brexit', 'eureferendum', 'ukineu', 'expats', 'strongerin']"
+252878,705291288090902528,501139438,neutral,leave,2016-03-03T07:18:41.000Z,#EUreferendum: how a vote for #Brexit could make clothes more expensive. #StrongerIn #UKinEU #Yes2Europe https://t.co/D9eAXabIs1,"['brexit', 'eureferendum', 'ukineu', 'yes2europe', 'strongerin']"
+95182,700332593632432128,84318971,positive,other,2016-02-18T14:54:36.000Z,"In #Brussels for the #EUSummit. Tusk says it's make or break, Cameron says better to get right deal than rush it #UKinEU #Brexit","['brexit', 'eusummit', 'ukineu', 'brussels']"
+114403,700850136214327296,105094415,neutral,other,2016-02-20T01:11:08.000Z,“The one thing that doesn't abide by majority rule is a person's conscience.” #HarperLee #UKinEU #Brexit,"['brexit', 'harperlee', 'ukineu']"
+112998,700818018750824448,245448732,neutral,remain,2016-02-19T23:03:30.000Z,Poke David Cameron #Hollande #Brexit #UKinEU  https://t.co/sKai1lL2LG,"['brexit', 'hollande', 'ukineu']"
+331989,709390425912680448,2189967965,neutral,other,2016-03-14T14:47:12.000Z,@C_Stihler_MEP to @jyrkikatainen at #IMCO: tmrw 100 days till #UK referendum. Could UK take part in #EFSI if it leaves #EU? #Brexit #UKinEU,"['brexit', 'imco', 'efsi', 'ukineu', 'uk', 'eu?']"
+86826,699884120772575232,135096804,neutral,leave,2016-02-17T09:12:32.000Z,#Juncker: We need #Britain in our European family and the British need the EU @BILD https://t.co/HJxf3mPNVi #UKinEU #EUreferendum #Brexit,"['brexit', 'juncker', 'ukineu', 'eureferendum', 'britain']"
+466871,719817356680114176,161243998,neutral,remain,2016-04-12T09:20:06.000Z,"#Brexit would be political arson, says David Miliband #EUref #UKinEU #Bremain #StrongerIn #LabourInForBritain
+https://t.co/c9KmCcTzWU","['brexit', 'labourinforbritain', 'euref', 'ukineu', 'bremain', 'strongerin']"
+284615,706842032166215680,161243998,negative,other,2016-03-07T14:00:47.000Z,"Labour’s pro-EU camp urges left and unions to battle #Brexit #LabourInForBritain #EUref #UKinEU #StrongerIn
+https://t.co/6QQHVOh6RJ","['brexit', 'labourinforbritain', 'euref', 'ukineu', 'strongerin']"
+373401,712272656012214272,161243998,neutral,remain,2016-03-22T13:40:09.000Z,"Ed Miliband: Labour must not 'sit out' #Brexit debate #EUref #UKinEU #StrongerIn #LabourInForBritain
+https://t.co/nybQeapc4Z","['brexit', 'labourinforbritain', 'euref', 'ukineu', 'strongerin']"
+345057,710148608142741504,1888629146,negative,remain,2016-03-16T16:59:56.000Z,Only 100 days to kill #EU #myths @InFactsOrg https://t.co/ScykgZGhMV #Brexit #Bremain #UKinEU,"['brexit', 'myths', 'ukineu', 'bremain', 'eu']"
+136356,701431375249821696,2996263767,positive,other,2016-02-21T15:40:46.000Z,#Brexit to end #EU &amp; #Britain? End to #colonialism / invite to #extremism - #Neoliberals can win either way. #EUreferendum #UKinEU #UK,"['brexit', 'neoliberals', 'ukineu', 'eureferendum', 'colonialism', 'eu', 'britain?', 'extremism', 'uk']"
+128081,701167455666905088,4715830097,positive,other,2016-02-20T22:12:03.000Z,https://t.co/e2GNiz5zPD TOP 5 SEXIEST FOOTBALL WAG'S #UKinEU #Brexit #LFW #newjacobvideo #UmbertoEco #HarperLee #SDCC #SaturdayNightTakeaway,"['brexit', 'newjacobvideo', 'saturdaynighttakeaway', 'ukineu', 'sdcc', 'umbertoeco', 'harperlee', 'lfw']"
+817078,736825292073762816,2488415784,neutral,leave,2016-05-29T07:43:33.000Z,IAN BIRRELL: Should we follow #Norway to the #EU exit? NEI! https://t.co/Nq0eNABG85 via @MailOnline #Brexit #trade #labor #UKinEU,"['brexit', 'norway', 'ukineu', 'labor', 'eu', 'trade']"
+553023,724151903991402496,967829749,positive,remain,2016-04-24T08:24:02.000Z,Good one #ObamaInUK #UKinEU #Brexit https://t.co/OEPT9QDZbB,"['brexit', 'obamainuk', 'ukineu']"
+635016,730024457146871808,608922566,positive,remain,2016-05-10T13:19:28.000Z,"Lego IBS claims the EU favours the ""Haves"" all tories to vote Yes to stay in then.
 
-https://t.co/cMT5l82x0a","['bremain', 'leadnotleave', 'voteremain', 'betteroffin', 'yestoeu', 'ukineu', 'votein', 'strongerin', 'brexit', 'yes2eu']"
-33,33,33,171076,702039199550152704,2364434006,negative,remain,2016-02-23T07:56:03.000Z,"Proof that #VoteLeave &amp; #Brexit bring UNCERTAINTY, CHAOS loss of confidence in #UK #UKreferendum #UKinEU #Bremain https://t.co/5x5o6u6HCD","['bremain', 'ukineu', 'uk', 'ukreferendum', 'brexit', 'voteleave']"
-34,34,34,161830,701808307527360512,2595343013,negative,remain,2016-02-22T16:38:34.000Z,This gentleman is suffering from a conflagration of the undergarments. #liar #brexit #votestay #eu #UKinEU #Bremain https://t.co/MuNY44I3C0,"['bremain', 'ukineu', 'votestay', 'eu', 'brexit', 'liar']"
-35,35,35,87734,699938874794106880,318489159,neutral,other,2016-02-17T12:50:06.000Z,European Council 18-19/2. Background brief https://t.co/1AggK6sqRC #Brexit #Bremain #Brexccident #UKinEU #EUCO #migrationEU,"['brexccident', 'migrationeu', 'ukineu', 'euco', 'bremain', 'brexit']"
-36,36,36,241130,704651904475930624,977881009,neutral,other,2016-03-01T12:58:00.000Z,#Brexit or #Brexin? On 8/3 @GroupIIIEESC hosts the debate in Manchester! Programme: https://t.co/NchWTY8QB9 #UKinEU https://t.co/3tJVHmuPqV,"['brexin?', 'ukineu', 'brexit']"
-37,37,37,165823,701867750495539200,2273497872,positive,leave,2016-02-22T20:34:46.000Z,"Insight: #Brexit, #Brussels and the art of dealmaking. Good read by @macdonaldrtr 
-
-https://t.co/whx62wK5oW #UKinEU https://t.co/LIWcjsZF0E","['brexit', 'brussels', 'ukineu']"
-38,38,38,180750,702207677523300352,490877906,negative,other,2016-02-23T19:05:31.000Z,Calais warns UK over #Brexit: 'We will move border back' #ukineu #cameron https://t.co/zTJeRvN8Jd via @POLITICOEurope,"['brexit', 'cameron', 'ukineu']"
-39,39,39,53970,695617000333320192,2840199321,positive,remain,2016-02-05T14:36:31.000Z,"If #Brexit, the #EU would lose its historically most solid democracy, a major military power and a key chunk of its economic weight. #UKinEU","['brexit', 'eu', 'ukineu']"
-40,40,40,53990,695618450425802752,2364434006,positive,remain,2016-02-05T14:42:17.000Z,"If #Brexit, the #EU would lose its historically most solid democracy, a major military power and a key chunk of its economic weight. #UKinEU","['brexit', 'eu', 'ukineu']"
-41,41,41,34964,693098158893723648,167419922,neutral,other,2016-01-29T15:47:32.000Z,#Brexit: All eggs in one basket https://t.co/yxdpc2ffVF via @dwnews #EU #Britain #UKinEU,"['brexit', 'eu', 'ukineu', 'britain']"
-42,42,42,37528,693856688739389440,167419922,positive,other,2016-01-31T18:01:40.000Z,#Brexit: PM #Cameron pushes #EU for greater powers to allow London to refuse welfare payments https://t.co/NhiRCGqh4l #UKinEU,"['brexit', 'eu', 'ukineu', 'cameron']"
-43,43,43,48663,694989966049468416,291499535,neutral,remain,2016-02-03T21:04:54.000Z,MEDIAWATCH - #Brexit: #Cameron slammed in British press for #EU deal https://t.co/KJV6Ddd6V1 #UKinEU,"['brexit', 'eu', 'ukineu', 'cameron']"
-44,44,44,309987,707936613142126592,161243998,negative,remain,2016-03-10T14:30:16.000Z,"#Brexit: ‘Human trafficking fight would be undermined’, says DPP (£) #EUref #UKinEU #StrongerIn
-https://t.co/3IrlN5Y1Wn","['brexit', 'euref', 'strongerin', 'ukineu']"
-45,45,45,293666,707260869504147456,161243998,neutral,remain,2016-03-08T17:45:06.000Z,"#Brexit: British security at stake, writes Richard Norton-Taylor @NortonTaylor #EUref #UKinEU #StrongerIn
-https://t.co/MMNhMDuXhT","['brexit', 'euref', 'strongerin', 'ukineu']"
-46,46,46,285783,706879752729047040,161243998,negative,remain,2016-03-07T16:30:40.000Z,"We would pay but lose our say after #Brexit, warn farmers in letter to the Times (£) #EUref #UKinEU #StrongerIn
-https://t.co/DqrlZ5OfLB","['brexit', 'euref', 'strongerin', 'ukineu']"
-47,47,47,414280,715515925563310080,315755142,positive,remain,2016-03-31T12:27:44.000Z,Former IMF chief economist @baselinescene on #Brexit: facts favor staying in the EU: https://t.co/641iAIeYLA via @ProSyn #UKinEU #EUref,"['brexit', 'euref', 'ukineu']"
-48,48,48,368768,712020282874142720,2159264468,neutral,remain,2016-03-21T20:57:18.000Z,New blog piece: @al_bealby dismantles Chris #Grayling's arguments for #Brexit: https://t.co/lFsoKRGBIM #UKinEU #EUref,"['brexit', 'euref', 'ukineu', ""grayling's""]"
-49,49,49,266576,705739722325233664,161243998,neutral,other,2016-03-04T13:00:36.000Z,"The Calais border treaty and #Brexit: what is France saying? @jonhenley #EUreferendum #UKinEU #StrongerIn
-https://t.co/xnMcWoa3qw","['brexit', 'eureferendum', 'strongerin', 'ukineu']"
-50,50,50,187416,702448090305826816,161243998,negative,other,2016-02-24T11:00:50.000Z,"Calais warns UK over #Brexit: ‘We will move border back’ #EUreferendum #UKinEU #StrongerIn
-https://t.co/9wASElD5qr","['brexit', 'eureferendum', 'strongerin', 'ukineu']"
-51,51,51,241925,704682754085036032,161243998,negative,other,2016-03-01T15:00:35.000Z,"Current account deficit could become a costly problem after #Brexit, writes @OliverKamm (£) #EUreferendum #UKinEU
-https://t.co/MuGYXnMoXa","['brexit', 'eureferendum', 'ukineu']"
-52,52,52,142467,701520945849229312,337862963,positive,other,2016-02-21T21:36:41.000Z,#Brexit: Will the UK Stay or Go? Interesting podcast by @bbcworldservice #UKinEU #EUreferendum https://t.co/G4PC7LpBgQ,"['brexit', 'eureferendum', 'ukineu']"
-53,53,53,143285,701536874372972544,566383494,neutral,remain,2016-02-21T22:39:59.000Z,Boris' @Telegraph column on why he is campaigning for #Brexit: https://t.co/Jtb3QW4hCH #BorisJohnson #EUreferendum #UKinEU,"['brexit', 'eureferendum', 'ukineu', 'borisjohnson']"
-54,54,54,133973,701384491529584640,275673712,negative,leave,2016-02-21T12:34:28.000Z,#Brexit: Cameron warns Britain against ‘step into the dark’: https://t.co/e5DlfZepow #FT #ukineu,"['brexit', 'ft', 'ukineu']"
-55,55,55,32778,692702535388381184,2310140414,neutral,other,2016-01-28T13:35:28.000Z,Chinese turmoil teaches 3 basic truths about #Brexit: The dangers of transition and #CapitalFlight. #FT.com https://t.co/kzUfuoR048 #UKinEU,"['brexit', 'ft.com', 'ukineu', 'capitalflight']"
-56,56,56,255668,705342139430002688,36205090,neutral,other,2016-03-03T10:40:45.000Z,"#Brexit, if it should happen, will have a massive impact on cohesion policy: @FabianZuleeg 
-#FutureCohesion #UKinEU https://t.co/kxCHEoKeUy","['brexit', 'futurecohesion', 'ukineu']"
-57,57,57,122590,701028801673875456,2212772029,positive,leave,2016-02-20T13:01:05.000Z,"#RealityCheck for the morons discussing #Brexit: after the great war w/#Russia only veterans will be receiving any ""#benefits"". #UKinEU","['brexit', 'realitycheck', 'ukineu']"
-58,58,58,267287,705769731568050176,977881009,positive,other,2016-03-04T14:59:51.000Z,#Brexit: free nation or economic ruin? @GroupIIIEESC hosts the debate in Manchester https://t.co/OR4HiOYYTd  #UkinEU https://t.co/mF7qaaLwcw,"['brexit', 'ukineu']"
-59,59,59,124329,701055403719794688,6134882,negative,other,2016-02-20T14:46:47.000Z,"EU offers Cameron a 'sweet deal' to avoid #Brexit, writes DW's Christoph Hasselbach https://t.co/8SqwngDF5z #UKinEU","['brexit', 'ukineu']"
-60,60,60,166472,701880923818749952,65466158,negative,other,2016-02-22T21:27:07.000Z,No #Brexit: #UKinEU theme song https://t.co/h7ZlnzV8hy,"['brexit', 'ukineu']"
-61,61,61,133008,701369028456161280,167419922,negative,other,2016-02-21T11:33:01.000Z,"#Brexit, #UKinEu campaign increasigly looks more complicated than conflict in Syria (3/3)","['brexit', 'ukineu']"
-62,62,62,50661,695264362651611136,280955681,negative,leave,2016-02-04T15:15:16.000Z,"Emergency brake on migrants benefits can prevent #Brexit, says @volkskrant https://t.co/25WM73AUU4 #UKinEU","['brexit', 'ukineu']"
-63,63,63,636532,730081284291203072,84092587,positive,other,2016-05-10T17:05:17.000Z,A small taste of Britain after #Brexit: UKIP's Farage attacks Hamilton's leadership victory. #ukineu https://t.co/37NDqAEhy2,"['brexit', 'ukineu']"
-64,64,64,45855,694799432773210112,177605712,neutral,other,2016-02-03T08:27:48.000Z,.@JunckerEU on #Brexit: 'the internal market needs being preserved while the economic &amp; monetary union must be stengthened.' #UKinEU,"['brexit', 'ukineu']"
-65,65,65,77271,699156303432830976,235129566,neutral,other,2016-02-15T09:00:27.000Z,Valentine's Day Blues  #ukinEu #brexit https://t.co/6wv7604C7A,"['brexit', 'ukineu']"
-66,66,66,45558,694800006893670400,177605712,negative,remain,2016-02-03T08:30:05.000Z,.@JunckerEU on #Brexit: 'most difficult discussions on social security. Safeguard mechanism useable up to 4 years for UK' #UKinEU,"['brexit', 'ukineu']"
-67,67,67,118829,700985217331425280,113149421,positive,other,2016-02-20T10:07:54.000Z,"Top supporters of #Brexit, Nigel Farage, George Galloway, Vladimir Putin! Dream team! #UKinEU 🇬🇧🇪🇺🇬🇧🇪🇺","['brexit', 'ukineu']"
-68,68,68,53552,695583672586629120,2273497872,positive,other,2016-02-05T12:24:05.000Z,".@EP_President about #Brexit: ""I am a strong supporter of #UKinEU.""
+#owngoal
+#UKinEU
+#Brexit","['brexit', 'owngoal', 'ukineu']"
+167497,701903786344894464,508169877,positive,other,2016-02-22T22:57:58.000Z,"PM Cameron made strong case to keep #UKinEU.  Johnson has #political ambitions w/ #Brexit, described as 'for the birds' a 'leap in the dark'","['brexit', 'political', 'ukineu']"
+38703,694052688510738432,167419922,neutral,other,2016-02-01T07:00:30.000Z,The #EU and David #Cameron: We need to talk about #Brexit https://t.co/aF6lZe3BZ3 via @POLITICOEurope #politics #UKinEU,"['brexit', 'politics', 'ukineu', 'eu', 'cameron']"
+42338,694488830355886080,943448341,neutral,other,2016-02-02T11:53:34.000Z,"In the meantime, in Europe... #Brexit #EU #UKinEU #UK #Politics @Number10gov  https://t.co/TXpPFspoZ2","['brexit', 'politics', 'ukineu', 'eu', 'uk']"
+39416,694116382502473728,2388749846,neutral,other,2016-02-01T11:13:36.000Z,#Brexit would trigger shockwaves in Europe https://t.co/LyjlFp7M63 #EU #UKinEU #UK #PoliticsToday https://t.co/oHRE83AZuI,"['brexit', 'politicstoday', 'ukineu', 'eu', 'uk']"
+146904,701670881207128064,22985183,positive,other,2016-02-22T07:32:29.000Z,That's interesting. Not what he said on #r4today #Brexit #BoGo #UKinEU #EUreferendum  https://t.co/asa3b1pGt9,"['brexit', 'r4today', 'ukineu', 'eureferendum', 'bogo']"
+1494483,745807298740649984,44803158,negative,leave,2016-06-23T02:34:51.000Z,Pollster declares #referendum a 'statistical dead heat' https://t.co/SQd0Rjm9Fx via @MailOnline #BritainDecides #Brexit #UKinEU,"['brexit', 'referendum', 'britaindecides', 'ukineu']"
+121609,701020091354365952,967829749,neutral,other,2016-02-20T12:26:28.000Z,#UK #referendum on June 23 #UKinEU #Brexit,"['brexit', 'referendum', 'ukineu', 'uk']"
+143320,701537856075014144,566383494,positive,other,2016-02-21T22:43:53.000Z,"Also from @Telegraph , column by @WilliamJHague backing #Remain: https://t.co/LDucwkxWQS #EUreferendum #UKinEU #Brexit","['brexit', 'remain', 'ukineu', 'eureferendum']"
+57398,696283535028707328,167419922,neutral,other,2016-02-07T10:45:05.000Z,#SNP becomes first Scottish party to register as campaigner in #EU referendum https://t.co/l6TcvrvWN7 #Scotland #Brexit #UKinEU #Britain,"['brexit', 'scotland', 'snp', 'ukineu', 'eu', 'britain']"
+203779,702989501820436480,1563933978,neutral,other,2016-02-25T22:52:12.000Z,#Startups across the pond having a say in whether a #Brexit occurs! https://t.co/81I2SvRAi4 via @TechCrunch #UKinEU https://t.co/OdsU6rhXk8,"['brexit', 'startups', 'ukineu']"
+829730,737335104066998272,736697117918498816,neutral,other,2016-05-30T17:29:22.000Z,"Record your sillywalk &amp; share! EUcitizens campaign for #UKinEU
+https://t.co/4E6zgusUO9
+#EUref #StrongerIn no #brexit https://t.co/2j4fn4i7YA","['brexit', 'strongerin', 'ukineu', 'euref']"
+285783,706879752729047040,161243998,negative,remain,2016-03-07T16:30:40.000Z,"We would pay but lose our say after #Brexit, warn farmers in letter to the Times (£) #EUref #UKinEU #StrongerIn
+https://t.co/DqrlZ5OfLB","['brexit', 'strongerin', 'ukineu', 'euref']"
+113965,700838484307681280,2488415784,negative,other,2016-02-20T00:24:50.000Z,#Eurosceptics pour scorn on PM's EU deal https://t.co/pRu83KZQkQ via @MailOnline #thedealtodeal #UKinEU #Brexit #Out,"['brexit', 'thedealtodeal', 'ukineu', 'eurosceptics', 'out']"
+252381,705278072577269760,501139438,neutral,other,2016-03-03T06:26:10.000Z,"@bbclaurak says: ""Move along! Nothing to see!""  #ToryCivilWar #Brexit #StrongerIn #Yes2EU #UKinEU https://t.co/mZxzOBIenF","['brexit', 'torycivilwar', 'ukineu', 'yes2eu', 'strongerin']"
+149608,701693996037488640,1618577623,neutral,remain,2016-02-22T09:04:20.000Z,Boris Johnson supports #brexit. Such a populist and crazy decision... #UKinEU,"['brexit', 'ukineu']"
+124329,701055403719794688,6134882,negative,other,2016-02-20T14:46:47.000Z,"EU offers Cameron a 'sweet deal' to avoid #Brexit, writes DW's Christoph Hasselbach https://t.co/8SqwngDF5z #UKinEU","['brexit', 'ukineu']"
+1347099,744995815597412352,2435053308,neutral,other,2016-06-20T20:50:18.000Z,@billnewtondunn Can we hear from an MEP besides Farage in this debate please? #Brexit #UKInEU,"['brexit', 'ukineu']"
+318414,708336999342743552,524148197,positive,other,2016-03-11T17:01:15.000Z,Blow for David Cameron as Tory MEP who brokered #UKInEU deal backs #Brexit. https://t.co/7rdVDiAxnN via @BelTel,"['brexit', 'ukineu']"
+50661,695264362651611136,280955681,negative,leave,2016-02-04T15:15:16.000Z,"Emergency brake on migrants benefits can prevent #Brexit, says @volkskrant https://t.co/25WM73AUU4 #UKinEU","['brexit', 'ukineu']"
+103684,700655021067628544,42586014,positive,remain,2016-02-19T12:15:49.000Z,From earlier – A big opportunity for Europe – Le Figaro (Paris) #Brexit #UKInEU @Le_Figaro https://t.co/mbw0MzeEOx,"['brexit', 'ukineu']"
+110144,700792181590728704,87980263,neutral,leave,2016-02-19T21:20:50.000Z,#UKinEU: Cameron loses one of his closes allies as Michael Gove announces that he will campaign for #Brexit https://t.co/yH3jp4y0l1,"['brexit', 'ukineu']"
+53552,695583672586629120,2273497872,positive,other,2016-02-05T12:24:05.000Z,".@EP_President about #Brexit: ""I am a strong supporter of #UKinEU.""
 
 https://t.co/UpGmlEb2ac https://t.co/ldmw3CVG06","['brexit', 'ukineu']"
-69,69,69,1617,683918778082660352,167419922,positive,other,2016-01-04T07:51:57.000Z,#Brexit: Support for staying in #Europe on the wane among finance directors https://t.co/eqa4JFa7Iu #UKinEU,"['brexit', 'ukineu', 'europe']"
-70,70,70,1072302,742360202297651200,1257629274,negative,other,2016-06-13T14:17:19.000Z,German dreads the risk of Brexit https://t.co/gGAFy3JDHB #brexit #news #germany #eu #uk #ukineu #london,"['brexit', 'ukineu', 'germany', 'london', 'eu', 'uk', 'news']"
-71,71,71,255099,705330759758962688,284146984,neutral,other,2016-03-03T09:55:32.000Z,It's official Jun 23 we vote on #UkinEU. Here's the impact of #brexit on #pharma sector. The debate is complex https://t.co/krayD0knGG,"['brexit', 'ukineu', 'pharma']"
-72,72,72,96957,700390832252256256,109288334,positive,remain,2016-02-18T18:46:01.000Z,"Enough of #Brexit, #EUCO, #UKinEU for today. It's time for #pietroEXIT the office :-) Good evening everyone!","['brexit', 'ukineu', 'pietroexit', 'euco']"
-73,73,73,116724,700952486052499456,2545627653,positive,other,2016-02-20T07:57:50.000Z,"Last night @georgegalloway was praised by @Nigel_Farage at #Brexit rally. Here's his thoughts.
+115197,700914027829055488,42586014,positive,remain,2016-02-20T05:25:01.000Z,From yesterday – A big opportunity for Europe – Le Figaro (Paris) #Brexit #UKInEU @Le_Figaro https://t.co/mbw0Mzwgd7,"['brexit', 'ukineu']"
+111600,700804407189860352,1972407720,negative,other,2016-02-19T22:09:25.000Z,#UKinEU: #Brexit would be 2. loss of British Empire. No more E3/EU+3-Talks on foreign policy.Instead joining others. https://t.co/6F7GrznFXf,"['brexit', 'ukineu']"
+59905,696610183729045504,63670539,negative,other,2016-02-08T08:23:04.000Z,#UkInEu #Brexit “There are a lot of unfair elements in this deal” according to @VisentiniLuca on the @guardian https://t.co/jic2zOm3jI,"['brexit', 'ukineu']"
+1408261,745358197721022464,2435053308,neutral,other,2016-06-21T20:50:17.000Z,"@billnewtondunn The EU spends 2.4% of our budget annually, we spend the other 97.6% #Brexit #UKInEU","['brexit', 'ukineu']"
+118829,700985217331425280,113149421,positive,other,2016-02-20T10:07:54.000Z,"Top supporters of #Brexit, Nigel Farage, George Galloway, Vladimir Putin! Dream team! #UKinEU 🇬🇧🇪🇺🇬🇧🇪🇺","['brexit', 'ukineu']"
+133008,701369028456161280,167419922,negative,other,2016-02-21T11:33:01.000Z,"#Brexit, #UKinEu campaign increasigly looks more complicated than conflict in Syria (3/3)","['brexit', 'ukineu']"
+436614,717369153728983040,38474832,positive,other,2016-04-05T15:11:48.000Z,"An excellent assessment #UKinEU: ""There’s no insurance policy against #Brexit"", says Aviva boss https://t.co/c9zoCddKeq","['brexit', 'ukineu']"
+114298,700845366598565888,204242288,neutral,other,2016-02-20T00:52:11.000Z,"Riddle me this. The #UKinEU deal is basically Cameron avoiding #Brexit, right?","['brexit', 'ukineu']"
+636461,730078066282799104,1888629146,positive,other,2016-05-10T16:52:29.000Z,#Brexit champion. | Senior German politician says Iain Duncan Smith 'lying' over #EU claim https://t.co/4TSbudn9Vm  #Bremain #EUref #UKinEU,"['brexit', 'ukineu', 'bremain', 'eu', 'euref']"
+508769,722061435589824512,1888629146,positive,remain,2016-04-18T13:57:16.000Z,How #Brexit would reduce foreign #investment in the #UK – and why that matters https://t.co/AO5r0VCWJD vía @ConversationUK #Bremain #UKinEU,"['brexit', 'ukineu', 'bremain', 'investment', 'uk']"
+249142,705062419006095360,318489159,neutral,other,2016-03-02T16:09:14.000Z,#UK cabinet office policy paper on possible models for UK outside EU https://t.co/GLMgqJ4Iqi #EUref #UKinEU #Brexit #Bremain,"['brexit', 'ukineu', 'bremain', 'uk', 'euref']"
+1193544,743420789538590720,2202943584,negative,remain,2016-06-16T12:31:42.000Z,When you don't have any argument instil FEAR. That sums up #UKinEU stance on #brexit. #brokenEU https://t.co/CBZZPvCSay,"['brexit', 'ukineu', 'brokeneu']"
+165823,701867750495539200,2273497872,positive,leave,2016-02-22T20:34:46.000Z,"Insight: #Brexit, #Brussels and the art of dealmaking. Good read by @macdonaldrtr 
 
-#ukinEu #Strongerin https://t.co/8oKfOMVeI2","['brexit', 'ukineu', 'strongerin']"
-74,74,74,104757,700679352065851392,80870072,negative,other,2016-02-19T13:52:30.000Z,#Brexit: #V4 wants to limit the emergency break to 7 years: Slovak PM Fico. Foresees a compromise #UKinEU,"['brexit', 'ukineu', 'v4']"
-75,75,75,511099,722147441110290432,994858092,negative,remain,2016-04-18T19:39:01.000Z,"#Brexit: economic disaster for UK. It takes years to renegotiate new trade agreements with everyone. #UKinEU
-#passoscoelho #wmartensfund","['brexit', 'ukineu', 'wmartensfund', 'passoscoelho']"
-76,76,76,170851,702035608290652160,330250653,neutral,other,2016-02-23T07:41:46.000Z,#EU #referendum: Can #Switzerland show #UKinEU  route to #Brexit? - https://t.co/NkXD7C2akI,"['brexit?', 'switzerland', 'ukineu', 'eu', 'referendum']"
-77,77,77,431819,717019085842714624,161243998,neutral,other,2016-04-04T16:00:46.000Z,"A dog’s #Brexit? | @Jon_Danzig #EUreferendum #EUref #UKinEU #StrongerIN
-https://t.co/7wqofztD8W","['brexit?', 'ukineu', 'eureferendum', 'euref', 'strongerin']"
-78,78,78,1510409,745877884393390080,1205903011,neutral,other,2016-06-23T07:15:20.000Z,"Song of the day...
-https://t.co/fOJHqawM6S
-#UKreferendum #BrexitOrNot #UKinEU #Brexit #Bremain","['brexitornot', 'ukineu', 'ukreferendum', 'bremain', 'brexit']"
-79,79,79,167348,701900109081092096,848174551,neutral,remain,2016-02-22T22:43:21.000Z,https://t.co/vH1MK6vpnT Major splits in #Tory party over #EUreferendum @guardian #Brexit #Brexitref #euref #UKinEU #PoliticsToday,"['brexitref', 'tory', 'ukineu', 'euref', 'politicstoday', 'eureferendum', 'brexit']"
-80,80,80,189688,702487373205147648,1327843160,neutral,leave,2016-02-24T13:36:56.000Z,.@EurActiv: Countdown to #Brexit referendum https://t.co/df76WNMTUI #Brexitref #Brexitreferendum #EUreferendum #UKinEU #UnitedKingdom,"['brexitreferendum', 'unitedkingdom', 'brexitref', 'ukineu', 'eureferendum', 'brexit']"
-81,81,81,126138,701113449452015616,4882196008,negative,remain,2016-02-20T18:37:27.000Z,"@matteorenzi dopo #UKinEU: ripartire con Europa #innovativa #affascinante e #brillante. Ma dice sul serio? No, dai. #renzi #eudeal #brexit","['brillante', 'eudeal', 'renzi', 'affascinante', 'ukineu', 'brexit', 'innovativa']"
-82,82,82,267273,705769009304772608,4885600312,positive,other,2016-03-04T14:56:59.000Z,But #immigration and #health are even more important to the public #EUreferendum #Brexit #UkinEU #Britain #EUref  https://t.co/3T9vL351fy,"['britain', 'immigration', 'health', 'ukineu', 'eureferendum', 'euref', 'brexit']"
-83,83,83,46768,694839442842980352,135096804,neutral,other,2016-02-03T11:06:47.000Z,#Tusk's plan to keep #britain in EU draws mixed response @Reuters https://t.co/9XjxaJBaZy #EUreform #EUreferendum #Brexit #UKinEU #euref,"['britain', 'ukineu', 'euref', 'eureform', ""tusk's"", 'eureferendum', 'brexit']"
-84,84,84,1494483,745807298740649984,44803158,negative,leave,2016-06-23T02:34:51.000Z,Pollster declares #referendum a 'statistical dead heat' https://t.co/SQd0Rjm9Fx via @MailOnline #BritainDecides #Brexit #UKinEU,"['britaindecides', 'ukineu', 'referendum', 'brexit']"
-85,85,85,1278118,744510089520885760,2435053308,neutral,remain,2016-06-19T12:40:12.000Z,@maryhoneyball Remain and Reform the EU (like we constantly reform the Houses of Parliament) #Brexit #britainout #UKinEU,"['britainout', 'ukineu', 'brexit']"
-86,86,86,1382896,745234901365104640,2435053308,neutral,other,2016-06-21T12:40:20.000Z,"@PaulBrannenNE The EU spends 2.4% of our budget annually, we spend the other 97.6% #Brexit #britainout #UKinEU","['britainout', 'ukineu', 'brexit']"
-87,87,87,1323491,744872544419913728,2435053308,neutral,other,2016-06-20T12:40:28.000Z,@PaulBrannenNE Can we hear from an MEP besides Farage in this debate please? #Brexit #britainout #UKinEU,"['britainout', 'ukineu', 'brexit']"
-88,88,88,186784,702437012549312512,627471241,positive,remain,2016-02-24T10:16:49.000Z,#Brexit is a #british narrative of how #Europe should look like - #AdamRotfeld. #UK #EU #UKinEU,"['british', 'ukineu', 'uk', 'europe', 'adamrotfeld', 'eu', 'brexit']"
-89,89,89,171664,702047035478900736,110831275,neutral,remain,2016-02-23T08:27:11.000Z,200 major #business figures who back #ukineu over #brexit - a lot of jobs represented by their companies https://t.co/cWQHL8z8Ji @CityAM,"['business', 'brexit', 'ukineu']"
-90,90,90,126622,701111037874073600,2944932004,positive,other,2016-02-20T18:27:52.000Z,Is #Wales to reliant on #EU #funding regardless of the outcome of #EUreferendum #business #UKinEU #Brexit #StayInEU,"['business', 'ukineu', 'wales', 'stayineu', 'eu', 'eureferendum', 'brexit', 'funding']"
-91,91,91,37894,693908274429743104,246503663,negative,other,2016-01-31T21:26:39.000Z,"#Brexit It became clear this evening #France will block some key concessions requested by #Cameron, making it very difficult for #UKinEU","['cameron', 'france', 'ukineu', 'brexit']"
-92,92,92,112756,700814771499749376,959947411,positive,other,2016-02-19T22:50:36.000Z,"""Stronger and safer in Europe"", that's #Cameron's mantra. ""Will the Brits buy it?"" is the journalists'. #EUreferendum #UKinEU #Brexit #EUCO","[""cameron's"", 'ukineu', 'euco', 'eureferendum', 'brexit']"
-93,93,93,46435,694823197078872064,135096804,positive,remain,2016-02-03T10:02:14.000Z,Most of the British press lashes #Cameron's EU settlement @guardian https://t.co/UJ7dfnP4A3 #EUreform #EUreferendum #Brexit #UKinEU #euref,"[""cameron's"", 'ukineu', 'euref', 'eureform', 'eureferendum', 'brexit']"
-94,94,94,114127,700840331110125568,1007281303,positive,other,2016-02-20T00:32:10.000Z,#Cameron's EU deal mainly enshrines already established British exceptions. #UK was never going to join #euro or #Schengen #UKinEU #brexit,"[""cameron's"", 'ukineu', 'uk', 'schengen', 'euro', 'brexit']"
-95,95,95,129019,701226795874521088,1060264448,neutral,other,2016-02-21T02:07:50.000Z,#Cameron's #EUReferendum statement after the European Council #Brexit #UKinEU #Strongerin #Votetoleave https://t.co/exTHvkIIG5,"[""cameron's"", 'votetoleave', 'ukineu', 'eureferendum', 'brexit', 'strongerin']"
-96,96,96,455600,718784764401070080,2389336800,negative,remain,2016-04-09T12:56:56.000Z,#Brexit nightmare is becoming reality. The remain camp is in denial https://t.co/OlP5XLWqhS #CameronResign #EUref #panamapapers #UKinEU,"['cameronresign', 'ukineu', 'panamapapers', 'euref', 'brexit']"
-97,97,97,42217,694486269192179712,96621704,positive,other,2016-02-02T11:43:24.000Z,@eucopresident What do we do when we realize that benefits have little impact on migration? Vote again? #cameronsfallacies #brexit #UKinEU,"['cameronsfallacies', 'brexit', 'ukineu']"
-98,98,98,86728,699878321417494528,135096804,negative,other,2016-02-17T08:49:29.000Z,#CBI joins EU #business #lobby groups urging UK to stay in EU @business https://t.co/HL4OOjtrkK #EUreferendum #UKinEU #Brexit #euref,"['cbi', 'lobby', 'business', 'ukineu', 'euref', 'eureferendum', 'brexit']"
-99,99,99,112762,700814854421135360,28107703,neutral,remain,2016-02-19T22:50:56.000Z,@David_Cameron #Chamberlain also thought he negotiated a deal with a German Leader in 1938. #UkinEU #Brexit https://t.co/rJXDonXmFY,"['chamberlain', 'ukineu', 'brexit']"
-100,100,100,142497,701521577100361728,241071259,neutral,other,2016-02-21T21:39:12.000Z,"@suttonnick #Churchill is founding father #EU , so Boris #Brexit has to learn his #UKinEU world history lessons https://t.co/HUFYTIxguB","['churchill', 'eu', 'ukineu', 'brexit']"
-101,101,101,163884,701833402123689984,241071259,neutral,other,2016-02-22T18:18:17.000Z,"@dwdd @EU2016NL #Churchill is founding father #EU , so Boris #Brexit has to learn his #UKinEU world history lessons https://t.co/HUFYTIxguB","['churchill', 'eu', 'ukineu', 'brexit']"
-102,102,102,136356,701431375249821696,2996263767,positive,other,2016-02-21T15:40:46.000Z,#Brexit to end #EU &amp; #Britain? End to #colonialism / invite to #extremism - #Neoliberals can win either way. #EUreferendum #UKinEU #UK,"['colonialism', 'eureferendum', 'ukineu', 'uk', 'britain?', 'eu', 'neoliberals', 'extremism', 'brexit']"
-103,103,103,160380,701795923005939712,612560977,positive,other,2016-02-22T15:49:21.000Z,.@David_Cameron with superb speech against #Brexit in the #Commons there. This is beyond doubt #hisfinesthour. #UKinEU,"['commons', 'ukineu', 'brexit', 'hisfinesthour']"
-104,104,104,109170,700781963481890816,1690464182,neutral,leave,2016-02-19T20:40:14.000Z,2/2: #Czech way through #EUCO @EUCouncil @POLITICOEurope @CZSecStateEU @SlavekSobotka #Brexit #UKinEU #migrationEU https://t.co/iYzrbvTRpf,"['czech', 'migrationeu', 'ukineu', 'euco', 'brexit']"
-105,105,105,69268,697874593307095040,3297922053,positive,other,2016-02-11T20:07:23.000Z,"#BREAKING: #EU refines #UK #offer, up to #Cameron now to #clinch #deal. #EmergencyBrake #Brexit #UKExit #UKinEU #EUcrisis #asylumseekers","['deal', 'eucrisis', 'offer', 'emergencybrake', 'ukineu', 'uk', 'breaking', 'eu', 'cameron', 'clinch', 'ukexit', 'brexit', 'asylumseekers']"
-106,106,106,188022,702458079502331904,259685077,positive,other,2016-02-24T11:40:31.000Z,"Register to Vote for #UKreferendum #democratic #UKinEU #Brexit Your decision matters a lot! https://t.co/qT8Oasld78 
-https://t.co/1HNToLn7dt","['democratic', 'ukreferendum', 'ukineu', 'brexit']"
-107,107,107,84006,699607410261020672,52682311,positive,other,2016-02-16T14:52:59.000Z,"No #discrimination, no retroactive force &amp; no #EU law on in-work &amp; child care benefits according to HU diplo sources #Brexit #UKinEU #V4","['discrimination', 'ukineu', 'eu', 'brexit', 'v4']"
-108,108,108,212420,703325812892831744,3403916055,positive,other,2016-02-26T21:08:35.000Z,"After #politicians #economist #analysts and #business, now the #gruffalo wades into the #Brexit #UKinEU debate and supports in. Who next??","['economist', 'ukineu', 'analysts', 'business', 'gruffalo', 'politicians', 'brexit']"
-109,109,109,192262,702545489091280896,3297922053,neutral,leave,2016-02-24T17:27:51.000Z,#BREAKING: #Ryanair to #campaign against #Brexit. #LeaveEU #StayInEU #EUexit #EUexit #Economy #UKreferendum #UKinEU,"['economy', 'ryanair', 'campaign', 'ukineu', 'breaking', 'brexit', 'stayineu', 'euexit', 'ukreferendum', 'leaveeu']"
-110,110,110,322427,708665605977673728,2389336800,neutral,other,2016-03-12T14:47:01.000Z,#Edinburgh is more pro-European than #London | #Brexit #EUref #UKinEU   https://t.co/2mMj6JRDuj,"['edinburgh', 'ukineu', 'london', 'euref', 'brexit']"
-111,111,111,128861,701202080019550208,129136998,positive,other,2016-02-21T00:29:38.000Z,Here’s how to argue with a Brexiter – and win | Timothy Garton Ash https://t.co/0h3jt9eNFd #Brexit #EUreferendum #england #eu #UKinEU,"['england', 'ukineu', 'eureferendum', 'eu', 'brexit']"
-112,112,112,412298,715463632495243264,1268333359,neutral,leave,2016-03-31T08:59:57.000Z,Wales must vote to end #EU domination #Brexit #VoteLeave #GO #LeaveEU #UKinEU #EUreferendum #England #rugby #Wales https://t.co/yHOSl8osmw,"['england', 'ukineu', 'rugby', 'brexit', 'wales', 'eu', 'eureferendum', 'go', 'leaveeu', 'voteleave']"
-113,113,113,295189,707336452993130496,22985183,negative,other,2016-03-08T22:45:26.000Z,"Have worked in #Austria,#Croatia, #Monaco,#Ireland, #England &amp; #Scotland - no visa required. Try that under #Brexit #UKinEU @academicsforeu","['england', 'ukineu', 'scotland', 'austria,#croatia', 'monaco,#ireland', 'brexit']"
-114,114,114,204296,702999863122927616,148461480,neutral,remain,2016-02-25T23:33:23.000Z,"Why the #SNP, for now, campaigns to stay in the #EU 
+https://t.co/whx62wK5oW #UKinEU https://t.co/LIWcjsZF0E","['brexit', 'ukineu', 'brussels']"
+112762,700814854421135360,28107703,neutral,remain,2016-02-19T22:50:56.000Z,@David_Cameron #Chamberlain also thought he negotiated a deal with a German Leader in 1938. #UkinEU #Brexit https://t.co/rJXDonXmFY,"['brexit', 'ukineu', 'chamberlain']"
+134866,701404677729099776,115020963,negative,other,2016-02-21T13:54:41.000Z,"According to BBC Boris Johnson is expected to join ""Leave"" camp. No public message yet https://t.co/rf95CxyuJl eudk #dkpol #brexit #UKinEU","['brexit', 'ukineu', 'dkpol']"
+121745,701021082652950528,279484179,positive,other,2016-02-20T12:30:25.000Z,"#Cameron: ""We are safer, stronger and better in the #EU."" #UKinEU #Brexit","['brexit', 'ukineu', 'eu', 'cameron']"
+119661,700996683866497024,30857135,positive,other,2016-02-20T10:53:27.000Z,"Strong views on whether the #UK should stay in the #EU. #EUreferendum #Brexit #UKinEU 
+From today's #FT =&gt; https://t.co/LVUzMZBm4M","['brexit', 'ukineu', 'eu', 'eureferendum', 'ft', 'uk']"
+200463,702864650321448960,2389336800,negative,other,2016-02-25T14:36:05.000Z,"Ahead of referendum, EU seeks to avoid controversy https://t.co/OFyAfyme5y #Brexit #Savile #UKinEU #EUref #EU https://t.co/XSxr8zzF3V","['brexit', 'ukineu', 'eu', 'savile', 'euref']"
+1045525,741940070987489280,267371415,neutral,leave,2016-06-12T10:27:52.000Z,Here is what other #EU countries think about #Brexit. Research with @AQMeNNetwork + @uoessps #EUref #UKinEU #UK  https://t.co/A17v6TnrbZ,"['brexit', 'ukineu', 'eu', 'uk', 'euref']"
+14601,688280593734463488,959947411,neutral,leave,2016-01-16T08:44:15.000Z,"Special summit could pave way for #EUreferendum in June, @guardian has heard. #euco #UKinEU #EUref #Brexit  https://t.co/uqgdMPNTf0","['brexit', 'ukineu', 'euco', 'eureferendum', 'euref']"
+444525,717985733093548032,47071615,negative,remain,2016-04-07T08:01:52.000Z,#UKinEU #Stay or #leave? Balance sheet on energy and climate policy by @OxfordEnergy in TTR33 #EUCOLibrary https://t.co/1EUV293QCk #Brexit,"['brexit', 'ukineu', 'eucolibrary', 'leave?', 'stay']"
+108289,700763064207958016,29018320,neutral,remain,2016-02-19T19:25:08.000Z,#EUCO’s English Breakfast (now English Dinner) due to start any moment (20:30 CET). Delays or what? #UKinEU #Brexit,"['brexit', 'ukineu', 'euco’s']"
+476257,720175598623137792,1060264448,negative,other,2016-04-13T09:03:37.000Z,"Why the City may be gagged ahead of #Brexit vote, Politico.eu #EuRef #VoteToLeave #StrongerIn #UKinEU #Brexit https://t.co/aClLECvaPW","['brexit', 'ukineu', 'euref', 'votetoleave', 'strongerin']"
+241925,704682754085036032,161243998,negative,other,2016-03-01T15:00:35.000Z,"Current account deficit could become a costly problem after #Brexit, writes @OliverKamm (£) #EUreferendum #UKinEU
+https://t.co/MuGYXnMoXa","['brexit', 'ukineu', 'eureferendum']"
+51161,695325234551873536,2922302922,negative,leave,2016-02-04T19:17:09.000Z,"A #Brexit would be disastrous for the #UK   https://t.co/TjAiKw3FN8
+#Britain #UKinEU #EU #EUreferendum","['brexit', 'ukineu', 'eureferendum', 'eu', 'britain', 'uk']"
+207252,703157789141524480,416158677,neutral,remain,2016-02-26T10:00:55.000Z,"""How Does It Feel Being European In London?"" by Marie Le Conte #EUreferendum #Brexit #EU #UK #UKinEU https://t.co/FpUjqEDMT2","['brexit', 'ukineu', 'eureferendum', 'eu', 'uk']"
+126686,701112783564382208,41195676,positive,leave,2016-02-20T18:34:48.000Z,Helpful diagram by @TheEconomist  on #EUreferendum #Brexit #UKinEU #StrongerIn #LeaveEU https://t.co/047y1EQjAn,"['brexit', 'ukineu', 'eureferendum', 'leaveeu', 'strongerin']"
+233110,704278741539749888,453815493,neutral,other,2016-02-29T12:15:11.000Z,#UK government has published a report on #Brexit. #EUreferendum #UKinEU https://t.co/czJ8VVJkio,"['brexit', 'ukineu', 'eureferendum', 'uk']"
+129989,701316704199114752,28451200,positive,leave,2016-02-21T08:05:06.000Z,Excellent encapsulation of what's @ stake in #UK #EUReferendum @RichardHaass @SwannyQLD @IvoHDaalder https://t.co/UGx9PKQteq #UKinEU #Brexit,"['brexit', 'ukineu', 'eureferendum', 'uk']"
+235950,704378162461937664,1327843160,positive,leave,2016-02-29T18:50:15.000Z,Stronger together? - A caricature of #Brexit (via @One1Europe) https://t.co/NKhfVie978 #UnitedKingdom #EuropeanUnion #UKinEU #EUreferendum,"['brexit', 'ukineu', 'europeanunion', 'eureferendum', 'unitedkingdom']"
+81403,699412485816893440,1327843160,neutral,leave,2016-02-16T01:58:25.000Z,#UnitedKingdom's 'love-hate relationship' with the #EuropeanUnion https://t.co/KIuWqwoJJ1 #UKinEU #Brexit #BrexitTheMovie,"['brexit', 'ukineu', 'europeanunion', ""unitedkingdom's"", 'brexitthemovie']"
+255668,705342139430002688,36205090,neutral,other,2016-03-03T10:40:45.000Z,"#Brexit, if it should happen, will have a massive impact on cohesion policy: @FabianZuleeg 
+#FutureCohesion #UKinEU https://t.co/kxCHEoKeUy","['brexit', 'ukineu', 'futurecohesion']"
+234427,704320465490223104,161243998,negative,other,2016-02-29T15:00:59.000Z,"#Brexit will shock world economy, warns G20 #EUreferendum #UKinEU #G20 #StrongerIn
+https://t.co/NkxeE7tXPo","['brexit', 'ukineu', 'g20', 'eureferendum', 'strongerin']"
+169518,702012161271451648,366811939,positive,remain,2016-02-23T06:08:36.000Z,Seems a Brexit will allow #GMCrops to sweep the #UK #UKinEU #UKoutEU #UKRef #Brexit,"['brexit', 'ukineu', 'gmcrops', 'ukref', 'ukouteu', 'uk']"
+109829,700788894539841536,20593548,neutral,leave,2016-02-19T21:07:47.000Z,"#UKinEU done, now time for #grassrootsout #Brexit https://t.co/OjnGb70lEs","['brexit', 'ukineu', 'grassrootsout']"
+165784,701866703282642944,430235090,neutral,leave,2016-02-22T20:30:36.000Z,Crunch time for the #EuropeanUnion @DaliborRohac #Brexit #UKinEU #RefugeeCrisis #Greece https://t.co/M9nxpvHElL https://t.co/PY70tOJzQG,"['brexit', 'ukineu', 'greece', 'europeanunion', 'refugeecrisis']"
+292743,707226693652652032,550825346,neutral,other,2016-03-08T15:29:18.000Z,Chris Giles on #UKinEU #LeighBureauSpeakers #Brexit  https://t.co/V0tfQAisL3,"['brexit', 'ukineu', 'leighbureauspeakers']"
+113239,700821273576939520,476014777,positive,other,2016-02-19T23:16:26.000Z,"So ""deal"" reached. Not to be presented to EU Parliament until after referendum.  #UKinEU. To quote  @TheoPaphitis  #pantomime. #Brexit","['brexit', 'ukineu', 'pantomime']"
+57193,696262419857989632,167419922,negative,leave,2016-02-07T09:21:11.000Z,Vote Leave donor's company lays out reasons for staying in #EU https://t.co/5y612ctgey via @politicshome  #Britain #politics #Brexit #UKinEU,"['brexit', 'ukineu', 'politics', 'eu', 'britain']"
+172071,702052345132277760,41439201,negative,other,2016-02-23T08:48:17.000Z,#Brexit panic knocks #pound to seven-year low https://t.co/SPwk5uWnuK #UKreferendum #VoteStay #UKinEU,"['brexit', 'ukineu', 'pound', 'votestay', 'ukreferendum']"
+429653,716920561109241856,47071615,negative,remain,2016-04-04T09:29:16.000Z,.@standardpoors warns that #Brexit could cause loss of #UK 's AAA #rating #EU #UKinEU https://t.co/3kKpm6aBCV @POLITICOEurope,"['brexit', 'ukineu', 'rating', 'eu', 'uk']"
+408016,715109426215198720,309032431,neutral,leave,2016-03-30T09:32:27.000Z,Leaving the #EU would be a retrograde step for UK's national #security https://t.co/veNDKGwbId #UKinEU #UKRef #Brexit,"['brexit', 'ukineu', 'security', 'eu', 'ukref']"
+412834,715456908895903744,326797446,neutral,remain,2016-03-31T08:33:14.000Z,Another uncertainty around #Brexit.. Very insightful piece from @Bruegel_org #StrongerIN #UKinEU  https://t.co/Lkhmo8s7dd,"['brexit', 'ukineu', 'strongerin']"
+179651,702178258310160384,162427574,positive,leave,2016-02-23T17:08:37.000Z,"Don't want #TTIP? Leaving the #EU **WON'T** help. Here's why.
 
-https://t.co/YmySQ7YflP
-#Brexit #Scotland #UKinEU #EnglandinEU","['englandineu', 'ukineu', 'snp', 'eu', 'scotland', 'brexit']"
-115,115,115,132407,701358741250301952,575835078,positive,other,2016-02-21T10:52:09.000Z,".@ClientEarth UK laws perhaps, and internationally accepted legal norms? #complicated #ukineu #brexit  #environment #ttip","['environment', 'complicated', 'ukineu', 'brexit', 'ttip']"
-116,116,116,330166,709315150768160768,989338080,negative,other,2016-03-14T09:48:05.000Z,UK #environmental profession back #UKinEU https://t.co/SOeSnrLyXl 90% respondents concerned significant negative wildlife protection #Brexit,"['environmental', 'ukineu', 'brexit']"
-117,117,117,4746,684859093396402176,274405751,positive,leave,2016-01-06T22:08:26.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-118,118,118,12189,687395871038795776,274405751,positive,leave,2016-01-13T22:08:41.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-119,119,119,2279,684134409260273664,274405751,positive,leave,2016-01-04T22:08:48.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq78OMKo #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-120,120,120,24836,691019798571040768,274405751,positive,leave,2016-01-23T22:08:53.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-121,121,121,11079,687033405255491584,274405751,positive,leave,2016-01-12T22:08:22.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq78OMKo #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-122,122,122,13399,687758337203695616,274405751,positive,leave,2016-01-14T22:09:00.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-123,123,123,822,683409471805218816,274405751,positive,leave,2016-01-02T22:08:09.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-124,124,124,18386,689570177764163584,274405751,positive,leave,2016-01-19T22:08:36.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-125,125,125,1428,683771941161963520,274405751,positive,leave,2016-01-03T22:08:29.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-126,126,126,448,683047256094838784,274405751,positive,leave,2016-01-01T22:08:50.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-127,127,127,3712,684496626191331328,274405751,positive,leave,2016-01-05T22:08:07.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-128,128,128,7634,685946250156457984,274405751,positive,leave,2016-01-09T22:08:24.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-129,129,129,16443,688845490981597184,274405751,positive,leave,2016-01-17T22:08:57.000Z,"Thriller ""United States of Europe""-  only £1.99! https://t.co/HZeq796o8Y #books #ukineu #Eu #yestoeu #euro #kindle #euref #amazon #brexit","['eu', 'kindle', 'ukineu', 'yestoeu', 'euref', 'amazon', 'euro', 'brexit', 'books']"
-130,130,130,254687,705322406076874752,4170348735,positive,other,2016-03-03T09:22:20.000Z,"#Brexit will probably be the end of #UKinEU, and the true beginning of necessary, frank debate among remaining #EU members about reform.","['eu', 'ukineu', 'brexit']"
-131,131,131,43588,694553571694616576,179903876,negative,leave,2016-02-02T16:10:50.000Z,"Proposal unveiled to keep #Britain in #EU, skeptics unmoved https://t.co/VEsYteO6Ab via @ReutersUK #Brexit #UKinEU #StrongerIn #VoteLeave","['eu', 'ukineu', 'strongerin', 'britain', 'brexit', 'voteleave']"
-132,132,132,119661,700996683866497024,30857135,positive,other,2016-02-20T10:53:27.000Z,"Strong views on whether the #UK should stay in the #EU. #EUreferendum #Brexit #UKinEU 
-From today's #FT =&gt; https://t.co/LVUzMZBm4M","['eu', 'ukineu', 'uk', 'ft', 'eureferendum', 'brexit']"
-133,133,133,47999,694917973136531456,2996263767,negative,other,2016-02-03T16:18:50.000Z,When people don't understand #history - #UK will become a nasty place out of #EU. #Brexit #UKinEU #EUreform #yes2eu #StrongerIn #voteremain,"['eu', 'voteremain', 'ukineu', 'uk', 'strongerin', 'history', 'eureform', 'brexit', 'yes2eu']"
-134,134,134,82506,699523822886715392,201201906,negative,leave,2016-02-16T09:20:50.000Z,Should #Britain leave the #EU? Arguments for and against https://t.co/3AC7CeBsDS  #Brexit #LeaveEU #UKinEU #EUref https://t.co/eLwOSihK0u,"['eu?', 'ukineu', 'britain', 'brexit', 'euref', 'leaveeu']"
-135,135,135,116292,700943452834504704,201201906,negative,leave,2016-02-20T07:21:56.000Z,Should #Britain leave the #EU? Arguments for and against https://t.co/3AC7CeBsDS  #Brexit #LeaveEU #UKinEU #EUref https://t.co/TvnONkmT4w,"['eu?', 'ukineu', 'britain', 'brexit', 'euref', 'leaveeu']"
-136,136,136,124125,701066577853202432,1060264448,neutral,other,2016-02-20T15:31:12.000Z,#EUreferendum: David #Cameron sets out EU deal to Cabinet https://t.co/6vp3a9jWxh Brexit #EUCO #UkinEU #Stongerin... https://t.co/PvjpigVuiQ,"['euco', 'eureferendum', 'ukineu', 'cameron', 'stongerin']"
-137,137,137,96992,700392154032644096,122986119,positive,remain,2016-02-18T18:51:16.000Z,@EPP has adopted their resolution titled #Bremain as an opposite to #Brexit. Will UK stay? #UKinEu #EUCO,"['euco', 'ukineu', 'bremain', 'brexit']"
-138,138,138,95159,700331667253280768,984288464,positive,other,2016-02-18T14:50:55.000Z,"#Euco #UKinEU #Brexit @Grybauskaite_LT: ""Everybody will have it's own drama and then we will agree.""","['euco', 'ukineu', 'brexit']"
-139,139,139,86845,699884977165574144,959947411,neutral,other,2016-02-17T09:15:56.000Z,"""Legally binding, irreversible"" proposals for #UKinEU, senior EU source stresses ahead of #EUCO. #EUreferendum #Brexit","['euco', 'ukineu', 'brexit', 'eureferendum']"
-140,140,140,100774,700589647219597312,372846595,positive,other,2016-02-19T07:56:02.000Z,"The Century of contradictions: While the best option for the #EUCO is #UKinEU, the best option for #EU citizens is the #Brexit #WeNeedAPlanB","['euco', 'ukineu', 'eu', 'weneedaplanb', 'brexit']"
-141,141,141,116611,700950695466369024,3297922053,neutral,leave,2016-02-20T07:50:43.000Z,#BREAKING: #Cameron said #Deal means #Britain won't be part of #EU '#superstate'. #Brexit #UKinEU #UKoutEU #UKExit #EUCrisis #EURIP #migrant,"['eucrisis', 'eurip', 'ukouteu', 'ukineu', 'breaking', 'britain', 'migrant', 'deal', 'eu', 'cameron', 'ukexit', 'brexit']"
-142,142,142,942991,740155198677491712,44803158,negative,leave,2016-06-07T12:15:25.000Z,Police chiefs warn #Brexit would be a 'gamble' with #terrorrisk https://t.co/XaMmqk51Q0 via @MailOnline #UKinEU #EUcrisis #VoteLeave,"['eucrisis', 'ukineu', 'terrorrisk', 'brexit', 'voteleave']"
-143,143,143,1532170,745939308713021440,474910079,positive,remain,2016-06-23T11:19:24.000Z,Remain secures narrow lead in final EU referendum poll #Brexit #eudk #eupol #UKinEU https://t.co/4ZIElUVAJo,"['eudk', 'eupol', 'ukineu', 'brexit']"
-144,144,144,1002219,741206963044945920,474910079,negative,other,2016-06-10T09:54:45.000Z,56% of Danes expect that #Brexit would have a negative effect on the Danish economy #eudk #UKinEU #Ukref https://t.co/6MIp1Jl1Wn,"['eudk', 'ukineu', 'brexit', 'ukref']"
-145,145,145,464391,719653002592722944,115020963,positive,other,2016-04-11T22:27:00.000Z,This is a great read regardless if pro-#remain og pro-#leave: The day after #brexit https://t.co/sYrspnD5dP #eudk #UkinEU #UKref #EUref,"['eudk', 'ukineu', 'ukref', 'euref', 'brexit']"
-146,146,146,1479042,745710801433014272,1457392710,neutral,remain,2016-06-22T20:11:24.000Z,The ultimate #brexit playlist #UKinEU #VoteRemain #EUref #EUreferendum  #Remain #EUnited #RemainINEU https://t.co/f3vjOKirkp,"['eunited', 'remainineu', 'ukineu', 'remain', 'eureferendum', 'euref', 'brexit', 'voteremain']"
-147,147,147,894020,739035221132247040,731465935308128128,negative,other,2016-06-04T10:05:01.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #LeaveEU #BRemain #UKInEU #EURef,"['euref', 'bremain', 'leaveeu', 'ukineu']"
-148,148,148,766519,735052763080458240,161243998,neutral,other,2016-05-24T10:20:09.000Z,"What the Treasury says about the short-term impact of Brexit | @ChrisGiles_ @gemmatetlow (£) #Euref #UKinEU #Bremain
-https://t.co/sRpF6v66dF","['euref', 'bremain', 'ukineu']"
-149,149,149,258736,705414089313533952,2371058245,positive,remain,2016-03-03T15:26:39.000Z,Good stuff (and key data) by @Bruegel_org colleagues @SMerler and @PiaHuettl #Brexit #euref #ukineu  https://t.co/gjLm7Jgq5S,"['euref', 'brexit', 'ukineu']"
-150,150,150,242247,704694579027640320,2371058245,positive,other,2016-03-01T15:47:34.000Z,"""Is Europe worth the effort"" - another great @ProSyn reflection piece by @pisaniferry #brexit #euref #UKinEU https://t.co/6GHDdCD6yi","['euref', 'brexit', 'ukineu']"
-151,151,151,711841,732914922573680640,704710758,positive,other,2016-05-18T12:45:09.000Z,Find out more about the EU - free event &amp; debate 25th May 6-8 Wrexham Library #Wrexham #EURef #UKinEU #brexit https://t.co/nse58i4Imm,"['euref', 'brexit', 'ukineu', 'wrexham']"
-152,152,152,318413,708336992715558912,161243998,positive,leave,2016-03-11T17:01:13.000Z,"Why should we care if the Queen backs #Brexit? | @Jessica_E_Brown #Euref #UKinEU #StrongerIn
-https://t.co/jmu1qvN172","['euref', 'brexit?', 'strongerin', 'ukineu']"
-153,153,153,53742,695598054351699968,21223877,neutral,other,2016-02-05T13:21:14.000Z,The endgame for #Brexit? @AndrewDuffEU weighs in on Tusk's #UkinEU letter https://t.co/ko2bjGhxwX #euref,"['euref', 'brexit?', 'ukineu']"
-154,154,154,160269,701794888384434176,2828057292,neutral,other,2016-02-22T15:45:14.000Z,".@Kaletsky making THE point on #BREXIT, via @ProSyn. 
-
-#UKinEU #EUref #UKdeal #Bremain #Brégage https://t.co/p3mlebTSlV","['euref', 'brÃ©gage', 'ukineu', 'ukdeal', 'bremain', 'brexit']"
-155,155,155,164586,701860396077072384,636295517,negative,leave,2016-02-22T20:05:33.000Z,EU chief says nation states are dead. #Brexit #euref https://t.co/HYzrPtg75q via @MailOnline #Brexit #euref #eu #UKinEU,"['euref', 'eu', 'ukineu', 'brexit']"
-156,156,156,123323,701038017981583360,636295517,negative,other,2016-02-20T13:37:42.000Z,"EU workers drag down UK wages, says bank chief https://t.co/WkJ5u32OJx via @MailOnline #Brexit #euref #eu #UKinEU","['euref', 'eu', 'ukineu', 'brexit']"
-157,157,157,7244,685759243585191936,93207353,positive,leave,2016-01-09T09:45:19.000Z,When is Cameron going to allow all EU citizens free #Brexit vote? #euref #ukineu #euco,"['euref', 'euco', 'brexit', 'ukineu']"
-158,158,158,178539,702151837365960704,700989420648927232,positive,other,2016-02-23T15:23:38.000Z,BBC to hold huge #EUreferendum debate two days before. June 22nd might be busy for pollsters! #euref #Brexit #ukineu https://t.co/0TkRfoPO5p,"['euref', 'eureferendum', 'brexit', 'ukineu']"
-159,159,159,95662,700349282692497408,2809611224,positive,leave,2016-02-18T16:00:55.000Z,"Great roundup of recent #EURef polling, including supplementary Qs, by @whatukthinks https://t.co/7APFRGJ3qW #EUreferendum #Brexit #UKinEU","['euref', 'eureferendum', 'ukineu', 'brexit']"
-160,160,160,87763,699940436853526528,2809611224,neutral,other,2016-02-17T12:56:19.000Z,"Phone-online gap has tended to be 15-20 points. So far this month: 18 points
-#EURef #EUreferendum #UKinEU #Brexit https://t.co/013EDBFtZj","['euref', 'eureferendum', 'ukineu', 'brexit']"
-161,161,161,141091,701492696406499328,310535567,positive,leave,2016-02-21T19:44:26.000Z,Are you happy with the date 23rd June 2016 for the EU In/Out referendum? 🇪🇺🇬🇧 #EUreferendum #euref #Brexit #UKinEU,"['euref', 'eureferendum', 'ukineu', 'brexit']"
-162,162,162,148220,701681933688897536,86849129,neutral,leave,2016-02-22T08:16:24.000Z,Is he? #Brexit #euref #EUreferendum #UKinEU https://t.co/a14qLpSNcD,"['euref', 'eureferendum', 'ukineu', 'brexit']"
-163,163,163,118471,700994428274667520,16959321,neutral,other,2016-02-20T10:44:30.000Z,"Gove, Galloway and Farage team up to put people off a Brexit - fab from @newsthump https://t.co/3kteygBnZr #EUSummit #euref #UKinEU","['euref', 'eusummit', 'ukineu']"
-164,164,164,118177,700974634959826944,77310065,neutral,other,2016-02-20T09:25:51.000Z,I'll be on @RTERnaG this morning between 10.30-11 discussing #EUSummit #EURef #Brexit #UKinEU (as Gaeilge/ in Irish),"['euref', 'eusummit', 'ukineu', 'brexit']"
-165,165,165,49608,695171176142868480,146794087,neutral,other,2016-02-04T09:04:58.000Z,"Don't get caught out, make sure you're registered! https://t.co/HjzGu8PDaQ @alisonrosefco @_TheBulletin #euref #expats #UKinEU #Brexit","['euref', 'expats', 'ukineu', 'brexit']"
-166,166,166,684598,731910258482921472,30000122,negative,other,2016-05-15T18:12:58.000Z,"Has IDS let slip what #Brexit is really about?  ""Flexibility"" of workers rights...  #EURef #UKinEU #IainDuncanSmith","['euref', 'iainduncansmith', 'ukineu', 'brexit']"
-167,167,167,1015432,741366911875846144,30000122,positive,other,2016-06-10T20:30:20.000Z,We are seeing the effects when companies get jittery over the prospect of #Brexit.  What is in store if it happens?  #EURef #UKinEU #InOrOut,"['euref', 'inorout', 'ukineu', 'brexit']"
-168,168,168,309200,707925260318810112,161243998,negative,other,2016-03-10T13:45:09.000Z,"#Brexit will be massive risk to jobs, says Scunthorpe MP Nic Dakin @NicDakinMP #Euref #UKinEU #LabourInForBritain
-https://t.co/MAYZjlLGp0","['euref', 'labourinforbritain', 'ukineu', 'brexit']"
-169,169,169,705960,732670787275137024,731465935308128128,neutral,other,2016-05-17T20:35:02.000Z,"About 1.3 million British citizens live in EU countries, about 3 million EU nationals live in the UK. #Brexit #LeadNotLeave #UKInEU #EURef","['euref', 'leadnotleave', 'ukineu', 'brexit']"
-170,170,170,253145,705297186947526656,30000122,negative,remain,2016-03-03T07:42:07.000Z,The Achilles heal of the #Leave camp...  #Brexit #UkinEU #EURef  https://t.co/RFVexAJycF,"['euref', 'leave', 'ukineu', 'brexit']"
-171,171,171,907469,739413094296866816,30000122,positive,remain,2016-06-05T11:06:33.000Z,"I am sure the ""scrupilously honest"" #Leave campaigners will tell us if we asked... https://t.co/DH1NnU1UXe #EURef #Brexit #UKinEU","['euref', 'leave', 'ukineu', 'brexit']"
-172,172,172,112266,700809574698369024,2281449269,positive,remain,2016-02-19T22:29:57.000Z,While I'm not convinced of the @Telegraph headline this is worth noting &amp; reading for #euref #Brexit #UKinEU #NI  https://t.co/yXRNW9XvDg,"['euref', 'ni', 'ukineu', 'brexit']"
-173,173,173,493575,721074401609953280,421041651,neutral,other,2016-04-15T20:35:08.000Z,"#brexit would mean more borders, more division, more sectarianism. How shortsighted to risk peace for politics  #euref #ukineu #strongerin","['euref', 'strongerin', 'brexit', 'ukineu']"
-174,174,174,635947,730090047785959424,161243998,neutral,remain,2016-05-10T17:40:06.000Z,"Brexit would make UK economy 3.2% smaller by 2030, says think tank @NIESRorg @jdportes #Euref #UKinEU #StrongerIn
-https://t.co/FXt7tlHgeI","['euref', 'strongerin', 'ukineu']"
-175,175,175,130081,701319111553507328,34023219,positive,leave,2016-02-21T08:14:40.000Z,"Survation, Ukip's favourite pollster, comes up with this.. @Nigel_Farage won't be pleased..
-https://t.co/r8ltfjowN2
-#euref #UKinEU #Brexit","['euref', 'ukineu', 'brexit']"
-176,176,176,117913,700970493936058368,34023219,positive,other,2016-02-20T09:09:23.000Z,"'A picture is worth a thousand words' - never has this saying been more accurate
-#euref #UKinEU #Brexit  https://t.co/R8ncL9j83Q","['euref', 'ukineu', 'brexit']"
-177,177,177,53745,695598153249243136,1952422790,neutral,other,2016-02-05T13:21:37.000Z,"#Brexit would affect UK’s ties to NATO &amp; to the US, says NYT's editorial this morning. Everyone loses.https://t.co/uaevFuDDai #EURef #UKinEU","['euref', 'ukineu', 'brexit']"
-178,178,178,510693,722126431636099072,30000122,negative,other,2016-04-18T18:15:32.000Z,#Brexit doubts slow UK business activity - https://t.co/upkDMx9DDm https://t.co/S4C8ZmtGL3 #EURef #UKinEU &lt;&lt; effects already being felt!,"['euref', 'ukineu', 'brexit']"
-179,179,179,315711,708244906112917504,704710758,negative,remain,2016-03-11T10:55:18.000Z,If we leave the EU the UK has to provide the European Council with a formal notice of it's intention to leave. #EURef #Brexit #UKinEU 1/3,"['euref', 'ukineu', 'brexit']"
-180,180,180,661272,731060341652754432,704710758,neutral,other,2016-05-13T09:55:42.000Z,"EU Information evening &amp; debate - May 25th 6pm at Wrexham Library 
-https://t.co/KFjaOX0VDJ  #EURef #UKinEU #Brexit","['euref', 'ukineu', 'brexit']"
-181,181,181,46249,694814679164657664,845222107,positive,other,2016-02-03T09:28:23.000Z,good week to check our report on the legal implications of #Brexit https://t.co/olRvgAbjZx #EURef #UKinEU @FaullJonathan @eucopresident,"['euref', 'ukineu', 'brexit']"
-182,182,182,905723,739413438561144832,30000122,positive,other,2016-06-05T11:07:56.000Z,Workers' rights are safe in Gove's and Boris' hands in the same way that the NHS is safe in Cameron's hands.  #EURef #Brexit #UKinEU,"['euref', 'ukineu', 'brexit']"
-183,183,183,687905,732096947696336896,30000122,positive,other,2016-05-16T06:34:48.000Z,The cat is out of the bag.  #Brexit is not about immigration but our rights as workers.  Thanks for the confirmation IDS.  #EURef #UKinEU,"['euref', 'ukineu', 'brexit']"
-184,184,184,949102,740254396815147008,30000122,neutral,remain,2016-06-07T18:49:36.000Z,Billions of pounds taken out of the British economy amid fears of #Brexit  https://t.co/kCBY7YQ0cW  #EURef  #UKinEU,"['euref', 'ukineu', 'brexit']"
-185,185,185,1274654,744477763210518528,30000122,neutral,other,2016-06-19T10:31:45.000Z,Does this mean that more people are looking at the facts rather than relying on emotion?  #EURef #Brexit #UKinEU https://t.co/qG3G6Bs2iD,"['euref', 'ukineu', 'brexit']"
-186,186,186,92044,700252103114170368,704710758,neutral,other,2016-02-18T09:34:46.000Z,From @FullFact experts explain the issues in the UK deal with the EU https://t.co/dabjIj2AxL #euref #Brexit #UKinEU,"['euref', 'ukineu', 'brexit']"
-187,187,187,1318229,744849684666122240,959947411,neutral,leave,2016-06-20T11:09:38.000Z,The night of the #EUref: what to expect and when we could have the first predictions. https://t.co/0ZKN4wSW8s #UKinEU #Brexit,"['euref', 'ukineu', 'brexit']"
-188,188,188,907695,739418424368103424,30000122,negative,other,2016-06-05T11:27:44.000Z,Vote Leave's #Brexit campaign infriltrated by holocaust deniers and EDL fascists | Daily Mail Online https://t.co/nxaN88suo1 #EURef #UKinEU,"['euref', 'ukineu', 'brexit']"
-189,189,189,429460,716910549884395520,704710758,neutral,other,2016-04-04T08:49:29.000Z,North Wales Business School have an EU Debate 13th April 2pm-4pm https://t.co/Fga8KP5LYz #Brexit #EURef #UKinEU https://t.co/B70HjI5C3y,"['euref', 'ukineu', 'brexit']"
-190,190,190,514290,722340264195584000,704710758,positive,other,2016-04-19T08:25:14.000Z,UK&amp;EU Timeline - 1984 Thatcher secures a rebate from the EEC https://t.co/EfDAMBGH3Y #Brexit #EURef #UKinEU  @viEUws https://t.co/aCCsBFeS3K,"['euref', 'ukineu', 'brexit']"
-191,191,191,325406,708953484842954752,1448355728,positive,other,2016-03-13T09:50:57.000Z,. @essexdb at least you are open about making the racist case for #brexit. Appreciate the honesty ;)! #euref #ukineu @FederalBritain,"['euref', 'ukineu', 'brexit']"
-192,192,192,46274,694815943638257664,845222107,positive,other,2016-02-03T09:33:24.000Z,good week to check our report on the legal implications of #Brexit https://t.co/olRvgAbjZx #EURef #UKinEU @tom_nuttall @tarapalmeri,"['euref', 'ukineu', 'brexit']"
-193,193,193,315512,708237341035503616,704710758,neutral,other,2016-03-11T10:25:15.000Z,The BBC has a guide to some of the questions it has received so far on #EURef Watch https://t.co/zRQUbOGO4m  #Brexit #UKinEU,"['euref', 'ukineu', 'brexit']"
-194,194,194,277582,706451227350007808,30000122,neutral,other,2016-03-06T12:07:52.000Z,"""might"" he used the word ""might""... the issue is still being brushed under the carpet... #Brexit #UkinEU #EURef https://t.co/Ih7oLcvNue","['euref', 'ukineu', 'brexit']"
-195,195,195,868206,738344324279107584,14460241,positive,leave,2016-06-02T12:19:39.000Z,"WATCH: The original - and still the best! ""What have the Romans ever done for us."" #Brexit #EURef #UKinEU https://t.co/TAxh29fMGX","['euref', 'ukineu', 'brexit']"
-196,196,196,779773,735409150209843200,274027851,negative,other,2016-05-25T09:56:19.000Z,Who are the #EURef undecideds? @GoodwinMJ &amp; Paul Whiteley profile ‘undecided’ voters in @timesredbox https://t.co/YjnpdedLGA #Brexit #UKinEU,"['euref', 'ukineu', 'brexit']"
-197,197,197,121482,701019334169260032,704710758,neutral,leave,2016-02-20T12:23:28.000Z,So the date for the #EURef is June 23rd 2016     #UKinEU  #Brexit,"['euref', 'ukineu', 'brexit']"
-198,198,198,1342463,744966304210255872,731465935308128128,neutral,other,2016-06-20T18:53:02.000Z,Within the EU there are 19 members of the eurozone currency area. #Brexit #UKInEU #BRemain #EURef,"['euref', 'ukineu', 'brexit', 'bremain']"
-199,199,199,1251377,744131157583863808,30000122,negative,other,2016-06-18T11:34:27.000Z,Jo Cox: #Brexit is no answer to real concerns on immigration - Yorkshire Post https://t.co/zm4PXhb4yD #EURef #InOrOut #UKinEU,"['euref', 'ukineu', 'brexit', 'inorout']"
+https://t.co/jlujDR0E8m #EUreferendum #Brexit #UKinEU","['brexit', 'ukineu', 'ttip?', 'eureferendum', 'eu']"
+150129,701698812503580672,24563620,negative,remain,2016-02-22T09:23:28.000Z,"Oh, no, this is really terrible news: Boris Johnson joins campaign to leave EU https://t.co/MB3nuP7nvM #UKinEU #UKinEurope #Brexit","['brexit', 'ukineu', 'ukineurope']"
+778143,735377173775847424,2609420222,positive,other,2016-05-25T07:49:15.000Z,.@MartinSchulz: The 21st century is the century of world regions! The #EU can be a leading world region if #united #UKinEU #Brexit #GBinEP,"['brexit', 'ukineu', 'united', 'gbinep', 'eu']"
+84006,699607410261020672,52682311,positive,other,2016-02-16T14:52:59.000Z,"No #discrimination, no retroactive force &amp; no #EU law on in-work &amp; child care benefits according to HU diplo sources #Brexit #UKinEU #V4","['brexit', 'ukineu', 'v4', 'eu', 'discrimination']"
+1143971,743042591495749632,179903876,negative,other,2016-06-15T11:28:53.000Z,follow the battle on Thames river waged by ships of #UKinEU and #VoteLeave a mere week before #Brexit poll https://t.co/SrGm2ojY0I,"['brexit', 'ukineu', 'voteleave']"
