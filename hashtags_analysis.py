@@ -1,4 +1,6 @@
+import html
 from collections import Counter, OrderedDict
+from string import punctuation
 
 import matplotlib.patches as mpatches
 
@@ -9,30 +11,62 @@ TAG_FREQ_PERCANT_CUTOFF = [0.1, 0.25, 0.5, 1, 1.5]
 DEFAULT_FIGSIZE_VALS = (6.4, 4.8)  # See https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html
 
 # Source: https://ukandeu.ac.uk/how-remain-and-leave-camps-use-hashtags/ (and a bit from https://hashtagify.me/hashtag/brexit)
-LEAVE_TAGS = ['no2eu', 'notoeu', 'no2europe', 'notoeurope', 'betteroffout', 'voteout', 'eureform', 'britainout',
+LEAVE_TAGS = set(['no2eu', 'notoeu', 'no2europe', 'notoeurope', 'betteroffout', 'voteout', 'eureform', 'britainout',
               'leaveeu', 'voteleave', 'beleave', 'loveeuropeleaveeu', 'leave', 'brexiteer', 'brexiteers',
-              'standup4brexit', 'brexiters', 'saynotoeurope']
-REMAIN_TAGS = ['yes2eu', 'yestoeu', 'yes2europe', 'yestoeurope', 'betteroffin', 'votein', 'ukineu', 'bremain',
+              'brexiters', 'saynotoeurope', 'britishindependence', 'brexitnow', 'brexitforever', 'backthebrexitdeal'])
+REMAIN_TAGS = set(['yes2eu', 'yestoeu', 'yes2europe', 'yestoeurope', 'betteroffin', 'votein', 'ukineu', 'bremain',
                'strongerin', 'leadnotleave', 'voteremain', 'remain', 'stopbrexit', 'fbpe', 'brexitreality',
-               'brexitshambles', 'torybrexitdisaster', 'death2brexit', 'deathtobrexit', 'godblesseu', 'godblesseurope',
-               'stopbrexitsavebritain', 'exitfrombrexit', 'revokearticle50', 'revokea50', 'remainer', 'remainers',
+               'brexitshambles', 'torybrexitshambles', 'torybrexitdisaster', 'death2brexit', 'deathtobrexit', 'godblesseu', 'godblesseurope',
+               'stopbrexitsavebritain', 'exitfrombrexit', 'revokearticle50', 'revokearticle50now', 'revokeart50now', 'revokea50', 'revokea50now', 'revokearticle50petition', 'remainer', 'remainers',
                'nobrexit', 'voteleavebrokethelaw', 'brexitstupidity', 'stupidbrexit', 'stupidbrexiteer',
-               'stupidbrexiteers', 'brexitisstupid', 'brexitmeansstupid', 'brexitisabloodystupididea']
+               'stupidbrexiteers', 'brexitisstupid', 'brexitmeansstupid', 'brexitisabloodystupididea', 'stopbrexit2018', 'stopbrexitsaveournhs', 'stopbrexitsavenhs', 'stopbrexitfixbritain', 'killbrexitnow', 'brexitwontwork', 'brexitsucks', 'stopbrexitnow', 'remainineu', 'cancelbrexit', 'stopbrexitsavedemocracy', 'brexshit', 'bollockstobrexit', 'iameuropean', 'toryshambles', 'getbrexitgone', 'stopthebrexitcoup', 'rejoineu', 'proeu', 'brexitbluff', 'brrrexshit', 'brexitfraud', 'fuckbrexit', 'brexitfail'])
 # For #fbpe look for example at: https://www.markpack.org.uk/153702/fbpe-what-does-it-mean/
+# 'bollockstobrexit': https://en.wikipedia.org/wiki/Bollocks_to_Brexit
 
-TOKENS_TO_REMOVE = [":", ",", ".", ";", "!", "…", '\\', '/', '"', "'", '#']
+ALL_TAGS = LEAVE_TAGS.union(REMAIN_TAGS)
+
+TOKENS_TO_REMOVE = f'{punctuation.replace("?", "")}…'
+# # SPECIAL_TOKENS = set(["!", "?", "_", "-", "+", "*", '"', "'", '’', "(", ")", "[", "]", "{", "}"])
+# SPECIAL_TOKENS = set("`()[]{}?")
+# TOKEN_TO_TRIM = set("`~@#$%^&*',.<>+-_='")
+# #"`~@#$%^&*()[]{}'?,.<>+-_="
 
 
-def remove_tokens(s, tokens=TOKENS_TO_REMOVE):
-    for t in tokens:
-        s = s.replace(t, "")
-    return s
+def process_tokens(s):
+    unescaped = ""
+    while unescaped != s: #E.g. when s = '&amp#8216brexit&amp#8217' (in this case the "real" string is html.unescape(html.unescape(s))).
+        # Code inspired by: https://stackoverflow.com/a/58739826
+        unescaped = html.unescape(s)
+        s = html.unescape(unescaped)
+
+    tmp = s
+    try:
+        '''
+        Note foe this section: A LOT of time was spent trying to come up with a reasonable solution for dealing weird, edgde-cases strings.
+        There's a good chance that there isn't a one-size-fits-all solution and every approach that'll "fix" some strings would "screw" others 
+            (which make sense given the myriad sources of the strings - hashtags from tweets regaring vrexit that were tweeted by people in pretty much any language in the OECD countries)
+        HOWEVER, there's one approach that hasn't been tried yet and it's worth a shot (it's just a lot of tedious work, with no clear justification)
+        That is, one can iterate over all possible encoding values for both decode and encode*, and compare the resulting artifcats (mainly the resulting Counter)
+        
+        *Both decode and encode methods get an 'encoding' param. For all possibilities of it see:  Encode: https://docs.python.org/3.9/library/codecs.html#standard-encodings  
+        '''
+        s = s.encode().decode('unicode_escape') #E.g. when s = "sunse\\u2026" and html.unescape doesn't fix it (see: https://stackoverflow.com/a/55889036)
+    except UnicodeDecodeError:
+        #Example for a string that causes this exception: 'good/#bad?:o\\'
+        s = tmp
+
+    s = s.strip(punctuation.replace("?", ""))
+
+    tmp = s
+    for t in TOKENS_TO_REMOVE:
+        tmp = tmp.replace(t, "")
+    return tmp if (tmp == "" or tmp in ALL_TAGS) else s
 
 
 def extract_hash_tags(s):
     # Source: https://stackoverflow.com/a/2527903
     tags = set(part[1:] for part in s.split() if part.startswith('#'))
-    tags = [remove_tokens(t.lower()) for t in tags]
+    tags = [process_tokens(t.lower()) for t in tags]
     tags = list(filter(None, tags))  # Remove empty strings
 
     return tags
@@ -116,17 +150,17 @@ def get_and_write_hashtags_counter():
     counter_fname = os.path.join(PLOTS_DATA_FOLDER, "hashtags_counter.json")
     if os.path.isfile(counter_fname):
         print(f'{get_cur_formatted_time()} Reading data from {counter_fname}')
-        with open(counter_fname, "r") as f:
+        with open(counter_fname, "r", encoding="utf-8") as f:
             cur_dict = json.load(f)
             hashtags_counter = Counter(cur_dict)
     else:
         print(f'{get_cur_formatted_time()} No existing data file found, calculating hashtags frequency')
         hashtags_counter = calculate_hashtags_counter()
-        write_to_json_file_if_not_empty(hashtags_counter, counter_fname)
+        write_to_json_file_if_not_empty(hashtags_counter, counter_fname, escape_html_chars=False)
     return hashtags_counter
 
 
-def get_only_specific_keys_from_counter(counter, keys=set(LEAVE_TAGS).union(set(REMAIN_TAGS)), ignore_zero_count=True,
+def get_only_specific_keys_from_counter(counter, keys=ALL_TAGS, ignore_zero_count=True,
                                         reverse=False):
     res = Counter({k: counter[k] for k in keys})
     if ignore_zero_count:
@@ -209,11 +243,11 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
                 hashtags_set = True
 
             if cur_tag == no_pure_stance_tags_key:
-                df["is_tag_present"] = df['hashtags'].apply(lambda l: len((set(LEAVE_TAGS).union(set(REMAIN_TAGS))).intersection(set(l))) == 0 and len(l) > 0)
+                df["is_tag_present"] = df['hashtags'].apply(lambda l: len(ALL_TAGS.intersection(set(l))) == 0 and len(l) > 0)
                 df_for_tag = df[df["is_tag_present"]]
                 print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no pure-stance tags')
             elif cur_tag == no_tags_at_all_key:
-                df["is_tag_present"] = df['hashtags'].apply(lambda l: len((set(LEAVE_TAGS).union(set(REMAIN_TAGS))).intersection(set(l))) == 0 and len(l) == 0)
+                df["is_tag_present"] = df['hashtags'].apply(lambda l: len(ALL_TAGS.intersection(set(l))) == 0 and len(l) == 0)
                 df_for_tag = df[df["is_tag_present"]]
                 print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no tags at all')
             else:

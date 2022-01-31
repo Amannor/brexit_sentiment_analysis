@@ -83,7 +83,7 @@ def save_fig(f_name, f_format="png"):
 def get_cur_formatted_time(format = "%Y-%m-%d %H:%M:%S"):
     return datetime.datetime.now().strftime(format)
 
-def write_to_json_file_if_not_empty(data, fname, add_epoch_suffix=False):
+def write_to_json_file_if_not_empty(data, fname, add_epoch_suffix=False, escape_html_chars=True):
     if len(data) == 0:
         return
     if add_epoch_suffix:
@@ -91,8 +91,12 @@ def write_to_json_file_if_not_empty(data, fname, add_epoch_suffix=False):
         epoch_time = int(time.time())
         fname = f'{no_extension_name}_{epoch_time}{extension}'
     print(f'{get_cur_formatted_time()} Writing {len(data)} records to {fname}')
-    with open(fname, "w") as write_file:
-        json.dump(data, write_file, indent=4)
+    if escape_html_chars:
+        with open(fname, "w") as write_file:
+            json.dump(data, write_file, indent=4)
+    else:
+        with open(fname, "w", encoding="utf-8") as write_file:
+            json.dump(data, write_file, indent=4, ensure_ascii=escape_html_chars)
 
 def get_trinary_sentiment(cur_stance, cur_sentiment):
     if cur_stance == "remain":
