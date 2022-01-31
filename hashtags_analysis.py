@@ -1,6 +1,7 @@
 import html
 from collections import Counter, OrderedDict
 from string import punctuation
+import html.parser
 
 import matplotlib.patches as mpatches
 
@@ -19,24 +20,23 @@ LEAVE_TAGS = set(['no2eu', 'notoeu', 'no2europe', 'notoeurope', 'betteroffout', 
 REMAIN_TAGS = set(['yes2eu', 'yestoeu', 'yes2europe', 'yestoeurope', 'betteroffin', 'votein', 'ukineu', 'bremain',
                    'strongerin', 'leadnotleave', 'voteremain', 'remain', 'stopbrexit', 'fbpe', 'brexitreality',
                    'brexitshambles', 'torybrexitshambles', 'torybrexitdisaster', 'death2brexit', 'deathtobrexit',
-                   'godblesseu', 'godblesseurope',
-                   'stopbrexitsavebritain', 'exitfrombrexit', 'revokearticle50', 'revokearticle50now', 'revokeart50now',
-                   'revokea50', 'revokea50now', 'revokearticle50petition', 'remainer', 'remainers',
-                   'nobrexit', 'voteleavebrokethelaw', 'brexitstupidity', 'stupidbrexit', 'stupidbrexiteer',
-                   'stupidbrexiteers', 'brexitisstupid', 'brexitmeansstupid', 'brexitisabloodystupididea',
-                   'stopbrexit2018', 'stopbrexitsaveournhs', 'stopbrexitsavenhs', 'stopbrexitfixbritain',
-                   'killbrexitnow', 'brexitwontwork', 'brexitsucks', 'stopbrexitnow', 'remainineu', 'cancelbrexit',
-                   'stopbrexitsavedemocracy', 'brexshit', 'bollockstobrexit', 'iameuropean', 'toryshambles',
-                   'getbrexitgone', 'stopthebrexitcoup', 'rejoineu', 'proeu', 'brexitbluff', 'brrrexshit',
-                   'brexitfraud', 'fuckbrexit', 'brexitfail', 'standup2brexit', 'standuptobrexit',
-                   'standupagainstbrexit', 'standup2brexitnonsense', 'standuptobrexitnonsense', 'standupstopbrexit'])
+                   'godblesseu', 'godblesseurope', 'stopbrexitsavebritain', 'exitfrombrexit', 'revokearticle50',
+                   'revokearticle50now', 'revokeart50now', 'revokea50', 'revokea50now', 'revokearticle50petition',
+                   'remainer', 'remainers', 'nobrexit', 'voteleavebrokethelaw', 'brexitstupidity', 'stupidbrexit',
+                   'stupidbrexiteer', 'stupidbrexiteers', 'brexitisstupid', 'brexitmeansstupid',
+                   'brexitisabloodystupididea', 'stopbrexit2018', 'stopbrexitsaveournhs', 'stopbrexitsavenhs',
+                   'stopbrexitfixbritain', 'killbrexitnow', 'brexitwontwork', 'brexitsucks', 'stopbrexitnow',
+                   'remainineu', 'cancelbrexit', 'stopbrexitsavedemocracy', 'brexshit', 'bollockstobrexit',
+                   'iameuropean', 'toryshambles', 'getbrexitgone', 'stopthebrexitcoup', 'rejoineu', 'proeu',
+                   'brexitbluff', 'brrrexshit', 'brexitfraud', 'fuckbrexit', 'brexitfail', 'standup2brexit',
+                   'standuptobrexit', 'standupagainstbrexit', 'standup2brexitnonsense', 'standuptobrexitnonsense',
+                   'standupstopbrexit', 'stopbrexitsaturday'])
 # For #fbpe look for example at: https://www.markpack.org.uk/153702/fbpe-what-does-it-mean/
 # 'bollockstobrexit': https://en.wikipedia.org/wiki/Bollocks_to_Brexit
 
 ALL_TAGS = LEAVE_TAGS.union(REMAIN_TAGS)
 
 TOKENS_TO_REMOVE = f'{punctuation.replace("?", "")}…'
-
 
 def process_tokens(s):
     unescaped = ""
@@ -46,21 +46,24 @@ def process_tokens(s):
         s = html.unescape(unescaped)
 
     tmp = s
-    try:
+    if s.isascii() and s.isprintable():
+        # The reason for this if is a string like "지민" that doesn't throw exception on s.encode().decode('unicode_escape') - but comes out invalid from it.
+        # See: https://stackoverflow.com/a/51141941
         '''
-        Note for this section: A LOT of time was spent trying to come up with a reasonable solution for dealing with weird, edgde-cases strings.
+        General note for this section: A LOT of time was spent trying to come up with a reasonable solution for dealing with weird, edgde-cases strings.
         There's a good chance there isn't a one-size-fits-all solution and every approach that'll "fix" some strings would "screw" others 
             (which make sense given the myriad sources of the strings - hashtags from tweets regarding brexit that were tweeted by people in pretty much any language in the OECD countries)
         HOWEVER, there's one approach that hasn't been tried yet and it's worth a shot (it's just a lot of tedious work, with no clear ROI)
         That is: one can iterate over all possible encoding values for both decode and encode*, and compare the resulting artifcats (mainly the resulting Counter) to choose the best ones
-        
+
         *Both decode and encode methods get an 'encoding' param. For all possibilities of it see:  Encode: https://docs.python.org/3.9/library/codecs.html#standard-encodings  
         '''
-        s = s.encode().decode('unicode_escape')  # E.g. when s = "sunse\\u2026" and html.unescape doesn't fix it
-        # (see: https://stackoverflow.com/a/55889036)
-    except UnicodeDecodeError:
-        # Example for a string that causes this exception: 'good/#bad?:o\\'
-        s = tmp
+        try:
+            s = s.encode().decode('unicode_escape')  # E.g. when s = "sunse\\u2026" and html.unescape doesn't fix it
+                                                    # (see: https://stackoverflow.com/a/55889036)
+        except UnicodeDecodeError:
+            # Example for a string that causes this exception: 'good/#bad?:o\\'
+            s = tmp
 
     s = s.strip(punctuation.replace("?", ""))
 
