@@ -12,29 +12,35 @@ DEFAULT_FIGSIZE_VALS = (6.4, 4.8)  # See https://matplotlib.org/stable/api/_as_g
 
 # Source: https://ukandeu.ac.uk/how-remain-and-leave-camps-use-hashtags/ (and a bit from https://hashtagify.me/hashtag/brexit)
 LEAVE_TAGS = set(['no2eu', 'notoeu', 'no2europe', 'notoeurope', 'betteroffout', 'voteout', 'eureform', 'britainout',
-              'leaveeu', 'voteleave', 'beleave', 'loveeuropeleaveeu', 'leave', 'brexiteer', 'brexiteers',
-              'brexiters', 'saynotoeurope', 'britishindependence', 'brexitnow', 'brexitforever', 'backthebrexitdeal'])
+                  'leaveeu', 'voteleave', 'beleave', 'loveeuropeleaveeu', 'leave', 'brexiteer', 'brexiteers',
+                  'brexiters', 'saynotoeurope', 'britishindependence', 'brexitnow', 'brexitforever',
+                  'backthebrexitdeal', 'standup4brexit', 'standupforbrexit', 'standup4bexit', 'standupforbexit',
+                  'standup4brexiit', 'standupforbrexiit'])
 REMAIN_TAGS = set(['yes2eu', 'yestoeu', 'yes2europe', 'yestoeurope', 'betteroffin', 'votein', 'ukineu', 'bremain',
-               'strongerin', 'leadnotleave', 'voteremain', 'remain', 'stopbrexit', 'fbpe', 'brexitreality',
-               'brexitshambles', 'torybrexitshambles', 'torybrexitdisaster', 'death2brexit', 'deathtobrexit', 'godblesseu', 'godblesseurope',
-               'stopbrexitsavebritain', 'exitfrombrexit', 'revokearticle50', 'revokearticle50now', 'revokeart50now', 'revokea50', 'revokea50now', 'revokearticle50petition', 'remainer', 'remainers',
-               'nobrexit', 'voteleavebrokethelaw', 'brexitstupidity', 'stupidbrexit', 'stupidbrexiteer',
-               'stupidbrexiteers', 'brexitisstupid', 'brexitmeansstupid', 'brexitisabloodystupididea', 'stopbrexit2018', 'stopbrexitsaveournhs', 'stopbrexitsavenhs', 'stopbrexitfixbritain', 'killbrexitnow', 'brexitwontwork', 'brexitsucks', 'stopbrexitnow', 'remainineu', 'cancelbrexit', 'stopbrexitsavedemocracy', 'brexshit', 'bollockstobrexit', 'iameuropean', 'toryshambles', 'getbrexitgone', 'stopthebrexitcoup', 'rejoineu', 'proeu', 'brexitbluff', 'brrrexshit', 'brexitfraud', 'fuckbrexit', 'brexitfail'])
+                   'strongerin', 'leadnotleave', 'voteremain', 'remain', 'stopbrexit', 'fbpe', 'brexitreality',
+                   'brexitshambles', 'torybrexitshambles', 'torybrexitdisaster', 'death2brexit', 'deathtobrexit',
+                   'godblesseu', 'godblesseurope',
+                   'stopbrexitsavebritain', 'exitfrombrexit', 'revokearticle50', 'revokearticle50now', 'revokeart50now',
+                   'revokea50', 'revokea50now', 'revokearticle50petition', 'remainer', 'remainers',
+                   'nobrexit', 'voteleavebrokethelaw', 'brexitstupidity', 'stupidbrexit', 'stupidbrexiteer',
+                   'stupidbrexiteers', 'brexitisstupid', 'brexitmeansstupid', 'brexitisabloodystupididea',
+                   'stopbrexit2018', 'stopbrexitsaveournhs', 'stopbrexitsavenhs', 'stopbrexitfixbritain',
+                   'killbrexitnow', 'brexitwontwork', 'brexitsucks', 'stopbrexitnow', 'remainineu', 'cancelbrexit',
+                   'stopbrexitsavedemocracy', 'brexshit', 'bollockstobrexit', 'iameuropean', 'toryshambles',
+                   'getbrexitgone', 'stopthebrexitcoup', 'rejoineu', 'proeu', 'brexitbluff', 'brrrexshit',
+                   'brexitfraud', 'fuckbrexit', 'brexitfail', 'standup2brexit', 'standuptobrexit',
+                   'standupagainstbrexit', 'standup2brexitnonsense', 'standuptobrexitnonsense', 'standupstopbrexit'])
 # For #fbpe look for example at: https://www.markpack.org.uk/153702/fbpe-what-does-it-mean/
 # 'bollockstobrexit': https://en.wikipedia.org/wiki/Bollocks_to_Brexit
 
 ALL_TAGS = LEAVE_TAGS.union(REMAIN_TAGS)
 
 TOKENS_TO_REMOVE = f'{punctuation.replace("?", "")}…'
-# # SPECIAL_TOKENS = set(["!", "?", "_", "-", "+", "*", '"', "'", '’', "(", ")", "[", "]", "{", "}"])
-# SPECIAL_TOKENS = set("`()[]{}?")
-# TOKEN_TO_TRIM = set("`~@#$%^&*',.<>+-_='")
-# #"`~@#$%^&*()[]{}'?,.<>+-_="
 
 
 def process_tokens(s):
     unescaped = ""
-    while unescaped != s: #E.g. when s = '&amp#8216brexit&amp#8217' (in this case the "real" string is html.unescape(html.unescape(s))).
+    while unescaped != s:  # E.g. when s = '&amp#8216brexit&amp#8217' (in this case the "real" string is html.unescape(html.unescape(s))).
         # Code inspired by: https://stackoverflow.com/a/58739826
         unescaped = html.unescape(s)
         s = html.unescape(unescaped)
@@ -42,17 +48,18 @@ def process_tokens(s):
     tmp = s
     try:
         '''
-        Note foe this section: A LOT of time was spent trying to come up with a reasonable solution for dealing weird, edgde-cases strings.
-        There's a good chance that there isn't a one-size-fits-all solution and every approach that'll "fix" some strings would "screw" others 
-            (which make sense given the myriad sources of the strings - hashtags from tweets regaring vrexit that were tweeted by people in pretty much any language in the OECD countries)
-        HOWEVER, there's one approach that hasn't been tried yet and it's worth a shot (it's just a lot of tedious work, with no clear justification)
-        That is, one can iterate over all possible encoding values for both decode and encode*, and compare the resulting artifcats (mainly the resulting Counter)
+        Note for this section: A LOT of time was spent trying to come up with a reasonable solution for dealing with weird, edgde-cases strings.
+        There's a good chance there isn't a one-size-fits-all solution and every approach that'll "fix" some strings would "screw" others 
+            (which make sense given the myriad sources of the strings - hashtags from tweets regarding brexit that were tweeted by people in pretty much any language in the OECD countries)
+        HOWEVER, there's one approach that hasn't been tried yet and it's worth a shot (it's just a lot of tedious work, with no clear ROI)
+        That is: one can iterate over all possible encoding values for both decode and encode*, and compare the resulting artifcats (mainly the resulting Counter) to choose the best ones
         
         *Both decode and encode methods get an 'encoding' param. For all possibilities of it see:  Encode: https://docs.python.org/3.9/library/codecs.html#standard-encodings  
         '''
-        s = s.encode().decode('unicode_escape') #E.g. when s = "sunse\\u2026" and html.unescape doesn't fix it (see: https://stackoverflow.com/a/55889036)
+        s = s.encode().decode('unicode_escape')  # E.g. when s = "sunse\\u2026" and html.unescape doesn't fix it
+        # (see: https://stackoverflow.com/a/55889036)
     except UnicodeDecodeError:
-        #Example for a string that causes this exception: 'good/#bad?:o\\'
+        # Example for a string that causes this exception: 'good/#bad?:o\\'
         s = tmp
 
     s = s.strip(punctuation.replace("?", ""))
@@ -205,6 +212,7 @@ def get_exist_tags_to_tweets_or_default(hashtags_counter):
     print(f'{get_cur_formatted_time()} Found existing data for {existing_counters_count}/{len(hashtags_counter)} tags')
     return tag_to_tweets
 
+
 def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
     should_filter_bots, bot_msg_suffix = handle_bots(bot_score_threshold)
     hashtags_counter = get_and_write_hashtags_counter()
@@ -212,8 +220,8 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
     max_tweets_per_tag = 200
     no_pure_stance_tags_key = "no_stance_tags"
     no_tags_at_all_key = "no_tags_at_all"
-    hashtags_counter[no_pure_stance_tags_key] = int(max_tweets_per_tag/2)
-    hashtags_counter[no_tags_at_all_key] = int(max_tweets_per_tag/2)
+    hashtags_counter[no_pure_stance_tags_key] = int(max_tweets_per_tag / 2)
+    hashtags_counter[no_tags_at_all_key] = int(max_tweets_per_tag / 2)
     tag_to_tweets = get_exist_tags_to_tweets_or_default(hashtags_counter)
     tag_to_num_tweets_required = {tag: min(hashtags_counter[tag], max_tweets_per_tag) for tag in hashtags_counter}
 
@@ -243,18 +251,19 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
                 hashtags_set = True
 
             if cur_tag == no_pure_stance_tags_key:
-                df["is_tag_present"] = df['hashtags'].apply(lambda l: len(ALL_TAGS.intersection(set(l))) == 0 and len(l) > 0)
+                df["is_tag_present"] = df['hashtags'].apply(
+                    lambda l: len(ALL_TAGS.intersection(set(l))) == 0 and len(l) > 0)
                 df_for_tag = df[df["is_tag_present"]]
                 print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no pure-stance tags')
             elif cur_tag == no_tags_at_all_key:
-                df["is_tag_present"] = df['hashtags'].apply(lambda l: len(ALL_TAGS.intersection(set(l))) == 0 and len(l) == 0)
+                df["is_tag_present"] = df['hashtags'].apply(
+                    lambda l: len(ALL_TAGS.intersection(set(l))) == 0 and len(l) == 0)
                 df_for_tag = df[df["is_tag_present"]]
                 print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no tags at all')
             else:
                 df["is_tag_present"] = df['hashtags'].apply(lambda l: cur_tag in l)
                 df_for_tag = df[df["is_tag_present"]]
                 print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing tag')
-
 
             if len(df_for_tag.index) == 0:
                 continue
@@ -269,7 +278,8 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
     quotas_not_met = []
     for cur_tag in tag_to_num_tweets_required:
         if tag_to_tweets[cur_tag] is None or len(tag_to_tweets[cur_tag].index) < tag_to_num_tweets_required[cur_tag]:
-            quotas_not_met.append(f'{cur_tag}: {0 if tag_to_tweets[cur_tag] is None else len(tag_to_tweets[cur_tag].index)}/{tag_to_num_tweets_required[cur_tag]}')
+            quotas_not_met.append(
+                f'{cur_tag}: {0 if tag_to_tweets[cur_tag] is None else len(tag_to_tweets[cur_tag].index)}/{tag_to_num_tweets_required[cur_tag]}')
 
     if len(quotas_not_met) > 0:
         print(f'Tags not found in enough tweets: {quotas_not_met.join(", ")}')
