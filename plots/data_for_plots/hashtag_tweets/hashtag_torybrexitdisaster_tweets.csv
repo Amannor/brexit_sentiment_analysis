@@ -1,2 +1,2 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,0,0,0,1435559,859729781629358080,69022693,negative,other,2017-05-03T11:22:07.000Z,"We don't need ""a bloody difficult"" PM to negotiate #Brexit @teresamayMP. We need a knowledgeable, skilled negotiator #ToryBrexitDisaster","['torybrexitdisaster', 'brexit']"
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,1435559,859729781629358080,69022693,negative,other,2017-05-03T11:22:07.000Z,"We don't need ""a bloody difficult"" PM to negotiate #Brexit @teresamayMP. We need a knowledgeable, skilled negotiator #ToryBrexitDisaster","['torybrexitdisaster', 'brexit']"

@@ -1,296 +1,302 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,0,0,0,5599,685095537301962752,501139438,negative,remain,2016-01-07T13:47:59.000Z,Biggest threat to the economy in #2016? #Brexit #StrongerIn #Yes2EU https://t.co/AcPPZxYAd4,"['2016?', 'brexit', 'strongerin', 'yes2eu']"
-1,1,1,1,1,1,1,1,870136,738380911994109952,731465935308128128,neutral,other,2016-06-02T14:45:02.000Z,"Due to the EU's Common Agricultural Policy, food prices are artificially inflated. #Brexit #Yes2EU #BetterOffIn #EUReferendum","['betteroffin', 'brexit', 'eureferendum', 'yes2eu']"
-2,2,2,2,2,2,2,2,1149745,743078869067046912,731465935308128128,neutral,leave,2016-06-15T13:53:02.000Z,"There were 630,000 National Insurance Number registrations by EU nationals in the UK last year. #Brexit #Yes2EU #BetterOffIn #EUReferendum","['betteroffin', 'brexit', 'eureferendum', 'yes2eu']"
-3,3,3,3,3,3,3,3,1147884,743066090213756928,14292056,neutral,remain,2016-06-15T13:02:16.000Z,#Brexit: The beginning of the end? #betteroffin #strongerin #yes2eu https://t.co/3lxBd9ynAL https://t.co/CWBgKygb1n,"['betteroffin', 'brexit', 'strongerin', 'yes2eu']"
-4,4,4,4,4,4,4,4,824876,737187046016552960,731465935308128128,neutral,other,2016-05-30T07:41:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #No2EU #BetterOffIn #Yes2EU #EUReferendum","['betteroffin', 'eureferendum', 'no2eu', 'yes2eu']"
-5,5,5,5,5,5,5,5,811074,736512602298306560,731465935308128128,neutral,other,2016-05-28T11:01:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #BetterOffOut #BRemain #Yes2EU #EUReferendum","['betteroffout', 'eureferendum', 'yes2eu', 'bremain']"
-6,6,6,6,6,6,6,6,165237,701857013983219712,501139438,positive,remain,2016-02-22T19:52:06.000Z,"Wow. Thanks #Boris! ""Sterling down to seven-year low against dollar on #Brexit fears  #StrongerIn #yes2eu  https://t.co/FMLH23RyC4","['boris', 'brexit', 'strongerin', 'yes2eu']"
-7,7,7,7,7,7,7,7,1586244,746105243566505984,255810761,neutral,other,2016-06-23T22:18:46.000Z,Even political rightwingers in the UK take pages and plays out of the Trump playbook. #Boris_Johnson #Brexit #yes2eu https://t.co/d8VGRnWCnO,"['boris_johnson', 'brexit', 'yes2eu']"
-8,8,8,8,8,8,8,8,836880,737593723459010560,731465935308128128,neutral,other,2016-05-31T10:37:02.000Z,The UK doesn't have to be in the European Single Market to trade with European countries. #Brexit #BRemain #Yes2EU #EUReferendum,"['bremain', 'brexit', 'eureferendum', 'yes2eu']"
-9,9,9,9,9,9,9,9,1286919,744596870656307200,731465935308128128,neutral,other,2016-06-19T18:25:02.000Z,"The EU and the Single Market are not the same thing. The EU has 28 members, the Single Market has 31. #Brexit #Yes2EU #BRemain #EUReferendum","['bremain', 'brexit', 'eureferendum', 'yes2eu']"
-10,10,10,10,10,10,10,10,1016125,741378663560687616,731465935308128128,neutral,remain,2016-06-10T21:17:02.000Z,43% of all work-related EU immigrants arrived in the UK without a definite job. #Brexit #BRemain #Yes2EU #EUReferendum,"['bremain', 'brexit', 'eureferendum', 'yes2eu']"
-11,11,11,11,11,11,11,11,742032,734278379059482624,731465935308128128,positive,remain,2016-05-22T07:03:02.000Z,The UK has to pay family benefits to EU workers even if their children live outside the UK. #Brexit #BRemain #Yes2EU #EUReferendum,"['bremain', 'brexit', 'eureferendum', 'yes2eu']"
-12,12,12,12,12,12,12,12,252282,705275271902003200,501139438,negative,remain,2016-03-03T06:15:02.000Z,"BlackRock, world’s largest asset manager says #Brexit would  damage UK economy. #StrongerIn #yes2EU #Bremain #UKinEU https://t.co/A8gruJSEpB","['bremain', 'strongerin', 'ukineu', 'yes2eu', 'brexit']"
-13,13,13,13,13,13,13,13,1022028,741535571441557504,312285999,neutral,other,2016-06-11T07:40:31.000Z,Ran #Twitter poll last week. Have opinions changed? #yes2eu or #no2eu 😯 #Brexit or #Bremain 😕 #votein or #voteout 😣,"['bremain', 'voteout', 'votein', 'brexit', 'yes2eu', 'twitter', 'no2eu']"
-14,14,14,14,14,14,14,14,157087,701760973401624576,1053383863,neutral,remain,2016-02-22T13:30:28.000Z,Pound heading for biggest one day fall in 7 years on #Brexit fears.... #StrongerIn #Yes2EU #betteroffin,"['brexit', 'betteroffin', 'strongerin', 'yes2eu']"
-15,15,15,15,15,15,15,15,172245,702054691589505024,181245414,neutral,remain,2016-02-23T08:57:36.000Z,#Boris...the fat fellow probably not quite as sure as he was on Sunday evening. His charade...laughable #Brexit #yes2eu #brexitboobys,"['brexit', 'boristhe', 'yes2eu', 'brexitboobys']"
-16,16,16,16,16,16,16,16,757229,734736399241490432,731465935308128128,neutral,leave,2016-05-23T13:23:02.000Z,Last year 80% of new job vacancies were filled by people born abroad. #Brexit #Yes2EU #UKInEU #EURef,"['brexit', 'euref', 'ukineu', 'yes2eu']"
-17,17,17,17,17,17,17,17,739157,734078061432410112,731465935308128128,negative,other,2016-05-21T17:47:03.000Z,"Since 1996, the UK has objected to 55 new laws by the EU Council, the UK has been defeated 55 times. #Brexit #Yes2EU #EURef","['brexit', 'euref', 'yes2eu']"
-18,18,18,18,18,18,18,18,724800,733573737874743296,731465935308128128,neutral,remain,2016-05-20T08:23:02.000Z,Eurocodes are gradually replacing the British Standard (BS) code system. #Brexit #VoteRemain #Yes2EU #EURef,"['brexit', 'euref', 'yes2eu', 'voteremain']"
-19,19,19,19,19,19,19,19,134222,701389430360317952,20316061,positive,other,2016-02-21T12:54:06.000Z,"If Gove, DuncanSmith and Johnson all agree on same thing, it's a pretty good decision to go with the opposite #Brexit #EUreferendum #yes2eu","['brexit', 'eureferendum', 'yes2eu']"
-20,20,20,20,20,20,20,20,172066,702052280300916736,181245414,neutral,leave,2016-02-23T08:48:01.000Z,The ‘out’ leaders are a line-up of lone wolves and fantasists – and they’re just as establishment as Dave #EUreferendum #Brexit #yes2eu,"['brexit', 'eureferendum', 'yes2eu']"
-21,21,21,21,21,21,21,21,989355,740991113683718144,731465935308128128,positive,other,2016-06-09T19:37:03.000Z,"Last year the number of EU workers in the UK rose by 224,000. #Brexit #Yes2EU #LeadNotLeave #EUReferendum","['brexit', 'eureferendum', 'yes2eu', 'leadnotleave']"
-22,22,22,22,22,22,22,22,1323293,744871682893033472,731465935308128128,positive,other,2016-06-20T12:37:02.000Z,The phrase United States of Europe was invented by Adolf Hitler. #Brexit #Yes2EU #VoteRemain #EUReferendum,"['brexit', 'eureferendum', 'yes2eu', 'voteremain']"
-23,23,23,23,23,23,23,23,61282,696693340578906112,501139438,negative,other,2016-02-08T13:53:30.000Z,"Thousands of refugees could cross Channel if UK left EU, No 10 says. #Brexit #StrongerIn #Yes2EU https://t.co/b2NNn1OJgM","['brexit', 'strongerin', 'yes2eu']"
-24,24,24,24,24,24,24,24,15008,688456947742437376,501139438,negative,remain,2016-01-16T20:25:01.000Z,"NEW: EU referendum: #Brexit would make the UK less safe, warns former DPP, Keir Starmer. #StrongerIn #Yes2EU https://t.co/XFlDvrCQnp","['brexit', 'strongerin', 'yes2eu']"
-25,25,25,25,25,25,25,25,5160,685019795591421952,501139438,negative,remain,2016-01-07T08:47:00.000Z,Backers of British EU exit accused of chasing an 'impossible fantasy'. #StrongerIn #Brexit #Yes2EU  https://t.co/RtDN6QaKoe,"['brexit', 'strongerin', 'yes2eu']"
-26,26,26,26,26,26,26,26,24904,691060142171897856,501139438,neutral,other,2016-01-24T00:49:11.000Z,"#Brexit fears are fuelling market turmoil, says #IMF chief. #StrongerIn #Yes2EU https://t.co/hHqzIDFqPq","['brexit', 'strongerin', 'yes2eu', 'imf']"
-27,27,27,27,27,27,27,27,76304,699024168076103680,501139438,negative,other,2016-02-15T00:15:23.000Z,Poll finds one in three firms would leave UK after #Brexit. #StrongerIn #Yes2Europe #Yes2EU https://t.co/27FZZL34V0,"['brexit', 'strongerin', 'yes2eu', 'yes2europe']"
-28,28,28,28,28,28,28,28,14342,688067152193150976,501139438,neutral,other,2016-01-15T18:36:07.000Z,The voice of #Brexit speaks and the pro-EU camp cracks open the  champagne. #StrongerIn #youknowitmakessense #Yes2EU https://t.co/vTCwDf0eWq,"['brexit', 'strongerin', 'youknowitmakessense', 'yes2eu']"
-29,29,29,29,29,29,29,29,18891,689756094923706368,3114270604,neutral,other,2016-01-20T10:27:22.000Z,"#UKIP's new #Brexit strategy: don't consider facts, just focus on the ""emotional"" side of the debate! #EUref #Yes2EU https://t.co/OogfqAvpGZ","['brexit', ""ukip's"", 'euref', 'yes2eu']"
-30,30,30,30,30,30,30,30,857876,738066335301828608,3248881547,positive,remain,2016-06-01T17:55:01.000Z,".@KirstyT71 really? Faster growth than USA, second-largest GDP in world, biggest market in the world. Seems okay! #Yes2EU #UKtoStay #Brexit","['brexit', 'uktostay', 'yes2eu']"
-31,31,31,31,31,31,31,31,2375270,746637903242141696,246844437,positive,other,2016-06-25T09:35:22.000Z,"I honestly hope so. I'm voting tomorrow for #UnidosPodemos 
-No to #Brexit.
-Yes to a socialist Europe. 
-#Yes2EU https://t.co/je9vDctWiR","['brexit', 'unidospodemos', 'yes2eu']"
-32,32,32,32,32,32,32,32,857933,738067399950356480,16134483,negative,leave,2016-06-01T17:59:15.000Z,'Mussolini of mediocrity' Don't believe #VoteLeave desperate deceit #Brexit #Remain #yes2eu https://t.co/aAkTH0qYzZ,"['brexit', 'voteleave', 'yes2eu', 'remain']"
-33,33,33,33,33,33,33,33,271817,706053010322022400,246844437,neutral,leave,2016-03-05T09:45:30.000Z,"Be glad there's something called the EUROPEAN ARREST WARRANT.
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,165237,701857013983219712,501139438,positive,remain,2016-02-22T19:52:06.000Z,"Wow. Thanks #Boris! ""Sterling down to seven-year low against dollar on #Brexit fears  #StrongerIn #yes2eu  https://t.co/FMLH23RyC4","['boris', 'strongerin', 'brexit', 'yes2eu']"
+1,1,1,852560,737966272755994624,102044458,neutral,other,2016-06-01T11:17:24.000Z,https://t.co/F8lgC9wCwh Debate about OBV’s EU poster @saatchilondon #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/WfEYgEPuVn,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
+2,2,2,886059,738749285538238464,102044458,neutral,other,2016-06-03T15:08:49.000Z,https://t.co/2W1kXA2ewe #EUreferendum  Debate: The implications for Black Britain #brexit #bremain #no2eu #yes2eu https://t.co/3Moc0y8y9b,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
+3,3,3,854992,738003725722214400,102044458,neutral,remain,2016-06-01T13:46:14.000Z,https://t.co/2tZT1jUSYO BME voters could decide EU outcome #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/Lyi67ouyta,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
+4,4,4,754222,734681798249185280,102044458,neutral,remain,2016-05-23T09:46:05.000Z,https://t.co/HJGmfReuRN The Vale of Glamorgan EU debate - Stay or Go? #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/siSu137DKE,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
+5,5,5,726921,733598534264463360,102044458,neutral,remain,2016-05-20T10:01:34.000Z,https://t.co/27MHYXVBcU Register to vote before it's too late #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/tZRN4icKPY,"['bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
+6,6,6,779513,735403659723452416,720884762,neutral,remain,2016-05-25T09:34:30.000Z,"#Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
 
-#Yes2EU #WomenIN
-NO #Brexit
- https://t.co/M1NddwoWYL","['brexit', 'womenin', 'yes2eu']"
-34,34,34,34,34,34,34,34,214598,703497484119764992,181245414,negative,remain,2016-02-27T08:30:45.000Z,"#Brexit 'could pose a risk to the world economy', says draft G20 communique ...&amp; advertise our stupidity! #yes2eu https://t.co/yzUy15jYan","['brexit', 'yes2eu']"
-35,35,35,35,35,35,35,35,174352,702083626696110080,181245414,positive,other,2016-02-23T10:52:35.000Z,#Brexit means a break up of the UK - Scotland wld be better off away apart from a nation of Little Englanders. Scotland here I come! #yes2eu,"['brexit', 'yes2eu']"
-36,36,36,36,36,36,36,36,16499,688900131886878720,51287942,negative,other,2016-01-18T01:46:05.000Z,EU referendum voteREMAINplus The missing option.  https://t.co/dMEORzujBI #Brexit #Yes2EU https://t.co/26hYsFl9tl,"['brexit', 'yes2eu']"
-37,37,37,37,37,37,37,37,135393,701416227038695424,141234772,positive,other,2016-02-21T14:40:34.000Z,#Brexit would probably mean the beginning of the end for the EU project. Putin would love it. Bye-bye eastern Europe. Hello new USSR #yes2eu,"['brexit', 'yes2eu']"
-38,38,38,38,38,38,38,38,77997,699181104188780544,246844437,positive,other,2016-02-15T10:39:00.000Z,"True socialists are  internationalists.
-@UKLabour *must* campaign VIGOROUSLY against #Brexit, @jeremycorbyn.
-#Yes2EU","['brexit', 'yes2eu']"
-39,39,39,39,39,39,39,39,161923,701809203959242752,181245414,negative,other,2016-02-22T16:42:07.000Z,We Americans can’t wait for Britain to stop dithering about Europe says Robert Hunter #Brexit #yes2eu https://t.co/KwIuaObmLh,"['brexit', 'yes2eu']"
-40,40,40,40,40,40,40,40,1203461,743516121849004032,2435053308,negative,remain,2016-06-16T18:50:31.000Z,@IvanaBartoletti There is ZERO international argument for going it alone #Brexit #Yes2EU,"['brexit', 'yes2eu']"
-41,41,41,41,41,41,41,41,1163063,743178937564561408,2435053308,negative,remain,2016-06-15T20:30:40.000Z,There is ZERO international argument for going it alone #Brexit #Yes2EU,"['brexit', 'yes2eu']"
-42,42,42,42,42,42,42,42,1250200,744117476456284160,2435053308,positive,leave,2016-06-18T10:40:06.000Z,@NirjDeva The future is power blocks and we're better off in one #Brexit #Yes2EU,"['brexit', 'yes2eu']"
-43,43,43,43,43,43,43,43,143121,701532712096501760,20610347,negative,other,2016-02-21T22:23:27.000Z,"Tolerate this then your children will be next. Nationalism is killing Britain.  Nationalism, what has it ever done for us? #yes2eu #Brexit","['brexit', 'yes2eu']"
-44,44,44,44,44,44,44,44,174703,702087865359011840,181245414,negative,remain,2016-02-23T11:09:25.000Z,"So many of the #Brexit little Englanders are OLD! Crapping their myopic, selfish ideas (?) on the rest of us before they bugger off! #yes2eu","['brexit', 'yes2eu']"
-45,45,45,45,45,45,45,45,1482681,745726856503107584,2435053308,positive,leave,2016-06-22T21:15:12.000Z,"You won WW1 &amp; WW2 while the west won the Cold War, pls now let us be a winner in this peace #Brexit #Yes2EU","['brexit', 'yes2eu']"
-46,46,46,46,46,46,46,46,2971,684357928447569920,3114270604,negative,remain,2016-01-05T12:56:59.000Z,"The only leader who would stand to gain from a British withdrawal from the EU is Vladimir Putin! #Brexit #Yes2EU
-https://t.co/0maS23YgsU","['brexit', 'yes2eu']"
-47,47,47,47,47,47,47,47,1358218,745122856707620864,2435053308,negative,other,2016-06-21T05:15:07.000Z,@welshlabour Cameron deal: The UK is not committed to further political integration #Brexit #Yes2EU https://t.co/0efuCMASpH,"['brexit', 'yes2eu']"
-48,48,48,48,48,48,48,48,1746066,746216469034237952,110374326,neutral,other,2016-06-24T05:40:44.000Z,Beyond speechless right now. #Brexit #yes2eu,"['brexit', 'yes2eu']"
-49,49,49,49,49,49,49,49,278637,706507288895422464,181245414,negative,leave,2016-03-06T15:50:38.000Z,"#Brexit would be “poison” for the UK, European and global economies that would last for years, the German finance minister says #yes2eu","['brexit', 'yes2eu']"
-50,50,50,50,50,50,50,50,161360,701804032214573056,181245414,negative,other,2016-02-22T16:21:34.000Z,"Two referendums, #Boris ? You stupid oaf! One is more than we need! Go away! #Brexit #brexitboobys #yes2eu","['brexit', 'yes2eu', 'brexitboobys', 'boris']"
-51,51,51,51,51,51,51,51,272794,706091937292533760,28648780,neutral,remain,2016-03-05T12:20:11.000Z,#Brexit campaign socks. Not quite sure which side they're on. #yes2eu or #no2eu? https://t.co/VCKN9lg70a,"['brexit', 'yes2eu', 'no2eu?']"
-52,52,52,52,52,52,52,52,29602,692021978039975936,68452043,positive,other,2016-01-26T16:31:11.000Z,"Going to an awesome event in London:
+https://t.co/Q6jGOdDQPT - Thoughts?","['bremain', 'leadnotleave', 'voteremain', 'betteroffin', 'yestoeu', 'ukineu', 'votein', 'strongerin', 'brexit', 'yes2eu']"
+7,7,7,864257,738280364494442496,720884762,neutral,remain,2016-06-02T08:05:30.000Z,"My view on #Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
+
+https://t.co/cMT5l82x0a","['bremain', 'leadnotleave', 'voteremain', 'betteroffin', 'yestoeu', 'ukineu', 'votein', 'strongerin', 'brexit', 'yes2eu']"
+8,8,8,754577,734686675348168704,31092209,negative,remain,2016-05-23T10:05:27.000Z,"Covert racism is sprinkled throughout the EU Leave campaign. https://t.co/4AOXHS2fko #labourinforbritain, #yes2eu, #brexit","['brexit', 'labourinforbritain', 'yes2eu']"
+9,9,9,29602,692021978039975936,68452043,positive,other,2016-01-26T16:31:11.000Z,"Going to an awesome event in London:
 #Brexit: What would it mean for young professionals?
 https://t.co/FmOocK09cv
-#NoBrexit #Yes2EU #Yes4EU","['brexit', 'yes2eu', 'nobrexit', 'yes4eu']"
-53,53,53,53,53,53,53,53,1333672,744919315787448320,958633201,neutral,other,2016-06-20T15:46:19.000Z,Please #Remain with us NO #Brexit #yes2eu,"['brexit', 'yes2eu', 'remain']"
-54,54,54,54,54,54,54,54,1333581,744918850681077760,196190210,neutral,other,2016-06-20T15:44:28.000Z,Please #Remain with us NO #Brexit #yes2eu 🇬🇧🇨🇮 https://t.co/q3cV2CEa1A,"['brexit', 'yes2eu', 'remain']"
-55,55,55,55,55,55,55,55,794381,735904793223389184,701399449055137792,neutral,leave,2016-05-26T18:45:49.000Z,OBV Poster  #EUreferendum #brexit #bremain #no2eu #yes2eu #bnp #edl #pegida #britainfirst #ukip #voteleave #LeaveEU https://t.co/I0ZfBfjtNW,"['britainfirst', 'ukip', 'voteleave', 'leaveeu', 'yes2eu', 'brexit', 'bnp', 'bremain', 'pegida', 'edl', 'eureferendum', 'no2eu']"
-56,56,56,56,56,56,56,56,1867692,746257944761802752,293465030,neutral,leave,2016-06-24T08:25:33.000Z,#Brexit made this a sentimental and alienating day. A streetline from when #Canterbury was still part of EU #yes2eu https://t.co/vlxlH5epbY,"['canterbury', 'brexit', 'yes2eu']"
-57,57,57,57,57,57,57,57,1379742,745222834549559296,344621545,neutral,leave,2016-06-21T11:52:23.000Z,Making the most out of #EU #trade https://t.co/fPhT98ASG9 via @One1Europe #Germany #Brexit #EuropeanUnion #Yes2EU https://t.co/gvSenCY1HL,"['eu', 'europeanunion', 'germany', 'trade', 'yes2eu', 'brexit']"
-58,58,58,58,58,58,58,58,612128,728585157058301952,141141836,neutral,remain,2016-05-06T14:00:12.000Z,"So the #Trump #Drumpf clown advocates #Brexit ?
-Evidence, if you needed it, that you should vote #Remain !
-#EU #VoteIn #UKinEU #yes2eu","['eu', 'remain', 'ukineu', 'drumpf', 'votein', 'trump', 'brexit', 'yes2eu']"
-59,59,59,59,59,59,59,59,1463639,745650907967258624,3248881547,negative,remain,2016-06-22T16:13:24.000Z,#NATO chief says #UK staying in the #EU is key to fighting terrorism: https://t.co/LDIY1XU4gZ #UKtoStay #EUref #Brexit #StrongerIN #Yes2EU,"['eu', 'strongerin', 'nato', 'uktostay', 'uk', 'euref', 'yes2eu', 'brexit']"
-60,60,60,60,60,60,60,60,352529,710812042677059584,41437799,negative,remain,2016-03-18T12:56:11.000Z,Your #UK household £4200-£6400 poorer! #Brexit #EUref #StrongerIN #EU #INtogether #GreenerIN #yes2EU #UKinEU #Remain https://t.co/zy7V5mjpHu,"['eu', 'strongerin', 'uk', 'intogether', 'ukineu', 'remain', 'yes2eu', 'euref', 'brexit', 'greenerin']"
-61,61,61,61,61,61,61,61,923578,739777846919450624,3248881547,neutral,remain,2016-06-06T11:15:57.000Z,"Next time someone claims the #EU isn't democratic, show them this: https://t.co/wfHsGioeZB #UKtoStay #StrongerIN #EUref #Brexit #Yes2EU","['eu', 'strongerin', 'uktostay', 'euref', 'yes2eu', 'brexit']"
-62,62,62,62,62,62,62,62,1423921,745533072305643520,3248881547,neutral,other,2016-06-22T08:25:10.000Z,"Is the #EU a gigantic bureaucracy? You decide: the #EU has 55,000 civil servants; the #UK 440,000. #GetTheFacts #EUref #Brexit #Yes2EU","['eu', 'uk', 'euref', 'yes2eu', 'brexit', 'getthefacts']"
-63,63,63,63,63,63,63,63,375624,712356363712765952,3248881547,neutral,other,2016-03-22T19:12:46.000Z,What would an #EU #Brexit mean for UK #tech? (Wired UK) https://t.co/g2WwwdoKMq #UKtoStay #Yes2EU #EUref,"['eu', 'uktostay', 'tech?', 'euref', 'yes2eu', 'brexit']"
-64,64,64,64,64,64,64,64,3513,684446016301580288,3135565264,positive,leave,2016-01-05T18:47:01.000Z,"Do you want to be in a #EU with #Turkey ?
+#NoBrexit #Yes2EU #Yes4EU","['brexit', 'nobrexit', 'yes2eu', 'yes4eu']"
+10,10,10,1046012,741945944867000320,418093400,neutral,other,2016-06-12T10:51:12.000Z,"VIDEO: EU Referendum Special - Yorkshire #property market update for June
+#brexit  #yes2EU https://t.co/Rkbd2Jmv2m https://t.co/z9Ne1lWYzf","['brexit', 'property', 'yes2eu']"
+11,11,11,1147884,743066090213756928,14292056,neutral,remain,2016-06-15T13:02:16.000Z,#Brexit: The beginning of the end? #betteroffin #strongerin #yes2eu https://t.co/3lxBd9ynAL https://t.co/CWBgKygb1n,"['brexit', 'strongerin', 'betteroffin', 'yes2eu']"
+12,12,12,174352,702083626696110080,181245414,positive,other,2016-02-23T10:52:35.000Z,#Brexit means a break up of the UK - Scotland wld be better off away apart from a nation of Little Englanders. Scotland here I come! #yes2eu,"['brexit', 'yes2eu']"
+13,13,13,174703,702087865359011840,181245414,negative,remain,2016-02-23T11:09:25.000Z,"So many of the #Brexit little Englanders are OLD! Crapping their myopic, selfish ideas (?) on the rest of us before they bugger off! #yes2eu","['brexit', 'yes2eu']"
+14,14,14,214598,703497484119764992,181245414,negative,remain,2016-02-27T08:30:45.000Z,"#Brexit 'could pose a risk to the world economy', says draft G20 communique ...&amp; advertise our stupidity! #yes2eu https://t.co/yzUy15jYan","['brexit', 'yes2eu']"
+15,15,15,276711,706422918004252672,133324858,negative,other,2016-03-06T10:15:23.000Z,"Yes, leaving the EU is economic stupidity. But it's far worse than that.
+
+Borders are for morons https://t.co/7P1dfhgV9t #brexit #yes2eu","['brexit', 'yes2eu']"
+16,16,16,385651,713040724808364032,3899833354,negative,remain,2016-03-24T16:32:11.000Z,"@MayorofLondon's Chief Economic Advisor contradicts him, asserting how #Brexit will be huge risk to economy https://t.co/Mc6rjkM4D4 #yes2EU","['brexit', 'yes2eu']"
+17,17,17,135393,701416227038695424,141234772,positive,other,2016-02-21T14:40:34.000Z,#Brexit would probably mean the beginning of the end for the EU project. Putin would love it. Bye-bye eastern Europe. Hello new USSR #yes2eu,"['brexit', 'yes2eu']"
+18,18,18,1746066,746216469034237952,110374326,neutral,other,2016-06-24T05:40:44.000Z,Beyond speechless right now. #Brexit #yes2eu,"['brexit', 'yes2eu']"
+19,19,19,150992,701705921928499200,181245414,positive,other,2016-02-22T09:51:43.000Z,"Oh joy! Gobby Galloway has found another platform to prolong his dodgy career. NOTICE ME! Nah, George, you're a spent force! #yes2EU #Brexit","['brexit', 'yes2eu']"
+20,20,20,77997,699181104188780544,246844437,positive,other,2016-02-15T10:39:00.000Z,"True socialists are  internationalists.
+@UKLabour *must* campaign VIGOROUSLY against #Brexit, @jeremycorbyn.
+#Yes2EU","['brexit', 'yes2eu']"
+21,21,21,282977,706768884486041600,351500954,negative,other,2016-03-07T09:10:07.000Z,"Yes, leaving the EU is economic stupidity. But it's far worse than that.
+
+Borders are for morons https://t.co/T8SvrfrZd2 #brexit #yes2eu","['brexit', 'yes2eu']"
+22,22,22,12564,687563402349285376,19442760,neutral,remain,2016-01-14T09:14:24.000Z,"The #yes2eu campaigners might as well relax and bugger off down the pub, now that Grayling’s joined the #brexit camp.","['brexit', 'yes2eu']"
+23,23,23,754659,734687883907485696,27720426,negative,remain,2016-05-23T10:10:16.000Z,"EU Vote #brexit #yes2eu 
+no one knows what will happen,
+1 fact,
+after the vote, retailers will put up prices and blame the vote, regardless.","['brexit', 'yes2eu']"
+24,24,24,161923,701809203959242752,181245414,negative,other,2016-02-22T16:42:07.000Z,We Americans can’t wait for Britain to stop dithering about Europe says Robert Hunter #Brexit #yes2eu https://t.co/KwIuaObmLh,"['brexit', 'yes2eu']"
+25,25,25,143121,701532712096501760,20610347,negative,other,2016-02-21T22:23:27.000Z,"Tolerate this then your children will be next. Nationalism is killing Britain.  Nationalism, what has it ever done for us? #yes2eu #Brexit","['brexit', 'yes2eu']"
+26,26,26,278637,706507288895422464,181245414,negative,leave,2016-03-06T15:50:38.000Z,"#Brexit would be “poison” for the UK, European and global economies that would last for years, the German finance minister says #yes2eu","['brexit', 'yes2eu']"
+27,27,27,161360,701804032214573056,181245414,negative,other,2016-02-22T16:21:34.000Z,"Two referendums, #Boris ? You stupid oaf! One is more than we need! Go away! #Brexit #brexitboobys #yes2eu","['brexitboobys', 'boris', 'brexit', 'yes2eu']"
+28,28,28,172245,702054691589505024,181245414,neutral,remain,2016-02-23T08:57:36.000Z,#Boris...the fat fellow probably not quite as sure as he was on Sunday evening. His charade...laughable #Brexit #yes2eu #brexitboobys,"['brexitboobys', 'yes2eu', 'boris...the', 'brexit']"
+29,29,29,794381,735904793223389184,701399449055137792,neutral,leave,2016-05-26T18:45:49.000Z,OBV Poster  #EUreferendum #brexit #bremain #no2eu #yes2eu #bnp #edl #pegida #britainfirst #ukip #voteleave #LeaveEU https://t.co/I0ZfBfjtNW,"['britainfirst', 'ukip', 'leaveeu', 'bnp', 'pegida', 'voteleave', 'edl', 'bremain', 'eureferendum', 'brexit', 'no2eu', 'yes2eu']"
+30,30,30,1867692,746257944761802752,293465030,neutral,leave,2016-06-24T08:25:33.000Z,#Brexit made this a sentimental and alienating day. A streetline from when #Canterbury was still part of EU #yes2eu https://t.co/vlxlH5epbY,"['canterbury', 'brexit', 'yes2eu']"
+31,31,31,882678,738685486944899072,3248881547,positive,other,2016-06-03T10:55:18.000Z,Please RT this important video from @Env4Eur: https://t.co/7KEEKiAqlD #UKtoStay #StrongerIN #Brexit #Yes2EU #EUref #environment,"['environment', 'yes2eu', 'uktostay', 'euref', 'brexit', 'strongerin']"
+32,32,32,47999,694917973136531456,2996263767,negative,other,2016-02-03T16:18:50.000Z,When people don't understand #history - #UK will become a nasty place out of #EU. #Brexit #UKinEU #EUreform #yes2eu #StrongerIn #voteremain,"['eu', 'voteremain', 'ukineu', 'uk', 'strongerin', 'history', 'eureform', 'brexit', 'yes2eu']"
+33,33,33,923578,739777846919450624,3248881547,neutral,remain,2016-06-06T11:15:57.000Z,"Next time someone claims the #EU isn't democratic, show them this: https://t.co/wfHsGioeZB #UKtoStay #StrongerIN #EUref #Brexit #Yes2EU","['eu', 'yes2eu', 'uktostay', 'euref', 'brexit', 'strongerin']"
+34,34,34,31838,692470049857245184,253941749,positive,other,2016-01-27T22:11:40.000Z,EU migrants ONLY 4% of UK population: active &amp; contributing POSITIVELY to UK economy/society. #euref #brexit #Yes2EU https://t.co/pYZ7YSgnHw,"['euref', 'brexit', 'yes2eu']"
+35,35,35,37087,693778303505797120,253941749,positive,other,2016-01-31T12:50:11.000Z,Official OUT plan just revealed: A hope and a prayer! #euref #brexit #strongerin #yes2eu https://t.co/UPZLLxgp0Z,"['euref', 'strongerin', 'brexit', 'yes2eu']"
+36,36,36,34329,693034786584170496,253941749,negative,remain,2016-01-29T11:35:43.000Z,"""The EU is an anti-democratic empire"" ONCE MORE Eurosceptic nonsense!
+https://t.co/LZL9GDOXcM #euref #brexit #strongerin #yes2eu","['euref', 'strongerin', 'brexit', 'yes2eu']"
+37,37,37,73705,698691942901800960,253941749,neutral,remain,2016-02-14T02:15:14.000Z,How much UK law is made at European level? 13% https://t.co/HYqS9sFIJA #euref #brexit #strongerin #yes2eu,"['euref', 'strongerin', 'brexit', 'yes2eu']"
+38,38,38,73710,698696672004669440,253941749,negative,other,2016-02-14T02:34:02.000Z,Praying that #euref will not go down as the day Britain lost its power of reasoning. #strongerin #brexit #yes2eu https://t.co/5VSqkk6fLk,"['euref', 'strongerin', 'brexit', 'yes2eu']"
+39,39,39,81140,699375014504693760,253941749,positive,other,2016-02-15T23:29:31.000Z,"Mr #Brexit Club membership - My Resignation, but I still want to use the facilities. https://t.co/R6Z7pX5qSb #euref #strongerin #yes2eu","['euref', 'strongerin', 'brexit', 'yes2eu']"
+40,40,40,43433,694542138139414528,253941749,neutral,other,2016-02-02T15:25:24.000Z,What power sharing in Europe is all about. #euref #strongerin #brexit #uk4eu #yes2eu https://t.co/Po8mWaUXNY,"['euref', 'uk4eu', 'strongerin', 'brexit', 'yes2eu']"
+41,41,41,32247,692631704964612096,253941749,positive,remain,2016-01-28T08:54:01.000Z,If all UKIP members were like Pinocchio you could easily see their lies. #euref #brexit #uk4eu #yes2eu #strongerin  https://t.co/pXlj1eRDAv,"['euref', 'uk4eu', 'strongerin', 'brexit', 'yes2eu']"
+42,42,42,739157,734078061432410112,731465935308128128,negative,other,2016-05-21T17:47:03.000Z,"Since 1996, the UK has objected to 55 new laws by the EU Council, the UK has been defeated 55 times. #Brexit #Yes2EU #EURef","['euref', 'yes2eu', 'brexit']"
+43,43,43,757229,734736399241490432,731465935308128128,neutral,leave,2016-05-23T13:23:02.000Z,Last year 80% of new job vacancies were filled by people born abroad. #Brexit #Yes2EU #UKInEU #EURef,"['euref', 'yes2eu', 'brexit', 'ukineu']"
+44,44,44,18891,689756094923706368,3114270604,neutral,other,2016-01-20T10:27:22.000Z,"#UKIP's new #Brexit strategy: don't consider facts, just focus on the ""emotional"" side of the debate! #EUref #Yes2EU https://t.co/OogfqAvpGZ","['euref', 'yes2eu', 'brexit', ""ukip's""]"
+45,45,45,724800,733573737874743296,731465935308128128,neutral,remain,2016-05-20T08:23:02.000Z,Eurocodes are gradually replacing the British Standard (BS) code system. #Brexit #VoteRemain #Yes2EU #EURef,"['euref', 'yes2eu', 'brexit', 'voteremain']"
+46,46,46,1226817,743806662788648960,731465935308128128,negative,other,2016-06-17T14:05:02.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #LeaveEU #VoteRemain #Yes2EU #EURef,"['euref', 'yes2eu', 'leaveeu', 'voteremain']"
+47,47,47,1053664,742086328406380544,731465935308128128,neutral,other,2016-06-12T20:09:02.000Z,"There were 179,000 National Insurance Number registrations by Romanians in the UK last year. #Brexit #Yes2EU #YesToEU #EURef","['euref', 'yestoeu', 'yes2eu', 'brexit']"
+48,48,48,865373,738328569236074496,731465935308128128,negative,leave,2016-06-02T11:17:03.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #EuReform #YesToEU #Yes2EU #EURef,"['euref', 'yestoeu', 'yes2eu', 'eureform']"
+49,49,49,1149745,743078869067046912,731465935308128128,neutral,leave,2016-06-15T13:53:02.000Z,"There were 630,000 National Insurance Number registrations by EU nationals in the UK last year. #Brexit #Yes2EU #BetterOffIn #EUReferendum","['eureferendum', 'betteroffin', 'yes2eu', 'brexit']"
+50,50,50,870136,738380911994109952,731465935308128128,neutral,other,2016-06-02T14:45:02.000Z,"Due to the EU's Common Agricultural Policy, food prices are artificially inflated. #Brexit #Yes2EU #BetterOffIn #EUReferendum","['eureferendum', 'betteroffin', 'yes2eu', 'brexit']"
+51,51,51,824876,737187046016552960,731465935308128128,neutral,other,2016-05-30T07:41:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #No2EU #BetterOffIn #Yes2EU #EUReferendum","['eureferendum', 'betteroffin', 'yes2eu', 'no2eu']"
+52,52,52,134222,701389430360317952,20316061,positive,other,2016-02-21T12:54:06.000Z,"If Gove, DuncanSmith and Johnson all agree on same thing, it's a pretty good decision to go with the opposite #Brexit #EUreferendum #yes2eu","['eureferendum', 'brexit', 'yes2eu']"
+53,53,53,172066,702052280300916736,181245414,neutral,leave,2016-02-23T08:48:01.000Z,The ‘out’ leaders are a line-up of lone wolves and fantasists – and they’re just as establishment as Dave #EUreferendum #Brexit #yes2eu,"['eureferendum', 'brexit', 'yes2eu']"
+54,54,54,862171,738271189819351040,731465935308128128,neutral,other,2016-06-02T07:29:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #BritainOut #VoteIn #Yes2EU #EUReferendum","['eureferendum', 'britainout', 'yes2eu', 'votein']"
+55,55,55,989355,740991113683718144,731465935308128128,positive,other,2016-06-09T19:37:03.000Z,"Last year the number of EU workers in the UK rose by 224,000. #Brexit #Yes2EU #LeadNotLeave #EUReferendum","['eureferendum', 'leadnotleave', 'yes2eu', 'brexit']"
+56,56,56,1286919,744596870656307200,731465935308128128,neutral,other,2016-06-19T18:25:02.000Z,"The EU and the Single Market are not the same thing. The EU has 28 members, the Single Market has 31. #Brexit #Yes2EU #BRemain #EUReferendum","['eureferendum', 'yes2eu', 'brexit', 'bremain']"
+57,57,57,1120322,742828217199960064,731465935308128128,neutral,remain,2016-06-14T21:17:02.000Z,The facts on the Leave.EU website are not all facts. #Brexit #VoteIn #Yes2EU #EUReferendum,"['eureferendum', 'yes2eu', 'brexit', 'votein']"
+58,58,58,1323293,744871682893033472,731465935308128128,positive,other,2016-06-20T12:37:02.000Z,The phrase United States of Europe was invented by Adolf Hitler. #Brexit #Yes2EU #VoteRemain #EUReferendum,"['eureferendum', 'yes2eu', 'brexit', 'voteremain']"
+59,59,59,739198,734111277799383040,731465935308128128,negative,leave,2016-05-21T19:59:02.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #VoteLeave #Yes2EU #UKInEU #EUReferendum,"['eureferendum', 'yes2eu', 'voteleave', 'ukineu']"
+60,60,60,848449,737902762164375552,731465935308128128,negative,other,2016-06-01T07:05:02.000Z,Corrupt EU staff are immune from prosecution. #Brexit #Yes2EU #YesToEU #EUReferendum,"['eureferendum', 'yestoeu', 'yes2eu', 'brexit']"
+61,61,61,1227880,743787535462244352,731465935308128128,negative,leave,2016-06-17T12:49:02.000Z,49% of CBI members say that pan-EU employment rights are a negative for business (Source: CBI). #Brexit #Yes2EU #YesToEU #EUReferendum,"['eureferendum', 'yestoeu', 'yes2eu', 'brexit']"
+62,62,62,1074743,742414498632503296,731465935308128128,neutral,leave,2016-06-13T17:53:04.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #VoteLeave #YesToEU #Yes2EU #EUReferendum","['eureferendum', 'yestoeu', 'yes2eu', 'voteleave']"
+63,63,63,929635,739864124394483712,3248881547,neutral,other,2016-06-06T16:58:47.000Z,Here's how democracy works in the #EU: https://t.co/zWRvF8Q79K #UKtoStay #StrongerIN #EUref #Brexit #Yes2EU https://t.co/JfpCsH0j1T #facts,"['facts', 'yes2eu', 'uktostay', 'eu', 'euref', 'brexit', 'strongerin']"
+64,64,64,1379742,745222834549559296,344621545,neutral,leave,2016-06-21T11:52:23.000Z,Making the most out of #EU #trade https://t.co/fPhT98ASG9 via @One1Europe #Germany #Brexit #EuropeanUnion #Yes2EU https://t.co/gvSenCY1HL,"['germany', 'eu', 'yes2eu', 'europeanunion', 'trade', 'brexit']"
+65,65,65,1423921,745533072305643520,3248881547,neutral,other,2016-06-22T08:25:10.000Z,"Is the #EU a gigantic bureaucracy? You decide: the #EU has 55,000 civil servants; the #UK 440,000. #GetTheFacts #EUref #Brexit #Yes2EU","['getthefacts', 'uk', 'eu', 'yes2eu', 'euref', 'brexit']"
+66,66,66,352529,710812042677059584,41437799,negative,remain,2016-03-18T12:56:11.000Z,Your #UK household £4200-£6400 poorer! #Brexit #EUref #StrongerIN #EU #INtogether #GreenerIN #yes2EU #UKinEU #Remain https://t.co/zy7V5mjpHu,"['greenerin', 'yes2eu', 'intogether', 'ukineu', 'uk', 'eu', 'remain', 'euref', 'brexit', 'strongerin']"
+67,67,67,123935,701047576179642368,895881930,neutral,leave,2016-02-20T14:15:41.000Z,"Check out how much the EU is costing us!
+
+ https://t.co/AhYgbcJAIH #Brexit #No2EU #Yes2EU #StopTheEU #Grexit #EUref","['grexit', 'stoptheeu', 'no2eu', 'yes2eu', 'euref', 'brexit']"
+68,68,68,909027,739479878467211264,2830600891,neutral,remain,2016-06-05T15:31:56.000Z,"Brexit?U sure?I'm #IN #Yes2EU
+Boris Johnson:A pound spent in London is of more value than a pound spe.. https://t.co/vX35zUeQCF via @YouTube","['in', 'yes2eu']"
+69,69,69,1569607,746057536525209600,3248881547,neutral,leave,2016-06-23T19:09:12.000Z,#Australia wants #UKtoStay in the #EU! #EUref #votedremain #Brexit #yes2EU https://t.co/dyzKsFy0uc #ivotedin https://t.co/GPfeJJzhL7,"['ivotedin', 'yes2eu', 'australia', 'votedremain', 'uktostay', 'euref', 'brexit', 'eu']"
+70,70,70,1543246,745970517065203712,6270432,positive,other,2016-06-23T13:23:25.000Z,If the UK #leaveeu or #yes2eu https://t.co/lFV6OVOPFs A solid Data Governance strategy will be needed. https://t.co/gwjIB4TRWs #brexit,"['leaveeu', 'brexit', 'yes2eu']"
+71,71,71,248513,705036604142968832,253941749,negative,other,2016-03-02T14:26:40.000Z,"#Brexit is all risk, no reward, says BlackRock https://t.co/mqjBITRr31  #euref #leaveeu #StrongerIn #yes2eu","['leaveeu', 'strongerin', 'euref', 'brexit', 'yes2eu']"
+72,72,72,3513,684446016301580288,3135565264,positive,leave,2016-01-05T18:47:01.000Z,"Do you want to be in a #EU with #Turkey ?
 #Yes2EU or #No2EU
 #EUref
 #votestay
 #Brexit
 #StrongerIn
 #LeaveEU
-#VoteLeave https://t.co/rPqvw9G4a2","['eu', 'voteleave', 'no2eu', 'brexit', 'strongerin', 'votestay', 'euref', 'yes2eu', 'leaveeu', 'turkey']"
-65,65,65,65,65,65,65,65,81140,699375014504693760,253941749,positive,other,2016-02-15T23:29:31.000Z,"Mr #Brexit Club membership - My Resignation, but I still want to use the facilities. https://t.co/R6Z7pX5qSb #euref #strongerin #yes2eu","['euref', 'brexit', 'yes2eu', 'strongerin']"
-66,66,66,66,66,66,66,66,1140123,743022450099814400,2650693334,negative,remain,2016-06-15T10:08:51.000Z,What Scotland needs to know before voting https://t.co/n45EM7SDko #remain #leave #euref #brexit #yes2eu https://t.co/kNDgoPSTzn,"['euref', 'leave', 'brexit', 'yes2eu', 'remain']"
-67,67,67,67,67,67,67,67,1140124,743022451420958720,15603681,negative,remain,2016-06-15T10:08:51.000Z,What Scotland needs to know before voting https://t.co/DJle1cOiT0 #remain #leave #euref #brexit #yes2eu https://t.co/MmV6VRqSgT,"['euref', 'leave', 'brexit', 'yes2eu', 'remain']"
-68,68,68,68,68,68,68,68,1140125,743022453258125312,4705896155,negative,remain,2016-06-15T10:08:52.000Z,What Scotland needs to know before voting https://t.co/IGIOXS32l1 #remain #leave #euref #brexit #yes2eu https://t.co/VVx8DB6KsF,"['euref', 'leave', 'brexit', 'yes2eu', 'remain']"
-69,69,69,69,69,69,69,69,1140128,743022464326729728,15603681,negative,remain,2016-06-15T10:08:54.000Z,What Scotland needs to know before voting https://t.co/DJle1d5TKy #remain #leave #euref #brexit #yes2eu https://t.co/cijZsxr9nY,"['euref', 'leave', 'brexit', 'yes2eu', 'remain']"
-70,70,70,70,70,70,70,70,248513,705036604142968832,253941749,negative,other,2016-03-02T14:26:40.000Z,"#Brexit is all risk, no reward, says BlackRock https://t.co/mqjBITRr31  #euref #leaveeu #StrongerIn #yes2eu","['euref', 'leaveeu', 'strongerin', 'brexit', 'yes2eu']"
-71,71,71,71,71,71,71,71,32247,692631704964612096,253941749,positive,remain,2016-01-28T08:54:01.000Z,If all UKIP members were like Pinocchio you could easily see their lies. #euref #brexit #uk4eu #yes2eu #strongerin  https://t.co/pXlj1eRDAv,"['euref', 'strongerin', 'brexit', 'uk4eu', 'yes2eu']"
-72,72,72,72,72,72,72,72,43433,694542138139414528,253941749,neutral,other,2016-02-02T15:25:24.000Z,What power sharing in Europe is all about. #euref #strongerin #brexit #uk4eu #yes2eu https://t.co/Po8mWaUXNY,"['euref', 'strongerin', 'brexit', 'uk4eu', 'yes2eu']"
-73,73,73,73,73,73,73,73,284549,706824477733220352,501139438,neutral,other,2016-03-07T12:51:02.000Z,#Brexit-facts: #UK exports more to Holland than to the entirety of the Commonwealth. #StrongerIn #Yes2EU #EURef https://t.co/MN2eKsaCsi,"['euref', 'strongerin', 'uk', 'brexit-facts', 'yes2eu']"
-74,74,74,74,74,74,74,74,812016,736545821412446208,731465935308128128,negative,other,2016-05-28T13:13:02.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #EuReform #StrongerIn #Yes2EU #EURef,"['euref', 'strongerin', 'yes2eu', 'eureform']"
-75,75,75,75,75,75,75,75,452752,718483009272430592,110111279,neutral,remain,2016-04-08T16:57:52.000Z,"Was this an intended or unintended consequence of #EURef ??
-#StrongerIn #VoteRemain #Yes2EU #Brexit  https://t.co/NfcsbSDHFQ","['euref', 'strongerin', 'yes2eu', 'voteremain', 'brexit']"
-76,76,76,76,76,76,76,76,31838,692470049857245184,253941749,positive,other,2016-01-27T22:11:40.000Z,EU migrants ONLY 4% of UK population: active &amp; contributing POSITIVELY to UK economy/society. #euref #brexit #Yes2EU https://t.co/pYZ7YSgnHw,"['euref', 'yes2eu', 'brexit']"
-77,77,77,77,77,77,77,77,73705,698691942901800960,253941749,neutral,remain,2016-02-14T02:15:14.000Z,How much UK law is made at European level? 13% https://t.co/HYqS9sFIJA #euref #brexit #strongerin #yes2eu,"['euref', 'yes2eu', 'strongerin', 'brexit']"
-78,78,78,78,78,78,78,78,73710,698696672004669440,253941749,negative,other,2016-02-14T02:34:02.000Z,Praying that #euref will not go down as the day Britain lost its power of reasoning. #strongerin #brexit #yes2eu https://t.co/5VSqkk6fLk,"['euref', 'yes2eu', 'strongerin', 'brexit']"
-79,79,79,79,79,79,79,79,34329,693034786584170496,253941749,negative,remain,2016-01-29T11:35:43.000Z,"""The EU is an anti-democratic empire"" ONCE MORE Eurosceptic nonsense!
-https://t.co/LZL9GDOXcM #euref #brexit #strongerin #yes2eu","['euref', 'yes2eu', 'strongerin', 'brexit']"
-80,80,80,80,80,80,80,80,37087,693778303505797120,253941749,positive,other,2016-01-31T12:50:11.000Z,Official OUT plan just revealed: A hope and a prayer! #euref #brexit #strongerin #yes2eu https://t.co/UPZLLxgp0Z,"['euref', 'yes2eu', 'strongerin', 'brexit']"
-81,81,81,81,81,81,81,81,808391,736297180110172160,731465935308128128,negative,other,2016-05-27T20:45:02.000Z,"IMF chief and pro-Europhile Christine Lagarde pays no income tax on her $550,000 salary. #Brexit #StrongerIn #Yes2EU #EUReferendum","['eureferendum', 'brexit', 'strongerin', 'yes2eu']"
-82,82,82,82,82,82,82,82,839788,737654123873570816,731465935308128128,neutral,leave,2016-05-31T14:37:02.000Z,EU Officials have drawn up plans for a minimum corporation tax levy across all 28 EU member nations. #Brexit #UKInEU #Yes2EU #EUReferendum,"['eureferendum', 'brexit', 'ukineu', 'yes2eu']"
-83,83,83,83,83,83,83,83,1099240,742662119246663680,731465935308128128,neutral,leave,2016-06-14T10:17:01.000Z,"3 to 4 Million jobs depend on trading with EU countries, they do not depend on EU membership. #Brexit #UKInEU #Yes2EU #EUReferendum","['eureferendum', 'brexit', 'ukineu', 'yes2eu']"
-84,84,84,84,84,84,84,84,739198,734111277799383040,731465935308128128,negative,leave,2016-05-21T19:59:02.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #VoteLeave #Yes2EU #UKInEU #EUReferendum,"['eureferendum', 'voteleave', 'ukineu', 'yes2eu']"
-85,85,85,85,85,85,85,85,452430,718458397620744192,161243998,negative,other,2016-04-08T15:20:04.000Z,"#Brexit may be bigger risk for #Eurozone than UK | @Simon_Nixon (£) #EUref #UKinEU #StrongerIn #VoteRemain #Yes2EU
-https://t.co/n6pbKM8vKz","['eurozone', 'strongerin', 'ukineu', 'euref', 'yes2eu', 'voteremain', 'brexit']"
-86,86,86,86,86,86,86,86,1122196,742862076557819904,1264743732,negative,remain,2016-06-14T23:31:35.000Z,"Commercial Suicide - Riches to Ragtime 
+#VoteLeave https://t.co/rPqvw9G4a2","['leaveeu', 'turkey', 'votestay', 'strongerin', 'no2eu', 'eu', 'yes2eu', 'euref', 'brexit', 'voteleave']"
+73,73,73,6152,685247151207780352,3135565264,negative,leave,2016-01-07T23:50:26.000Z,"Time to leave the sinking ship time to #LeaveEU
+
+#EUreferendum #VoteLeave  #Brexit #StrongerIn #VoteREMAIN #yes2EU https://t.co/xxlFCdb9l6","['leaveeu', 'yes2eu', 'voteremain', 'strongerin', 'eureferendum', 'brexit', 'voteleave']"
+74,74,74,272794,706091937292533760,28648780,neutral,remain,2016-03-05T12:20:11.000Z,#Brexit campaign socks. Not quite sure which side they're on. #yes2eu or #no2eu? https://t.co/VCKN9lg70a,"['no2eu?', 'brexit', 'yes2eu']"
+75,75,75,1553173,746001334424444928,3248881547,neutral,leave,2016-06-23T15:25:52.000Z,#BrexitorNot? The G20 wants the #UKtoStay in the EU - #EUref #iVoted #referendum #Yes2EU #Brexit #StrongerIN https://t.co/wyQhPHqxh9,"['referendum', 'brexitornot?', 'yes2eu', 'uktostay', 'euref', 'brexit', 'strongerin', 'ivoted']"
+76,76,76,991849,741043226585485312,2830600891,negative,remain,2016-06-09T23:04:07.000Z,"Do you really believe the lies will stop after a Brexit? They won't, they will get worse. #remain #reform #Yes2EU https://t.co/Wqmy8LF6Rh","['reform', 'remain', 'yes2eu']"
+77,77,77,1087902,742616657344991232,2830600891,neutral,leave,2016-06-14T07:16:22.000Z,@Todaysopinionis @craigakconnolly @nuttystar Yeh sure and that will all change in a Brexit Tory Britain...get real! #remain #reform #YES2EU,"['reform', 'remain', 'yes2eu']"
+78,78,78,1137932,743042182261661696,2830600891,negative,remain,2016-06-15T11:27:15.000Z,"Have the Brexit bunch got a Plan B? No, they don't even have a plan A! #Remain #reform #Yes2eu","['reform', 'remain', 'yes2eu']"
+79,79,79,931648,739901419843653632,2830600891,negative,other,2016-06-06T19:26:59.000Z,@AiberdeinQuine I've even got my toes crossed. #Brexit is disaster for SCO and also for so called uk. #remain #reform #YES2EU,"['reform', 'remain', 'yes2eu', 'brexit']"
+80,80,80,1023613,741585957300899840,2830600891,positive,leave,2016-06-11T11:00:44.000Z,Trust him regarding EU &amp; Brexit?I don't! #ImIN #remain #reform #YES2EU Never trust a Tory they care 0 4ordinary ppl. https://t.co/6lwOZgZ8hm,"['reform', 'remain', 'yes2eu', 'imin']"
+81,81,81,1088472,742621630132854784,2830600891,positive,other,2016-06-14T07:36:08.000Z,Trust this shower&amp;let them rule after Brexit?No way #Torylies #medialies #Torycharade #ImIn #YES2EU #remain #reform https://t.co/lArh47bd1b,"['reform', 'remain', 'yes2eu', 'imin', 'torylies', 'torycharade', 'medialies']"
+82,82,82,1047168,741992314147614720,2830600891,neutral,remain,2016-06-12T13:55:27.000Z,I can picture this sort of disgrace getting a lot better with a Brexit.NOT! #Voteremain #reform #YES2EU #Torycharade https://t.co/ckpD3kfpdl,"['reform', 'torycharade', 'yes2eu', 'voteremain']"
+83,83,83,1118465,742843417189855232,2830600891,neutral,remain,2016-06-14T22:17:26.000Z,The truth! Not the lies being spread by the Brexit bunch! #ImIn #voteremain #reform #Yes2EU &amp; stuff the #Torycharade https://t.co/sFR8vBVuo3,"['reform', 'voteremain', 'imin', 'yes2eu', 'torycharade']"
+84,84,84,1118999,742847459030933504,2830600891,negative,other,2016-06-14T22:33:30.000Z,Trust the Brexit bunch at your own peril ! #Torycharade #Torylies #Torydeceit #ImIn #voteremain #reform #yes2eu https://t.co/yHlBhPtMiy,"['reform', 'voteremain', 'torydeceit', 'imin', 'torylies', 'torycharade', 'yes2eu']"
+85,85,85,1088576,742622491345047552,2830600891,negative,remain,2016-06-14T07:39:33.000Z,YepYep&amp;Yep again!Do 0 trust the Murdoch press! #Voteremain #reform #YES2EU Murdochs sort will run riot in Brexit uk. https://t.co/JQLx50ZGNL,"['reform', 'yes2eu', 'voteremain']"
+86,86,86,1048244,742009807847235584,2830600891,positive,remain,2016-06-12T15:04:58.000Z,&amp; ur going to trust his type with Brexit? Get wise! #voteremain #reform #YES2EU https://t.co/wTBN6IT22g,"['reform', 'yes2eu', 'voteremain']"
+87,87,87,1333581,744918850681077760,196190210,neutral,other,2016-06-20T15:44:28.000Z,Please #Remain with us NO #Brexit #yes2eu 🇬🇧🇨🇮 https://t.co/q3cV2CEa1A,"['remain', 'brexit', 'yes2eu']"
+88,88,88,1333672,744919315787448320,958633201,neutral,other,2016-06-20T15:46:19.000Z,Please #Remain with us NO #Brexit #yes2eu,"['remain', 'brexit', 'yes2eu']"
+89,89,89,1425173,745537272833933312,2223037063,positive,remain,2016-06-22T08:41:51.000Z,RT HLeichsenring: British friends: Don’t risk jobs – Stay in Europe! #remain #brexit #yes2eu #voteremain,"['remain', 'brexit', 'yes2eu', 'voteremain']"
+90,90,90,1428328,745521465953386496,109815397,positive,remain,2016-06-22T07:39:03.000Z,British friends: Don’t risk jobs – Stay in Europe! #remain #brexit #yes2eu #voteremain,"['remain', 'brexit', 'yes2eu', 'voteremain']"
+91,91,91,1140125,743022453258125312,4705896155,negative,remain,2016-06-15T10:08:52.000Z,What Scotland needs to know before voting https://t.co/IGIOXS32l1 #remain #leave #euref #brexit #yes2eu https://t.co/VVx8DB6KsF,"['remain', 'leave', 'euref', 'brexit', 'yes2eu']"
+92,92,92,1140128,743022464326729728,15603681,negative,remain,2016-06-15T10:08:54.000Z,What Scotland needs to know before voting https://t.co/DJle1d5TKy #remain #leave #euref #brexit #yes2eu https://t.co/cijZsxr9nY,"['remain', 'leave', 'euref', 'brexit', 'yes2eu']"
+93,93,93,1140124,743022451420958720,15603681,negative,remain,2016-06-15T10:08:51.000Z,What Scotland needs to know before voting https://t.co/DJle1cOiT0 #remain #leave #euref #brexit #yes2eu https://t.co/MmV6VRqSgT,"['remain', 'leave', 'euref', 'brexit', 'yes2eu']"
+94,94,94,1140123,743022450099814400,2650693334,negative,remain,2016-06-15T10:08:51.000Z,What Scotland needs to know before voting https://t.co/n45EM7SDko #remain #leave #euref #brexit #yes2eu https://t.co/kNDgoPSTzn,"['remain', 'leave', 'euref', 'brexit', 'yes2eu']"
+95,95,95,912107,739557656004861952,2830600891,negative,remain,2016-06-05T20:41:00.000Z,#Torylies #Panamapapers #Toryelectionfraud #Evel #corruption #vowbroken &amp; u want SCO 2 Brexit? #remain #Yes2EU https://t.co/R4vEHKSumn,"['remain', 'toryelectionfraud', 'vowbroken', 'evel', 'torylies', 'yes2eu', 'panamapapers', 'corruption']"
+96,96,96,3634,684473728072298496,110652735,positive,other,2016-01-05T20:37:08.000Z,"Thought I'd share this site, please RT if you agree :)
+
+ https://t.co/8aTLnqKAUe #Brexit #No2EU #Yes2EU #StopTheEU #EUref","['stoptheeu', 'no2eu', 'yes2eu', 'euref', 'brexit']"
+97,97,97,573351,725309566674685952,2915195838,positive,other,2016-04-27T13:04:10.000Z,"Thought I'd share this site, please RT if you agree :)
+
+ https://t.co/ZdMoSPHJfe #Brexit #No2EU #Yes2EU #StopTheEU #EUref","['stoptheeu', 'no2eu', 'yes2eu', 'euref', 'brexit']"
+98,98,98,15525,688664650708291584,3114270604,neutral,other,2016-01-17T10:10:22.000Z,"In complex systems, cause &amp; effect may not seem obvious to everyone!
+#Brexit #VoteLeave #LeaveEU #StrongerIn #Yes2EU https://t.co/0gbfSVrZz9","['strongerin', 'brexit', 'yes2eu', 'leaveeu', 'voteleave']"
+99,99,99,452752,718483009272430592,110111279,neutral,remain,2016-04-08T16:57:52.000Z,"Was this an intended or unintended consequence of #EURef ??
+#StrongerIn #VoteRemain #Yes2EU #Brexit  https://t.co/NfcsbSDHFQ","['strongerin', 'euref', 'yes2eu', 'brexit', 'voteremain']"
+100,100,100,375624,712356363712765952,3248881547,neutral,other,2016-03-22T19:12:46.000Z,What would an #EU #Brexit mean for UK #tech? (Wired UK) https://t.co/g2WwwdoKMq #UKtoStay #Yes2EU #EUref,"['tech?', 'eu', 'yes2eu', 'uktostay', 'euref', 'brexit']"
+101,101,101,252381,705278072577269760,501139438,neutral,other,2016-03-03T06:26:10.000Z,"@bbclaurak says: ""Move along! Nothing to see!""  #ToryCivilWar #Brexit #StrongerIn #Yes2EU #UKinEU https://t.co/mZxzOBIenF","['torycivilwar', 'ukineu', 'strongerin', 'yes2eu', 'brexit']"
+102,102,102,1463639,745650907967258624,3248881547,negative,remain,2016-06-22T16:13:24.000Z,#NATO chief says #UK staying in the #EU is key to fighting terrorism: https://t.co/LDIY1XU4gZ #UKtoStay #EUref #Brexit #StrongerIN #Yes2EU,"['uk', 'eu', 'yes2eu', 'uktostay', 'strongerin', 'euref', 'brexit', 'nato']"
+103,103,103,284549,706824477733220352,501139438,neutral,other,2016-03-07T12:51:02.000Z,#Brexit-facts: #UK exports more to Holland than to the entirety of the Commonwealth. #StrongerIn #Yes2EU #EURef https://t.co/MN2eKsaCsi,"['uk', 'strongerin', 'euref', 'yes2eu', 'brexit-facts']"
+104,104,104,452430,718458397620744192,161243998,negative,other,2016-04-08T15:20:04.000Z,"#Brexit may be bigger risk for #Eurozone than UK | @Simon_Nixon (£) #EUref #UKinEU #StrongerIn #VoteRemain #Yes2EU
+https://t.co/n6pbKM8vKz","['ukineu', 'strongerin', 'eurozone', 'yes2eu', 'euref', 'brexit', 'voteremain']"
+105,105,105,452761,718483664275841024,161243998,neutral,remain,2016-04-08T17:00:29.000Z,"#Brexit: How accurate are the polls? | Matthew Goodwin (£) @GoodwinMJ #EUref #UKinEU #StrongerIn #VoteRemain #Yes2EU
+https://t.co/BaAHD9BIYF","['ukineu', 'strongerin', 'yes2eu', 'brexit', 'euref', 'voteremain']"
+106,106,106,300495,707555264803774464,501139438,negative,other,2016-03-09T13:14:55.000Z,"#Brexit Nerves Cost This London Tech Startup $142,000 Already. #StrongerIn #Yes2EU #EUref #UKinEU 
+ https://t.co/qj5dSo8AAg","['ukineu', 'strongerin', 'yes2eu', 'euref', 'brexit']"
+107,107,107,452299,718448360697364480,161243998,negative,remain,2016-04-08T14:40:11.000Z,"#Brexit would damage the value of the London office market, S&amp;P warns #EUref #UKinEU #StrongerIn #VoteRemain #Yes2EU
+https://t.co/BQJl9QtZ5Y","['ukineu', 'strongerin', 'yes2eu', 'euref', 'brexit', 'voteremain']"
+108,108,108,2375270,746637903242141696,246844437,positive,other,2016-06-25T09:35:22.000Z,"I honestly hope so. I'm voting tomorrow for #UnidosPodemos 
+No to #Brexit.
+Yes to a socialist Europe. 
+#Yes2EU https://t.co/je9vDctWiR","['unidospodemos', 'yes2eu', 'brexit']"
+109,109,109,1122196,742862076557819904,1264743732,negative,remain,2016-06-14T23:31:35.000Z,"Commercial Suicide - Riches to Ragtime 
 https://t.co/KsZTPnPq4T
-#brexit #GFC  #no2eu #yes2eu #yestoeu #betteroffin #votein #ukineu","['gfc', 'betteroffin', 'ukineu', 'yestoeu', 'brexit', 'votein', 'yes2eu', 'no2eu']"
-87,87,87,87,87,87,87,87,909027,739479878467211264,2830600891,neutral,remain,2016-06-05T15:31:56.000Z,"Brexit?U sure?I'm #IN #Yes2EU
-Boris Johnson:A pound spent in London is of more value than a pound spe.. https://t.co/vX35zUeQCF via @YouTube","['in', 'yes2eu']"
-88,88,88,88,88,88,88,88,754577,734686675348168704,31092209,negative,remain,2016-05-23T10:05:27.000Z,"Covert racism is sprinkled throughout the EU Leave campaign. https://t.co/4AOXHS2fko #labourinforbritain, #yes2eu, #brexit","['labourinforbritain', 'yes2eu', 'brexit']"
-89,89,89,89,89,89,89,89,1226817,743806662788648960,731465935308128128,negative,other,2016-06-17T14:05:02.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #LeaveEU #VoteRemain #Yes2EU #EURef,"['leaveeu', 'euref', 'yes2eu', 'voteremain']"
-90,90,90,90,90,90,90,90,1088472,742621630132854784,2830600891,positive,other,2016-06-14T07:36:08.000Z,Trust this shower&amp;let them rule after Brexit?No way #Torylies #medialies #Torycharade #ImIn #YES2EU #remain #reform https://t.co/lArh47bd1b,"['medialies', 'yes2eu', 'reform', 'torylies', 'imin', 'torycharade', 'remain']"
-91,91,91,91,91,91,91,91,991849,741043226585485312,2830600891,negative,remain,2016-06-09T23:04:07.000Z,"Do you really believe the lies will stop after a Brexit? They won't, they will get worse. #remain #reform #Yes2EU https://t.co/Wqmy8LF6Rh","['reform', 'yes2eu', 'remain']"
-92,92,92,92,92,92,92,92,1137932,743042182261661696,2830600891,negative,remain,2016-06-15T11:27:15.000Z,"Have the Brexit bunch got a Plan B? No, they don't even have a plan A! #Remain #reform #Yes2eu","['reform', 'yes2eu', 'remain']"
-93,93,93,93,93,93,93,93,573351,725309566674685952,2915195838,positive,other,2016-04-27T13:04:10.000Z,"Thought I'd share this site, please RT if you agree :)
+#brexit #GFC  #no2eu #yes2eu #yestoeu #betteroffin #votein #ukineu","['votein', 'gfc', 'yestoeu', 'betteroffin', 'ukineu', 'brexit', 'no2eu', 'yes2eu']"
+110,110,110,1022028,741535571441557504,312285999,neutral,other,2016-06-11T07:40:31.000Z,Ran #Twitter poll last week. Have opinions changed? #yes2eu or #no2eu 😯 #Brexit or #Bremain 😕 #votein or #voteout 😣,"['votein', 'twitter', 'voteout', 'no2eu', 'bremain', 'brexit', 'yes2eu']"
+111,111,111,612128,728585157058301952,141141836,neutral,remain,2016-05-06T14:00:12.000Z,"So the #Trump #Drumpf clown advocates #Brexit ?
+Evidence, if you needed it, that you should vote #Remain !
+#EU #VoteIn #UKinEU #yes2eu","['votein', 'ukineu', 'trump', 'drumpf', 'eu', 'remain', 'brexit', 'yes2eu']"
+112,112,112,233710,704311566301323264,181245414,positive,other,2016-02-29T14:25:37.000Z,"You didn't think Dave would help you, did you? Partly Patel escalates row over treatment of Brexit ministers https://t.co/zHOW0OPlMT #yes2EU",['yes2eu']
+113,113,113,196335,702775052622819328,181245414,negative,other,2016-02-25T08:40:04.000Z,"Idiot Duncan Smith: Dave's EU deal will do nothing to reduce migration. Don't need to Brexit to sort, dolt! #yes2eu https://t.co/4hBBy3G0Vu",['yes2eu']
+114,114,114,5599,685095537301962752,501139438,negative,remain,2016-01-07T13:47:59.000Z,Biggest threat to the economy in #2016? #Brexit #StrongerIn #Yes2EU https://t.co/AcPPZxYAd4,"['yes2eu', '2016?', 'brexit', 'strongerin']"
+115,115,115,157087,701760973401624576,1053383863,neutral,remain,2016-02-22T13:30:28.000Z,Pound heading for biggest one day fall in 7 years on #Brexit fears.... #StrongerIn #Yes2EU #betteroffin,"['yes2eu', 'betteroffin', 'strongerin', 'brexit']"
+116,116,116,1586244,746105243566505984,255810761,neutral,other,2016-06-23T22:18:46.000Z,Even political rightwingers in the UK take pages and plays out of the Trump playbook. #Boris_Johnson #Brexit #yes2eu https://t.co/d8VGRnWCnO,"['yes2eu', 'boris_johnson', 'brexit']"
+117,117,117,1358218,745122856707620864,2435053308,negative,other,2016-06-21T05:15:07.000Z,@welshlabour Cameron deal: The UK is not committed to further political integration #Brexit #Yes2EU https://t.co/0efuCMASpH,"['yes2eu', 'brexit']"
+118,118,118,545084,723761396840828928,3589072335,positive,other,2016-04-23T06:32:18.000Z,Pdt Obama's speech made great #brexit TV but he was really only stating the bleeding obvious... #Yes2EU,"['yes2eu', 'brexit']"
+119,119,119,1163063,743178937564561408,2435053308,negative,remain,2016-06-15T20:30:40.000Z,There is ZERO international argument for going it alone #Brexit #Yes2EU,"['yes2eu', 'brexit']"
+120,120,120,545083,723761393514778624,525595152,positive,other,2016-04-23T06:32:17.000Z,Pdt Obama's speech made great #brexit TV but he was really only stating the bleeding obvious... #Yes2EU,"['yes2eu', 'brexit']"
+121,121,121,61605,696719442823221248,525595152,negative,other,2016-02-08T15:37:14.000Z,There appear to be 2 types of EUphobe in my world: White Bread Pub Racist and Viva Empire! Nostalgia Junky. #brexit #Yes2EU,"['yes2eu', 'brexit']"
+122,122,122,1203461,743516121849004032,2435053308,negative,remain,2016-06-16T18:50:31.000Z,@IvanaBartoletti There is ZERO international argument for going it alone #Brexit #Yes2EU,"['yes2eu', 'brexit']"
+123,123,123,1482681,745726856503107584,2435053308,positive,leave,2016-06-22T21:15:12.000Z,"You won WW1 &amp; WW2 while the west won the Cold War, pls now let us be a winner in this peace #Brexit #Yes2EU","['yes2eu', 'brexit']"
+124,124,124,872853,738437697421910016,525595152,negative,other,2016-06-02T18:30:41.000Z,There is growing resentment in UK young towards selfish Baby Boomers who want to wreck our European aspirations... #brexit #Yes2EU,"['yes2eu', 'brexit']"
+125,125,125,1250200,744117476456284160,2435053308,positive,leave,2016-06-18T10:40:06.000Z,@NirjDeva The future is power blocks and we're better off in one #Brexit #Yes2EU,"['yes2eu', 'brexit']"
+126,126,126,2971,684357928447569920,3114270604,negative,remain,2016-01-05T12:56:59.000Z,"The only leader who would stand to gain from a British withdrawal from the EU is Vladimir Putin! #Brexit #Yes2EU
+https://t.co/0maS23YgsU","['yes2eu', 'brexit']"
+127,127,127,16499,688900131886878720,51287942,negative,other,2016-01-18T01:46:05.000Z,EU referendum voteREMAINplus The missing option.  https://t.co/dMEORzujBI #Brexit #Yes2EU https://t.co/26hYsFl9tl,"['yes2eu', 'brexit']"
+128,128,128,857876,738066335301828608,3248881547,positive,remain,2016-06-01T17:55:01.000Z,".@KirstyT71 really? Faster growth than USA, second-largest GDP in world, biggest market in the world. Seems okay! #Yes2EU #UKtoStay #Brexit","['yes2eu', 'brexit', 'uktostay']"
+129,129,129,271817,706053010322022400,246844437,neutral,leave,2016-03-05T09:45:30.000Z,"Be glad there's something called the EUROPEAN ARREST WARRANT.
 
- https://t.co/ZdMoSPHJfe #Brexit #No2EU #Yes2EU #StopTheEU #EUref","['stoptheeu', 'no2eu', 'euref', 'yes2eu', 'brexit']"
-94,94,94,94,94,94,94,94,3634,684473728072298496,110652735,positive,other,2016-01-05T20:37:08.000Z,"Thought I'd share this site, please RT if you agree :)
-
- https://t.co/8aTLnqKAUe #Brexit #No2EU #Yes2EU #StopTheEU #EUref","['stoptheeu', 'no2eu', 'euref', 'yes2eu', 'brexit']"
-95,95,95,95,95,95,95,95,123935,701047576179642368,895881930,neutral,leave,2016-02-20T14:15:41.000Z,"Check out how much the EU is costing us!
-
- https://t.co/AhYgbcJAIH #Brexit #No2EU #Yes2EU #StopTheEU #Grexit #EUref","['stoptheeu', 'no2eu', 'grexit', 'euref', 'yes2eu', 'brexit']"
-96,96,96,96,96,96,96,96,882678,738685486944899072,3248881547,positive,other,2016-06-03T10:55:18.000Z,Please RT this important video from @Env4Eur: https://t.co/7KEEKiAqlD #UKtoStay #StrongerIN #Brexit #Yes2EU #EUref #environment,"['strongerin', 'environment', 'uktostay', 'euref', 'yes2eu', 'brexit']"
-97,97,97,97,97,97,97,97,300495,707555264803774464,501139438,negative,other,2016-03-09T13:14:55.000Z,"#Brexit Nerves Cost This London Tech Startup $142,000 Already. #StrongerIn #Yes2EU #EUref #UKinEU 
- https://t.co/qj5dSo8AAg","['strongerin', 'ukineu', 'euref', 'yes2eu', 'brexit']"
-98,98,98,98,98,98,98,98,452761,718483664275841024,161243998,neutral,remain,2016-04-08T17:00:29.000Z,"#Brexit: How accurate are the polls? | Matthew Goodwin (£) @GoodwinMJ #EUref #UKinEU #StrongerIn #VoteRemain #Yes2EU
-https://t.co/BaAHD9BIYF","['strongerin', 'ukineu', 'euref', 'yes2eu', 'voteremain', 'brexit']"
-99,99,99,99,99,99,99,99,452299,718448360697364480,161243998,negative,remain,2016-04-08T14:40:11.000Z,"#Brexit would damage the value of the London office market, S&amp;P warns #EUref #UKinEU #StrongerIn #VoteRemain #Yes2EU
-https://t.co/BQJl9QtZ5Y","['strongerin', 'ukineu', 'euref', 'yes2eu', 'voteremain', 'brexit']"
-100,100,100,100,100,100,100,100,252381,705278072577269760,501139438,neutral,other,2016-03-03T06:26:10.000Z,"@bbclaurak says: ""Move along! Nothing to see!""  #ToryCivilWar #Brexit #StrongerIn #Yes2EU #UKinEU https://t.co/mZxzOBIenF","['strongerin', 'ukineu', 'yes2eu', 'torycivilwar', 'brexit']"
-101,101,101,101,101,101,101,101,1553173,746001334424444928,3248881547,neutral,leave,2016-06-23T15:25:52.000Z,#BrexitorNot? The G20 wants the #UKtoStay in the EU - #EUref #iVoted #referendum #Yes2EU #Brexit #StrongerIN https://t.co/wyQhPHqxh9,"['strongerin', 'uktostay', 'brexit', 'ivoted', 'brexitornot?', 'euref', 'yes2eu', 'referendum']"
-102,102,102,102,102,102,102,102,924482,739790015664902144,3248881547,neutral,leave,2016-06-06T12:04:19.000Z,Here's how democracy works in the #EU: https://t.co/zWRvF8Q79K #UKtoStay #StrongerIN #EUref #Brexit #Yes2EU https://t.co/JfpCsH0j1T,"['strongerin', 'uktostay', 'eu', 'euref', 'yes2eu', 'brexit']"
-103,103,103,103,103,103,103,103,882534,738713801550356480,3248881547,neutral,remain,2016-06-03T12:47:49.000Z,UK expats could lose their rights if we vote for #Brexit: https://t.co/yOyhvrqteA #UKtoStay #StrongerIN #EUref #Yes2EU,"['strongerin', 'uktostay', 'euref', 'yes2eu', 'brexit']"
-104,104,104,104,104,104,104,104,929635,739864124394483712,3248881547,neutral,other,2016-06-06T16:58:47.000Z,Here's how democracy works in the #EU: https://t.co/zWRvF8Q79K #UKtoStay #StrongerIN #EUref #Brexit #Yes2EU https://t.co/JfpCsH0j1T #facts,"['strongerin', 'uktostay', 'facts', 'eu', 'euref', 'yes2eu', 'brexit']"
-105,105,105,105,105,105,105,105,14362,688072997794656256,501139438,neutral,other,2016-01-15T18:59:21.000Z,"""#Brexit uncertainty drags pound down and holds back rate rise"". #StrongerIn #Yes2EU  https://t.co/BK4Ism8K8R","['strongerin', 'yes2eu']"
-106,106,106,106,106,106,106,106,14364,688073402922438656,3406603487,neutral,other,2016-01-15T19:00:57.000Z,"RT https://t.co/NUZoKU56C2 ""#Brexit uncertainty drags pound down and holds back rate rise"". #StrongerIn #Yes2EU  https://t.co/42oMui0kOr","['strongerin', 'yes2eu']"
-107,107,107,107,107,107,107,107,1154000,743110030451441664,3248881547,negative,remain,2016-06-15T15:56:52.000Z,The leave campaign doesn’t want to talk about the #environment. Here’s why: https://t.co/bvRnem1p69 #Brexit #EUref #yes2EU #StrongerIN,"['strongerin', 'yes2eu', 'environment', 'euref', 'brexit']"
-108,108,108,108,108,108,108,108,995919,741158361635377152,180327352,neutral,remain,2016-06-10T06:41:38.000Z,How Do Europeans Feel About The EU And A Potential Brexit? https://t.co/r1ICBDjDNz #ukedchat #No2EU #Yes2EU https://t.co/jEplz9nnk4,"['ukedchat', 'no2eu', 'yes2eu']"
-109,109,109,109,109,109,109,109,1569607,746057536525209600,3248881547,neutral,leave,2016-06-23T19:09:12.000Z,#Australia wants #UKtoStay in the #EU! #EUref #votedremain #Brexit #yes2EU https://t.co/dyzKsFy0uc #ivotedin https://t.co/GPfeJJzhL7,"['uktostay', 'yes2eu', 'eu', 'euref', 'votedremain', 'ivotedin', 'brexit', 'australia']"
-110,110,110,110,110,110,110,110,1120322,742828217199960064,731465935308128128,neutral,remain,2016-06-14T21:17:02.000Z,The facts on the Leave.EU website are not all facts. #Brexit #VoteIn #Yes2EU #EUReferendum,"['votein', 'brexit', 'eureferendum', 'yes2eu']"
-111,111,111,111,111,111,111,111,862171,738271189819351040,731465935308128128,neutral,other,2016-06-02T07:29:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #BritainOut #VoteIn #Yes2EU #EUReferendum","['votein', 'eureferendum', 'yes2eu', 'britainout']"
-112,112,112,112,112,112,112,112,3576,684456874817798144,3135565264,neutral,leave,2016-01-05T19:30:10.000Z,"Reasons to #LeaveEU
+#Yes2EU #WomenIN
+NO #Brexit
+ https://t.co/M1NddwoWYL","['yes2eu', 'brexit', 'womenin']"
+130,130,130,1154000,743110030451441664,3248881547,negative,remain,2016-06-15T15:56:52.000Z,The leave campaign doesn’t want to talk about the #environment. Here’s why: https://t.co/bvRnem1p69 #Brexit #EUref #yes2EU #StrongerIN,"['yes2eu', 'environment', 'euref', 'brexit', 'strongerin']"
+131,131,131,811074,736512602298306560,731465935308128128,neutral,other,2016-05-28T11:01:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #BetterOffOut #BRemain #Yes2EU #EUReferendum","['yes2eu', 'eureferendum', 'bremain', 'betteroffout']"
+132,132,132,1016125,741378663560687616,731465935308128128,neutral,remain,2016-06-10T21:17:02.000Z,43% of all work-related EU immigrants arrived in the UK without a definite job. #Brexit #BRemain #Yes2EU #EUReferendum,"['yes2eu', 'eureferendum', 'bremain', 'brexit']"
+133,133,133,836880,737593723459010560,731465935308128128,neutral,other,2016-05-31T10:37:02.000Z,The UK doesn't have to be in the European Single Market to trade with European countries. #Brexit #BRemain #Yes2EU #EUReferendum,"['yes2eu', 'eureferendum', 'bremain', 'brexit']"
+134,134,134,742032,734278379059482624,731465935308128128,positive,remain,2016-05-22T07:03:02.000Z,The UK has to pay family benefits to EU workers even if their children live outside the UK. #Brexit #BRemain #Yes2EU #EUReferendum,"['yes2eu', 'eureferendum', 'bremain', 'brexit']"
+135,135,135,808391,736297180110172160,731465935308128128,negative,other,2016-05-27T20:45:02.000Z,"IMF chief and pro-Europhile Christine Lagarde pays no income tax on her $550,000 salary. #Brexit #StrongerIn #Yes2EU #EUReferendum","['yes2eu', 'eureferendum', 'strongerin', 'brexit']"
+136,136,136,839788,737654123873570816,731465935308128128,neutral,leave,2016-05-31T14:37:02.000Z,EU Officials have drawn up plans for a minimum corporation tax levy across all 28 EU member nations. #Brexit #UKInEU #Yes2EU #EUReferendum,"['yes2eu', 'eureferendum', 'ukineu', 'brexit']"
+137,137,137,1099240,742662119246663680,731465935308128128,neutral,leave,2016-06-14T10:17:01.000Z,"3 to 4 Million jobs depend on trading with EU countries, they do not depend on EU membership. #Brexit #UKInEU #Yes2EU #EUReferendum","['yes2eu', 'eureferendum', 'ukineu', 'brexit']"
+138,138,138,24904,691060142171897856,501139438,neutral,other,2016-01-24T00:49:11.000Z,"#Brexit fears are fuelling market turmoil, says #IMF chief. #StrongerIn #Yes2EU https://t.co/hHqzIDFqPq","['yes2eu', 'imf', 'strongerin', 'brexit']"
+139,139,139,857933,738067399950356480,16134483,negative,leave,2016-06-01T17:59:15.000Z,'Mussolini of mediocrity' Don't believe #VoteLeave desperate deceit #Brexit #Remain #yes2eu https://t.co/aAkTH0qYzZ,"['yes2eu', 'remain', 'brexit', 'voteleave']"
+140,140,140,14362,688072997794656256,501139438,neutral,other,2016-01-15T18:59:21.000Z,"""#Brexit uncertainty drags pound down and holds back rate rise"". #StrongerIn #Yes2EU  https://t.co/BK4Ism8K8R","['yes2eu', 'strongerin']"
+141,141,141,14364,688073402922438656,3406603487,neutral,other,2016-01-15T19:00:57.000Z,"RT https://t.co/NUZoKU56C2 ""#Brexit uncertainty drags pound down and holds back rate rise"". #StrongerIn #Yes2EU  https://t.co/42oMui0kOr","['yes2eu', 'strongerin']"
+142,142,142,61282,696693340578906112,501139438,negative,other,2016-02-08T13:53:30.000Z,"Thousands of refugees could cross Channel if UK left EU, No 10 says. #Brexit #StrongerIn #Yes2EU https://t.co/b2NNn1OJgM","['yes2eu', 'strongerin', 'brexit']"
+143,143,143,15008,688456947742437376,501139438,negative,remain,2016-01-16T20:25:01.000Z,"NEW: EU referendum: #Brexit would make the UK less safe, warns former DPP, Keir Starmer. #StrongerIn #Yes2EU https://t.co/XFlDvrCQnp","['yes2eu', 'strongerin', 'brexit']"
+144,144,144,5160,685019795591421952,501139438,negative,remain,2016-01-07T08:47:00.000Z,Backers of British EU exit accused of chasing an 'impossible fantasy'. #StrongerIn #Brexit #Yes2EU  https://t.co/RtDN6QaKoe,"['yes2eu', 'strongerin', 'brexit']"
+145,145,145,3576,684456874817798144,3135565264,neutral,leave,2016-01-05T19:30:10.000Z,"Reasons to #LeaveEU
 
 #VoteLeave #EURef #No2EU #StrongerIn #Brexit 
-#VoteStay #StayinEU #yes2EU #remaininEU  https://t.co/3bBu7GcMBc","['voteleave', 'euref', 'no2eu', 'remainineu', 'strongerin', 'stayineu', 'yes2eu', 'votestay', 'leaveeu', 'brexit']"
-113,113,113,113,113,113,113,113,15525,688664650708291584,3114270604,neutral,other,2016-01-17T10:10:22.000Z,"In complex systems, cause &amp; effect may not seem obvious to everyone!
-#Brexit #VoteLeave #LeaveEU #StrongerIn #Yes2EU https://t.co/0gbfSVrZz9","['voteleave', 'strongerin', 'yes2eu', 'leaveeu', 'brexit']"
-114,114,114,114,114,114,114,114,6152,685247151207780352,3135565264,negative,leave,2016-01-07T23:50:26.000Z,"Time to leave the sinking ship time to #LeaveEU
+#VoteStay #StayinEU #yes2EU #remaininEU  https://t.co/3bBu7GcMBc","['yes2eu', 'strongerin', 'brexit', 'no2eu', 'euref', 'stayineu', 'votestay', 'remainineu', 'leaveeu', 'voteleave']"
+146,146,146,14342,688067152193150976,501139438,neutral,other,2016-01-15T18:36:07.000Z,The voice of #Brexit speaks and the pro-EU camp cracks open the  champagne. #StrongerIn #youknowitmakessense #Yes2EU https://t.co/vTCwDf0eWq,"['yes2eu', 'strongerin', 'brexit', 'youknowitmakessense']"
+147,147,147,812016,736545821412446208,731465935308128128,negative,other,2016-05-28T13:13:02.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #EuReform #StrongerIn #Yes2EU #EURef,"['yes2eu', 'strongerin', 'eureform', 'euref']"
+148,148,148,995919,741158361635377152,180327352,neutral,remain,2016-06-10T06:41:38.000Z,How Do Europeans Feel About The EU And A Potential Brexit? https://t.co/r1ICBDjDNz #ukedchat #No2EU #Yes2EU https://t.co/jEplz9nnk4,"['yes2eu', 'ukedchat', 'no2eu']"
+149,149,149,252282,705275271902003200,501139438,negative,remain,2016-03-03T06:15:02.000Z,"BlackRock, world’s largest asset manager says #Brexit would  damage UK economy. #StrongerIn #yes2EU #Bremain #UKinEU https://t.co/A8gruJSEpB","['yes2eu', 'ukineu', 'strongerin', 'bremain', 'brexit']"
+150,150,150,882534,738713801550356480,3248881547,neutral,remain,2016-06-03T12:47:49.000Z,UK expats could lose their rights if we vote for #Brexit: https://t.co/yOyhvrqteA #UKtoStay #StrongerIN #EUref #Yes2EU,"['yes2eu', 'uktostay', 'brexit', 'euref', 'strongerin']"
+151,151,151,924482,739790015664902144,3248881547,neutral,leave,2016-06-06T12:04:19.000Z,Here's how democracy works in the #EU: https://t.co/zWRvF8Q79K #UKtoStay #StrongerIN #EUref #Brexit #Yes2EU https://t.co/JfpCsH0j1T,"['yes2eu', 'uktostay', 'eu', 'euref', 'brexit', 'strongerin']"
+152,152,152,76304,699024168076103680,501139438,negative,other,2016-02-15T00:15:23.000Z,Poll finds one in three firms would leave UK after #Brexit. #StrongerIn #Yes2Europe #Yes2EU https://t.co/27FZZL34V0,"['yes2eu', 'yes2europe', 'strongerin', 'brexit']"
+153,153,153,131543,747043876586786816,122671055,negative,remain,2016-06-26T12:28:34.000Z,"The fallout from Brexit continues, what next? Check out my guesses on  https://t.co/uMw1bjq3mS not pretty #brexit #Bregret #Yes2EU","['bregret', 'brexit', 'yes2eu']"
+154,154,154,1814953,758508480827387904,756513906357575680,positive,other,2016-07-28T03:44:48.000Z,"Why is the smart money opening subsidiaries in Germany, post-Brexit?   Here's why &gt; https://t.co/gPf8aVFeEJ #Brexit #BrexitBritain #yes2eu","['brexitbritain', 'brexit', 'yes2eu']"
+155,155,155,995822,749297160802426880,3313059731,negative,other,2016-07-02T17:42:19.000Z,"Look!!! This is Britains Future if they keep #Brexit!!! Very bad!!!! :( #MarchForEurope #Yes2EU #No2Brexit #FCKUKIP 
+https://t.co/9YS6VLnZeV","['marchforeurope', 'fckukip', 'yes2eu', 'brexit', 'no2brexit']"
+156,156,156,1718948,756559957491904512,2799994077,negative,other,2016-07-22T18:42:04.000Z,#EU Funded #Brexit Goon @Nigel_Farage Blames Stateswoman #Merkel For #UK Self-Abuse. #Priceless #yes2eu @Brexpats https://t.co/1TpeUw2ux8,"['priceless', 'merkel', 'uk', 'eu', 'brexit', 'yes2eu']"
+157,157,157,2420515,778187108469047296,2715611875,negative,leave,2016-09-20T11:00:39.000Z,@BerthanPete Brexit is incapable of 'working.' This is why Scotland must stay in the EU with Independence. #Indyref2 #YES #Yes2eu #Yes2,"['yes2', 'yes', 'indyref2', 'yes2eu']"
+158,158,158,1853258,759642793702780928,3072775744,negative,remain,2016-07-31T06:52:10.000Z,Brexit’s damage to startups has already begun https://t.co/cQUBLW9Jeu via @VentureBeat #stopBrexit #yes2EU,"['yes2eu', 'stopbrexit']"
+159,159,159,1306797,810222847582994432,536924792,negative,other,2016-12-17T20:39:14.000Z,@RobBurl Exactly...the year of #Brexit and the @LibDems are the most 'remain' party and we're not on. Shocking! #Yes2EU #Marr #BBCOne,"['bbcone', 'yes2eu', 'brexit', 'marr']"
+160,160,160,664781,795248336873910272,199452338,negative,remain,2016-11-06T12:55:53.000Z,"When #NigelFarage admits #Brexit is not binding, just advisory.
+#BetterTogether #Yes2EU #UKinEU #Bremain #StrongerIn #LeadNotLeave https://t.co/sS2qe94KKs","['bettertogether', 'ukineu', 'leadnotleave', 'strongerin', 'nigelfarage', 'yes2eu', 'bremain', 'brexit']"
+161,161,161,998136,801020411836297216,1512644065,neutral,other,2016-11-22T11:12:03.000Z,"@patrickwintour @CBItweets 
 
-#EUreferendum #VoteLeave  #Brexit #StrongerIn #VoteREMAIN #yes2EU https://t.co/xxlFCdb9l6","['voteleave', 'strongerin', 'yes2eu', 'leaveeu', 'brexit', 'voteremain', 'eureferendum']"
-115,115,115,115,115,115,115,115,47999,694917973136531456,2996263767,negative,other,2016-02-03T16:18:50.000Z,When people don't understand #history - #UK will become a nasty place out of #EU. #Brexit #UKinEU #EUreform #yes2eu #StrongerIn #voteremain,"['voteremain', 'history', 'uk', 'strongerin', 'ukineu', 'eu', 'eureform', 'brexit', 'yes2eu']"
-116,116,116,116,116,116,116,116,1118465,742843417189855232,2830600891,neutral,remain,2016-06-14T22:17:26.000Z,The truth! Not the lies being spread by the Brexit bunch! #ImIn #voteremain #reform #Yes2EU &amp; stuff the #Torycharade https://t.co/sFR8vBVuo3,"['voteremain', 'reform', 'imin', 'torycharade', 'yes2eu']"
-117,117,117,117,117,117,117,117,1118999,742847459030933504,2830600891,negative,other,2016-06-14T22:33:30.000Z,Trust the Brexit bunch at your own peril ! #Torycharade #Torylies #Torydeceit #ImIn #voteremain #reform #yes2eu https://t.co/yHlBhPtMiy,"['voteremain', 'torydeceit', 'reform', 'torylies', 'imin', 'torycharade', 'yes2eu']"
-118,118,118,118,118,118,118,118,779513,735403659723452416,720884762,neutral,remain,2016-05-25T09:34:30.000Z,"#Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
+I expect Theresa May's approach to take us over the cliff edge to ""Trainwreck Brexit""
 
-https://t.co/Q6jGOdDQPT - Thoughts?","['voteremain', 'ukineu', 'betteroffin', 'votein', 'strongerin', 'yestoeu', 'leadnotleave', 'bremain', 'brexit', 'yes2eu']"
-119,119,119,119,119,119,119,119,864257,738280364494442496,720884762,neutral,remain,2016-06-02T08:05:30.000Z,"My view on #Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
+#yes2eu",['yes2eu']
+162,162,162,996190,800991443045126144,1512644065,negative,leave,2016-11-22T09:16:56.000Z,"@MichelBarnier 
 
-https://t.co/cMT5l82x0a","['voteremain', 'ukineu', 'betteroffin', 'votein', 'strongerin', 'yestoeu', 'leadnotleave', 'bremain', 'brexit', 'yes2eu']"
-120,120,120,120,120,120,120,120,1425173,745537272833933312,2223037063,positive,remain,2016-06-22T08:41:51.000Z,RT HLeichsenring: British friends: Don’t risk jobs – Stay in Europe! #remain #brexit #yes2eu #voteremain,"['voteremain', 'yes2eu', 'remain', 'brexit']"
-121,121,121,121,121,121,121,121,1428328,745521465953386496,109815397,positive,remain,2016-06-22T07:39:03.000Z,British friends: Don’t risk jobs – Stay in Europe! #remain #brexit #yes2eu #voteremain,"['voteremain', 'yes2eu', 'remain', 'brexit']"
-122,122,122,122,122,122,122,122,912107,739557656004861952,2830600891,negative,remain,2016-06-05T20:41:00.000Z,#Torylies #Panamapapers #Toryelectionfraud #Evel #corruption #vowbroken &amp; u want SCO 2 Brexit? #remain #Yes2EU https://t.co/R4vEHKSumn,"['vowbroken', 'corruption', 'toryelectionfraud', 'evel', 'torylies', 'yes2eu', 'remain', 'panamapapers']"
-123,123,123,123,123,123,123,123,233710,704311566301323264,181245414,positive,other,2016-02-29T14:25:37.000Z,"You didn't think Dave would help you, did you? Partly Patel escalates row over treatment of Brexit ministers https://t.co/zHOW0OPlMT #yes2EU",['yes2eu']
-124,124,124,124,124,124,124,124,196335,702775052622819328,181245414,negative,other,2016-02-25T08:40:04.000Z,"Idiot Duncan Smith: Dave's EU deal will do nothing to reduce migration. Don't need to Brexit to sort, dolt! #yes2eu https://t.co/4hBBy3G0Vu",['yes2eu']
-125,125,125,125,125,125,125,125,276711,706422918004252672,133324858,negative,other,2016-03-06T10:15:23.000Z,"Yes, leaving the EU is economic stupidity. But it's far worse than that.
+Please don't assume that the Brexit Bullies are going to win.
 
-Borders are for morons https://t.co/7P1dfhgV9t #brexit #yes2eu","['yes2eu', 'brexit']"
-126,126,126,126,126,126,126,126,150992,701705921928499200,181245414,positive,other,2016-02-22T09:51:43.000Z,"Oh joy! Gobby Galloway has found another platform to prolong his dodgy career. NOTICE ME! Nah, George, you're a spent force! #yes2EU #Brexit","['yes2eu', 'brexit']"
-127,127,127,127,127,127,127,127,545084,723761396840828928,3589072335,positive,other,2016-04-23T06:32:18.000Z,Pdt Obama's speech made great #brexit TV but he was really only stating the bleeding obvious... #Yes2EU,"['yes2eu', 'brexit']"
-128,128,128,128,128,128,128,128,545083,723761393514778624,525595152,positive,other,2016-04-23T06:32:17.000Z,Pdt Obama's speech made great #brexit TV but he was really only stating the bleeding obvious... #Yes2EU,"['yes2eu', 'brexit']"
-129,129,129,129,129,129,129,129,61605,696719442823221248,525595152,negative,other,2016-02-08T15:37:14.000Z,There appear to be 2 types of EUphobe in my world: White Bread Pub Racist and Viva Empire! Nostalgia Junky. #brexit #Yes2EU,"['yes2eu', 'brexit']"
-130,130,130,130,130,130,130,130,282977,706768884486041600,351500954,negative,other,2016-03-07T09:10:07.000Z,"Yes, leaving the EU is economic stupidity. But it's far worse than that.
+Many are fighting Theresa's ""Trainwreck Brexit""
 
-Borders are for morons https://t.co/T8SvrfrZd2 #brexit #yes2eu","['yes2eu', 'brexit']"
-131,131,131,131,131,131,131,131,385651,713040724808364032,3899833354,negative,remain,2016-03-24T16:32:11.000Z,"@MayorofLondon's Chief Economic Advisor contradicts him, asserting how #Brexit will be huge risk to economy https://t.co/Mc6rjkM4D4 #yes2EU","['yes2eu', 'brexit']"
-132,132,132,132,132,132,132,132,872853,738437697421910016,525595152,negative,other,2016-06-02T18:30:41.000Z,There is growing resentment in UK young towards selfish Baby Boomers who want to wreck our European aspirations... #brexit #Yes2EU,"['yes2eu', 'brexit']"
-133,133,133,133,133,133,133,133,754659,734687883907485696,27720426,negative,remain,2016-05-23T10:10:16.000Z,"EU Vote #brexit #yes2eu 
-no one knows what will happen,
-1 fact,
-after the vote, retailers will put up prices and blame the vote, regardless.","['yes2eu', 'brexit']"
-134,134,134,134,134,134,134,134,12564,687563402349285376,19442760,neutral,remain,2016-01-14T09:14:24.000Z,"The #yes2eu campaigners might as well relax and bugger off down the pub, now that Grayling’s joined the #brexit camp.","['yes2eu', 'brexit']"
-135,135,135,135,135,135,135,135,754222,734681798249185280,102044458,neutral,remain,2016-05-23T09:46:05.000Z,https://t.co/HJGmfReuRN The Vale of Glamorgan EU debate - Stay or Go? #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/siSu137DKE,"['yes2eu', 'brexit', 'bremain', 'eureferendum', 'no2eu']"
-136,136,136,136,136,136,136,136,854992,738003725722214400,102044458,neutral,remain,2016-06-01T13:46:14.000Z,https://t.co/2tZT1jUSYO BME voters could decide EU outcome #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/Lyi67ouyta,"['yes2eu', 'brexit', 'bremain', 'eureferendum', 'no2eu']"
-137,137,137,137,137,137,137,137,852560,737966272755994624,102044458,neutral,other,2016-06-01T11:17:24.000Z,https://t.co/F8lgC9wCwh Debate about OBV’s EU poster @saatchilondon #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/WfEYgEPuVn,"['yes2eu', 'brexit', 'bremain', 'eureferendum', 'no2eu']"
-138,138,138,138,138,138,138,138,886059,738749285538238464,102044458,neutral,other,2016-06-03T15:08:49.000Z,https://t.co/2W1kXA2ewe #EUreferendum  Debate: The implications for Black Britain #brexit #bremain #no2eu #yes2eu https://t.co/3Moc0y8y9b,"['yes2eu', 'brexit', 'bremain', 'eureferendum', 'no2eu']"
-139,139,139,139,139,139,139,139,726921,733598534264463360,102044458,neutral,remain,2016-05-20T10:01:34.000Z,https://t.co/27MHYXVBcU Register to vote before it's too late #EUreferendum #brexit #bremain #no2eu #yes2eu https://t.co/tZRN4icKPY,"['yes2eu', 'brexit', 'bremain', 'eureferendum', 'no2eu']"
-140,140,140,140,140,140,140,140,931648,739901419843653632,2830600891,negative,other,2016-06-06T19:26:59.000Z,@AiberdeinQuine I've even got my toes crossed. #Brexit is disaster for SCO and also for so called uk. #remain #reform #YES2EU,"['yes2eu', 'brexit', 'reform', 'remain']"
-141,141,141,141,141,141,141,141,1543246,745970517065203712,6270432,positive,other,2016-06-23T13:23:25.000Z,If the UK #leaveeu or #yes2eu https://t.co/lFV6OVOPFs A solid Data Governance strategy will be needed. https://t.co/gwjIB4TRWs #brexit,"['yes2eu', 'leaveeu', 'brexit']"
-142,142,142,142,142,142,142,142,1046012,741945944867000320,418093400,neutral,other,2016-06-12T10:51:12.000Z,"VIDEO: EU Referendum Special - Yorkshire #property market update for June
-#brexit  #yes2EU https://t.co/Rkbd2Jmv2m https://t.co/z9Ne1lWYzf","['yes2eu', 'property', 'brexit']"
-143,143,143,143,143,143,143,143,1023613,741585957300899840,2830600891,positive,leave,2016-06-11T11:00:44.000Z,Trust him regarding EU &amp; Brexit?I don't! #ImIN #remain #reform #YES2EU Never trust a Tory they care 0 4ordinary ppl. https://t.co/6lwOZgZ8hm,"['yes2eu', 'reform', 'imin', 'remain']"
-144,144,144,144,144,144,144,144,1087902,742616657344991232,2830600891,neutral,leave,2016-06-14T07:16:22.000Z,@Todaysopinionis @craigakconnolly @nuttystar Yeh sure and that will all change in a Brexit Tory Britain...get real! #remain #reform #YES2EU,"['yes2eu', 'reform', 'remain']"
-145,145,145,145,145,145,145,145,1047168,741992314147614720,2830600891,neutral,remain,2016-06-12T13:55:27.000Z,I can picture this sort of disgrace getting a lot better with a Brexit.NOT! #Voteremain #reform #YES2EU #Torycharade https://t.co/ckpD3kfpdl,"['yes2eu', 'reform', 'torycharade', 'voteremain']"
-146,146,146,146,146,146,146,146,1088576,742622491345047552,2830600891,negative,remain,2016-06-14T07:39:33.000Z,YepYep&amp;Yep again!Do 0 trust the Murdoch press! #Voteremain #reform #YES2EU Murdochs sort will run riot in Brexit uk. https://t.co/JQLx50ZGNL,"['yes2eu', 'reform', 'voteremain']"
-147,147,147,147,147,147,147,147,1048244,742009807847235584,2830600891,positive,remain,2016-06-12T15:04:58.000Z,&amp; ur going to trust his type with Brexit? Get wise! #voteremain #reform #YES2EU https://t.co/wTBN6IT22g,"['yes2eu', 'voteremain', 'reform']"
-148,148,148,148,148,148,148,148,1053664,742086328406380544,731465935308128128,neutral,other,2016-06-12T20:09:02.000Z,"There were 179,000 National Insurance Number registrations by Romanians in the UK last year. #Brexit #Yes2EU #YesToEU #EURef","['yestoeu', 'brexit', 'euref', 'yes2eu']"
-149,149,149,149,149,149,149,149,848449,737902762164375552,731465935308128128,negative,other,2016-06-01T07:05:02.000Z,Corrupt EU staff are immune from prosecution. #Brexit #Yes2EU #YesToEU #EUReferendum,"['yestoeu', 'brexit', 'eureferendum', 'yes2eu']"
-150,150,150,150,150,150,150,150,1227880,743787535462244352,731465935308128128,negative,leave,2016-06-17T12:49:02.000Z,49% of CBI members say that pan-EU employment rights are a negative for business (Source: CBI). #Brexit #Yes2EU #YesToEU #EUReferendum,"['yestoeu', 'brexit', 'eureferendum', 'yes2eu']"
-151,151,151,151,151,151,151,151,865373,738328569236074496,731465935308128128,negative,leave,2016-06-02T11:17:03.000Z,World Trade Organisation' rules would prohibit any trade barriers against the UK after a Brexit. #EuReform #YesToEU #Yes2EU #EURef,"['yestoeu', 'euref', 'yes2eu', 'eureform']"
-152,152,152,152,152,152,152,152,1074743,742414498632503296,731465935308128128,neutral,leave,2016-06-13T17:53:04.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #VoteLeave #YesToEU #Yes2EU #EUReferendum","['yestoeu', 'voteleave', 'eureferendum', 'yes2eu']"
-153,153,153,153,153,153,153,153,131543,747043876586786816,122671055,negative,remain,2016-06-26T12:28:34.000Z,"The fallout from Brexit continues, what next? Check out my guesses on  https://t.co/uMw1bjq3mS not pretty #brexit #Bregret #Yes2EU","['bregret', 'yes2eu', 'brexit']"
-154,154,154,154,154,154,154,154,1814953,758508480827387904,756513906357575680,positive,other,2016-07-28T03:44:48.000Z,"Why is the smart money opening subsidiaries in Germany, post-Brexit?   Here's why &gt; https://t.co/gPf8aVFeEJ #Brexit #BrexitBritain #yes2eu","['brexit', 'yes2eu', 'brexitbritain']"
-155,155,155,155,155,155,155,155,1718948,756559957491904512,2799994077,negative,other,2016-07-22T18:42:04.000Z,#EU Funded #Brexit Goon @Nigel_Farage Blames Stateswoman #Merkel For #UK Self-Abuse. #Priceless #yes2eu @Brexpats https://t.co/1TpeUw2ux8,"['eu', 'merkel', 'priceless', 'uk', 'brexit', 'yes2eu']"
-156,156,156,156,156,156,156,156,995822,749297160802426880,3313059731,negative,other,2016-07-02T17:42:19.000Z,"Look!!! This is Britains Future if they keep #Brexit!!! Very bad!!!! :( #MarchForEurope #Yes2EU #No2Brexit #FCKUKIP 
-https://t.co/9YS6VLnZeV","['fckukip', 'marchforeurope', 'no2brexit', 'yes2eu', 'brexit']"
-157,157,157,157,157,157,157,157,2420515,778187108469047296,2715611875,negative,leave,2016-09-20T11:00:39.000Z,@BerthanPete Brexit is incapable of 'working.' This is why Scotland must stay in the EU with Independence. #Indyref2 #YES #Yes2eu #Yes2,"['indyref2', 'yes', 'yes2', 'yes2eu']"
-158,158,158,158,158,158,158,158,1853258,759642793702780928,3072775744,negative,remain,2016-07-31T06:52:10.000Z,Brexit’s damage to startups has already begun https://t.co/cQUBLW9Jeu via @VentureBeat #stopBrexit #yes2EU,"['yes2eu', 'stopbrexit']"
-159,159,159,159,159,159,159,159,1306797,810222847582994432,536924792,negative,other,2016-12-17T20:39:14.000Z,@RobBurl Exactly...the year of #Brexit and the @LibDems are the most 'remain' party and we're not on. Shocking! #Yes2EU #Marr #BBCOne,"['bbcone', 'brexit', 'marr', 'yes2eu']"
-160,160,160,160,160,160,160,160,664781,795248336873910272,199452338,negative,remain,2016-11-06T12:55:53.000Z,"When #NigelFarage admits #Brexit is not binding, just advisory.
-#BetterTogether #Yes2EU #UKinEU #Bremain #StrongerIn #LeadNotLeave https://t.co/sS2qe94KKs","['bremain', 'bettertogether', 'nigelfarage', 'strongerin', 'ukineu', 'leadnotleave', 'yes2eu', 'brexit']"
-161,161,161,161,161,161,161,161,999362,801024305488400384,1512644065,negative,other,2016-11-22T11:27:31.000Z,"@samirsinh189 
+#yes2eu",['yes2eu']
+163,163,163,996501,800995995119194112,1512644065,negative,other,2016-11-22T09:35:01.000Z,"@RCorbettMEP
+May I suggest replacing the term ""Hard Brexit"" with ""Trainwreck Brexit""?
+If there is no agreement it will be a disaster
+#yes2eu",['yes2eu']
+164,164,164,1008287,801300810877534208,1512644065,positive,other,2016-11-23T05:46:15.000Z,"@daily_politics 
+
+Article 267 requires Supreme Court to refer Brexit case to Court of Justice of EU
+
+https://t.co/AniBd3Y8KK
+
+#yes2eu",['yes2eu']
+165,165,165,223368,786276560395468800,536924792,neutral,other,2016-10-12T18:45:14.000Z,Wait for it...drum roll...#IAgreeWithNick! #Yes2EU #Brexit https://t.co/OIu7M8n8OP,"['yes2eu', 'brexit']"
+166,166,166,999362,801024305488400384,1512644065,negative,other,2016-11-22T11:27:31.000Z,"@samirsinh189 
 
 Theresa May's inept handling of #Brexit has led us to #TheBrexitMadness
 
 ""Trainwreck Brexit"" anyone?
 
-#yes2eu","['brexit', 'thebrexitmadness', 'yes2eu']"
-162,162,162,162,162,162,162,162,1111527,804268364306743296,1512644065,positive,other,2016-12-01T10:18:15.000Z,"@EP_President 
+#yes2eu","['yes2eu', 'brexit', 'thebrexitmadness']"
+167,167,167,1111527,804268364306743296,1512644065,positive,other,2016-12-01T10:18:15.000Z,"@EP_President 
 
 I expect the UK Supreme Court to block #Brexit
 
 https://t.co/m8Mq6a1dpH
 
 Stop #TheBrexitMadness
-#yes2eu","['brexit', 'thebrexitmadness', 'yes2eu']"
-163,163,163,163,163,163,163,163,223368,786276560395468800,536924792,neutral,other,2016-10-12T18:45:14.000Z,Wait for it...drum roll...#IAgreeWithNick! #Yes2EU #Brexit https://t.co/OIu7M8n8OP,"['brexit', 'yes2eu']"
-164,164,164,164,164,164,164,164,1111792,804272739985092608,1512644065,neutral,other,2016-12-01T10:35:38.000Z,"@SmallwoodCorner 
+#yes2eu","['yes2eu', 'brexit', 'thebrexitmadness']"
+168,168,168,1111792,804272739985092608,1512644065,neutral,other,2016-12-01T10:35:38.000Z,"@SmallwoodCorner 
 
 Will @ZacGoldsmith weep if UK Supreme Court blocks #Brexit?
 https://t.co/m8Mq6a1dpH
 Stop #TheBrexitMadness
-#yes2eu","['brexit?', 'thebrexitmadness', 'yes2eu']"
-165,165,165,165,165,165,165,165,349824,788756000434257920,342988444,negative,remain,2016-10-19T14:57:39.000Z,#Brexiters fear sensible debate on issue.Evident in their responses to #Remain voters. #KillDemocracy Brexit #Yes2EU https://t.co/kyjoImqk70,"['brexiters', 'killdemocracy', 'yes2eu', 'remain']"
-166,166,166,166,166,166,166,166,1041787,802062390183555072,1512644065,negative,other,2016-11-25T08:12:30.000Z,"@LeaveEUOfficial
-No sensible person would ""give Brexit a chance""
-The risks of ""Trainwreck Brexit"" are 2 high
-Stop #TheBrexitMadness
-#yes2eu","['thebrexitmadness', 'yes2eu']"
-167,167,167,167,167,167,167,167,949725,799496191566315520,1512644065,positive,other,2016-11-18T06:15:20.000Z,"Maybe some Tory MPs will have the courage and integrity to vote against Theresa's ""Trainwreck Brexit""?
-
-Stop #TheBrexitMadness
-#yes2eu https://t.co/q8tdid7Rqu","['thebrexitmadness', 'yes2eu']"
-168,168,168,168,168,168,168,168,950707,799531678389698560,1512644065,negative,other,2016-11-18T08:36:21.000Z,"@Anna_Soubry @thetimes 
-
-Fight back against #TheBrexitMadness
-
-Stop Theresa May's ""Trainwreck Brexit"" ... that's where she's headed
-
-#yes2eu","['thebrexitmadness', 'yes2eu']"
-169,169,169,169,169,169,169,169,1002228,801089890121318400,1512644065,positive,other,2016-11-22T15:48:07.000Z,"Don't ignore those in the UK who are fighting back against #TheBrexitMadness
-
-Theresa May's Brexit Bullies haven't won yet
-
-#yes2eu https://t.co/DwY5jlU3CG","['thebrexitmadness', 'yes2eu']"
-170,170,170,170,170,170,170,170,996216,800991772503658496,1512644065,negative,leave,2016-11-22T09:18:14.000Z,"The BBC is fast becoming the Brexit Bollocks Corporation
-
-Some of us are fighting back against #TheBrexitMadness
-
-#yes2eu https://t.co/1oJ8wz3dNM","['thebrexitmadness', 'yes2eu']"
-171,171,171,171,171,171,171,171,974232,800331695564161024,1512644065,neutral,leave,2016-11-20T13:35:20.000Z,"Yup.
-
-Increasingly BBC means Brexit Broadcasting Corporation.
-
-Fight back against #TheBrexitMadness
-
-#yes2eu https://t.co/TixwD4jn2Y","['thebrexitmadness', 'yes2eu']"
-172,172,172,172,172,172,172,172,996464,800995230027776000,1512644065,positive,leave,2016-11-22T09:31:59.000Z,"#TheBrexitMadness goes on.
-
-""Hard Brexit"" is better called ""Trainwreck Brexit""
-
-#yes2eu https://t.co/TVDLaOvyZd","['thebrexitmadness', 'yes2eu']"
-173,173,173,173,173,173,173,173,979775,800554402889273344,1512644065,negative,other,2016-11-21T04:20:17.000Z,"The Private Eye view on ""Trainwreck Brexit""
-
-Fight back against #TheBrexitMadness
-
-#yes2eu https://t.co/tt86GiEL2i","['thebrexitmadness', 'yes2eu']"
-174,174,174,174,174,174,174,174,996603,800997742491430912,1512644065,negative,other,2016-11-22T09:41:58.000Z,"@MaraudingWinger 
+#yes2eu","['yes2eu', 'brexit?', 'thebrexitmadness']"
+169,169,169,349824,788756000434257920,342988444,negative,remain,2016-10-19T14:57:39.000Z,#Brexiters fear sensible debate on issue.Evident in their responses to #Remain voters. #KillDemocracy Brexit #Yes2EU https://t.co/kyjoImqk70,"['yes2eu', 'remain', 'brexiters', 'killdemocracy']"
+170,170,170,996603,800997742491430912,1512644065,negative,other,2016-11-22T09:41:58.000Z,"@MaraudingWinger 
 
 The Brexit Bullies are polarising the issue.
 
 It's engaging people into the fight against #TheBrexitMadness
 
-#yes2eu","['thebrexitmadness', 'yes2eu']"
-175,175,175,175,175,175,175,175,949874,799504571899019264,1512644065,negative,remain,2016-11-18T06:48:38.000Z,"@joannaccherry 
+#yes2eu","['yes2eu', 'thebrexitmadness']"
+171,171,171,996464,800995230027776000,1512644065,positive,leave,2016-11-22T09:31:59.000Z,"#TheBrexitMadness goes on.
+
+""Hard Brexit"" is better called ""Trainwreck Brexit""
+
+#yes2eu https://t.co/TVDLaOvyZd","['yes2eu', 'thebrexitmadness']"
+172,172,172,996216,800991772503658496,1512644065,negative,leave,2016-11-22T09:18:14.000Z,"The BBC is fast becoming the Brexit Bollocks Corporation
+
+Some of us are fighting back against #TheBrexitMadness
+
+#yes2eu https://t.co/1oJ8wz3dNM","['yes2eu', 'thebrexitmadness']"
+173,173,173,972256,800289672689844224,1512644065,positive,remain,2016-11-20T10:48:21.000Z,"@JPonpolitics 
+The Supreme Court has NOT made a Brexit Ruling.
+
+I think you mean High Court.
+
+Fight #TheBrexitMadness
+
+#yes2eu","['yes2eu', 'thebrexitmadness']"
+174,174,174,972750,800298269150736384,1512644065,negative,other,2016-11-20T11:22:30.000Z,"Britain needs to fight back against #TheBrexitMadness
+
+#yes2eu for me. Preferable to risk of Theresa's ""Trainwreck Brexit"". https://t.co/BP85HMQT3M","['yes2eu', 'thebrexitmadness']"
+175,175,175,1002228,801089890121318400,1512644065,positive,other,2016-11-22T15:48:07.000Z,"Don't ignore those in the UK who are fighting back against #TheBrexitMadness
+
+Theresa May's Brexit Bullies haven't won yet
+
+#yes2eu https://t.co/DwY5jlU3CG","['yes2eu', 'thebrexitmadness']"
+176,176,176,949874,799504571899019264,1512644065,negative,remain,2016-11-18T06:48:38.000Z,"@joannaccherry 
 
 It's sensible to fear Theresa's ""Trainwreck Brexit""
 
@@ -298,70 +304,76 @@ Fight back against #TheBrexitMadness
 
 #yes2eu
 
-@lisacameronmp","['thebrexitmadness', 'yes2eu']"
-176,176,176,176,176,176,176,176,972845,800299955760021504,1512644065,negative,leave,2016-11-20T11:29:12.000Z,"I prefer the term ""Trainwreck Brexit"". It's my small way of fighting back against #TheBrexitMadness
+@lisacameronmp","['yes2eu', 'thebrexitmadness']"
+177,177,177,949725,799496191566315520,1512644065,positive,other,2016-11-18T06:15:20.000Z,"Maybe some Tory MPs will have the courage and integrity to vote against Theresa's ""Trainwreck Brexit""?
 
-#yes2eu https://t.co/0X7UjFO8zX","['thebrexitmadness', 'yes2eu']"
-177,177,177,177,177,177,177,177,972750,800298269150736384,1512644065,negative,other,2016-11-20T11:22:30.000Z,"Britain needs to fight back against #TheBrexitMadness
+Stop #TheBrexitMadness
+#yes2eu https://t.co/q8tdid7Rqu","['yes2eu', 'thebrexitmadness']"
+178,178,178,974232,800331695564161024,1512644065,neutral,leave,2016-11-20T13:35:20.000Z,"Yup.
 
-#yes2eu for me. Preferable to risk of Theresa's ""Trainwreck Brexit"". https://t.co/BP85HMQT3M","['thebrexitmadness', 'yes2eu']"
-178,178,178,178,178,178,178,178,972256,800289672689844224,1512644065,positive,remain,2016-11-20T10:48:21.000Z,"@JPonpolitics 
-The Supreme Court has NOT made a Brexit Ruling.
+Increasingly BBC means Brexit Broadcasting Corporation.
 
-I think you mean High Court.
+Fight back against #TheBrexitMadness
 
-Fight #TheBrexitMadness
+#yes2eu https://t.co/TixwD4jn2Y","['yes2eu', 'thebrexitmadness']"
+179,179,179,972845,800299955760021504,1512644065,negative,leave,2016-11-20T11:29:12.000Z,"I prefer the term ""Trainwreck Brexit"". It's my small way of fighting back against #TheBrexitMadness
 
-#yes2eu","['thebrexitmadness', 'yes2eu']"
-179,179,179,179,179,179,179,179,1008287,801300810877534208,1512644065,positive,other,2016-11-23T05:46:15.000Z,"@daily_politics 
+#yes2eu https://t.co/0X7UjFO8zX","['yes2eu', 'thebrexitmadness']"
+180,180,180,979775,800554402889273344,1512644065,negative,other,2016-11-21T04:20:17.000Z,"The Private Eye view on ""Trainwreck Brexit""
 
-Article 267 requires Supreme Court to refer Brexit case to Court of Justice of EU
+Fight back against #TheBrexitMadness
 
-https://t.co/AniBd3Y8KK
+#yes2eu https://t.co/tt86GiEL2i","['yes2eu', 'thebrexitmadness']"
+181,181,181,950707,799531678389698560,1512644065,negative,other,2016-11-18T08:36:21.000Z,"@Anna_Soubry @thetimes 
 
-#yes2eu",['yes2eu']
-180,180,180,180,180,180,180,180,998136,801020411836297216,1512644065,neutral,other,2016-11-22T11:12:03.000Z,"@patrickwintour @CBItweets 
+Fight back against #TheBrexitMadness
 
-I expect Theresa May's approach to take us over the cliff edge to ""Trainwreck Brexit""
+Stop Theresa May's ""Trainwreck Brexit"" ... that's where she's headed
 
-#yes2eu",['yes2eu']
-181,181,181,181,181,181,181,181,996190,800991443045126144,1512644065,negative,leave,2016-11-22T09:16:56.000Z,"@MichelBarnier 
-
-Please don't assume that the Brexit Bullies are going to win.
-
-Many are fighting Theresa's ""Trainwreck Brexit""
-
-#yes2eu",['yes2eu']
-182,182,182,182,182,182,182,182,996501,800995995119194112,1512644065,negative,other,2016-11-22T09:35:01.000Z,"@RCorbettMEP
-May I suggest replacing the term ""Hard Brexit"" with ""Trainwreck Brexit""?
-If there is no agreement it will be a disaster
-#yes2eu",['yes2eu']
-183,183,183,183,183,183,183,183,974281,800333118074929152,1512644065,negative,remain,2016-11-20T13:40:59.000Z,"Some of us want to fight #TheBrexitMadness.
+#yes2eu","['yes2eu', 'thebrexitmadness']"
+182,182,182,974281,800333118074929152,1512644065,negative,remain,2016-11-20T13:40:59.000Z,"Some of us want to fight #TheBrexitMadness.
 
 I don't want the next generation to suffer the effects of ""Trainwreck Brexit""
 
 #yes2eu https://t.co/Pa5pSTHwy3","['yes2eu', 'thebrexitmadness']"
-184,184,184,184,184,184,184,184,301096,825644221008900096,536924792,positive,other,2017-01-29T09:58:16.000Z,@timfarron: ''The British people should decide whether to accept the deal (on Brexit.)'' #Yes2EU #LibDems #Marr #BBCOne,"['bbcone', 'libdems', 'marr', 'yes2eu']"
-185,185,185,185,185,185,185,185,1149210,850112007835725824,536924792,positive,leave,2017-04-06T22:24:31.000Z,@timfarron on #Brexit: ''You accept the result but don't give up!'' #Yes2EU #LibDems #bbcqt,"['bbcqt', 'libdems', 'brexit', 'yes2eu']"
-186,186,186,186,186,186,186,186,1628927,866595643925696512,852389079975165952,negative,other,2017-05-22T10:04:36.000Z,"@ProfMarkElliott I think there is a possibility that Theresa May will have to resign re her dishonesty about #Brexit.
-#killbrexitnow
-#yes2eu","['brexit', 'killbrexitnow', 'yes2eu']"
-187,187,187,187,187,187,187,187,756522,841354515278372864,536924792,negative,other,2017-03-13T18:25:22.000Z,"What an embarrassing, appalling shambles @UKLabour have been on #Brexit. Labour Remainers should join the @LibDems! #Yes2EU #LibDems","['brexit', 'libdems', 'yes2eu']"
-188,188,188,188,188,188,188,188,1002597,847111557561626624,1722924283,positive,remain,2017-03-29T15:41:48.000Z,Really good speeches!! 🇪🇺 #Yes2EU #Brexit https://t.co/zmiV87EYfU,"['brexit', 'yes2eu']"
-189,189,189,189,189,189,189,189,975144,847023817218314240,1425210032,negative,other,2017-03-29T09:53:09.000Z,#candles4EU No to #brexit #yes2EU for all EU citizens @lesbonner @euromove @EUinDE @eucopresident @GuyVerhofstadt https://t.co/n1liInnWLI,"['candles4eu', 'yes2eu', 'brexit']"
-190,190,190,190,190,190,190,190,1191950,852430129259270144,852389079975165952,neutral,other,2017-04-13T07:55:54.000Z,"@margarance @AngieMeader @WeAreOneEU UK Law already requires at least one Referendum on the Brexit treaty/treaties
+183,183,183,1041787,802062390183555072,1512644065,negative,other,2016-11-25T08:12:30.000Z,"@LeaveEUOfficial
+No sensible person would ""give Brexit a chance""
+The risks of ""Trainwreck Brexit"" are 2 high
+Stop #TheBrexitMadness
+#yes2eu","['yes2eu', 'thebrexitmadness']"
+184,184,184,135734,821481496330588160,536924792,negative,other,2017-01-17T22:17:05.000Z,Hard-#Brexit's the worst of all worlds. It let's down our youngest citizens most...as they'll have to live with it longest. #Yes2EU #BBCNews,"['bbcnews', 'yes2eu']"
+185,185,185,975144,847023817218314240,1425210032,negative,other,2017-03-29T09:53:09.000Z,#candles4EU No to #brexit #yes2EU for all EU citizens @lesbonner @euromove @EUinDE @eucopresident @GuyVerhofstadt https://t.co/n1liInnWLI,"['brexit', 'candles4eu', 'yes2eu']"
+186,186,186,1149210,850112007835725824,536924792,positive,leave,2017-04-06T22:24:31.000Z,@timfarron on #Brexit: ''You accept the result but don't give up!'' #Yes2EU #LibDems #bbcqt,"['brexit', 'libdems', 'yes2eu', 'bbcqt']"
+187,187,187,1617626,866191014842826752,852389079975165952,neutral,other,2017-05-21T07:16:45.000Z,"@No10Vigil 
+Spread awareness of upcoming Judicial Review re #brexit
+Email killbrexitnow@gmail.com for copy of Letter Before Action
+#yes2eu","['brexit', 'yes2eu']"
+188,188,188,1191950,852430129259270144,852389079975165952,neutral,other,2017-04-13T07:55:54.000Z,"@margarance @AngieMeader @WeAreOneEU UK Law already requires at least one Referendum on the Brexit treaty/treaties
 See s2 of the European Union Act 2011
 #killbrexitnow
 #yes2eu","['killbrexitnow', 'yes2eu']"
-191,191,191,191,191,191,191,191,337342,826728745058852864,742838949257871360,positive,other,2017-02-01T09:47:47.000Z,#Brexit #StrongerIn #yes2eu To all living in the #UK : Write your #European #national #regional #deputies ! You want #EUCitizenship ! https://t.co/kgkf0VqBvS,"['regional', 'eucitizenship', 'strongerin', 'uk', 'deputies', 'national', 'european', 'brexit', 'yes2eu']"
-192,192,192,192,192,192,192,192,770703,841579023343972352,204512914,positive,leave,2017-03-14T09:17:29.000Z,@NicolaSturgeon thank you for this lifeline to avoid the sinking brexit ship! #Yes2EU,['yes2eu']
-193,193,193,193,193,193,193,193,135734,821481496330588160,536924792,negative,other,2017-01-17T22:17:05.000Z,Hard-#Brexit's the worst of all worlds. It let's down our youngest citizens most...as they'll have to live with it longest. #Yes2EU #BBCNews,"['yes2eu', 'bbcnews']"
-194,194,194,194,194,194,194,194,1617626,866191014842826752,852389079975165952,neutral,other,2017-05-21T07:16:45.000Z,"@No10Vigil 
-Spread awareness of upcoming Judicial Review re #brexit
-Email killbrexitnow@gmail.com for copy of Letter Before Action
-#yes2eu","['yes2eu', 'brexit']"
-195,195,195,195,195,195,195,195,711675,903132238203760640,17960088,neutral,remain,2017-08-31T05:47:59.000Z,Open access to 500m customers was our #1 USP #yes2eu #yestoeu #betteroffin #ukineu #bremain #strongerin #Brexit #Brexshit #brexitshambles https://t.co/Uw8rmhRrA0,"['1', 'betteroffin', 'ukineu', 'brexshit', 'strongerin', 'yestoeu', 'bremain', 'brexit', 'yes2eu', 'brexitshambles']"
-196,196,196,196,196,196,196,196,1075318,916379006848655360,17960088,negative,other,2017-10-06T19:05:55.000Z,Deal or No Deal?  The suspense is killing me.  And my clients. https://t.co/M8985AJ33m #Brexit #yes2eu #betteroffin #brexitshambles #nodeal https://t.co/yFpxkW03nL,"['betteroffin', 'nodeal', 'brexit', 'yes2eu', 'brexitshambles']"
-197,197,197,197,197,197,197,197,993718,913153617451995136,780840449963532160,negative,other,2017-09-27T21:29:22.000Z,KinaRestall theresa_may No Deal.      #brexit #brexshit #yes2eu #yestoeu #betteroffin #ukineu #bremain… https://t.co/IFhWShq2bL,"['betteroffin', 'ukineu', 'bremain', 'yestoeu', 'brexit', 'brexshit', 'yes2eu']"
-198,198,198,198,198,198,198,198,993720,913153635193892864,780840449963532160,negative,remain,2017-09-27T21:29:26.000Z,UKIPNFKN ScotNational No Deal.      #brexit #brexshit #yes2eu #yestoeu #betteroffin #ukineu #bremain #StrongerIN… https://t.co/LgyWruKPio,"['betteroffin', 'ukineu', 'strongerin', 'yestoeu', 'brexit', 'bremain', 'brexshit', 'yes2eu']"
-199,199,199,199,199,199,199,199,1067151,916057022130294784,17960088,negative,remain,2017-10-05T21:46:28.000Z,@MichelBarnier @SwedishPM @AnnLinde The suspense is killing me.  And my clients.  #Brexit #nodeal #yes2eu #yestoeu #betteroffin #ukineu #bremain #strongerin #leadnotleave https://t.co/B0h9GTG5No,"['betteroffin', 'ukineu', 'strongerin', 'yestoeu', 'leadnotleave', 'bremain', 'nodeal', 'brexit', 'yes2eu']"
+189,189,189,1628927,866595643925696512,852389079975165952,negative,other,2017-05-22T10:04:36.000Z,"@ProfMarkElliott I think there is a possibility that Theresa May will have to resign re her dishonesty about #Brexit.
+#killbrexitnow
+#yes2eu","['killbrexitnow', 'yes2eu', 'brexit']"
+190,190,190,301096,825644221008900096,536924792,positive,other,2017-01-29T09:58:16.000Z,@timfarron: ''The British people should decide whether to accept the deal (on Brexit.)'' #Yes2EU #LibDems #Marr #BBCOne,"['libdems', 'yes2eu', 'bbcone', 'marr']"
+191,191,191,756522,841354515278372864,536924792,negative,other,2017-03-13T18:25:22.000Z,"What an embarrassing, appalling shambles @UKLabour have been on #Brexit. Labour Remainers should join the @LibDems! #Yes2EU #LibDems","['libdems', 'yes2eu', 'brexit']"
+192,192,192,337342,826728745058852864,742838949257871360,positive,other,2017-02-01T09:47:47.000Z,#Brexit #StrongerIn #yes2eu To all living in the #UK : Write your #European #national #regional #deputies ! You want #EUCitizenship ! https://t.co/kgkf0VqBvS,"['regional', 'uk', 'strongerin', 'eucitizenship', 'european', 'national', 'deputies', 'brexit', 'yes2eu']"
+193,193,193,770703,841579023343972352,204512914,positive,leave,2017-03-14T09:17:29.000Z,@NicolaSturgeon thank you for this lifeline to avoid the sinking brexit ship! #Yes2EU,['yes2eu']
+194,194,194,1002597,847111557561626624,1722924283,positive,remain,2017-03-29T15:41:48.000Z,Really good speeches!! 🇪🇺 #Yes2EU #Brexit https://t.co/zmiV87EYfU,"['yes2eu', 'brexit']"
+195,195,195,1854935,940246205770223616,536924792,positive,other,2017-12-11T15:45:39.000Z,"Mrs May's speech on the latest on #Brexit, in the Commons, is being shown live on @cnni. Viewers around the rest of the world must be utterly bemused by the national act of self-harm that is our leaving of the world's greatest union. #Yes2EU #CNN","['brexit', 'cnn', 'yes2eu']"
+196,196,196,595989,897711818138951680,852389079975165952,neutral,leave,2017-08-16T06:49:10.000Z,"The UK cannot lawfully leave the European Union in March 2019.
+
+You need to adjust your #Brexit fantasies to legal reality.
+
+#yes2eu https://t.co/G9CcT5tLUl","['brexit', 'yes2eu']"
+197,197,197,685717,902021820257374208,852389079975165952,positive,leave,2017-08-28T04:15:35.000Z,"@davidallengreen What length do you estimate the single formal legal document would need to be?
+
+In my estimation it would be huge.
+#Brexit
+#yes2eu","['brexit', 'yes2eu']"
+198,198,198,701151,902607548116819968,852389079975165952,neutral,other,2017-08-29T19:03:03.000Z,"@Francesbarnby @margarance @JolyonMaugham #Brexit will fail.
+
+The UK will continue as a Member State of the European Union on 1st April 2019.
+
+#yes2eu","['brexit', 'yes2eu']"
+199,199,199,711675,903132238203760640,17960088,neutral,remain,2017-08-31T05:47:59.000Z,Open access to 500m customers was our #1 USP #yes2eu #yestoeu #betteroffin #ukineu #bremain #strongerin #Brexit #Brexshit #brexitshambles https://t.co/Uw8rmhRrA0,"['brexshit', '1', 'betteroffin', 'yestoeu', 'ukineu', 'bremain', 'strongerin', 'brexit', 'yes2eu', 'brexitshambles']"

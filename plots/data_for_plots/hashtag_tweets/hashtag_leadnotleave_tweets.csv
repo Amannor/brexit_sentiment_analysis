@@ -1,358 +1,395 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,0,0,0,50966,695302094530674688,3135565264,positive,leave,2016-02-04T17:45:12.000Z,"should be good ...
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,51019,695309131843026944,3135565264,neutral,leave,2016-02-04T18:13:09.000Z,"its all about if you #BelieveInBritain 
 
-#NigelFarage is on #bbcqt tonight 
+#EUdeal #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/MG9EYpKS4u","['believeinbritain', 'strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'eudeal', 'leaveeu']"
+1,1,1,61719,696730096103776256,3135565264,negative,remain,2016-02-08T16:19:34.000Z,"We have nothing fear from #Brexit
 
-#LeaveEU #EURef #StrongerIn #EUdeal #LeadNotLeave #Brexit https://t.co/PE5yc0u0UF","['bbcqt', 'euref', 'nigelfarage', 'strongerin', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit']"
-1,1,1,1,1,1,1,1,98564,700466241652154368,3135565264,neutral,other,2016-02-18T23:45:40.000Z,"#EUDeal ..What Deal ?
+#BelieveInBritain 
 
-#bbcqt #LeaveEU #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit https://t.co/SwnxkYOTAF","['bbcqt', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit']"
-2,2,2,2,2,2,2,2,821088,736919280063774720,731465935308128128,neutral,leave,2016-05-29T13:57:02.000Z,Last year 80% of new job vacancies were filled by people born abroad. #Brexit #BetterOffIn #LeadNotLeave #EURef,"['betteroffin', 'brexit', 'euref', 'leadnotleave']"
-3,3,3,3,3,3,3,3,712195,732955663773650944,731465935308128128,neutral,other,2016-05-18T15:27:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #BetterOffOut #VoteIn #LeadNotLeave #EUReferendum","['betteroffout', 'votein', 'eureferendum', 'leadnotleave']"
-4,4,4,4,4,4,4,4,973586,740817619331231744,3346451062,negative,remain,2016-06-09T08:07:38.000Z,"#AtLast #Redwood finally admits that #Brexit campaign is ""gross""
-#SayNoToBoGo
-#LeadNotLeave
-Don't #BreakIt
-#Remain #In","['breakit', 'saynotobogo', 'leadnotleave', 'remain', 'in', 'brexit', 'redwood', 'atlast']"
-5,5,5,5,5,5,5,5,1159549,743148977416183808,3346451062,negative,remain,2016-06-15T18:31:37.000Z,"#Brexit impact will be pretty bad to very, very bad.
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #No2EU https://t.co/gvCoILTPuC","['believeinbritain', 'strongerout', 'leadnotleave', 'strongerin', 'brexit', 'no2eu', 'euref', 'leaveeu']"
+2,2,2,90432,700125938072363008,3135565264,positive,leave,2016-02-18T01:13:26.000Z,"Germany would be #BetterOffOut just like UK
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal https://t.co/rI0gwH1xdQ","['betteroffout', 'leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+3,3,3,1159549,743148977416183808,3346451062,negative,remain,2016-06-15T18:31:37.000Z,"#Brexit impact will be pretty bad to very, very bad.
 #SayNoToBoGo
 #LeadNotLeave
 Don't #BreakIt
 #Remain #In
 
-https://t.co/eJ2GOw8hGK","['breakit', 'saynotobogo', 'remain', 'leadnotleave', 'in', 'brexit']"
-6,6,6,6,6,6,6,6,717793,733206314650849280,731465935308128128,positive,other,2016-05-19T08:03:02.000Z,48% of small businesses say access to free movement across the EU has been positive (Source: CBI). #Brexit #LeadNotLeave #BRemain #EURef,"['bremain', 'brexit', 'euref', 'leadnotleave']"
-7,7,7,7,7,7,7,7,813198,736568969784610816,731465935308128128,neutral,remain,2016-05-28T14:45:01.000Z,It is estimated that 50%-80% of new UK laws and regulations are coming from the EU. #Brexit #BRemain #LeadNotLeave #EUReferendum,"['bremain', 'brexit', 'eureferendum', 'leadnotleave']"
-8,8,8,8,8,8,8,8,1559047,746020326170038272,2479436480,positive,remain,2016-06-23T16:41:20.000Z,"Don't screw this up Britain! Lead, not leave! #Brexit #Bremain #VoteRemain #WeWouldMissYou #LeadnotLeave","['bremain', 'voteremain', 'leadnotleave', 'brexit', 'wewouldmissyou']"
-9,9,9,9,9,9,9,9,832643,737417810503163904,717830426727989248,negative,remain,2016-05-30T22:58:01.000Z,Now is wrong time to #Brexit. If we #Bremain &amp; #LeadNotLeave but don't achieve reform in the next 5 yrs THEN it's #EURef2 by public demand,"['brexit', 'bremain', 'euref2', 'leadnotleave']"
-10,10,10,10,10,10,10,10,924237,739786922973876224,191829974,neutral,other,2016-06-06T11:52:01.000Z,#Brexit or #Bremain – what’s in it for the construction industry? https://t.co/vjXDTTcQlw #LeadnotLeave,"['brexit', 'bremain', 'leadnotleave']"
-11,11,11,11,11,11,11,11,1221389,743728312732651520,300926828,positive,other,2016-06-17T08:53:42.000Z,This is inspiring! #EURef #Brexit #LeadNotLeave https://t.co/2guiNhkUoc,"['brexit', 'euref', 'leadnotleave']"
-12,12,12,12,12,12,12,12,1052614,742064539626274816,300926828,neutral,other,2016-06-12T18:42:27.000Z,This has made up my mind on #EUref and #Brexit #LeadNotLeave https://t.co/M5s3BQaI0M,"['brexit', 'euref', 'leadnotleave']"
-13,13,13,13,13,13,13,13,705960,732670787275137024,731465935308128128,neutral,other,2016-05-17T20:35:02.000Z,"About 1.3 million British citizens live in EU countries, about 3 million EU nationals live in the UK. #Brexit #LeadNotLeave #UKInEU #EURef","['brexit', 'euref', 'ukineu', 'leadnotleave']"
-14,14,14,14,14,14,14,14,1260417,744254618004242432,731465935308128128,neutral,other,2016-06-18T19:45:03.000Z,"The EU has 65 institutions, bodies and agencies. #Brexit #LeadNotLeave #VoteRemain #EUReferendum","['brexit', 'eureferendum', 'voteremain', 'leadnotleave']"
-15,15,15,15,15,15,15,15,989355,740991113683718144,731465935308128128,positive,other,2016-06-09T19:37:03.000Z,"Last year the number of EU workers in the UK rose by 224,000. #Brexit #Yes2EU #LeadNotLeave #EUReferendum","['brexit', 'eureferendum', 'yes2eu', 'leadnotleave']"
-16,16,16,16,16,16,16,16,118846,701000634594676736,3039502624,positive,remain,2016-02-20T11:09:09.000Z,Just put my first poster up :-) #Brexit #StrongerIn #GreenerIn #LeadNotLeave https://t.co/atGIflcbiY,"['brexit', 'greenerin', 'strongerin', 'leadnotleave']"
-17,17,17,17,17,17,17,17,1096518,742645695555993600,85407635,neutral,remain,2016-06-14T09:11:46.000Z,The only defence against rags like The Sun is to use Social Media: https://t.co/FOCqH1B8O9 We should #leadnotleave. #Brexit is suicide.,"['brexit', 'leadnotleave']"
-18,18,18,18,18,18,18,18,1045649,741941462821146624,3346451062,negative,remain,2016-06-12T10:33:23.000Z,"@SarahHenney @Welfare_Weekly If we get #Brexit I shall pull up my deckchair pour myself a Pimms &amp; watch the disaster unfold...
-#LeadNotLeave","['brexit', 'leadnotleave']"
-19,19,19,19,19,19,19,19,981773,740888708233203712,152622044,positive,other,2016-06-09T12:50:07.000Z,For all you #Brexit fans: Great video from @OfficeGSBRown #LeadNotLeave @SarahBrownUK https://t.co/OW8Bbvqg8X,"['brexit', 'leadnotleave']"
-20,20,20,20,20,20,20,20,1155182,743117805395050496,419622371,positive,other,2016-06-15T16:27:45.000Z,"Strongly supporting with Gordon Brown,@carlbildt and some Eu leaders the #LeadnotLeave Manifesto against #Brexit  https://t.co/ku3yQ8d08F”","['brexit', 'leadnotleave']"
-21,21,21,21,21,21,21,21,1171383,743331303915851776,143013503,positive,remain,2016-06-16T06:36:07.000Z,"#Brexit ?
+https://t.co/eJ2GOw8hGK","['breakit', 'in', 'leadnotleave', 'remain', 'saynotobogo', 'brexit']"
+4,4,4,973586,740817619331231744,3346451062,negative,remain,2016-06-09T08:07:38.000Z,"#AtLast #Redwood finally admits that #Brexit campaign is ""gross""
+#SayNoToBoGo
+#LeadNotLeave
+Don't #BreakIt
+#Remain #In","['breakit', 'in', 'redwood', 'leadnotleave', 'remain', 'saynotobogo', 'atlast', 'brexit']"
+5,5,5,779513,735403659723452416,720884762,neutral,remain,2016-05-25T09:34:30.000Z,"#Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
+
+https://t.co/Q6jGOdDQPT - Thoughts?","['bremain', 'leadnotleave', 'voteremain', 'betteroffin', 'yestoeu', 'ukineu', 'votein', 'strongerin', 'brexit', 'yes2eu']"
+6,6,6,864257,738280364494442496,720884762,neutral,remain,2016-06-02T08:05:30.000Z,"My view on #Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
+
+https://t.co/cMT5l82x0a","['bremain', 'leadnotleave', 'voteremain', 'betteroffin', 'yestoeu', 'ukineu', 'votein', 'strongerin', 'brexit', 'yes2eu']"
+7,7,7,1559047,746020326170038272,2479436480,positive,remain,2016-06-23T16:41:20.000Z,"Don't screw this up Britain! Lead, not leave! #Brexit #Bremain #VoteRemain #WeWouldMissYou #LeadnotLeave","['bremain', 'wewouldmissyou', 'leadnotleave', 'brexit', 'voteremain']"
+8,8,8,1003859,741223647134781440,701397373000556544,neutral,other,2016-06-10T11:01:03.000Z,"#leadnotleave and #Brexit: Jeremy Corbyn, saboteur https://t.co/saQvcSgX10","['brexit', 'leadnotleave']"
+9,9,9,992488,741022631776944128,63669863,positive,remain,2016-06-09T21:42:17.000Z,"Powerful film. Europe would lose from #Brexit, but Britain would lose so much more. #leadnotleave https://t.co/RscxVQhDto","['brexit', 'leadnotleave']"
+10,10,10,1096518,742645695555993600,85407635,neutral,remain,2016-06-14T09:11:46.000Z,The only defence against rags like The Sun is to use Social Media: https://t.co/FOCqH1B8O9 We should #leadnotleave. #Brexit is suicide.,"['brexit', 'leadnotleave']"
+11,11,11,1332717,744945039210602496,3050718033,neutral,other,2016-06-20T17:28:32.000Z,On hearing Leave's plans for Brexit. #DogsAgainstBrexit #LeadNotLeave @StrongerIn @lilianedwards @vestager https://t.co/hNWNwbDSOz,"['dogsagainstbrexit', 'leadnotleave']"
+12,12,12,1264947,744395553983897600,2435053308,neutral,remain,2016-06-19T05:05:04.000Z,"@GerardBattenMEP Brexit won't lead to higher wages, but to a higher cost of living and fewer jobs #EU #LeadNotLeave","['eu', 'leadnotleave']"
+13,13,13,824079,737063804685692928,717830426727989248,negative,other,2016-05-29T23:31:19.000Z,#LeadNotLeave majority over #Brexit. Both sides agreed on one thing: #EU is still in serious need of reform and we need to lobby our MEP's.,"['eu', 'leadnotleave', 'brexit']"
+14,14,14,821088,736919280063774720,731465935308128128,neutral,leave,2016-05-29T13:57:02.000Z,Last year 80% of new job vacancies were filled by people born abroad. #Brexit #BetterOffIn #LeadNotLeave #EURef,"['euref', 'betteroffin', 'leadnotleave', 'brexit']"
+15,15,15,1119222,742849247339511808,300926828,positive,other,2016-06-14T22:40:36.000Z,This is what I find inspirational! This is my dream for the whole world! https://t.co/ufCKWUUsLI #EURef #Brexit #DareToDream #LeadNotLeave,"['euref', 'daretodream', 'leadnotleave', 'brexit']"
+16,16,16,717793,733206314650849280,731465935308128128,positive,other,2016-05-19T08:03:02.000Z,48% of small businesses say access to free movement across the EU has been positive (Source: CBI). #Brexit #LeadNotLeave #BRemain #EURef,"['euref', 'leadnotleave', 'bremain', 'brexit']"
+17,17,17,1221389,743728312732651520,300926828,positive,other,2016-06-17T08:53:42.000Z,This is inspiring! #EURef #Brexit #LeadNotLeave https://t.co/2guiNhkUoc,"['euref', 'leadnotleave', 'brexit']"
+18,18,18,1052614,742064539626274816,300926828,neutral,other,2016-06-12T18:42:27.000Z,This has made up my mind on #EUref and #Brexit #LeadNotLeave https://t.co/M5s3BQaI0M,"['euref', 'leadnotleave', 'brexit']"
+19,19,19,955331,740413677606703104,223156951,positive,remain,2016-06-08T05:22:31.000Z,A visual metaphor for #euref #brexit = the unknown = disaster. #Remain = best way to weather the storm #leadnotleave https://t.co/Ueu5b1Gmiy,"['euref', 'leadnotleave', 'remain', 'brexit']"
+20,20,20,705960,732670787275137024,731465935308128128,neutral,other,2016-05-17T20:35:02.000Z,"About 1.3 million British citizens live in EU countries, about 3 million EU nationals live in the UK. #Brexit #LeadNotLeave #UKInEU #EURef","['euref', 'leadnotleave', 'ukineu', 'brexit']"
+21,21,21,832643,737417810503163904,717830426727989248,negative,remain,2016-05-30T22:58:01.000Z,Now is wrong time to #Brexit. If we #Bremain &amp; #LeadNotLeave but don't achieve reform in the next 5 yrs THEN it's #EURef2 by public demand,"['euref2', 'leadnotleave', 'bremain', 'brexit']"
+22,22,22,813198,736568969784610816,731465935308128128,neutral,remain,2016-05-28T14:45:01.000Z,It is estimated that 50%-80% of new UK laws and regulations are coming from the EU. #Brexit #BRemain #LeadNotLeave #EUReferendum,"['eureferendum', 'leadnotleave', 'bremain', 'brexit']"
+23,23,23,792018,735836143019773952,731465935308128128,negative,leave,2016-05-26T14:13:02.000Z,49% of CBI members say that pan-EU employment rights are a negative for business (Source: CBI). #Brexit #UKInEU #LeadNotLeave #EUReferendum,"['eureferendum', 'leadnotleave', 'ukineu', 'brexit']"
+24,24,24,1012302,741326321620508672,731465935308128128,negative,leave,2016-06-10T17:49:02.000Z,"There is no ""reformed European Union"". #Brexit #UKInEU #LeadNotLeave #EUReferendum","['eureferendum', 'leadnotleave', 'ukineu', 'brexit']"
+25,25,25,989355,740991113683718144,731465935308128128,positive,other,2016-06-09T19:37:03.000Z,"Last year the number of EU workers in the UK rose by 224,000. #Brexit #Yes2EU #LeadNotLeave #EUReferendum","['eureferendum', 'leadnotleave', 'yes2eu', 'brexit']"
+26,26,26,59925,696611041627795456,3135565264,neutral,other,2016-02-08T08:26:29.000Z,"Before you Vote in #EUreferendum,you must read this 
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/sO4zr50gen","['eureferendum,you', 'strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu']"
+27,27,27,1398268,745307127233781760,572283696,negative,remain,2016-06-21T17:27:20.000Z,"#Glastonbury is IN!
+
+#VoteREMAIN on Thursday!
+
+#LeadNotLeave @StrongerIn Say NO to #Brexit #EUref https://t.co/UCYuIyWryv","['glastonbury', 'voteremain', 'leadnotleave', 'euref', 'brexit']"
+28,28,28,118846,701000634594676736,3039502624,positive,remain,2016-02-20T11:09:09.000Z,Just put my first poster up :-) #Brexit #StrongerIn #GreenerIn #LeadNotLeave https://t.co/atGIflcbiY,"['greenerin', 'leadnotleave', 'strongerin', 'brexit']"
+29,29,29,1174003,743346196719140864,441193606,neutral,remain,2016-06-16T07:35:18.000Z,#LeadNotLeave #StrongerIN #Remain #EUref #Brexit #JPII #JohnPaulII #EU | #VoteIN #VoteREMAIN on #June23 https://t.co/1E7p6XdBjh,"['june23', 'voteremain', 'leadnotleave', 'johnpaulii', 'remain', 'eu', 'votein', 'jpii', 'euref', 'brexit', 'strongerin']"
+30,30,30,1142335,743064145701044224,1347719010,neutral,other,2016-06-15T12:54:32.000Z,"The UK, EU, NATO, and UN are the four pillars of our influence and security. Brexit seriously weakens the first three. #leadnotleave",['leadnotleave']
+31,31,31,1078390,742428763946909696,313775431,neutral,leave,2016-06-13T18:49:45.000Z,@DCBMEP that's called reform...#brexit #leadnotleave,['leadnotleave']
+32,32,32,964940,740596999125356544,1245607699,neutral,other,2016-06-08T17:30:58.000Z,Write Brexit read Euxit https://t.co/BwA1sjbhVX #leadnotleave,['leadnotleave']
+33,33,33,1025146,741573641356378112,3346451062,neutral,other,2016-06-11T10:11:48.000Z,"@DiligentTruth @alanmaddison20 @Labster73 And arch #neoliberals #BoJo &amp; #MoGo will deliver this post #Brexit ?
+#SayNoToBoGo
+#LeadNotLeave","['leadnotleave', 'bojo', 'saynotobogo', 'mogo', 'neoliberals', 'brexit']"
+34,34,34,924237,739786922973876224,191829974,neutral,other,2016-06-06T11:52:01.000Z,#Brexit or #Bremain – what’s in it for the construction industry? https://t.co/vjXDTTcQlw #LeadnotLeave,"['leadnotleave', 'bremain', 'brexit']"
+35,35,35,1103800,742696138860564480,313775431,neutral,other,2016-06-14T12:32:12.000Z,@ARTSANDCRAFTSCO @cyprusmail interesting...so Turkey not joining anytime soon then. #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+36,36,36,1155182,743117805395050496,419622371,positive,other,2016-06-15T16:27:45.000Z,"Strongly supporting with Gordon Brown,@carlbildt and some Eu leaders the #LeadnotLeave Manifesto against #Brexit  https://t.co/ku3yQ8d08F”","['leadnotleave', 'brexit']"
+37,37,37,1064817,742291074861965312,313775431,negative,other,2016-06-13T09:42:38.000Z,@SteveD4848 @DouglasCarswell In what way has the Lisbon treaty been disastrous for the UK? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+38,38,38,1065114,742293777990230016,313775431,positive,other,2016-06-13T09:53:22.000Z,@DCBMEP and how do you think that is best achieved? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+39,39,39,1045649,741941462821146624,3346451062,negative,remain,2016-06-12T10:33:23.000Z,"@SarahHenney @Welfare_Weekly If we get #Brexit I shall pull up my deckchair pour myself a Pimms &amp; watch the disaster unfold...
+#LeadNotLeave","['leadnotleave', 'brexit']"
+40,40,40,1079824,742473879784919040,1030900315,neutral,other,2016-06-13T21:49:02.000Z,#leadnotleave Gordon Brown meets @JunckerEU tomorrow at 10h30 at the @EU_Commission #Brexit  https://t.co/fmunx4hqu2,"['leadnotleave', 'brexit']"
+41,41,41,1079804,742443442664579072,313775431,positive,other,2016-06-13T19:48:05.000Z,@StLionHeart the US for goodness sake is a union... #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+42,42,42,1223019,743743164972838912,18577886,positive,other,2016-06-17T09:52:43.000Z,"Retweeted Jaime Noain (@jaimenoain):
+
+#Brexit would be a greater deterrent for talented workers than for the unskilled ones. #leadnotleave","['leadnotleave', 'brexit']"
+43,43,43,1113344,742772496072605696,313775431,positive,leave,2016-06-14T17:35:37.000Z,@BaronessMurray @DanHannanMEP so you support scottish independence as well then...to be consistent? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+44,44,44,1028411,741616407922642944,139388024,neutral,other,2016-06-11T13:01:44.000Z,This why #Brexit should be #leadnotleave https://t.co/D7MVTbIkPy,"['leadnotleave', 'brexit']"
+45,45,45,1064598,742289189648093184,313775431,negative,other,2016-06-13T09:35:08.000Z,@Manish_05Singh @DanHannanMEP Didn't he not join the Euro? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+46,46,46,981773,740888708233203712,152622044,positive,other,2016-06-09T12:50:07.000Z,For all you #Brexit fans: Great video from @OfficeGSBRown #LeadNotLeave @SarahBrownUK https://t.co/OW8Bbvqg8X,"['leadnotleave', 'brexit']"
+47,47,47,1074314,742379818646396928,313775431,neutral,remain,2016-06-13T15:35:16.000Z,"@StLionHeart i am just pounting out your arguments are not well thought out, based on the real world. #brexit #leadnotleave","['leadnotleave', 'brexit']"
+48,48,48,904514,739366665088028672,427789815,positive,other,2016-06-05T08:02:04.000Z,#leadnotleave very nice ad by Gordon Brown on #Brexit referendum https://t.co/hHKC3tRAE0,"['leadnotleave', 'brexit']"
+49,49,49,1069662,742333184168341504,313775431,neutral,remain,2016-06-13T12:29:57.000Z,@StLionHeart @Vote_LeaveMedia How's getting the controlled non eu immigration down to 10's of thousands going? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+50,50,50,722858,733396999970684928,454146836,neutral,leave,2016-05-19T20:40:45.000Z,#Brexit #leadnotleave official polling card for postal vote just arrived. The time has come. https://t.co/kAAfDyVdAv,"['leadnotleave', 'brexit']"
+51,51,51,1098508,742657581164945408,1534237568,positive,other,2016-06-14T09:58:59.000Z,#brexit G. Brown #leadnotleave 'We run this show.' Just like Americans &amp; the UN in the early 50s– even put the HQ in NYC less any forget.,"['leadnotleave', 'brexit']"
+52,52,52,1069552,742332248238764032,313775431,neutral,other,2016-06-13T12:26:14.000Z,@2commakid is 350m a week sent to the EU a lie? #Brexit #leadnotleave,"['leadnotleave', 'brexit']"
+53,53,53,1070651,742342344662454272,313775431,neutral,remain,2016-06-13T13:06:21.000Z,@2commakid and what did it say on the side of the 'leave' bus? A lie or not? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+54,54,54,910302,739484239863906304,185752335,positive,other,2016-06-05T15:49:16.000Z,"Gove, IDS, Bojo and Farage it's hard to think of 4 people who could less plausibly advocate for greater NHS funding #Brexit #leadnotleave","['leadnotleave', 'brexit']"
+55,55,55,1069484,742331576390955008,313775431,positive,leave,2016-06-13T12:23:34.000Z,@ARTSANDCRAFTSCO @BBCNews Do you know what Turkey has to do to be allowed to join the EU? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+56,56,56,905664,739382398723461120,2164207590,negative,other,2016-06-05T09:04:35.000Z,https://t.co/Erc1MYKPmO #brexit Do you agree with #LeadNotLeave or feel it's missing the point?,"['leadnotleave', 'brexit']"
+57,57,57,1070602,742341832907055104,313775431,neutral,other,2016-06-13T13:04:19.000Z,@StLionHeart @Vote_LeaveMedia and you think that's not about numbers...do you 'get' what you actually say? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+58,58,58,1171383,743331303915851776,143013503,positive,remain,2016-06-16T06:36:07.000Z,"#Brexit ?
 Gordon Brown's #LeadNotLeave .
 
 2' worth listening.
 
-https://t.co/yjBWuc8SB7","['brexit', 'leadnotleave']"
-22,22,22,22,22,22,22,22,992488,741022631776944128,63669863,positive,remain,2016-06-09T21:42:17.000Z,"Powerful film. Europe would lose from #Brexit, but Britain would lose so much more. #leadnotleave https://t.co/RscxVQhDto","['brexit', 'leadnotleave']"
-23,23,23,23,23,23,23,23,1315310,744837197455564800,717830426727989248,positive,other,2016-06-20T10:20:00.000Z,"#Remain to Reform, not #Brexit isolation. Positive case to #LeadNotLeave overwhelmingly in UKs best interest. https://t.co/JResFqLbGZ","['brexit', 'leadnotleave', 'remain']"
-24,24,24,24,24,24,24,24,1508444,745872662350692352,2198221374,positive,other,2016-06-23T06:54:35.000Z,"#UK please, don't fuck up everything. 
-#Brexit #LeadNotLeave #RemainINEU","['brexit', 'remainineu', 'uk', 'leadnotleave']"
-25,25,25,25,25,25,25,25,12557,687561860896395264,3039502624,positive,other,2016-01-14T09:08:16.000Z,"Seven options, none good. Still no idea what a vote for #Brexit actually means for the UK #LeadNotLeave #StrongerIn https://t.co/hZbkBhTeh1","['brexit', 'strongerin', 'leadnotleave']"
-26,26,26,26,26,26,26,26,1366229,745166948841885696,701368740110319616,positive,leave,2016-06-21T08:10:19.000Z,#Brexit means #TakeControl of our own poverty. We should keep control of our prosperity &amp; #LeadNotLeave . That's why we're #StrongerIn,"['brexit', 'strongerin', 'takecontrol', 'leadnotleave']"
-27,27,27,27,27,27,27,27,906432,739394564721631232,343629474,neutral,other,2016-06-05T09:52:56.000Z,#Brexit &amp; we lose EU cooperation controlling migration across Europe #Turkey deal reduces flow by 90% #LeadNotLeave https://t.co/k64bXyUpaX,"['brexit', 'turkey', 'leadnotleave']"
-28,28,28,28,28,28,28,28,893745,738998419046404096,38494177,positive,remain,2016-06-04T07:38:47.000Z,"Gordon Brown: Lead, not Leave #UK #LeadnotLeave #Brexit https://t.co/L5TXtOxqye","['brexit', 'uk', 'leadnotleave']"
-29,29,29,29,29,29,29,29,1119222,742849247339511808,300926828,positive,other,2016-06-14T22:40:36.000Z,This is what I find inspirational! This is my dream for the whole world! https://t.co/ufCKWUUsLI #EURef #Brexit #DareToDream #LeadNotLeave,"['daretodream', 'brexit', 'euref', 'leadnotleave']"
-30,30,30,30,30,30,30,30,16490,688885832162365440,3135565264,positive,leave,2016-01-18T00:49:15.000Z,"if you want #democracy you need to #VoteLeave
+https://t.co/yjBWuc8SB7","['leadnotleave', 'brexit']"
+59,59,59,1072492,742362137427861504,313775431,neutral,other,2016-06-13T14:25:00.000Z,@StLionHeart you brought up Bazil. Look it up. #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+60,60,60,910736,739493700338896896,3817211188,positive,other,2016-06-05T16:26:51.000Z,A powerful message to #leadnotleave in the #Brexit debate https://t.co/AESB5NpnXR,"['leadnotleave', 'brexit']"
+61,61,61,1072144,742358475662086144,313775431,neutral,leave,2016-06-13T14:10:27.000Z,"@StLionHeart wouldn't use them if i were you, considering the UANSUR is modelled on the EU. #brexit #leadnotleave","['leadnotleave', 'brexit']"
+62,62,62,1071136,742347890434166784,313775431,neutral,other,2016-06-13T13:28:23.000Z,@DCBMEP should scotland and wales do the same...to be consistent? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+63,63,63,1092077,742617098548056064,360490001,positive,remain,2016-06-14T07:18:08.000Z,This video from Gordon Brown is brilliant - shows how #Brexit would be a disaster + we must stay in EU #leadnotleave https://t.co/q6R80ycNZd,"['leadnotleave', 'brexit']"
+64,64,64,969870,740656353895669760,8641742,positive,leave,2016-06-08T21:26:50.000Z,Great video by Gordon Brown. All #brexit voters should watch and think... #LeadNotLeave  https://t.co/dgVUahcZZi,"['leadnotleave', 'brexit']"
+65,65,65,1078344,742428026231623680,313775431,neutral,remain,2016-06-13T18:46:49.000Z,@StLionHeart oh dear...what do you think the US is with Washington? Heard many Leavers try that one.Not very cleaver. #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+66,66,66,1071224,742348807728463872,313775431,positive,other,2016-06-13T13:32:02.000Z,@ARTSANDCRAFTSCO @BBCNews has he or anyone else said they want them to join without complying? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+67,67,67,1020554,741515749802512384,2354848572,positive,remain,2016-06-11T06:21:46.000Z,Brexit: It's smarter to stay https://t.co/tuxK1jfDib via @SPIEGELONLINE #brexit #leadnotleave @CuriousRalph,"['leadnotleave', 'brexit']"
+68,68,68,969825,740655067393609728,20903947,positive,other,2016-06-08T21:21:43.000Z,@ctr246 @HBaldwinMP I'm sure there are some arguments for #Brexit but it's not the best option for Britain. We should #leadnotleave Europe.,"['leadnotleave', 'brexit']"
+69,69,69,1071430,742351062426918912,313775431,positive,other,2016-06-13T13:41:00.000Z,@StLionHeart fine in theory. Will visa all tourists too? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
+70,70,70,894826,739021919257759744,218257543,neutral,other,2016-06-04T09:12:10.000Z,A timely reminder that Europe was a bloodbath for centuries before the #EU: https://t.co/DAkI6o3UJn #brexit #leadnotleave,"['leadnotleave', 'brexit', 'eu']"
+71,71,71,1081859,742466725749329920,705430314915643392,neutral,other,2016-06-13T21:20:36.000Z,Perhaps the most charismatic intervention G. Brown had ever made.Excellent. #leadnotleave #EUref #StrongerIn #brexit https://t.co/f9NWpZX725,"['leadnotleave', 'brexit', 'euref', 'strongerin']"
+72,72,72,1256002,744189213629947904,185752335,positive,other,2016-06-18T15:25:09.000Z,"Just voted for Britain to remain in the European Union, potentially the most important vote of my life! #leadnotleave #stay don't #Brexit","['leadnotleave', 'brexit', 'stay']"
+73,73,73,906432,739394564721631232,343629474,neutral,other,2016-06-05T09:52:56.000Z,#Brexit &amp; we lose EU cooperation controlling migration across Europe #Turkey deal reduces flow by 90% #LeadNotLeave https://t.co/k64bXyUpaX,"['leadnotleave', 'brexit', 'turkey']"
+74,74,74,894769,739020610362343424,961920961,positive,remain,2016-06-04T09:06:58.000Z,"Gordon rests his case perfectly - worth watching: UK and EU, stronger together  https://t.co/Ro9HfQFOjz  #leadnotleave #voteremain #brexit","['leadnotleave', 'brexit', 'voteremain']"
+75,75,75,1181646,743359351474135040,22049802,neutral,remain,2016-06-16T08:27:34.000Z,Prepping to film Gordon Brown and John McDonnell today for the #leadnotleave campaign #Brexit #voteremain https://t.co/yRltS5wAYm,"['leadnotleave', 'brexit', 'voteremain']"
+76,76,76,1104451,742700453130076160,389086205,negative,remain,2016-06-14T12:49:21.000Z,"Once again, our grandparents seem intent on fucking us over forever @TheSun #Brexit #leadnotleave #VoteRemain  🇬🇧🇪🇺 https://t.co/MoA39JNjhS","['leadnotleave', 'brexit', 'voteremain']"
+77,77,77,796533,735951424320897024,717830426727989248,negative,remain,2016-05-26T21:51:07.000Z,"#Brexit uncertainty surely turns the clock back. #Bremain still uncertain, ever cautious of where the #EU will try to go, so #LeadNotLeave","['leadnotleave', 'eu', 'bremain', 'brexit']"
+78,78,78,98564,700466241652154368,3135565264,neutral,other,2016-02-18T23:45:40.000Z,"#EUDeal ..What Deal ?
 
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/iq9NnorB66","['democracy', 'voteleave', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-31,31,31,31,31,31,31,31,1332717,744945039210602496,3050718033,neutral,other,2016-06-20T17:28:32.000Z,On hearing Leave's plans for Brexit. #DogsAgainstBrexit #LeadNotLeave @StrongerIn @lilianedwards @vestager https://t.co/hNWNwbDSOz,"['dogsagainstbrexit', 'leadnotleave']"
-32,32,32,32,32,32,32,32,98570,700467255809708032,3135565264,neutral,leave,2016-02-18T23:49:42.000Z,"Out of the #EU &amp; into the World
+#bbcqt #LeaveEU #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit https://t.co/SwnxkYOTAF","['leadnotleave', 'eudeal', 'strongerin', 'brexit', 'euref', 'stayineu', 'bbcqt', 'leaveeu']"
+79,79,79,1133688,743019422781169664,572283696,neutral,other,2016-06-15T09:56:49.000Z,"Dan Jarvis: ""Tory Brexit campaigners are writing blank cheques that will bounce” #LeadNotLeave #EUref @StrongerIn https://t.co/nAv3XPETlx","['leadnotleave', 'euref']"
+80,80,80,1316003,744839862147256320,717830426727989248,negative,other,2016-06-20T10:30:36.000Z,Ironic #brexit doubt our capabilities to lead inside the #EU. We have already shown our mettle by calling #EUref - our duty is #LeadNotLeave,"['leadnotleave', 'euref', 'brexit', 'eu']"
+81,81,81,896730,739069890599002112,26242418,positive,leave,2016-06-04T12:22:47.000Z,Great message by Gordon Brown! https://t.co/Kusz8Rktzs #leadnotleave #Brexit #EUreferendum,"['leadnotleave', 'eureferendum', 'brexit']"
+82,82,82,1260417,744254618004242432,731465935308128128,neutral,other,2016-06-18T19:45:03.000Z,"The EU has 65 institutions, bodies and agencies. #Brexit #LeadNotLeave #VoteRemain #EUReferendum","['leadnotleave', 'eureferendum', 'brexit', 'voteremain']"
+83,83,83,61120,696682121075826688,3135565264,neutral,leave,2016-02-08T13:08:56.000Z,"The #EUReferendum is About Britain’s History,Heritage &amp; Future 
 
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal #bbcqt https://t.co/HRJuRP97jh","['eu', 'bbcqt', 'voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'brexit']"
-33,33,33,33,33,33,33,33,98569,700466665889275904,3135565264,neutral,leave,2016-02-18T23:47:21.000Z,"@UKRaider164 @jez009 
-we are paying for this &amp; the #EU 
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal #bbcqt","['eu', 'bbcqt', 'voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'brexit']"
-34,34,34,34,34,34,34,34,796533,735951424320897024,717830426727989248,negative,remain,2016-05-26T21:51:07.000Z,"#Brexit uncertainty surely turns the clock back. #Bremain still uncertain, ever cautious of where the #EU will try to go, so #LeadNotLeave","['eu', 'brexit', 'bremain', 'leadnotleave']"
-35,35,35,35,35,35,35,35,824079,737063804685692928,717830426727989248,negative,other,2016-05-29T23:31:19.000Z,#LeadNotLeave majority over #Brexit. Both sides agreed on one thing: #EU is still in serious need of reform and we need to lobby our MEP's.,"['eu', 'brexit', 'leadnotleave']"
-36,36,36,36,36,36,36,36,1316003,744839862147256320,717830426727989248,negative,other,2016-06-20T10:30:36.000Z,Ironic #brexit doubt our capabilities to lead inside the #EU. We have already shown our mettle by calling #EUref - our duty is #LeadNotLeave,"['eu', 'euref', 'leadnotleave', 'brexit']"
-37,37,37,37,37,37,37,37,73122,698542053932822528,3135565264,neutral,remain,2016-02-13T16:19:38.000Z,"the end of #Schengen is the end of the #EU ..!
-
-#EU RIP
-
-#LeaveEU #EURef #StrongerIn #LeadNotLeave #Brexit #No2EU https://t.co/TbHjjGnDXx","['eu', 'euref', 'no2eu', 'schengen', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit']"
-38,38,38,38,38,38,38,38,18263,689521498000859136,3135565264,negative,remain,2016-01-19T18:55:10.000Z,"thanks #EU for destroying our fishing industry
-
- #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/NHiYck9nke","['eu', 'euref', 'strongerin', 'leadnotleave', 'brexit', 'strongerout', 'votein']"
-39,39,39,39,39,39,39,39,44073,694589128416071680,3135565264,positive,other,2016-02-02T18:32:07.000Z,"PM's #EU package was ""hardly worth the wait..pathetic""
-
-#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit #EUdeal https://t.co/eZ5jEFCJCs","['eu', 'euref', 'strongerin', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit']"
-40,40,40,40,40,40,40,40,14587,688270888702205952,3135565264,neutral,leave,2016-01-16T08:05:41.000Z,"Just think what UK could do with all that money we send to #EU ?
-
-#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit https://t.co/n1ir6w6FDl","['eu', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit']"
-41,41,41,41,41,41,41,41,18255,689517237573656576,3135565264,neutral,leave,2016-01-19T18:38:14.000Z,"Britain is giving your money to #EU then to be told what to do ?
-
-#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit https://t.co/kMtao9COcF","['eu', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit']"
-42,42,42,42,42,42,42,42,48877,695016762715291648,3135565264,positive,leave,2016-02-03T22:51:23.000Z,"`#Turkey are being given visa free access to #EU in Oct 2016 ?
-
-#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit  https://t.co/tJ5cQtqo04","['eu', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit']"
-43,43,43,43,43,43,43,43,14568,688259996241399808,3135565264,negative,remain,2016-01-16T07:22:25.000Z,"do you want to live in a failed #EU State ?
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/RhDaCxBW8A","['eu', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-44,44,44,44,44,44,44,44,1264947,744395553983897600,2435053308,neutral,remain,2016-06-19T05:05:04.000Z,"@GerardBattenMEP Brexit won't lead to higher wages, but to a higher cost of living and fewer jobs #EU #LeadNotLeave","['eu', 'leadnotleave']"
-45,45,45,45,45,45,45,45,270912,706025715884544000,3135565264,positive,leave,2016-03-05T07:57:02.000Z,"Do you want to be in the #EU with #Turkey ?
-
- #VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #UKinEU https://t.co/QPsYLiQmnS","['eu', 'voteleave', 'euref', 'brexit', 'strongerin', 'stayineu', 'leadnotleave', 'ukineu', 'turkey']"
-46,46,46,46,46,46,46,46,101105,700595714041077760,3135565264,neutral,other,2016-02-19T08:20:09.000Z,"What Has The #EU Ever Done For Us?
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  
- https://t.co/2jIsxEMxvS","['eu', 'voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'brexit']"
-47,47,47,47,47,47,47,47,89017,700006050536296448,3135565264,negative,leave,2016-02-17T17:17:02.000Z,"You cant support #TTIP &amp; the #EU 
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal   https://t.co/EOvOaY2uil","['eu', 'voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'ttip', 'brexit']"
-48,48,48,48,48,48,48,48,270975,706027801225388032,3135565264,neutral,other,2016-03-05T08:05:19.000Z,"the #EU ?   NEXT please......
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #UKinEU https://t.co/5btf0e597q","['eu', 'voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'ukineu', 'brexit']"
-49,49,49,49,49,49,49,49,114600,700865755588329472,3135565264,neutral,leave,2016-02-20T02:13:12.000Z,"The real news in the #EU
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/3GZLMSAf52","['eu', 'voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'ukineu', 'eudeal', 'brexit']"
-50,50,50,50,50,50,50,50,35605,693212348505571328,3135565264,neutral,other,2016-01-29T23:21:17.000Z,"Clutching at Straws..!!! 
-
-#battlingbrexit #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN  https://t.co/CzLC8fyJWk","['euref', 'battlingbrexit', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-51,51,51,51,51,51,51,51,75037,698854580419960832,3135565264,neutral,remain,2016-02-14T13:01:30.000Z,"the #EuropeanUnion RIP
-
- #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/bOMoXRWJVI","['euref', 'europeanunion', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-52,52,52,52,52,52,52,52,1133688,743019422781169664,572283696,neutral,other,2016-06-15T09:56:49.000Z,"Dan Jarvis: ""Tory Brexit campaigners are writing blank cheques that will bounce” #LeadNotLeave #EUref @StrongerIn https://t.co/nAv3XPETlx","['euref', 'leadnotleave']"
-53,53,53,53,53,53,53,53,59925,696611041627795456,3135565264,neutral,other,2016-02-08T08:26:29.000Z,"Before you Vote in #EUreferendum,you must read this 
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/sO4zr50gen","['euref', 'leaveeu', 'strongerin', 'leadnotleave', 'eureferendumyou', 'brexit', 'strongerout']"
-54,54,54,54,54,54,54,54,36793,693724473837633536,3135565264,positive,other,2016-01-31T09:16:17.000Z,"Who do you want running your Country ?
-
-#Marr #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/RRSIZW4XCr","['euref', 'marr', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-55,55,55,55,55,55,55,55,14609,688284386945400832,3135565264,neutral,other,2016-01-16T08:59:20.000Z,"When I see these two I remember #Merkel &amp; #Junker 
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/ZSnj4tLzAb","['euref', 'merkel', 'strongerin', 'leadnotleave', 'junker', 'leaveeu', 'brexit', 'strongerout']"
-56,56,56,56,56,56,56,56,61719,696730096103776256,3135565264,negative,remain,2016-02-08T16:19:34.000Z,"We have nothing fear from #Brexit
-
-#BelieveInBritain 
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #No2EU https://t.co/gvCoILTPuC","['euref', 'no2eu', 'strongerin', 'believeinbritain', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-57,57,57,57,57,57,57,57,63166,696964622444851200,3135565264,neutral,other,2016-02-09T07:51:29.000Z,"If UK #remaininEU this will be Our Leader ?
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/4OA9PKK7wE","['euref', 'remainineu', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-58,58,58,58,58,58,58,58,51019,695309131843026944,3135565264,neutral,leave,2016-02-04T18:13:09.000Z,"its all about if you #BelieveInBritain 
-
-#EUdeal #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/MG9EYpKS4u","['euref', 'strongerin', 'believeinbritain', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit', 'strongerout']"
-59,59,59,59,59,59,59,59,12166,687389633131507712,3135565264,neutral,other,2016-01-13T21:43:54.000Z,"@Cllrporter @Arron_banks 
-
-#Brussels (#EU) is the thorn in our side
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN","['euref', 'strongerin', 'brussels', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-60,60,60,60,60,60,60,60,11074,687030735883087872,3135565264,neutral,leave,2016-01-12T21:57:46.000Z,"Im voting to #LeaveEU
-
-#BetterOffOut #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/ETeHZDBQ2I","['euref', 'strongerin', 'leadnotleave', 'betteroffout', 'leaveeu', 'brexit', 'strongerout']"
-61,61,61,61,61,61,61,61,59959,696612401500782592,3135565264,neutral,other,2016-02-08T08:31:53.000Z,"Who runs OUR Country ?
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN #BetterOffOut https://t.co/oRLbOvwxF9","['euref', 'strongerin', 'leadnotleave', 'betteroffout', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-62,62,62,62,62,62,62,62,43831,694585634250440704,3135565264,positive,other,2016-02-02T18:18:14.000Z,"I love my Country &amp; I'm not falling for this sham of an #EUdeal 
-
-#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit https://t.co/5YfsW9job6","['euref', 'strongerin', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit']"
-63,63,63,63,63,63,63,63,44170,694599009059639296,3135565264,neutral,leave,2016-02-02T19:11:23.000Z,"Im voting to #LeaveEU ....
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #EUdeal  https://t.co/BsoF7Bp7iG","['euref', 'strongerin', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit', 'strongerout']"
-64,64,64,64,64,64,64,64,23863,690798835703136256,3135565264,neutral,other,2016-01-23T07:30:51.000Z,"Britain is #BetterOffOut
-
- #LeaveEU #EURef #StrongerIn #StrongerOut
-#Brexit #EUreferendum #VoteIN  #LeadNotLeave 
-
-https://t.co/w7KQHHcD7o","['euref', 'strongerin', 'leadnotleave', 'eureferendum', 'betteroffout', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-65,65,65,65,65,65,65,65,61120,696682121075826688,3135565264,neutral,leave,2016-02-08T13:08:56.000Z,"The #EUReferendum is About Britain’s History,Heritage &amp; Future 
-
-#LeaveEU #EURef #StrongerIn #LeadNotLeave #Brexit https://t.co/vvAhptjyHS","['euref', 'strongerin', 'leadnotleave', 'eureferendum', 'leaveeu', 'brexit']"
-66,66,66,66,66,66,66,66,61523,696711695599869952,3135565264,neutral,leave,2016-02-08T15:06:27.000Z,"It's Your Decision
-
-Democracy V Dictatorship ?
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/rxrGfCpY3F","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-67,67,67,67,67,67,67,67,51079,695317114303967232,3135565264,negative,other,2016-02-04T18:44:53.000Z,"You might not like the truth but it must be told
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/252C8F3lrv","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-68,68,68,68,68,68,68,68,33583,692865632308625408,3135565264,neutral,remain,2016-01-29T00:23:34.000Z,"Are the British public really gonna fall for this ?
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit
- https://t.co/IYVefZkGVs","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-69,69,69,69,69,69,69,69,80627,699333675645804544,3135565264,neutral,leave,2016-02-15T20:45:15.000Z,"I'm not listening to our PM &amp; I'm voting to #LeaveEU
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/qpktqFAsVt","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-70,70,70,70,70,70,70,70,16484,688873673781022720,3135565264,positive,other,2016-01-18T00:00:57.000Z,"will the last person out please turn off the light.
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit
- https://t.co/tdgHWaOty7","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-71,71,71,71,71,71,71,71,15118,688504042247553024,3135565264,neutral,remain,2016-01-16T23:32:10.000Z,"Im voting to #LeaveEU
-
-So I can get back my British Passport 
-
-#EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/ipMj3OKdy4","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-72,72,72,72,72,72,72,72,23859,690797721100353536,3135565264,neutral,other,2016-01-23T07:26:25.000Z,"Reasons to #LeaveEU
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/8MxSmrIQgy","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-73,73,73,73,73,73,73,73,28246,691787651087736832,3135565264,positive,other,2016-01-26T01:00:03.000Z,"Who do you want running your Country ?
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/h1KftiblPE","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-74,74,74,74,74,74,74,74,15763,688691020192727040,3135565264,neutral,other,2016-01-17T11:55:09.000Z,"Im voting to #LeaveEU
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/ED9jTZ9GLJ","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-75,75,75,75,75,75,75,75,75690,698936851504177152,3135565264,positive,other,2016-02-14T18:28:25.000Z,"Who Do You want in charge of your Country ?
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/QDxphFK55F","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-76,76,76,76,76,76,76,76,71940,698280408635547648,3135565264,neutral,other,2016-02-12T22:59:57.000Z,"Reasons to #LeaveEU
-
-this is just not fair
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/pXDFmB0MYu","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-77,77,77,77,77,77,77,77,81936,699490765416824832,3135565264,positive,other,2016-02-16T07:09:29.000Z,"Last chance to save our country ........
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/w8dHnLCEd5","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-78,78,78,78,78,78,78,78,37282,693826445341237248,3135565264,positive,other,2016-01-31T16:01:29.000Z,"I want OUT ..!!
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/SIw9AThIic","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-79,79,79,79,79,79,79,79,65469,697332284169576448,3135565264,positive,other,2016-02-10T08:12:27.000Z,"Who do you want running your country ?
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/HBdwIkf1Vg","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-80,80,80,80,80,80,80,80,75575,698922374037696512,3135565264,neutral,other,2016-02-14T17:30:53.000Z,"Im voting to #LeaveEU
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN
- https://t.co/duYc0mhTXl","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-81,81,81,81,81,81,81,81,14559,688257126616059904,3135565264,neutral,other,2016-01-16T07:11:00.000Z,"Im voting to #LeaveEU
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/cGKBdI0HgA","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-82,82,82,82,82,82,82,82,73434,698614702633525248,3135565264,negative,other,2016-02-13T21:08:19.000Z,"Ever get the feeling youve been cheated ?
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/K5SAuFw4f0","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-83,83,83,83,83,83,83,83,65441,697330360435216384,3135565264,positive,other,2016-02-10T08:04:48.000Z,"Time for an amicable divorce 
-
-Time for #Brexit
-
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #VoteIN https://t.co/w2XSRuCnaj","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-84,84,84,84,84,84,84,84,48865,695015671219019776,3135565264,neutral,other,2016-02-03T22:47:03.000Z,"The UK is being taken for a ride ,thats why Im voting to #LeaveEU
-
-#EURef #StrongerIn #LeadNotLeave #Brexit #VoteIN https://t.co/6dIWZOhMKO","['euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'votein']"
-85,85,85,85,85,85,85,85,67789,697701397727465472,3135565264,neutral,leave,2016-02-11T08:39:10.000Z,"Another reason Im voting to #LeaveEU
-
-#voteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #EUdeal https://t.co/BTUkKzSK59","['euref', 'voteleave', 'strongerin', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit', 'strongerout']"
-86,86,86,86,86,86,86,86,1012302,741326321620508672,731465935308128128,negative,leave,2016-06-10T17:49:02.000Z,"There is no ""reformed European Union"". #Brexit #UKInEU #LeadNotLeave #EUReferendum","['eureferendum', 'brexit', 'ukineu', 'leadnotleave']"
-87,87,87,87,87,87,87,87,792018,735836143019773952,731465935308128128,negative,leave,2016-05-26T14:13:02.000Z,49% of CBI members say that pan-EU employment rights are a negative for business (Source: CBI). #Brexit #UKInEU #LeadNotLeave #EUReferendum,"['eureferendum', 'brexit', 'ukineu', 'leadnotleave']"
-88,88,88,88,88,88,88,88,118868,700985833957040128,3135565264,neutral,leave,2016-02-20T10:10:21.000Z,"#ImOUT what about you.. 
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/HyJZk9YXis","['imout', 'voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'ukineu', 'eudeal', 'brexit']"
-89,89,89,89,89,89,89,89,1174003,743346196719140864,441193606,neutral,remain,2016-06-16T07:35:18.000Z,#LeadNotLeave #StrongerIN #Remain #EUref #Brexit #JPII #JohnPaulII #EU | #VoteIN #VoteREMAIN on #June23 https://t.co/1E7p6XdBjh,"['johnpaulii', 'strongerin', 'eu', 'june23', 'remain', 'leadnotleave', 'euref', 'jpii', 'brexit', 'voteremain', 'votein']"
-90,90,90,90,90,90,90,90,964940,740596999125356544,1245607699,neutral,other,2016-06-08T17:30:58.000Z,Write Brexit read Euxit https://t.co/BwA1sjbhVX #leadnotleave,['leadnotleave']
-91,91,91,91,91,91,91,91,1142335,743064145701044224,1347719010,neutral,other,2016-06-15T12:54:32.000Z,"The UK, EU, NATO, and UN are the four pillars of our influence and security. Brexit seriously weakens the first three. #leadnotleave",['leadnotleave']
-92,92,92,92,92,92,92,92,1078390,742428763946909696,313775431,neutral,leave,2016-06-13T18:49:45.000Z,@DCBMEP that's called reform...#brexit #leadnotleave,['leadnotleave']
-93,93,93,93,93,93,93,93,1077674,742419691885494272,501732841,negative,remain,2016-06-13T18:13:42.000Z,EUrope is a community and not a marketplace! The #UK should #leadnotleave and  #Bremain - no to #Brexit  https://t.co/UIwTtK9cHG,"['leadnotleave', 'bremain', 'brexit', 'uk']"
-94,94,94,94,94,94,94,94,1113344,742772496072605696,313775431,positive,leave,2016-06-14T17:35:37.000Z,@BaronessMurray @DanHannanMEP so you support scottish independence as well then...to be consistent? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-95,95,95,95,95,95,95,95,1069484,742331576390955008,313775431,positive,leave,2016-06-13T12:23:34.000Z,@ARTSANDCRAFTSCO @BBCNews Do you know what Turkey has to do to be allowed to join the EU? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-96,96,96,96,96,96,96,96,1092077,742617098548056064,360490001,positive,remain,2016-06-14T07:18:08.000Z,This video from Gordon Brown is brilliant - shows how #Brexit would be a disaster + we must stay in EU #leadnotleave https://t.co/q6R80ycNZd,"['leadnotleave', 'brexit']"
-97,97,97,97,97,97,97,97,1103800,742696138860564480,313775431,neutral,other,2016-06-14T12:32:12.000Z,@ARTSANDCRAFTSCO @cyprusmail interesting...so Turkey not joining anytime soon then. #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-98,98,98,98,98,98,98,98,1028411,741616407922642944,139388024,neutral,other,2016-06-11T13:01:44.000Z,This why #Brexit should be #leadnotleave https://t.co/D7MVTbIkPy,"['leadnotleave', 'brexit']"
-99,99,99,99,99,99,99,99,1071136,742347890434166784,313775431,neutral,other,2016-06-13T13:28:23.000Z,@DCBMEP should scotland and wales do the same...to be consistent? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-100,100,100,100,100,100,100,100,1003859,741223647134781440,701397373000556544,neutral,other,2016-06-10T11:01:03.000Z,"#leadnotleave and #Brexit: Jeremy Corbyn, saboteur https://t.co/saQvcSgX10","['leadnotleave', 'brexit']"
-101,101,101,101,101,101,101,101,1071224,742348807728463872,313775431,positive,other,2016-06-13T13:32:02.000Z,@ARTSANDCRAFTSCO @BBCNews has he or anyone else said they want them to join without complying? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-102,102,102,102,102,102,102,102,905664,739382398723461120,2164207590,negative,other,2016-06-05T09:04:35.000Z,https://t.co/Erc1MYKPmO #brexit Do you agree with #LeadNotLeave or feel it's missing the point?,"['leadnotleave', 'brexit']"
-103,103,103,103,103,103,103,103,1079824,742473879784919040,1030900315,neutral,other,2016-06-13T21:49:02.000Z,#leadnotleave Gordon Brown meets @JunckerEU tomorrow at 10h30 at the @EU_Commission #Brexit  https://t.co/fmunx4hqu2,"['leadnotleave', 'brexit']"
-104,104,104,104,104,104,104,104,1079804,742443442664579072,313775431,positive,other,2016-06-13T19:48:05.000Z,@StLionHeart the US for goodness sake is a union... #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-105,105,105,105,105,105,105,105,1071430,742351062426918912,313775431,positive,other,2016-06-13T13:41:00.000Z,@StLionHeart fine in theory. Will visa all tourists too? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-106,106,106,106,106,106,106,106,1069552,742332248238764032,313775431,neutral,other,2016-06-13T12:26:14.000Z,@2commakid is 350m a week sent to the EU a lie? #Brexit #leadnotleave,"['leadnotleave', 'brexit']"
-107,107,107,107,107,107,107,107,904514,739366665088028672,427789815,positive,other,2016-06-05T08:02:04.000Z,#leadnotleave very nice ad by Gordon Brown on #Brexit referendum https://t.co/hHKC3tRAE0,"['leadnotleave', 'brexit']"
-108,108,108,108,108,108,108,108,722858,733396999970684928,454146836,neutral,leave,2016-05-19T20:40:45.000Z,#Brexit #leadnotleave official polling card for postal vote just arrived. The time has come. https://t.co/kAAfDyVdAv,"['leadnotleave', 'brexit']"
-109,109,109,109,109,109,109,109,1098508,742657581164945408,1534237568,positive,other,2016-06-14T09:58:59.000Z,#brexit G. Brown #leadnotleave 'We run this show.' Just like Americans &amp; the UN in the early 50s– even put the HQ in NYC less any forget.,"['leadnotleave', 'brexit']"
-110,110,110,110,110,110,110,110,1065114,742293777990230016,313775431,positive,other,2016-06-13T09:53:22.000Z,@DCBMEP and how do you think that is best achieved? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-111,111,111,111,111,111,111,111,1078344,742428026231623680,313775431,neutral,remain,2016-06-13T18:46:49.000Z,@StLionHeart oh dear...what do you think the US is with Washington? Heard many Leavers try that one.Not very cleaver. #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-112,112,112,112,112,112,112,112,1070602,742341832907055104,313775431,neutral,other,2016-06-13T13:04:19.000Z,@StLionHeart @Vote_LeaveMedia and you think that's not about numbers...do you 'get' what you actually say? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-113,113,113,113,113,113,113,113,1064598,742289189648093184,313775431,negative,other,2016-06-13T09:35:08.000Z,@Manish_05Singh @DanHannanMEP Didn't he not join the Euro? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-114,114,114,114,114,114,114,114,1223019,743743164972838912,18577886,positive,other,2016-06-17T09:52:43.000Z,"Retweeted Jaime Noain (@jaimenoain):
-
-#Brexit would be a greater deterrent for talented workers than for the unskilled ones. #leadnotleave","['leadnotleave', 'brexit']"
-115,115,115,115,115,115,115,115,969870,740656353895669760,8641742,positive,leave,2016-06-08T21:26:50.000Z,Great video by Gordon Brown. All #brexit voters should watch and think... #LeadNotLeave  https://t.co/dgVUahcZZi,"['leadnotleave', 'brexit']"
-116,116,116,116,116,116,116,116,1072144,742358475662086144,313775431,neutral,leave,2016-06-13T14:10:27.000Z,"@StLionHeart wouldn't use them if i were you, considering the UANSUR is modelled on the EU. #brexit #leadnotleave","['leadnotleave', 'brexit']"
-117,117,117,117,117,117,117,117,1064817,742291074861965312,313775431,negative,other,2016-06-13T09:42:38.000Z,@SteveD4848 @DouglasCarswell In what way has the Lisbon treaty been disastrous for the UK? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-118,118,118,118,118,118,118,118,910736,739493700338896896,3817211188,positive,other,2016-06-05T16:26:51.000Z,A powerful message to #leadnotleave in the #Brexit debate https://t.co/AESB5NpnXR,"['leadnotleave', 'brexit']"
-119,119,119,119,119,119,119,119,1072492,742362137427861504,313775431,neutral,other,2016-06-13T14:25:00.000Z,@StLionHeart you brought up Bazil. Look it up. #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-120,120,120,120,120,120,120,120,1070651,742342344662454272,313775431,neutral,remain,2016-06-13T13:06:21.000Z,@2commakid and what did it say on the side of the 'leave' bus? A lie or not? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-121,121,121,121,121,121,121,121,1074314,742379818646396928,313775431,neutral,remain,2016-06-13T15:35:16.000Z,"@StLionHeart i am just pounting out your arguments are not well thought out, based on the real world. #brexit #leadnotleave","['leadnotleave', 'brexit']"
-122,122,122,122,122,122,122,122,1020554,741515749802512384,2354848572,positive,remain,2016-06-11T06:21:46.000Z,Brexit: It's smarter to stay https://t.co/tuxK1jfDib via @SPIEGELONLINE #brexit #leadnotleave @CuriousRalph,"['leadnotleave', 'brexit']"
-123,123,123,123,123,123,123,123,910302,739484239863906304,185752335,positive,other,2016-06-05T15:49:16.000Z,"Gove, IDS, Bojo and Farage it's hard to think of 4 people who could less plausibly advocate for greater NHS funding #Brexit #leadnotleave","['leadnotleave', 'brexit']"
-124,124,124,124,124,124,124,124,969825,740655067393609728,20903947,positive,other,2016-06-08T21:21:43.000Z,@ctr246 @HBaldwinMP I'm sure there are some arguments for #Brexit but it's not the best option for Britain. We should #leadnotleave Europe.,"['leadnotleave', 'brexit']"
-125,125,125,125,125,125,125,125,1069662,742333184168341504,313775431,neutral,remain,2016-06-13T12:29:57.000Z,@StLionHeart @Vote_LeaveMedia How's getting the controlled non eu immigration down to 10's of thousands going? #brexit #leadnotleave,"['leadnotleave', 'brexit']"
-126,126,126,126,126,126,126,126,1115416,742790779563868160,123999903,positive,other,2016-06-14T18:48:16.000Z,"#Brexit #EUref does help Germans more than UK :)))according to this article https://t.co/4JyepynYh7 ThankYOU leavers 
-#leadnotleave #VoteIN","['leadnotleave', 'brexit', 'euref', 'votein']"
-127,127,127,127,127,127,127,127,896730,739069890599002112,26242418,positive,leave,2016-06-04T12:22:47.000Z,Great message by Gordon Brown! https://t.co/Kusz8Rktzs #leadnotleave #Brexit #EUreferendum,"['leadnotleave', 'brexit', 'eureferendum']"
-128,128,128,128,128,128,128,128,896957,739075812528427008,161415462,neutral,remain,2016-06-04T12:46:19.000Z,#leadnotleave and stay in the #europeanUnion says #gordonBrown https://t.co/tPPcFNQbeT #Brexit,"['leadnotleave', 'brexit', 'gordonbrown', 'europeanunion']"
-129,129,129,129,129,129,129,129,1186035,743381859061633024,38741262,positive,other,2016-06-16T09:57:01.000Z,Very powerful video message on #Brexit by Gordon Brown #leadnotleave #Remain  https://t.co/cldVFfcLMo,"['leadnotleave', 'brexit', 'remain']"
-130,130,130,130,130,130,130,130,1256002,744189213629947904,185752335,positive,other,2016-06-18T15:25:09.000Z,"Just voted for Britain to remain in the European Union, potentially the most important vote of my life! #leadnotleave #stay don't #Brexit","['leadnotleave', 'brexit', 'stay']"
-131,131,131,131,131,131,131,131,897024,739078232826368000,591741496,positive,other,2016-06-04T12:55:56.000Z,"Given emotional contortions of #Brexit brigade, nice to see positive moral case from #StrongerIn #leadnotleave https://t.co/mvuk2W74b1","['leadnotleave', 'brexit', 'strongerin']"
-132,132,132,132,132,132,132,132,1092165,742617679022948352,83409063,neutral,remain,2016-06-14T07:20:26.000Z,"The Sun ""newspaper"" dumbing down their readers politically for Murdoch's #Brexit agenda. #StrongerIn #leadnotleave","['leadnotleave', 'brexit', 'strongerin']"
-133,133,133,133,133,133,133,133,906975,739403247274823680,24358474,negative,remain,2016-06-05T10:27:26.000Z,"Sir John Major's anger at Leave campaign 'deceit' https://t.co/XBufGvjuIt
-#Brexit #strongerin #leadnotleave #EUref","['leadnotleave', 'brexit', 'strongerin', 'euref']"
-134,134,134,134,134,134,134,134,904669,739399521755639808,24358474,negative,remain,2016-06-05T10:12:38.000Z,"John Major: The Leave Campaign is a deceitful campaign
-
-#Brexit #strongerin #leadnotleave #EUref","['leadnotleave', 'brexit', 'strongerin', 'euref']"
-135,135,135,135,135,135,135,135,1153298,743135091258499072,66811109,negative,remain,2016-06-15T17:36:27.000Z,"The date may be wrong, but a border will be inevitable #Brexit #VoteRemain #StrongerIn #leadnotleave https://t.co/yFRrlxmLUT","['leadnotleave', 'brexit', 'strongerin', 'voteremain']"
-136,136,136,136,136,136,136,136,983170,740906106638217216,3238553917,positive,other,2016-06-09T13:59:15.000Z,#Brexit would be a step down the ladder of progress when the world requires a step up toward #unity #leadnotleave https://t.co/0Y7VWlJs61,"['leadnotleave', 'brexit', 'unity']"
-137,137,137,137,137,137,137,137,1104451,742700453130076160,389086205,negative,remain,2016-06-14T12:49:21.000Z,"Once again, our grandparents seem intent on fucking us over forever @TheSun #Brexit #leadnotleave #VoteRemain  🇬🇧🇪🇺 https://t.co/MoA39JNjhS","['leadnotleave', 'brexit', 'voteremain']"
-138,138,138,138,138,138,138,138,1181646,743359351474135040,22049802,neutral,remain,2016-06-16T08:27:34.000Z,Prepping to film Gordon Brown and John McDonnell today for the #leadnotleave campaign #Brexit #voteremain https://t.co/yRltS5wAYm,"['leadnotleave', 'brexit', 'voteremain']"
-139,139,139,139,139,139,139,139,894826,739021919257759744,218257543,neutral,other,2016-06-04T09:12:10.000Z,A timely reminder that Europe was a bloodbath for centuries before the #EU: https://t.co/DAkI6o3UJn #brexit #leadnotleave,"['leadnotleave', 'eu', 'brexit']"
-140,140,140,140,140,140,140,140,1398268,745307127233781760,572283696,negative,remain,2016-06-21T17:27:20.000Z,"#Glastonbury is IN!
-
-#VoteREMAIN on Thursday!
-
-#LeadNotLeave @StrongerIn Say NO to #Brexit #EUref https://t.co/UCYuIyWryv","['leadnotleave', 'euref', 'brexit', 'voteremain', 'glastonbury']"
-141,141,141,141,141,141,141,141,920631,739743870011990016,731409036810309632,neutral,other,2016-06-06T09:00:57.000Z,"#GordonBrown: we should #leadnotleave
+#LeaveEU #EURef #StrongerIn #LeadNotLeave #Brexit https://t.co/vvAhptjyHS","['leadnotleave', 'eureferendum', 'strongerin', 'brexit', 'euref', 'leaveeu']"
+84,84,84,712195,732955663773650944,731465935308128128,neutral,other,2016-05-18T15:27:02.000Z,"Over 3 Million EU citizens are currently living in the UK, all can remain after a Brexit. #BetterOffOut #VoteIn #LeadNotLeave #EUReferendum","['leadnotleave', 'eureferendum', 'votein', 'betteroffout']"
+85,85,85,896957,739075812528427008,161415462,neutral,remain,2016-06-04T12:46:19.000Z,#leadnotleave and stay in the #europeanUnion says #gordonBrown https://t.co/tPPcFNQbeT #Brexit,"['leadnotleave', 'europeanunion', 'brexit', 'gordonbrown']"
+86,86,86,1316570,744842190787051520,717830426727989248,positive,other,2016-06-20T10:39:51.000Z,"@BBCPropaganda @xbatasi 
+So #brexit to hand it all over to Germany🇩🇪 like a #Eurosausage on a plate? Not for me!
+#LeadNotLeave #Remain🇬🇧","['leadnotleave', 'eurosausage', 'brexit', 'remainð\x9f\x87¬ð\x9f\x87§']"
+87,87,87,920631,739743870011990016,731409036810309632,neutral,other,2016-06-06T09:00:57.000Z,"#GordonBrown: we should #leadnotleave
 https://t.co/3ORlpsrSJ7
-#Europe #Brexit @StrongerIn","['leadnotleave', 'europe', 'brexit', 'gordonbrown']"
-142,142,142,142,142,142,142,142,1570527,746060079439446016,1026030337,positive,remain,2016-06-23T19:19:18.000Z,Backed up in Bow - young people out in force #brexit #pollingday #leadnotleave https://t.co/zRJpWdcxaK,"['leadnotleave', 'pollingday', 'brexit']"
-143,143,143,143,143,143,143,143,1079164,742438007844802560,957089281,negative,remain,2016-06-13T19:26:29.000Z,This is fucking worryingly imminent now... #brexit #leadnotleave #remain  https://t.co/t63isD6udH,"['leadnotleave', 'remain', 'brexit']"
-144,144,144,144,144,144,144,144,902676,739328637795717120,223156951,negative,leave,2016-06-05T05:30:57.000Z,Brits don't quit &amp; walk away from a struggle - why start now? #quitingsiseasy #leadnotleave #remainin not #brexit https://t.co/Po3k56C1M3,"['leadnotleave', 'remainin', 'quitingsiseasy', 'brexit']"
-145,145,145,145,145,145,145,145,89520,700034538987196416,443374002,neutral,remain,2016-02-17T19:10:14.000Z,".@Eugoes my takeaway was the £20bn net economic contribution from EU immigrants: https://t.co/vTEmin91iJ
+#Europe #Brexit @StrongerIn","['leadnotleave', 'gordonbrown', 'europe', 'brexit']"
+88,88,88,727404,733611628361580544,720098948736790528,negative,leave,2016-05-20T10:53:36.000Z,TONY BLAIR WANTS YOU TO REMAIN #VoteLeave #LeaveEU #Remain #StrongerIn #EUref #politics #Brexit #leave #leadnotleave https://t.co/3SnVf7yRCS,"['leadnotleave', 'leave', 'strongerin', 'brexit', 'remain', 'euref', 'leaveeu', 'voteleave', 'politics']"
+89,89,89,727510,733614970013880320,720098948736790528,negative,remain,2016-05-20T11:06:53.000Z,THE WHOLE DAMNED EU IS BASED ON LIES. #VoteLeave #LeaveEU #Remain #StrongerIn #politics #Brexit #leave #leadnotleave https://t.co/xqHcgDNpsK,"['leadnotleave', 'leave', 'strongerin', 'brexit', 'remain', 'leaveeu', 'voteleave', 'politics']"
+90,90,90,727489,733614070260224000,720098948736790528,negative,leave,2016-05-20T11:03:18.000Z,"We Didn't Know Then, But This Time? #VoteLeave #LeaveEU #Remain #StrongerIn #politics #Brexit #leave #leadnotleave https://t.co/jN38mrZV0z","['leadnotleave', 'leave', 'strongerin', 'brexit', 'remain', 'leaveeu', 'voteleave', 'politics']"
+91,91,91,1570527,746060079439446016,1026030337,positive,remain,2016-06-23T19:19:18.000Z,Backed up in Bow - young people out in force #brexit #pollingday #leadnotleave https://t.co/zRJpWdcxaK,"['leadnotleave', 'pollingday', 'brexit']"
+92,92,92,1331201,744907326990262272,2479436480,neutral,remain,2016-06-20T14:58:41.000Z,EU mass immigration? Without the polish plumber the UK would be in deep water. #brexit #bremain #betterin #uk #referendum #leadnotleave,"['leadnotleave', 'referendum', 'brexit', 'betterin', 'bremain', 'uk']"
+93,93,93,1079164,742438007844802560,957089281,negative,remain,2016-06-13T19:26:29.000Z,This is fucking worryingly imminent now... #brexit #leadnotleave #remain  https://t.co/t63isD6udH,"['leadnotleave', 'remain', 'brexit']"
+94,94,94,1186035,743381859061633024,38741262,positive,other,2016-06-16T09:57:01.000Z,Very powerful video message on #Brexit by Gordon Brown #leadnotleave #Remain  https://t.co/cldVFfcLMo,"['leadnotleave', 'remain', 'brexit']"
+95,95,95,89520,700034538987196416,443374002,neutral,remain,2016-02-17T19:10:14.000Z,".@Eugoes my takeaway was the £20bn net economic contribution from EU immigrants: https://t.co/vTEmin91iJ
 
 #stayin 
 #Brexit 
 #leadnotleave","['leadnotleave', 'stayin', 'brexit']"
-146,146,146,146,146,146,146,146,1181213,743357050835460096,29994217,negative,remain,2016-06-16T08:18:26.000Z,There you go: three times the annual cost of EU membership lost in just one day because of #Brexit fears. #leadnotleave #stockmarket,"['leadnotleave', 'stockmarket', 'brexit']"
-147,147,147,147,147,147,147,147,1081859,742466725749329920,705430314915643392,neutral,other,2016-06-13T21:20:36.000Z,Perhaps the most charismatic intervention G. Brown had ever made.Excellent. #leadnotleave #EUref #StrongerIn #brexit https://t.co/f9NWpZX725,"['leadnotleave', 'strongerin', 'euref', 'brexit']"
-148,148,148,148,148,148,148,148,894769,739020610362343424,961920961,positive,remain,2016-06-04T09:06:58.000Z,"Gordon rests his case perfectly - worth watching: UK and EU, stronger together  https://t.co/Ro9HfQFOjz  #leadnotleave #voteremain #brexit","['leadnotleave', 'voteremain', 'brexit']"
-149,149,149,149,149,149,149,149,727404,733611628361580544,720098948736790528,negative,leave,2016-05-20T10:53:36.000Z,TONY BLAIR WANTS YOU TO REMAIN #VoteLeave #LeaveEU #Remain #StrongerIn #EUref #politics #Brexit #leave #leadnotleave https://t.co/3SnVf7yRCS,"['leave', 'voteleave', 'strongerin', 'remain', 'leadnotleave', 'politics', 'euref', 'leaveeu', 'brexit']"
-150,150,150,150,150,150,150,150,727489,733614070260224000,720098948736790528,negative,leave,2016-05-20T11:03:18.000Z,"We Didn't Know Then, But This Time? #VoteLeave #LeaveEU #Remain #StrongerIn #politics #Brexit #leave #leadnotleave https://t.co/jN38mrZV0z","['leave', 'voteleave', 'strongerin', 'remain', 'leadnotleave', 'politics', 'leaveeu', 'brexit']"
-151,151,151,151,151,151,151,151,727510,733614970013880320,720098948736790528,negative,remain,2016-05-20T11:06:53.000Z,THE WHOLE DAMNED EU IS BASED ON LIES. #VoteLeave #LeaveEU #Remain #StrongerIn #politics #Brexit #leave #leadnotleave https://t.co/xqHcgDNpsK,"['leave', 'voteleave', 'strongerin', 'remain', 'leadnotleave', 'politics', 'leaveeu', 'brexit']"
-152,152,152,152,152,152,152,152,955331,740413677606703104,223156951,positive,remain,2016-06-08T05:22:31.000Z,A visual metaphor for #euref #brexit = the unknown = disaster. #Remain = best way to weather the storm #leadnotleave https://t.co/Ueu5b1Gmiy,"['remain', 'euref', 'leadnotleave', 'brexit']"
-153,153,153,153,153,153,153,153,1316570,744842190787051520,717830426727989248,positive,other,2016-06-20T10:39:51.000Z,"@BBCPropaganda @xbatasi 
-So #brexit to hand it all over to Germany🇩🇪 like a #Eurosausage on a plate? Not for me!
-#LeadNotLeave #Remain🇬🇧","['remain🇬🇧', 'eurosausage', 'leadnotleave', 'brexit']"
-154,154,154,154,154,154,154,154,1025146,741573641356378112,3346451062,neutral,other,2016-06-11T10:11:48.000Z,"@DiligentTruth @alanmaddison20 @Labster73 And arch #neoliberals #BoJo &amp; #MoGo will deliver this post #Brexit ?
-#SayNoToBoGo
-#LeadNotLeave","['saynotobogo', 'bojo', 'mogo', 'leadnotleave', 'neoliberals', 'brexit']"
-155,155,155,155,155,155,155,155,1009107,741288022533124096,1888629146,positive,leave,2016-06-10T15:16:51.000Z,"Simple, effective and to the point. #Brexit would be a folly | Gordon Brown - #LeadNotLeave https://t.co/Cs0rJYtR7j  #EUref #strongerin","['strongerin', 'brexit', 'euref', 'leadnotleave']"
-156,156,156,156,156,156,156,156,1422797,745528765480996864,1608384800,negative,other,2016-06-22T08:08:03.000Z,Angry John Barnes phones from South Africa to tell us all he doesn't back Brexit https://t.co/P1lrN45ioy #LeadNotLeave #StrongerIn,"['strongerin', 'leadnotleave']"
-157,157,157,157,157,157,157,157,1566503,746047082855817216,36711363,positive,other,2016-06-23T18:27:40.000Z,Just four of many reasons I am very proud to #vote #remain today. #StrongerIn #LeadNotLeave #EUref #Brexit https://t.co/6XYmWl1gFM,"['strongerin', 'leadnotleave', 'vote', 'euref', 'brexit', 'remain']"
-158,158,158,158,158,158,158,158,1331201,744907326990262272,2479436480,neutral,remain,2016-06-20T14:58:41.000Z,EU mass immigration? Without the polish plumber the UK would be in deep water. #brexit #bremain #betterin #uk #referendum #leadnotleave,"['uk', 'brexit', 'leadnotleave', 'bremain', 'betterin', 'referendum']"
-159,159,159,159,159,159,159,159,59996,696613866109796352,3135565264,negative,leave,2016-02-08T08:37:42.000Z,"Those People in the #EuropeanUnion Dont care about Us
+96,96,96,1422797,745528765480996864,1608384800,negative,other,2016-06-22T08:08:03.000Z,Angry John Barnes phones from South Africa to tell us all he doesn't back Brexit https://t.co/P1lrN45ioy #LeadNotLeave #StrongerIn,"['leadnotleave', 'strongerin']"
+97,97,97,12557,687561860896395264,3039502624,positive,other,2016-01-14T09:08:16.000Z,"Seven options, none good. Still no idea what a vote for #Brexit actually means for the UK #LeadNotLeave #StrongerIn https://t.co/hZbkBhTeh1","['leadnotleave', 'strongerin', 'brexit']"
+98,98,98,1092165,742617679022948352,83409063,neutral,remain,2016-06-14T07:20:26.000Z,"The Sun ""newspaper"" dumbing down their readers politically for Murdoch's #Brexit agenda. #StrongerIn #leadnotleave","['leadnotleave', 'strongerin', 'brexit']"
+99,99,99,897024,739078232826368000,591741496,positive,other,2016-06-04T12:55:56.000Z,"Given emotional contortions of #Brexit brigade, nice to see positive moral case from #StrongerIn #leadnotleave https://t.co/mvuk2W74b1","['leadnotleave', 'strongerin', 'brexit']"
+100,100,100,44073,694589128416071680,3135565264,positive,other,2016-02-02T18:32:07.000Z,"PM's #EU package was ""hardly worth the wait..pathetic""
 
-#LeaveEU #EURef #StrongerIn #VoteLeave #LeadNotLeave #Brexit https://t.co/SjQmOAsqRQ","['voteleave', 'euref', 'europeanunion', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit']"
-160,160,160,160,160,160,160,160,65644,697353457204854784,3135565264,neutral,other,2016-02-10T09:36:35.000Z,"Im voting to #LeaveEU
+#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit #EUdeal https://t.co/eZ5jEFCJCs","['leadnotleave', 'strongerin', 'brexit', 'euref', 'eu', 'eudeal', 'leaveeu']"
+101,101,101,18255,689517237573656576,3135565264,neutral,leave,2016-01-19T18:38:14.000Z,"Britain is giving your money to #EU then to be told what to do ?
 
- #VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN
- #GrassrootsOut #remaininEU #BetterOffOut","['voteleave', 'euref', 'grassrootsout', 'remainineu', 'strongerin', 'leadnotleave', 'betteroffout', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-161,161,161,161,161,161,161,161,89005,700005497898975232,3135565264,neutral,leave,2016-02-17T17:14:50.000Z,"Dont be a sheep .... #VoteLeave 
+#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit https://t.co/kMtao9COcF","['leadnotleave', 'strongerin', 'brexit', 'euref', 'eu', 'leaveeu']"
+102,102,102,48877,695016762715291648,3135565264,positive,leave,2016-02-03T22:51:23.000Z,"`#Turkey are being given visa free access to #EU in Oct 2016 ?
 
-#EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal #GrassrootsOut https://t.co/bi9ia8cI2b","['voteleave', 'euref', 'grassrootsout', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'brexit']"
-162,162,162,162,162,162,162,162,270880,706024332825391104,3135565264,positive,leave,2016-03-05T07:51:32.000Z,"#Brexit is best for Britain
+#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit  https://t.co/tJ5cQtqo04","['leadnotleave', 'strongerin', 'brexit', 'euref', 'eu', 'leaveeu']"
+103,103,103,14587,688270888702205952,3135565264,neutral,leave,2016-01-16T08:05:41.000Z,"Just think what UK could do with all that money we send to #EU ?
 
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave
- #No2EU #UKinEU #LeaveEU #Marr https://t.co/DGyCdJ6h8c","['voteleave', 'euref', 'no2eu', 'marr', 'strongerin', 'stayineu', 'leadnotleave', 'ukineu', 'leaveeu', 'brexit']"
-163,163,163,163,163,163,163,163,51053,695313866721476608,3135565264,positive,leave,2016-02-04T18:31:58.000Z,"Another good reason Why I'm going to #VoteLeave
+#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit https://t.co/n1ir6w6FDl","['leadnotleave', 'strongerin', 'brexit', 'euref', 'eu', 'leaveeu']"
+104,104,104,43831,694585634250440704,3135565264,positive,other,2016-02-02T18:18:14.000Z,"I love my Country &amp; I'm not falling for this sham of an #EUdeal 
 
-#LeaveEU #EURef #StrongerIn #EUdeal #LeadNotLeave #Brexit #No2EU https://t.co/sctMWBIUZB","['voteleave', 'euref', 'no2eu', 'strongerin', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit']"
-164,164,164,164,164,164,164,164,67767,697699354879094784,3135565264,neutral,leave,2016-02-11T08:31:03.000Z,"It's Your Decision
+#LeaveEU #EURef #StrongerIn  #LeadNotLeave #Brexit https://t.co/5YfsW9job6","['leadnotleave', 'strongerin', 'brexit', 'euref', 'eudeal', 'leaveeu']"
+105,105,105,59996,696613866109796352,3135565264,negative,leave,2016-02-08T08:37:42.000Z,"Those People in the #EuropeanUnion Dont care about Us
+
+#LeaveEU #EURef #StrongerIn #VoteLeave #LeadNotLeave #Brexit https://t.co/SjQmOAsqRQ","['leadnotleave', 'strongerin', 'brexit', 'euref', 'europeanunion', 'leaveeu', 'voteleave']"
+106,106,106,86415,699861572672471040,3135565264,neutral,leave,2016-02-17T07:42:56.000Z,"Im voting to #LeaveEU
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal   https://t.co/7VadKE5F3a","['leadnotleave', 'strongerin', 'brexit', 'euref', 'stayineu', 'eudeal', 'leaveeu', 'voteleave']"
+107,107,107,48865,695015671219019776,3135565264,neutral,other,2016-02-03T22:47:03.000Z,"The UK is being taken for a ride ,thats why Im voting to #LeaveEU
+
+#EURef #StrongerIn #LeadNotLeave #Brexit #VoteIN https://t.co/6dIWZOhMKO","['leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+108,108,108,50966,695302094530674688,3135565264,positive,leave,2016-02-04T17:45:12.000Z,"should be good ...
+
+#NigelFarage is on #bbcqt tonight 
+
+#LeaveEU #EURef #StrongerIn #EUdeal #LeadNotLeave #Brexit https://t.co/PE5yc0u0UF","['leadnotleave', 'strongerin', 'brexit', 'nigelfarage', 'euref', 'eudeal', 'bbcqt', 'leaveeu']"
+109,109,109,51053,695313866721476608,3135565264,positive,leave,2016-02-04T18:31:58.000Z,"Another good reason Why I'm going to #VoteLeave
+
+#LeaveEU #EURef #StrongerIn #EUdeal #LeadNotLeave #Brexit #No2EU https://t.co/sctMWBIUZB","['leadnotleave', 'strongerin', 'brexit', 'no2eu', 'euref', 'eudeal', 'leaveeu', 'voteleave']"
+110,110,110,67767,697699354879094784,3135565264,neutral,leave,2016-02-11T08:31:03.000Z,"It's Your Decision
 
 Democracy V Dictatorship ? 
 
-#LeaveEU #EURef #StrongerIn #VoteLeave #LeadNotLeave #Brexit #No2EU https://t.co/uDY8XQzElK","['voteleave', 'euref', 'no2eu', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit']"
-165,165,165,165,165,165,165,165,11032,687011447365365760,3135565264,neutral,leave,2016-01-12T20:41:07.000Z,"Im voting to #LeaveEU 
+#LeaveEU #EURef #StrongerIn #VoteLeave #LeadNotLeave #Brexit #No2EU https://t.co/uDY8XQzElK","['leadnotleave', 'strongerin', 'brexit', 'no2eu', 'euref', 'leaveeu', 'voteleave']"
+111,111,111,73122,698542053932822528,3135565264,neutral,remain,2016-02-13T16:19:38.000Z,"the end of #Schengen is the end of the #EU ..!
 
-what about you..?
+#EU RIP
 
-#EURef #VoteLeave #No2EU #StrongerIn #VoteREMAIN #LeadNotLeave #Brexit https://t.co/G5ySvN85ig","['voteleave', 'euref', 'no2eu', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'voteremain']"
-166,166,166,166,166,166,166,166,4793,684888812833640448,3135565264,neutral,other,2016-01-07T00:06:32.000Z,"lets head for the #Brexit's 
+#LeaveEU #EURef #StrongerIn #LeadNotLeave #Brexit #No2EU https://t.co/TbHjjGnDXx","['leadnotleave', 'strongerin', 'brexit', 'no2eu', 'schengen', 'euref', 'eu', 'leaveeu']"
+112,112,112,1153298,743135091258499072,66811109,negative,remain,2016-06-15T17:36:27.000Z,"The date may be wrong, but a border will be inevitable #Brexit #VoteRemain #StrongerIn #leadnotleave https://t.co/yFRrlxmLUT","['leadnotleave', 'strongerin', 'brexit', 'voteremain']"
+113,113,113,904669,739399521755639808,24358474,negative,remain,2016-06-05T10:12:38.000Z,"John Major: The Leave Campaign is a deceitful campaign
+
+#Brexit #strongerin #leadnotleave #EUref","['leadnotleave', 'strongerin', 'euref', 'brexit']"
+114,114,114,906975,739403247274823680,24358474,negative,remain,2016-06-05T10:27:26.000Z,"Sir John Major's anger at Leave campaign 'deceit' https://t.co/XBufGvjuIt
+#Brexit #strongerin #leadnotleave #EUref","['leadnotleave', 'strongerin', 'euref', 'brexit']"
+115,115,115,98570,700467255809708032,3135565264,neutral,leave,2016-02-18T23:49:42.000Z,"Out of the #EU &amp; into the World
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal #bbcqt https://t.co/HRJuRP97jh","['leadnotleave', 'strongerin', 'euref', 'stayineu', 'eu', 'eudeal', 'bbcqt', 'brexit', 'voteleave']"
+116,116,116,98569,700466665889275904,3135565264,neutral,leave,2016-02-18T23:47:21.000Z,"@UKRaider164 @jez009 
+we are paying for this &amp; the #EU 
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal #bbcqt","['leadnotleave', 'strongerin', 'euref', 'stayineu', 'eu', 'eudeal', 'bbcqt', 'brexit', 'voteleave']"
+117,117,117,101105,700595714041077760,3135565264,neutral,other,2016-02-19T08:20:09.000Z,"What Has The #EU Ever Done For Us?
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  
+ https://t.co/2jIsxEMxvS","['leadnotleave', 'strongerin', 'euref', 'stayineu', 'eu', 'eudeal', 'brexit', 'voteleave']"
+118,118,118,89017,700006050536296448,3135565264,negative,leave,2016-02-17T17:17:02.000Z,"You cant support #TTIP &amp; the #EU 
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal   https://t.co/EOvOaY2uil","['leadnotleave', 'strongerin', 'euref', 'stayineu', 'eu', 'eudeal', 'ttip', 'brexit', 'voteleave']"
+119,119,119,96805,700384920322117632,3135565264,positive,other,2016-02-18T18:22:32.000Z,"Tell us a joke ""DAVE"" as the only joke i see is YOU..!
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal","['leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+120,120,120,91856,700231231749931008,3135565264,neutral,other,2016-02-18T08:11:49.000Z,"More scaremongering by Goldman Sachs...!!
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  https://t.co/XA7W1m0256","['leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+121,121,121,85086,699672436653039616,3135565264,positive,leave,2016-02-16T19:11:22.000Z,"Another good reason to #VoteLeave
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal https://t.co/mR5yI3NHqG","['leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+122,122,122,89470,700031090749218816,3135565264,neutral,leave,2016-02-17T18:56:32.000Z,"Don't be a sheep 
+
+#VoteLeave in #EURef 
+
+#VoteLeave #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal https://t.co/NphUQdYNdW","['leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+123,123,123,89005,700005497898975232,3135565264,neutral,leave,2016-02-17T17:14:50.000Z,"Dont be a sheep .... #VoteLeave 
+
+#EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal #GrassrootsOut https://t.co/bi9ia8cI2b","['leadnotleave', 'strongerin', 'grassrootsout', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+124,124,124,1077674,742419691885494272,501732841,negative,remain,2016-06-13T18:13:42.000Z,EUrope is a community and not a marketplace! The #UK should #leadnotleave and  #Bremain - no to #Brexit  https://t.co/UIwTtK9cHG,"['leadnotleave', 'uk', 'bremain', 'brexit']"
+125,125,125,1115416,742790779563868160,123999903,positive,other,2016-06-14T18:48:16.000Z,"#Brexit #EUref does help Germans more than UK :)))according to this article https://t.co/4JyepynYh7 ThankYOU leavers 
+#leadnotleave #VoteIN","['leadnotleave', 'votein', 'euref', 'brexit']"
+126,126,126,7343,685791584823193600,3135565264,neutral,leave,2016-01-09T11:53:49.000Z,"Reasons to #LeaveEU
+
+#EURef  #VoteLeave #Brexit #StrongerIn #VoteREMAIN 
+ #remaininEU #LeadNotLeave #BetterOffOut https://t.co/2UxE5Hx4T2","['leaveeu', 'betteroffout', 'voteremain', 'leadnotleave', 'strongerin', 'euref', 'remainineu', 'brexit', 'voteleave']"
+127,127,127,89451,700029553113239552,3135565264,negative,leave,2016-02-17T18:50:26.000Z,"UK have nothing to fear from #Brexit
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave  #EUdeal #LeaveEU https://t.co/B2bMVpWFrI","['leaveeu', 'leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+128,128,128,85123,699676164428820480,3135565264,neutral,leave,2016-02-16T19:26:11.000Z,"so much for the #EUdeal ?
+
+ #VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #LeaveEU https://t.co/9ojamNTHPz","['leaveeu', 'leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+129,129,129,270880,706024332825391104,3135565264,positive,leave,2016-03-05T07:51:32.000Z,"#Brexit is best for Britain
+
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave
+ #No2EU #UKinEU #LeaveEU #Marr https://t.co/DGyCdJ6h8c","['leaveeu', 'ukineu', 'leadnotleave', 'strongerin', 'no2eu', 'euref', 'stayineu', 'marr', 'brexit', 'voteleave']"
+130,130,130,902676,739328637795717120,223156951,negative,leave,2016-06-05T05:30:57.000Z,Brits don't quit &amp; walk away from a struggle - why start now? #quitingsiseasy #leadnotleave #remainin not #brexit https://t.co/Po3k56C1M3,"['quitingsiseasy', 'brexit', 'leadnotleave', 'remainin']"
+131,131,131,1315310,744837197455564800,717830426727989248,positive,other,2016-06-20T10:20:00.000Z,"#Remain to Reform, not #Brexit isolation. Positive case to #LeadNotLeave overwhelmingly in UKs best interest. https://t.co/JResFqLbGZ","['remain', 'leadnotleave', 'brexit']"
+132,132,132,1181213,743357050835460096,29994217,negative,remain,2016-06-16T08:18:26.000Z,There you go: three times the annual cost of EU membership lost in just one day because of #Brexit fears. #leadnotleave #stockmarket,"['stockmarket', 'leadnotleave', 'brexit']"
+133,133,133,1009107,741288022533124096,1888629146,positive,leave,2016-06-10T15:16:51.000Z,"Simple, effective and to the point. #Brexit would be a folly | Gordon Brown - #LeadNotLeave https://t.co/Cs0rJYtR7j  #EUref #strongerin","['strongerin', 'leadnotleave', 'euref', 'brexit']"
+134,134,134,11074,687030735883087872,3135565264,neutral,leave,2016-01-12T21:57:46.000Z,"Im voting to #LeaveEU
+
+#BetterOffOut #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/ETeHZDBQ2I","['strongerout', 'betteroffout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu']"
+135,135,135,23863,690798835703136256,3135565264,neutral,other,2016-01-23T07:30:51.000Z,"Britain is #BetterOffOut
+
+ #LeaveEU #EURef #StrongerIn #StrongerOut
+#Brexit #EUreferendum #VoteIN  #LeadNotLeave 
+
+https://t.co/w7KQHHcD7o","['strongerout', 'betteroffout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'eureferendum', 'leaveeu']"
+136,136,136,59959,696612401500782592,3135565264,neutral,other,2016-02-08T08:31:53.000Z,"Who runs OUR Country ?
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN #BetterOffOut https://t.co/oRLbOvwxF9","['strongerout', 'betteroffout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+137,137,137,65644,697353457204854784,3135565264,neutral,other,2016-02-10T09:36:35.000Z,"Im voting to #LeaveEU
+
+ #VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN
+ #GrassrootsOut #remaininEU #BetterOffOut","['strongerout', 'betteroffout', 'leadnotleave', 'strongerin', 'brexit', 'grassrootsout', 'euref', 'votein', 'remainineu', 'leaveeu', 'voteleave']"
+138,138,138,16490,688885832162365440,3135565264,positive,leave,2016-01-18T00:49:15.000Z,"if you want #democracy you need to #VoteLeave
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/iq9NnorB66","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'democracy', 'leaveeu', 'voteleave']"
+139,139,139,14568,688259996241399808,3135565264,negative,remain,2016-01-16T07:22:25.000Z,"do you want to live in a failed #EU State ?
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/RhDaCxBW8A","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'eu', 'votein', 'leaveeu']"
+140,140,140,44170,694599009059639296,3135565264,neutral,leave,2016-02-02T19:11:23.000Z,"Im voting to #LeaveEU ....
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #EUdeal  https://t.co/BsoF7Bp7iG","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'eudeal', 'leaveeu']"
+141,141,141,85018,699667455132725248,3135565264,positive,leave,2016-02-16T18:51:35.000Z,"More support for UK to #LeaveEU
+
+#VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #EUdeal https://t.co/qeaAz89wkw","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'eudeal', 'leaveeu', 'voteleave']"
+142,142,142,67789,697701397727465472,3135565264,neutral,leave,2016-02-11T08:39:10.000Z,"Another reason Im voting to #LeaveEU
+
+#voteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #EUdeal https://t.co/BTUkKzSK59","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'eudeal', 'voteleave', 'leaveeu']"
+143,143,143,80627,699333675645804544,3135565264,neutral,leave,2016-02-15T20:45:15.000Z,"I'm not listening to our PM &amp; I'm voting to #LeaveEU
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/qpktqFAsVt","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu']"
+144,144,144,15118,688504042247553024,3135565264,neutral,remain,2016-01-16T23:32:10.000Z,"Im voting to #LeaveEU
+
+So I can get back my British Passport 
+
+#EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/ipMj3OKdy4","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu']"
+145,145,145,61523,696711695599869952,3135565264,neutral,leave,2016-02-08T15:06:27.000Z,"It's Your Decision
+
+Democracy V Dictatorship ?
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/rxrGfCpY3F","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu']"
+146,146,146,33583,692865632308625408,3135565264,neutral,remain,2016-01-29T00:23:34.000Z,"Are the British public really gonna fall for this ?
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit
+ https://t.co/IYVefZkGVs","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu']"
+147,147,147,16484,688873673781022720,3135565264,positive,other,2016-01-18T00:00:57.000Z,"will the last person out please turn off the light.
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit
+ https://t.co/tdgHWaOty7","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu']"
+148,148,148,51079,695317114303967232,3135565264,negative,other,2016-02-04T18:44:53.000Z,"You might not like the truth but it must be told
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/252C8F3lrv","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu']"
+149,149,149,11011,687004808797110272,3135565264,positive,leave,2016-01-12T20:14:45.000Z,"Another good reason Why I'm going to #VoteLeave
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/nlTMHdcqcF","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu', 'voteleave']"
+150,150,150,74845,698838891491672064,3135565264,positive,leave,2016-02-14T11:59:10.000Z,"Another good reason Why I'm going to #VoteLeave
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/QgvpuQsXZB","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu', 'voteleave']"
+151,151,151,80679,699337285142183936,3135565264,positive,leave,2016-02-15T20:59:36.000Z,"Reasons to #LeaveEU
+
+We want our Fish back !
+
+#VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/EiHEkodQMz","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'leaveeu', 'voteleave']"
+152,152,152,35605,693212348505571328,3135565264,neutral,other,2016-01-29T23:21:17.000Z,"Clutching at Straws..!!! 
+
+#battlingbrexit #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN  https://t.co/CzLC8fyJWk","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'battlingbrexit', 'leaveeu']"
+153,153,153,12166,687389633131507712,3135565264,neutral,other,2016-01-13T21:43:54.000Z,"@Cllrporter @Arron_banks 
+
+#Brussels (#EU) is the thorn in our side
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'brussels', 'leaveeu']"
+154,154,154,75037,698854580419960832,3135565264,neutral,remain,2016-02-14T13:01:30.000Z,"the #EuropeanUnion RIP
+
+ #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/bOMoXRWJVI","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'europeanunion', 'leaveeu']"
+155,155,155,14559,688257126616059904,3135565264,neutral,other,2016-01-16T07:11:00.000Z,"Im voting to #LeaveEU
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/cGKBdI0HgA","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+156,156,156,71940,698280408635547648,3135565264,neutral,other,2016-02-12T22:59:57.000Z,"Reasons to #LeaveEU
+
+this is just not fair
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/pXDFmB0MYu","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+157,157,157,37282,693826445341237248,3135565264,positive,other,2016-01-31T16:01:29.000Z,"I want OUT ..!!
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/SIw9AThIic","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+158,158,158,81936,699490765416824832,3135565264,positive,other,2016-02-16T07:09:29.000Z,"Last chance to save our country ........
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/w8dHnLCEd5","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+159,159,159,75575,698922374037696512,3135565264,neutral,other,2016-02-14T17:30:53.000Z,"Im voting to #LeaveEU
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN
+ https://t.co/duYc0mhTXl","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+160,160,160,73434,698614702633525248,3135565264,negative,other,2016-02-13T21:08:19.000Z,"Ever get the feeling youve been cheated ?
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/K5SAuFw4f0","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+161,161,161,15763,688691020192727040,3135565264,neutral,other,2016-01-17T11:55:09.000Z,"Im voting to #LeaveEU
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/ED9jTZ9GLJ","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+162,162,162,75690,698936851504177152,3135565264,positive,other,2016-02-14T18:28:25.000Z,"Who Do You want in charge of your Country ?
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/QDxphFK55F","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+163,163,163,28246,691787651087736832,3135565264,positive,other,2016-01-26T01:00:03.000Z,"Who do you want running your Country ?
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/h1KftiblPE","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+164,164,164,23859,690797721100353536,3135565264,neutral,other,2016-01-23T07:26:25.000Z,"Reasons to #LeaveEU
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/8MxSmrIQgy","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+165,165,165,65441,697330360435216384,3135565264,positive,other,2016-02-10T08:04:48.000Z,"Time for an amicable divorce 
+
+Time for #Brexit
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #VoteIN https://t.co/w2XSRuCnaj","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+166,166,166,65469,697332284169576448,3135565264,positive,other,2016-02-10T08:12:27.000Z,"Who do you want running your country ?
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/HBdwIkf1Vg","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu']"
+167,167,167,15765,688691271590895616,3135565264,neutral,leave,2016-01-17T11:56:09.000Z,"Im voting to #LeaveEU
+
+#VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/qxu4EyRcGh","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu', 'voteleave']"
+168,168,168,73240,698562556047265792,3135565264,neutral,leave,2016-02-13T17:41:06.000Z,"Reasons to #LeaveEU
+
+#VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/lb0utAKzUD","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'leaveeu', 'voteleave']"
+169,169,169,36793,693724473837633536,3135565264,positive,other,2016-01-31T09:16:17.000Z,"Who do you want running your Country ?
+
+#Marr #LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/RRSIZW4XCr","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'marr', 'leaveeu']"
+170,170,170,63166,696964622444851200,3135565264,neutral,other,2016-02-09T07:51:29.000Z,"If UK #remaininEU this will be Our Leader ?
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/4OA9PKK7wE","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'remainineu', 'leaveeu']"
+171,171,171,14565,688259074555691008,3135565264,neutral,leave,2016-01-16T07:18:45.000Z,"Its Your Choice
+#LeaveEU or #remaininEU ?
+
+#EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN #VoteLeave  https://t.co/J5DRIIGUCf","['strongerout', 'leadnotleave', 'strongerin', 'brexit', 'euref', 'votein', 'remainineu', 'leaveeu', 'voteleave']"
+172,172,172,18263,689521498000859136,3135565264,negative,remain,2016-01-19T18:55:10.000Z,"thanks #EU for destroying our fishing industry
+
+ #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/NHiYck9nke","['strongerout', 'leadnotleave', 'strongerin', 'euref', 'eu', 'votein', 'brexit']"
+173,173,173,14609,688284386945400832,3135565264,neutral,other,2016-01-16T08:59:20.000Z,"When I see these two I remember #Merkel &amp; #Junker 
+
+#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/ZSnj4tLzAb","['strongerout', 'merkel', 'leadnotleave', 'strongerin', 'brexit', 'junker', 'euref', 'leaveeu']"
+174,174,174,4793,684888812833640448,3135565264,neutral,other,2016-01-07T00:06:32.000Z,"lets head for the #Brexit's 
 
 #VoteLeave
 #EURef
@@ -361,89 +398,52 @@ what about you..?
 #StrongerOut
 #LeadNotLeave
 #VoteREMAIN
-#No2EU https://t.co/zIjn6Kb9BS","['voteleave', 'euref', 'no2eu', 'strongerin', 'leadnotleave', 'leaveeu', ""brexit's"", 'voteremain', 'strongerout']"
-167,167,167,167,167,167,167,167,7343,685791584823193600,3135565264,neutral,leave,2016-01-09T11:53:49.000Z,"Reasons to #LeaveEU
+#No2EU https://t.co/zIjn6Kb9BS","['strongerout', 'voteremain', 'leadnotleave', 'strongerin', 'no2eu', 'euref', ""brexit's"", 'leaveeu', 'voteleave']"
+175,175,175,1366229,745166948841885696,701368740110319616,positive,leave,2016-06-21T08:10:19.000Z,#Brexit means #TakeControl of our own poverty. We should keep control of our prosperity &amp; #LeadNotLeave . That's why we're #StrongerIn,"['takecontrol', 'leadnotleave', 'strongerin', 'brexit']"
+176,176,176,270912,706025715884544000,3135565264,positive,leave,2016-03-05T07:57:02.000Z,"Do you want to be in the #EU with #Turkey ?
 
-#EURef  #VoteLeave #Brexit #StrongerIn #VoteREMAIN 
- #remaininEU #LeadNotLeave #BetterOffOut https://t.co/2UxE5Hx4T2","['voteleave', 'euref', 'remainineu', 'strongerin', 'leadnotleave', 'betteroffout', 'leaveeu', 'brexit', 'voteremain']"
-168,168,168,168,168,168,168,168,14565,688259074555691008,3135565264,neutral,leave,2016-01-16T07:18:45.000Z,"Its Your Choice
-#LeaveEU or #remaininEU ?
+ #VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #UKinEU https://t.co/QPsYLiQmnS","['turkey', 'ukineu', 'leadnotleave', 'strongerin', 'euref', 'stayineu', 'eu', 'brexit', 'voteleave']"
+177,177,177,893745,738998419046404096,38494177,positive,remain,2016-06-04T07:38:47.000Z,"Gordon Brown: Lead, not Leave #UK #LeadnotLeave #Brexit https://t.co/L5TXtOxqye","['uk', 'leadnotleave', 'brexit']"
+178,178,178,1508444,745872662350692352,2198221374,positive,other,2016-06-23T06:54:35.000Z,"#UK please, don't fuck up everything. 
+#Brexit #LeadNotLeave #RemainINEU","['uk', 'leadnotleave', 'brexit', 'remainineu']"
+179,179,179,270975,706027801225388032,3135565264,neutral,other,2016-03-05T08:05:19.000Z,"the #EU ?   NEXT please......
 
-#EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN #VoteLeave  https://t.co/J5DRIIGUCf","['voteleave', 'euref', 'remainineu', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-169,169,169,169,169,169,169,169,86415,699861572672471040,3135565264,neutral,leave,2016-02-17T07:42:56.000Z,"Im voting to #LeaveEU
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #UKinEU https://t.co/5btf0e597q","['ukineu', 'leadnotleave', 'strongerin', 'euref', 'stayineu', 'eu', 'brexit', 'voteleave']"
+180,180,180,114600,700865755588329472,3135565264,neutral,leave,2016-02-20T02:13:12.000Z,"The real news in the #EU
 
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal   https://t.co/7VadKE5F3a","['voteleave', 'euref', 'stayineu', 'strongerin', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit']"
-170,170,170,170,170,170,170,170,85018,699667455132725248,3135565264,positive,leave,2016-02-16T18:51:35.000Z,"More support for UK to #LeaveEU
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/3GZLMSAf52","['ukineu', 'leadnotleave', 'strongerin', 'euref', 'stayineu', 'eu', 'eudeal', 'brexit', 'voteleave']"
+181,181,181,113922,700836835392516096,3135565264,neutral,other,2016-02-20T00:18:17.000Z,"Its a fix &amp; we all know it.. 
 
-#VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #EUdeal https://t.co/qeaAz89wkw","['voteleave', 'euref', 'strongerin', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit', 'strongerout']"
-171,171,171,171,171,171,171,171,74845,698838891491672064,3135565264,positive,leave,2016-02-14T11:59:10.000Z,"Another good reason Why I'm going to #VoteLeave
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/29u0PcmfjL","['ukineu', 'leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+182,182,182,112854,700815950040313856,3135565264,positive,leave,2016-02-19T22:55:17.000Z,"Another good reason Why I'm going to #VoteLeave
 
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/QgvpuQsXZB","['voteleave', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-172,172,172,172,172,172,172,172,11011,687004808797110272,3135565264,positive,leave,2016-01-12T20:14:45.000Z,"Another good reason Why I'm going to #VoteLeave
+#EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/oOZcO65qa7","['ukineu', 'leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+183,183,183,113547,700827327006003200,3135565264,positive,other,2016-02-19T23:40:30.000Z,"Lie Lie Lie ..its all one big Lie...
 
-#LeaveEU #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit https://t.co/nlTMHdcqcF","['voteleave', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-173,173,173,173,173,173,173,173,80679,699337285142183936,3135565264,positive,leave,2016-02-15T20:59:36.000Z,"Reasons to #LeaveEU
-
-We want our Fish back !
-
-#VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit  https://t.co/EiHEkodQMz","['voteleave', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout']"
-174,174,174,174,174,174,174,174,15765,688691271590895616,3135565264,neutral,leave,2016-01-17T11:56:09.000Z,"Im voting to #LeaveEU
-
-#VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/qxu4EyRcGh","['voteleave', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-175,175,175,175,175,175,175,175,73240,698562556047265792,3135565264,neutral,leave,2016-02-13T17:41:06.000Z,"Reasons to #LeaveEU
-
-#VoteLeave #EURef #StrongerIn #StrongerOut #LeadNotLeave #Brexit #VoteIN https://t.co/lb0utAKzUD","['voteleave', 'euref', 'strongerin', 'leadnotleave', 'leaveeu', 'brexit', 'strongerout', 'votein']"
-176,176,176,176,176,176,176,176,90432,700125938072363008,3135565264,positive,leave,2016-02-18T01:13:26.000Z,"Germany would be #BetterOffOut just like UK
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal https://t.co/rI0gwH1xdQ","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'betteroffout', 'brexit']"
-177,177,177,177,177,177,177,177,85086,699672436653039616,3135565264,positive,leave,2016-02-16T19:11:22.000Z,"Another good reason to #VoteLeave
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal https://t.co/mR5yI3NHqG","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'brexit']"
-178,178,178,178,178,178,178,178,89470,700031090749218816,3135565264,neutral,leave,2016-02-17T18:56:32.000Z,"Don't be a sheep 
-
-#VoteLeave in #EURef 
-
-#VoteLeave #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal https://t.co/NphUQdYNdW","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'brexit']"
-179,179,179,179,179,179,179,179,96805,700384920322117632,3135565264,positive,other,2016-02-18T18:22:32.000Z,"Tell us a joke ""DAVE"" as the only joke i see is YOU..!
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'brexit']"
-180,180,180,180,180,180,180,180,91856,700231231749931008,3135565264,neutral,other,2016-02-18T08:11:49.000Z,"More scaremongering by Goldman Sachs...!!
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  https://t.co/XA7W1m0256","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'brexit']"
-181,181,181,181,181,181,181,181,85123,699676164428820480,3135565264,neutral,leave,2016-02-16T19:26:11.000Z,"so much for the #EUdeal ?
-
- #VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #LeaveEU https://t.co/9ojamNTHPz","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit']"
-182,182,182,182,182,182,182,182,89451,700029553113239552,3135565264,negative,leave,2016-02-17T18:50:26.000Z,"UK have nothing to fear from #Brexit
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave  #EUdeal #LeaveEU https://t.co/B2bMVpWFrI","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'eudeal', 'leaveeu', 'brexit']"
-183,183,183,183,183,183,183,183,113922,700836835392516096,3135565264,neutral,other,2016-02-20T00:18:17.000Z,"Its a fix &amp; we all know it.. 
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/29u0PcmfjL","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'ukineu', 'eudeal', 'brexit']"
-184,184,184,184,184,184,184,184,112854,700815950040313856,3135565264,positive,leave,2016-02-19T22:55:17.000Z,"Another good reason Why I'm going to #VoteLeave
-
-#EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/oOZcO65qa7","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'ukineu', 'eudeal', 'brexit']"
-185,185,185,185,185,185,185,185,113547,700827327006003200,3135565264,positive,other,2016-02-19T23:40:30.000Z,"Lie Lie Lie ..its all one big Lie...
-
-#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/ipMRLn95Hj","['voteleave', 'euref', 'strongerin', 'stayineu', 'leadnotleave', 'ukineu', 'eudeal', 'brexit']"
-186,186,186,186,186,186,186,186,166201,701875274682671104,3135565264,negative,leave,2016-02-22T21:04:40.000Z,"Britain must say no to #TTIP
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/ipMRLn95Hj","['ukineu', 'leadnotleave', 'strongerin', 'euref', 'stayineu', 'eudeal', 'brexit', 'voteleave']"
+184,184,184,166201,701875274682671104,3135565264,negative,leave,2016-02-22T21:04:40.000Z,"Britain must say no to #TTIP
 
 #VoteLeave #EUReferendum #StrongerIn #StayinEU
- #LeadNotLeave #Brexit #UKinEU #No2EU https://t.co/gYPpHquxLP","['voteleave', 'no2eu', 'strongerin', 'stayineu', 'leadnotleave', 'ukineu', 'eureferendum', 'ttip', 'brexit']"
-187,187,187,187,187,187,187,187,779513,735403659723452416,720884762,neutral,remain,2016-05-25T09:34:30.000Z,"#Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
+ #LeadNotLeave #Brexit #UKinEU #No2EU https://t.co/gYPpHquxLP","['ukineu', 'leadnotleave', 'strongerin', 'eureferendum', 'no2eu', 'stayineu', 'ttip', 'brexit', 'voteleave']"
+185,185,185,118868,700985833957040128,3135565264,neutral,leave,2016-02-20T10:10:21.000Z,"#ImOUT what about you.. 
 
-https://t.co/Q6jGOdDQPT - Thoughts?","['voteremain', 'ukineu', 'betteroffin', 'votein', 'strongerin', 'yestoeu', 'leadnotleave', 'bremain', 'brexit', 'yes2eu']"
-188,188,188,188,188,188,188,188,864257,738280364494442496,720884762,neutral,remain,2016-06-02T08:05:30.000Z,"My view on #Brexit #yes2eu #yestoeu #betteroffin, #votein, #ukineu #bremain #strongerin #leadnotleave #voteremain 
+#VoteLeave #EURef #StrongerIn #StayinEU #LeadNotLeave #Brexit #EUdeal  #UKinEU https://t.co/HyJZk9YXis","['ukineu', 'leadnotleave', 'strongerin', 'imout', 'stayineu', 'euref', 'eudeal', 'brexit', 'voteleave']"
+186,186,186,983170,740906106638217216,3238553917,positive,other,2016-06-09T13:59:15.000Z,#Brexit would be a step down the ladder of progress when the world requires a step up toward #unity #leadnotleave https://t.co/0Y7VWlJs61,"['unity', 'brexit', 'leadnotleave']"
+187,187,187,1566503,746047082855817216,36711363,positive,other,2016-06-23T18:27:40.000Z,Just four of many reasons I am very proud to #vote #remain today. #StrongerIn #LeadNotLeave #EUref #Brexit https://t.co/6XYmWl1gFM,"['vote', 'remain', 'leadnotleave', 'strongerin', 'euref', 'brexit']"
+188,188,188,11032,687011447365365760,3135565264,neutral,leave,2016-01-12T20:41:07.000Z,"Im voting to #LeaveEU 
 
-https://t.co/cMT5l82x0a","['voteremain', 'ukineu', 'betteroffin', 'votein', 'strongerin', 'yestoeu', 'leadnotleave', 'bremain', 'brexit', 'yes2eu']"
-189,189,189,189,189,189,189,189,2376955,776469853876150272,499651865,neutral,leave,2016-09-15T17:16:53.000Z,Democracy Accountability Soovereignty...does anyone rember any more buzz words? #LeadNotLeave #Brexit #LeaveLies https://t.co/WwCxA3MPk0,"['brexit', 'leavelies', 'leadnotleave']"
-190,190,190,190,190,190,190,190,2191828,771334967108526080,2281361466,positive,remain,2016-09-01T13:12:41.000Z,"Just so funny, and so spot on #Brexit #LeadNotLeave #Remain 😂 https://t.co/d9ELN0rAkX","['remain', 'brexit', 'leadnotleave']"
-191,191,191,191,191,191,191,191,664781,795248336873910272,199452338,negative,remain,2016-11-06T12:55:53.000Z,"When #NigelFarage admits #Brexit is not binding, just advisory.
-#BetterTogether #Yes2EU #UKinEU #Bremain #StrongerIn #LeadNotLeave https://t.co/sS2qe94KKs","['bremain', 'bettertogether', 'nigelfarage', 'strongerin', 'ukineu', 'leadnotleave', 'yes2eu', 'brexit']"
-192,192,192,192,192,192,192,192,387392,789561547983036416,3402643253,positive,other,2016-10-21T20:18:37.000Z,"""Fair Movement is Fair Movement""; is like ""Brexit means Brexit"". Take a chance, show some guts. #leadnotleave https://t.co/NizZPWDUNR",['leadnotleave']
-193,193,193,193,193,193,193,193,897129,845620501749882880,32349201,neutral,remain,2017-03-25T12:56:53.000Z,Brexit protest: thousands march in London to 'unite for Europe' - live #UniteForEurope #LeadNotLeave https://t.co/kD2PEl8QNP,"['uniteforeurope', 'leadnotleave']"
-194,194,194,194,194,194,194,194,1067151,916057022130294784,17960088,negative,remain,2017-10-05T21:46:28.000Z,@MichelBarnier @SwedishPM @AnnLinde The suspense is killing me.  And my clients.  #Brexit #nodeal #yes2eu #yestoeu #betteroffin #ukineu #bremain #strongerin #leadnotleave https://t.co/B0h9GTG5No,"['betteroffin', 'ukineu', 'strongerin', 'yestoeu', 'leadnotleave', 'bremain', 'nodeal', 'brexit', 'yes2eu']"
-195,195,195,195,195,195,195,195,1439701,928919361997492224,1131408960,positive,remain,2017-11-10T09:36:49.000Z,Maybe it would be more appropriate to delay it for a few days until April 1st #brexit #leadnotleave #bremain https://t.co/VnuLuLLCnx,"['leadnotleave', 'bremain', 'brexit']"
-196,196,196,196,196,196,196,196,667927,901056508074524672,756513906357575680,positive,remain,2017-08-25T12:19:47.000Z,Sussex Company to help UK companies remain in the European Union post-#Brexit https://t.co/koQykVfjpM #bremain #strongerin #leadnotleave RT,"['leadnotleave', 'bremain', 'strongerin']"
-197,197,197,197,197,197,197,197,415891,890827222633861120,228686553,positive,remain,2017-07-28T06:52:15.000Z,@JoRichardsKent @albrigg @UKLabour #Brexit is not a price worth paying to be able to do things that we could do anyway. #leadnotleave https://t.co/oABVHoNB8s,"['leadnotleave', 'brexit']"
-198,198,198,198,198,198,198,198,52541,878582016891121664,357531535,positive,leave,2017-06-24T11:54:10.000Z,"Why do all the #brexit people, talk democracy &amp; freedom, but are always telling other what to do?  #leadnotleave https://t.co/sUwqGFCHNY","['leadnotleave', 'brexit']"
-199,199,199,199,199,199,199,199,393058,889962295232737280,228686553,neutral,other,2017-07-25T21:35:20.000Z,33 reasons for a ‘scrap-it’ #Brexit #remainandprosper #leadnotleave  https://t.co/mMVo4d0lS0,"['leadnotleave', 'brexit', 'remainandprosper']"
+what about you..?
+
+#EURef #VoteLeave #No2EU #StrongerIn #VoteREMAIN #LeadNotLeave #Brexit https://t.co/G5ySvN85ig","['voteremain', 'leadnotleave', 'strongerin', 'brexit', 'no2eu', 'euref', 'leaveeu', 'voteleave']"
+189,189,189,2376955,776469853876150272,499651865,neutral,leave,2016-09-15T17:16:53.000Z,Democracy Accountability Soovereignty...does anyone rember any more buzz words? #LeadNotLeave #Brexit #LeaveLies https://t.co/WwCxA3MPk0,"['leadnotleave', 'leavelies', 'brexit']"
+190,190,190,2191828,771334967108526080,2281361466,positive,remain,2016-09-01T13:12:41.000Z,"Just so funny, and so spot on #Brexit #LeadNotLeave #Remain 😂 https://t.co/d9ELN0rAkX","['leadnotleave', 'remain', 'brexit']"
+191,191,191,664781,795248336873910272,199452338,negative,remain,2016-11-06T12:55:53.000Z,"When #NigelFarage admits #Brexit is not binding, just advisory.
+#BetterTogether #Yes2EU #UKinEU #Bremain #StrongerIn #LeadNotLeave https://t.co/sS2qe94KKs","['bettertogether', 'ukineu', 'leadnotleave', 'strongerin', 'nigelfarage', 'yes2eu', 'bremain', 'brexit']"
+192,192,192,387392,789561547983036416,3402643253,positive,other,2016-10-21T20:18:37.000Z,"""Fair Movement is Fair Movement""; is like ""Brexit means Brexit"". Take a chance, show some guts. #leadnotleave https://t.co/NizZPWDUNR",['leadnotleave']
+193,193,193,897129,845620501749882880,32349201,neutral,remain,2017-03-25T12:56:53.000Z,Brexit protest: thousands march in London to 'unite for Europe' - live #UniteForEurope #LeadNotLeave https://t.co/kD2PEl8QNP,"['uniteforeurope', 'leadnotleave']"
+194,194,194,1439701,928919361997492224,1131408960,positive,remain,2017-11-10T09:36:49.000Z,Maybe it would be more appropriate to delay it for a few days until April 1st #brexit #leadnotleave #bremain https://t.co/VnuLuLLCnx,"['bremain', 'leadnotleave', 'brexit']"
+195,195,195,667927,901056508074524672,756513906357575680,positive,remain,2017-08-25T12:19:47.000Z,Sussex Company to help UK companies remain in the European Union post-#Brexit https://t.co/koQykVfjpM #bremain #strongerin #leadnotleave RT,"['bremain', 'leadnotleave', 'strongerin']"
+196,196,196,415891,890827222633861120,228686553,positive,remain,2017-07-28T06:52:15.000Z,@JoRichardsKent @albrigg @UKLabour #Brexit is not a price worth paying to be able to do things that we could do anyway. #leadnotleave https://t.co/oABVHoNB8s,"['leadnotleave', 'brexit']"
+197,197,197,52541,878582016891121664,357531535,positive,leave,2017-06-24T11:54:10.000Z,"Why do all the #brexit people, talk democracy &amp; freedom, but are always telling other what to do?  #leadnotleave https://t.co/sUwqGFCHNY","['leadnotleave', 'brexit']"
+198,198,198,1067151,916057022130294784,17960088,negative,remain,2017-10-05T21:46:28.000Z,@MichelBarnier @SwedishPM @AnnLinde The suspense is killing me.  And my clients.  #Brexit #nodeal #yes2eu #yestoeu #betteroffin #ukineu #bremain #strongerin #leadnotleave https://t.co/B0h9GTG5No,"['leadnotleave', 'nodeal', 'yestoeu', 'betteroffin', 'ukineu', 'bremain', 'strongerin', 'brexit', 'yes2eu']"
+199,199,199,393058,889962295232737280,228686553,neutral,other,2017-07-25T21:35:20.000Z,33 reasons for a ‘scrap-it’ #Brexit #remainandprosper #leadnotleave  https://t.co/mMVo4d0lS0,"['leadnotleave', 'remainandprosper', 'brexit']"

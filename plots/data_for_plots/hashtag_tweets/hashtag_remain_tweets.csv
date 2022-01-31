@@ -1,172 +1,121 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,0,0,0,1964063,746295158459727872,1173140612,neutral,remain,2016-06-24T10:53:25.000Z,#Remain v. ##Brexit summary  https://t.co/qCKqj6FD4C,"['#brexit', 'remain']"
-1,1,1,1,1,1,1,1,1013882,741346179544457216,75139209,neutral,leave,2016-06-10T19:07:57.000Z,"#UK OUT NOW! 
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,1150390,743113593558839296,495043092,positive,other,2016-06-15T16:11:01.000Z,What a surprise! I believe 100% we are better off in Europe! #Remain #0%Brexit! https://t.co/lS5RWm0Mj7,"['0%brexit', 'remain']"
+1,1,1,1422635,745497885152686080,4111729581,neutral,other,2016-06-22T06:05:21.000Z,"""I've been expecting EU, Mr Bond...."" #DanielCraig #Brexit #Remain #007 https://t.co/sCrwHBZTA9","['007', 'danielcraig', 'remain', 'brexit']"
+2,2,2,1446706,745621502033281024,151387351,neutral,remain,2016-06-22T14:16:33.000Z,"BREXIT TRUTHS #1
+(pic via @marcusgalley / @MuteElephant)
 
-@CNN @FoxNews #Brexit $SPX #euro $ES_F @David_Cameron #InOrOut #StrongerIn ##LeaveEU #Remain #Britain https://t.co/OB0p6zQ0cg","['#leaveeu', 'britain', 'uk', 'strongerin', 'inorout', 'remain', 'euro', 'brexit']"
-2,2,2,2,2,2,2,2,1537304,745953052478308352,550573032,positive,leave,2016-06-23T12:14:01.000Z,##referendum #Brexit #Remain  I've voted and will be unhappy with either result.no one can be truly happy with the state of things.,"['#referendum', 'brexit', 'remain']"
-3,3,3,3,3,3,3,3,1746103,746216480660807680,2501972790,positive,remain,2016-06-24T05:40:47.000Z,Baby boomers just voted against their progeny - proving that they are the most #%$&amp;ing entitled generation EVER. EVER. #Brexit #EU #Remain,"['%$&amping', 'eu', 'brexit', 'remain']"
-4,4,4,4,4,4,4,4,1614538,746152274297237504,446755818,neutral,other,2016-06-24T01:25:39.000Z,"#Remain now has slught edge in #Brexit
-
-I wonder what the #'s would be if London were removed.
-
-https://t.co/kitknOyK5h","[""'s"", 'brexit', 'remain']"
-5,5,5,5,5,5,5,5,1150390,743113593558839296,495043092,positive,other,2016-06-15T16:11:01.000Z,What a surprise! I believe 100% we are better off in Europe! #Remain #0%Brexit! https://t.co/lS5RWm0Mj7,"['0%brexit', 'remain']"
-6,6,6,6,6,6,6,6,1880967,746262956497899520,2798064462,positive,other,2016-06-24T08:45:28.000Z,Day #1 in not so great Britain. What have we done? #EURef #Brexit #Remain,"['1', 'brexit', 'euref', 'remain']"
-7,7,7,7,7,7,7,7,1442520,745577412226854912,962255546,neutral,leave,2016-06-22T11:21:21.000Z,left #remain argument #1: The voters will vote for a tory government forever - hence we need #eu to shield us from the voters #brexit,"['1', 'eu', 'remain', 'brexit']"
-8,8,8,8,8,8,8,8,1145985,743053747077648384,159774896,neutral,remain,2016-06-15T12:13:13.000Z,@Nigel_Farage @fishingforleave launch torpedo #1.. #brexit #remain #EUref,"['1', 'euref', 'remain', 'brexit']"
-9,9,9,9,9,9,9,9,807058,736235313123753984,727593506005499904,negative,remain,2016-05-27T16:39:11.000Z,Reason #1 not to leave the EU... you could live here. #brexit #remain by romeypome https://t.co/RHQhsB9dXg https://t.co/NkL7KrhnaL,"['1', 'remain', 'brexit']"
-10,10,10,10,10,10,10,10,1036632,741785534209593344,3681621377,neutral,other,2016-06-12T00:13:47.000Z,"@angusarmstrong8 @TonysAngle @NIESRorg #1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; IMF Seek #Remain. #EUref https://t.co/Qx2BM1nH4R","['1', 'remain', 'euref']"
-11,11,11,11,11,11,11,11,738103,734072679033114624,2252017892,neutral,leave,2016-05-21T17:25:39.000Z,"Democracy and the EU?
+#Leave #Remain #EUref https://t.co/YSRMyX9SL0","['1', 'leave', 'remain', 'euref']"
+3,3,3,807058,736235313123753984,727593506005499904,negative,remain,2016-05-27T16:39:11.000Z,Reason #1 not to leave the EU... you could live here. #brexit #remain by romeypome https://t.co/RHQhsB9dXg https://t.co/NkL7KrhnaL,"['1', 'remain', 'brexit']"
+4,4,4,804612,736164076343185408,3421159102,neutral,remain,2016-05-27T11:56:07.000Z,Fact #1 - 3M UK jobs are linked to UK trade with the EU @StrongerIn: https://t.co/NHh270TlJh #remaIn #Brexit,"['1', 'remain', 'brexit']"
+5,5,5,1880967,746262956497899520,2798064462,positive,other,2016-06-24T08:45:28.000Z,Day #1 in not so great Britain. What have we done? #EURef #Brexit #Remain,"['1', 'remain', 'brexit', 'euref']"
+6,6,6,1036632,741785534209593344,3681621377,neutral,other,2016-06-12T00:13:47.000Z,"@angusarmstrong8 @TonysAngle @NIESRorg #1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; IMF Seek #Remain. #EUref https://t.co/Qx2BM1nH4R","['1', 'remain', 'euref']"
+7,7,7,1037511,741784108225986560,3681621377,neutral,other,2016-06-12T00:08:07.000Z,"@TonysAngle @fromTGA #1 Reason To Vote #Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek #Remain #StrongerIn https://t.co/Qx2BM1nH4R","['1', 'remain', 'strongerin', 'brexit']"
+8,8,8,738103,734072679033114624,2252017892,neutral,leave,2016-05-21T17:25:39.000Z,"Democracy and the EU?
 Dictionary/guide #11 the CONSPIRACY
 Sources- Oxford dictionary vs Brexit / man in pub
 #remain https://t.co/LMdCa5P6vI","['11', 'remain']"
-12,12,12,12,12,12,12,12,1382317,745262908255375360,34239690,negative,remain,2016-06-21T14:31:38.000Z,I wasn't worried about the #Brexit campaign until #DavidBeckham &amp; #RichardBranson launched their #11thHour campaigns to #Remain,"['11thhour', 'davidbeckham', 'remain', 'richardbranson', 'brexit']"
-13,13,13,13,13,13,13,13,1365517,745163363731136512,130078153,negative,other,2016-06-21T07:56:05.000Z,#UK #Brexit: Polls: 50% #Leave #EU; 50% #Remain. #Ladbrokes 3/1 to Leave. https://t.co/rLj7VsWjE9 https://t.co/0C2MX6ZIe7 #1ab #ECB #EC #CDU,"['1ab', 'ec', 'ecb', 'uk', 'leave', 'eu', 'brexit', 'cdu', 'ladbrokes', 'remain']"
-14,14,14,14,14,14,14,14,1248572,744100381526003712,130078153,negative,other,2016-06-18T09:32:10.000Z,#UK #Brexit: Polls: 52% #Leave #EU; 48% #Remain. #Ladbrokes 7/4 to Leave. https://t.co/rLj7VsEIMB https://t.co/0C2MX6I7mz #1ab #ECB #EC #CDU,"['1ab', 'ec', 'ecb', 'uk', 'leave', 'eu', 'brexit', 'cdu', 'ladbrokes', 'remain']"
-15,15,15,15,15,15,15,15,1182994,743366494885654528,130078153,negative,other,2016-06-16T08:55:58.000Z,#UK #Brexit: Polls: 52% #Leave #EU; 48% #Remain. Ladbrokes 6/4 to Leave. https://t.co/rLj7VsEIMB https://t.co/0C2MX6I7mz #1ab #EC #ECB #CDU,"['1ab', 'ec', 'ecb', 'uk', 'leave', 'eu', 'brexit', 'cdu', 'remain']"
-16,16,16,16,16,16,16,16,1608458,746145491138805760,394780896,negative,remain,2016-06-24T00:58:42.000Z,#Leave is about to get to #1million. Why am I getting more and more worried? #Brexit #Remain #IsThisReallyHappening,"['1million', 'remain', 'leave', 'brexit', 'isthisreallyhappening']"
-17,17,17,17,17,17,17,17,1266790,744431648649916416,16729844,neutral,other,2016-06-19T07:28:30.000Z,This Morning's UK Brexit Polls #2: The Telegraph has #Remain 2 points ahead 44% to 42% https://t.co/hQKbFwLMPE,"['2', 'remain']"
-18,18,18,18,18,18,18,18,758522,734765137991716864,3295877392,positive,remain,2016-05-23T15:17:14.000Z,"If it's anything like the rest of the #REMAIN guff, it's all bollox. #BrExit IS the only sensible option. #200Miles! https://t.co/zj7f5fzmge","['200miles', 'remain', 'brexit']"
-19,19,19,19,19,19,19,19,1517135,745896978312273920,62462861,negative,remain,2016-06-23T08:31:12.000Z,#2016 #brexit or #remain this is the #problem https://t.co/SaZrpKrtGs,"['2016', 'problem', 'remain', 'brexit']"
-20,20,20,20,20,20,20,20,778100,735376279755755520,23188884,negative,remain,2016-05-25T07:45:42.000Z,"6,000 British sailors lost their lives in the Battle of #Jutland - a reminder that #2016 is not just about #Brexit - #Remain - #Remember","['2016', 'remember', 'remain', 'jutland', 'brexit']"
-21,21,21,21,21,21,21,21,1103854,742696460744036352,544990828,negative,other,2016-06-14T12:33:29.000Z,If #Brexit Cameron will resign. @BorisJohnson will be P.M. by Autumn. #NHS will be privatised in #2017 #EUreferendum #remain #StrongerIn,"['2017', 'strongerin', 'brexit', 'nhs', 'eureferendum', 'remain']"
-22,22,22,22,22,22,22,22,1349089,745010582458347520,2369493372,neutral,other,2016-06-20T21:48:59.000Z,Are you an #innyorouty #eu #eureferendum #brexit #remain #vote #23rdjune2016 #stay #go #in #out… https://t.co/kw3peS0VnS,"['23rdjune2016', 'innyorouty', 'eureferendum', 'in', 'brexit', 'vote', 'stay', 'eu', 'out', 'remain', 'go']"
-23,23,23,23,23,23,23,23,399838,714457407573868544,85386747,negative,other,2016-03-28T14:21:34.000Z,"Ignore #Remain #ProjectFear 
-
-UK didn't vote for a Federal Union #EUDictatorship
-
- #23rdJuneVoteLeaveEU #BREXIT  https://t.co/ahH2nt492D","['23rdjunevoteleaveeu', 'projectfear', 'remain', 'eudictatorship', 'brexit']"
-24,24,24,24,24,24,24,24,1554900,746007095116439552,19525928,neutral,remain,2016-06-23T15:48:46.000Z,The results are in! My kids' school voted on the #EUref: 76%for #Remain #24% for #Brexit @CGSBucks,"['24%', 'euref', 'brexit', 'remain']"
-25,25,25,25,25,25,25,25,2356976,746615415405699072,407707409,neutral,remain,2016-06-25T08:06:01.000Z,"Keep making yourself heard. Sign this petition.
-
-https://t.co/qApyOK5vde
-
-#2ndreferendum #europe #brexit #remain #… https://t.co/W1wEswtGdV","['2ndreferendum', 'brexit', 'europe', 'remain']"
-26,26,26,26,26,26,26,26,2435610,746712086818992128,344768990,negative,remain,2016-06-25T14:30:09.000Z,#2ndReferendum #remain #brexit let's all stay part of the eurozone crisis!? Naive!! https://t.co/rDnZQf708s,"['2ndreferendum', 'remain', 'brexit']"
-27,27,27,27,27,27,27,27,2362636,746622489103638528,884647568,negative,remain,2016-06-25T08:34:07.000Z,"This about sums up the mind of a ""Leave"" voter:
-
-#Brexit #2ndReferendum #2ndRef #RemainINEU #remain https://t.co/HwQ8uP9T7E","['2ndreferendum', 'remain', 'brexit', 'remainineu', '2ndref']"
-28,28,28,28,28,28,28,28,2356512,746614882766823424,770230812,positive,remain,2016-06-25T08:03:54.000Z,"The count for #2ndReferendum just reached 800,000 signatures! This is amazing :) #EUref #Remain #Brexit #VoteRemain https://t.co/tgqBP9avTj","['2ndreferendum', 'remain', 'euref', 'voteremain', 'brexit']"
-29,29,29,29,29,29,29,29,1154540,743113449161510912,20311677,neutral,other,2016-06-15T16:10:27.000Z,My blog's reason #3 for urging an #EUref #Remain vote... Vladimir Putin wants you to vote for #Brexit: https://t.co/WUmH2KdCuP,"['3', 'brexit', 'euref', 'remain']"
-30,30,30,30,30,30,30,30,1282127,744551382238302208,302051431,negative,remain,2016-06-19T15:24:17.000Z,"A vital, impassioned and controversial debate hijacked by idiots and lunatics... #Brexit vs #Remain has become the #3monkeys of #Britain","['3monkeys', 'brexit', 'britain', 'remain']"
-31,31,31,31,31,31,31,31,1969351,746297350499426304,15636847,neutral,other,2016-06-24T11:02:08.000Z,"#BREAKING: SNP leader taking ""all possible steps"" to #remain in EU and prepare legislation for referendum #Brexit (USA TODAY) #3News","['3news', 'brexit', 'breaking', 'remain']"
-32,32,32,32,32,32,32,32,1597800,746157663722012672,149322411,negative,remain,2016-06-24T01:47:04.000Z,"Volem poder tornar. No per les ajudes (que mai vam demanar), però sempre ens hi van fer sentir còmodes #UK #Brexit #Remain #Scotland #3years","['3years', 'uk', 'remain', 'brexit', 'scotland']"
-33,33,33,33,33,33,33,33,476088,720168332830371840,4866237363,negative,other,2016-04-13T08:34:45.000Z,Angel #Merkel will fight you for #queen #4threich #germany @womenforbritain @vikkij1983 #brexit #remain https://t.co/hstCCUABi4,"['4threich', 'merkel', 'brexit', 'queen', 'germany', 'remain']"
-34,34,34,34,34,34,34,34,538629,723531642992734208,20455597,negative,remain,2016-04-22T15:19:20.000Z,"The #EUref  in #5xF Fear &amp; Fantasy, Facts &amp; Feelings, Friends ... ? #Brexit #Remain","['5xf', 'brexit', 'euref', 'remain']"
-35,35,35,35,35,35,35,35,738129,734074026432286720,2252017892,neutral,other,2016-05-21T17:31:00.000Z,"Farage, Man of the People?
-Brexit dictionary #8
-
-Oxford dictionary vs Brexit man.
-#remain
-#strongerin
-#farage https://t.co/mZduNBSznO","['8', 'farage', 'strongerin', 'remain']"
-36,36,36,36,36,36,36,36,1145883,743053260400041984,106878204,neutral,remain,2016-06-15T12:11:17.000Z,"#REMAIN is the #1percent. 
+9,9,9,1382317,745262908255375360,34239690,negative,remain,2016-06-21T14:31:38.000Z,I wasn't worried about the #Brexit campaign until #DavidBeckham &amp; #RichardBranson launched their #11thHour campaigns to #Remain,"['11thhour', 'davidbeckham', 'richardbranson', 'remain', 'brexit']"
+10,10,10,1182994,743366494885654528,130078153,negative,other,2016-06-16T08:55:58.000Z,#UK #Brexit: Polls: 52% #Leave #EU; 48% #Remain. Ladbrokes 6/4 to Leave. https://t.co/rLj7VsEIMB https://t.co/0C2MX6I7mz #1ab #EC #ECB #CDU,"['1ab', 'remain', 'uk', 'ecb', 'cdu', 'eu', 'leave', 'brexit', 'ec']"
+11,11,11,1608458,746145491138805760,394780896,negative,remain,2016-06-24T00:58:42.000Z,#Leave is about to get to #1million. Why am I getting more and more worried? #Brexit #Remain #IsThisReallyHappening,"['1million', 'leave', 'remain', 'brexit', 'isthisreallyhappening']"
+12,12,12,778100,735376279755755520,23188884,negative,remain,2016-05-25T07:45:42.000Z,"6,000 British sailors lost their lives in the Battle of #Jutland - a reminder that #2016 is not just about #Brexit - #Remain - #Remember","['2016', 'jutland', 'remember', 'remain', 'brexit']"
+13,13,13,1339265,744949438305574912,124076299,negative,other,2016-06-20T17:46:01.000Z,"Brexit will rise risk of 3rd World War: David Cameron,U.K.'s P.M. https://t.co/ErfB0FWuJr. #Brexit #Remain #Leave #HappyMonday #23J #23June","['23june', '23j', 'leave', 'remain', 'happymonday', 'brexit']"
+14,14,14,1114345,742781100536266752,2583874134,positive,remain,2016-06-14T18:09:49.000Z,It seems like the majority vote is clear amongst this particular panel #Brexit #EUreferendum #23June #Remain https://t.co/QsN2ihiinu,"['23june', 'eureferendum', 'remain', 'brexit']"
+15,15,15,557408,724384720793001984,86904886,positive,remain,2016-04-24T23:49:10.000Z,"Well, didn't @POTUS tell us UK lot like it is? Not that anyone will take a blind bit of notice. #Brexit #Remain #Brexit #Remain #23June","['23june', 'remain', 'brexit']"
+16,16,16,773474,735181030454374400,20550442,neutral,leave,2016-05-24T18:49:51.000Z,"If you wouldn't Vote to JOIN the #EU on #23rdJune, don't vote to #Remain
+Vote to #Leave, #BrExit &amp; regain control of our Borders, Laws &amp; Tax","['23rdjune', 'brexit', 'eu', 'remain', 'leave']"
+17,17,17,1519915,745905929124782080,728994361124474880,neutral,remain,2016-06-23T09:06:46.000Z,Do the right #choice #today #Britain. #Vote #Remain 💯🔗 #brexit #london #23thjune #LondonInVote https://t.co/LvS6xAmPiI,"['23thjune', 'choice', 'vote', 'britain', 'today', 'remain', 'londoninvote', 'london', 'brexit']"
+18,18,18,2382916,746646273529348096,248172188,positive,leave,2016-06-25T10:08:38.000Z,Please please PLEASE sign it if you can!! #Remain #Brexit #2ndReferendum https://t.co/lGzZQV9Cs4,"['2ndreferendum', 'remain', 'brexit']"
+19,19,19,1283506,744564489824182272,712302858427834368,negative,other,2016-06-19T16:16:22.000Z,#Brexit #remain Vote Leave claim Turkey’s high birth rate would mean a million more people having the right to come to Britain #30srhetoric,"['30srhetoric', 'remain', 'brexit']"
+20,20,20,261994,705517645802643456,585713867,neutral,other,2016-03-03T22:18:09.000Z,"#315 Is #Brexit the same as #BorisBonus ?
+#EUref #remain #inorout","['315', 'remain', 'inorout', 'borisbonus', 'euref', 'brexit']"
+21,21,21,1969351,746297350499426304,15636847,neutral,other,2016-06-24T11:02:08.000Z,"#BREAKING: SNP leader taking ""all possible steps"" to #remain in EU and prepare legislation for referendum #Brexit (USA TODAY) #3News","['3news', 'remain', 'breaking', 'brexit']"
+22,22,22,2196514,746407668517060608,294697901,negative,remain,2016-06-24T18:20:30.000Z,Regret to say inform you that we lost one of our own today boys. #Remain #Brexit #Leave #EURefResults #48percent https://t.co/8mo6Hy6nz8,"['48percent', 'leave', 'remain', 'brexit', 'eurefresults']"
+23,23,23,982753,740900802764673024,2776646422,neutral,other,2016-06-09T13:38:11.000Z,"#70% want monarchy in UK(SKY9/5)
+Monarchy(head of STATE)Value only w #BREXIT
+ if #REMAIN In head of state =President EU=monarchy no status","['70', 'brexit', 'remain']"
+24,24,24,390798,713663520907374592,281245939,positive,other,2016-03-26T09:46:57.000Z,The Saturday list #85 - The Euro referendum top ten songs https://t.co/y23jYYH6m1 #Brexit #Remain,"['85', 'remain', 'brexit']"
+25,25,25,1549609,745990230516310016,624728020,neutral,remain,2016-06-23T14:41:45.000Z,Try and guess what turnout will be from today's vote. #TurnUp #Remain #Brexit #EUref #93yrMum #UsePens,"['93yrmum', 'remain', 'turnup', 'euref', 'brexit', 'usepens']"
+26,26,26,1145883,743053260400041984,106878204,neutral,remain,2016-06-15T12:11:17.000Z,"#REMAIN is the #1percent. 
 #BRexit is the #99percent.
-@BBCRadioWales","['99percent', 'brexit', 'remain', '1percent']"
-37,37,37,37,37,37,37,37,1060927,742256909818986496,106878204,neutral,remain,2016-06-13T07:26:52.000Z,"No hesitation:
-#REMAIN is #1percent leading the #aspirational #capitalists.
+@BBCRadioWales","['99percent', 'brexit', '1percent', 'remain']"
+27,27,27,999666,741179516685590528,459126134,neutral,other,2016-06-10T08:05:41.000Z,Meeting tomorrow South Bank University views from the Left on #Abstain #Remain or #Brexit 1-5pm Organised by @ucu #Leftunity and others.,"['abstain', 'leftunity', 'remain', 'brexit']"
+28,28,28,842854,737712492953108480,2787158879,negative,remain,2016-05-31T18:28:59.000Z,"#Anyone for a #cover of #Eve of #Destruction? https://
+https://t.co/6RcN76i8ou #brexit #protest #folk #acoustic #remain #boris #guitar","['acoustic', 'remain', 'eve', 'guitar', 'boris', 'destruction?', 'folk', 'anyone', 'brexit', 'cover', 'protest']"
+29,29,29,1282412,744554434269700096,95759521,negative,remain,2016-06-19T15:36:24.000Z,"Totally agree, @marksummerscast. Right fucking on. #preach #Remain #RemainINEU #Brexit #StrongerIn #StrongerTogether #actorslife","['actorslife', 'remainineu', 'strongerin', 'remain', 'preach', 'strongertogether', 'brexit']"
+30,30,30,1410360,745373522512457728,593741888,neutral,remain,2016-06-21T21:51:10.000Z,Why hasn't the #AdvertisingStandardsAuthority challenged #Brexit £350bn lie? Isn't that their job? #Remain #StrongerIn,"['advertisingstandardsauthority', 'remain', 'strongerin', 'brexit']"
+31,31,31,633132,729967246576123904,74432981,neutral,remain,2016-05-10T09:32:08.000Z,Can u vote #Labour &amp; vote #Brexit too? Or is all Labour in the #Remain campaign? Do u have to be a UKipper to want to leave the EU? #Advice,"['advice', 'remain', 'brexit', 'labour']"
+32,32,32,1377293,745213165051469824,361467375,positive,leave,2016-06-21T11:13:58.000Z,Britain already benefits from a number of 'opt outs' from the European Union #Brexit #Remain #AFP https://t.co/p98U6IVvqT,"['afp', 'remain', 'brexit']"
+33,33,33,1170125,743322010655170560,106878204,positive,remain,2016-06-16T05:59:12.000Z,"#WelshFarming support for #REMAIN, says more about #AgriBusiness than politics ..
 
-#BRexit is moral #99percent. trying to banish  #EUgravytrain.","['99percent', 'remain', 'brexit', 'aspirational', 'eugravytrain', 'capitalists', '1percent']"
-38,38,38,38,38,38,38,38,1055791,742151147302064128,20801478,positive,remain,2016-06-13T00:26:36.000Z,Worth a watch as large corporations @BBC @SkyUK @ITV won't show this side of #EUreferendum #Brexit #Remain #? 🇬🇧  https://t.co/DSjUpSwN1H,"['?', 'brexit', 'eureferendum', 'remain']"
-39,39,39,39,39,39,39,39,999666,741179516685590528,459126134,neutral,other,2016-06-10T08:05:41.000Z,Meeting tomorrow South Bank University views from the Left on #Abstain #Remain or #Brexit 1-5pm Organised by @ucu #Leftunity and others.,"['abstain', 'brexit', 'leftunity', 'remain']"
-40,40,40,40,40,40,40,40,1796843,746234791020765184,97456196,neutral,other,2016-06-24T06:53:33.000Z,#Brexit ...a how-to guide for the 60% of #Remain or #Abstain: Give up (renounce) British citizenship or nationality  https://t.co/68VhA2UNPw,"['abstain', 'brexit', 'remain']"
-41,41,41,41,41,41,41,41,1379682,745222596426334208,344871914,neutral,other,2016-06-21T11:51:27.000Z,"Tech vs #Brexit: Bosses at #Microsoft #IBM #SAP #BT, and #Accenture back #remain https://t.co/GQdS4o0NoE","['accenture', 'bt', 'microsoft', 'sap', 'ibm', 'brexit', 'remain']"
-42,42,42,42,42,42,42,42,1520078,745906609134632960,3059334081,neutral,other,2016-06-23T09:09:28.000Z,Today's doodles in the #voiceover booth #doodle #actorslife #london #uk #brexit #remain #vote… https://t.co/8xzrARAR9U,"['actorslife', 'uk', 'vote', 'brexit', 'doodle', 'london', 'remain', 'voiceover']"
-43,43,43,43,43,43,43,43,1469195,745673202014294016,30633927,positive,other,2016-06-22T17:41:59.000Z,Good #Remain poster #EUreferendum #Brexit #advertising https://t.co/HlEfqowoJ8,"['advertising', 'brexit', 'eureferendum', 'remain']"
-44,44,44,44,44,44,44,44,1469321,745673723617869824,30633927,positive,other,2016-06-22T17:44:04.000Z,2/3 Good #Remain poster #EUreferendum #Brexit #advertising https://t.co/XuRxELLkHi,"['advertising', 'brexit', 'eureferendum', 'remain']"
-45,45,45,45,45,45,45,45,1375674,745207197240594432,308372391,positive,remain,2016-06-21T10:50:15.000Z,Why Most Ad Agencies Want the United Kingdom to Stay in the European Union https://t.co/31NDiVB7AC #brexit #remain #advertising #PR,"['advertising', 'pr', 'remain', 'brexit']"
-46,46,46,46,46,46,46,46,1374014,745200152311382016,2823206915,positive,remain,2016-06-21T10:22:16.000Z,Why Most Ad Agencies Want the United Kingdom to Stay in the European Union https://t.co/rVGgJ47W0Z #brexit #remain #advertising #PR,"['advertising', 'pr', 'remain', 'brexit']"
-47,47,47,47,47,47,47,47,1595105,746123197934866432,91077597,negative,other,2016-06-23T23:30:07.000Z,Corncrake in long grass behind us on #Islay #Scotland repeating #Brexit but suspect as #African #immigrant it hasn't a vote &amp; it'll #Remain,"['african', 'islay', 'remain', 'brexit', 'immigrant', 'scotland']"
-48,48,48,48,48,48,48,48,670349,731423029427875840,19018483,negative,remain,2016-05-14T09:56:54.000Z,#UNDECIDED ABOUT #EU? WATCH #BREXIT THE #MOVIE; it will make you wonder what #remain #agenda really is? https://t.co/42jcix72AN,"['agenda', 'eu?', 'movie', 'undecided', 'brexit', 'remain']"
-49,49,49,49,49,49,49,49,1315280,744867277351297024,441759444,positive,other,2016-06-20T12:19:32.000Z,"@iamjohnoliver ""Brexit"" shakedown is candid, brilliant; even under the circumstances: Please watch https://t.co/bYXAD4Q0fe #remain #ahhhhhhh","['ahhhhhhh', 'remain']"
-50,50,50,50,50,50,50,50,1859154,746254808663875584,738634964258983808,positive,remain,2016-06-24T08:13:05.000Z,@PressForTruth LOL! ;-) That pic is cynically hilarious. LOL copied. #Brexit #Remain #banksters #Europe #Grexit #economy #aircrash #cartoons,"['aircrash', 'europe', 'grexit', 'remain', 'banksters', 'brexit', 'cartoons', 'economy']"
-51,51,51,51,51,51,51,51,1028602,741619045934477312,1202170184,positive,remain,2016-06-11T13:12:13.000Z,#Climatechange &amp; #airpollution don't stop at borders. Vote #Remain in the #EUref #GreenerIn #InFor #Env4Eur #Brexit https://t.co/BMosVudjF7,"['airpollution', 'greenerin', 'remain', 'climatechange', 'euref', 'env4eur', 'brexit', 'infor']"
-52,52,52,52,52,52,52,52,778534,735384351576358912,721252833463529472,negative,remain,2016-05-25T08:17:46.000Z,Air pollution in UK cities would be much worse without EU directives. #airquality @David_Cameron @SadiqKhan @defra #brexit #remain @BBCNews,"['airquality', 'remain', 'brexit']"
-53,53,53,53,53,53,53,53,981226,740882125914832896,2405096358,neutral,leave,2016-06-09T12:23:58.000Z,"Caller ""In my area we have alot of migrants,what's going to happen if we #REMAIN ""?.. #AlanJohnson ""nothing"" #wato #Brexit #voteleave","['alanjohnson', 'voteleave', 'remain', 'brexit', 'wato']"
-54,54,54,54,54,54,54,54,1144345,743044313672785920,624755331,neutral,remain,2016-06-15T11:35:44.000Z,"TBH, this is all getting a bit ‘Alan Partridge’.
+#BRexit","['agribusiness', 'welshfarming', 'brexit', 'remain']"
+34,34,34,1315280,744867277351297024,441759444,positive,other,2016-06-20T12:19:32.000Z,"@iamjohnoliver ""Brexit"" shakedown is candid, brilliant; even under the circumstances: Please watch https://t.co/bYXAD4Q0fe #remain #ahhhhhhh","['ahhhhhhh', 'remain']"
+35,35,35,1556485,746012287429910528,210318958,negative,leave,2016-06-23T16:09:24.000Z,Listen to this and calm the fuck down. @AIM_ATICRECORDS #Aim #AimHinterland #Brexit #Remain https://t.co/LZ7DNFP6nT,"['aimhinterland', 'remain', 'brexit', 'aim']"
+36,36,36,1505661,745863490297004032,2562885402,negative,other,2016-06-23T06:18:08.000Z,"Ever heard the phrase ""I ain't being racist but..."" #Remain #Brexit #AintBeingRacistBut https://t.co/W6r83bmPTI","['aintbeingracistbut', 'remain', 'brexit']"
+37,37,37,1164458,743193980645576704,2364434006,negative,remain,2016-06-15T21:30:27.000Z,"CEOs of #Unilever, #Airbus and #GE pro #EU #Remain companies accuse #Leave campaign of using their names making the case for #Brexit #vote.","['airbus', 'vote', 'ge', 'leave', 'remain', 'eu', 'unilever', 'brexit']"
+38,38,38,1028602,741619045934477312,1202170184,positive,remain,2016-06-11T13:12:13.000Z,#Climatechange &amp; #airpollution don't stop at borders. Vote #Remain in the #EUref #GreenerIn #InFor #Env4Eur #Brexit https://t.co/BMosVudjF7,"['airpollution', 'infor', 'brexit', 'remain', 'climatechange', 'euref', 'greenerin', 'env4eur']"
+39,39,39,778534,735384351576358912,721252833463529472,negative,remain,2016-05-25T08:17:46.000Z,Air pollution in UK cities would be much worse without EU directives. #airquality @David_Cameron @SadiqKhan @defra #brexit #remain @BBCNews,"['airquality', 'remain', 'brexit']"
+40,40,40,223318,703851125036822528,136261567,negative,remain,2016-02-28T07:55:59.000Z,"#Remain camp just gets sillier &amp; sillier! #Brexit would affect #Sport, #Science, #Food, #Airtravel, #Mobiles, #Security? No good reason tho","['airtravel', 'mobiles', 'security?', 'remain', 'science', 'food', 'brexit', 'sport']"
+41,41,41,1288323,744608137550921728,16514937,neutral,remain,2016-06-19T19:09:48.000Z,"@campbellclaret Typical #Remain watching #ALB vs #ROU, whilst the #Brexit lot watch #SUI.  😉","['alb', 'brexit', 'remain', 'rou', 'sui']"
+42,42,42,2433679,746709248952905728,40048469,positive,leave,2016-06-25T14:18:52.000Z,Feeling good as British and freedom! Rule Britiannia! #EUref #EUreferendum #brexiter #Brexit #ALDUBKSReunion #Remain #VoteLeave,"['aldubksreunion', 'brexiter', 'remain', 'eureferendum', 'euref', 'brexit', 'voteleave']"
+43,43,43,1581172,746092273276968960,104232881,neutral,other,2016-06-23T21:27:14.000Z,#brexit #malta's #alfred sant told them to #remain. This time they followed his advise!😜,"['alfred', 'brexit', ""malta's"", 'remain']"
+44,44,44,1134534,742993784246571008,50586051,positive,remain,2016-06-15T08:14:56.000Z,Dutch newspaper #AlgemeenDagblad front page. Says it all really. UK please #VoteRemain!! @ADnl #Brexit #Remain https://t.co/OzGir7xmJc,"['algemeendagblad', 'remain', 'voteremain', 'brexit']"
+45,45,45,1800718,746236266434310144,2483608663,neutral,leave,2016-06-24T06:59:24.000Z,"Democracy is overrated. 
 
-#EURef #Remain #Brexit @babycowLtd #alanpartridge https://t.co/UOzccONlLC","['alanpartridge', 'brexit', 'euref', 'remain']"
-55,55,55,55,55,55,55,55,1288323,744608137550921728,16514937,neutral,remain,2016-06-19T19:09:48.000Z,"@campbellclaret Typical #Remain watching #ALB vs #ROU, whilst the #Brexit lot watch #SUI.  😉","['alb', 'remain', 'rou', 'sui', 'brexit']"
-56,56,56,56,56,56,56,56,1591841,746148369672904704,1603632938,neutral,other,2016-06-24T01:10:08.000Z,despite #AlexSalmond the bookies have completely reversed their betting in just 4 hours. #Remain from 1/10 to 11/8. #Brexit from 8/1 to 4/7,"['alexsalmond', 'brexit', 'remain']"
-57,57,57,57,57,57,57,57,1134534,742993784246571008,50586051,positive,remain,2016-06-15T08:14:56.000Z,Dutch newspaper #AlgemeenDagblad front page. Says it all really. UK please #VoteRemain!! @ADnl #Brexit #Remain https://t.co/OzGir7xmJc,"['algemeendagblad', 'brexit', 'voteremain', 'remain']"
-58,58,58,58,58,58,58,58,1800718,746236266434310144,2483608663,neutral,leave,2016-06-24T06:59:24.000Z,"Democracy is overrated. 
+I, for one, look forward to the arrival of our insect alien overlords. #EUreferendum #brexit #Remain #aliens","['aliens', 'eureferendum', 'remain', 'brexit']"
+46,46,46,2093814,746349788216516608,3193095612,positive,leave,2016-06-24T14:30:30.000Z,Good #news  #All https://t.co/VIlQXZ3hPS #Firework #celebratebreastfeeding #Brexit #EU #UK #Britain #Leave #Remain #EURefResults #VoteLeave,"['all', 'uk', 'britain', 'voteleave', 'leave', 'firework', 'eu', 'remain', 'celebratebreastfeeding', 'brexit', 'eurefresults', 'news']"
+47,47,47,1299270,744783618908655616,231726084,neutral,remain,2016-06-20T06:47:06.000Z,"#Brexit voto alle porte &amp;quot;Remain&amp;quot; in vantaggio #Brexit: #voto #alle #porte, #&amp;quot;Remain&amp;quot; #in ... https://t.co/rJ3mmWrc2T","['alle', 'remain', 'brexit', 'brexit', 'in', 'porte', 'voto']"
+48,48,48,1441516,745574028769910784,636454992,negative,remain,2016-06-22T11:07:55.000Z,"If you are for #Brexit then you are a horrible racist and a Nazi, if you are for #Remain then you too are a #Nazi, we are #allinthistogether","['allinthistogether', 'remain', 'brexit', 'nazi']"
+49,49,49,2340827,746594477393993728,1580018796,neutral,remain,2016-06-25T06:42:49.000Z,Waiting to see how #Brexit resolves the issue of Scotland &amp; N Ireland voting to #remain in the EU; they can't just be ignored #AllVotesCount,"['allvotescount', 'remain', 'brexit']"
+50,50,50,2080046,746373623842279424,2762887937,negative,other,2016-06-24T16:05:13.000Z,Waiting long as poss to trigger article 50 =brexit scared https://t.co/uq3t6gH08B #EUref #Remain #always #StrongerTogether .,"['always', 'euref', 'remain', 'strongertogether']"
+51,51,51,2230171,746431562627981312,1640024238,neutral,remain,2016-06-24T19:55:27.000Z,"#Amazon is doing special deal for the #Remain drama queens..  
 
-I, for one, look forward to the arrival of our insect alien overlords. #EUreferendum #brexit #Remain #aliens","['aliens', 'remain', 'eureferendum', 'brexit']"
-59,59,59,59,59,59,59,59,1262850,744325475976228864,323157346,positive,remain,2016-06-19T00:26:37.000Z,"I vote Brexit, love Donald Trump, shoot handguns and beat women #AlternateUniverse #Remain 🔫❌","['alternateuniverse', 'remain']"
-60,60,60,60,60,60,60,60,1929181,746311549044817920,2490600866,negative,remain,2016-06-24T11:58:33.000Z,Friends who voted #Remain are super perplexed &amp; angry. Scary nativism won.Brexit will be a political &amp; financial disaster. #AmericanAboard,"['americanaboard', 'remain']"
-61,61,61,61,61,61,61,61,1889957,746266215149092864,727113341970173952,neutral,remain,2016-06-24T08:58:25.000Z,Can we officially now use the #brexit for dystopian YA novels? Sounds legit. I guess #remain would’ve been magical realism... #amwriting,"['amwriting', 'remain', 'brexit']"
-62,62,62,62,62,62,62,62,663453,731102839259430912,1435100028,neutral,other,2016-05-13T12:44:34.000Z,"Meta-analysis of the economic impact of Brexit | VOX, CEPR’s Policy Portal https://t.co/8pDkXghjOG #Brexit #meta #analysis #UK #remain #GDP","['analysis', 'gdp', 'uk', 'brexit', 'meta', 'remain']"
-63,63,63,63,63,63,63,63,991534,741009936218521600,1686552499,positive,leave,2016-06-09T20:51:50.000Z,#AndreaLedsom and #GiselaStuart were sterling performers. The best on the night. Congratulations 👏 #ITVEURef #Brexit #Remain,"['andrealedsom', 'giselastuart', 'remain', 'itveuref', 'brexit']"
-64,64,64,64,64,64,64,64,905114,739375453698424832,56372183,negative,remain,2016-06-05T08:36:59.000Z,#andrewmarr John Major is certainly qualified to speak on the subject of deceit #Brexit #Remain,"['andrewmarr', 'brexit', 'remain']"
-65,65,65,65,65,65,65,65,799736,736067785952874496,2878411998,positive,other,2016-05-27T05:33:30.000Z,@The_UK_NeedsYou Yes saynoto #Angela'sArmy frontpage of the times https://t.co/BSF8ooPFIv… explains a vote is straight after #Remain #Brexit,"[""angela'sarmy"", 'brexit', 'remain']"
-66,66,66,66,66,66,66,66,1944252,746287256625942528,104508727,positive,remain,2016-06-24T10:22:01.000Z,"Watching the UK leave the EU is like watching Rickon run in a straight line. 
-#Brexit #Remain #AnIrishPerspective","['anirishperspective', 'brexit', 'remain']"
-67,67,67,67,67,67,67,67,1272309,744456758987456512,744455596481646720,negative,other,2016-06-19T09:08:17.000Z,"#brendancox   any updates on why you were sacked from #savethechildren
-#remain are dirty players play the #annalindh card
+#Brexit https://t.co/IF5UarFrRB","['amazon', 'remain', 'brexit']"
+52,52,52,639451,730286443487203328,1373485399,positive,remain,2016-05-11T06:40:30.000Z,If #Trump Supports #Brexit He Know #Britons Will Vote #Remain in #EUref 'Cos We Don't Trust #Americans And Or Much Like Big-Mouthed Ones!,"['americans', 'trump', 'remain', 'britons', 'euref', 'brexit']"
+53,53,53,951296,740282530482524160,738329087886950400,neutral,other,2016-06-07T20:41:23.000Z,"What could #social #analytics #inform #you about the #EUreferendum ?
+#in our #out ?
+#BigData #analytics #tech #EURefReady #Brexit #Remain","['analytics', 'inform', 'social', 'you', 'out', 'eurefready', 'remain', 'tech', 'bigdata', 'in', 'eureferendum', 'brexit']"
+54,54,54,905114,739375453698424832,56372183,negative,remain,2016-06-05T08:36:59.000Z,#andrewmarr John Major is certainly qualified to speak on the subject of deceit #Brexit #Remain,"['andrewmarr', 'remain', 'brexit']"
+55,55,55,931242,739892849223860224,19453751,negative,remain,2016-06-06T18:52:56.000Z,#brexit #AndrewNeil Listen up #Remain &amp; #Leave campaigns - British countryside is far too precious to be depleted for immigrant housing!!!,"['andrewneil', 'leave', 'remain', 'brexit']"
+56,56,56,2276705,746478646832021504,745780366510821248,negative,remain,2016-06-24T23:02:32.000Z,#Angela has the decency to feel regret. #Commission orders UK to start #brexit process immediately. No tact. #remain https://t.co/9G3pbVo2fI,"['angela', 'remain', 'brexit', 'commission']"
+57,57,57,1301611,744772210187964416,104459462,positive,remain,2016-06-20T06:01:46.000Z,"If the vote goes to #Remain on Thursday it will be a WIN for #AngelaMerkel #NevilleChamberlin as #DavidCameron the #establishment, #Brexit","['angelamerkel', 'brexit', 'remain', 'davidcameron', 'establishment', 'nevillechamberlin']"
+58,58,58,677417,731707234586071040,43557178,neutral,remain,2016-05-15T04:46:13.000Z,The EU debate from a vegan perspective  https://t.co/N72aByLAVe #vegan #Brexit #Remain #Strongerin #VoteRemain #EUref #animalrights,"['animalrights', 'vegan', 'remain', 'euref', 'brexit', 'voteremain', 'strongerin']"
+59,59,59,1461816,745643628454887424,2282271234,positive,remain,2016-06-22T15:44:29.000Z,#Brexit  #Remain  How about a break? Check out our gorgeous animation and great perks. #indiegogo #animation  https://t.co/kzQ8DYUlwk,"['animation', 'remain', 'brexit', 'indiegogo']"
+60,60,60,1944252,746287256625942528,104508727,positive,remain,2016-06-24T10:22:01.000Z,"Watching the UK leave the EU is like watching Rickon run in a straight line. 
+#Brexit #Remain #AnIrishPerspective","['anirishperspective', 'remain', 'brexit']"
+61,61,61,1030224,741641571045638144,736341552201633920,positive,other,2016-06-11T14:41:44.000Z,RT - Greens on why we want a social Europe (video) #GreenerIN #AnotherEurope #Remain #Brexit https://t.co/Fcmub33ruo,"['anothereurope', 'remain', 'brexit', 'greenerin']"
+62,62,62,1141232,743028354778058752,317457087,neutral,remain,2016-06-15T10:32:19.000Z,The case for a radical Remain vote - https://t.co/2Tbj91u81J #Remain #Lexit #AnotherEurope #DontWalkAway #Brexit #EUref,"['anothereurope', 'remain', 'lexit', 'euref', 'dontwalkaway', 'brexit']"
+63,63,63,784451,735529912023580672,151184977,positive,other,2016-05-25T17:56:11.000Z,"If you are still on the fence, come along 2 #AnotherEuropeIsPossible #meaning-fest #Remain #Brexit #allthefacts #fun https://t.co/k2zVmqi9RZ","['anothereuropeispossible', 'allthefacts', 'remain', 'fun', 'meaning-fest', 'brexit']"
+64,64,64,189739,702488495118532608,269902962,neutral,leave,2016-02-24T13:41:23.000Z,#AnotherHomeGoal #Brexit #VoteLeave #Remain #IDS More euroseptic scaremongering. https://t.co/QxpQ9BqdnT,"['anotherhomegoal', 'ids', 'remain', 'brexit', 'voteleave']"
+65,65,65,1278765,744516710493995008,1603632938,negative,remain,2016-06-19T13:06:30.000Z,"Day 1 of #EUref campaign resumption. Any personal attacks made yet between #Brexit or #Remain ?
+#AnswersOnAPostCard","['answersonapostcard', 'euref', 'remain', 'brexit']"
+66,66,66,1019093,741484914651090944,3770064263,positive,other,2016-06-11T04:19:14.000Z,Your basic choice today: Albania v Switzerland #Brexit #EURO2016 or join me @JaguarFairs Wetherby #Remain #ANTIQ2016 https://t.co/w9b9krMzjZ,"['antiq2016', 'euro2016', 'remain', 'brexit']"
+67,67,67,872674,738433818198220800,4843970686,negative,remain,2016-06-02T18:15:16.000Z,Now you know how I feel about the 1 Percenter's &amp; Corporates plugging the #Remain nonsense! #Brexit #AntiSlavery https://t.co/BOip2aAuG2,"['antislavery', 'remain', 'brexit']"
+68,68,68,334149,709505005104013312,4578992532,positive,remain,2016-03-14T22:22:29.000Z,I am a Brit with a US better half.  Both countries suddenly polarized : #Brexit / #Remain and #Trump2016 / #AnyoneButTrump. Confused!  Help!,"['anyonebuttrump', 'remain', 'brexit', 'trump2016']"
+69,69,69,655879,730885281440796672,817242596,negative,other,2016-05-12T22:20:04.000Z,"#Referendum
+#Apocalyptic
+#Independence
+Talking over each other.  Excitable geeks.
+#Remain 
+#Brexit 
+#SNP
+#Pompous people
+#QuestionTime","['apocalyptic', 'independence', 'snp', 'pompous', 'remain', 'referendum', 'brexit', 'questiontime']"
+70,70,70,1407488,745354210150092800,2190798632,positive,other,2016-06-21T20:34:26.000Z,"Noooo, the EU and the European peace building process are not related. #areyoukiddingme #Brexit #BBCDebate #Remain","['areyoukiddingme', 'remain', 'brexit', 'bbcdebate']"
+71,71,71,940946,740127742239334400,494953497,positive,remain,2016-06-07T10:26:19.000Z,#Remain predicts UK will look like this the day after #Brexit. Strathconon DIY Redscale with #Lomo LC-A #armageddon https://t.co/CbJU99P7LC,"['armageddon', 'lomo', 'remain', 'brexit']"
+72,72,72,1003010,741215176582533120,2566263529,neutral,other,2016-06-10T10:27:23.000Z,British army told to vote #Remain - for collective EU #Army? Watch video. #EUref #Brexit https://t.co/wwd9t1ZKVS https://t.co/0DV0i6PHk1,"['army?', 'remain', 'euref', 'brexit']"
+73,73,73,1115751,742794163222138880,140001766,neutral,remain,2016-06-14T19:01:43.000Z,Should I stay or should I go ? #Brexit #Remain #arte #fb,"['arte', 'fb', 'remain', 'brexit']"
+74,74,74,2395786,746661141447852032,119009845,neutral,remain,2016-06-25T11:07:43.000Z,"Back off Europe! You wanted us to #Remain and that is exactly what we're trying to do
 
-#brexit","['annalindh', 'savethechildren', 'brexit', 'brendancox', 'remain']"
-68,68,68,68,68,68,68,68,961119,740503740864712704,33330368,positive,remain,2016-06-08T11:20:24.000Z,"Thanks Avaaz. When figures are not enough, show the love. #Remain #Brexit #Leave #AnotherEuropeisPossible https://t.co/2DkQTrFrF9","['anothereuropeispossible', 'brexit', 'leave', 'remain']"
-69,69,69,69,69,69,69,69,1278765,744516710493995008,1603632938,negative,remain,2016-06-19T13:06:30.000Z,"Day 1 of #EUref campaign resumption. Any personal attacks made yet between #Brexit or #Remain ?
-#AnswersOnAPostCard","['answersonapostcard', 'brexit', 'euref', 'remain']"
-70,70,70,70,70,70,70,70,1019093,741484914651090944,3770064263,positive,other,2016-06-11T04:19:14.000Z,Your basic choice today: Albania v Switzerland #Brexit #EURO2016 or join me @JaguarFairs Wetherby #Remain #ANTIQ2016 https://t.co/w9b9krMzjZ,"['antiq2016', 'brexit', 'euro2016', 'remain']"
-71,71,71,71,71,71,71,71,1345148,744981676292509696,2312501143,negative,other,2016-06-20T19:54:07.000Z,"""antiracism"" is a code word for #antiWhite
-
-""Multiculturalism"" is a genocidal scam!
-
- #ENGSLO #Remain #Leave #Brexit https://t.co/YOe12MnPqx","['antiwhite', 'remain', 'leave', 'brexit', 'engslo']"
-72,72,72,72,72,72,72,72,334149,709505005104013312,4578992532,positive,remain,2016-03-14T22:22:29.000Z,I am a Brit with a US better half.  Both countries suddenly polarized : #Brexit / #Remain and #Trump2016 / #AnyoneButTrump. Confused!  Help!,"['anyonebuttrump', 'trump2016', 'brexit', 'remain']"
-73,73,73,73,73,73,73,73,297681,707488363717132288,76344040,positive,remain,2016-03-09T08:49:05.000Z,"There is going to be a lot of fun with #brexit and #Remain on #AprilFools #April1st #Aprilfirst I think.
- https://t.co/Ye6nbNbM8O","['april1st', 'remain', 'brexit', 'aprilfools', 'aprilfirst']"
-74,74,74,74,74,74,74,74,1407488,745354210150092800,2190798632,positive,other,2016-06-21T20:34:26.000Z,"Noooo, the EU and the European peace building process are not related. #areyoukiddingme #Brexit #BBCDebate #Remain","['areyoukiddingme', 'remain', 'brexit', 'bbcdebate']"
-75,75,75,75,75,75,75,75,1733791,746212452040249344,28079849,negative,other,2016-06-24T05:24:47.000Z,Train to #london unusually quiet this morning. #Armageddon #Brexit #Leave #Remain #referendum https://t.co/NCUqRj7yCP,"['armageddon', 'remain', 'leave', 'brexit', 'referendum', 'london']"
-76,76,76,76,76,76,76,76,1127739,742983298847248384,726411023226429440,neutral,leave,2016-06-15T07:33:17.000Z,"How a William Hogarth painting predicted Brexit 250 years ago
-
-#leave #remain #art #hogarth  https://t.co/PY5etco2rs","['art', 'leave', 'hogarth', 'remain']"
-77,77,77,77,77,77,77,77,2176795,746394938192048128,745399513016197120,neutral,other,2016-06-24T17:29:55.000Z,Wanna talk politics? Artists give sound advise @royalacademy #SummerExhibition #Brexit #remain #artblog #artblogger https://t.co/xkkNaROjjV,"['artblogger', 'remain', 'brexit', 'summerexhibition', 'artblog']"
-78,78,78,78,78,78,78,78,273771,706162932158083072,705678162026483712,negative,other,2016-03-05T17:02:17.000Z,According to rumours from both #Brexit &amp; #Remain no matter what the result #NUFC will still be useless along with #AstonVilla,"['astonvilla', 'brexit', 'nufc', 'remain']"
-79,79,79,79,79,79,79,79,2289793,746499217300959232,85557665,negative,remain,2016-06-25T00:24:17.000Z,#Astute : Thoughts: Sentiments over sense https://t.co/sDQCTC8m3X #brexit #remain #stupidity #EuropeanUnion #EU #UK #Britain #Scotland,"['astute', 'stupidity', 'eu', 'europeanunion', 'britain', 'uk', 'brexit', 'remain', 'scotland']"
-80,80,80,80,80,80,80,80,1516650,745895625481404416,728172451591557120,negative,remain,2016-06-23T08:25:49.000Z,#Brexit are you #Remain or are you #Leave we are very much split on the #Astutewater desk. #BrexitDebate,"['astutewater', 'leave', 'brexitdebate', 'remain', 'brexit']"
-81,81,81,81,81,81,81,81,1541906,745966171875385344,2882417429,positive,other,2016-06-23T13:06:09.000Z,#Sterling rallying as #Remain victory likely #Brexit #Voted #Audere #Auderesolutions https://t.co/H79OxoSPhr #GBP https://t.co/leuegbQ2kt,"['auderesolutions', 'audere', 'voted', 'remain', 'gbp', 'brexit', 'sterling']"
-82,82,82,82,82,82,82,82,2125887,746365388540239872,1036846206,neutral,other,2016-06-24T15:32:30.000Z,'@FranceintheUK @Le_Figaro A letter coming your way.. One of many? #Brexit #Remain cc @billykayscot #AuldAlliance https://t.co/9olKssejIp,"['auldalliance', 'brexit', 'remain']"
-83,83,83,83,83,83,83,83,1206211,743511889410416640,1120654892,positive,other,2016-06-16T18:33:42.000Z,"If #Brexit wins and the #Remain people are true to their word and leave the country. Great, overcrowding  problem solved. #AurRevoir #AufW","['aurrevoir', 'brexit', 'aufw', 'remain']"
-84,84,84,84,84,84,84,84,1270266,744439310288445440,72605623,negative,remain,2016-06-19T07:58:57.000Z,#auspol postal vote submitted. #brexit #remain proxy vote seems to have messed up...again.,"['auspol', 'remain', 'brexit']"
-85,85,85,85,85,85,85,85,308866,707898907456626688,117810351,positive,other,2016-03-10T12:00:26.000Z,#Brexit referendum: #Remain camp backs European Union #austerity and militarism - World Socialist Web Site https://t.co/yGjPyC9WO3 #Euref,"['austerity', 'brexit', 'euref', 'remain']"
-86,86,86,86,86,86,86,86,901492,739234649008943104,707463510,positive,remain,2016-06-04T23:17:29.000Z,Looks as though #Remain camp will be wearing #austerity policies like a crown of thorns for the rest of the #EUreferendum campaign.  #Brexit,"['austerity', 'brexit', 'eureferendum', 'remain']"
-87,87,87,87,87,87,87,87,486016,720663665997963264,21489341,positive,other,2016-04-14T17:23:01.000Z,"#Brexit referendum: #Remain camp backs European Union of #austerity and militarism https://t.co/kY0tCBSu2y
-#EUref #EUreferendum #Labour","['austerity', 'labour', 'remain', 'euref', 'brexit', 'eureferendum']"
-88,88,88,88,88,88,88,88,1051764,742075418753290240,2168155795,negative,remain,2016-06-12T19:25:41.000Z,"@jannydavies1 
-This is a bad argument for #Remain .
-It rests on false assumption that #austerity will be needed to cure post-Brexit slump.","['austerity', 'remain']"
-89,89,89,89,89,89,89,89,843991,737737039668490240,723649998525702144,negative,remain,2016-05-31T20:06:31.000Z,Anyone seen the word #austerity recently? It seems to have disappeared! #EUDebate #Brexit #Remain,"['austerity', 'remain', 'brexit', 'eudebate']"
-90,90,90,90,90,90,90,90,1313910,744831823679741952,4252790969,positive,other,2016-06-20T09:58:39.000Z,"#Brexit or #Remain the Big UK Sell Off will go on,it's all up for grabs either way Tory gravy train rolls on #NHS #austerity #ElectionFraud","['austerity', 'remain', 'electionfraud', 'brexit', 'nhs']"
-91,91,91,91,91,91,91,91,1314925,744835631310905344,4252790969,positive,remain,2016-06-20T10:13:47.000Z,And it's all up for grabs in the Big UK Sell Off #austerity  #NHS @NHAparty @Jeremy_Hunt #STP #Remain #Brexit  https://t.co/Sdpxq23cyX,"['austerity', 'remain', 'stp', 'brexit', 'nhs']"
-92,92,92,92,92,92,92,92,940306,740118510286835712,839405184,neutral,remain,2016-06-07T09:49:38.000Z,"@TheIFS: #Brexit would mean less spending on #UK public services, adding 2 years to #austerity https://t.co/2nF7N5DY0F #NHS #Remain","['austerity', 'uk', 'remain', 'brexit', 'nhs']"
-93,93,93,93,93,93,93,93,713380,732964815782694912,2277782665,negative,other,2016-05-18T16:03:24.000Z,Well this is #Awkward for those on the #Remain side of #Brexit https://t.co/IG4tIkgjn8,"['awkward', 'brexit', 'remain']"
-94,94,94,94,94,94,94,94,80067,699304766367801344,2343192992,neutral,other,2016-02-15T18:50:23.000Z,"Because the #Remain elites don't feel obliged to answer any questions the plebs might put to them?
-#Awkward
-#Brexit https://t.co/C0mlw6c1FP","['awkward', 'brexit', 'remain']"
-95,95,95,95,95,95,95,95,1444373,745583326111612928,2965188994,positive,remain,2016-06-22T11:44:51.000Z,"#BabyBoom ers; after robbing your children of their future, don't worsen it by voting #Brexit . #Remain #StrongerIn https://t.co/kOjeSUOwyn","['babyboom', 'brexit', 'strongerin', 'remain']"
-96,96,96,96,96,96,96,96,542128,723594679351140352,3014234895,positive,other,2016-04-22T19:29:49.000Z,"Want a ""Special relationship "" #obama 
-#backofthequeue 
-#Brexit #remain #eu #london #Washington","['backofthequeue', 'obama', 'washington', 'brexit', 'eu', 'london', 'remain']"
-97,97,97,97,97,97,97,97,795366,735923773166256128,9707572,positive,other,2016-05-26T20:01:14.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-98,98,98,98,98,98,98,98,1136726,743005937284349952,9707572,positive,other,2016-06-15T09:03:14.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-99,99,99,99,99,99,99,99,1012540,741329371672260608,9707572,positive,other,2016-06-10T18:01:10.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-100,100,100,100,100,100,100,100,588179,726365782389719040,9707572,positive,other,2016-04-30T11:01:12.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-101,101,101,101,101,101,101,101,842502,737705474418724864,9707572,positive,other,2016-05-31T18:01:05.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-102,102,102,102,102,102,102,102,598463,727513363736068096,9707572,positive,other,2016-05-03T15:01:17.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-103,103,103,103,103,103,103,103,1372858,745195258762371072,9707572,positive,other,2016-06-21T10:02:49.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-104,104,104,104,104,104,104,104,585180,726049230515785728,9707572,positive,other,2016-04-29T14:03:20.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-105,105,105,105,105,105,105,105,763835,734972605359329280,9707572,positive,other,2016-05-24T05:01:38.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-106,106,106,106,106,106,106,106,743360,734308719333367808,9707572,positive,other,2016-05-22T09:03:36.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-107,107,107,107,107,107,107,107,1253335,744153147564822528,9707572,positive,other,2016-06-18T13:01:50.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-108,108,108,108,108,108,108,108,1110613,742749059144949760,9707572,positive,other,2016-06-14T16:02:29.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
-109,109,109,109,109,109,109,109,216095,703536154629505024,4077381023,positive,remain,2016-02-27T11:04:24.000Z,"Every Sat I was committed to #backzac2016 He said backing Brexit, hugely damaging to Ldn, is a ""matter of principle"".Ditto. am out 4 #Remain","['backzac2016', 'remain']"
-110,110,110,110,110,110,110,110,2345356,746600399386337280,23183193,negative,remain,2016-06-25T07:06:21.000Z,"I only need 3... Sad, Bad, Mad #BrexitIn5Words #EUreferendum #eu #EURefResults #VoteRemain #voteleave #Leave #Remain #brexit #sad #bad #mad","['bad', 'voteleave', 'eurefresults', 'sad', 'leave', 'remain', 'brexit', 'mad', 'brexitin5words', 'voteremain', 'eu', 'eureferendum']"
-111,111,111,111,111,111,111,111,678573,731750712670097408,45514576,negative,remain,2016-05-15T07:38:59.000Z,Change the misleading Brexit Battle Bus | Campaigns by You #badboris #Brexit #Remain #RemainINEU  https://t.co/sO1uGI43xj,"['badboris', 'brexit', 'remainineu', 'remain']"
-112,112,112,112,112,112,112,112,2262223,746461209071861760,248184872,neutral,remain,2016-06-24T21:53:15.000Z,How come #bookmakers priced up 1/5..1/7..1/8..1/10 for UK to #Remain ?? #Brexit #baffling #averybadjob ...#UK,"['baffling', 'remain', 'averybadjob', 'bookmakers', 'brexit']"
-113,113,113,113,113,113,113,113,1827630,746244577447772160,120069576,positive,remain,2016-06-24T07:32:26.000Z,#Brexit first casualty is the Prime Minister #EUref as final results announced #Leave wins 52% of votes #Remain get #48% #bagsundereyes,"['bagsundereyes', '48%', 'remain', 'leave', 'euref', 'brexit']"
-114,114,114,114,114,114,114,114,1265503,744380043757948928,635950304,neutral,other,2016-06-19T04:03:27.000Z,"#Brexit
+#Article50 #Brexit #EUref #EUreferendum #EURefResults","['article50', 'remain', 'eureferendum', 'euref', 'brexit', 'eurefresults']"
+75,75,75,1850147,746251650134908928,152763134,negative,remain,2016-06-24T08:00:32.000Z,Cameron forgot his kid in a pub. Couldn't we have done the same with 52% of the voters? #Brexit #Remain #AshamedToBeBritish,"['ashamedtobebritish', 'remain', 'brexit']"
+76,76,76,1141674,743030572440817664,26012527,positive,remain,2016-06-15T10:41:07.000Z,@JDF supports #Brexit because he has sold British withers out by moving his production to Malaysia for  cheap labour #askboris #Remain,"['askboris', 'remain', 'brexit']"
+77,77,77,548129,723865675593355264,2241070922,negative,other,2016-04-23T13:26:40.000Z,"It you're just tuning in, we're talking #Brexit implications with @DefenceHQ's Fallon &amp; @BBC's James Harding #AspenSecurity #Remain Leave","['aspensecurity', 'remain', 'brexit']"
+78,78,78,1516650,745895625481404416,728172451591557120,negative,remain,2016-06-23T08:25:49.000Z,#Brexit are you #Remain or are you #Leave we are very much split on the #Astutewater desk. #BrexitDebate,"['astutewater', 'leave', 'remain', 'brexitdebate', 'brexit']"
+79,79,79,1541906,745966171875385344,2882417429,positive,other,2016-06-23T13:06:09.000Z,#Sterling rallying as #Remain victory likely #Brexit #Voted #Audere #Auderesolutions https://t.co/H79OxoSPhr #GBP https://t.co/leuegbQ2kt,"['audere', 'gbp', 'auderesolutions', 'voted', 'remain', 'brexit', 'sterling']"
+80,80,80,1206211,743511889410416640,1120654892,positive,other,2016-06-16T18:33:42.000Z,"If #Brexit wins and the #Remain people are true to their word and leave the country. Great, overcrowding  problem solved. #AurRevoir #AufW","['aurrevoir', 'remain', 'brexit', 'aufw']"
+81,81,81,1270266,744439310288445440,72605623,negative,remain,2016-06-19T07:58:57.000Z,#auspol postal vote submitted. #brexit #remain proxy vote seems to have messed up...again.,"['auspol', 'remain', 'brexit']"
+82,82,82,1210426,743565596856508416,378420614,negative,remain,2016-06-16T22:07:07.000Z,The fact extremist right wing nutter KILLS for #Brexit is reason alone for UK to vote #Remain. #RemainForJo. #auspol,"['auspol', 'remain', 'brexit', 'remainforjo']"
+83,83,83,1265503,744380043757948928,635950304,neutral,other,2016-06-19T04:03:27.000Z,"#Brexit
 The #Remain campaign, funded by
 Goldman Sachs
 Morgan Stanley
@@ -174,117 +123,160 @@ JP Morgan
 The folks who gave you
 #TheCreditCrunch
 #Austerity
-#Bailouts","['bailouts', 'thecreditcrunch', 'remain', 'austerity', 'brexit']"
-115,115,115,115,115,115,115,115,1471704,745682661189033984,62098736,positive,other,2016-06-22T18:19:35.000Z,Football fans in general are split on #Brexit right? Would have thought requiring work permits for #ballers would be a good case for #Remain,"['ballers', 'brexit', 'remain']"
-116,116,116,116,116,116,116,116,653722,730804579491778560,493040110,positive,other,2016-05-12T16:59:24.000Z,"#BankofEngland Governor job vacant, only independent candidates supporting #Brexit need apply #Remain https://t.co/hHiPsPv4by @BBCNews","['bankofengland', 'brexit', 'remain']"
-117,117,117,117,117,117,117,117,769230,735068443674824704,710182798691332096,negative,other,2016-05-24T11:22:28.000Z,#EUreferendum will decide next recession according #Brexit and #Remain. #Banks caused 2007 crash when will politicians hold them to account?,"['banks', 'brexit', 'eureferendum', 'remain']"
-118,118,118,118,118,118,118,118,550013,723989176815857664,2887524516,negative,other,2016-04-23T21:37:25.000Z,#BarackObama please #Brexit your TTIP deal - a vehicle by which you can plunder the UK via endlessly suing our NHS. #Remain,"['barackobama', 'brexit', 'remain']"
-119,119,119,119,119,119,119,119,1342485,744966416449810432,236585543,negative,remain,2016-06-20T18:53:29.000Z,Perplexed by #BaronessWarsi rationale in changing sides - disliking #Brexit campaign rather than being persuaded by #Remain arguments,"['baronesswarsi', 'brexit', 'remain']"
-120,120,120,120,120,120,120,120,1316843,744843491184939008,725286267320164352,negative,other,2016-06-20T10:45:01.000Z,"*BREAKING*
+#Bailouts","['austerity', 'bailouts', 'thecreditcrunch', 'remain', 'brexit']"
+84,84,84,1172866,743340402397175808,18672870,negative,other,2016-06-16T07:12:17.000Z,the #Brexit Tories are getting away with blaming the #EU for results of their own #austerity policies; #Remain Tories can't object!,"['austerity', 'eu', 'remain', 'brexit']"
+85,85,85,828458,737264347018301440,1673723341,neutral,leave,2016-05-30T12:48:12.000Z,"Tirelessly, #Eurogroup keeps fueling #VoteLeave &amp; #Brexit domino effects https://t.co/VpKT3C3T40
+#Greece #Austerity #DiEM25 #Remain","['austerity', 'eurogroup', 'greece', 'diem25', 'remain', 'brexit', 'voteleave']"
+86,86,86,872498,738430189542215680,4843970686,negative,remain,2016-06-02T18:00:51.000Z,What GP? A consequence of being in EU! Voting #Remain is a vote 4 indentured #Slavery &amp; #Austerity #Brexit 4 #life https://t.co/CSZwehltCG,"['austerity', 'life', 'slavery', 'remain', 'brexit']"
+87,87,87,2446254,746727682461818880,3222026873,positive,other,2016-06-25T15:32:07.000Z,"Tories, #austerity, #BREXIT - and they want to get rid of #JeremyCorbyn? Last ray of hope left... Give him a chance! #euref #Remain #Love","['austerity', 'love', 'euref', 'remain', 'brexit', 'jeremycorbyn?']"
+88,88,88,1051764,742075418753290240,2168155795,negative,remain,2016-06-12T19:25:41.000Z,"@jannydavies1 
+This is a bad argument for #Remain .
+It rests on false assumption that #austerity will be needed to cure post-Brexit slump.","['austerity', 'remain']"
+89,89,89,901492,739234649008943104,707463510,positive,remain,2016-06-04T23:17:29.000Z,Looks as though #Remain camp will be wearing #austerity policies like a crown of thorns for the rest of the #EUreferendum campaign.  #Brexit,"['austerity', 'remain', 'brexit', 'eureferendum']"
+90,90,90,486016,720663665997963264,21489341,positive,other,2016-04-14T17:23:01.000Z,"#Brexit referendum: #Remain camp backs European Union of #austerity and militarism https://t.co/kY0tCBSu2y
+#EUref #EUreferendum #Labour","['austerity', 'remain', 'labour', 'eureferendum', 'euref', 'brexit']"
+91,91,91,1319816,744856103578640384,2410540098,positive,remain,2016-06-20T11:35:08.000Z,#Remain vote strongest among British #expats in #Austria https://t.co/s2BonQCeFc #Brexit #EUref https://t.co/tq6yj597Mm,"['austria', 'expats', 'remain', 'euref', 'brexit']"
+92,92,92,748952,734520019493761024,145165897,neutral,remain,2016-05-22T23:03:14.000Z,2016 democracy is all about choosing between equally-unappealing options #Austria #EUref #Brexit #remain #trump #sanders #clinton,"['austria', 'remain', 'trump', 'sanders', 'euref', 'clinton', 'brexit']"
+93,93,93,2262223,746461209071861760,248184872,neutral,remain,2016-06-24T21:53:15.000Z,How come #bookmakers priced up 1/5..1/7..1/8..1/10 for UK to #Remain ?? #Brexit #baffling #averybadjob ...#UK,"['averybadjob', 'baffling', 'bookmakers', 'remain', 'brexit']"
+94,94,94,981116,740880443835330560,58199261,neutral,remain,2016-06-09T12:17:17.000Z,#Loughinisland findings are a bit #awkward for #JohnMajor who recently signalled his support not for #Brexit but for #Remain,"['awkward', 'johnmajor', 'remain', 'loughinisland', 'brexit']"
+95,95,95,531184,723252880216604672,85386747,negative,remain,2016-04-21T20:51:38.000Z,"#awkward  moment when your projections fail to materialise. Still not like #remain are relying on George! :)
+#BREXIT https://t.co/RmESMdBjMQ","['awkward', 'remain', 'brexit']"
+96,96,96,743360,734308719333367808,9707572,positive,other,2016-05-22T09:03:36.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+97,97,97,795366,735923773166256128,9707572,positive,other,2016-05-26T20:01:14.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+98,98,98,842502,737705474418724864,9707572,positive,other,2016-05-31T18:01:05.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+99,99,99,1253335,744153147564822528,9707572,positive,other,2016-06-18T13:01:50.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+100,100,100,1372858,745195258762371072,9707572,positive,other,2016-06-21T10:02:49.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+101,101,101,585180,726049230515785728,9707572,positive,other,2016-04-29T14:03:20.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+102,102,102,763835,734972605359329280,9707572,positive,other,2016-05-24T05:01:38.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+103,103,103,598463,727513363736068096,9707572,positive,other,2016-05-03T15:01:17.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+104,104,104,588179,726365782389719040,9707572,positive,other,2016-04-30T11:01:12.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+105,105,105,1012540,741329371672260608,9707572,positive,other,2016-06-10T18:01:10.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+106,106,106,1110613,742749059144949760,9707572,positive,other,2016-06-14T16:02:29.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+107,107,107,1136726,743005937284349952,9707572,positive,other,2016-06-15T09:03:14.000Z,US is only negotiating one trade agreement at present. The ‘queue’ is not very long https://t.co/iUbIet6Dap #brexit #remain #backofthequeue,"['backofthequeue', 'remain', 'brexit']"
+108,108,108,542252,723597818028503040,3014234895,negative,remain,2016-04-22T19:42:18.000Z,"We needed #Cameron to grow a set today as #Obama put uk in its place #backofthequeue 
+did the #Remain campaign no good #brexit #eu","['backofthequeue', 'remain', 'cameron', 'obama', 'eu', 'brexit']"
+109,109,109,216095,703536154629505024,4077381023,positive,remain,2016-02-27T11:04:24.000Z,"Every Sat I was committed to #backzac2016 He said backing Brexit, hugely damaging to Ldn, is a ""matter of principle"".Ditto. am out 4 #Remain","['backzac2016', 'remain']"
+110,110,110,1069898,742335060070764544,209536300,negative,remain,2016-06-13T12:37:24.000Z,@PCollinsTimes though pity Murdoch bending over backwards to turn GB to #brexit #bias #bad #remain,"['bad', 'remain', 'bias', 'brexit']"
+111,111,111,678573,731750712670097408,45514576,negative,remain,2016-05-15T07:38:59.000Z,Change the misleading Brexit Battle Bus | Campaigns by You #badboris #Brexit #Remain #RemainINEU  https://t.co/sO1uGI43xj,"['badboris', 'remain', 'brexit', 'remainineu']"
+112,112,112,1077325,742445756997632000,1560572144,negative,remain,2016-06-13T19:57:17.000Z,"Brexit would be Bad, Mad &amp; Sad... #BadMadSad @StrongerIn #StrongerIn #Remain #InEurope #EUreferendum","['badmadsad', 'strongerin', 'remain', 'ineurope', 'eureferendum']"
+113,113,113,1827630,746244577447772160,120069576,positive,remain,2016-06-24T07:32:26.000Z,#Brexit first casualty is the Prime Minister #EUref as final results announced #Leave wins 52% of votes #Remain get #48% #bagsundereyes,"['bagsundereyes', 'leave', 'remain', '48', 'euref', 'brexit']"
+114,114,114,1509383,745875448651997184,239957663,positive,remain,2016-06-23T07:05:39.000Z,"Eurosceptic conservative CEE wants #Remain vote, tho some feel #Brexit would benefit them&amp; #Balkans long-term. https://t.co/7H1xIrR2C2","['balkans', 'remain', 'brexit']"
+115,115,115,1471704,745682661189033984,62098736,positive,other,2016-06-22T18:19:35.000Z,Football fans in general are split on #Brexit right? Would have thought requiring work permits for #ballers would be a good case for #Remain,"['ballers', 'remain', 'brexit']"
+116,116,116,985863,740945646463668224,375766982,negative,remain,2016-06-09T16:36:22.000Z,Following pressure from #BAME constituents #Brexit backing Labour MP Mahmood defects to #Remain https://t.co/MKV1RSq2uR,"['bame', 'remain', 'brexit']"
+117,117,117,1529851,745933492974927872,3379345901,neutral,other,2016-06-23T10:56:18.000Z,"#iVoted #Remain on the way to work. 
+I was not #bananas for #brexit !","['bananas', 'remain', 'brexit', 'ivoted']"
+118,118,118,1190238,743433272101847040,3558878416,negative,remain,2016-06-16T13:21:19.000Z,"BBC News - #Brexit poses global financial risk, #BankofEngland warns https://t.co/EN8dlVBfec #Remain","['bankofengland', 'remain', 'brexit']"
+119,119,119,653722,730804579491778560,493040110,positive,other,2016-05-12T16:59:24.000Z,"#BankofEngland Governor job vacant, only independent candidates supporting #Brexit need apply #Remain https://t.co/hHiPsPv4by @BBCNews","['bankofengland', 'remain', 'brexit']"
+120,120,120,1000397,741186335604625408,375032879,positive,other,2016-06-10T08:32:47.000Z,"@JuliaHB1 @DPJHodges 
+If we #Remain be interesting 2c some of the scaremongering about #Brexit occur despite not exiting #sterling #Bankrate","['bankrate', 'sterling', 'remain', 'brexit']"
+121,121,121,412888,715459356884647936,569227634,negative,remain,2016-03-31T08:42:57.000Z,#Banks &amp; #HedgeFunds bankrolling the fight over🇬🇧in EU could remain hidden https://t.co/dqYzS3g63T via @BIUK_Finance #Remain #Leave #Brexit,"['banks', 'leave', 'remain', 'hedgefunds', 'brexit']"
+122,122,122,1511069,745879574219743232,21740956,positive,leave,2016-06-23T07:22:02.000Z,"If you dont vote, you are almost as big a 🔔🔚 as those who #VoteRemain #Remain. #MyOpinion #Brexit #EUref #TakeControl #VoteLeave #Bants","['bants', 'myopinion', 'takecontrol', 'remain', 'voteleave', 'euref', 'brexit', 'voteremain']"
+123,123,123,1585902,746104399831961600,22128421,positive,remain,2016-06-23T22:15:25.000Z,"No #Brexit bars for me! Looking like a #Remain win, so I won't need a visa when #BarnetFC are in #ChampionsLeague https://t.co/oM40JgOomp","['barnetfc', 'remain', 'brexit', 'championsleague']"
+124,124,124,1316843,744843491184939008,725286267320164352,negative,other,2016-06-20T10:45:01.000Z,"*BREAKING*
 WARSI SENSATIONALLY CANCELS GLASTONBURY HEADLINE SET
 #BaronessWarsi #Brexit #Remain 
-https://t.co/kwbiNR2AN4","['baronesswarsi', 'brexit', 'remain']"
-121,121,121,121,121,121,121,121,1383228,745236112533233664,725286267320164352,negative,other,2016-06-21T12:45:09.000Z,"IN YESTERDAY'S NEWS:
+https://t.co/kwbiNR2AN4","['baronesswarsi', 'remain', 'brexit']"
+125,125,125,1342485,744966416449810432,236585543,negative,remain,2016-06-20T18:53:29.000Z,Perplexed by #BaronessWarsi rationale in changing sides - disliking #Brexit campaign rather than being persuaded by #Remain arguments,"['baronesswarsi', 'remain', 'brexit']"
+126,126,126,1383228,745236112533233664,725286267320164352,negative,other,2016-06-21T12:45:09.000Z,"IN YESTERDAY'S NEWS:
 WARSI SENSATIONALLY CANCELS GLASTONBURY HEADLINE SET
 #BaronessWarsi #Brexit #Remain
-https://t.co/kwbiNR2AN4","['baronesswarsi', 'brexit', 'remain']"
-122,122,122,122,122,122,122,122,1325415,744880796104822784,102658803,neutral,leave,2016-06-20T13:13:15.000Z,How many votes in the #EUreferendum DOES #BaronessWarsi have? #VoteLeave #Brexit #Remain,"['baronesswarsi', 'voteleave', 'remain', 'brexit', 'eureferendum']"
-123,123,123,123,123,123,123,123,1323733,744873705868791808,2469843044,negative,leave,2016-06-20T12:45:05.000Z,".@TheSun #Brexit #VoteLeave #Leave #Remain #Warsi 
+https://t.co/kwbiNR2AN4","['baronesswarsi', 'remain', 'brexit']"
+127,127,127,946112,740205505650524160,4363628507,neutral,remain,2016-06-07T15:35:19.000Z,"#Brexit fears are driving up food &amp; drink costs for #pubs #bars &amp; #restaurants it is reported here: https://t.co/B8uBRA00t1
+#Remain #Euref","['bars', 'restaurants', 'remain', 'euref', 'pubs', 'brexit']"
+128,128,128,1157804,743136346886144000,3238227224,negative,leave,2016-06-15T17:41:26.000Z,Boomtown Rat abandons a sinking ship #Brexit #Remain #battleofthethames https://t.co/pJVvMR78wG,"['battleofthethames', 'remain', 'brexit']"
+129,129,129,1152233,743097613529042944,1074201204,positive,remain,2016-06-15T15:07:31.000Z,Anyone else loving the idea that there was a naval battle on the Thames between #Remain  and #Brexit #battleofthethames,"['battleofthethames', 'remain', 'brexit']"
+130,130,130,1144765,743046337428639744,25999072,neutral,remain,2016-06-15T11:43:46.000Z,#Brexit Pro-#Leave fishermen try to board Geldof #Remain boat near parliament. #battleofthethames https://t.co/9V1raj5uCW Via @jimwaterson,"['battleofthethames', 'remain', 'brexit']"
+131,131,131,1502242,745851410433052672,2580919358,neutral,remain,2016-06-23T05:30:08.000Z,"#BB18 #ChilevsColombia #UEFA #EUref #Britain♥ #Remain for  jobs,stability,scientific,medical progress!No to #Brexit  https://t.co/beBL9TV22E","['bb18', 'britainâ\x99¥', 'chilevscolombia', 'remain', 'uefa', 'euref', 'brexit']"
+132,132,132,1483269,745729389841756160,96329672,negative,remain,2016-06-22T21:25:16.000Z,Scared by the Eton Tories ripping up 40 years of law to make their own bypassing parliament! #Brexit #Remain #BB18 https://t.co/tA1enS4jew,"['bb18', 'remain', 'brexit']"
+133,133,133,1406348,745348397352226816,2979912988,positive,leave,2016-06-21T20:11:20.000Z,"Typical #BBC anchor, letting the #Remain side ramble on but taking the mic away from #Brexit supporters before they finish point #BBCDebate","['bbc', 'bbcdebate', 'remain', 'brexit']"
+134,134,134,1655396,746181110128906240,34046001,positive,other,2016-06-24T03:20:14.000Z,"#ChukkaUmunna not being honest on the #BBC today…such a bullshitter
 
-Cameron plans new EU referendum ballot paper  
+#EUREF #BREXIT #REMAIN","['bbc', 'chukkaumunna', 'remain', 'euref', 'brexit']"
+135,135,135,794857,735916068309438464,391692889,positive,other,2016-05-26T19:30:38.000Z,"Most shared post on fb with 86k shares #EU #Remain #Brexit #BBC #BBCDebate #BBC 
+https://t.co/7Istv8p7PQ","['bbc', 'eu', 'remain', 'bbcdebate', 'brexit']"
+136,136,136,1605915,746141669293187072,34046001,neutral,other,2016-06-24T00:43:31.000Z,"@jonesthemarkets I have 144 bottles of Bordeaux classed growths in my cellar…but am too far away, I am afraid! #BBC #EUREF #REMAIN #brexit","['bbc', 'euref', 'brexit', 'remain']"
+137,137,137,315577,708240217069756416,953592132,neutral,other,2016-03-11T10:36:40.000Z,EU referendum: both sides to get at least five BBC broadcasts. 🇬🇧🇪🇺 #BBC #Brexit #Remain #EUreferendum https://t.co/FIHvEUNkOS,"['bbc', 'eureferendum', 'remain', 'brexit']"
+138,138,138,379114,712624124988956672,818246442,neutral,other,2016-03-23T12:56:45.000Z,"Will #BBC survive #EUreferendum? Must fulfil duty to educate &amp; inform,  &amp; dispell #Brexit #remain myths. More to do. https://t.co/E7IsA58fbh","['bbc', 'eureferendum?', 'remain', 'brexit']"
+139,139,139,952125,740290945657282560,20237182,neutral,other,2016-06-07T21:14:50.000Z,Huw Edwards can't even read out the web address to register for voting correctly. Sums up the #BBC really #Brexit #Remain #EURefReady,"['bbc', 'eurefready', 'remain', 'brexit']"
+140,140,140,1683692,746192177038921728,3083544538,negative,other,2016-06-24T04:04:13.000Z,#BBC forecast 52% #Leave and 48% #Remain (#Brexit #EURefResults),"['bbc', 'eurefresults', 'leave', 'remain']"
+141,141,141,692181,732194956568371200,135088714,neutral,other,2016-05-16T13:04:15.000Z,All the #Remain side has is a dodgy economic case for staying. A #Brexit seems a lot more positive about our future. #lbc #bbc #skynews,"['bbc', 'lbc', 'skynews', 'remain', 'brexit']"
+142,142,142,1407370,745353593818058752,288694594,negative,other,2016-06-21T20:31:59.000Z,"Enormous eclipse of the sun over UK! What on earth is it? It's an enormous pie in the sky, with #Leave on it. #Brexit #Remain #bbc","['bbc', 'leave', 'remain', 'brexit']"
+143,143,143,1393989,745285046479749120,346703493,positive,other,2016-06-21T15:59:36.000Z,"TOP TIP for researching #EURef: don't just use #BBC &amp; your favourite news source. Use Google/YouTube etc-go broad.
 
-#BaronessWarsi https://t.co/fmpdQbvCvi","['baronesswarsi', 'voteleave', 'warsi', 'remain', 'leave', 'brexit']"
-124,124,124,124,124,124,124,124,1152233,743097613529042944,1074201204,positive,remain,2016-06-15T15:07:31.000Z,Anyone else loving the idea that there was a naval battle on the Thames between #Remain  and #Brexit #battleofthethames,"['battleofthethames', 'brexit', 'remain']"
-125,125,125,125,125,125,125,125,1157804,743136346886144000,3238227224,negative,leave,2016-06-15T17:41:26.000Z,Boomtown Rat abandons a sinking ship #Brexit #Remain #battleofthethames https://t.co/pJVvMR78wG,"['battleofthethames', 'brexit', 'remain']"
-126,126,126,126,126,126,126,126,1144765,743046337428639744,25999072,neutral,remain,2016-06-15T11:43:46.000Z,#Brexit Pro-#Leave fishermen try to board Geldof #Remain boat near parliament. #battleofthethames https://t.co/9V1raj5uCW Via @jimwaterson,"['battleofthethames', 'brexit', 'remain']"
-127,127,127,127,127,127,127,127,1148486,743070416118370304,701383275953180672,negative,other,2016-06-15T13:19:27.000Z,Farage vs Geldof or Procter vs Harrison original Battle of the Thames #history #battleofthethames #remain #Brexit https://t.co/1E62m22XIE,"['battleofthethames', 'history', 'brexit', 'remain']"
-128,128,128,128,128,128,128,128,1483269,745729389841756160,96329672,negative,remain,2016-06-22T21:25:16.000Z,Scared by the Eton Tories ripping up 40 years of law to make their own bypassing parliament! #Brexit #Remain #BB18 https://t.co/tA1enS4jew,"['bb18', 'brexit', 'remain']"
-129,129,129,129,129,129,129,129,1406348,745348397352226816,2979912988,positive,leave,2016-06-21T20:11:20.000Z,"Typical #BBC anchor, letting the #Remain side ramble on but taking the mic away from #Brexit supporters before they finish point #BBCDebate","['bbc', 'brexit', 'bbcdebate', 'remain']"
-130,130,130,130,130,130,130,130,1600572,746132552348540928,34046001,positive,other,2016-06-24T00:07:17.000Z,"I bet @montie is happy agreeing to go on the @campbellclaret show on #BBC just now
+#Brexit #Remain #Leave","['bbc', 'leave', 'remain', 'euref', 'brexit']"
+144,144,144,571771,725259514749026304,49408574,negative,remain,2016-04-27T09:45:17.000Z,"Another example:Privatisations are a risk because of the Tory government,not the EU. #BBC #NHS #Brexit? #Remain! https://t.co/1deKDp9EHe","['bbc', 'nhs', 'brexit?', 'remain']"
+145,145,145,974444,740800315214168064,272133363,neutral,other,2016-06-09T06:58:53.000Z,@bbclaurak looking at that line up Amber Rudd looks out of her depth judging in past appearances. #BBC #Remain #brexit,"['bbc', 'remain', 'brexit']"
+146,146,146,1285324,744583291873943552,730294839053528960,positive,remain,2016-06-19T17:31:05.000Z,I would like to thank @jeremycorbyn for the sterling work he did today on the #BBC for the #Brexit campaign. #Remain look on and weep,"['bbc', 'remain', 'brexit']"
+147,147,147,1478470,745708435799420928,2370903350,negative,leave,2016-06-22T20:02:00.000Z,@JuliaHB1 #Remain hav failed every time but  @Channel4 will probly do all they can 2 minimise their failure like #BBC. demolish em! #Brexit,"['bbc', 'remain', 'brexit']"
+148,148,148,1233213,743842159917400064,2782571156,positive,other,2016-06-17T16:26:05.000Z,@DailyMirror @Kevin_Maguire Germany’s Largest Bank Says Massive UK Growth After #Brexit - #BBC and #Remain Silent https://t.co/RgutuxyEGh,"['bbc', 'remain', 'brexit']"
+149,149,149,1120613,742832368164188160,28555016,negative,remain,2016-06-14T21:33:32.000Z,"Whilst #Remain &amp; #BBC scare peeps about the falling £...It's worth noting it makes our exports cheaper.
+#Brexit","['bbc', 'remain', 'brexit']"
+150,150,150,1600572,746132552348540928,34046001,positive,other,2016-06-24T00:07:17.000Z,"I bet @montie is happy agreeing to go on the @campbellclaret show on #BBC just now
 
-#EURef #Remain #Brexit","['bbc', 'brexit', 'euref', 'remain']"
-131,131,131,131,131,131,131,131,315577,708240217069756416,953592132,neutral,other,2016-03-11T10:36:40.000Z,EU referendum: both sides to get at least five BBC broadcasts. 🇬🇧🇪🇺 #BBC #Brexit #Remain #EUreferendum https://t.co/FIHvEUNkOS,"['bbc', 'brexit', 'eureferendum', 'remain']"
-132,132,132,132,132,132,132,132,379114,712624124988956672,818246442,neutral,other,2016-03-23T12:56:45.000Z,"Will #BBC survive #EUreferendum? Must fulfil duty to educate &amp; inform,  &amp; dispell #Brexit #remain myths. More to do. https://t.co/E7IsA58fbh","['bbc', 'brexit', 'eureferendum?', 'remain']"
-133,133,133,133,133,133,133,133,952125,740290945657282560,20237182,neutral,other,2016-06-07T21:14:50.000Z,Huw Edwards can't even read out the web address to register for voting correctly. Sums up the #BBC really #Brexit #Remain #EURefReady,"['bbc', 'brexit', 'eurefready', 'remain']"
-134,134,134,134,134,134,134,134,1478470,745708435799420928,2370903350,negative,leave,2016-06-22T20:02:00.000Z,@JuliaHB1 #Remain hav failed every time but  @Channel4 will probly do all they can 2 minimise their failure like #BBC. demolish em! #Brexit,"['bbc', 'brexit', 'remain']"
-135,135,135,135,135,135,135,135,974444,740800315214168064,272133363,neutral,other,2016-06-09T06:58:53.000Z,@bbclaurak looking at that line up Amber Rudd looks out of her depth judging in past appearances. #BBC #Remain #brexit,"['bbc', 'brexit', 'remain']"
-136,136,136,136,136,136,136,136,1285324,744583291873943552,730294839053528960,positive,remain,2016-06-19T17:31:05.000Z,I would like to thank @jeremycorbyn for the sterling work he did today on the #BBC for the #Brexit campaign. #Remain look on and weep,"['bbc', 'brexit', 'remain']"
-137,137,137,137,137,137,137,137,1233213,743842159917400064,2782571156,positive,other,2016-06-17T16:26:05.000Z,@DailyMirror @Kevin_Maguire Germany’s Largest Bank Says Massive UK Growth After #Brexit - #BBC and #Remain Silent https://t.co/RgutuxyEGh,"['bbc', 'brexit', 'remain']"
-138,138,138,138,138,138,138,138,1120613,742832368164188160,28555016,negative,remain,2016-06-14T21:33:32.000Z,"Whilst #Remain &amp; #BBC scare peeps about the falling £...It's worth noting it makes our exports cheaper.
-#Brexit","['bbc', 'brexit', 'remain']"
-139,139,139,139,139,139,139,139,444878,717996524496674816,89186016,negative,other,2016-04-07T08:44:45.000Z,#Brexit News should share editorial bias: @FT - #Remain; @Telegraph - #Remain; @guardian - strangely less bias; #BBC - #Remain massive bias,"['bbc', 'brexit', 'remain', 'remain']"
-140,140,140,140,140,140,140,140,705422,732648969201954816,727810913559060480,negative,leave,2016-05-17T19:08:20.000Z,"#VoteLeave #Brexit #Remain #BBC Admits Running Remain Adverts In ""Error"" https://t.co/5u1X94pGra via @guidofawkes","['bbc', 'brexit', 'voteleave', 'remain']"
-141,141,141,141,141,141,141,141,1159394,743147778898006016,388521089,neutral,leave,2016-06-15T18:26:52.000Z,How often can Michael gove say control in 30 minutes!!! Does he not know any other words! #QuestionTime #remain #Brexit #bbc #EUDebate,"['bbc', 'eudebate', 'brexit', 'questiontime', 'remain']"
-142,142,142,142,142,142,142,142,736712,733982012801961984,958350499,negative,other,2016-05-21T11:25:23.000Z,The #BBC are continuing their #Remain agenda by a piece on @BBCRadio4 #moneybox about no post #Brexit  flight delay compensation on flights,"['bbc', 'moneybox', 'brexit', 'remain']"
-143,143,143,143,143,143,143,143,1583630,746098754755895296,2286077399,neutral,leave,2016-06-23T21:52:59.000Z,Well at least I know blue 🔵 is #out  yellow🌕 is #in  #EUref #EUreferendum #Brexit #remain #bbc 😂😂😂,"['bbc', 'out', 'in', 'euref', 'brexit', 'eureferendum', 'remain']"
-144,144,144,144,144,144,144,144,402038,714727522869620736,3575644521,negative,remain,2016-03-29T08:14:55.000Z,"Youth unemployment rate, Total, % of youth labour force, Annual, 2013
-https://t.co/KaFmIbu84I #remain #bbc #brexit Morgan wrong/biased again","['bbc', 'remain', 'brexit']"
-145,145,145,145,145,145,145,145,1605915,746141669293187072,34046001,neutral,other,2016-06-24T00:43:31.000Z,"@jonesthemarkets I have 144 bottles of Bordeaux classed growths in my cellar…but am too far away, I am afraid! #BBC #EUREF #REMAIN #brexit","['bbc', 'remain', 'brexit', 'euref']"
-146,146,146,146,146,146,146,146,692181,732194956568371200,135088714,neutral,other,2016-05-16T13:04:15.000Z,All the #Remain side has is a dodgy economic case for staying. A #Brexit seems a lot more positive about our future. #lbc #bbc #skynews,"['bbc', 'remain', 'lbc', 'skynews', 'brexit']"
-147,147,147,147,147,147,147,147,1602308,746135503100076032,4220148923,negative,other,2016-06-24T00:19:01.000Z,#brexit #Leave 321 - #remain 314 - result live with #bbc https://t.co/RsNrJjDzYA #bbcreferendum #uk #eu @BBCNews,"['bbc', 'uk', 'leave', 'brexit', 'bbcreferendum', 'eu', 'remain']"
-148,148,148,148,148,148,148,148,1579316,746087648343654400,20139543,negative,remain,2016-06-23T21:08:51.000Z,Why is results graphic along Downing Street #BBC? It's not a bloody general election? (It's a very bloody Tory Civil war!) #Brexit #Remain,"['bbc?', 'brexit', 'remain']"
-149,149,149,149,149,149,149,149,492898,721060703747108864,81168649,positive,remain,2016-04-15T19:40:43.000Z,"Cd Brexit save Britain #bbcaq? From being the 5th economy in world with 1 of highest levels of devmnt? No, it will jeopardise it all #Remain","['bbcaq?', 'remain']"
-150,150,150,150,150,150,150,150,864424,738283174745276416,439481790,neutral,other,2016-06-02T08:16:40.000Z,#BBCAskThis #Brexit &amp; #Remain camps :Tell us in which system a law can be passed on a vote number below majority of 50% seats.  EU or UK,"['bbcaskthis', 'brexit', 'remain']"
-151,151,151,151,151,151,151,151,925398,739802438287433728,3826798233,positive,leave,2016-06-06T12:53:40.000Z,#BBCAskThis  #Remain and #Brexit please give more detail about Regulation.A simple bar graph estimating level of regulation by country :D,"['bbcaskthis', 'brexit', 'remain']"
-152,152,152,152,152,152,152,152,941539,740135676822323200,4843970686,neutral,remain,2016-06-07T10:57:51.000Z,"We gear from #Brexit camp, &amp; #Remain camp but nothing from the EU as to what they will do for UK! What is their plan 4 UK in EU? #BBCAskThis","['bbcaskthis', 'brexit', 'remain']"
-153,153,153,153,153,153,153,153,1065298,742295323129843712,294566265,neutral,remain,2016-06-13T09:59:30.000Z,Snide comment at end. Nothing new there then! #brexit #remain #BBCbias https://t.co/EvgKiRNuVX,"['bbcbias', 'remain', 'brexit']"
-154,154,154,154,154,154,154,154,967780,740615797668728832,2607416172,neutral,other,2016-06-08T18:45:40.000Z,Osborne demonstrating why Cameron won't debate with @afneil #bbcdp #brexit  #remain #bbcdebate,"['bbcdebate', 'bbcdp', 'remain', 'brexit']"
-155,155,155,155,155,155,155,155,804461,736159717714694144,272133363,positive,leave,2016-05-27T11:38:48.000Z,Another establishment #Remain 'er when scrutinised by the great @afneil struggles to answer his questions. #bbcdp #BBCDebate #Brexit,"['bbcdebate', 'brexit', 'bbcdp', 'remain']"
-156,156,156,156,156,156,156,156,1405693,745345606332350464,101056236,negative,leave,2016-06-21T20:00:15.000Z,@MikeGapes Not all #Brexitsers are fascists but fascists will be delirious at a #Brexit victory so I vote #Remain #BBCDebate,"['bbcdebate', 'brexit', 'brexitsers', 'remain']"
-157,157,157,157,157,157,157,157,1401438,745323844144095232,3419751999,positive,remain,2016-06-21T18:33:46.000Z,"https://t.co/vWHvi1m137 David Cameron be like ..
+#EURef #Remain #Brexit","['bbc', 'remain', 'brexit', 'euref']"
+151,151,151,705422,732648969201954816,727810913559060480,negative,leave,2016-05-17T19:08:20.000Z,"#VoteLeave #Brexit #Remain #BBC Admits Running Remain Adverts In ""Error"" https://t.co/5u1X94pGra via @guidofawkes","['bbc', 'remain', 'brexit', 'voteleave']"
+152,152,152,736712,733982012801961984,958350499,negative,other,2016-05-21T11:25:23.000Z,The #BBC are continuing their #Remain agenda by a piece on @BBCRadio4 #moneybox about no post #Brexit  flight delay compensation on flights,"['bbc', 'remain', 'moneybox', 'brexit']"
+153,153,153,444878,717996524496674816,89186016,negative,other,2016-04-07T08:44:45.000Z,#Brexit News should share editorial bias: @FT - #Remain; @Telegraph - #Remain; @guardian - strangely less bias; #BBC - #Remain massive bias,"['bbc', 'remain', 'remain', 'brexit']"
+154,154,154,715306,733052181838991360,727228020730257408,neutral,remain,2016-05-18T21:50:34.000Z,Disgraceful #BBC clearly supporting the #Remain no reports at all of leaked #Serco letter #VoteLeave #Brexit  https://t.co/IxFYJU72VG,"['bbc', 'remain', 'serco', 'brexit', 'voteleave']"
+155,155,155,1253137,744150655485501440,603443725,neutral,other,2016-06-18T12:51:56.000Z,#anyQuestions #bbcaq left wing intellignesia @pollytoynbee heavily criticises #Brexit campaign tone whilst implying #remain campaign is fine,"['bbcaq', 'anyquestions', 'remain', 'brexit']"
+156,156,156,453158,718522504277540864,17752298,negative,leave,2016-04-08T19:34:49.000Z,"Know I'm paranoid, but worried having likes of Fallon #bbcaq Soubry #bbcqt &amp; Cameron leading case for #remain is #Brexit conspiracy","['bbcaq', 'bbcqt', 'remain', 'brexit']"
+157,157,157,123468,701040143604523008,402370560,positive,remain,2016-02-20T13:46:09.000Z,#bbcaq Yesterday Cameron would have recommended #Brexit if he hadn't secured his sham deal. Now he's 100% for #Remain. He has no principles.,"['bbcaq', 'remain', 'brexit']"
+158,158,158,493354,721057666282467328,1223389308,negative,remain,2016-04-15T19:28:38.000Z,"#Corbyn backs #Remain, but he lied (apparently)
 
-#Brexit #Remain #EUref #BBCDebate","['bbcdebate', 'brexit', 'euref', 'remain']"
-158,158,158,158,158,158,158,158,1410423,745374118149775360,404788199,positive,remain,2016-06-21T21:53:32.000Z,"#EuRef phrases you'll be glad to hear the back off after the referendum, ""points based Australian style"" #Remain #Brexit #BBCDebate","['bbcdebate', 'brexit', 'euref', 'remain']"
-159,159,159,159,159,159,159,159,1400505,745348854581698560,54556096,positive,other,2016-06-21T20:13:09.000Z,Please vote. #EURef  #Brexit #Remain #BBCDebate https://t.co/TOpzyeEbZW,"['bbcdebate', 'brexit', 'euref', 'remain']"
-160,160,160,160,160,160,160,160,1407437,745353905823948800,29029919,positive,remain,2016-06-21T20:33:13.000Z,"It's pretty clear that the #Remain side are shitting themselves if it goes #Brexit  
+#Brexit #EUref @UKLabour #bbcaq https://t.co/6psMABCgaA","['bbcaq', 'remain', 'corbyn', 'euref', 'brexit']"
+159,159,159,492898,721060703747108864,81168649,positive,remain,2016-04-15T19:40:43.000Z,"Cd Brexit save Britain #bbcaq? From being the 5th economy in world with 1 of highest levels of devmnt? No, it will jeopardise it all #Remain","['bbcaq?', 'remain']"
+160,160,160,978395,740849030574559232,236176357,neutral,remain,2016-06-09T10:12:27.000Z,#BBCAskThis Why do campaigners from #Brexit #Remain swing their arms more than an #England Bowler @skynews @bbcnews #Bbcdp @lbc #Bbcqt,"['bbcaskthis', 'england', 'bbcdp', 'bbcqt', 'remain', 'brexit']"
+161,161,161,925398,739802438287433728,3826798233,positive,leave,2016-06-06T12:53:40.000Z,#BBCAskThis  #Remain and #Brexit please give more detail about Regulation.A simple bar graph estimating level of regulation by country :D,"['bbcaskthis', 'remain', 'brexit']"
+162,162,162,941539,740135676822323200,4843970686,neutral,remain,2016-06-07T10:57:51.000Z,"We gear from #Brexit camp, &amp; #Remain camp but nothing from the EU as to what they will do for UK! What is their plan 4 UK in EU? #BBCAskThis","['bbcaskthis', 'remain', 'brexit']"
+163,163,163,864424,738283174745276416,439481790,neutral,other,2016-06-02T08:16:40.000Z,#BBCAskThis #Brexit &amp; #Remain camps :Tell us in which system a law can be passed on a vote number below majority of 50% seats.  EU or UK,"['bbcaskthis', 'remain', 'brexit']"
+164,164,164,676026,731608309959163904,9707572,positive,remain,2016-05-14T22:13:08.000Z,"'Impartial' #BBC Leading Light For 'StrongerIn' Campaign https://t.co/XleM1O7s1S
 
-#BBCDebate #EUreferendum","['bbcdebate', 'brexit', 'eureferendum', 'remain']"
-161,161,161,161,161,161,161,161,1401166,745352789241520128,278684223,negative,leave,2016-06-21T20:28:47.000Z,#Remain camp savaging #Brexit fools in every argument #BBCDebate #EUreferendum,"['bbcdebate', 'brexit', 'eureferendum', 'remain']"
-162,162,162,162,162,162,162,162,1436309,745557276295991296,501711452,neutral,other,2016-06-22T10:01:21.000Z,It's not *what* you know... #BBCdebate #Brexit #Remain https://t.co/cWIZafgmSR,"['bbcdebate', 'brexit', 'remain']"
-163,163,163,163,163,163,163,163,1412272,745390685717692416,91386387,positive,leave,2016-06-21T22:59:22.000Z,"Please anyone,convince me otherwise,it's your/our future,I've done the research #Brexit #Remain #BBCdebate https://t.co/2AvQ62ryGF","['bbcdebate', 'brexit', 'remain']"
-164,164,164,164,164,164,164,164,1435983,745556365096017920,501711452,neutral,remain,2016-06-22T09:57:43.000Z,Ye canna break the laws o' physics #BBCdebate #Brexit #Remain https://t.co/K2wNh1fZka,"['bbcdebate', 'brexit', 'remain']"
-165,165,165,165,165,165,165,165,1406104,745347352387588096,726200464728051712,positive,other,2016-06-21T20:07:11.000Z,It’s not too late to rekindle the passion. We’re great together. Forget about #Brexit and vote #Remain #BBCDebate https://t.co/JvVL3HOpXa,"['bbcdebate', 'brexit', 'remain']"
-166,166,166,166,166,166,166,166,1404160,745338427470643200,45674004,negative,remain,2016-06-21T19:31:43.000Z,"Usual #Brexit crap. All froth, bluster and fantasy with NO cogent, coherent policies or solutions if we leave. #Remain #BBCDebate","['bbcdebate', 'brexit', 'remain']"
-167,167,167,167,167,167,167,167,1405187,745343391718858752,272133363,negative,remain,2016-06-21T19:51:27.000Z,"@bbcnickrobinson &amp; as Andrea said does that make the #Brexit voters all BNP supporters, racists &amp; bigots? Cheap shot by #Remain #BBCDebate","['bbcdebate', 'brexit', 'remain']"
-168,168,168,168,168,168,168,168,1404055,745337852972634112,371196600,negative,remain,2016-06-21T19:29:26.000Z,#Brexit mob can't and won't guarantee workers' rights...Don't give Boris carte blanche to slash &amp; burn employment rights #Remain #BBCDebate,"['bbcdebate', 'brexit', 'remain']"
-169,169,169,169,169,169,169,169,1409257,745364697642311680,2830616246,positive,other,2016-06-21T21:16:06.000Z,My brother has just 'come out' as in?!?! ....I still love him #Brexit #Remain  #BBCDebate,"['bbcdebate', 'brexit', 'remain']"
-170,170,170,170,170,170,170,170,1415031,745430368166154240,441089297,negative,other,2016-06-22T01:37:03.000Z,"Reason 644,980 to #Remain - Michael Gove says he may resign if Britain votes to Remain in Europe https://t.co/X0zW8M1lJq #BBCDebate #Brexit","['bbcdebate', 'brexit', 'remain']"
-171,171,171,171,171,171,171,171,1411259,745380840373268480,538895336,negative,leave,2016-06-21T22:20:15.000Z,The arguments exchanged by both #Remain and #Brexit are just too silly to make a well make founded life changing decision on. #BBCdebate,"['bbcdebate', 'brexit', 'remain']"
-172,172,172,172,172,172,172,172,1408950,745362622766268416,1117583238,neutral,other,2016-06-21T21:07:52.000Z,"Well done #Remain team, you thrashed the pants off #Brexit ! #BBCDebate #StrongerIn","['bbcdebate', 'brexit', 'strongerin', 'remain']"
-173,173,173,173,173,173,173,173,1406769,745350444805914624,1731218809,neutral,leave,2016-06-21T20:19:28.000Z,"It might just be because I am #Brexit but #Remain panel are sooooooo annoying!
+#BBCbias #EUref #Brexit #Remain https://t.co/t91zPzN8MJ","['bbcbias', 'bbc', 'remain', 'euref', 'brexit']"
+165,165,165,974507,740801123989213184,429051707,neutral,remain,2016-06-09T07:02:06.000Z,#bbcnews puffs up #Tory doc Wollaston leaving #Brexit but trivialises John Nott objecting to #Remain lies. #bbcbias #bbcr4today #kuenssberg,"['bbcbias', 'bbcnews', 'tory', 'remain', 'kuenssberg', 'bbcr4today', 'brexit']"
+166,166,166,448310,718142612755124224,612802492,positive,remain,2016-04-07T18:25:15.000Z,"The #Brexit campaign has full support of tabloid press, most broadsheets &amp; #bbcbias all #Remain has is small gov leaflet #c4news #EURef","['bbcbias', 'c4news', 'euref', 'remain', 'brexit']"
+167,167,167,1471790,745682995189809152,1691611932,negative,remain,2016-06-22T18:20:54.000Z,"@BBCNews why no mention of Junker ""no reforms for UK"" revelation today? #bbcbias #euref #brexit #remain","['bbcbias', 'euref', 'remain', 'brexit']"
+168,168,168,169671,702016063882530816,2165706186,negative,remain,2016-02-23T06:24:07.000Z,@GuidoFawkes @ThorpeLynden Spin that #BBCbias #Conservatives #Remain #Leave #Brexit https://t.co/STr8rifnxm,"['bbcbias', 'leave', 'remain', 'conservatives', 'brexit']"
+169,169,169,1141676,743060775930060800,254185468,neutral,remain,2016-06-15T12:41:09.000Z,"Yet another puff by @bbc for Brexit -their repeated focus on Havering ""the most eurosceptic borough in LDN"" #bbcbias #Remain @BBCLondonNews","['bbcbias', 'remain']"
+170,170,170,1150054,743081052315516928,165077508,negative,leave,2016-06-15T14:01:43.000Z,"Globalist bankers fund #remain with your bailout money!
 
-#VoteLeave 
-#BBCDebate","['bbcdebate', 'brexit', 'voteleave', 'remain']"
-174,174,174,174,174,174,174,174,1396165,745326592201723904,68701161,neutral,other,2016-06-21T18:44:41.000Z,"Don't believe the brexit lies, vote #Remain     #EURef #BBCDebate","['bbcdebate', 'euref', 'remain']"
-175,175,175,175,175,175,175,175,1402357,745329059199127552,210883893,neutral,remain,2016-06-21T18:54:29.000Z,My #brexit toshometre's gone off the scale  #BBCDebate #EUref #remain https://t.co/c892um2tFD,"['bbcdebate', 'euref', 'remain', 'brexit']"
-176,176,176,176,176,176,176,176,1404434,745339636411699200,372428746,positive,remain,2016-06-21T19:36:31.000Z,When someone compares in as pessimists and out as optimists... I'd quite like a realist with facts... #brexit #BBCDebate  #remain #invoter,"['bbcdebate', 'invoter', 'remain', 'brexit']"
-177,177,177,177,177,177,177,177,1404232,745338742370631680,795521690,negative,remain,2016-06-21T19:32:58.000Z,This really is a new low from #Leave. They have not presented a single firm proposal for post-#Brexit period. #Remain #BBCDebate,"['bbcdebate', 'leave', 'remain']"
-178,178,178,178,178,178,178,178,1406074,745347235731349504,37989822,negative,other,2016-06-21T20:06:43.000Z,"#listentothisifyouhadenough of #bbcdebate
-so #Remain is saying it is 'one way ticket' to #Leave https://t.co/Btcg7eEaSs #Brexit","['bbcdebate', 'leave', 'remain', 'listentothisifyouhadenough', 'brexit']"
-179,179,179,179,179,179,179,179,1407926,745356661322289152,21109320,positive,leave,2016-06-21T20:44:10.000Z,I completely agree with #Boris ! This Thursday should be our country's #independenceday #bbcdebate #remain #leaveeu #brexit,"['bbcdebate', 'leaveeu', 'independenceday', 'boris', 'brexit', 'remain']"
-180,180,180,180,180,180,180,180,1410684,745376300496470016,25983153,neutral,remain,2016-06-21T22:02:13.000Z,We did seem to have more Bees before we joined the EU ...#Brexit #Remain  #BBCDebate,"['bbcdebate', 'remain']"
-181,181,181,181,181,181,181,181,1398481,745338487944130560,539295119,negative,remain,2016-06-21T19:31:57.000Z,How much will brexit effect these oldies in the leave campaign... #Remain #BBCDebate,"['bbcdebate', 'remain']"
-182,182,182,182,182,182,182,182,1402970,745332387287044096,1691611932,neutral,other,2016-06-21T19:07:43.000Z,@SadiqKhan how will wages be higher with the wage supression unregulated immigration causes? #bbcdebate #brexit #remain,"['bbcdebate', 'remain', 'brexit']"
-183,183,183,183,183,183,183,183,1405570,745345061114748928,1691611932,negative,remain,2016-06-21T19:58:05.000Z,Frances O'Grady is terrible. I bet Amber Rudd is fuming. #bbcdebate #brexit #remain,"['bbcdebate', 'remain', 'brexit']"
-184,184,184,184,184,184,184,184,1407313,745353339118960640,203941758,neutral,remain,2016-06-21T20:30:58.000Z,Stark contrast between the factual answers between the #brexit people and the flaky non factual answers from the #remain #brexit #BBCDebate,"['bbcdebate', 'remain', 'brexit']"
-185,185,185,185,185,185,185,185,1403321,745334297582837760,1691611932,negative,remain,2016-06-21T19:15:18.000Z,"@SadiqKhan directed his answer at Boris, Leave people addressing the audience. #bbcdebate #brexit #remain","['bbcdebate', 'remain', 'brexit']"
-186,186,186,186,186,186,186,186,1407176,745352652452732928,1691611932,neutral,other,2016-06-21T20:28:14.000Z,@RuthDavidsonMSP talks rubbish but boy can she debate. #bbcdebate #brexit #remain,"['bbcdebate', 'remain', 'brexit']"
-187,187,187,187,187,187,187,187,1405583,745345105603727360,216866076,neutral,other,2016-06-21T19:58:15.000Z,"Just in &amp; catching #EUreferendum on #BBCDebate 
-#daviddimbleby not to be crossed!
-#Remain camp rubbishing #Brexit &amp; their scaremongering","['bbcdebate', 'remain', 'brexit', 'eureferendum', 'daviddimbleby']"
-188,188,188,188,188,188,188,188,1412292,745390813715243008,4575640115,negative,other,2016-06-21T22:59:53.000Z,Norway suffered same lies and scare stories expressed by #Remain. https://t.co/NqadQRcs3G #bbcdebate #brexit #strongerin #EUref #LeaveEU,"['bbcdebate', 'strongerin', 'brexit', 'euref', 'leaveeu', 'remain']"
-189,189,189,189,189,189,189,189,1408297,745388606043398144,162405404,positive,remain,2016-06-21T22:51:06.000Z,I don't for a second feel that UK won't survive if there is a brexit however I strongly believe that we are Stronger to #Remain  #BBCDebate*,"['bbcdebate*', 'remain']"
-190,190,190,190,190,190,190,190,795088,735919825113976832,82628902,neutral,remain,2016-05-26T19:45:33.000Z,"So what have we learned from #BBCDebate?
-#Remain = Facts, figures and reasoned argument
-#Brexit = Shouty McShoutyface","['bbcdebate?', 'brexit', 'remain']"
-191,191,191,191,191,191,191,191,804136,736152930949210112,236176357,negative,remain,2016-05-27T11:11:50.000Z,RT Can @David_Cameron say Iff voting #Brexit or #Remain will end these Tory attacks on Sick &amp; Disabled #Bbcdp @Lbc  https://t.co/AARw3LvimM,"['bbcdp', 'brexit', 'remain']"
-192,192,192,192,192,192,192,192,1377679,745214840717910016,236176357,neutral,remain,2016-06-21T11:20:38.000Z,RT What have these 2 clowns said today that we haven't heard HUNDREDS of times over last 8 weeks re #Brexit #Remain #Bbcdp @daily_politics,"['bbcdp', 'brexit', 'remain']"
-193,193,193,193,193,193,193,193,690198,732146786501021696,236176357,neutral,other,2016-05-16T09:52:51.000Z,@David_Cameron certainly is transparent 2 the point every word out of his mouth is Claptrap #Brexit #Remain @skynews @bbcnews @lbc #Bbcdp,"['bbcdp', 'brexit', 'remain']"
-194,194,194,194,194,194,194,194,923428,739776163137105920,236176357,positive,remain,2016-06-06T11:09:16.000Z,"RT This is what John Major was saying, I'm saying both #Brexit &amp; #Remain Tories want it #Bbcdp @skynews @bbcnews https://t.co/oxQigZBiIB","['bbcdp', 'brexit', 'remain']"
-195,195,195,195,195,195,195,195,769206,735067970033029120,372805464,neutral,other,2016-05-24T11:20:35.000Z,JoCo asks 'What will get resonance with the public: Pure Logic of #Remain or Emotional Clap Trap of #BRexit' #bbcdp,"['bbcdp', ""brexit'"", 'remain']"
-196,196,196,196,196,196,196,196,1378136,745216353452306432,51147107,positive,remain,2016-06-21T11:26:38.000Z,"Patrick Minford is on AGAIN! 
+https://t.co/1IytASFLK6
 
-Possibly cos he's the ONLY #Brexit-supporting 'economist' #BBCdp could find? Most economists support #Remain","['bbcdp', 'brexit-supporting', 'remain']"
-197,197,197,197,197,197,197,197,285907,706886710676877312,1610238266,negative,remain,2016-03-07T16:58:19.000Z,I get the pros &amp; cons of EU membership but the camps (#Brexit &amp; #Remain ) are piss poor at articulating any sain arguments #bbcdp @afneil,"['bbcdp', 'remain']"
-198,198,198,198,198,198,198,198,1102431,742686901228933120,3164144230,negative,remain,2016-06-14T11:55:30.000Z,Bizarre #remain argument from union rep who should be saying #brexit #bbcdp,"['bbcdp', 'remain', 'brexit']"
-199,199,199,199,199,199,199,199,1539922,745960378924929024,21998633,neutral,remain,2016-06-23T12:43:08.000Z,Odds drifting on #brexit  6/1 #remain 1/11 #bbcdp,"['bbcdp', 'remain', 'brexit']"
+#bbcbias #BBC propaganda funded by #EU money
+Vote #Brexit","['bbcbias', 'remain', 'bbc', 'eu', 'brexit']"
+171,171,171,1331801,744910100062674944,1691611932,negative,other,2016-06-20T15:09:42.000Z,I wonder why the BBC are biased against #brexit? #remain #leave #bbcbias https://t.co/O1ppVIGtU5,"['bbcbias', 'remain', 'leave', 'brexit?']"
+172,172,172,708372,732825953286643712,272133363,positive,leave,2016-05-18T06:51:37.000Z,"#bbcbreakfast FofE  #Remain chap says ""28 countries working together for a better future."" When has the #EU ever worked together? #Brexit","['bbcbreakfast', 'eu', 'remain', 'brexit']"
+173,173,173,834348,737530009871491072,433482267,negative,leave,2016-05-31T06:23:51.000Z,@Gavllen https://t.co/242fqSTt4v #Brexit will be the #CATALYST 4 #Eurozone Freedom #VoteLeave #TakeControl or #Remain #Slaves #bbcbreakfast,"['bbcbreakfast', 'takecontrol', 'slaves', 'catalyst', 'eurozone', 'remain', 'brexit', 'voteleave']"
+174,174,174,1447024,745592331068375040,27303589,negative,remain,2016-06-22T12:20:38.000Z,"if we leave, who pays to change our passports, drivng license &amp; # plates?. #bbcbreakfast #bbcqt #Remain #Brexit @David_Cameron #ukineu","['bbcbreakfast', 'ukineu', 'remain', 'bbcqt', 'brexit']"
+175,175,175,1406020,745347078784692224,136576047,negative,other,2016-06-21T20:06:06.000Z,"It's easy being #remain. Britain is apathetic. ""the EU is shit. It needs to change. Let's stay in, and change it"". 👍😔 #BBCDebate #Brexit","['bbcdebate', 'brexit', 'remain']"
+176,176,176,1407041,745351888380567552,1928492846,negative,leave,2016-06-21T20:25:12.000Z,#BBCDebate &gt; #REMAIN ARE PAINTING #BREXIT AS RACIST AND XENOPHOBIC &gt; IT IS DISGUSTING AND SHOULDN'T BE ALLOWED,"['bbcdebate', 'brexit', 'remain']"
+177,177,177,1407189,745352712657735680,22372860,positive,leave,2016-06-21T20:28:29.000Z,"Great live tweeting of the #BBCDebate on #Brexit by @strongerIn. 
+#Remain!  https://t.co/VqNzCADduV","['bbcdebate', 'brexit', 'remain']"
+178,178,178,794899,735916803646455808,20604567,positive,other,2016-05-26T19:33:33.000Z,#bbcdebate We know what life will be like if we #remain. Same as now. Disingenuous to 'state fact' about benefits of #brexit when unknown.,"['bbcdebate', 'brexit', 'remain']"
+179,179,179,1412285,745390758836969472,14868531,neutral,remain,2016-06-21T22:59:40.000Z,Is Lord Sugar trying to emulate Donald Trump again? #so2005 #RemaIN #brexit #BBCDebate,"['bbcdebate', 'brexit', 'so2005', 'remain']"
+180,180,180,1400162,745347223203024896,1650476935,neutral,leave,2016-06-21T20:06:40.000Z,.@FrancesOGrady is right - Brexit is a backward step for workers #BBCDebate #EUref #Remain,"['bbcdebate', 'euref', 'remain']"
+181,181,181,1407806,745356018989809664,283973105,neutral,other,2016-06-21T20:41:37.000Z,EU immigration not a problem if habitual residency longer &amp; reciprocal compensation for benefits enforced #EUref #BBCDebate #Remain #Brexit,"['bbcdebate', 'euref', 'remain', 'brexit']"
+182,182,182,1439149,745566158645039104,34046001,neutral,remain,2016-06-22T10:36:38.000Z,"Wouldn’t it be amusing if the #EUref was an exact dead-heat…would make Friday’s tv viewing quite entertaining
+
+#bbcdebate #Brexit #Remain","['bbcdebate', 'euref', 'remain', 'brexit']"
+183,183,183,1402985,745332471517036544,25367443,positive,other,2016-06-21T19:08:03.000Z,Not all the experts agree #bbcdebate #EUref #Brexit #Remain Economists for Brexit: https://t.co/WWtOLn4Z3K,"['bbcdebate', 'euref', 'remain', 'brexit']"
+184,184,184,1410080,745371037576093696,104120283,positive,other,2016-06-21T21:41:18.000Z,"Despite what the #Brexit camp say, I don't need back control. It's my wobbly front I'd like to get control of. #BBCDebate #EUref #Remain","['bbcdebate', 'euref', 'remain', 'brexit']"
+185,185,185,1401166,745352789241520128,278684223,negative,leave,2016-06-21T20:28:47.000Z,#Remain camp savaging #Brexit fools in every argument #BBCDebate #EUreferendum,"['bbcdebate', 'eureferendum', 'remain', 'brexit']"
+186,186,186,1407437,745353905823948800,29029919,positive,remain,2016-06-21T20:33:13.000Z,"It's pretty clear that the #Remain side are shitting themselves if it goes #Brexit  
+
+#BBCDebate #EUreferendum","['bbcdebate', 'eureferendum', 'remain', 'brexit']"
+187,187,187,1435296,745553559190548480,1548939932,negative,other,2016-06-22T09:46:34.000Z,How does winston Churchill who's been dead since the 1960's vote remain?? #BBCDebate #Brexit #Remain #factcheck https://t.co/v2LDy5DNk2,"['bbcdebate', 'factcheck', 'remain', 'brexit']"
+188,188,188,1405055,745342736891580416,474910079,negative,other,2016-06-21T19:48:50.000Z,Why do all the women who participate in #BBCDebate on #Brexit feel they need to point out they are mums when arguing for #Remain or #Leave ?,"['bbcdebate', 'leave', 'remain', 'brexit']"
+189,189,189,1406384,745348607306567680,546970174,neutral,leave,2016-06-21T20:12:10.000Z,The #Leave team have a #BBCDebate plan #remain does not. So who do u want 2 take control 4 u @BorisJohnson team or @SadiqKhan VOTE #BREXIT,"['bbcdebate', 'leave', 'remain', 'brexit']"
+190,190,190,1398481,745338487944130560,539295119,negative,remain,2016-06-21T19:31:57.000Z,How much will brexit effect these oldies in the leave campaign... #Remain #BBCDebate,"['bbcdebate', 'remain']"
+191,191,191,1410684,745376300496470016,25983153,neutral,remain,2016-06-21T22:02:13.000Z,We did seem to have more Bees before we joined the EU ...#Brexit #Remain  #BBCDebate,"['bbcdebate', 'remain']"
+192,192,192,1403055,745363164242534400,422914575,negative,remain,2016-06-21T21:10:01.000Z,The fact that Brexit has no plan  = no surprise.   The amount of claps for Boris Johnson? How? #BBCDebate #Remain,"['bbcdebate', 'remain']"
+193,193,193,1408297,745388606043398144,162405404,positive,remain,2016-06-21T22:51:06.000Z,I don't for a second feel that UK won't survive if there is a brexit however I strongly believe that we are Stronger to #Remain  #BBCDebate*,"['bbcdebate', 'remain']"
+194,194,194,1399271,745342649146744832,1911965502,positive,leave,2016-06-21T19:48:30.000Z,WOW. Brexit campaign funded by BNP. Says it all. #BBCDebate #Remain,"['bbcdebate', 'remain']"
+195,195,195,1399638,745344556049240064,277733773,negative,remain,2016-06-21T19:56:04.000Z,"1. Turkey not going to join
+2. £350m a week to EU false figure
+3. Brexit won't mean less migration #BBCDebate #Remain","['bbcdebate', 'remain']"
+196,196,196,1402491,745360225243389952,28080704,neutral,other,2016-06-21T20:58:20.000Z,"Brexit as Nostalgia for Empire #BBCDebate #Remain
+https://t.co/13JOocQKH0 via @critlegthinking","['bbcdebate', 'remain']"
+197,197,197,1401759,745355952350699520,19998011,negative,leave,2016-06-21T20:41:21.000Z,"The standard for Brexit is ""beyond reasonable doubt"". We are nothing but doubt. #RemaIN #BBCDebate","['bbcdebate', 'remain']"
+198,198,198,804461,736159717714694144,272133363,positive,leave,2016-05-27T11:38:48.000Z,Another establishment #Remain 'er when scrutinised by the great @afneil struggles to answer his questions. #bbcdp #BBCDebate #Brexit,"['bbcdebate', 'remain', 'bbcdp', 'brexit']"
+199,199,199,1407355,745353562545397760,26770024,positive,other,2016-06-21T20:31:51.000Z,The debate just for interesting #BBCDebate #Brexit #Remain https://t.co/L8HNaB9Kt1,"['bbcdebate', 'remain', 'brexit']"

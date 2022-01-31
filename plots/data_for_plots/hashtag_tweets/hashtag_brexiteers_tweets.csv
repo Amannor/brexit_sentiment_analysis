@@ -1,310 +1,263 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,0,0,0,498269,721576838414385152,98583506,negative,remain,2016-04-17T05:51:39.000Z,Today's Project Fear Scare #1: When we '#Brexit the Moon  will be so upset it'll crash into UK and all #Brexiteers will be annihilated.,"['1', 'brexiteers']"
-1,1,1,1,1,1,1,1,1164589,743195281185972224,742830379195850752,negative,remain,2016-06-15T21:35:37.000Z,#brexiteers moaning about EU regulations but it's not much fun getting rotten cabbages #Brexit #bremain #bbcqt https://t.co/weMxDJ2Wym,"['bbcqt', 'brexit', 'brexiteers', 'bremain']"
-2,2,2,2,2,2,2,2,581763,725818199388880896,102040635,positive,other,2016-04-28T22:45:18.000Z,So there you go #brexiteers - Yes a vote for #brexit will instigate another Scottish referendum - we can't actually afford anyway #bbcqt,"['bbcqt', 'brexiteers', 'brexit']"
-3,3,3,3,3,3,3,3,1119363,742850436420489216,742830379195850752,positive,leave,2016-06-14T22:45:20.000Z,Vote #bremain and vote for this great leader #brexiteers are #brainwashed plebs #strongerin #brexit #eudebate #bbcqt https://t.co/duhF9KMLfe,"['bbcqt', 'eudebate', 'brainwashed', 'strongerin', 'brexiteers', 'brexit', 'bremain']"
-4,4,4,4,4,4,4,4,1413827,745409797701373952,2904636286,neutral,leave,2016-06-22T00:15:19.000Z,"3 #brexiteers
-@BorisJohnson
-@andrealeadsom &amp;
-@GiselaStuart
-trounce #ProjectFear in #EUref
-#UK #VoteLeave #Brexit #LeaveEU
-#BBCDebate #bbcqt","['bbcqt', 'voteleave', 'projectfear', 'uk', 'brexiteers', 'euref', 'leaveeu', 'brexit', 'bbcdebate']"
-5,5,5,5,5,5,5,5,330370,709323111125143552,937019478,neutral,other,2016-03-14T10:19:42.000Z,"Most Tory MP #Brexiteers just huff &amp; puff to the media. #borisjohnson gets paid by The Telegraph for his EU whinges. #Brexit pays, for him.","['borisjohnson', 'brexiteers', 'brexit']"
-6,6,6,6,6,6,6,6,1345035,744981012711612416,410788286,neutral,leave,2016-06-20T19:51:29.000Z,"On Thu June 23rd is the #EUReferendum Vote
-Not sure what #BREXIT is?
-Basically it's the 
-UK saying FU to the EU
-#brexiteers #Brexit","['brexit', 'brexit', 'eureferendum', 'brexiteers']"
-7,7,7,7,7,7,7,7,990409,741000400908779520,395446240,negative,remain,2016-06-09T20:13:57.000Z,"Been away for a few days #Brexiteers 
-Good news 100% in the Norf West want #BREXIT &gt; bad news &gt;they eat ""Pea Wet"" &gt; don't ask ;(","['brexit', 'brexiteers']"
-8,8,8,8,8,8,8,8,554333,724226180405145600,3124666565,positive,remain,2016-04-24T13:19:11.000Z,"If only the Brexiteers had persons of quality - Norman Lamont, Boris Johnson, Toby Young, too many Dominics, oh dear! #brexiteers  #Brexit","['brexit', 'brexiteers']"
-9,9,9,9,9,9,9,9,198597,702816549611180032,302543344,neutral,remain,2016-02-25T11:24:57.000Z,David asks Boris is the plural of anus aye/nay? Fisted or punched it’s all the same to Boris. #Brexit of the #brexiteers,"['brexit', 'brexiteers']"
-10,10,10,10,10,10,10,10,960153,740519699625222144,3208482538,positive,other,2016-06-08T12:23:49.000Z,"Tories favourite pollster predicts Britain will vote #Brexit 
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,498269,721576838414385152,98583506,negative,remain,2016-04-17T05:51:39.000Z,Today's Project Fear Scare #1: When we '#Brexit the Moon  will be so upset it'll crash into UK and all #Brexiteers will be annihilated.,"['1', 'brexiteers']"
+1,1,1,317516,708305182216552448,520410021,negative,other,2016-03-11T14:54:49.000Z,@StrongerIn #brexit-eers don't give a damn about exports and are prepared to see trade deficit explode further and loss of jobs #bbcnews,"['bbcnews', 'brexiteers']"
+2,2,2,1234171,743853208582389760,355752178,positive,leave,2016-06-17T17:09:59.000Z,"5 Strongest Reasons to #VoteLeave In the #EUreferendum
+https://t.co/rRqMBRjm7Z
+#BNP #LeaveEU #EUref #EU #Brexit #Brexiteers #IndependenceDay","['bnp', 'independenceday', 'brexit', 'brexiteers', 'eu', 'eureferendum', 'euref', 'leaveeu', 'voteleave']"
+3,3,3,1018065,741430848046632960,355752178,neutral,leave,2016-06-11T00:44:23.000Z,"2 weeks to change history
+https://t.co/JyfPA0QyT6
+#BNP #Brexiteers #EUref #IndependenceDay #LeaveEU #Brexit #brexitthemovie
+#June23rd","['bnp', 'independenceday', 'brexiteers', 'brexit', 'june23rd', 'brexitthemovie', 'euref', 'leaveeu']"
+4,4,4,888713,738807744283725824,501139438,neutral,remain,2016-06-03T19:01:07.000Z,#Nigerians - you've seen what #VoteLeave's #Boris &amp; #Farage and #Brexit-eers think of Africans &amp; Obama. #VoteRemain! https://t.co/yPDtUSnRyl,"['boris', 'brexiteers', 'farage', ""voteleave's"", 'voteremain', 'nigerians']"
+5,5,5,330370,709323111125143552,937019478,neutral,other,2016-03-14T10:19:42.000Z,"Most Tory MP #Brexiteers just huff &amp; puff to the media. #borisjohnson gets paid by The Telegraph for his EU whinges. #Brexit pays, for him.","['borisjohnson', 'brexit', 'brexiteers']"
+6,6,6,812698,736544196895576064,235730351,positive,leave,2016-05-28T13:06:35.000Z,"Don't be left out to dry like peppa, #VoteLeave ! #Brexit #BorisvDave #Brexiteers #EUreferendum #peppadoespolitics https://t.co/jMifAHTy8h","['borisvdave', 'brexiteers', 'eureferendum', 'brexit', 'voteleave', 'peppadoespolitics']"
+7,7,7,1164589,743195281185972224,742830379195850752,negative,remain,2016-06-15T21:35:37.000Z,#brexiteers moaning about EU regulations but it's not much fun getting rotten cabbages #Brexit #bremain #bbcqt https://t.co/weMxDJ2Wym,"['bremain', 'bbcqt', 'brexiteers', 'brexit']"
+8,8,8,940645,740123337351954432,322054650,negative,remain,2016-06-07T10:08:49.000Z,The hard truth for #Brexiteers via @commerzbank #Brexit #Bremain https://t.co/3CiN0X5cIh,"['bremain', 'brexit', 'brexiteers']"
+9,9,9,796446,735947697396580352,340933993,neutral,remain,2016-05-26T21:36:18.000Z,"First it was #Brexit, now it's #Brexiteers. Next up, #Brexiteering? #Brexometer? #Brexicutions?","['brexicutions?', 'brexometer?', 'brexiteering?', 'brexiteers', 'brexit']"
+10,10,10,1119363,742850436420489216,742830379195850752,positive,leave,2016-06-14T22:45:20.000Z,Vote #bremain and vote for this great leader #brexiteers are #brainwashed plebs #strongerin #brexit #eudebate #bbcqt https://t.co/duhF9KMLfe,"['brexit', 'bbcqt', 'brainwashed', 'eudebate', 'bremain', 'strongerin', 'brexiteers']"
+11,11,11,662502,731081420534366208,429321193,negative,remain,2016-05-13T11:19:28.000Z,"John Major Sir, may accuse us #Brexiteers all he wants. Won't deter me any. #Brexit","['brexit', 'brexiteers']"
+12,12,12,1504847,745860846685949952,395446240,neutral,leave,2016-06-23T06:07:37.000Z,#Brexiteers today's Independence Day &gt; MSM will spin the exit polls &gt;they'll be hunting down the sheep #BREXIT ffs https://t.co/rmGBEdKA6I,"['brexit', 'brexiteers']"
+13,13,13,508105,722038437319208960,1438007443,positive,remain,2016-04-18T12:25:52.000Z,#Brexiteers set pace on social media campaigns. #Brexit campaign groups have attracted twice as much attention on... https://t.co/ammbDxdSCN,"['brexit', 'brexiteers']"
+14,14,14,815057,736649951518810112,17172028,negative,remain,2016-05-28T20:06:49.000Z,@philjame5 this is the most bogus argument made by the pro #brexit side. Remember that many #Brexiteers have said in the past they hate NHS,"['brexit', 'brexiteers']"
+15,15,15,432816,717095996291989504,966903620,positive,remain,2016-04-04T21:06:23.000Z,"Isn't this something?  
+We #Brexiteers are a positive lot!
+#Brexit  https://t.co/Lw8GZCoyDA","['brexit', 'brexiteers']"
+16,16,16,960153,740519699625222144,3208482538,positive,other,2016-06-08T12:23:49.000Z,"Tories favourite pollster predicts Britain will vote #Brexit 
 
 Come on #Brexiteers let's keep the pedal to the metal
 https://t.co/MGMLIKX6vV","['brexit', 'brexiteers']"
-11,11,11,11,11,11,11,11,234657,704328883219333120,2885705823,positive,leave,2016-02-29T15:34:26.000Z,"Some more homework for my fellow independent #Brexiteers. #Brexit is a process, we take our time to get a good deal. https://t.co/4X46WuJvbi","['brexit', 'brexiteers']"
-12,12,12,12,12,12,12,12,566868,724972512925388800,2885705823,positive,remain,2016-04-26T14:44:51.000Z,Hey #Brexiteers. IBM oppose democracy and want us to stay chained to the#EU. Brits don't  buy @IBM.RT please #Brexit https://t.co/5gRMwISmph,"['brexit', 'brexiteers']"
-13,13,13,13,13,13,13,13,884972,738728217788485632,469485578,neutral,remain,2016-06-03T13:45:06.000Z,@montie @_hanimustafa Surely this must be the pre- #Brexit effect? And #Brexiteers also responsible for the 2008 Crash and Gt Depression,"['brexit', 'brexiteers']"
-14,14,14,14,14,14,14,14,850870,737937951699677184,14412994,negative,other,2016-06-01T09:24:52.000Z,Can anyone point me to a Leftie #Brexit explanation of how they plan to beat the horrific Right #Brexiteers if we leave?,"['brexit', 'brexiteers']"
-15,15,15,15,15,15,15,15,1065687,742298298694946816,945678727,negative,remain,2016-06-13T10:11:20.000Z,#Brexit The realities of a EU-free UK risk to be obfuscated by the tales of the #Brexiteers https://t.co/XoP0zOISsD,"['brexit', 'brexiteers']"
-16,16,16,16,16,16,16,16,894237,739009642534162432,700627128325267456,negative,remain,2016-06-04T08:23:23.000Z,"@academicsforeu yep, no such thing as British exceptionalism, thing the outcome of #Brexit will come as a huge shock to naive #Brexiteers","['brexit', 'brexiteers']"
-17,17,17,17,17,17,17,17,1080962,742455687087820800,20550442,positive,other,2016-06-13T20:36:44.000Z,"#BrExiteers PLEASE SIGN
+17,17,17,2130538,746367801376419840,24727245,positive,other,2016-06-24T15:42:05.000Z,Mexico will pursue a free trade agreement with the U.K. – just as the #Brexiteers were hoping #Brexit  https://t.co/K0OxMkYQgn,"['brexit', 'brexiteers']"
+18,18,18,1815909,746241546710769664,1257158389,negative,remain,2016-06-24T07:20:23.000Z,"@davidicke @laraborland It is the #Brexiteers that inflicted the damage &amp; sadly it will be the people they conned that will suffer.
+#Brexit","['brexit', 'brexiteers']"
+19,19,19,894237,739009642534162432,700627128325267456,negative,remain,2016-06-04T08:23:23.000Z,"@academicsforeu yep, no such thing as British exceptionalism, thing the outcome of #Brexit will come as a huge shock to naive #Brexiteers","['brexit', 'brexiteers']"
+20,20,20,563120,724688860303790080,257599131,neutral,remain,2016-04-25T19:57:43.000Z,The calibre of @UKIP #Brexiteers #Brexit https://t.co/Ev3vkdPqpo,"['brexit', 'brexiteers']"
+21,21,21,79798,699291122967977984,290160887,positive,other,2016-02-15T17:56:10.000Z,"Good news for #Brexiteers - Tony Blair to play  a big part for REMAIN. Treacherous , empire builder &amp; pocket liner will aid #BREXIT","['brexit', 'brexiteers']"
+22,22,22,540291,723558333345615872,460153034,neutral,remain,2016-04-22T17:05:24.000Z,I don't really see #brexiteers as people who will change their minds because Barak Obama tells them to. #brexit,"['brexit', 'brexiteers']"
+23,23,23,405179,714872530188820480,937019478,neutral,remain,2016-03-29T17:51:07.000Z,#Brexiteers are driving down the pound pre-#EUref. Imagine what will happen if #Brexit actually happens. Prices and joblessness both up.,"['brexit', 'brexiteers']"
+24,24,24,2419602,746690635776811008,23188850,neutral,leave,2016-06-25T13:04:55.000Z,Take Back Control? You got it #Brexiteers -#EU #Brexit referendum: France's Calais seeks border deal changes https://t.co/p5SaASe77N,"['brexit', 'brexiteers']"
+25,25,25,1026343,741587788211097600,1337521808,neutral,other,2016-06-11T11:08:01.000Z,@hrtbps @MichaelPDeacon New map comes to light from @vote_leave #Brexit #Brexiteers Font is Eurostile... https://t.co/YVThoKSMQp,"['brexit', 'brexiteers']"
+26,26,26,365166,711843619276201984,4904820549,negative,remain,2016-03-21T09:15:18.000Z,"If #Brexiteers won't believe @PwC_UK, whom will they listen to? #Brexit cd cost £100bn and nearly 1m jobs CBI warns https://t.co/nHv8zbXSQe","['brexit', 'brexiteers']"
+27,27,27,5141,685017901347278848,297286429,negative,leave,2016-01-07T08:39:29.000Z,"Nothing to make you smile on a rainy day than a bunch of clueless British #brexiteers juxtapositioned on #brexit
+ https://t.co/y8iLlFlR2O","['brexit', 'brexiteers']"
+28,28,28,850870,737937951699677184,14412994,negative,other,2016-06-01T09:24:52.000Z,Can anyone point me to a Leftie #Brexit explanation of how they plan to beat the horrific Right #Brexiteers if we leave?,"['brexit', 'brexiteers']"
+29,29,29,691939,732188463412449280,3087093887,negative,leave,2016-05-16T12:38:27.000Z,"Desperate Osborne grumbles about #Brexiteers &amp; ""Conspiracy Theories"" just when 300 top business leaders back #Brexit https://t.co/4RThrqUsIM","['brexit', 'brexiteers']"
+30,30,30,463801,719609124032368640,275547016,positive,other,2016-04-11T19:32:39.000Z,@david_standing Whoever is chosen ALL #Brexiteers must join together &amp; present a united front. June 23rd matters to us all. #Brexit,"['brexit', 'brexiteers']"
+31,31,31,1289896,744622887873613824,427495215,positive,other,2016-06-19T20:08:25.000Z,@KingRossTheBoss FYI @purpleline @DavidCoburnUKip #Brexiteers outside of the UK want #Brexit to take place.,"['brexit', 'brexiteers']"
+32,32,32,2126647,746365806527709184,143281137,positive,other,2016-06-24T15:34:09.000Z,"#Brexiteers are like six year-olds yelling, ""I'm running away from home!"" only to discover they can't actually do much on their own. #Brexit","['brexit', 'brexiteers']"
+33,33,33,2184891,746400303289872384,1912651280,positive,other,2016-06-24T17:51:14.000Z,"Do you #Brexiteers actually believe there will be extra £s to be spend on the NHS, social care and disabled people? #Brexit","['brexit', 'brexiteers']"
+34,34,34,1180278,743352003791749120,350446268,positive,leave,2016-06-16T07:58:23.000Z,Don't let #Brexit trash Coniston - nice people live and holiday there ! #Brexiteers should go to Great Yarmouth https://t.co/GubEM2O4GE,"['brexit', 'brexiteers']"
+35,35,35,10394,686849921870360576,297286429,negative,remain,2016-01-12T09:59:17.000Z,Get more of these deluded #brexiteers to blockus so they can remain in their isolated cocoons dreaming about #brexit https://t.co/NmKIYncO3u,"['brexit', 'brexiteers']"
+36,36,36,1132460,742982633383157760,3656559557,positive,other,2016-06-15T07:30:38.000Z,"HowDare this man call #Brexiteers ""Foolish""
+He needs to look in the mirror 👎😨
+Good interview Nick 👍#LBC @LBC
+#Brexit https://t.co/kG1FbCTroK","['brexit', 'brexiteers']"
+37,37,37,1289158,744615524710088704,590354014,positive,remain,2016-06-19T19:39:10.000Z,"@jreedmp Jamie, i think most #Brexiteers made their minds up long before anyone in public life chimed in with their tuppence worth. #Brexit","['brexit', 'brexiteers']"
+38,38,38,1549834,745990976385212416,2885705823,positive,leave,2016-06-23T14:44:43.000Z,To the indie #Brexiteers out there. Well fought. Keep the faith and keep fighting. You're the real heroes of #Brexit https://t.co/auCHGmsKK2,"['brexit', 'brexiteers']"
+39,39,39,990409,741000400908779520,395446240,negative,remain,2016-06-09T20:13:57.000Z,"Been away for a few days #Brexiteers 
+Good news 100% in the Norf West want #BREXIT &gt; bad news &gt;they eat ""Pea Wet"" &gt; don't ask ;(","['brexit', 'brexiteers']"
+40,40,40,554529,724204373572767744,447277183,neutral,remain,2016-04-24T11:52:32.000Z,Why are #Brexiteers always so angry? #Brexit,"['brexit', 'brexiteers']"
+41,41,41,1065687,742298298694946816,945678727,negative,remain,2016-06-13T10:11:20.000Z,#Brexit The realities of a EU-free UK risk to be obfuscated by the tales of the #Brexiteers https://t.co/XoP0zOISsD,"['brexit', 'brexiteers']"
+42,42,42,1049308,741998441090428928,361529806,negative,other,2016-06-12T14:19:48.000Z,I'm with #Brexiteers not because I live in the past but because the EU is the past and its failed. #Brexit,"['brexit', 'brexiteers']"
+43,43,43,785823,735584131929780224,189949792,neutral,remain,2016-05-25T21:31:38.000Z,Isn't the WTO the outfit that #Brexiteers say we will deal with after #Brexit ? Just saying. https://t.co/dMInH4DQsD,"['brexit', 'brexiteers']"
+44,44,44,1080962,742455687087820800,20550442,positive,other,2016-06-13T20:36:44.000Z,"#BrExiteers PLEASE SIGN
 Cabinet Secretary Confirms Secret #Brexit Plans https://t.co/xhKFF6VoME via @HuffPostUKPol","['brexit', 'brexiteers']"
-18,18,18,18,18,18,18,18,79798,699291122967977984,290160887,positive,other,2016-02-15T17:56:10.000Z,"Good news for #Brexiteers - Tony Blair to play  a big part for REMAIN. Treacherous , empire builder &amp; pocket liner will aid #BREXIT","['brexit', 'brexiteers']"
-19,19,19,19,19,19,19,19,806336,736209547669479424,80943338,negative,remain,2016-05-27T14:56:48.000Z,"@vote_leave @SteveBakerHW 
+45,45,45,918799,739722790480318464,181245414,negative,remain,2016-06-06T07:37:11.000Z,When are these #Brexiteers going to wake up to the fact that a #Brexit is going to be CATASTROPHIC? They have NO IDEA! Plughole here we come,"['brexit', 'brexiteers']"
+46,46,46,2251009,746449711830175744,288099700,negative,remain,2016-06-24T21:07:34.000Z,"Seems the #Brexiteers are a bit like the dog who chased the car and actually caught it - ""What the hell do I do now?!?"" #Brexit","['brexit', 'brexiteers']"
+47,47,47,970779,740683409236844544,481574214,positive,remain,2016-06-08T23:14:20.000Z,"@RTaylor_LibDem What makes you think that #Brexiteers  /= same groups? I've voted for Labour, Lib Dems and Plaid and I want #Brexit","['brexit', 'brexiteers']"
+48,48,48,618537,729324265531691008,45552145,positive,other,2016-05-08T14:57:09.000Z,"#Brexit : Careful what you ask for, you might just get it, ex-MI5, MI6 heads say https://t.co/sPxTPrXzxg #Brexiteers https://t.co/hzjcqxAxBa","['brexit', 'brexiteers']"
+49,49,49,298703,707513770571145216,1446460651,neutral,other,2016-03-09T10:30:02.000Z,#Brexiteers apoplectic over Carney stating the bleedin obvious #Brexit https://t.co/agFVkrVtaf,"['brexit', 'brexiteers']"
+50,50,50,913605,739566527725379584,735150657741684608,neutral,remain,2016-06-05T21:16:15.000Z,"@g111y Who said all #brexiteers voted Conservative.. ? I didnt vote Tory, Labour UKIP, Lib DEM or any other 3 letter abbreviation #brexit","['brexit', 'brexiteers']"
+51,51,51,434860,717281468003835904,715558621531209728,neutral,leave,2016-04-05T09:23:23.000Z,#brexiteers delusions unbounded - they think it is all about the EU but #brexit means England exiting UK too!,"['brexit', 'brexiteers']"
+52,52,52,2185239,746400542046453760,1912651280,positive,leave,2016-06-24T17:52:11.000Z,Do you #Brexiteers actually believe that the #Brexit will save UK taxpayers money?,"['brexit', 'brexiteers']"
+53,53,53,626758,729665677301305344,2285631986,neutral,other,2016-05-09T13:33:48.000Z,"Crispin Blunt Comes Out For #Brexit Live on Daily Politics | Euro Guido
+
+Brilliant. 43pc Tory MPs are #Brexiteers https://t.co/sA3yvaogLj","['brexit', 'brexiteers']"
+54,54,54,618082,729287799564840960,725755206978383872,negative,remain,2016-05-08T12:32:15.000Z,@minefornothing @POLITICOEurope They've milked the cow to death almost. Gravy train last stop. Hopefully. #Brexit #Brexiteers let's do this.,"['brexit', 'brexiteers']"
+55,55,55,1024409,741564746516815872,39067705,negative,other,2016-06-11T09:36:27.000Z,@JolyonMaugham why do they consider it as a threat???? It's our #Brexit folk that want to leave. #Brexiteers playing victim card again,"['brexit', 'brexiteers']"
+56,56,56,913576,739565798470127616,123954552,negative,other,2016-06-05T21:13:21.000Z,What about the pressure that retiring Brits create on European healthcare systems? #Brexiteers #Brexit,"['brexit', 'brexiteers']"
+57,57,57,506289,721995896653815808,937019478,positive,other,2016-04-18T09:36:50.000Z,@RJohnDickinson @NickStevenson63 No doubt wealthy #Brexiteers are buying Swiss francs as a hedge against #Brexit decline of sterling.,"['brexit', 'brexiteers']"
+58,58,58,1783867,746230138153512960,1513462046,positive,other,2016-06-24T06:35:03.000Z,@emilymshields I doubt Caribbean #Brexiteers considered the implications of a win. Shocked by what they see on TV this morning. #Brexit,"['brexit', 'brexiteers']"
+59,59,59,976576,740827393590460416,222032680,negative,leave,2016-06-09T08:46:29.000Z,"#Brexiteers want it to be about the real world, but when confornted with the real costs of #brexit claim conspiracy &amp; try to change subject","['brexit', 'brexiteers']"
+60,60,60,806336,736209547669479424,80943338,negative,remain,2016-05-27T14:56:48.000Z,"@vote_leave @SteveBakerHW 
 
 #Brexit breaks up families.
 
 The cruel #Brexiteers are destroying families across EU:
 
 https://t.co/mOuSwAcp9d","['brexit', 'brexiteers']"
-20,20,20,20,20,20,20,20,618082,729287799564840960,725755206978383872,negative,remain,2016-05-08T12:32:15.000Z,@minefornothing @POLITICOEurope They've milked the cow to death almost. Gravy train last stop. Hopefully. #Brexit #Brexiteers let's do this.,"['brexit', 'brexiteers']"
-21,21,21,21,21,21,21,21,1024409,741564746516815872,39067705,negative,other,2016-06-11T09:36:27.000Z,@JolyonMaugham why do they consider it as a threat???? It's our #Brexit folk that want to leave. #Brexiteers playing victim card again,"['brexit', 'brexiteers']"
-22,22,22,22,22,22,22,22,1026343,741587788211097600,1337521808,neutral,other,2016-06-11T11:08:01.000Z,@hrtbps @MichaelPDeacon New map comes to light from @vote_leave #Brexit #Brexiteers Font is Eurostile... https://t.co/YVThoKSMQp,"['brexit', 'brexiteers']"
-23,23,23,23,23,23,23,23,1504847,745860846685949952,395446240,neutral,leave,2016-06-23T06:07:37.000Z,#Brexiteers today's Independence Day &gt; MSM will spin the exit polls &gt;they'll be hunting down the sheep #BREXIT ffs https://t.co/rmGBEdKA6I,"['brexit', 'brexiteers']"
-24,24,24,24,24,24,24,24,232156,704253758084149248,329588583,neutral,remain,2016-02-29T10:35:54.000Z,"#Brexiteers: what would civil servants know about the consequences of #Brexit, compared to, say, tabloid columnists? https://t.co/OqDWy5FHwH","['brexit', 'brexiteers']"
-25,25,25,25,25,25,25,25,2284333,746489987449774080,37074284,positive,leave,2016-06-24T23:47:36.000Z,"Another @Lin_Manuel gem, with respect to  #Brexit and the #Brexiteers: ""You have no control who lives, who dies, who tells your story""","['brexit', 'brexiteers']"
-26,26,26,26,26,26,26,26,1180278,743352003791749120,350446268,positive,leave,2016-06-16T07:58:23.000Z,Don't let #Brexit trash Coniston - nice people live and holiday there ! #Brexiteers should go to Great Yarmouth https://t.co/GubEM2O4GE,"['brexit', 'brexiteers']"
-27,27,27,27,27,27,27,27,169580,702013876573970432,302543344,neutral,remain,2016-02-23T06:15:25.000Z,Fisted or punched its all the same to Boris. #Brexit of the #brexiteers,"['brexit', 'brexiteers']"
-28,28,28,28,28,28,28,28,626758,729665677301305344,2285631986,neutral,other,2016-05-09T13:33:48.000Z,"Crispin Blunt Comes Out For #Brexit Live on Daily Politics | Euro Guido
-
-Brilliant. 43pc Tory MPs are #Brexiteers https://t.co/sA3yvaogLj","['brexit', 'brexiteers']"
-29,29,29,29,29,29,29,29,984024,740947748724330496,2828238915,positive,remain,2016-06-09T16:44:44.000Z,@angelneptustar @belindawood99 @BorisJohnson They pussy foot about reinforcing his Premiership after #Brexit most #Brexiteers want him gone,"['brexit', 'brexiteers']"
-30,30,30,30,30,30,30,30,1134314,742992552131973120,395446240,neutral,other,2016-06-15T08:10:03.000Z,"Out of those chains those chains that bind YOU &gt; that's why I'm here to remind YOU ....... #BREXIT 
-Let's go #brexiteers","['brexit', 'brexiteers']"
-31,31,31,31,31,31,31,31,618537,729324265531691008,45552145,positive,other,2016-05-08T14:57:09.000Z,"#Brexit : Careful what you ask for, you might just get it, ex-MI5, MI6 heads say https://t.co/sPxTPrXzxg #Brexiteers https://t.co/hzjcqxAxBa","['brexit', 'brexiteers']"
-32,32,32,32,32,32,32,32,1784555,746230397181169664,416490624,positive,other,2016-06-24T06:36:05.000Z,"@LinuxSocist True, but that isn't what is behind the #Brexit as matters now stand. The #Brexiteers like Farage are worse than the EU.","['brexit', 'brexiteers']"
-33,33,33,33,33,33,33,33,1392283,745276081821876224,410788286,neutral,other,2016-06-21T15:23:59.000Z,"We Dedicate this song to the #Brexiteers 
+61,61,61,984024,740947748724330496,2828238915,positive,remain,2016-06-09T16:44:44.000Z,@angelneptustar @belindawood99 @BorisJohnson They pussy foot about reinforcing his Premiership after #Brexit most #Brexiteers want him gone,"['brexit', 'brexiteers']"
+62,62,62,1027670,741606210080804864,2189056412,negative,leave,2016-06-11T12:21:13.000Z,"@faisalislam thats y #brexiteers r fighting 2 end MP's signing more of r sovereignty &amp; increasing costs on2 Britain, ppl not 2 blame #brexit","['brexit', 'brexiteers']"
+63,63,63,333173,709440244286922752,937019478,neutral,remain,2016-03-14T18:05:09.000Z,#Brexiteers both. #Brexit = even more exposure to their callous version of politics. https://t.co/Ae3JvUwwKo,"['brexit', 'brexiteers']"
+64,64,64,859518,738110422042152960,385390424,positive,leave,2016-06-01T20:50:12.000Z,"@MaximilianSand4 Interesting as most #brexiteers just want our democracy back.
+#brexit","['brexit', 'brexiteers']"
+65,65,65,1784555,746230397181169664,416490624,positive,other,2016-06-24T06:36:05.000Z,"@LinuxSocist True, but that isn't what is behind the #Brexit as matters now stand. The #Brexiteers like Farage are worse than the EU.","['brexit', 'brexiteers']"
+66,66,66,370884,712192039585255424,339416409,negative,remain,2016-03-22T08:19:48.000Z,So sad for Brussels today. But look... the #brexiteers have jumped on it already. You cowards. Stand united with Europe . #brexit,"['brexit', 'brexiteers']"
+67,67,67,417884,715798381289979904,2885705823,neutral,other,2016-04-01T07:10:07.000Z,A must read for the indie #Brexiteers We need to up our game to keep #Brexit as the people's movement. We can do it https://t.co/bNHZX86hMA,"['brexit', 'brexiteers']"
+68,68,68,884972,738728217788485632,469485578,neutral,remain,2016-06-03T13:45:06.000Z,@montie @_hanimustafa Surely this must be the pre- #Brexit effect? And #Brexiteers also responsible for the 2008 Crash and Gt Depression,"['brexit', 'brexiteers']"
+69,69,69,1442046,745575848586129408,63691059,negative,remain,2016-06-22T11:15:09.000Z,".@scmallaby: #Brexiteers may soon discover that if there's one thing more frustrating than being in EU, it's trying to get out of it #Brexit","['brexit', 'brexiteers']"
+70,70,70,322849,708699475586523136,3354713007,positive,other,2016-03-12T17:01:36.000Z,Politik marketing #brexit @SubsidiarityMan: this marketing fits the #Brexiteers like a… glove. cc @captain_europe  https://t.co/imk0DCSpbP”,"['brexit', 'brexiteers']"
+71,71,71,1392283,745276081821876224,410788286,neutral,other,2016-06-21T15:23:59.000Z,"We Dedicate this song to the #Brexiteers 
 Just say FU to the EU
 #BREXIT
 FREESTYLE GUITAR JAM
 &amp; iTunes Amazon etc 
 https://t.co/Fhcl55mNFF","['brexit', 'brexiteers']"
-34,34,34,34,34,34,34,34,2183665,746399480992276480,3214991637,neutral,remain,2016-06-24T17:47:58.000Z,"human rights perspective: #Brexit will give UK govt more pwr...surely that's not something #brexiteers envisioned
-https://t.co/ear3nuFjWi","['brexit', 'brexiteers']"
-35,35,35,35,35,35,35,35,2437316,746714467979956224,217834708,negative,other,2016-06-25T14:39:37.000Z,"FT demographics analysis on #Brexiteers: older, poorly educated, non-Professional, poorly paid. #Euref #Brexit","['brexit', 'brexiteers', 'euref']"
-36,36,36,36,36,36,36,36,645772,730508870276284416,47205562,neutral,other,2016-05-11T21:24:21.000Z,"Attention all #Brexiteers apply for #SkyNews #EUreferendum audience seats 
-https://t.co/7FRy4HO0yz #brexit","['brexit', 'brexiteers', 'eureferendum', 'skynews']"
-37,37,37,37,37,37,37,37,1260559,744256027223220224,351871892,negative,leave,2016-06-18T19:50:39.000Z,IMHO #JoCoxMP was killed in a hate crime as a direct result of racist campaigning by #Brexit. All #Brexiteers now have blood on their hands.,"['brexit', 'brexiteers', 'jocoxmp']"
-38,38,38,38,38,38,38,38,534556,723429380244967424,426723824,positive,other,2016-04-22T08:32:59.000Z,#Obama's good sense on #Brexit. Let's hope that all those angry #Brexiteers are willing to calm down and listen. https://t.co/P24DTRrPVU,"['brexit', 'brexiteers', ""obama's""]"
-39,39,39,39,39,39,39,39,1095476,742639431144857600,201065250,positive,remain,2016-06-14T08:46:52.000Z,"If we vote #Brexit and the economy tanks like #remain says it will, the #brexiteers should recompense the country with their assets.","['brexit', 'brexiteers', 'remain']"
-40,40,40,40,40,40,40,40,615259,729006767347257344,774706328,neutral,remain,2016-05-07T17:55:32.000Z,"@bernerlap #Brexit, @RichardAENorth @PeteNorth303 will attack B/S from other #Brexiteers. @NickCohen4 does not attack B/S from #Remain","['brexit', 'brexiteers', 'remain']"
-41,41,41,41,41,41,41,41,540499,723561137019691008,267185517,positive,remain,2016-04-22T17:16:32.000Z,Hopefully #brexiteers will leave uk and set up new state when they lose the #referendum. Then they can seek trade deals. #brexit #remain,"['brexit', 'brexiteers', 'remain', 'referendum']"
-42,42,42,42,42,42,42,42,373831,712273303231176704,353389593,negative,other,2016-03-22T13:42:43.000Z,"#Schengen is total red herring in #Brexit debate, so has absolutely no place in attempted capitalisation on #Brussels by odious #Brexiteers.","['brexit', 'brexiteers', 'schengen', 'brussels']"
-43,43,43,43,43,43,43,43,2140111,746373026388770816,132512167,neutral,remain,2016-06-24T16:02:51.000Z,Message from #Scotland to Trump but also #Brexiteers. #Brexit  https://t.co/ebwV0RJ2zD,"['brexit', 'brexiteers', 'scotland']"
-44,44,44,44,44,44,44,44,1987919,746304691173220352,18088258,positive,leave,2016-06-24T11:31:18.000Z,"Well, there you have it #brexiteers - I hope you're pleased with yourselves #Brexit #shameonyou  https://t.co/TVXQ30dYmp","['brexit', 'brexiteers', 'shameonyou']"
-45,45,45,45,45,45,45,45,571222,725245281164492800,282091188,neutral,leave,2016-04-27T08:48:44.000Z,@SkyNews Great news for #Brexiteers. The more ghastly George Osborne talks garbage about #Brexit the more people will decide to #VoteLeave.,"['brexit', 'brexiteers', 'voteleave']"
-46,46,46,46,46,46,46,46,1375030,745204537829507072,410968395,negative,remain,2016-06-21T10:39:41.000Z,"And when #Brexit happens, the #brexiteers deserve what they wish for. Be afraid, be very afraid. #VoteRemain  https://t.co/wvYUkoSH7M","['brexit', 'brexiteers', 'voteremain']"
-47,47,47,47,47,47,47,47,1049332,741998767109509120,725755206978383872,neutral,remain,2016-06-12T14:21:06.000Z,TO ALL THOSE VOTING...ESPECIALLY #Brexit #Brexiteers #brexitthemovie #InOrOut UK GOV WILL STICH US UP IF ITS NOT PEN https://t.co/dsDuFAhJzg,"['brexit', 'brexitthemovie', 'brexiteers', 'inorout']"
-48,48,48,48,48,48,48,48,796446,735947697396580352,340933993,neutral,remain,2016-05-26T21:36:18.000Z,"First it was #Brexit, now it's #Brexiteers. Next up, #Brexiteering? #Brexometer? #Brexicutions?","['brexit', 'brexometer?', 'brexiteers', 'brexiteering?', 'brexicutions?']"
-49,49,49,49,49,49,49,49,2066315,746337498528358400,2220185773,neutral,remain,2016-06-24T13:41:40.000Z,"@jk_rowling #Brexit 
-#Brexiteers and #Cameron being like:
-https://t.co/ZzAjdefExx","['brexit', 'cameron', 'brexiteers']"
-50,50,50,50,50,50,50,50,1906507,746272462199984128,523569761,neutral,other,2016-06-24T09:23:14.000Z,TO ALL #BREXITEERS &gt;&gt; WELL DONE #GENIUS !!!  #BREXIT #OMG #DUMBISLAND https://t.co/zJPt2OpC7W,"['brexit', 'dumbisland', 'omg', 'genius', 'brexiteers']"
-51,51,51,51,51,51,51,51,876767,738542520980758528,2885705823,positive,other,2016-06-03T01:27:13.000Z,"#Brexiteers, never submit to the #EU, Vote #Brexit and never submit to people like this. https://t.co/RInZq1fmzm","['brexit', 'eu', 'brexiteers']"
-52,52,52,52,52,52,52,52,458683,719147720636821504,3832641214,positive,other,2016-04-10T12:59:12.000Z,Touche. No clear view of the future post #Brexit - #Brexiteers are spurning their only chance of victory https://t.co/72MCQPndSr #EUref,"['brexit', 'euref', 'brexiteers']"
-53,53,53,53,53,53,53,53,557095,724347833764163584,4888994932,positive,leave,2016-04-24T21:22:35.000Z,Could the EU referendum be the first step to a United States of Britain? #Brexit #brexiteers #EUreferendum https://t.co/brSBQOYWor,"['brexit', 'eureferendum', 'brexiteers']"
-54,54,54,54,54,54,54,54,67936,697714775502020608,89165845,positive,remain,2016-02-11T09:32:20.000Z,@lizgreenlive  All #brexiteers welcome at the first meeting of #LeedsLeaveEU on the 19th Feb https://t.co/t5aeH9V3se Bring a friend! #Brexit,"['brexit', 'leedsleaveeu', 'brexiteers']"
-55,55,55,55,55,55,55,55,1151731,743094034667819008,29004503,negative,remain,2016-06-15T14:53:18.000Z,Jeremy Corbyn Warns #Brexit Would End Free To Use #NHS https://t.co/719rNnpdMT via @HuffPostUKPol #Brexiteers WAKE THE F*CK UP!!! Thankyou.,"['brexit', 'nhs', 'brexiteers']"
-56,56,56,56,56,56,56,56,840584,737669677267210240,724512090057224320,negative,remain,2016-05-31T15:38:50.000Z,"#pensions #brexiteers UK #pensioners worse off in #Brexit, says Treasury https://t.co/fugA0zDTN4","['brexit', 'pensions', 'pensioners', 'brexiteers']"
-57,57,57,57,57,57,57,57,301772,707589580367798272,4052513303,negative,other,2016-03-09T15:31:16.000Z,Queen Elizabeth denies claims she backs Brexit https://t.co/fUE4aDEfWx #Brexit #Brexiteers #QueenElizabeth #rumours https://t.co/tDPqq4OgBH,"['brexit', 'queenelizabeth', 'rumours', 'brexiteers']"
-58,58,58,58,58,58,58,58,1537590,745953822011494400,2483875524,negative,other,2016-06-23T12:17:04.000Z,"#remainers have no respect for others, and they are still leafleting houses. So #Brexit #Brexiteers still may put leaflets out accordingly.","['brexit', 'remainers', 'brexiteers']"
-59,59,59,59,59,59,59,59,1032639,741682152350306304,1250198562,positive,remain,2016-06-11T17:22:59.000Z,Q: If the people supporting #Brexit are called #Brexiteers are those who support #Remain called #Remainians?,"['brexit', 'remainians?', 'brexiteers', 'remain']"
-60,60,60,60,60,60,60,60,613380,728700964216131584,66402183,neutral,leave,2016-05-06T21:40:23.000Z,#VoteLeave #Brexit Let's take back our country. #Brexiteers https://t.co/3ao5XIVzmJ,"['brexit', 'voteleave', 'brexiteers']"
-61,61,61,61,61,61,61,61,253632,705305441249718272,4873535621,neutral,leave,2016-03-03T08:14:55.000Z,"Could this be why our local corner shop has sold out of the @thetimes this morning?
-#Brexit #VoteLeave #Brexiteers https://t.co/IzRBhKSSJy","['brexit', 'voteleave', 'brexiteers']"
-62,62,62,62,62,62,62,62,1048280,741980370049114112,2743001419,neutral,leave,2016-06-12T13:08:00.000Z,#Brexit #Brexiteers #VoteLeave What a leader he is!!!! https://t.co/a9V0G8xROh,"['brexit', 'voteleave', 'brexiteers']"
-63,63,63,63,63,63,63,63,594688,727176144592769024,3216644067,neutral,leave,2016-05-02T16:41:17.000Z,"The United States of Europe – Denied For Years, Now Accepted FACT https://t.co/mXa6P2cqj0 #VoteLeave #Brexit #Brexiting #Brexiteers","['brexit', 'voteleave', 'brexiting', 'brexiteers']"
-64,64,64,64,64,64,64,64,1019086,741484601219158016,2766805044,positive,leave,2016-06-11T04:17:59.000Z,"Morning to all fellow #Brexiteers. Keep up the good work, do everything you can. The final push to victory now. #Brexit #VoteLeave #EUref","['brexit', 'voteleave', 'euref', 'brexiteers']"
-65,65,65,65,65,65,65,65,872848,738437606732599296,543914044,positive,leave,2016-06-02T18:30:19.000Z,"UK must join European army if stays in EU
+72,72,72,948664,740247896008892416,248641319,neutral,remain,2016-06-07T18:23:46.000Z,More fuel for the #brexiteers #brexit https://t.co/UFE25KInrl,"['brexit', 'brexiteers']"
+73,73,73,581763,725818199388880896,102040635,positive,other,2016-04-28T22:45:18.000Z,So there you go #brexiteers - Yes a vote for #brexit will instigate another Scottish referendum - we can't actually afford anyway #bbcqt,"['brexit', 'brexiteers', 'bbcqt']"
+74,74,74,2357448,746615954319216640,513204577,positive,remain,2016-06-25T08:08:09.000Z,"#BrExit #deeply #divided #littleBritain #EU
 
- https://t.co/AIMNZCbmnv
+Zanny Beddoes clearly spells out real #consequences + #brexiteer's lies https://t.co/REcsLDBcHs","['brexit', 'brexiteers', 'eu', 'consequences', 'littlebritain', 'divided', 'deeply']"
+75,75,75,1130588,742972055310761984,3043924113,negative,other,2016-06-15T06:48:36.000Z,The same #Brexiteers criticising international commentary on #brexit had no issue chipping in on #indyref when not even Scottish.,"['brexit', 'brexiteers', 'indyref']"
+76,76,76,534556,723429380244967424,426723824,positive,other,2016-04-22T08:32:59.000Z,#Obama's good sense on #Brexit. Let's hope that all those angry #Brexiteers are willing to calm down and listen. https://t.co/P24DTRrPVU,"['brexit', 'brexiteers', ""obama's""]"
+77,77,77,1280026,744528713077919744,2763563285,positive,leave,2016-06-19T13:54:12.000Z,"https://t.co/rVHcKWIXzE my fellow #brexiteers Fantastic, articulate, straight to the point article. RT&amp;spread the word! #brexit #VoteLeave","['brexit', 'brexiteers', 'voteleave']"
+78,78,78,286450,706917087827075072,121855199,negative,leave,2016-03-07T18:59:02.000Z,#euco silencing #brexiteers exposes the pretence they uphold democracy + free speech: #brexit #ukreferendum https://t.co/AH6ZHKGWKm,"['brexit', 'euco', 'brexiteers', 'ukreferendum']"
+79,79,79,1248573,744100386814951424,20550442,negative,leave,2016-06-18T09:32:11.000Z,"#BrExiteers get this out there!
+#VoteLeave #EURef #BrExit #LeaveEU
+Ex-army chief switches to #Leave #EU campaign
+https://t.co/JlVCriBHsr","['brexit', 'euref', 'leave', 'eu', 'brexiteers', 'leaveeu', 'voteleave']"
+80,80,80,1317698,744847482862067712,20550442,neutral,leave,2016-06-20T11:00:53.000Z,"#BrExiteers - Circulate this...
+#VoteLeave #BrExit #EURef
+https://t.co/ZdzoNpVcCY","['brexit', 'euref', 'voteleave', 'brexiteers']"
+81,81,81,817148,736797029767254016,2584930430,positive,leave,2016-05-29T05:51:15.000Z,"The Big #Brexit: Citizen #Juncker says #Brexiteers will be treated as deserters. So, will he order them to be shot? https://t.co/fX8rusMGDm","['brexit', 'juncker', 'brexiteers']"
+82,82,82,1001066,741193909360025600,329588583,negative,remain,2016-06-10T09:02:53.000Z,"Dennis Skinner = #Leave to fight capitalism, Tory #Brexiteers = #Leave to free capitalism from regulations. #Brexit: a blank for cranks.","['brexit', 'leave', 'brexiteers']"
+83,83,83,840584,737669677267210240,724512090057224320,negative,remain,2016-05-31T15:38:50.000Z,"#pensions #brexiteers UK #pensioners worse off in #Brexit, says Treasury https://t.co/fugA0zDTN4","['brexit', 'pensions', 'brexiteers', 'pensioners']"
+84,84,84,1487363,745749406335569920,101056236,negative,remain,2016-06-22T22:44:48.000Z,@ObsoleteDogma @sjwrenlewis I dont believe that #Brexiteers are racists but racists are desperate for #BRexit to win. Vote #Remain,"['brexit', 'remain', 'brexiteers']"
+85,85,85,615259,729006767347257344,774706328,neutral,remain,2016-05-07T17:55:32.000Z,"@bernerlap #Brexit, @RichardAENorth @PeteNorth303 will attack B/S from other #Brexiteers. @NickCohen4 does not attack B/S from #Remain","['brexit', 'remain', 'brexiteers']"
+86,86,86,991641,741010867609833472,2189056412,positive,leave,2016-06-09T20:55:32.000Z,@Peston only one side won tonight and that was the #Brexiteers all for UK &amp; not for eu! #TakeControl #Brexit @vote_leave,"['brexit', 'takecontrol', 'brexiteers']"
+87,87,87,872653,738433362340249600,705161196199133184,neutral,leave,2016-06-02T18:13:27.000Z,"#Brexiteers you can buy @DanHannanMEP's book on Amazon kindle here:
+https://t.co/Ak2Rw8JWKU
 
-#VoteLeave #Brexit #EuRef #Brexiteers","['brexit', 'voteleave', 'euref', 'brexiteers']"
-66,66,66,66,66,66,66,66,123788,701045205529714688,4873535621,neutral,leave,2016-02-20T14:06:16.000Z,"Anyone seen Boris?
-
-#VoteLeave #Brexit #Brexiteers #Euref @MayorofLondon @DavidCameron_MP 
-https://t.co/NSTTTlPCoO","['brexit', 'voteleave', 'euref', 'brexiteers']"
-67,67,67,67,67,67,67,67,888656,738806118084976640,780514338,neutral,other,2016-06-03T18:54:39.000Z,@SLATUKIP does he not get that UK would have same number or more if #Brexit? Farage will say any old tosh to whip up the #Brexiteers,"['brexit?', 'brexiteers']"
-68,68,68,68,68,68,68,68,2247559,746446529641222144,746442835419930624,negative,remain,2016-06-24T20:54:55.000Z,"Are you #sad #Brexiteers about:
-
-your children, siblings or grand-children paying more for education in Europe after #Brexit?","['brexit?', 'brexiteers', 'sad']"
-69,69,69,69,69,69,69,69,2247190,746446139113758720,746442835419930624,positive,remain,2016-06-24T20:53:22.000Z,"Are you #sad #Brexiteers about:
-
-losing the ability to claim compensation for delayed flights thanks to the EU regulations after #Brexit?","['brexit?', 'brexiteers', 'sad']"
-70,70,70,70,70,70,70,70,2251980,746450586376241152,746442835419930624,negative,remain,2016-06-24T21:11:02.000Z,"Are you #sad #Brexiteers about:
-
-the fact Scotland and Northern Ireland are contemplating leaving the union after #Brexit?","['brexit?', 'brexiteers', 'sad']"
-71,71,71,71,71,71,71,71,515463,722377494159040512,2230713030,negative,other,2016-04-19T10:53:10.000Z,"FYI, @FT says the #Brexiteers must stop dodging the big question. What will be the economic cost of #Brexit? https://t.co/TvZatVdSMy #UK","['brexit?', 'brexiteers', 'uk']"
-72,72,72,72,72,72,72,72,965452,740575658032680960,3189840081,neutral,remain,2016-06-08T16:06:10.000Z,"UK Voter registration website Crashes before EU referendum Deadline
-https://t.co/01XjAUxMcI
-#Brexit #referendum #brexitdebate #Brexiteers","['brexitdebate', 'brexit', 'referendum', 'brexiteers']"
-73,73,73,73,73,73,73,73,1222978,743742828497362944,325577694,neutral,remain,2016-06-17T09:51:23.000Z,#Brexit from Tirana perspective! #Albania #BrexitDebate #BrexitDilemma #brexitflotilla #Brexiteers https://t.co/AyYEuHaW5x,"['brexitdebate', 'brexiteers', 'albania', 'brexit', 'brexitflotilla', 'brexitdilemma']"
-74,74,74,74,74,74,74,74,2459450,746777484482519040,4762715423,negative,remain,2016-06-25T18:50:01.000Z,Four Brexit Promises That Have Already Gone Up In Smoke - this is what we were upset about #Brexiteers  https://t.co/D0GClsNZXm,['brexiteers']
-75,75,75,75,75,75,75,75,900587,739228376678989824,19343211,negative,leave,2016-06-04T22:52:33.000Z,Read and cry #Brexiteers. If you CAN read: Brexit will actually reduce British sovereignty - Chatham House @EurActiv https://t.co/4ZNjC5e226,['brexiteers']
-76,76,76,76,76,76,76,76,1092183,742617843661955072,12697592,positive,leave,2016-06-14T07:21:05.000Z,Will @Euronext LIFFE move from London to @Euronext_Paris Bourse if #Brexit.eers get their way? Will Great Britain become Little England?,['brexiteers']
-77,77,77,77,77,77,77,77,514720,722383176107180032,386630251,positive,other,2016-04-19T11:15:45.000Z,"#Brexiteers incoherent/divided on immigration.Some promise Brexit means total decreases, others headroom for more non-EU visas. Which is it?",['brexiteers']
-78,78,78,78,78,78,78,78,371060,712196818407399424,2196203149,negative,leave,2016-03-22T08:38:48.000Z,@patcondell @richy_inger Obv. crazed #brexiteers trying to divert blame onto peace loving mo's gang.,['brexiteers']
-79,79,79,79,79,79,79,79,828407,737262665068908544,2455210460,positive,other,2016-05-30T12:41:31.000Z,"@AFrankWords post-#Brexit: cue several thousand excited #Brexiteers lined up ready to repeatedly kick Soames ""really hard in the balls""...",['brexiteers']
-80,80,80,80,80,80,80,80,570986,725271023533363200,23149163,neutral,other,2016-04-27T10:31:01.000Z,"Sería una buena opción que ganara el Brexit.
+#VoteLeave #Brexit https://t.co/ZEprf3K9SK","['brexit', 'voteleave', 'brexiteers']"
+88,88,88,329513,709288158194589696,212852144,neutral,other,2016-03-14T08:00:49.000Z,"""un eu br, 14/3/16"" from the bloggery.. #brexit #europe #britain #politics #brexiteers #words https://t.co/c6gue55UVR","['brexit', 'words', 'britain', 'europe', 'brexiteers', 'politics']"
+89,89,89,1180904,743355346211594240,44384324,negative,remain,2016-06-16T08:11:40.000Z,Markets shit bricks at thought of #Brexit.https://t.co/ifdsK4nx6O Nothing compared to what comes after. #Brexiteers it's your pensions  too.,"['brexit.https://t.co/ifdsk4nx6o', 'brexiteers']"
+90,90,90,888656,738806118084976640,780514338,neutral,other,2016-06-03T18:54:39.000Z,@SLATUKIP does he not get that UK would have same number or more if #Brexit? Farage will say any old tosh to whip up the #Brexiteers,"['brexit?', 'brexiteers']"
+91,91,91,515463,722377494159040512,2230713030,negative,other,2016-04-19T10:53:10.000Z,"FYI, @FT says the #Brexiteers must stop dodging the big question. What will be the economic cost of #Brexit? https://t.co/TvZatVdSMy #UK","['brexit?', 'uk', 'brexiteers']"
+92,92,92,1222978,743742828497362944,325577694,neutral,remain,2016-06-17T09:51:23.000Z,#Brexit from Tirana perspective! #Albania #BrexitDebate #BrexitDilemma #brexitflotilla #Brexiteers https://t.co/AyYEuHaW5x,"['brexitdilemma', 'brexitflotilla', 'brexiteers', 'albania', 'brexitdebate', 'brexit']"
+93,93,93,928268,739873172636459008,339889409,neutral,other,2016-06-06T17:34:45.000Z,@henry_the_hippo @BBCNews MPS have to consider the actual impact of a Brexit vote away from the stories #Brexiteers feed the public,['brexiteers']
+94,94,94,1092183,742617843661955072,12697592,positive,leave,2016-06-14T07:21:05.000Z,Will @Euronext LIFFE move from London to @Euronext_Paris Bourse if #Brexit.eers get their way? Will Great Britain become Little England?,['brexiteers']
+95,95,95,596526,727409358477385728,243393079,positive,remain,2016-05-03T08:08:00.000Z,"What #Brexit-eers have said for ages, on wealth of evidence.
+Yet what EU-philes like Clegg assert is just ""fantasy""  https://t.co/yIWt9onD0A",['brexiteers']
+96,96,96,309041,707904561067982848,520410021,negative,leave,2016-03-10T12:22:54.000Z,@Robsainty @Holbornlolz @ajcdeane The facts that UK will be damaged by leaving EU are never refuted by reasoned argument by #Brexit-eers,['brexiteers']
+97,97,97,428796,716875921102401536,501139438,negative,remain,2016-04-04T06:31:53.000Z,"#Brexit-eers show true colours in public in Dover: fascists, racists &amp; neo-nazis. Plenty more of these on Twitter. https://t.co/pIPCnbhcjG",['brexiteers']
+98,98,98,570986,725271023533363200,23149163,neutral,other,2016-04-27T10:31:01.000Z,"Sería una buena opción que ganara el Brexit.
 - Abre una puerta a otros.
 - Y los populistas como Cameron tendrán que retratarse.
 #brexiteers",['brexiteers']
-81,81,81,81,81,81,81,81,928268,739873172636459008,339889409,neutral,other,2016-06-06T17:34:45.000Z,@henry_the_hippo @BBCNews MPS have to consider the actual impact of a Brexit vote away from the stories #Brexiteers feed the public,['brexiteers']
-82,82,82,82,82,82,82,82,407025,715098244209098752,2867040495,positive,remain,2016-03-30T08:48:01.000Z,"Dear #Brexiteers:
+99,99,99,262952,705569648713007104,520410021,negative,other,2016-03-04T01:44:47.000Z,@Mike_Fabricant @CherylGillanMP statement of the obvious doesn't constitute a threat - even #Brexit-eers must know there'll be consequences,['brexiteers']
+100,100,100,984638,740926039958904832,85407635,neutral,other,2016-06-09T15:18:28.000Z,Elected EU ministers back fish dumping ban: https://t.co/S9zxHFqZvj Just in case the #Brexit-eers are lying again.,['brexiteers']
+101,101,101,279516,706561482050379776,2307295152,positive,leave,2016-03-06T19:25:59.000Z,"#Brexit-eers want sovereignty? So why not campaign for a sovereign currency, instead of fractional reserve &amp; QE scandals? @PositiveMoneyUK",['brexiteers']
+102,102,102,946861,740218840685023232,920443088,positive,remain,2016-06-07T16:28:18.000Z,@Cynn1x What is it with #Brexit-eers and Marxism? Coat your racism in a veneer of respectability if you like. I'll enjoy watching us remain.,['brexiteers']
+103,103,103,437586,717450645243109376,520410021,neutral,other,2016-04-05T20:35:38.000Z,@ElizaBelta @johannmalawana @Harryslaststand there have been many polls of British business and all pro-EU - #Brexit-eers heads in sand,['brexiteers']
+104,104,104,1020237,741510912289411072,501139438,negative,other,2016-06-11T06:02:32.000Z,"@jpjanson You forgot #Brexit-eers ""Beefy Botham"" &amp; Jim Davidson. Surely that balances things up?!",['brexiteers']
+105,105,105,1165326,743204374248300544,501139438,neutral,remain,2016-06-15T22:11:45.000Z,"@chrisbrownofca1 What DO you think #Brexit-eers think they're going to get, when they parrot their leaders' ""get our country back"" mantra?",['brexiteers']
+106,106,106,407025,715098244209098752,2867040495,positive,remain,2016-03-30T08:48:01.000Z,"Dear #Brexiteers:
 Universities have all come out to condemn Brexit with the University Council leading. Don't be amazed at noplatforming.",['brexiteers']
-83,83,83,83,83,83,83,83,798772,736064634856177664,98583506,negative,other,2016-05-27T05:20:59.000Z,"#Brexiteers!
+107,107,107,2133562,746369378636070912,2198211,positive,other,2016-06-24T15:48:21.000Z,"#brexit-eers; ""Give us better terms or we will STRENUOUSLY leave!""
+EU: ""Hmmm ...""",['brexiteers']
+108,108,108,1116549,742831362705661952,85407635,negative,remain,2016-06-14T21:29:32.000Z,Weee! Look at what those idiot #Brexit-eers have caused! https://t.co/hoQdO9PI6N,['brexiteers']
+109,109,109,967033,740602540853592064,920443088,positive,remain,2016-06-08T17:53:00.000Z,"@IanPayne2 @iVoteLeave @_Emmabelle @iVoteStay Not labelling anyone. Quote ""Most #Brexit-eers are not racists [...]""",['brexiteers']
+110,110,110,435033,717289042983968768,243393079,negative,leave,2016-04-05T09:53:29.000Z,"VG by @DanHannanMEP via @CapX:
+Calling #Brexit-eers bad parents shows that Remainers have run out of arguments
+https://t.co/BHlo8Xlybl",['brexiteers']
+111,111,111,2133138,746369143432110080,2198211,positive,other,2016-06-24T15:47:25.000Z,Did #brexit-eers every explain how they thought they'd get good concessions from EU? What leverage did they think they had?,['brexiteers']
+112,112,112,744080,734323606486933504,19544776,neutral,other,2016-05-22T10:02:45.000Z,"1. The #Brexit-eers I talked to had real concerns, few of which would be addressed by leaving.",['brexiteers']
+113,113,113,412926,715461145939820544,520410021,positive,remain,2016-03-31T08:50:04.000Z,"@nicholasjf1 @Nigel_Farage @Grassroots_Out @AdamAfriyie of course we'll be offered a deal, but not with terms #Brexit-eers will like",['brexiteers']
+114,114,114,891456,738877372796182528,197974228,negative,other,2016-06-03T23:37:48.000Z,"whats the chances cameron blames #brexit-eers for this?
+
+ ⚡️ ""Paris evacuates its art as floods hit 35 year peak""
+
+https://t.co/PDVhSNc1lN",['brexiteers']
+115,115,115,1347868,745001028949577728,356756564,negative,remain,2016-06-20T21:11:01.000Z,Anti establishment #Brexit-eers are barking up the wrong tree. https://t.co/muMOZoVnAd,['brexiteers']
+116,116,116,514720,722383176107180032,386630251,positive,other,2016-04-19T11:15:45.000Z,"#Brexiteers incoherent/divided on immigration.Some promise Brexit means total decreases, others headroom for more non-EU visas. Which is it?",['brexiteers']
+117,117,117,350186,710584148856061952,520410021,negative,remain,2016-03-17T21:50:37.000Z,"@christina300949 @certual this is where #Brexit-eers get stupid - of course EU will sell to us, but will EU buy from us?",['brexiteers']
+118,118,118,266729,705744901472972800,520410021,positive,other,2016-03-04T13:21:11.000Z,How can #Brexit-eers claim regain borders if UK forced to accept free movement - Poland etc would veto deal without https://t.co/pAHJlgCRAn,['brexiteers']
+119,119,119,350048,710568694972289024,520410021,positive,other,2016-03-17T20:49:13.000Z,"so right, ""delusions of importance"" #Brexit-eers think world owes them a living and market of 64 million matters  https://t.co/a1FZxrX41C",['brexiteers']
+120,120,120,403739,714793285907259392,520410021,positive,other,2016-03-29T12:36:14.000Z,@mrchrisnewton @parmenidean @lasancmt @philtherapy @FederalBritain breathtaking arrogance of #Brexit-eers -UK will have trade deal EU allows,['brexiteers']
+121,121,121,622235,729592921796816896,60262768,negative,other,2016-05-09T08:44:42.000Z,"More narrow-mindedness from #Brexit-eers - veterans talking about safety of a continent, they talk deportations. https://t.co/DMeg0zQjni",['brexiteers']
+122,122,122,420126,715912884874780672,520410021,negative,other,2016-04-01T14:45:07.000Z,"@leicesterliz @DockLeics @UKLabourIN @StrongerIn logic, facts, evidence are lost on braindead #Brexit-eers set on unachievable objectives",['brexiteers']
+123,123,123,948204,740240754845450240,920443088,positive,leave,2016-06-07T17:55:23.000Z,@jpscott1972 I'm sure accepting 2/3 of EU law and the free movement of people - without a vote - is exactly what #Brexit-eers have in mind.,['brexiteers']
+124,124,124,803269,736135871750148096,2846809907,neutral,other,2016-05-27T10:04:03.000Z,BBC facing intense pressure from rival gangs of #Brexit-eers https://t.co/VjlfuhH5hk,['brexiteers']
+125,125,125,727109,733603532633444352,16446751,positive,other,2016-05-20T10:21:26.000Z,"#Brexit-eers live in a dream world where, after leaving the EU, they'd still get all the benefits. https://t.co/os7pajcjRf",['brexiteers']
+126,126,126,513244,722310170253111296,501139438,positive,remain,2016-04-19T06:25:39.000Z,#Brexit-eers can't explain what UK would be like OUT. But most have xenophobic dislike of making compromises with foreigners for mutual good,['brexiteers']
+127,127,127,561994,724621789486260224,15719868,positive,remain,2016-04-25T15:31:12.000Z,"welcome on board, @NeilRBuckley. 
+thanks to #Brexit'eers :) https://t.co/MlnSMxVL0C",['brexiteers']
+128,128,128,1111701,742758119038668800,2846809907,negative,remain,2016-06-14T16:38:30.000Z,"#Brexit-eers offer no coherent policies, only a bloody divorce from the EU &amp; a jumble of unbelievable promises https://t.co/T5MPQMbKGE",['brexiteers']
+129,129,129,279528,706562175624683520,520410021,positive,other,2016-03-06T19:28:44.000Z,#Brexit-eers live in fantasy land. All countries outside EU have free access to market - why change their deals https://t.co/CUIpLEO2ym,['brexiteers']
+130,130,130,350079,710571645988151296,520410021,neutral,other,2016-03-17T21:00:56.000Z,@JohnRealSmith @muffman_murrin when will #Brexit-eers put forward rational arguments for leaving EU rather than mantra and wishful thinking,['brexiteers']
+131,131,131,514882,722357447512432640,433654872,negative,remain,2016-04-19T09:33:30.000Z,Most #Brexit-eers who complain abt EU regs conveniently ignore Westminster's capacity for bat-shit crazy ideas @ChrisGiles_,['brexiteers']
+132,132,132,371060,712196818407399424,2196203149,negative,leave,2016-03-22T08:38:48.000Z,@patcondell @richy_inger Obv. crazed #brexiteers trying to divert blame onto peace loving mo's gang.,['brexiteers']
+133,133,133,225125,703899114715652096,66106109,neutral,other,2016-02-28T11:06:41.000Z,"#brexit'eers remember - @twitter is just an insulated echo chamber - opinions have to be formed on the ground, not just on the net.",['brexiteers']
+134,134,134,309367,707915169511448576,520410021,negative,other,2016-03-10T13:05:03.000Z,@Robsainty @Holbornlolz @ajcdeane when will #Brexit-eers understand that a threat to 45% of UK exports is more significant than to 7% of EU,['brexiteers']
+135,135,135,900587,739228376678989824,19343211,negative,leave,2016-06-04T22:52:33.000Z,Read and cry #Brexiteers. If you CAN read: Brexit will actually reduce British sovereignty - Chatham House @EurActiv https://t.co/4ZNjC5e226,['brexiteers']
+136,136,136,589525,726540237292343296,705273937,negative,other,2016-04-30T22:34:25.000Z,"One of ""Sir"" John Major's #Brexit-eers suffering ""faux-patriotism""? Say that to Maj Gen Julian Thompson's face! 
+https://t.co/AbM31rC0O6",['brexiteers']
+137,137,137,349372,710510351817838592,520410021,neutral,other,2016-03-17T16:57:23.000Z,"You sum up the position of most #Brexit-eers very well, it is an emotional decision, which frightens me.  https://t.co/KxQcYFokyR",['brexiteers']
+138,138,138,2313205,746580240500199424,148461480,negative,remain,2016-06-25T05:46:14.000Z,Sad thing is #Brexit|eers will probably still blame EU for this https://t.co/66qbbYygMg,['brexiteers']
+139,139,139,1174938,743322689134202880,724576807371046912,negative,other,2016-06-16T06:01:54.000Z,"@Iceman_cometh1"" What DO you think #Brexit-eers think""?  I don't know.  Much of humanity is beyond my comprehension, however hard I try.",['brexiteers']
+140,140,140,798772,736064634856177664,98583506,negative,other,2016-05-27T05:20:59.000Z,"#Brexiteers!
 
 Just 27 Days to escape from the Unholy Brussels Empire. 
 
 Spread the Brexit word to everyone you meet.",['brexiteers']
-84,84,84,84,84,84,84,84,555505,724282961995153408,386630251,negative,other,2016-04-24T17:04:49.000Z,"And also of course for biz trips, so #Brexiteers also torpedoing claim of post-Brexit 'free trade' w EU, incoherent https://t.co/JhLf2kqm1w",['brexiteers']
-85,85,85,85,85,85,85,85,2036387,746354482095722496,2466043429,neutral,leave,2016-06-24T14:49:09.000Z,#Brexiteers beware of phony Brexit accounts. Some people trying to persuade us to change to Flexit and go for long term negotiations. 😂🇬🇧👍🇺🇸,['brexiteers']
-86,86,86,86,86,86,86,86,417884,715798381289979904,2885705823,neutral,other,2016-04-01T07:10:07.000Z,A must read for the indie #Brexiteers We need to up our game to keep #Brexit as the people's movement. We can do it https://t.co/bNHZX86hMA,"['brexiteers', 'brexit']"
-87,87,87,87,87,87,87,87,370884,712192039585255424,339416409,negative,remain,2016-03-22T08:19:48.000Z,So sad for Brussels today. But look... the #brexiteers have jumped on it already. You cowards. Stand united with Europe . #brexit,"['brexiteers', 'brexit']"
-88,88,88,88,88,88,88,88,780189,735417569499316224,301577187,positive,remain,2016-05-25T10:29:46.000Z,#BreXit could derive much gain from reading this report #BreXiteers https://t.co/mv0YO2Ue1R,"['brexiteers', 'brexit']"
-89,89,89,89,89,89,89,89,1027670,741606210080804864,2189056412,negative,leave,2016-06-11T12:21:13.000Z,"@faisalislam thats y #brexiteers r fighting 2 end MP's signing more of r sovereignty &amp; increasing costs on2 Britain, ppl not 2 blame #brexit","['brexiteers', 'brexit']"
-90,90,90,90,90,90,90,90,1049308,741998441090428928,361529806,negative,other,2016-06-12T14:19:48.000Z,I'm with #Brexiteers not because I live in the past but because the EU is the past and its failed. #Brexit,"['brexiteers', 'brexit']"
-91,91,91,91,91,91,91,91,530273,723201039088930816,68661185,negative,other,2016-04-21T17:25:38.000Z,"""We're going to build a wall and Europe is going to pay for it "" #brexit #brexiteers probably","['brexiteers', 'brexit']"
-92,92,92,92,92,92,92,92,405179,714872530188820480,937019478,neutral,remain,2016-03-29T17:51:07.000Z,#Brexiteers are driving down the pound pre-#EUref. Imagine what will happen if #Brexit actually happens. Prices and joblessness both up.,"['brexiteers', 'brexit']"
-93,93,93,93,93,93,93,93,1783867,746230138153512960,1513462046,positive,other,2016-06-24T06:35:03.000Z,@emilymshields I doubt Caribbean #Brexiteers considered the implications of a win. Shocked by what they see on TV this morning. #Brexit,"['brexiteers', 'brexit']"
-94,94,94,94,94,94,94,94,554529,724204373572767744,447277183,neutral,remain,2016-04-24T11:52:32.000Z,Why are #Brexiteers always so angry? #Brexit,"['brexiteers', 'brexit']"
-95,95,95,95,95,95,95,95,1335003,744925712293961728,295966479,neutral,other,2016-06-20T16:11:44.000Z,Nissan is taking legal action against Leave campaign #brexit #brexiteers  https://t.co/vJZbYPkYuJ,"['brexiteers', 'brexit']"
-96,96,96,96,96,96,96,96,2419602,746690635776811008,23188850,neutral,leave,2016-06-25T13:04:55.000Z,Take Back Control? You got it #Brexiteers -#EU #Brexit referendum: France's Calais seeks border deal changes https://t.co/p5SaASe77N,"['brexiteers', 'brexit']"
-97,97,97,97,97,97,97,97,785823,735584131929780224,189949792,neutral,remain,2016-05-25T21:31:38.000Z,Isn't the WTO the outfit that #Brexiteers say we will deal with after #Brexit ? Just saying. https://t.co/dMInH4DQsD,"['brexiteers', 'brexit']"
-98,98,98,98,98,98,98,98,596255,727396356793503744,16525963,positive,other,2016-05-03T07:16:20.000Z,The libertarian argument that #brexit gives us less govt is fallacious when #brexiteers cite wanting stronger UK govt as reason to leave. /1,"['brexiteers', 'brexit']"
-99,99,99,99,99,99,99,99,333173,709440244286922752,937019478,neutral,remain,2016-03-14T18:05:09.000Z,#Brexiteers both. #Brexit = even more exposure to their callous version of politics. https://t.co/Ae3JvUwwKo,"['brexiteers', 'brexit']"
-100,100,100,100,100,100,100,100,1158998,743145079972503552,128721881,neutral,remain,2016-06-15T18:16:08.000Z,#brexit Found the ideal present for the #brexiteers  https://t.co/Y8UjK3Rmdn,"['brexiteers', 'brexit']"
-101,101,101,101,101,101,101,101,2130538,746367801376419840,24727245,positive,other,2016-06-24T15:42:05.000Z,Mexico will pursue a free trade agreement with the U.K. – just as the #Brexiteers were hoping #Brexit  https://t.co/K0OxMkYQgn,"['brexiteers', 'brexit']"
-102,102,102,102,102,102,102,102,506289,721995896653815808,937019478,positive,other,2016-04-18T09:36:50.000Z,@RJohnDickinson @NickStevenson63 No doubt wealthy #Brexiteers are buying Swiss francs as a hedge against #Brexit decline of sterling.,"['brexiteers', 'brexit']"
-103,103,103,103,103,103,103,103,2126647,746365806527709184,143281137,positive,other,2016-06-24T15:34:09.000Z,"#Brexiteers are like six year-olds yelling, ""I'm running away from home!"" only to discover they can't actually do much on their own. #Brexit","['brexiteers', 'brexit']"
-104,104,104,104,104,104,104,104,691939,732188463412449280,3087093887,negative,leave,2016-05-16T12:38:27.000Z,"Desperate Osborne grumbles about #Brexiteers &amp; ""Conspiracy Theories"" just when 300 top business leaders back #Brexit https://t.co/4RThrqUsIM","['brexiteers', 'brexit']"
-105,105,105,105,105,105,105,105,1549834,745990976385212416,2885705823,positive,leave,2016-06-23T14:44:43.000Z,To the indie #Brexiteers out there. Well fought. Keep the faith and keep fighting. You're the real heroes of #Brexit https://t.co/auCHGmsKK2,"['brexiteers', 'brexit']"
-106,106,106,106,106,106,106,106,540291,723558333345615872,460153034,neutral,remain,2016-04-22T17:05:24.000Z,I don't really see #brexiteers as people who will change their minds because Barak Obama tells them to. #brexit,"['brexiteers', 'brexit']"
-107,107,107,107,107,107,107,107,2185239,746400542046453760,1912651280,positive,leave,2016-06-24T17:52:11.000Z,Do you #Brexiteers actually believe that the #Brexit will save UK taxpayers money?,"['brexiteers', 'brexit']"
-108,108,108,108,108,108,108,108,1289158,744615524710088704,590354014,positive,remain,2016-06-19T19:39:10.000Z,"@jreedmp Jamie, i think most #Brexiteers made their minds up long before anyone in public life chimed in with their tuppence worth. #Brexit","['brexiteers', 'brexit']"
-109,109,109,109,109,109,109,109,434860,717281468003835904,715558621531209728,neutral,leave,2016-04-05T09:23:23.000Z,#brexiteers delusions unbounded - they think it is all about the EU but #brexit means England exiting UK too!,"['brexiteers', 'brexit']"
-110,110,110,110,110,110,110,110,365166,711843619276201984,4904820549,negative,remain,2016-03-21T09:15:18.000Z,"If #Brexiteers won't believe @PwC_UK, whom will they listen to? #Brexit cd cost £100bn and nearly 1m jobs CBI warns https://t.co/nHv8zbXSQe","['brexiteers', 'brexit']"
-111,111,111,111,111,111,111,111,298703,707513770571145216,1446460651,neutral,other,2016-03-09T10:30:02.000Z,#Brexiteers apoplectic over Carney stating the bleedin obvious #Brexit https://t.co/agFVkrVtaf,"['brexiteers', 'brexit']"
-112,112,112,112,112,112,112,112,976576,740827393590460416,222032680,negative,leave,2016-06-09T08:46:29.000Z,"#Brexiteers want it to be about the real world, but when confornted with the real costs of #brexit claim conspiracy &amp; try to change subject","['brexiteers', 'brexit']"
-113,113,113,113,113,113,113,113,1132460,742982633383157760,3656559557,positive,other,2016-06-15T07:30:38.000Z,"HowDare this man call #Brexiteers ""Foolish""
-He needs to look in the mirror 👎😨
-Good interview Nick 👍#LBC @LBC
-#Brexit https://t.co/kG1FbCTroK","['brexiteers', 'brexit']"
-114,114,114,114,114,114,114,114,859518,738110422042152960,385390424,positive,leave,2016-06-01T20:50:12.000Z,"@MaximilianSand4 Interesting as most #brexiteers just want our democracy back.
-#brexit","['brexiteers', 'brexit']"
-115,115,115,115,115,115,115,115,463801,719609124032368640,275547016,positive,other,2016-04-11T19:32:39.000Z,@david_standing Whoever is chosen ALL #Brexiteers must join together &amp; present a united front. June 23rd matters to us all. #Brexit,"['brexiteers', 'brexit']"
-116,116,116,116,116,116,116,116,1289896,744622887873613824,427495215,positive,other,2016-06-19T20:08:25.000Z,@KingRossTheBoss FYI @purpleline @DavidCoburnUKip #Brexiteers outside of the UK want #Brexit to take place.,"['brexiteers', 'brexit']"
-117,117,117,117,117,117,117,117,815057,736649951518810112,17172028,negative,remain,2016-05-28T20:06:49.000Z,@philjame5 this is the most bogus argument made by the pro #brexit side. Remember that many #Brexiteers have said in the past they hate NHS,"['brexiteers', 'brexit']"
-118,118,118,118,118,118,118,118,432816,717095996291989504,966903620,positive,remain,2016-04-04T21:06:23.000Z,"Isn't this something?  
-We #Brexiteers are a positive lot!
-#Brexit  https://t.co/Lw8GZCoyDA","['brexiteers', 'brexit']"
-119,119,119,119,119,119,119,119,913576,739565798470127616,123954552,negative,other,2016-06-05T21:13:21.000Z,What about the pressure that retiring Brits create on European healthcare systems? #Brexiteers #Brexit,"['brexiteers', 'brexit']"
-120,120,120,120,120,120,120,120,322849,708699475586523136,3354713007,positive,other,2016-03-12T17:01:36.000Z,Politik marketing #brexit @SubsidiarityMan: this marketing fits the #Brexiteers like a… glove. cc @captain_europe  https://t.co/imk0DCSpbP”,"['brexiteers', 'brexit']"
-121,121,121,121,121,121,121,121,292418,707214315095519232,20345616,neutral,remain,2016-03-08T14:40:06.000Z,#brexit infogram over #brexiteers  https://t.co/zH64eaDQka,"['brexiteers', 'brexit']"
-122,122,122,122,122,122,122,122,10394,686849921870360576,297286429,negative,remain,2016-01-12T09:59:17.000Z,Get more of these deluded #brexiteers to blockus so they can remain in their isolated cocoons dreaming about #brexit https://t.co/NmKIYncO3u,"['brexiteers', 'brexit']"
-123,123,123,123,123,123,123,123,662502,731081420534366208,429321193,negative,remain,2016-05-13T11:19:28.000Z,"John Major Sir, may accuse us #Brexiteers all he wants. Won't deter me any. #Brexit","['brexiteers', 'brexit']"
-124,124,124,124,124,124,124,124,563120,724688860303790080,257599131,neutral,remain,2016-04-25T19:57:43.000Z,The calibre of @UKIP #Brexiteers #Brexit https://t.co/Ev3vkdPqpo,"['brexiteers', 'brexit']"
-125,125,125,125,125,125,125,125,970779,740683409236844544,481574214,positive,remain,2016-06-08T23:14:20.000Z,"@RTaylor_LibDem What makes you think that #Brexiteers  /= same groups? I've voted for Labour, Lib Dems and Plaid and I want #Brexit","['brexiteers', 'brexit']"
-126,126,126,126,126,126,126,126,1815909,746241546710769664,1257158389,negative,remain,2016-06-24T07:20:23.000Z,"@davidicke @laraborland It is the #Brexiteers that inflicted the damage &amp; sadly it will be the people they conned that will suffer.
-#Brexit","['brexiteers', 'brexit']"
-127,127,127,127,127,127,127,127,5141,685017901347278848,297286429,negative,leave,2016-01-07T08:39:29.000Z,"Nothing to make you smile on a rainy day than a bunch of clueless British #brexiteers juxtapositioned on #brexit
- https://t.co/y8iLlFlR2O","['brexiteers', 'brexit']"
-128,128,128,128,128,128,128,128,948664,740247896008892416,248641319,neutral,remain,2016-06-07T18:23:46.000Z,More fuel for the #brexiteers #brexit https://t.co/UFE25KInrl,"['brexiteers', 'brexit']"
-129,129,129,129,129,129,129,129,918799,739722790480318464,181245414,negative,remain,2016-06-06T07:37:11.000Z,When are these #Brexiteers going to wake up to the fact that a #Brexit is going to be CATASTROPHIC? They have NO IDEA! Plughole here we come,"['brexiteers', 'brexit']"
-130,130,130,130,130,130,130,130,1442046,745575848586129408,63691059,negative,remain,2016-06-22T11:15:09.000Z,".@scmallaby: #Brexiteers may soon discover that if there's one thing more frustrating than being in EU, it's trying to get out of it #Brexit","['brexiteers', 'brexit']"
-131,131,131,131,131,131,131,131,508105,722038437319208960,1438007443,positive,remain,2016-04-18T12:25:52.000Z,#Brexiteers set pace on social media campaigns. #Brexit campaign groups have attracted twice as much attention on... https://t.co/ammbDxdSCN,"['brexiteers', 'brexit']"
-132,132,132,132,132,132,132,132,2184891,746400303289872384,1912651280,positive,other,2016-06-24T17:51:14.000Z,"Do you #Brexiteers actually believe there will be extra £s to be spend on the NHS, social care and disabled people? #Brexit","['brexiteers', 'brexit']"
-133,133,133,133,133,133,133,133,2251009,746449711830175744,288099700,negative,remain,2016-06-24T21:07:34.000Z,"Seems the #Brexiteers are a bit like the dog who chased the car and actually caught it - ""What the hell do I do now?!?"" #Brexit","['brexiteers', 'brexit']"
-134,134,134,134,134,134,134,134,913605,739566527725379584,735150657741684608,neutral,remain,2016-06-05T21:16:15.000Z,"@g111y Who said all #brexiteers voted Conservative.. ? I didnt vote Tory, Labour UKIP, Lib DEM or any other 3 letter abbreviation #brexit","['brexiteers', 'brexit']"
-135,135,135,135,135,135,135,135,267915,705797824231952384,484781566,negative,remain,2016-03-04T16:51:29.000Z,"Extraordinary thing about #brexit campaign is #brexiteers haven't checked their facts fuelled by propaganda, truth now hurting @BorisJohnson","['brexiteers', 'brexit']"
-136,136,136,136,136,136,136,136,940645,740123337351954432,322054650,negative,remain,2016-06-07T10:08:49.000Z,The hard truth for #Brexiteers via @commerzbank #Brexit #Bremain https://t.co/3CiN0X5cIh,"['brexiteers', 'brexit', 'bremain']"
-137,137,137,137,137,137,137,137,509798,722124053390192640,1223389308,negative,remain,2016-04-18T18:06:05.000Z,"#Brexiteers know a #Brexit will cost us all financially, they haven't tried to hide it &amp; they don't care
-
-#c4news https://t.co/1CNN9x9B7A","['brexiteers', 'brexit', 'c4news']"
-138,138,138,138,138,138,138,138,318640,708344309498683392,4871685341,negative,other,2016-03-11T17:30:18.000Z,EXCLUSIVE: Leaked German transcript of Merkel-Cameron phone call. #EUref #Brexiteers #Brexit #Cameron https://t.co/mxQ9uR9c1y,"['brexiteers', 'brexit', 'euref', 'cameron']"
-139,139,139,139,139,139,139,139,1273812,744470125173215232,220421961,negative,remain,2016-06-19T10:01:24.000Z,"https://t.co/gLRJJygeOK
-
-I blame the #brexiteers for creating an atmosphere of hate  #eu #brexit #remain #EUref","['brexiteers', 'brexit', 'euref', 'eu', 'remain']"
-140,140,140,140,140,140,140,140,1001740,741201438525804544,196155379,neutral,remain,2016-06-10T09:32:48.000Z,"#Brexiteers have smashed us on the UK supporting #VoteLeave. We've cut our odds on #Brexit in the #EuRef to 11/4. As always, no limits.","['brexiteers', 'brexit', 'euref', 'voteleave']"
-141,141,141,141,141,141,141,141,858435,738110591999594496,14321748,negative,leave,2016-06-01T20:50:53.000Z,@KarrieKubs wants to leave then I presume....Only the #Brexiteers are that obsessed that they can't shut the fuck up. #Brexit #EUreferendum,"['brexiteers', 'brexit', 'eureferendum']"
-142,142,142,142,142,142,142,142,1001066,741193909360025600,329588583,negative,remain,2016-06-10T09:02:53.000Z,"Dennis Skinner = #Leave to fight capitalism, Tory #Brexiteers = #Leave to free capitalism from regulations. #Brexit: a blank for cranks.","['brexiteers', 'brexit', 'leave']"
-143,143,143,143,143,143,143,143,679607,731765547281600512,84074624,positive,remain,2016-05-15T08:37:56.000Z,#Brexiteers trust in the EU's goodwill towards us on #Brexit is touching in its innocent naivete. #marr,"['brexiteers', 'brexit', 'marr']"
-144,144,144,144,144,144,144,144,435725,717326142999552000,84151450,neutral,other,2016-04-05T12:20:54.000Z,".@SLATUKIP Why when a #ProEU Person speaks up, the #Brexiteers tell them keep their opinion to themselves. If it's #Brexit they make a meme?","['brexiteers', 'brexit', 'proeu']"
-145,145,145,145,145,145,145,145,1487363,745749406335569920,101056236,negative,remain,2016-06-22T22:44:48.000Z,@ObsoleteDogma @sjwrenlewis I dont believe that #Brexiteers are racists but racists are desperate for #BRexit to win. Vote #Remain,"['brexiteers', 'brexit', 'remain']"
-146,146,146,146,146,146,146,146,801899,736109401958940672,780514338,negative,remain,2016-05-27T08:18:52.000Z,"We should reform the House of Lords if #Brexiteers are so worried about ""undemocratic unelected"" political systems #Brexit #remain #EUDebate","['brexiteers', 'brexit', 'remain', 'eudebate']"
-147,147,147,147,147,147,147,147,2246164,746445237170606080,746442835419930624,negative,remain,2016-06-24T20:49:47.000Z,"Are you #sad #Brexiteers about:
-
-Costing UK councils £10.7B in funds - Largest majority for #Brexit in Bolton cost their council £133M.","['brexiteers', 'brexit', 'sad']"
-148,148,148,148,148,148,148,148,868429,738348147802509312,721280020199665664,neutral,leave,2016-06-02T12:34:50.000Z,"@benphillips76 @catherinemep EU protects  #Brexiteers from themselves, #Brexit ? not fit to #TakeControl . #StrongerIn","['brexiteers', 'brexit', 'strongerin', 'takecontrol']"
-149,149,149,149,149,149,149,149,991641,741010867609833472,2189056412,positive,leave,2016-06-09T20:55:32.000Z,@Peston only one side won tonight and that was the #Brexiteers all for UK &amp; not for eu! #TakeControl #Brexit @vote_leave,"['brexiteers', 'brexit', 'takecontrol']"
-150,150,150,150,150,150,150,150,603527,727918770061246464,2885705823,negative,other,2016-05-04T17:52:13.000Z,@aronftaylor We need all #Brexiteers voices to be heard not just #UKIP. All the party flags are flying on the #Brexit battle line.,"['brexiteers', 'brexit', 'ukip']"
-151,151,151,151,151,151,151,151,95344,700339786549170176,4873535621,neutral,leave,2016-02-18T15:23:11.000Z,"200,000 at Glastonbury
-Psephologists, over to you.
-#Brexiteers #Brexit #VoteLeave
-https://t.co/bxp8T3d0Ik https://t.co/HoeOuegGJb","['brexiteers', 'brexit', 'voteleave']"
-152,152,152,152,152,152,152,152,269680,705876577033306112,4364784082,neutral,leave,2016-03-04T22:04:25.000Z,Potentially apt for #Brexiteers! #VoteLeave #Brexit #EUref  https://t.co/v1TW9M5Hg4,"['brexiteers', 'brexit', 'voteleave', 'euref']"
-153,153,153,153,153,153,153,153,329513,709288158194589696,212852144,neutral,other,2016-03-14T08:00:49.000Z,"""un eu br, 14/3/16"" from the bloggery.. #brexit #europe #britain #politics #brexiteers #words https://t.co/c6gue55UVR","['brexiteers', 'brexit', 'words', 'politics', 'britain', 'europe']"
-154,154,154,154,154,154,154,154,1180904,743355346211594240,44384324,negative,remain,2016-06-16T08:11:40.000Z,Markets shit bricks at thought of #Brexit.https://t.co/ifdsK4nx6O Nothing compared to what comes after. #Brexiteers it's your pensions  too.,"['brexiteers', 'brexithttpstcoifdsk4nx6o']"
-155,155,155,155,155,155,155,155,464465,719660988358881280,3832641214,positive,other,2016-04-11T22:58:44.000Z,Don't believe all of this. Much still to be gained from #Commonwealth - #Brexiteers trade on a myth https://t.co/YLGa5nv0zB #Brexit #EUref,"['brexiteers', 'commonwealth', 'brexit', 'euref']"
-156,156,156,156,156,156,156,156,2101668,746353551178334208,247523520,positive,leave,2016-06-24T14:45:27.000Z,Dear #Brexiteers: If you're looking for a new PM we'd be willing to export #DonaldTrump #pleasetakehim #Brexit #idiotsoftheworldunite,"['brexiteers', 'donaldtrump', 'pleasetakehim', 'brexit', 'idiotsoftheworldunite']"
-157,157,157,157,157,157,157,157,1130588,742972055310761984,3043924113,negative,other,2016-06-15T06:48:36.000Z,The same #Brexiteers criticising international commentary on #brexit had no issue chipping in on #indyref when not even Scottish.,"['brexiteers', 'indyref', 'brexit']"
-158,158,158,158,158,158,158,158,2423771,746696061381648384,741539933115064320,positive,leave,2016-06-25T13:26:28.000Z,@SirShawsy wow $till my mixtape of the referendum #LeaveEU #Brexit #buyBritish #supportBritishEcconomy #brexiteers #kissMyBrownStar,"['brexiteers', 'kissmybrownstar', 'buybritish', 'leaveeu', 'brexit', 'supportbritishecconomy']"
-159,159,159,159,159,159,159,159,933060,739934488592044032,518615888,positive,remain,2016-06-06T21:38:24.000Z,V clear many have been misled? Some even think #UK will be better off if #leave when even top #brexit/eers admit #leave will one at a price,"['brexiteers', 'leave', 'uk']"
-160,160,160,160,160,160,160,160,487971,720863228943671296,2662418768,positive,other,2016-04-15T06:36:01.000Z,The best line yet from the #brexiteers  that the 'savings' from brexit would go to 'saving' the NHS. A late April fools joke? #r4today,"['brexiteers', 'r4today']"
-161,161,161,161,161,161,161,161,421504,716146250312077312,22592482,positive,remain,2016-04-02T06:12:26.000Z,"Dear #Brexiteers, the British Empire is over, Yours. #Remain Brexit and be gone: The Empire won't strike back.... https://t.co/UWYHzJBe5e","['brexiteers', 'remain']"
-162,162,162,162,162,162,162,162,844564,737751483681284096,518615888,neutral,remain,2016-05-31T21:03:55.000Z,"#Brexit/eers -""We Just Don't Know""+#Boris asking ppl to risk jobs, homes &amp; chance to emigrate if crashes #StrongerIn https://t.co/F3ns5hsDzg","['brexiteers', 'strongerin']"
-163,163,163,163,163,163,163,163,1976809,746300306179366912,3346451062,positive,other,2016-06-24T11:13:53.000Z,"#Cameroons lost &amp; #Brexiteers won. The inescapable truth of #Tory politics as leadership contest will show. #Brexit
-
-https://t.co/kTtyHoxbYL","['brexiteers', 'tory', 'brexit', 'cameroons']"
-164,164,164,164,164,164,164,164,554168,724188458659536896,3087093887,positive,remain,2016-04-24T10:49:17.000Z,The #brexiteers are making no mistake. We can feel it coming on the air. #TTIP et al. #EUref #Brexit #LabourIN https://t.co/N8GcawUkoE,"['brexiteers', 'ttip', 'euref', 'brexit', 'labourin']"
-165,165,165,165,165,165,165,165,862135,738240129974820864,518615888,negative,remain,2016-06-02T05:25:37.000Z,If #Brexit/eers think shock costing jobs worth it #Ireland will suffer if #UK apparent economic suicide bid succeeds https://t.co/uATB14Z4Cw,"['brexiteers', 'uk', 'ireland']"
-166,166,166,166,166,166,166,166,872653,738433362340249600,705161196199133184,neutral,leave,2016-06-02T18:13:27.000Z,"#Brexiteers you can buy @DanHannanMEP's book on Amazon kindle here:
-https://t.co/Ak2Rw8JWKU
-
-#VoteLeave #Brexit https://t.co/ZEprf3K9SK","['brexiteers', 'voteleave', 'brexit']"
-167,167,167,167,167,167,167,167,93323,700275406310612992,4873535621,positive,other,2016-02-18T11:07:22.000Z,"He's good, this Lawson bloke.
-#Brexiteers - #VoteLeave at #Euref for #Brexit 
-https://t.co/ACcUL1hIdF https://t.co/HiTctkqjtA","['brexiteers', 'voteleave', 'brexit', 'euref']"
-168,168,168,168,168,168,168,168,191300,702522512865894400,4873535621,neutral,other,2016-02-24T15:56:33.000Z,"Team #VoteLeave outside Parliament today. 
-#Brexiteers one and all! 
-#Brexit #Euref
-@bobtheagent  https://t.co/KGRjpaVvbz","['brexiteers', 'voteleave', 'brexit', 'euref']"
-169,169,169,169,169,169,169,169,2402367,746668831456759808,313488283,neutral,other,2016-06-25T11:38:16.000Z,"Are #Brexiteers realising #VoteLeave are backtracking on promises?
-Immigration policy gone too
-#Brexit
-#EURefresults https://t.co/A9O5ApsZAr","['brexiteers', 'voteleave', 'brexit', 'eurefresults']"
-170,170,170,170,170,170,170,170,1317698,744847482862067712,20550442,neutral,leave,2016-06-20T11:00:53.000Z,"#BrExiteers - Circulate this...
-#VoteLeave #BrExit #EURef
-https://t.co/ZdzoNpVcCY","['brexiteers', 'voteleave', 'euref', 'brexit']"
-171,171,171,171,171,171,171,171,553965,724181326245564416,4352219782,neutral,leave,2016-04-24T10:20:57.000Z,Is Collective Stockholm Syndrome Influencing the In-Crowd?https://t.co/7l4wpqL62V #EUref #EUreferendum #Brexit #brexitfacts #Brexiteers,"['brexitfacts', 'brexiteers', 'euref', 'brexit', 'eureferendum']"
-172,172,172,172,172,172,172,172,946594,740214188795105280,1357289328,positive,leave,2016-06-07T16:09:49.000Z,A world of opportunity when #Britain votes for #Brexit - see @yorkshirepost letters https://t.co/RH0gxGH0ni #yplive #EUref #Brexiteers,"['britain', 'brexiteers', 'euref', 'brexit', 'yplive']"
-173,173,173,173,173,173,173,173,953914,740339634866130944,3326770761,neutral,leave,2016-06-08T00:28:18.000Z,"British Independence! https://t.co/0Mr0gFJnSo
-#BNP #EUreferendum #London #June23rd #Brexit #Brexiteers #LeaveEU #BritishIndependenceDay","['britishindependenceday', 'june23rd', 'brexiteers', 'london', 'leaveeu', 'brexit', 'bnp', 'eureferendum']"
-174,174,174,174,174,174,174,174,309109,707922127924695040,47205562,neutral,leave,2016-03-10T13:32:42.000Z,"@SkyNews That's the way to do it. #NoNonsense #commonsense policy for #ToleranceAbuse 
-
-#LeaveEU #Brexiteers #Brexit","['commonsense', 'toleranceabuse', 'brexiteers', 'nononsense', 'leaveeu', 'brexit']"
-175,175,175,175,175,175,175,175,1330183,744901927402602496,2311896861,negative,other,2016-06-20T14:37:13.000Z,I am AVICENNA... and so you don't let me vote!!!! #disgrace #Brexit #brexiteers,"['disgrace', 'brexit', 'brexiteers']"
-176,176,176,176,176,176,176,176,260779,705473533011488768,436913269,positive,other,2016-03-03T19:22:51.000Z,The #Drumpf wants Apple 2 manufacture its phones in USA. Like #Brexiteers #Brexit he just doesn't get globalisation  #MakeDonaldDrumpfAgain,"['drumpf', 'brexiteers', 'brexit', 'makedonalddrumpfagain']"
-177,177,177,177,177,177,177,177,618446,729315506897993728,4387508296,negative,other,2016-05-08T14:22:21.000Z,"watching the @spectator #EU debate on youtube, i've wanted Britain out of the EU since 2009! i will be voting to leave! #Brexit #Brexiteers","['eu', 'brexit', 'brexiteers']"
-178,178,178,178,178,178,178,178,745490,734370101957394432,3346451062,negative,remain,2016-05-22T13:07:30.000Z,#Brexiteers constantly &amp; consistently lie about #EU after failing to make convincing economic arguments for #Brexit https://t.co/mICpzJMVN8,"['eu', 'brexiteers', 'brexit']"
-179,179,179,179,179,179,179,179,1033626,741699875079921664,2201786204,neutral,remain,2016-06-11T18:33:24.000Z,"Seems #Brexiteers in France plan to put England out of #UEFA, and not just the #EU
-#Brexit","['eu', 'brexiteers', 'brexit', 'uefa']"
-180,180,180,180,180,180,180,180,588486,726395206027845632,435533981,neutral,other,2016-04-30T12:58:07.000Z,"The #EU always was a #CIA project, as #Brexit/eers discover @telebusiness https://t.co/bVa3ogzO5C","['eu', 'brexiteers', 'cia']"
-181,181,181,181,181,181,181,181,2094426,746350079636836352,518615888,positive,leave,2016-06-24T14:31:40.000Z,Excellent @BBCNewshour Extra - key issue already #brexit/eers want #EU mkt without freedom of movement &amp; even #Germany will never cede that,"['eu', 'brexiteers', 'germany']"
-182,182,182,182,182,182,182,182,914539,739602032533897216,717830426727989248,negative,remain,2016-06-05T23:37:20.000Z,"Major on #Marr was VERY cross about #brexit lies, unaccountable #EU 'crat myth &amp; #brexiteers having no experience of how #EU actually works😯","['eu', 'brexiteers', 'marr', 'brexit']"
-183,183,183,183,183,183,183,183,2453365,746737782819856384,313488283,negative,remain,2016-06-25T16:12:15.000Z,"Video of @Nigel_Farage pledging #EU millions for #NHS after he said he hadn't
-They lied to you #Brexiteers
-#Brexit
-https://t.co/JXWmmPl6mk","['eu', 'brexiteers', 'nhs', 'brexit']"
-184,184,184,184,184,184,184,184,860480,738154857543041024,701866563268378624,positive,other,2016-06-01T23:46:46.000Z,#Brexiteers are offering a positive vision of life outside the #EU whilst #Remainers peddle images of apocalypse and #ProjectFear! #Brexit,"['eu', 'brexiteers', 'projectfear', 'remainers', 'brexit']"
-185,185,185,185,185,185,185,185,917420,739704110354698240,518615888,negative,remain,2016-06-06T06:22:57.000Z,"#Leave image proves #Brexit/eers think its 1816 not 2016 -#UK superpower &amp; #EU of 500M+ ""little Europe"" #StrongerIn https://t.co/somQwyG5Xb","['eu', 'brexiteers', 'strongerin', 'leave']"
-186,186,186,186,186,186,186,186,1254470,744167591539781632,20550442,positive,other,2016-06-18T13:59:14.000Z,"#BrExiteers RETWEET
-#EURef #BrExit
-Excl to the Trib: The #UK must leave the #EU &amp; and the U.S. must support its exit https://t.co/XP4zNXxi6e","['eu', 'euref', 'uk', 'brexiteers', 'brexit']"
-187,187,187,187,187,187,187,187,870222,738382927591931904,36032128,neutral,other,2016-06-02T14:53:03.000Z,City of #London #Brexiteers regroup for battle- #EUReferendum #Euro #UK #brexit #economy #EU https://t.co/fDohvMv9Oe,"['eu', 'euro', 'uk', 'brexit', 'brexiteers', 'eureferendum', 'london', 'economy']"
-188,188,188,188,188,188,188,188,685154,731934906192789504,4920220572,negative,other,2016-05-15T19:50:54.000Z,The useless #Tory clown @BorisJohnson should disappear.#Brexit #Brexiteers #EuropeanUnion #EU #brexitthemovie #UK https://t.co/GFfwWLcr7e,"['eu', 'europeanunion', 'uk', 'brexiteers', 'tory', 'brexitthemovie']"
-189,189,189,189,189,189,189,189,1158033,743138448580677632,518615888,negative,remain,2016-06-15T17:49:47.000Z,Worrying reminder to #Brexit/eers need #EU mkt as #IMF warns on #China's ‘high and rising’ debt risk https://t.co/g91nYxrVpN #DontRiskIt #FT,"['eu', 'ft', 'brexiteers', 'dontriskit', 'imf', ""china's""]"
-190,190,190,190,190,190,190,190,1234171,743853208582389760,355752178,positive,leave,2016-06-17T17:09:59.000Z,"5 Strongest Reasons to #VoteLeave In the #EUreferendum
-https://t.co/rRqMBRjm7Z
-#BNP #LeaveEU #EUref #EU #Brexit #Brexiteers #IndependenceDay","['eu', 'independenceday', 'voteleave', 'brexiteers', 'euref', 'leaveeu', 'brexit', 'bnp', 'eureferendum']"
-191,191,191,191,191,191,191,191,885590,738740626250956800,518615888,negative,remain,2016-06-03T14:34:25.000Z,"#Brexit/eers exposed as more businesses face big job losses if #leave #EU - latest #JPMorgan 4,000 to go #StrongerIn https://t.co/lKpRqB6eWy","['eu', 'leave', 'strongerin', 'brexiteers', 'jpmorgan']"
-192,192,192,192,192,192,192,192,932365,739915040132890624,2904636286,neutral,leave,2016-06-06T20:21:07.000Z,"#whyvote against Hilary Benn #StrongerIn
-#VoteLeave &amp; #TakeControl &amp; let democratic #UK flourish out of #EU to world via #Brexit #Brexiteers","['eu', 'takecontrol', 'voteleave', 'brexit', 'strongerin', 'uk', 'brexiteers', 'whyvote']"
-193,193,193,193,193,193,193,193,1248573,744100386814951424,20550442,negative,leave,2016-06-18T09:32:11.000Z,"#BrExiteers get this out there!
-#VoteLeave #EURef #BrExit #LeaveEU
-Ex-army chief switches to #Leave #EU campaign
-https://t.co/JlVCriBHsr","['eu', 'voteleave', 'euref', 'leave', 'brexiteers', 'leaveeu', 'brexit']"
-194,194,194,194,194,194,194,194,553943,724180572914987008,4352219782,negative,leave,2016-04-24T10:17:57.000Z,10 Reasons Why The UK Should Leave The #EU https://t.co/VUEGCHKjVG #Brexit #Brexitfacts #Brexiteers #EuRef #EuReferendum #VoteLeave,"['eu', 'voteleave', 'eureferendum', 'euref', 'brexitfacts', 'brexiteers', 'brexit']"
-195,195,195,195,195,195,195,195,591913,726851650497945600,1618637196,neutral,leave,2016-05-01T19:11:52.000Z,LBC #EU poll! https://t.co/pAK5Ws9qXC #UKIP #Brexit #EUSSR #LeaveEU #No2EU #VoteLeave #Brexiteers,"['eu', 'voteleave', 'no2eu', 'ukip', 'eussr', 'brexiteers', 'leaveeu', 'brexit']"
-196,196,196,196,196,196,196,196,286450,706917087827075072,121855199,negative,leave,2016-03-07T18:59:02.000Z,#euco silencing #brexiteers exposes the pretence they uphold democracy + free speech: #brexit #ukreferendum https://t.co/AH6ZHKGWKm,"['euco', 'ukreferendum', 'brexiteers', 'brexit']"
-197,197,197,197,197,197,197,197,2406193,746673322595856384,313488283,negative,other,2016-06-25T11:56:07.000Z,"So #Farage says he never supported the extra money for the #NHS
-Strange he waited until after #EURef to say so
-They lied #Brexiteers
-#Brexit","['euref', 'brexiteers', 'farage', 'brexit', 'nhs']"
-198,198,198,198,198,198,198,198,92656,700255132454428672,4873535621,positive,leave,2016-02-18T09:46:48.000Z,"Smiling at this
-#VoteLeave #Brexit #Brexiteers #Remainians #euref 
-@DouglasCarswell @LouiseMensch @SfBPlymouth  https://t.co/i1PJLMbRvR","['euref', 'voteleave', 'remainians', 'brexiteers', 'brexit']"
-199,199,199,199,199,199,199,199,229231,704096625749336064,121855199,neutral,other,2016-02-29T00:11:31.000Z,#Brexiteers declare themselves in London City: https://t.co/sWuFjlUIgP #ukreferendum #eureferendum #eureform #brexit,"['eureferendum', 'brexit', 'eureform', 'brexiteers', 'ukreferendum']"
+141,141,141,1165005,743199829594079232,501139438,negative,leave,2016-06-15T21:53:42.000Z,"Shame #Brexit-eers have been conned into thinking they'll ""get their country back"". They WON'T get 50s Britain back but WE WILL pay a price.",['brexiteers']
+142,142,142,467819,719846052510187520,72249574,negative,remain,2016-04-12T11:14:07.000Z,"@britinfluence @JHillEU Eliciting consequences a lot easier than reaching, let alone persuading, #Brexit-eers, though",['brexiteers']
+143,143,143,2459450,746777484482519040,4762715423,negative,remain,2016-06-25T18:50:01.000Z,Four Brexit Promises That Have Already Gone Up In Smoke - this is what we were upset about #Brexiteers  https://t.co/D0GClsNZXm,['brexiteers']
+144,144,144,895093,739028661958021120,177950180,positive,leave,2016-06-04T09:38:58.000Z,"#BRExit'eers should not only defend but attack: Stay means 65 more years of EU. Exit means enthusiasm, passion, will power, business...",['brexiteers']
+145,145,145,1564716,746040744935301120,3291077331,positive,other,2016-06-23T18:02:29.000Z,"RT Why to vote Green: As southern England floods, leading #Brexit-eers ask ""Climate change? What climate change?"" … https://t.co/11pgrMELck",['brexiteers']
+146,146,146,867582,738333495748087808,20550442,positive,other,2016-06-02T11:36:37.000Z,"Slowly but surely the #Brexit'eers are gaining ground, says LEO MCKINSTRY https://t.co/n6Goo7LtGM",['brexiteers']
+147,147,147,869699,738371518791569408,42179037,positive,leave,2016-06-02T14:07:43.000Z,"#Brexit-eers should accept the Norway model 
+https://t.co/MpvGvtfR2z",['brexiteers']
+148,148,148,404470,714835441900511232,520410021,neutral,other,2016-03-29T15:23:45.000Z,@parmenidean @mrchrisnewton @essexdb @FederalBritain @lasancmt #Brexit-eers can only clutch at straws,['brexiteers']
+149,149,149,350105,710575410178887680,520410021,positive,remain,2016-03-17T21:15:54.000Z,"@christina300949 it would be more impressive if you could justify your response ""absolute rubbish"" - but #Brexit-eers never can",['brexiteers']
+150,150,150,416691,715684904969904128,520410021,negative,remain,2016-03-31T23:39:12.000Z,"Unfortunately there're gullible people, particularly #Brexit-eers who swallow any garbage, who will believe anything https://t.co/3AmKbPJIzB",['brexiteers']
+151,151,151,2036387,746354482095722496,2466043429,neutral,leave,2016-06-24T14:49:09.000Z,#Brexiteers beware of phony Brexit accounts. Some people trying to persuade us to change to Flexit and go for long term negotiations. 😂🇬🇧👍🇺🇸,['brexiteers']
+152,152,152,1294717,744687137073815552,168859453,positive,leave,2016-06-20T00:23:43.000Z,"Come on #Brexit-eers, you'll have to do better than that",['brexiteers']
+153,153,153,396349,714101610411126784,3298051942,positive,other,2016-03-27T14:47:45.000Z,#Brexit-eers UK is 2.2% of GDP richer thanks to single market https://t.co/SR0ujC1q0g or £49billion. For every £ we put in we get £8 back.,['brexiteers']
+154,154,154,744413,734331291156516864,83210801,positive,other,2016-05-22T10:33:17.000Z,"""Free enterprise, red in tooth and claw"". The sort of model #Brexit-eers like Nigel Farage and Liam Fox worship. https://t.co/pUWRnGczJ3",['brexiteers']
+155,155,155,828407,737262665068908544,2455210460,positive,other,2016-05-30T12:41:31.000Z,"@AFrankWords post-#Brexit: cue several thousand excited #Brexiteers lined up ready to repeatedly kick Soames ""really hard in the balls""...",['brexiteers']
+156,156,156,805326,736181139803623424,85407635,positive,other,2016-05-27T13:03:55.000Z,.@AntiAssessment I agree that A LOT of #Brexit-eers are lying &amp; being let off. The answer is (always) Education. (@SteveReedMP @SteveTheQuip,['brexiteers']
+157,157,157,947694,740232328874598400,920443088,negative,remain,2016-06-07T17:21:54.000Z,"#Brexit-eers accuse pro-#Remain experts of being propagandists, so I might as well post some actual EU propaganda. https://t.co/VIVXMRIHwt",['brexiteers']
+158,158,158,393307,713881000145772544,520410021,neutral,other,2016-03-27T00:11:08.000Z,@jjasq @price_annette why are #Brexit-eers such strangers to the truth,['brexiteers']
+159,159,159,394769,714013979631349760,520410021,negative,other,2016-03-27T08:59:33.000Z,@MarkGrinter #Brexit-eers don't like inconvenient facts but every News broadcast in the last 48hr has supported about 80%,['brexiteers']
+160,160,160,354212,710913153744445440,520410021,positive,other,2016-03-18T19:37:58.000Z,"any #Brexit-eers withbrain should look up  trade deal of EU with Norway, including grants into EEA &amp; free movement https://t.co/tkoBaGbeaU",['brexiteers']
+161,161,161,589023,726456613939384320,1316707231,neutral,remain,2016-04-30T17:02:08.000Z,@eddireader @freyja87 We are being grossly misled by #brexit'eers!,['brexiteers']
+162,162,162,320111,708431182879440896,520410021,negative,other,2016-03-11T23:15:30.000Z,@annlyon55 @faisalislam The point you and all #Brexit-eers chose to ignore is UK trade deficit is unsustainable and it will rise if Brexit,['brexiteers']
+163,163,163,2291854,746503021627121664,501139438,negative,leave,2016-06-25T00:39:24.000Z,#Brexit-eers were warned about this but took no notice. Look forward to 2x UK/EU land borders with border controls.  https://t.co/qzYO3IAwka,['brexiteers']
+164,164,164,388474,713342635356856320,16139649,positive,other,2016-03-25T12:31:52.000Z,Via @SamCoatesTimes: 3% of UKIP supporters are Remainians and 9% of Guardianistas are #Brexit-eers https://t.co/PN3FYafA7G,['brexiteers']
+165,165,165,555505,724282961995153408,386630251,negative,other,2016-04-24T17:04:49.000Z,"And also of course for biz trips, so #Brexiteers also torpedoing claim of post-Brexit 'free trade' w EU, incoherent https://t.co/JhLf2kqm1w",['brexiteers']
+166,166,166,879498,738638932510973952,2167242811,negative,other,2016-06-03T07:50:19.000Z,Do #Brexit-eers seriously think that the UK will be forced to leave NATO and to join an 'EU Army'? https://t.co/COgc1hvXkb,['brexiteers']
+167,167,167,368009,711969593418448896,520410021,negative,other,2016-03-21T17:35:53.000Z,The problem for #Brexit-eers is they don't have points to get across and have no answers to inconvenient facts https://t.co/zAEAwGzT4I,['brexiteers']
+168,168,168,1064664,742289930794209280,2167242811,positive,leave,2016-06-13T09:38:05.000Z,"Unlike the #Brexit-eers, the US would think that a capable European force large enough to be called an army would be a fine thing",['brexiteers']
+169,169,169,345867,710208382058242048,520410021,negative,remain,2016-03-16T20:57:27.000Z,methinks @montie objects too much to obscure from voters information that undermines misleading wishful thinking of #Brexit-eers #bbcnews,"['brexiteers', 'bbcnews']"
+170,170,170,345986,710218956053876736,520410021,negative,other,2016-03-16T21:39:29.000Z,@UK__News #Brexit-eers always squeal when inconvenient information undermines misleading claims for imaginary benefits of Brexit #bbcnews,"['brexiteers', 'bbcnews']"
+171,171,171,345144,710154692710555648,520410021,negative,other,2016-03-16T17:24:07.000Z,"#Brexit-eers are driven by emotion, prejudice and wishful thinking so unlikely to be influenced by facts #bbcnews https://t.co/1wKx6lU7qO","['brexiteers', 'bbcnews']"
+172,172,172,345751,710196042617253888,520410021,negative,other,2016-03-16T20:08:26.000Z,@TelePolitics #Brexit-eers want to prevent information that demonstrates how flawed and unsustainable their case for Brexit is #bbcnews,"['brexiteers', 'bbcnews']"
+173,173,173,311949,708010909361381376,520410021,neutral,other,2016-03-10T19:25:29.000Z,are all #Brexit-eers jingoistic xenophobes #bbcnews #skynews https://t.co/fMpMf2Z2A3,"['brexiteers', 'bbcnews', 'skynews']"
+174,174,174,386056,713066988797628416,520410021,positive,remain,2016-03-24T18:16:32.000Z,@No2AnimalAbuse6 you've been smoking too much wacky baccy - like most #Brexit-eers you and the truth are strangers #bbcnews #skynews,"['brexiteers', 'bbcnews', 'skynews']"
+175,175,175,1286749,744595675145437184,356756564,negative,remain,2016-06-19T18:20:17.000Z,"At least #Cameron's talking the UK up, unlike #Brexit-eers who say we're too weak to hold our own if we stay. #bbcqt https://t.co/tb9iO1ge0R","['brexiteers', 'bbcqt', ""cameron's""]"
+176,176,176,685001,731926722644447232,501139438,negative,remain,2016-05-15T19:18:23.000Z,#Boris is wrong about #TTIP.  How do I know?He told us how wonderful it was! He's using poor #Brexit-eers! How sad😢 https://t.co/9SZdbpcGsQ,"['brexiteers', 'boris', 'ttip']"
+177,177,177,1114917,742816341720240128,156655009,positive,remain,2016-06-14T20:29:51.000Z,RT@mrmarksteel #Brexit-eers love democracy – that's why they don't want you to be able to vote https://t.co/CHYar4vt0R #Bremain #VoteRemain,"['brexiteers', 'bremain', 'voteremain']"
+178,178,178,530273,723201039088930816,68661185,negative,other,2016-04-21T17:25:38.000Z,"""We're going to build a wall and Europe is going to pay for it "" #brexit #brexiteers probably","['brexiteers', 'brexit']"
+179,179,179,554333,724226180405145600,3124666565,positive,remain,2016-04-24T13:19:11.000Z,"If only the Brexiteers had persons of quality - Norman Lamont, Boris Johnson, Toby Young, too many Dominics, oh dear! #brexiteers  #Brexit","['brexiteers', 'brexit']"
+180,180,180,267915,705797824231952384,484781566,negative,remain,2016-03-04T16:51:29.000Z,"Extraordinary thing about #brexit campaign is #brexiteers haven't checked their facts fuelled by propaganda, truth now hurting @BorisJohnson","['brexiteers', 'brexit']"
+181,181,181,198597,702816549611180032,302543344,neutral,remain,2016-02-25T11:24:57.000Z,David asks Boris is the plural of anus aye/nay? Fisted or punched it’s all the same to Boris. #Brexit of the #brexiteers,"['brexiteers', 'brexit']"
+182,182,182,780189,735417569499316224,301577187,positive,remain,2016-05-25T10:29:46.000Z,#BreXit could derive much gain from reading this report #BreXiteers https://t.co/mv0YO2Ue1R,"['brexiteers', 'brexit']"
+183,183,183,2183665,746399480992276480,3214991637,neutral,remain,2016-06-24T17:47:58.000Z,"human rights perspective: #Brexit will give UK govt more pwr...surely that's not something #brexiteers envisioned
+https://t.co/ear3nuFjWi","['brexiteers', 'brexit']"
+184,184,184,1335003,744925712293961728,295966479,neutral,other,2016-06-20T16:11:44.000Z,Nissan is taking legal action against Leave campaign #brexit #brexiteers  https://t.co/vJZbYPkYuJ,"['brexiteers', 'brexit']"
+185,185,185,566868,724972512925388800,2885705823,positive,remain,2016-04-26T14:44:51.000Z,Hey #Brexiteers. IBM oppose democracy and want us to stay chained to the#EU. Brits don't  buy @IBM.RT please #Brexit https://t.co/5gRMwISmph,"['brexiteers', 'brexit']"
+186,186,186,596255,727396356793503744,16525963,positive,other,2016-05-03T07:16:20.000Z,The libertarian argument that #brexit gives us less govt is fallacious when #brexiteers cite wanting stronger UK govt as reason to leave. /1,"['brexiteers', 'brexit']"
+187,187,187,292418,707214315095519232,20345616,neutral,remain,2016-03-08T14:40:06.000Z,#brexit infogram over #brexiteers  https://t.co/zH64eaDQka,"['brexiteers', 'brexit']"
+188,188,188,1134314,742992552131973120,395446240,neutral,other,2016-06-15T08:10:03.000Z,"Out of those chains those chains that bind YOU &gt; that's why I'm here to remind YOU ....... #BREXIT 
+Let's go #brexiteers","['brexiteers', 'brexit']"
+189,189,189,169580,702013876573970432,302543344,neutral,remain,2016-02-23T06:15:25.000Z,Fisted or punched its all the same to Boris. #Brexit of the #brexiteers,"['brexiteers', 'brexit']"
+190,190,190,234657,704328883219333120,2885705823,positive,leave,2016-02-29T15:34:26.000Z,"Some more homework for my fellow independent #Brexiteers. #Brexit is a process, we take our time to get a good deal. https://t.co/4X46WuJvbi","['brexiteers', 'brexit']"
+191,191,191,232156,704253758084149248,329588583,neutral,remain,2016-02-29T10:35:54.000Z,"#Brexiteers: what would civil servants know about the consequences of #Brexit, compared to, say, tabloid columnists? https://t.co/OqDWy5FHwH","['brexiteers', 'brexit']"
+192,192,192,1158998,743145079972503552,128721881,neutral,remain,2016-06-15T18:16:08.000Z,#brexit Found the ideal present for the #brexiteers  https://t.co/Y8UjK3Rmdn,"['brexiteers', 'brexit']"
+193,193,193,2284333,746489987449774080,37074284,positive,leave,2016-06-24T23:47:36.000Z,"Another @Lin_Manuel gem, with respect to  #Brexit and the #Brexiteers: ""You have no control who lives, who dies, who tells your story""","['brexiteers', 'brexit']"
+194,194,194,2437316,746714467979956224,217834708,negative,other,2016-06-25T14:39:37.000Z,"FT demographics analysis on #Brexiteers: older, poorly educated, non-Professional, poorly paid. #Euref #Brexit","['brexiteers', 'brexit', 'euref']"
+195,195,195,900237,739184863757094912,290160887,positive,other,2016-06-04T19:59:39.000Z,Song for #Brexit has to be #FleetwoodMac GO YOUR OWN WAY ...an acoustic bombshell - the ultimate f*** off song. r/t  &amp; adopt it  #Brexiteers,"['brexiteers', 'brexit', 'fleetwoodmac']"
+196,196,196,1927223,746280541520072704,3780286457,positive,leave,2016-06-24T09:55:20.000Z,Its DONE #Brexit NOW the FUTURE  starts for #GREATBRITAIN without the limitations from EU CONGRATULATION #BREXITEERS https://t.co/IoMxlCoadF,"['brexiteers', 'brexit', 'greatbritain']"
+197,197,197,1465386,745658001445494784,3650733856,positive,remain,2016-06-22T16:41:35.000Z,"#Brexit Patriotism is under #psyop attack! #Brexiteers assemble! Be peaceful, be strong! https://t.co/QFnwDEhEm6","['brexiteers', 'brexit', 'psyop']"
+198,198,198,802627,736123075905916928,37779837,negative,remain,2016-05-27T09:13:12.000Z,"So #brexit team, whats all this about the corpse of Europe? More lies from #brexiteers #remainin #RemainINEU https://t.co/aQHbEjDgy3","['brexiteers', 'brexit', 'remainineu', 'remainin']"
+199,199,199,1987919,746304691173220352,18088258,positive,leave,2016-06-24T11:31:18.000Z,"Well, there you have it #brexiteers - I hope you're pleased with yourselves #Brexit #shameonyou  https://t.co/TVXQ30dYmp","['brexiteers', 'brexit', 'shameonyou']"
