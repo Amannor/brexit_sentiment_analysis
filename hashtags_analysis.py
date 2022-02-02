@@ -100,26 +100,6 @@ def extract_hash_tags(s):
         if any(x in cur_t for x in ["www.", "http:", "https:"]):
             continue
 
-        '''
-        #####This part is wring because it convert user-taggings inside hashtags to hashtags. I'm committing this as a
-        comment for possible future reference.
-        Will delete in future commits 
-        for cur_token in ["r\@", "+@", "/@"]:
-            if cur_token in cur_t:
-                tags_to_remove.add(cur_t)
-                tags_to_add.update(set(cur_t.split(cur_token)))
-        '''
-
-        '''
-        This section was originally here for cases when hashtags contained, for example the substring: L'#Islam but the
-        previous code (of s = s.replace("#", " #")) made this part redundant. I'm committing this as a comment for
-        possible future reference.
-        for accented_prefix in ["l'", "d'", "qu'", "n'"]:
-            if f'{accented_prefix}#' in cur_t:
-                tags_to_remove.add(cur_t)
-                tags_to_add.add(cur_t.replace(f'{accented_prefix}#', accented_prefix))
-        '''
-
         s = s.replace("-#", "-")
 
     tags -= tags_to_remove
