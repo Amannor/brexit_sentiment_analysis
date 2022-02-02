@@ -1,56 +1,56 @@
-,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-654519,730865000378716160,14258208,negative,other,2016-05-12T20:59:29.000Z,"Brexit vote may spark recession, Mark Carney warns #stupidBrexit  https://t.co/IUIwAflXCK",['stupidbrexit']
-662069,731073034979815424,14258208,neutral,remain,2016-05-13T10:46:08.000Z,"IMF says #Brexit 'bad to very, very bad.' Why would anyone in their right mind vote for #stupidBrexit  https://t.co/WvmqNfcykX","['stupidbrexit', 'brexit']"
-112263,747013854605893632,54152452,positive,leave,2016-06-26T10:29:16.000Z,"Right now I don't see what's ""great"" about Britain. #brexit #stupidBrexit #stupidbrittons","['stupidbrexit', 'stupidbrittons', 'brexit']"
-390687,789702491025833984,728500345,neutral,other,2016-10-22T05:38:40.000Z,"#DirtyBrexit
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,654519,730865000378716160,14258208,negative,other,2016-05-12T20:59:29.000Z,"Brexit vote may spark recession, Mark Carney warns #stupidBrexit  https://t.co/IUIwAflXCK",['stupidbrexit']
+1,1,1,662069,731073034979815424,14258208,neutral,remain,2016-05-13T10:46:08.000Z,"IMF says #Brexit 'bad to very, very bad.' Why would anyone in their right mind vote for #stupidBrexit  https://t.co/WvmqNfcykX","['stupidbrexit', 'brexit']"
+2,2,2,112263,747013854605893632,54152452,positive,leave,2016-06-26T10:29:16.000Z,"Right now I don't see what's ""great"" about Britain. #brexit #stupidBrexit #stupidbrittons","['stupidbrexit', 'stupidbrittons', 'brexit']"
+3,3,3,390687,789702491025833984,728500345,neutral,other,2016-10-22T05:38:40.000Z,"#DirtyBrexit
 #EmotionalBrexit
 #StupidBrexit
 Talks about talks 
 May has...nightmare her Brexit talks are going to be https://t.co/tBtG9DdXUT","['emotionalbrexit', 'dirtybrexit', 'stupidbrexit']"
-384559,789458738214268928,486640279,negative,leave,2016-10-21T13:30:05.000Z,#HardBrexit is #StupidBrexit but hey #Brexit is Brexit and whichever way you look at it it's pretty damn stupid https://t.co/5l4QvXziSS,"['hardbrexit', 'brexit', 'stupidbrexit']"
-396282,789880350252171264,173119510,negative,remain,2016-10-22T17:25:25.000Z,You nsty 'f---'. Still scoring ignorant brexit points when people face financial disaster? #stupidbrexit https://t.co/eOgi1zrgNF,['stupidbrexit']
-393377,789757360453586944,1282983517,positive,other,2016-10-22T09:16:42.000Z,"So beautiful, EU members talking in French to Theresa May #stupidBrexit #Brexit 
+4,4,4,384559,789458738214268928,486640279,negative,leave,2016-10-21T13:30:05.000Z,#HardBrexit is #StupidBrexit but hey #Brexit is Brexit and whichever way you look at it it's pretty damn stupid https://t.co/5l4QvXziSS,"['hardbrexit', 'brexit', 'stupidbrexit']"
+5,5,5,396282,789880350252171264,173119510,negative,remain,2016-10-22T17:25:25.000Z,You nsty 'f---'. Still scoring ignorant brexit points when people face financial disaster? #stupidbrexit https://t.co/eOgi1zrgNF,['stupidbrexit']
+6,6,6,393377,789757360453586944,1282983517,positive,other,2016-10-22T09:16:42.000Z,"So beautiful, EU members talking in French to Theresa May #stupidBrexit #Brexit 
 https://t.co/DFzOngKyqt","['stupidbrexit', 'brexit']"
-497184,832156178838863872,409137164,neutral,other,2017-02-16T09:14:28.000Z,"Is there an EU country that will offer me citizenship post brexit?
+7,7,7,497184,832156178838863872,409137164,neutral,other,2017-02-16T09:14:28.000Z,"Is there an EU country that will offer me citizenship post brexit?
 #teflteacher #ittrainer #softwaretrainer #lecturer #stupidbrexit #brexit","['ittrainer', 'lecturer', 'brexit', 'softwaretrainer', 'stupidbrexit', 'teflteacher']"
-205011,883995534524112896,1893140701,neutral,other,2017-07-09T10:25:33.000Z,"Owen Paterson epitomises wrong-headed, emporer's new clothes #StupidBrexit  #brexit #bbcsp","['bbcsp', 'brexit', 'stupidbrexit']"
-53939,878618060193746944,305722568,negative,other,2017-06-24T14:17:24.000Z,"Dear Mr Gove,Yes the fishermen may get to catch more after #Brexit, but who the fuck are they going to sell them to? #stupidbrexit","['brexit', 'stupidbrexit']"
-1229209,920566632728203264,18045695,neutral,other,2017-10-18T08:26:03.000Z,We deserve to see the Brexit impact studies #Brexit #StupidBrexit #Freedomofinformation https://t.co/v7HakcbDC3,"['freedomofinformation', 'brexit', 'stupidbrexit']"
-704236,902825664339959808,705680725,negative,remain,2017-08-30T09:29:46.000Z,The anti-democratic nonsense of BREXIT is just a waste of resources now and reduces future opportunity for all. #stupidBREXIT #StopBrexit,"['stopbrexit', 'stupidbrexit']"
-704250,902825825279594496,780840449963532160,negative,leave,2017-08-30T09:30:25.000Z,goodloaf: The anti-democratic nonsense of BREXIT is just a waste of resources now and reduces future opportunity for all. #stupidBREXIT #S…,"['stupidbrexit', 's…']"
-511669,965924338531815424,29957245,negative,remain,2018-02-20T12:21:22.000Z,"“Post-Brexit UK won't be like Mad Max, says Davis”
+8,8,8,205011,883995534524112896,1893140701,neutral,other,2017-07-09T10:25:33.000Z,"Owen Paterson epitomises wrong-headed, emporer's new clothes #StupidBrexit  #brexit #bbcsp","['bbcsp', 'brexit', 'stupidbrexit']"
+9,9,9,53939,878618060193746944,305722568,negative,other,2017-06-24T14:17:24.000Z,"Dear Mr Gove,Yes the fishermen may get to catch more after #Brexit, but who the fuck are they going to sell them to? #stupidbrexit","['brexit', 'stupidbrexit']"
+10,10,10,1229209,920566632728203264,18045695,neutral,other,2017-10-18T08:26:03.000Z,We deserve to see the Brexit impact studies #Brexit #StupidBrexit #Freedomofinformation https://t.co/v7HakcbDC3,"['freedomofinformation', 'brexit', 'stupidbrexit']"
+11,11,11,704236,902825664339959808,705680725,negative,remain,2017-08-30T09:29:46.000Z,The anti-democratic nonsense of BREXIT is just a waste of resources now and reduces future opportunity for all. #stupidBREXIT #StopBrexit,"['stopbrexit', 'stupidbrexit']"
+12,12,12,704250,902825825279594496,780840449963532160,negative,leave,2017-08-30T09:30:25.000Z,goodloaf: The anti-democratic nonsense of BREXIT is just a waste of resources now and reduces future opportunity for all. #stupidBREXIT #S…,"['stupidbrexit', 's…']"
+13,13,13,511669,965924338531815424,29957245,negative,remain,2018-02-20T12:21:22.000Z,"“Post-Brexit UK won't be like Mad Max, says Davis”
 
 Well of course it won’t. We won’t have the money for the special effects budget. 
 
 It’ll be more like the crappy late period Hammer horror films that could no longer afford Christopher Lee! #StupidBrexit https://t.co/QoenOYRH00",['stupidbrexit']
-979521,987103860698308608,812619192,negative,remain,2018-04-19T23:01:14.000Z,"Gosh, the pigeons are coming home to roost for May and her #Brexit cabal.
+14,14,14,979521,987103860698308608,812619192,negative,remain,2018-04-19T23:01:14.000Z,"Gosh, the pigeons are coming home to roost for May and her #Brexit cabal.
 First the Lords rejects, now the EU rejects and next the Commons will reject her #StupidBrexit.
 
 EU rejects Theresa May's Brexit Irish border solution.
 https://t.co/1bAE5eKrCl via @Telegraph","['stupidbrexit', 'brexit']"
-2048825,1018842419704614912,2961673856,positive,other,2018-07-16T12:58:56.000Z,"When we talk about ""deal"" with US will it provide universal health care, the ablity to study, the ablity to work, and move freely? I guess not, more like make some white guys richer? #Brexit #stupidbrexit","['brexit', 'stupidbrexit']"
-2048824,1018842419704614912,2961673856,positive,other,2018-07-16T12:58:56.000Z,"When we talk about ""deal"" with US will it provide universal health care, the ablity to study, the ablity to work, and move freely? I guess not, more like make some white guys richer? #Brexit #stupidbrexit","['brexit', 'stupidbrexit']"
-3252863,1032744819498647552,932387242659799040,negative,other,2018-08-23T21:42:07.000Z,Another Brexiteer showed the idiotic nature of Brexit thinking on @LBC. He explained that once we leave we won't need to custom check lorries come into the country. So much for taking control of our borders. #StupidBrexit We need a #PeoplesVote to save the country from idiots.,"['peoplesvote', 'stupidbrexit']"
-3252862,1032744819498647552,932387242659799040,negative,other,2018-08-23T21:42:07.000Z,Another Brexiteer showed the idiotic nature of Brexit thinking on @LBC. He explained that once we leave we won't need to custom check lorries come into the country. So much for taking control of our borders. #StupidBrexit We need a #PeoplesVote to save the country from idiots.,"['peoplesvote', 'stupidbrexit']"
-1447758,1012630062313693184,2504946271,negative,remain,2018-06-29T09:33:15.000Z,"@theresa_may STILL confused over what #brexit means, the EU isn't forcing the UK to do anything, WE are choosing to leave and that means ALL pacts and agreements are off, no matter how vital they are to us!
+15,15,15,2048825,1018842419704614912,2961673856,positive,other,2018-07-16T12:58:56.000Z,"When we talk about ""deal"" with US will it provide universal health care, the ablity to study, the ablity to work, and move freely? I guess not, more like make some white guys richer? #Brexit #stupidbrexit","['brexit', 'stupidbrexit']"
+16,16,16,2048824,1018842419704614912,2961673856,positive,other,2018-07-16T12:58:56.000Z,"When we talk about ""deal"" with US will it provide universal health care, the ablity to study, the ablity to work, and move freely? I guess not, more like make some white guys richer? #Brexit #stupidbrexit","['brexit', 'stupidbrexit']"
+17,17,17,3252863,1032744819498647552,932387242659799040,negative,other,2018-08-23T21:42:07.000Z,Another Brexiteer showed the idiotic nature of Brexit thinking on @LBC. He explained that once we leave we won't need to custom check lorries come into the country. So much for taking control of our borders. #StupidBrexit We need a #PeoplesVote to save the country from idiots.,"['peoplesvote', 'stupidbrexit']"
+18,18,18,3252862,1032744819498647552,932387242659799040,negative,other,2018-08-23T21:42:07.000Z,Another Brexiteer showed the idiotic nature of Brexit thinking on @LBC. He explained that once we leave we won't need to custom check lorries come into the country. So much for taking control of our borders. #StupidBrexit We need a #PeoplesVote to save the country from idiots.,"['peoplesvote', 'stupidbrexit']"
+19,19,19,1447758,1012630062313693184,2504946271,negative,remain,2018-06-29T09:33:15.000Z,"@theresa_may STILL confused over what #brexit means, the EU isn't forcing the UK to do anything, WE are choosing to leave and that means ALL pacts and agreements are off, no matter how vital they are to us!
 #StupidBrexit #BrexitReality #StopBrexit https://t.co/RsG1aMRDrE","['stopbrexit', 'stupidbrexit', 'brexitreality', 'brexit']"
-1447759,1012630062313693184,2504946271,negative,remain,2018-06-29T09:33:15.000Z,"@theresa_may STILL confused over what #brexit means, the EU isn't forcing the UK to do anything, WE are choosing to leave and that means ALL pacts and agreements are off, no matter how vital they are to us!
+20,20,20,1447759,1012630062313693184,2504946271,negative,remain,2018-06-29T09:33:15.000Z,"@theresa_may STILL confused over what #brexit means, the EU isn't forcing the UK to do anything, WE are choosing to leave and that means ALL pacts and agreements are off, no matter how vital they are to us!
 #StupidBrexit #BrexitReality #StopBrexit https://t.co/RsG1aMRDrE","['stopbrexit', 'stupidbrexit', 'brexitreality', 'brexit']"
-1849971,1067895966584500224,206501348,positive,remain,2018-11-28T21:40:13.000Z,"OMG! This is the man who wants to be PM? @BorisJohnson, one of the leading campaigners for #Brexit, during his time as Foreign Secretary. Good grief, how embarrassing!! 😳🤪😬
+21,21,21,1849971,1067895966584500224,206501348,positive,remain,2018-11-28T21:40:13.000Z,"OMG! This is the man who wants to be PM? @BorisJohnson, one of the leading campaigners for #Brexit, during his time as Foreign Secretary. Good grief, how embarrassing!! 😳🤪😬
 
 #BorisJohnson #StupidBrexit #PeoplesVote #FBPE https://t.co/HAct5N8jMo","['borisjohnson', 'stupidbrexit', 'peoplesvote', 'fbpe', 'brexit']"
-1849970,1067895966584500224,206501348,positive,remain,2018-11-28T21:40:13.000Z,"OMG! This is the man who wants to be PM? @BorisJohnson, one of the leading campaigners for #Brexit, during his time as Foreign Secretary. Good grief, how embarrassing!! 😳🤪😬
+22,22,22,1849970,1067895966584500224,206501348,positive,remain,2018-11-28T21:40:13.000Z,"OMG! This is the man who wants to be PM? @BorisJohnson, one of the leading campaigners for #Brexit, during his time as Foreign Secretary. Good grief, how embarrassing!! 😳🤪😬
 
 #BorisJohnson #StupidBrexit #PeoplesVote #FBPE https://t.co/HAct5N8jMo","['borisjohnson', 'stupidbrexit', 'peoplesvote', 'fbpe', 'brexit']"
-2742246,1076070492791103488,2367356407,neutral,other,2018-12-21T11:02:52.000Z,Dealing with anyone in the #UK these days is like flogging a dead horse! Such a shame it used to be such a great place #Brexit #StupidBrexit,"['brexit', 'uk', 'stupidbrexit']"
-2716985,1075512345315692544,590988984,positive,other,2018-12-19T22:04:59.000Z,So let me get this straight. Does the new Tory #immigration plan include a plan to increase nurses’ wages to £30k so our #nhs can continue to function? #StupidBrexit #Brexit,"['nhs', 'brexit', 'stupidbrexit', 'immigration']"
-2749087,1076163965762314240,1242631568,negative,remain,2018-12-21T17:14:18.000Z,I don’t care what he said ( although it did look like #StupidPeople ) but lets face it - she really is a #StupidWoman - now can we stop using it as yet another way to keep #Brexit out of the news? #StupidBrexit #StupidCorbyn #StopBrexitNow ! https://t.co/awSKKD4Yfl,"['stopbrexitnow', 'stupidbrexit', 'brexit', 'stupidpeople', 'stupidcorbyn', 'stupidwoman']"
-2722939,1075782335373533184,45970216,neutral,other,2018-12-20T15:57:50.000Z,"Me &amp; thousands of others waving flags of caution, calling for a FinalSay but apparently we're not allowed to question Brexit.
+23,23,23,2742246,1076070492791103488,2367356407,neutral,other,2018-12-21T11:02:52.000Z,Dealing with anyone in the #UK these days is like flogging a dead horse! Such a shame it used to be such a great place #Brexit #StupidBrexit,"['brexit', 'uk', 'stupidbrexit']"
+24,24,24,2716985,1075512345315692544,590988984,positive,other,2018-12-19T22:04:59.000Z,So let me get this straight. Does the new Tory #immigration plan include a plan to increase nurses’ wages to £30k so our #nhs can continue to function? #StupidBrexit #Brexit,"['nhs', 'brexit', 'stupidbrexit', 'immigration']"
+25,25,25,2749087,1076163965762314240,1242631568,negative,remain,2018-12-21T17:14:18.000Z,I don’t care what he said ( although it did look like #StupidPeople ) but lets face it - she really is a #StupidWoman - now can we stop using it as yet another way to keep #Brexit out of the news? #StupidBrexit #StupidCorbyn #StopBrexitNow ! https://t.co/awSKKD4Yfl,"['stopbrexitnow', 'stupidbrexit', 'brexit', 'stupidpeople', 'stupidcorbyn', 'stupidwoman']"
+26,26,26,2722939,1075782335373533184,45970216,neutral,other,2018-12-20T15:57:50.000Z,"Me &amp; thousands of others waving flags of caution, calling for a FinalSay but apparently we're not allowed to question Brexit.
 
 If Brexiters were convinced that people still wanted to leave then they'd call for EURef2 
 This isn't democracy, it's tyranny
 #StupidBrexit https://t.co/C1q9cGYUcz",['stupidbrexit']
-3028636,1082306267119583232,42077885,positive,leave,2019-01-07T16:01:37.000Z,"Brexit be like..... 
+27,27,27,3028636,1082306267119583232,42077885,positive,leave,2019-01-07T16:01:37.000Z,"Brexit be like..... 
 
 Man: (jumps off a small wall)
 
@@ -59,22 +59,22 @@ Witness: Hey, what you doing?
 Man: I'm practicing for jumping off a cliff tomorrow
 
 #StupidBrexit",['stupidbrexit']
-3296271,1085547808386678784,42077885,negative,remain,2019-01-16T14:42:20.000Z,"So the UK is either headed for no deal, a softer Brexit or cancelling the whole thing altogether. And different members of the cabinet are arguing for all those options. Theresa May saying ""let me be clear"" isn't helping. It's a snafu. #StupidBrexit",['stupidbrexit']
-3144731,1084098043329331200,1049741638493384832,positive,other,2019-01-12T14:41:29.000Z,"@staringatclouds @metpoliceuk Bullocks about the commission. U should seek a lawyer to help you, but not to campaign for the #stupidBrexit
+28,28,28,3296271,1085547808386678784,42077885,negative,remain,2019-01-16T14:42:20.000Z,"So the UK is either headed for no deal, a softer Brexit or cancelling the whole thing altogether. And different members of the cabinet are arguing for all those options. Theresa May saying ""let me be clear"" isn't helping. It's a snafu. #StupidBrexit",['stupidbrexit']
+29,29,29,3144731,1084098043329331200,1049741638493384832,positive,other,2019-01-12T14:41:29.000Z,"@staringatclouds @metpoliceuk Bullocks about the commission. U should seek a lawyer to help you, but not to campaign for the #stupidBrexit
 
 You are not defending your case, the opposite you are defending brexit #bullocks2Brexit
 
 @bbclaurak @BBCPolitics @BBCNews @Channel4News @SkyNews @UKLabour @Conservatives","['stupidbrexit', 'bullocks2brexit']"
-2793355,1076895043569491968,273659472,negative,remain,2018-12-23T17:39:20.000Z,Notwithstanding a lot of fake outrage regarding Jeremy Corbyn #stupidwomangate I don't think he even said #stupidwoman to the PM. I think he said #StupidPeople towards the Tories. I just wish Labour would say #StupidBrexit &amp; support a referendum vote on #Brexit #eu deal options.,"['stupidwoman', 'eu', 'stupidbrexit', 'brexit', 'stupidpeople', 'stupidwomangate']"
-542134,1096566805211082752,268298455,positive,leave,2019-02-16T00:27:54.000Z,"Of course the EU car makers will want to do business with us. Just as long as we pay an extra 10%
+30,30,30,2793355,1076895043569491968,273659472,negative,remain,2018-12-23T17:39:20.000Z,Notwithstanding a lot of fake outrage regarding Jeremy Corbyn #stupidwomangate I don't think he even said #stupidwoman to the PM. I think he said #StupidPeople towards the Tories. I just wish Labour would say #StupidBrexit &amp; support a referendum vote on #Brexit #eu deal options.,"['stupidwoman', 'eu', 'stupidbrexit', 'brexit', 'stupidpeople', 'stupidwomangate']"
+31,31,31,542134,1096566805211082752,268298455,positive,leave,2019-02-16T00:27:54.000Z,"Of course the EU car makers will want to do business with us. Just as long as we pay an extra 10%
 #stupidbrexit #brexitshambles #fbpe Porsche asks UK buyers to commit to 10% no-deal Brexit surcharge https://t.co/I1tADielhT","['fbpe', 'stupidbrexit', 'brexitshambles']"
-424350,1094439021881819136,775004771572916224,positive,other,2019-02-10T03:32:51.000Z,"Yet another unedifying eg of the govt disrespecting the hard-won Good Friday Agreement to pursue #StupidBrexit. The casual destruction of the hope, tolerance, integrity, inclusiveness, cooperation &amp; respect the GFA represents is sickening.   &amp; exposes Brexit’s core. #StopBrexit https://t.co/y0AIMfkDH5","['stopbrexit', 'stupidbrexit']"
-1000740,1116642520887365632,775004771572916224,positive,other,2019-04-12T10:01:37.000Z,"@ThatShockratees Farage of #StupidBrexit notoriety met with Assange while he was holed up too. Sincerely hope Brexit related nefariousness is revealed before any sort of “accident” (poisoning is my bet, TM Putin) befalls Assange. #BrexitIsACrimeScene #RevokeArticle50 #StopBrexitSaveBritain","['brexitisacrimescene', 'stopbrexitsavebritain', 'revokearticle50', 'stupidbrexit']"
-431017,1110867129333661696,300614956,negative,remain,2019-03-27T11:32:17.000Z,A glimpse of Brexit when you get to board the plane without him... oh wait false alarm @Vodkha7 @Stefademic #stupidbrexit,['stupidbrexit']
-966942,1150762211746418688,7518772,positive,other,2019-07-15T13:41:06.000Z,It's funny that they forgot to mention that old £500m sweetener when the LandRover deal was announced. I hope all the industries get such generous underpinnings going forward! #stupidbrexit #stupid #brexit https://t.co/56nEVdznhN,"['brexit', 'stupidbrexit', 'stupid']"
-807048,1147113390374043648,2460024278,negative,remain,2019-07-05T12:01:59.000Z,"I don’t want @BorisJohnson , I don’t want #Brexit. I don’t want @jeremycorbyn and I have given up on @labourparty  doing anything to oppose #StupidBrexit. 
+32,32,32,424350,1094439021881819136,775004771572916224,positive,other,2019-02-10T03:32:51.000Z,"Yet another unedifying eg of the govt disrespecting the hard-won Good Friday Agreement to pursue #StupidBrexit. The casual destruction of the hope, tolerance, integrity, inclusiveness, cooperation &amp; respect the GFA represents is sickening.   &amp; exposes Brexit’s core. #StopBrexit https://t.co/y0AIMfkDH5","['stopbrexit', 'stupidbrexit']"
+33,33,33,1000740,1116642520887365632,775004771572916224,positive,other,2019-04-12T10:01:37.000Z,"@ThatShockratees Farage of #StupidBrexit notoriety met with Assange while he was holed up too. Sincerely hope Brexit related nefariousness is revealed before any sort of “accident” (poisoning is my bet, TM Putin) befalls Assange. #BrexitIsACrimeScene #RevokeArticle50 #StopBrexitSaveBritain","['brexitisacrimescene', 'stopbrexitsavebritain', 'revokearticle50', 'stupidbrexit']"
+34,34,34,431017,1110867129333661696,300614956,negative,remain,2019-03-27T11:32:17.000Z,A glimpse of Brexit when you get to board the plane without him... oh wait false alarm @Vodkha7 @Stefademic #stupidbrexit,['stupidbrexit']
+35,35,35,966942,1150762211746418688,7518772,positive,other,2019-07-15T13:41:06.000Z,It's funny that they forgot to mention that old £500m sweetener when the LandRover deal was announced. I hope all the industries get such generous underpinnings going forward! #stupidbrexit #stupid #brexit https://t.co/56nEVdznhN,"['brexit', 'stupidbrexit', 'stupid']"
+36,36,36,807048,1147113390374043648,2460024278,negative,remain,2019-07-05T12:01:59.000Z,"I don’t want @BorisJohnson , I don’t want #Brexit. I don’t want @jeremycorbyn and I have given up on @labourparty  doing anything to oppose #StupidBrexit. 
 Solution, I’m voting @LibDems and I am going to join their Party.","['stupidbrexit', 'brexit']"
-789870,1146803941805580288,206501348,negative,remain,2019-07-04T15:32:20.000Z,"Easy to complain about the EU, but when you're sitting in the @Europarl_EN and can't even be bothered to turn up for work or important votes, who is really at fault?
+37,37,37,789870,1146803941805580288,206501348,negative,remain,2019-07-04T15:32:20.000Z,"Easy to complain about the EU, but when you're sitting in the @Europarl_EN and can't even be bothered to turn up for work or important votes, who is really at fault?
 
 Image credit @LuisaPorritt MEP
 

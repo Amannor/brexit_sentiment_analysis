@@ -1,5 +1,5 @@
-,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-3393794,1086567543698059264,866203967713411072,negative,remain,2019-01-19T10:14:24.000Z,"@acgrayling This never gets old when #Leavers bitch about #Remain’s campaign for a #peoplesvote 👇🏽
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,3393794,1086567543698059264,866203967713411072,negative,remain,2019-01-19T10:14:24.000Z,"@acgrayling This never gets old when #Leavers bitch about #Remain’s campaign for a #peoplesvote 👇🏽
 
 And now we KNOW #Brexit was won by #lies #deceit #criminality of #Banks #Grimes &amp; #Putin #trolls - the case is overwhelming ...
 
@@ -7,7 +7,7 @@ And now we KNOW #Brexit was won by #lies #deceit #criminality of #Banks #Grimes 
 #RevokeArt50NOW 
 
 https://t.co/YL2dVUE7OC","['leavers', 'criminality', 'remain’s', 'stopbrexit', 'peoplesvote', 'grimes', 'trolls', 'brexit', 'lies', 'deceit', 'banks', 'revokeart50now', 'putin']"
-55749,1088344900385550336,866203967713411072,positive,leave,2019-01-24T07:56:59.000Z,"Absolute tosh ....!! 😂😂😂😂
+1,1,1,55749,1088344900385550336,866203967713411072,positive,leave,2019-01-24T07:56:59.000Z,"Absolute tosh ....!! 😂😂😂😂
 
 Neither #Leavers nor #Remainers will trust the #Tories for a very long time irrespective of whether #Brexit is delivered or not. 
 
@@ -16,8 +16,8 @@ The question is - what’s BEST FOR #BRITAIN - and that’s #REMAIN
 #RevokeArt50NOW !! 
 
 https://t.co/cUMXCkqptl","['leavers', 'remainers', 'brexit', 'remain', 'revokeart50now', 'tories', 'britain']"
-421160,1094308560308191232,1092546516298940416,positive,leave,2019-02-09T18:54:26.000Z,"Correct, no majority for any form of Brexit, but consensus that no-deal unacceptable. So we need a deal. Hurrah! we have one, customised for us, worked well for many years. #RevokeArt50NOW! https://t.co/xnza9ZC6t1",['revokeart50now']
-95460,1088940909570519040,866203967713411072,positive,remain,2019-01-25T23:25:19.000Z,"@NeilFarrer2 @AlanGrayalan57 @BrexitCentral Yes, once again, that’s a very good summary of #Brexit 👍🏼
+2,2,2,421160,1094308560308191232,1092546516298940416,positive,leave,2019-02-09T18:54:26.000Z,"Correct, no majority for any form of Brexit, but consensus that no-deal unacceptable. So we need a deal. Hurrah! we have one, customised for us, worked well for many years. #RevokeArt50NOW! https://t.co/xnza9ZC6t1",['revokeart50now']
+3,3,3,95460,1088940909570519040,866203967713411072,positive,remain,2019-01-25T23:25:19.000Z,"@NeilFarrer2 @AlanGrayalan57 @BrexitCentral Yes, once again, that’s a very good summary of #Brexit 👍🏼
 
 Really couldn’t have put it better myself. ✔️
 
@@ -28,119 +28,119 @@ Really couldn’t have put it better myself. ✔️
 #RevokeArt50NOW
 #Brexidiots
 #StopTheBrexitMadness https://t.co/WJVN1g6EXt","['stopbrexit', 'brexidiots', 'stopthebrexitmadness', 'brexit', 'remain', 'revokeart50now']"
-365611,1110225110353539072,853842253,positive,remain,2019-03-25T17:01:07.000Z,Is it just me or is May now just drawing out her existence in #10. I was hoping she would do the right thing today and just resign. JUST STAND DOWN! #PeoplesVote #brexit #RevokeArt50Now,"['10', 'revokeart50now', 'peoplesvote', 'brexit']"
-234456,1109065921514127360,21078033,positive,other,2019-03-22T12:14:55.000Z,"As we lollop inexorably towards a default no deal Brexit, surely to goodness this have got to count for something! #3MillionAndCounting #RevokeArt50Now https://t.co/zHjjv7Orja https://t.co/YZHLfGaiDr","['3millionandcounting', 'revokeart50now']"
-213375,1108850836363505664,3190143988,neutral,other,2019-03-21T22:00:15.000Z,@NeilPollyTicks @peterjukes @susanmc15104271 @isaby Was at TPA before Brexit Central  @bbclaurak kindly congratulated him on his new job in 2013 .  #55TuftonSt #RevokeArt50Now,"['55tuftonst', 'revokeart50now']"
-870853,1115005720821477376,387543574,negative,remain,2019-04-07T21:37:34.000Z,"@theresa_may Triggered #A50 too early
+4,4,4,365611,1110225110353539072,853842253,positive,remain,2019-03-25T17:01:07.000Z,Is it just me or is May now just drawing out her existence in #10. I was hoping she would do the right thing today and just resign. JUST STAND DOWN! #PeoplesVote #brexit #RevokeArt50Now,"['10', 'revokeart50now', 'peoplesvote', 'brexit']"
+5,5,5,234456,1109065921514127360,21078033,positive,other,2019-03-22T12:14:55.000Z,"As we lollop inexorably towards a default no deal Brexit, surely to goodness this have got to count for something! #3MillionAndCounting #RevokeArt50Now https://t.co/zHjjv7Orja https://t.co/YZHLfGaiDr","['3millionandcounting', 'revokeart50now']"
+6,6,6,213375,1108850836363505664,3190143988,neutral,other,2019-03-21T22:00:15.000Z,@NeilPollyTicks @peterjukes @susanmc15104271 @isaby Was at TPA before Brexit Central  @bbclaurak kindly congratulated him on his new job in 2013 .  #55TuftonSt #RevokeArt50Now,"['55tuftonst', 'revokeart50now']"
+7,7,7,870853,1115005720821477376,387543574,negative,remain,2019-04-07T21:37:34.000Z,"@theresa_may Triggered #A50 too early
 Started cross party talks too late 
 Failed to understand the 4 freedoms of the #EU &amp; how that makes a 3y #Brexit impossible 
 With all these errors it still won’t save @Conservatives from the disaster capitalist lust of the #ERG 
 #RevokeArt50Now","['a50', 'brexit', 'erg', 'eu', 'revokeart50now']"
-224776,1109005244984422400,1045965916880687232,negative,remain,2019-03-22T08:13:49.000Z,Lots of people supporting the #RevokeArt50Now petition actually think their 2+ million signatures are in addition to the 16 million referendum votes. They aren’t. They’re the same sad rump of traitorous Remoaners bulked out with a large handful of foreign signatures. #A50 #Brexit,"['a50', 'brexit', 'revokeart50now']"
-499746,1111320658917629952,22561176,negative,remain,2019-03-28T17:34:27.000Z,"Also, look, I'm sorry my timeline is largely all 'stop Brexit' and that lately, but howling into the void is all I have left
+8,8,8,224776,1109005244984422400,1045965916880687232,negative,remain,2019-03-22T08:13:49.000Z,Lots of people supporting the #RevokeArt50Now petition actually think their 2+ million signatures are in addition to the 16 million referendum votes. They aren’t. They’re the same sad rump of traitorous Remoaners bulked out with a large handful of foreign signatures. #A50 #Brexit,"['a50', 'brexit', 'revokeart50now']"
+9,9,9,499746,1111320658917629952,22561176,negative,remain,2019-03-28T17:34:27.000Z,"Also, look, I'm sorry my timeline is largely all 'stop Brexit' and that lately, but howling into the void is all I have left
 
 #RevokeArt50Now 
 #RevokeArticle50Petition 
 #AlsoWhyNotBuyMyComicsWhileYoureReadingThis","['alsowhynotbuymycomicswhileyourereadingthis', 'revokearticle50petition', 'revokeart50now']"
-631553,1112497734437744640,1169391518,negative,remain,2019-03-31T23:31:43.000Z,"#Brexit cannot be good for the #NHS &amp; that's just one reason to #RevokeArt50Now @BBCCountryfile had a #pig #farmer on earlier saying the #US #animalwelfare in #agriculture was the worst she'd seen, entangling with #Trump in #medical or #food supply issues would be a disaster https://t.co/3D8FDgGsqg","['animalwelfare', 'us', 'pig', 'brexit', 'food', 'farmer', 'nhs', 'agriculture', 'trump', 'medical', 'revokeart50now']"
-431642,1110872212293197824,400725729,neutral,other,2019-03-27T11:52:29.000Z,Every other month saw April and said hold my beer.... #AprilFool #April1 #Brexit #StopBrexit #RevokeArt50 #RevokeArt50Now,"['april1', 'brexit', 'aprilfool', 'stopbrexit', 'revokeart50now', 'revokeart50']"
-227524,1109022340703309824,282481419,neutral,remain,2019-03-22T09:21:45.000Z,"Check out this petition that has already crossed 2.6M signatures stating to Revoke Article 50 and remain in the EU.
+10,10,10,631553,1112497734437744640,1169391518,negative,remain,2019-03-31T23:31:43.000Z,"#Brexit cannot be good for the #NHS &amp; that's just one reason to #RevokeArt50Now @BBCCountryfile had a #pig #farmer on earlier saying the #US #animalwelfare in #agriculture was the worst she'd seen, entangling with #Trump in #medical or #food supply issues would be a disaster https://t.co/3D8FDgGsqg","['animalwelfare', 'us', 'pig', 'brexit', 'food', 'farmer', 'nhs', 'agriculture', 'trump', 'medical', 'revokeart50now']"
+11,11,11,431642,1110872212293197824,400725729,neutral,other,2019-03-27T11:52:29.000Z,Every other month saw April and said hold my beer.... #AprilFool #April1 #Brexit #StopBrexit #RevokeArt50 #RevokeArt50Now,"['april1', 'brexit', 'aprilfool', 'stopbrexit', 'revokeart50now', 'revokeart50']"
+12,12,12,227524,1109022340703309824,282481419,neutral,remain,2019-03-22T09:21:45.000Z,"Check out this petition that has already crossed 2.6M signatures stating to Revoke Article 50 and remain in the EU.
 
 Click here - https://t.co/E9cfUyxzgh
 
 #RevokeArt50Now #Brexit #NoDealBrexit #PeoplesMovement #Article50","['article50', 'brexit', 'nodealbrexit', 'peoplesmovement', 'revokeart50now']"
-325580,1109822042927329280,3131128329,neutral,other,2019-03-24T14:19:29.000Z,"Over 5 million signatures! This petition gives me hope.
+13,13,13,325580,1109822042927329280,3131128329,neutral,other,2019-03-24T14:19:29.000Z,"Over 5 million signatures! This petition gives me hope.
 
 #RevokeArticle50 #Article50 #RevokeArt50Now #Brexit https://t.co/ygWE4U8KKl","['article50', 'brexit', 'revokeart50now', 'revokearticle50']"
-238525,1109084770808532992,38456814,negative,other,2019-03-22T13:29:49.000Z,"If more people sign this than voted leave, does it count as a second referendum? #Brexit #RevokeArt50Now #Article50 #article50petition #WillOfThePeople #BrexitMayhem #BrexitCrisis https://t.co/Iadpd1QVX7","['article50', 'brexitmayhem', 'brexit', 'brexitcrisis', 'article50petition', 'willofthepeople', 'revokeart50now']"
-239071,1109087281342808064,917227850,positive,other,2019-03-22T13:39:48.000Z,"Wow, #Article50 has been in news for over 2 years. Here's @pseaward1 's blog from when the 'Brexit bill' was just a twinkle in the government's eye. https://t.co/TeccuwfJeK #RevokeArt50Now (or not #HistParl is but an impartial observer)","['article50', 'histparl', 'revokeart50now']"
-914417,1115600091404886016,1108048998370283520,negative,remain,2019-04-09T12:59:23.000Z,"Brexiteers are actually blaming the Queen for the ruling out No Deal... I can't decide whether they're deluded or just downright stupid.
+14,14,14,238525,1109084770808532992,38456814,negative,other,2019-03-22T13:29:49.000Z,"If more people sign this than voted leave, does it count as a second referendum? #Brexit #RevokeArt50Now #Article50 #article50petition #WillOfThePeople #BrexitMayhem #BrexitCrisis https://t.co/Iadpd1QVX7","['article50', 'brexitmayhem', 'brexit', 'brexitcrisis', 'article50petition', 'willofthepeople', 'revokeart50now']"
+15,15,15,239071,1109087281342808064,917227850,positive,other,2019-03-22T13:39:48.000Z,"Wow, #Article50 has been in news for over 2 years. Here's @pseaward1 's blog from when the 'Brexit bill' was just a twinkle in the government's eye. https://t.co/TeccuwfJeK #RevokeArt50Now (or not #HistParl is but an impartial observer)","['article50', 'histparl', 'revokeart50now']"
+16,16,16,914417,1115600091404886016,1108048998370283520,negative,remain,2019-04-09T12:59:23.000Z,"Brexiteers are actually blaming the Queen for the ruling out No Deal... I can't decide whether they're deluded or just downright stupid.
 #Article50 #RoyalAssent #RevokeArt50Now #brexit","['article50', 'royalassent', 'revokeart50now', 'brexit']"
-236820,1109077212785983488,24343964,positive,remain,2019-03-22T12:59:47.000Z,"Revoke Article 50 and remain in the EU. - Petitions
+17,17,17,236820,1109077212785983488,24343964,positive,remain,2019-03-22T12:59:47.000Z,"Revoke Article 50 and remain in the EU. - Petitions
 
 3,000,000 and rising. Keep up the good work people and spread the word. 
 
 #brexit #Article50 #RevokeArt50Now #StopBrexit #StopDictatorMay  https://t.co/mGIVhZZyZI","['article50', 'stopbrexit', 'stopdictatormay', 'brexit', 'revokeart50now']"
-348451,1110111579385810944,852297187199520640,positive,remain,2019-03-25T09:30:00.000Z,It seems that I live in the tropical weather of #Brexit. Happy to know that! #article50debate #RevokeArt50Now https://t.co/MzTlx3Uips,"['article50debate', 'revokeart50now', 'brexit']"
-228486,1109028504207802368,37632713,negative,remain,2019-03-22T09:46:14.000Z,"Petition to cancel Brexit altogether hits 2.5m signatures and rising https://t.co/iWLSJrCOef
+18,18,18,348451,1110111579385810944,852297187199520640,positive,remain,2019-03-25T09:30:00.000Z,It seems that I live in the tropical weather of #Brexit. Happy to know that! #article50debate #RevokeArt50Now https://t.co/MzTlx3Uips,"['article50debate', 'revokeart50now', 'brexit']"
+19,19,19,228486,1109028504207802368,37632713,negative,remain,2019-03-22T09:46:14.000Z,"Petition to cancel Brexit altogether hits 2.5m signatures and rising https://t.co/iWLSJrCOef
 #Brexit #BrexitPetition #Article50 #Article50Petition #RevokeArt50Now","['article50petition', 'brexitpetition', 'article50', 'brexit', 'revokeart50now']"
-226837,1109018185670557696,40247320,neutral,other,2019-03-22T09:05:14.000Z,"2.6m viral marketing signatures, yet only 4k tweets about the #RevokeArt50Now petition, a third of what a temporary closure at a railway station generates?
+20,20,20,226837,1109018185670557696,40247320,neutral,other,2019-03-22T09:05:14.000Z,"2.6m viral marketing signatures, yet only 4k tweets about the #RevokeArt50Now petition, a third of what a temporary closure at a railway station generates?
 
 #Brexit #Astroturfing https://t.co/sbUbvi9DYh","['astroturfing', 'brexit', 'revokeart50now']"
-1091359,1118418188050534400,1257627566,neutral,other,2019-04-17T07:37:29.000Z,"@Nigel_Farage How about closer to home in the #EU Nigel? The results of the 2016 #Austrian Presidential elections were annulled after it was found that in some areas Austrian electoral #law had been disregarded.
+21,21,21,1091359,1118418188050534400,1257627566,neutral,other,2019-04-17T07:37:29.000Z,"@Nigel_Farage How about closer to home in the #EU Nigel? The results of the 2016 #Austrian Presidential elections were annulled after it was found that in some areas Austrian electoral #law had been disregarded.
 Don't you think the same should apply to #Brexit? #RevokeArt50Now","['austrian', 'law', 'eu', 'revokeart50now', 'brexit?']"
-265807,1109358958656004096,34239736,positive,other,2019-03-23T07:39:21.000Z,"How do you expect JC or @UKLabour to rise in d poll when JC is bein undermind by lab MPs &amp; consistently by his dep @tom_watson who promised 2 ""support the leader"" b4 he was electd as dep leader?! #RevokeTomWatson #r4today #bbcqt #bbcdp #brexit #PeoplesVoteMarch #RevokeArt50Now https://t.co/WjO4F7eazH","['bbcqt', 'bbcdp', 'peoplesvotemarch', 'revoketomwatson', 'r4today', 'brexit', 'revokeart50now']"
-805786,1114092672967483392,37797837,negative,other,2019-04-05T09:09:26.000Z,How did @bbcquestiontime NOT cover the Vote Leave dropping their appeal against criminal charges by the electoral commission!?! This drives me nuts. its a basic admission of guilt and it wasn't covered at all in last night's show #Brexit #RevokeArt50Now #bbcqt,"['bbcqt', 'brexit', 'revokeart50now']"
-214188,1108855475624427520,754064742336069632,negative,remain,2019-03-21T22:18:41.000Z,"https://t.co/pOryZhGQjt
+22,22,22,265807,1109358958656004096,34239736,positive,other,2019-03-23T07:39:21.000Z,"How do you expect JC or @UKLabour to rise in d poll when JC is bein undermind by lab MPs &amp; consistently by his dep @tom_watson who promised 2 ""support the leader"" b4 he was electd as dep leader?! #RevokeTomWatson #r4today #bbcqt #bbcdp #brexit #PeoplesVoteMarch #RevokeArt50Now https://t.co/WjO4F7eazH","['bbcqt', 'bbcdp', 'peoplesvotemarch', 'revoketomwatson', 'r4today', 'brexit', 'revokeart50now']"
+23,23,23,805786,1114092672967483392,37797837,negative,other,2019-04-05T09:09:26.000Z,How did @bbcquestiontime NOT cover the Vote Leave dropping their appeal against criminal charges by the electoral commission!?! This drives me nuts. its a basic admission of guilt and it wasn't covered at all in last night's show #Brexit #RevokeArt50Now #bbcqt,"['bbcqt', 'brexit', 'revokeart50now']"
+24,24,24,214188,1108855475624427520,754064742336069632,negative,remain,2019-03-21T22:18:41.000Z,"https://t.co/pOryZhGQjt
 Sign to #RevokeArt50Now and avoid #NoDeal #Brexit!!!!! 
 #bbcqt #BrexitCrisis","['bbcqt', 'brexitcrisis', 'brexit', 'nodeal', 'revokeart50now']"
-1093498,1118439899311611904,1633016606,negative,other,2019-04-17T09:03:46.000Z,"@guyverhofstadt @mrjamesob There is a suspicion that democracy has been highjacked in a way that will damage us for a lifetime, and yet so many voters seem to have Stockholm Syndrome on this subject- thankfully many are beginning to realise. Hope it’s not too late #RevokeArt50Now #FinalSay #brexit #bbcqt","['bbcqt', 'finalsay', 'revokeart50now', 'brexit']"
-464410,1111028717256691712,2288530580,neutral,remain,2019-03-27T22:14:22.000Z,Petition: Revoke Article 50 and remain in the EU. https://t.co/NTkNumsehP #Brexit #revoke #RevokeArt50Now #BeckettAmendment #revoke50 #Parliament #petitiontorevokearticle50 #petition,"['beckettamendment', 'petitiontorevokearticle50', 'brexit', 'petition', 'parliament', 'revoke', 'revoke50', 'revokeart50now']"
-327768,1109837280133435392,6418372,neutral,leave,2019-03-24T15:20:02.000Z,"For all of those citing the 17.4m, telling everyone to #getoverit, claiming that a second vote would be a #betrayalofdemocracy etc, including parliamentarians, who should know better: #brexit #PeoplesVoteMarch #RevokeArt50Now https://t.co/MeqyRooFtt","['betrayalofdemocracy', 'peoplesvotemarch', 'brexit', 'revokeart50now', 'getoverit']"
-290436,1109503114934190080,259887345,positive,remain,2019-03-23T17:12:10.000Z,There were 2 brexit marches today. @peoplesvote_uk attracted 1 million. #MarchToLeave attracted 200 people addressed in a pub car park by man of the people @Nigel_Farage #bollockstobrexit #PeopleMarch #PeopesVoteMarch #PeoplesVote #RevokeArt50Now https://t.co/RUkEUbivBU,"['bollockstobrexit', 'peoplesvote', 'marchtoleave', 'peoplemarch', 'revokeart50now', 'peopesvotemarch']"
-285727,1109479292172468224,21181898,positive,remain,2019-03-23T15:37:31.000Z,Well done to my family and friends marching today to save Britain from Brexit #StopBrexit #RevokeArt50Now #bollockstobrexit https://t.co/78soEMhzpu,"['bollockstobrexit', 'stopbrexit', 'revokeart50now']"
-290180,1109501842172588032,410915382,positive,remain,2019-03-23T17:07:07.000Z,"The joy of being surrounded by people who also think #Brexit is shit. Felt like I’d got my country back. SO glad I did this. Let’s hope Parliament listened...
+25,25,25,1093498,1118439899311611904,1633016606,negative,other,2019-04-17T09:03:46.000Z,"@guyverhofstadt @mrjamesob There is a suspicion that democracy has been highjacked in a way that will damage us for a lifetime, and yet so many voters seem to have Stockholm Syndrome on this subject- thankfully many are beginning to realise. Hope it’s not too late #RevokeArt50Now #FinalSay #brexit #bbcqt","['bbcqt', 'finalsay', 'revokeart50now', 'brexit']"
+26,26,26,464410,1111028717256691712,2288530580,neutral,remain,2019-03-27T22:14:22.000Z,Petition: Revoke Article 50 and remain in the EU. https://t.co/NTkNumsehP #Brexit #revoke #RevokeArt50Now #BeckettAmendment #revoke50 #Parliament #petitiontorevokearticle50 #petition,"['beckettamendment', 'petitiontorevokearticle50', 'brexit', 'petition', 'parliament', 'revoke', 'revoke50', 'revokeart50now']"
+27,27,27,327768,1109837280133435392,6418372,neutral,leave,2019-03-24T15:20:02.000Z,"For all of those citing the 17.4m, telling everyone to #getoverit, claiming that a second vote would be a #betrayalofdemocracy etc, including parliamentarians, who should know better: #brexit #PeoplesVoteMarch #RevokeArt50Now https://t.co/MeqyRooFtt","['betrayalofdemocracy', 'peoplesvotemarch', 'brexit', 'revokeart50now', 'getoverit']"
+28,28,28,290436,1109503114934190080,259887345,positive,remain,2019-03-23T17:12:10.000Z,There were 2 brexit marches today. @peoplesvote_uk attracted 1 million. #MarchToLeave attracted 200 people addressed in a pub car park by man of the people @Nigel_Farage #bollockstobrexit #PeopleMarch #PeopesVoteMarch #PeoplesVote #RevokeArt50Now https://t.co/RUkEUbivBU,"['bollockstobrexit', 'peoplesvote', 'marchtoleave', 'peoplemarch', 'revokeart50now', 'peopesvotemarch']"
+29,29,29,285727,1109479292172468224,21181898,positive,remain,2019-03-23T15:37:31.000Z,Well done to my family and friends marching today to save Britain from Brexit #StopBrexit #RevokeArt50Now #bollockstobrexit https://t.co/78soEMhzpu,"['bollockstobrexit', 'stopbrexit', 'revokeart50now']"
+30,30,30,290180,1109501842172588032,410915382,positive,remain,2019-03-23T17:07:07.000Z,"The joy of being surrounded by people who also think #Brexit is shit. Felt like I’d got my country back. SO glad I did this. Let’s hope Parliament listened...
 #PeoplesVoteMarch #PeoplesMarch #BolloxtoBrexit #RevokeArt50Now https://t.co/rg8TQLgBNr","['bolloxtobrexit', 'peoplesvotemarch', 'brexit', 'peoplesmarch', 'revokeart50now']"
-495596,1111292952121360384,21219421,negative,remain,2019-03-28T15:44:21.000Z,"3.7 million children living in absolute poverty in UK  and these Tory  fuckwits are desperately voting to line their own pockets ( which are already luxuriously lined ) fuck #borisjohnson  #may #ERG  #Brexit
+31,31,31,495596,1111292952121360384,21219421,negative,remain,2019-03-28T15:44:21.000Z,"3.7 million children living in absolute poverty in UK  and these Tory  fuckwits are desperately voting to line their own pockets ( which are already luxuriously lined ) fuck #borisjohnson  #may #ERG  #Brexit
 #RevokeArt50Now","['borisjohnson', 'brexit', 'erg', 'may', 'revokeart50now']"
-290708,1109504527437389824,3432562233,positive,other,2019-03-23T17:17:47.000Z,"@doctor_oxford @peoplesvote_uk @CNagpaul @RoaringNurse Great speeches from all of you! #Brexiters pay attention. As Rachel said, we can have #Brexit or we can have the #NHS, we can't have both! #borisjohnson #NigelFarage #Brexshiters your £350million bus was a suppository shove it where it belongs.#PeoplesMarch #RevokeArt50Now https://t.co/3wwHl3wele","['borisjohnson', 'brexshiters', 'nhs', 'brexit', 'revokeart50now', 'nigelfarage', 'brexiters']"
-368975,1110249604925308928,2748167339,negative,remain,2019-03-25T18:38:27.000Z,"It’s so bizarre. It is the elites public schoolboys club #erg #farage #BorisJohnson #tories Rees-Mogg, who wanted #Brexit and engineered it, found corrupt funding and told #lies created #austerity so why do people swallow the lies ? #leave #RevokeArt50Now https://t.co/XArEwbcZvM","['borisjohnson', 'farage', 'erg', 'brexit', 'austerity', 'lies', 'tories', 'leave', 'revokeart50now']"
-613395,1112283001843564544,52003080,negative,other,2019-03-31T09:18:27.000Z,"2018 @Lord_Sugar had a point -(Dumb &amp; Dumber) #BorisJohnson &amp; #MichaelGove should be in jail, not vying for #PrimeMinister position. #Vote_Leave broke law #Brexit #Referendum #RevokeArt50Now #RevokeArticle50Petition https://t.co/PlGPx06txR","['borisjohnson', 'primeminister', 'revokearticle50petition', 'brexit', 'voteleave', 'michaelgove', 'referendum', 'revokeart50now']"
-289264,1109497355294912512,1016714539709227008,positive,other,2019-03-23T16:49:17.000Z,"Some great #PeopleVoteMarch signs🇬🇧
+32,32,32,290708,1109504527437389824,3432562233,positive,other,2019-03-23T17:17:47.000Z,"@doctor_oxford @peoplesvote_uk @CNagpaul @RoaringNurse Great speeches from all of you! #Brexiters pay attention. As Rachel said, we can have #Brexit or we can have the #NHS, we can't have both! #borisjohnson #NigelFarage #Brexshiters your £350million bus was a suppository shove it where it belongs.#PeoplesMarch #RevokeArt50Now https://t.co/3wwHl3wele","['borisjohnson', 'brexshiters', 'nhs', 'brexit', 'revokeart50now', 'nigelfarage', 'brexiters']"
+33,33,33,368975,1110249604925308928,2748167339,negative,remain,2019-03-25T18:38:27.000Z,"It’s so bizarre. It is the elites public schoolboys club #erg #farage #BorisJohnson #tories Rees-Mogg, who wanted #Brexit and engineered it, found corrupt funding and told #lies created #austerity so why do people swallow the lies ? #leave #RevokeArt50Now https://t.co/XArEwbcZvM","['borisjohnson', 'farage', 'erg', 'brexit', 'austerity', 'lies', 'tories', 'leave', 'revokeart50now']"
+34,34,34,613395,1112283001843564544,52003080,negative,other,2019-03-31T09:18:27.000Z,"2018 @Lord_Sugar had a point -(Dumb &amp; Dumber) #BorisJohnson &amp; #MichaelGove should be in jail, not vying for #PrimeMinister position. #Vote_Leave broke law #Brexit #Referendum #RevokeArt50Now #RevokeArticle50Petition https://t.co/PlGPx06txR","['borisjohnson', 'primeminister', 'revokearticle50petition', 'brexit', 'voteleave', 'michaelgove', 'referendum', 'revokeart50now']"
+35,35,35,289264,1109497355294912512,1016714539709227008,positive,other,2019-03-23T16:49:17.000Z,"Some great #PeopleVoteMarch signs🇬🇧
 #BrexitVote #Brexit #Brexitmarch #PutItToThePeople #PutitothePeople #PutitothePeopleMarch #putittothepeoplemarch #MarchForLeave #RevokeArt50Now #RevokeArticle50 #RevokArticle50 #MayMustGoNow #ToryBrexitShambles #TheresaMay #borisjohnson #farage https://t.co/swgxljCML4","['borisjohnson', 'revokarticle50', 'farage', 'revokearticle50', 'brexitmarch', 'putitothepeoplemarch', 'brexit', 'maymustgonow', 'putittothepeople', 'peoplevotemarch', 'putittothepeoplemarch', 'revokeart50now', 'putitothepeople', 'torybrexitshambles', 'theresamay', 'brexitvote', 'marchforleave']"
-252643,1109176697163866112,1074420233383882880,neutral,other,2019-03-22T19:35:06.000Z,Email your MP as well e.g. via https://t.co/hL0KH5QRwW #RevokeArticle50 #brexit #BotsDontMarch #RevokeArt50Now https://t.co/Oi9gVnwwFg,"['botsdontmarch', 'brexit', 'revokeart50now', 'revokearticle50']"
-236427,1109075225713561600,945386460869480320,negative,other,2019-03-22T12:51:54.000Z,"Reading AstraZeneca Annual Report for work. 'The Board reviews the potential
+36,36,36,252643,1109176697163866112,1074420233383882880,neutral,other,2019-03-22T19:35:06.000Z,Email your MP as well e.g. via https://t.co/hL0KH5QRwW #RevokeArticle50 #brexit #BotsDontMarch #RevokeArt50Now https://t.co/Oi9gVnwwFg,"['botsdontmarch', 'brexit', 'revokeart50now', 'revokearticle50']"
+37,37,37,236427,1109075225713561600,945386460869480320,negative,other,2019-03-22T12:51:54.000Z,"Reading AstraZeneca Annual Report for work. 'The Board reviews the potential
 impact of Brexit regularly as an integral part of its Principal Risks...'. Let's not put jobs and investment at risk in the first place. #Breixit #RevokeArt50Now https://t.co/Lb05bOrAjZ","['breixit', 'revokeart50now']"
-225168,1109007859763822592,276077917,negative,remain,2019-03-22T08:24:12.000Z,"If we do a brexit, who will we blame for our problems when we can't scapegoat immigrants? We need a steady influx of foreigners otherwise we'll have to take responsibility for our own actions and we can't have that. #RevokeArt50Now #RevokeArticle50 #Breject","['breject', 'revokeart50now', 'revokearticle50']"
-231623,1109049664073019392,186929075,positive,other,2019-03-22T11:10:19.000Z,"Not a great response to my considered views from local MP (not on twitter). #AndewMitchell
+38,38,38,225168,1109007859763822592,276077917,negative,remain,2019-03-22T08:24:12.000Z,"If we do a brexit, who will we blame for our problems when we can't scapegoat immigrants? We need a steady influx of foreigners otherwise we'll have to take responsibility for our own actions and we can't have that. #RevokeArt50Now #RevokeArticle50 #Breject","['breject', 'revokeart50now', 'revokearticle50']"
+39,39,39,231623,1109049664073019392,186929075,positive,other,2019-03-22T11:10:19.000Z,"Not a great response to my considered views from local MP (not on twitter). #AndewMitchell
 It's really not difficult..think of the COUNTRY not PARTY
 Best deal is what we have.
 @Anna_Soubry #DoTheRightThing
 #Brexit
 #WithdrawalAgreement
 #BennAmendment #RevokeArt50Now https://t.co/Ol4JIMJQek","['brexit', 'andewmitchell', 'dotherightthing', 'revokeart50now', 'withdrawalagreement', 'bennamendment']"
-967731,1116245560963534848,496835891,neutral,remain,2019-04-11T07:44:15.000Z,I want #Brexit to be stopped. And I just used MapMyBrexit to find out exactly how that could happen. Do you know how to get the Brexit outcome you want? https://t.co/BvmLCc8FL0 #BrexitShambles #BrexitDay #Brexitcast #RevokeArt50Now https://t.co/xXor6HKF1F,"['brexit', 'brexitcast', 'brexitday', 'revokeart50now', 'brexitshambles']"
-240970,1109101295439396864,1602913392,neutral,remain,2019-03-22T14:35:29.000Z,In 3 days 3.238.126 British citizens/residents signed the #BrexitPetition to #RevokeArt50Now #Brexit #BrexitShambles Ci rendiamo conto? @ForzaEU @VoltEuropa @SiamoEuropei  https://t.co/rPgyyTLVrB,"['brexit', 'brexitpetition', 'revokeart50now', 'brexitshambles']"
-934802,1115925935814062080,2989958229,negative,other,2019-04-10T10:34:10.000Z,"The plot thickens
+40,40,40,967731,1116245560963534848,496835891,neutral,remain,2019-04-11T07:44:15.000Z,I want #Brexit to be stopped. And I just used MapMyBrexit to find out exactly how that could happen. Do you know how to get the Brexit outcome you want? https://t.co/BvmLCc8FL0 #BrexitShambles #BrexitDay #Brexitcast #RevokeArt50Now https://t.co/xXor6HKF1F,"['brexit', 'brexitcast', 'brexitday', 'revokeart50now', 'brexitshambles']"
+41,41,41,240970,1109101295439396864,1602913392,neutral,remain,2019-03-22T14:35:29.000Z,In 3 days 3.238.126 British citizens/residents signed the #BrexitPetition to #RevokeArt50Now #Brexit #BrexitShambles Ci rendiamo conto? @ForzaEU @VoltEuropa @SiamoEuropei  https://t.co/rPgyyTLVrB,"['brexit', 'brexitpetition', 'revokeart50now', 'brexitshambles']"
+42,42,42,934802,1115925935814062080,2989958229,negative,other,2019-04-10T10:34:10.000Z,"The plot thickens
 What greater proof do we need that @theresa_may is working FOR #EU than the delivery of this convoluted #Extension plot to keep us in the #EU via #RevokeArt50Now or ultimate humiliation of May's deal while constantly telling all #WTO #Brexit solution is disaster","['brexit', 'extension', 'wto', 'eu', 'revokeart50now']"
-235740,1109071980047683584,2996403237,negative,other,2019-03-22T12:39:00.000Z,"""In fair weather prepare for foul."" - Thomas Fuller #FridayFeeling #RevokeArt50Now 𝐍𝐢𝐠𝐞𝐥 𝐅𝐚𝐫𝐚𝐠𝐞 #Brexit https://t.co/S7D07Gc7tD","['brexit', 'fridayfeeling', 'revokeart50now']"
-562372,1111710754187739136,460178045,negative,other,2019-03-29T19:24:33.000Z,So why is our #government trying so desperately #Brexit when the #Referendum was only 'won' by illegality and deceit and so should have been annulled. #RevokeArt50Now https://t.co/84OzoX2C9B,"['brexit', 'government', 'revokeart50now', 'referendum']"
-239290,1109088416854142976,3105639322,negative,leave,2019-03-22T13:44:19.000Z,"@TheLastLeg
+43,43,43,235740,1109071980047683584,2996403237,negative,other,2019-03-22T12:39:00.000Z,"""In fair weather prepare for foul."" - Thomas Fuller #FridayFeeling #RevokeArt50Now 𝐍𝐢𝐠𝐞𝐥 𝐅𝐚𝐫𝐚𝐠𝐞 #Brexit https://t.co/S7D07Gc7tD","['brexit', 'fridayfeeling', 'revokeart50now']"
+44,44,44,562372,1111710754187739136,460178045,negative,other,2019-03-29T19:24:33.000Z,So why is our #government trying so desperately #Brexit when the #Referendum was only 'won' by illegality and deceit and so should have been annulled. #RevokeArt50Now https://t.co/84OzoX2C9B,"['brexit', 'government', 'revokeart50now', 'referendum']"
+45,45,45,239290,1109088416854142976,3105639322,negative,leave,2019-03-22T13:44:19.000Z,"@TheLastLeg
 #isitok to deny the UK a vote to re-think about #Brexit  now that we know a little more what it might entail
 #Democracy
 #RevokeArt50Now https://t.co/ovUSL02ttD","['brexit', 'isitok', 'revokeart50now', 'democracy']"
-234791,1109067490288717824,119694982,negative,other,2019-03-22T12:21:09.000Z,"3 million people sign #RevokeArt50Now petition within about 24 hours. 
+46,46,46,234791,1109067490288717824,119694982,negative,other,2019-03-22T12:21:09.000Z,"3 million people sign #RevokeArt50Now petition within about 24 hours. 
 versus
 
 3742 Vox Pops on TV news coverage where grey faced folks mumble 'Just Ger On Wiv It""
 
 #JustStopIt
 #Brexit","['brexit', 'juststopit', 'revokeart50now']"
-317739,1109767007753457664,320383248,negative,remain,2019-03-24T10:40:47.000Z,"Three years ago, ‘the people’ voted for #brexit. By less than 2%. Nonetheless the government took that indicative vote seriously, and looked into it. It’s shit. None of the promises of #leave can be fulfilled. Let’s #RevokeArt50Now and take a HUGE deep breath.","['brexit', 'leave', 'revokeart50now']"
-334148,1109889535654146048,33275398,neutral,remain,2019-03-24T18:47:40.000Z,"4,000 Exoplanet Tally but #Leavers claim most are #Bots!!!
+47,47,47,317739,1109767007753457664,320383248,negative,remain,2019-03-24T10:40:47.000Z,"Three years ago, ‘the people’ voted for #brexit. By less than 2%. Nonetheless the government took that indicative vote seriously, and looked into it. It’s shit. None of the promises of #leave can be fulfilled. Let’s #RevokeArt50Now and take a HUGE deep breath.","['brexit', 'leave', 'revokeart50now']"
+48,48,48,334148,1109889535654146048,33275398,neutral,remain,2019-03-24T18:47:40.000Z,"4,000 Exoplanet Tally but #Leavers claim most are #Bots!!!
 None of which apparently have #brexit #RevokeArt50Now 
 https://t.co/u12Llpd2Yx","['brexit', 'leavers', 'revokeart50now', 'bots']"
-268820,1109382448591310848,610213921,neutral,leave,2019-03-23T09:12:41.000Z,"4 MILLION!!!!
+49,49,49,268820,1109382448591310848,610213921,neutral,leave,2019-03-23T09:12:41.000Z,"4 MILLION!!!!
 
 Great work everyone! 
 
 #BrexitBetrayal #Brexit #PeoplesMarch #RevokeArt50Now #revokeA50petition","['brexit', 'peoplesmarch', 'brexitbetrayal', 'revokea50petition', 'revokeart50now']"
-909186,1115560107683741696,18376398,negative,remain,2019-04-09T10:20:30.000Z,"Note to non-German journalists: Michael Roth provides catchy soundbites, but the real decisions are made by Chancellor Merkel and her inner circle of advisors. No one else. #Brexit #EU #PeoplesVote #BrexitShambles #RevokeArt50Now
+50,50,50,909186,1115560107683741696,18376398,negative,remain,2019-04-09T10:20:30.000Z,"Note to non-German journalists: Michael Roth provides catchy soundbites, but the real decisions are made by Chancellor Merkel and her inner circle of advisors. No one else. #Brexit #EU #PeoplesVote #BrexitShambles #RevokeArt50Now
 
 https://t.co/mSeoHpAWbe","['brexit', 'peoplesvote', 'eu', 'revokeart50now', 'brexitshambles']"
-234358,1109065528063258624,51455542,neutral,remain,2019-03-22T12:13:21.000Z,3 million sign #RevokeArt50Now petition  !  https://t.co/apCGVbTieB  #Brexit #UK #EU #PeoplesVote #PeoplesMarch,"['brexit', 'peoplesvote', 'peoplesmarch', 'eu', 'revokeart50now', 'uk']"
-234145,1109064597246480384,2871001121,neutral,remain,2019-03-22T12:09:40.000Z,"Now 3,008,594 signatures #RevokeArt50Now #PeoplesVote #PeoplesMarch #FBPE #Brexit https://t.co/hMWYuqKGCS","['brexit', 'peoplesvote', 'peoplesmarch', 'fbpe', 'revokeart50now']"
-338394,1109929381034708992,476919502,neutral,remain,2019-03-24T21:26:00.000Z,@BilaRed It’s not compulsory to love the EU to hate #Brexit #PeoplesVote #PutItToThePeople #RevokeArt50Petition #RevokeArt50 #RevokeArt50Now,"['brexit', 'peoplesvote', 'putittothepeople', 'revokeart50petition', 'revokeart50now', 'revokeart50']"
-638779,1112644134744088576,2798305662,positive,other,2019-04-01T09:13:28.000Z,"@Jacob_Rees_Mogg @mik61scot Yes, that would be interesting and supports a GE sooner rather than later with @Conservatives &amp; @UKLabour Pro- #Brexit, the @LibDems Pro #RevokeArt50Now and the new Change UK Party offering a #PeoplesVote","['brexit', 'peoplesvote', 'revokeart50now']"
-323507,1109807023045201920,2748167339,negative,remain,2019-03-24T13:19:48.000Z,#RevokeArt50Now stop #Brexit get the #tories out #PeopesVoteMarch #PeoplesVote https://t.co/K5PxVl6sFM,"['brexit', 'peoplesvote', 'tories', 'revokeart50now', 'peopesvotemarch']"
-291847,1109510022898159616,880387805012254720,positive,leave,2019-03-23T17:39:37.000Z,"@mikegalsworthy @Youth4ia A great day out had by all, meeting likeminded people intent on pushing back a tone of incompetents is one of life's great pleasures. There has to be a #PeoplesVote after #PeoplesVoteMarch #RevokeArt50Now #Brexit https://t.co/crCcRzQMNg","['brexit', 'peoplesvotemarch', 'revokeart50now', 'peoplesvote']"
-270595,1109390247849275392,2748167339,positive,other,2019-03-23T09:43:41.000Z,‘I want a clean conscience’: meet the marchers for a people’s vote | Politics | The Guardian #PeoplesVoteMarch #RevokeArt50Now #RevokeArticle50Petition #Brexit  https://t.co/LKIAqcnNyv,"['brexit', 'peoplesvotemarch', 'revokearticle50petition', 'revokeart50now']"
-331993,1109870305768587264,313917656,positive,other,2019-03-24T17:31:15.000Z,"When the #RevokeArt50Now #petition to dump #Brexit reached the #5Million mark, I felt almost as triumphant as the first time I clapped my hands in the theatre and personally saved Tinkerbell's life for Peter Pan. #Ibelieveinfairies","['brexit', 'petition', 'ibelieveinfairies', '5million', 'revokeart50now']"
-1165572,1120215837183479808,1704241927,positive,remain,2019-04-22T06:40:42.000Z,"Pro-Brexit group really regrets 2nd referendum poll voters said they would now choose to Remain, winning the poll by 90%. #Brexit #RevokeArt50Now #News #UK #politics  https://t.co/1MhXxyTPol","['brexit', 'politics', 'revokeart50now', 'news', 'uk']"
-1362088,1124270449196716032,60915090,neutral,remain,2019-05-03T11:12:17.000Z,"Is it just me who hopes T May sticks around as PM for just a bt longer to deepen the shit the Government have created for themselves by bowing to ERG and other loons and honouring and dishonourabe referendum.
+51,51,51,234358,1109065528063258624,51455542,neutral,remain,2019-03-22T12:13:21.000Z,3 million sign #RevokeArt50Now petition  !  https://t.co/apCGVbTieB  #Brexit #UK #EU #PeoplesVote #PeoplesMarch,"['brexit', 'peoplesvote', 'peoplesmarch', 'eu', 'revokeart50now', 'uk']"
+52,52,52,234145,1109064597246480384,2871001121,neutral,remain,2019-03-22T12:09:40.000Z,"Now 3,008,594 signatures #RevokeArt50Now #PeoplesVote #PeoplesMarch #FBPE #Brexit https://t.co/hMWYuqKGCS","['brexit', 'peoplesvote', 'peoplesmarch', 'fbpe', 'revokeart50now']"
+53,53,53,338394,1109929381034708992,476919502,neutral,remain,2019-03-24T21:26:00.000Z,@BilaRed It’s not compulsory to love the EU to hate #Brexit #PeoplesVote #PutItToThePeople #RevokeArt50Petition #RevokeArt50 #RevokeArt50Now,"['brexit', 'peoplesvote', 'putittothepeople', 'revokeart50petition', 'revokeart50now', 'revokeart50']"
+54,54,54,638779,1112644134744088576,2798305662,positive,other,2019-04-01T09:13:28.000Z,"@Jacob_Rees_Mogg @mik61scot Yes, that would be interesting and supports a GE sooner rather than later with @Conservatives &amp; @UKLabour Pro- #Brexit, the @LibDems Pro #RevokeArt50Now and the new Change UK Party offering a #PeoplesVote","['brexit', 'peoplesvote', 'revokeart50now']"
+55,55,55,323507,1109807023045201920,2748167339,negative,remain,2019-03-24T13:19:48.000Z,#RevokeArt50Now stop #Brexit get the #tories out #PeopesVoteMarch #PeoplesVote https://t.co/K5PxVl6sFM,"['brexit', 'peoplesvote', 'tories', 'revokeart50now', 'peopesvotemarch']"
+56,56,56,291847,1109510022898159616,880387805012254720,positive,leave,2019-03-23T17:39:37.000Z,"@mikegalsworthy @Youth4ia A great day out had by all, meeting likeminded people intent on pushing back a tone of incompetents is one of life's great pleasures. There has to be a #PeoplesVote after #PeoplesVoteMarch #RevokeArt50Now #Brexit https://t.co/crCcRzQMNg","['brexit', 'peoplesvotemarch', 'revokeart50now', 'peoplesvote']"
+57,57,57,270595,1109390247849275392,2748167339,positive,other,2019-03-23T09:43:41.000Z,‘I want a clean conscience’: meet the marchers for a people’s vote | Politics | The Guardian #PeoplesVoteMarch #RevokeArt50Now #RevokeArticle50Petition #Brexit  https://t.co/LKIAqcnNyv,"['brexit', 'peoplesvotemarch', 'revokearticle50petition', 'revokeart50now']"
+58,58,58,331993,1109870305768587264,313917656,positive,other,2019-03-24T17:31:15.000Z,"When the #RevokeArt50Now #petition to dump #Brexit reached the #5Million mark, I felt almost as triumphant as the first time I clapped my hands in the theatre and personally saved Tinkerbell's life for Peter Pan. #Ibelieveinfairies","['brexit', 'petition', 'ibelieveinfairies', '5million', 'revokeart50now']"
+59,59,59,1165572,1120215837183479808,1704241927,positive,remain,2019-04-22T06:40:42.000Z,"Pro-Brexit group really regrets 2nd referendum poll voters said they would now choose to Remain, winning the poll by 90%. #Brexit #RevokeArt50Now #News #UK #politics  https://t.co/1MhXxyTPol","['brexit', 'politics', 'revokeart50now', 'news', 'uk']"
+60,60,60,1362088,1124270449196716032,60915090,neutral,remain,2019-05-03T11:12:17.000Z,"Is it just me who hopes T May sticks around as PM for just a bt longer to deepen the shit the Government have created for themselves by bowing to ERG and other loons and honouring and dishonourabe referendum.
 #Brexit #revokeart50now #RemainAlliance","['brexit', 'remainalliance', 'revokeart50now']"
-419688,1110807292910424064,1140737995,neutral,remain,2019-03-27T07:34:31.000Z,If you voted to leave the #UE but now have changed mind you may want to sign this historic petition asking to #RevokeArt50Now https://t.co/ltWDsylIN1 #RevokeA50 #RemainerNow #Brexit #brexitier,"['brexit', 'revokea50', 'brexitier', 'remainernow', 'ue', 'revokeart50now']"
-491344,1111260851938516992,836961402355073024,negative,remain,2019-03-28T13:36:47.000Z,"So far leavers have blamed the #BrexitShambles on:
+61,61,61,419688,1110807292910424064,1140737995,neutral,remain,2019-03-27T07:34:31.000Z,If you voted to leave the #UE but now have changed mind you may want to sign this historic petition asking to #RevokeArt50Now https://t.co/ltWDsylIN1 #RevokeA50 #RemainerNow #Brexit #brexitier,"['brexit', 'revokea50', 'brexitier', 'remainernow', 'ue', 'revokeart50now']"
+62,62,62,491344,1111260851938516992,836961402355073024,negative,remain,2019-03-28T13:36:47.000Z,"So far leavers have blamed the #BrexitShambles on:
 
 -the EU (Juncker, Tusk, EUCO and Commission)
 -Remainers
@@ -153,46 +153,46 @@ https://t.co/mSeoHpAWbe","['brexit', 'peoplesvote', 'eu', 'revokeart50now', 'bre
 The only people they’ve yet to blame are themselves
 
 #RevokeArt50Now #RevokeA50 #RevokeArt50 #Brexit","['brexit', 'revokea50', 'brexitshambles', 'revokeart50now', 'revokeart50']"
-233677,1109062350437601280,18958504,positive,other,2019-03-22T12:00:44.000Z,"Brilliant read on #Brexit apocalypse it is, then. not now, but probably next week by @MarinaHyde https://t.co/s1mx0YKbTM #RevokeArt50Now","['brexit', 'revokeart50now']"
-267138,1109371844799406080,166319195,negative,other,2019-03-23T08:30:33.000Z,"In just a few days, 4 MILLION UK citizens fed up with the worst possible handling of #Brexit have broken all petitions records by signing a petition to #RevokeArt50Now 
+63,63,63,233677,1109062350437601280,18958504,positive,other,2019-03-22T12:00:44.000Z,"Brilliant read on #Brexit apocalypse it is, then. not now, but probably next week by @MarinaHyde https://t.co/s1mx0YKbTM #RevokeArt50Now","['brexit', 'revokeart50now']"
+64,64,64,267138,1109371844799406080,166319195,negative,other,2019-03-23T08:30:33.000Z,"In just a few days, 4 MILLION UK citizens fed up with the worst possible handling of #Brexit have broken all petitions records by signing a petition to #RevokeArt50Now 
 
 https://t.co/Loj6geJFrj","['brexit', 'revokeart50now']"
-249968,1109161383453696000,3090137136,neutral,remain,2019-03-22T18:34:15.000Z,"Tbh , nobody knows what to do with #Brexit so might as well end it #RevokeArt50Now","['brexit', 'revokeart50now']"
-246266,1109141248508653568,939080791,positive,other,2019-03-22T17:14:15.000Z,Petition: Revoke Article 50 and remain in the EU. https://t.co/uYga6pbLxU If these numbers reach to over half of the electorate population this will need to be taken as seriously as the referendum result #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
-376736,1110309812103991296,142801601,negative,remain,2019-03-25T22:37:42.000Z,The government has lost control of #Brexit - no surprise there then #RevokeArt50Now and get rid of the government https://t.co/PE0EqoJB61,"['brexit', 'revokeart50now']"
-259500,1109220812953960448,1082396177491001344,negative,other,2019-03-22T22:30:24.000Z,@Nigel_Farage @brexitparty_uk Is Brexit Ukparty another racist UKIP? #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
-833168,1114458785052078080,157270224,positive,remain,2019-04-06T09:24:14.000Z,98 reasons to stay in the EU @theresa_may @BorisJohnson @SteveBarclay @Jacob_Rees_Mogg @michaelgove Have you considered these? Brexit isn't just about what you &amp; your cronies will benefit from #Brexit #RevokeArt50Now https://t.co/pzzfnsvLMW,"['brexit', 'revokeart50now']"
-225833,1109012246980714496,1163676848,neutral,remain,2019-03-22T08:41:38.000Z,@BBCNews @Channel4News @itvnews @BBCRadio2 @RadioX @capitalfmnews1 @SkyNews @SkyNewsBreak What’s going on?! #RevokeArt50Now #Brexit https://t.co/3a1uWrSwZO,"['brexit', 'revokeart50now']"
-255931,1109196731877601280,541675983,negative,leave,2019-03-22T20:54:43.000Z,Let's take some power back from the useless twats in charge! #RevokeArt50Now #Brexit Petition: Revoke Article 50 and remain in the EU. https://t.co/0YOM5lqH2P,"['brexit', 'revokeart50now']"
-275390,1109412318100643840,746245117510459520,neutral,remain,2019-03-23T11:11:23.000Z,"More people should sign this petition to show the parliament what we feel
+65,65,65,249968,1109161383453696000,3090137136,neutral,remain,2019-03-22T18:34:15.000Z,"Tbh , nobody knows what to do with #Brexit so might as well end it #RevokeArt50Now","['brexit', 'revokeart50now']"
+66,66,66,246266,1109141248508653568,939080791,positive,other,2019-03-22T17:14:15.000Z,Petition: Revoke Article 50 and remain in the EU. https://t.co/uYga6pbLxU If these numbers reach to over half of the electorate population this will need to be taken as seriously as the referendum result #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
+67,67,67,376736,1110309812103991296,142801601,negative,remain,2019-03-25T22:37:42.000Z,The government has lost control of #Brexit - no surprise there then #RevokeArt50Now and get rid of the government https://t.co/PE0EqoJB61,"['brexit', 'revokeart50now']"
+68,68,68,259500,1109220812953960448,1082396177491001344,negative,other,2019-03-22T22:30:24.000Z,@Nigel_Farage @brexitparty_uk Is Brexit Ukparty another racist UKIP? #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
+69,69,69,833168,1114458785052078080,157270224,positive,remain,2019-04-06T09:24:14.000Z,98 reasons to stay in the EU @theresa_may @BorisJohnson @SteveBarclay @Jacob_Rees_Mogg @michaelgove Have you considered these? Brexit isn't just about what you &amp; your cronies will benefit from #Brexit #RevokeArt50Now https://t.co/pzzfnsvLMW,"['brexit', 'revokeart50now']"
+70,70,70,225833,1109012246980714496,1163676848,neutral,remain,2019-03-22T08:41:38.000Z,@BBCNews @Channel4News @itvnews @BBCRadio2 @RadioX @capitalfmnews1 @SkyNews @SkyNewsBreak What’s going on?! #RevokeArt50Now #Brexit https://t.co/3a1uWrSwZO,"['brexit', 'revokeart50now']"
+71,71,71,255931,1109196731877601280,541675983,negative,leave,2019-03-22T20:54:43.000Z,Let's take some power back from the useless twats in charge! #RevokeArt50Now #Brexit Petition: Revoke Article 50 and remain in the EU. https://t.co/0YOM5lqH2P,"['brexit', 'revokeart50now']"
+72,72,72,275390,1109412318100643840,746245117510459520,neutral,remain,2019-03-23T11:11:23.000Z,"More people should sign this petition to show the parliament what we feel
 #RevokeArt50Now #Brexit 
 https://t.co/dgsYScEbgt https://t.co/rNEC38OsVJ","['brexit', 'revokeart50now']"
-473499,1111065657569931264,52532926,neutral,leave,2019-03-28T00:41:10.000Z,"Britain, alone, paddling against the tide. The EU, effortlessly catching a wave together. #Brexit #RevokeArt50Now https://t.co/wiwNGTfGln","['brexit', 'revokeart50now']"
-246858,1109144388335214592,26003080,negative,other,2019-03-22T17:26:43.000Z,Our life are getting more in risk due to madness called #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
-963005,1116223600149893120,157354283,negative,remain,2019-04-11T06:16:59.000Z,"Why vote again on a deal nobody wants which came about only because Mrs May refused to debate the options from day one? The ""will of the people"" is not expressed in a Yes/No vote. Take the pressure off! Revoke! #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
-270586,1109390209551122432,751701950094245888,negative,other,2019-03-23T09:43:32.000Z,"#RevokeArt50Now petition passes 4,000,000 mark!
+73,73,73,473499,1111065657569931264,52532926,neutral,leave,2019-03-28T00:41:10.000Z,"Britain, alone, paddling against the tide. The EU, effortlessly catching a wave together. #Brexit #RevokeArt50Now https://t.co/wiwNGTfGln","['brexit', 'revokeart50now']"
+74,74,74,246858,1109144388335214592,26003080,negative,other,2019-03-22T17:26:43.000Z,Our life are getting more in risk due to madness called #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
+75,75,75,963005,1116223600149893120,157354283,negative,remain,2019-04-11T06:16:59.000Z,"Why vote again on a deal nobody wants which came about only because Mrs May refused to debate the options from day one? The ""will of the people"" is not expressed in a Yes/No vote. Take the pressure off! Revoke! #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
+76,76,76,270586,1109390209551122432,751701950094245888,negative,other,2019-03-23T09:43:32.000Z,"#RevokeArt50Now petition passes 4,000,000 mark!
 
 Record is 4,150,260 set by previous #Brexit related petition which called for a supermajority to be set.
 
 Not debated until after 2016 referendum took place!
 
 Had parliament listened, we would not have been in this mess! https://t.co/IMWKtGndS4","['brexit', 'revokeart50now']"
-237445,1109079925376671744,113682937,positive,leave,2019-03-22T13:10:34.000Z,"Is there any possibility that on the referendum ballot papers Britain was misspelled? It would be great if it was actually ""Brittain"" that was supposed to be leaving the EU. Can anybody look into this? #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
-902056,1115463689816150016,1401834032,positive,other,2019-04-09T03:57:22.000Z,"@Keir_Starmer @YvetteCooperMP @labourwhips Thanks, Keir, as I missed the late TV News! Also many thanks to Yvette &amp; Co for their tenacity and strength. So, what now? Has the #Brexit monster finally been slain? Only one solution to bury the beast: #RevokeArt50Now ❤️🌹🇬🇧🇪🇺","['brexit', 'revokeart50now']"
-310017,1109720224885018624,746204672143175680,positive,remain,2019-03-24T07:34:53.000Z,Oh....fuck off #Brexit and even #RevokeArt50Now ...I am going to be busy for DAYS with my new favourite Twitter account @madsdoingthings 😻 Why haven't I stumbled across you before?! https://t.co/A15bckd8oZ,"['brexit', 'revokeart50now']"
-399309,1110545664121937920,1043343001,negative,other,2019-03-26T14:14:53.000Z,"@UKLabour Wiped out. @jeremycorbyn in himself is a voter turn off. Boring and without charisma but @UKLabour #Brexit ""policy"" will be the coup de grace. #RevokeArt50Now https://t.co/ixveow85jo","['brexit', 'revokeart50now']"
-237535,1109080303136575488,4717512933,neutral,remain,2019-03-22T13:12:04.000Z,"@Nigel_Farage Have you considered fleeing the country? 
+77,77,77,237445,1109079925376671744,113682937,positive,leave,2019-03-22T13:10:34.000Z,"Is there any possibility that on the referendum ballot papers Britain was misspelled? It would be great if it was actually ""Brittain"" that was supposed to be leaving the EU. Can anybody look into this? #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
+78,78,78,902056,1115463689816150016,1401834032,positive,other,2019-04-09T03:57:22.000Z,"@Keir_Starmer @YvetteCooperMP @labourwhips Thanks, Keir, as I missed the late TV News! Also many thanks to Yvette &amp; Co for their tenacity and strength. So, what now? Has the #Brexit monster finally been slain? Only one solution to bury the beast: #RevokeArt50Now ❤️🌹🇬🇧🇪🇺","['brexit', 'revokeart50now']"
+79,79,79,310017,1109720224885018624,746204672143175680,positive,remain,2019-03-24T07:34:53.000Z,Oh....fuck off #Brexit and even #RevokeArt50Now ...I am going to be busy for DAYS with my new favourite Twitter account @madsdoingthings 😻 Why haven't I stumbled across you before?! https://t.co/A15bckd8oZ,"['brexit', 'revokeart50now']"
+80,80,80,399309,1110545664121937920,1043343001,negative,other,2019-03-26T14:14:53.000Z,"@UKLabour Wiped out. @jeremycorbyn in himself is a voter turn off. Boring and without charisma but @UKLabour #Brexit ""policy"" will be the coup de grace. #RevokeArt50Now https://t.co/ixveow85jo","['brexit', 'revokeart50now']"
+81,81,81,237535,1109080303136575488,4717512933,neutral,remain,2019-03-22T13:12:04.000Z,"@Nigel_Farage Have you considered fleeing the country? 
 
 #RevokeArt50Now
 #Brexit 
 
 https://t.co/9ynCr336gk","['brexit', 'revokeart50now']"
-402425,1110570600370765824,1291195050,neutral,leave,2019-03-26T15:53:59.000Z,The #RevokeArt50Now petition has touched a nerve in Brexitsville.  That means it’s working.  Keep getting people to sign it.  #Brexit https://t.co/MxMyId8mpX https://t.co/fNGaHbSar3,"['brexit', 'revokeart50now']"
-339299,1109942614114160640,1043343001,negative,other,2019-03-24T22:18:35.000Z,@TheaDickinson Coming into this a bit late but I can't let it go. Those soldiers would have been immensely proud of the crowds marching for democracy yesterday. Anyone I know who members WW2 is totally appalled by #Brexit You are clueless beyond description. #RevokeArt50Now,"['brexit', 'revokeart50now']"
-270651,1109390469119778816,211810894,neutral,other,2019-03-23T09:44:33.000Z,Will do @mrjamesob. #RevokeArt50Now #Brexit https://t.co/LgUwGJR8UY,"['brexit', 'revokeart50now']"
-235330,1109069931138695168,2734386175,negative,other,2019-03-22T12:30:51.000Z,"The EU is not our enemy, we don't have to constantly fight WW2 over and over! Slaying Imaginary Dragons https://t.co/JhakNgcCaN #RevokeArt50Now #Brexit","['brexit', 'revokeart50now']"
-270733,1109390786716672000,388861877,negative,remain,2019-03-23T09:45:49.000Z,Showing no sign of stopping! ⁦@PhilipHammondUK⁩ the people are shouting! Are you listening? Do you want the disaster that is #Brexit to be your legacy?! #RevokeArt50Now https://t.co/KMkWwd29fD,"['brexit', 'revokeart50now']"
-834333,1114467321098186752,89931971,positive,leave,2019-04-06T09:58:09.000Z,"Make Britain ""Great"" again
+82,82,82,402425,1110570600370765824,1291195050,neutral,leave,2019-03-26T15:53:59.000Z,The #RevokeArt50Now petition has touched a nerve in Brexitsville.  That means it’s working.  Keep getting people to sign it.  #Brexit https://t.co/MxMyId8mpX https://t.co/fNGaHbSar3,"['brexit', 'revokeart50now']"
+83,83,83,339299,1109942614114160640,1043343001,negative,other,2019-03-24T22:18:35.000Z,@TheaDickinson Coming into this a bit late but I can't let it go. Those soldiers would have been immensely proud of the crowds marching for democracy yesterday. Anyone I know who members WW2 is totally appalled by #Brexit You are clueless beyond description. #RevokeArt50Now,"['brexit', 'revokeart50now']"
+84,84,84,270651,1109390469119778816,211810894,neutral,other,2019-03-23T09:44:33.000Z,Will do @mrjamesob. #RevokeArt50Now #Brexit https://t.co/LgUwGJR8UY,"['brexit', 'revokeart50now']"
+85,85,85,235330,1109069931138695168,2734386175,negative,other,2019-03-22T12:30:51.000Z,"The EU is not our enemy, we don't have to constantly fight WW2 over and over! Slaying Imaginary Dragons https://t.co/JhakNgcCaN #RevokeArt50Now #Brexit","['brexit', 'revokeart50now']"
+86,86,86,270733,1109390786716672000,388861877,negative,remain,2019-03-23T09:45:49.000Z,Showing no sign of stopping! ⁦@PhilipHammondUK⁩ the people are shouting! Are you listening? Do you want the disaster that is #Brexit to be your legacy?! #RevokeArt50Now https://t.co/KMkWwd29fD,"['brexit', 'revokeart50now']"
+87,87,87,834333,1114467321098186752,89931971,positive,leave,2019-04-06T09:58:09.000Z,"Make Britain ""Great"" again
 Implement a Great British Compromise!!
 
 1: Revoke article 50
@@ -201,97 +201,97 @@ IF still a leave majority
 3: Set up a cross party group to determine the best way to exit
 4: implement what the cross party group decide
 #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
-403941,1110582123365351424,1705311666,neutral,other,2019-03-26T16:39:46.000Z,Seems the people of the UK are now being forced out of the EU by @Theresa_May when the majority want to remain. How can that be the mandate of the people? #RevokeArt50Now #Brexit,"['brexit', 'revokeart50now']"
-711702,1113187369027559424,19229509,negative,other,2019-04-02T21:12:05.000Z,@eucopresident Thank you - I can only apologise for our PM and MP’s - they couldn’t run a bath let alone instigate a #Brexit that more and more of us no longer want  #RevokeArt50Now,"['brexit', 'revokeart50now']"
-230229,1109039790417211392,468314404,neutral,remain,2019-03-22T10:31:05.000Z,"Have you signed the petition ? Or do you intend to ?
+88,88,88,403941,1110582123365351424,1705311666,neutral,other,2019-03-26T16:39:46.000Z,Seems the people of the UK are now being forced out of the EU by @Theresa_May when the majority want to remain. How can that be the mandate of the people? #RevokeArt50Now #Brexit,"['brexit', 'revokeart50now']"
+89,89,89,711702,1113187369027559424,19229509,negative,other,2019-04-02T21:12:05.000Z,@eucopresident Thank you - I can only apologise for our PM and MP’s - they couldn’t run a bath let alone instigate a #Brexit that more and more of us no longer want  #RevokeArt50Now,"['brexit', 'revokeart50now']"
+90,90,90,230229,1109039790417211392,468314404,neutral,remain,2019-03-22T10:31:05.000Z,"Have you signed the petition ? Or do you intend to ?
 
 #RevokeArt50Now 
 #Brexit","['brexit', 'revokeart50now']"
-1362030,1124270091632369664,303330752,negative,remain,2019-05-03T11:10:52.000Z,They are not listening we do not want #Brexit @patel4witham @theresa_may #revokeart50now and conservatives will come back @ThatTimWalker https://t.co/LCLd5EkU2X,"['brexit', 'revokeart50now']"
-246323,1109141546954358784,3325704400,neutral,other,2019-03-22T17:15:26.000Z,Something I wrote about the March tomorrow #RevokeArt50Now #Brexit https://t.co/YzwbAqeZRe,"['brexit', 'revokeart50now']"
-237594,1109080608733573120,252077991,positive,remain,2019-03-22T13:13:17.000Z,"Catching up with the hundreds of emails from constituents over the past day or so on #Brexit #RevokeArt50Now - May really did herself no favours attempting to pit parliament against people. It would seem my constituents resolve to oppose her deal is, if anything, strengthened.","['brexit', 'revokeart50now']"
-249690,1109159813949374464,2239757682,negative,remain,2019-03-22T18:28:01.000Z,"Well said, Andrea. Let's abandon #Brexit on the basis of an unverifiable online poll. If there are any dissenters we can refer upwards to Judge Rinder &amp; if that doesn't work Judge Judy can have the final say.  #RevokeArt50Now https://t.co/5UCAvaQ7Oj","['brexit', 'revokeart50now']"
-249483,1109158637732282368,315853802,neutral,remain,2019-03-22T18:23:21.000Z,"@LBC @ShelaghFogarty You do know ANYONE from ANY WHERE can sign tbus petition as many tines as they like?! Apparently the Pope, Michael Jackson &amp; Micky Mouse have signed it as well as thousands from Russia &amp; France. Not very demicratic is it. #RevokeArt50Now #Brexit","['brexit', 'revokeart50now']"
-323862,1109809620560867328,18435759,negative,remain,2019-03-24T13:30:07.000Z,"Ooooh no. ""Philip Hammond"" introduced the bill to authorise the 2016 #Brexit referendum, and we know how badly written that one was. Just #RevokeArt50Now https://t.co/WhneQnlBP0","['brexit', 'revokeart50now']"
-269639,1109385879079079936,3173693489,positive,other,2019-03-23T09:26:19.000Z,"Good call on the 3 accounts to follow, @BotRevoke. #Brexit is threatening the sanity of an entire nation. #RevokeArt50Now https://t.co/7mvDRkKqWy","['brexit', 'revokeart50now']"
-247771,1109149018079350784,1058717745641127936,negative,other,2019-03-22T17:45:07.000Z,"There's a petition with over TWO MILLION people saying Brexit is unwanted.
+91,91,91,1362030,1124270091632369664,303330752,negative,remain,2019-05-03T11:10:52.000Z,They are not listening we do not want #Brexit @patel4witham @theresa_may #revokeart50now and conservatives will come back @ThatTimWalker https://t.co/LCLd5EkU2X,"['brexit', 'revokeart50now']"
+92,92,92,246323,1109141546954358784,3325704400,neutral,other,2019-03-22T17:15:26.000Z,Something I wrote about the March tomorrow #RevokeArt50Now #Brexit https://t.co/YzwbAqeZRe,"['brexit', 'revokeart50now']"
+93,93,93,237594,1109080608733573120,252077991,positive,remain,2019-03-22T13:13:17.000Z,"Catching up with the hundreds of emails from constituents over the past day or so on #Brexit #RevokeArt50Now - May really did herself no favours attempting to pit parliament against people. It would seem my constituents resolve to oppose her deal is, if anything, strengthened.","['brexit', 'revokeart50now']"
+94,94,94,249690,1109159813949374464,2239757682,negative,remain,2019-03-22T18:28:01.000Z,"Well said, Andrea. Let's abandon #Brexit on the basis of an unverifiable online poll. If there are any dissenters we can refer upwards to Judge Rinder &amp; if that doesn't work Judge Judy can have the final say.  #RevokeArt50Now https://t.co/5UCAvaQ7Oj","['brexit', 'revokeart50now']"
+95,95,95,249483,1109158637732282368,315853802,neutral,remain,2019-03-22T18:23:21.000Z,"@LBC @ShelaghFogarty You do know ANYONE from ANY WHERE can sign tbus petition as many tines as they like?! Apparently the Pope, Michael Jackson &amp; Micky Mouse have signed it as well as thousands from Russia &amp; France. Not very demicratic is it. #RevokeArt50Now #Brexit","['brexit', 'revokeart50now']"
+96,96,96,323862,1109809620560867328,18435759,negative,remain,2019-03-24T13:30:07.000Z,"Ooooh no. ""Philip Hammond"" introduced the bill to authorise the 2016 #Brexit referendum, and we know how badly written that one was. Just #RevokeArt50Now https://t.co/WhneQnlBP0","['brexit', 'revokeart50now']"
+97,97,97,269639,1109385879079079936,3173693489,positive,other,2019-03-23T09:26:19.000Z,"Good call on the 3 accounts to follow, @BotRevoke. #Brexit is threatening the sanity of an entire nation. #RevokeArt50Now https://t.co/7mvDRkKqWy","['brexit', 'revokeart50now']"
+98,98,98,247771,1109149018079350784,1058717745641127936,negative,other,2019-03-22T17:45:07.000Z,"There's a petition with over TWO MILLION people saying Brexit is unwanted.
 Please, just hold another referendum. If we choose to remain again, we'll leave it be
 #Brexit @theresa_may @UKParliament
 #RevokeArt50Now","['brexit', 'revokeart50now']"
-909468,1115562205871841280,36188242,negative,remain,2019-04-09T10:28:50.000Z,@Peston It makes me feel quite sick.  Damn #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
-889821,1115270433392214016,2680332260,positive,other,2019-04-08T15:09:26.000Z,"No deal vs revoke. God, I hope it’s the latter #Brexit #RevokeArt50Now  https://t.co/h02J5LwCU4","['brexit', 'revokeart50now']"
-277419,1109426190266322944,450047053,neutral,other,2019-03-23T12:06:30.000Z,Waiting for a tube with enough room to get to Hyde Park #Brexit #RevokeArt50Now https://t.co/XbTvhGlWFa,"['brexit', 'revokeart50now']"
-818959,1114210356463898624,735615568582217728,positive,other,2019-04-05T16:57:04.000Z,@Jacob_Rees_Mogg Thought the UK didn’t have any control over the EU?! ... Such a comic character you are... #RevokeArt50Now #Brexit,"['brexit', 'revokeart50now']"
-253984,1109184315630469120,217691850,negative,remain,2019-03-22T20:05:23.000Z,@MackODonnelly @Hishyeness @theresa_may My 100 year old Father inlaw also voted to remain and dito sad that us old timers are being blamed for #Brexit get it signed #RevokeArt50Now  make a 100 year old who survived a prison of war a camp happy man again!,"['brexit', 'revokeart50now']"
-248734,1109154412566638592,1044530846198353920,neutral,other,2019-03-22T18:06:33.000Z,"REVOKE ARTICLE 50
+99,99,99,909468,1115562205871841280,36188242,negative,remain,2019-04-09T10:28:50.000Z,@Peston It makes me feel quite sick.  Damn #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
+100,100,100,889821,1115270433392214016,2680332260,positive,other,2019-04-08T15:09:26.000Z,"No deal vs revoke. God, I hope it’s the latter #Brexit #RevokeArt50Now  https://t.co/h02J5LwCU4","['brexit', 'revokeart50now']"
+101,101,101,277419,1109426190266322944,450047053,neutral,other,2019-03-23T12:06:30.000Z,Waiting for a tube with enough room to get to Hyde Park #Brexit #RevokeArt50Now https://t.co/XbTvhGlWFa,"['brexit', 'revokeart50now']"
+102,102,102,818959,1114210356463898624,735615568582217728,positive,other,2019-04-05T16:57:04.000Z,@Jacob_Rees_Mogg Thought the UK didn’t have any control over the EU?! ... Such a comic character you are... #RevokeArt50Now #Brexit,"['brexit', 'revokeart50now']"
+103,103,103,253984,1109184315630469120,217691850,negative,remain,2019-03-22T20:05:23.000Z,@MackODonnelly @Hishyeness @theresa_may My 100 year old Father inlaw also voted to remain and dito sad that us old timers are being blamed for #Brexit get it signed #RevokeArt50Now  make a 100 year old who survived a prison of war a camp happy man again!,"['brexit', 'revokeart50now']"
+104,104,104,248734,1109154412566638592,1044530846198353920,neutral,other,2019-03-22T18:06:33.000Z,"REVOKE ARTICLE 50
 https://t.co/sWqZjB6pTQ
 
 #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
-297352,1109553206537916416,757312327452614528,negative,other,2019-03-23T20:31:13.000Z,"Jonathan Pie nails the sadness and madness of #Brexit in less than 8 mins.
+105,105,105,297352,1109553206537916416,757312327452614528,negative,other,2019-03-23T20:31:13.000Z,"Jonathan Pie nails the sadness and madness of #Brexit in less than 8 mins.
 
 Best quote: ""That´s how [Right] populism works: It masks political failure by blaming others""
 
 #RevokeArt50Now 
 
 https://t.co/x9V0L2sO6N","['brexit', 'revokeart50now']"
-243710,1109125879010131968,42941925,neutral,other,2019-03-22T16:13:10.000Z,"#Brexit is like that coursework at uni that you cba with, spend a month procrastinating, then pull an all nighter the day before and call the lecturer in the morning crying, asking for an extension. #RevokeArt50Now","['brexit', 'revokeart50now']"
-259534,1109221076339433472,321228233,negative,other,2019-03-22T22:31:27.000Z,Apart from crappy #Brexit the future looks rosy for me. #RevokeArt50Now,"['brexit', 'revokeart50now']"
-238236,1109083493114527744,750607897109889024,negative,leave,2019-03-22T13:24:45.000Z,"@DanTheFact @mrjamesob I may not like #Brexit but I know some one that said ""we shot ourselves in the foot for voting leave"".  Recently his approach has been ""I will vote leave just to prove a point that we shouldn't be ignoring the referendum result"".  Make of that what you will.  #RevokeArt50Now","['brexit', 'revokeart50now']"
-248090,1109150869541531648,83099093,negative,other,2019-03-22T17:52:28.000Z,"Okay, yes - it may be futile, but in the midst of all this chaos, signing is a small act of defiance; a way of screaming into the void.
+106,106,106,243710,1109125879010131968,42941925,neutral,other,2019-03-22T16:13:10.000Z,"#Brexit is like that coursework at uni that you cba with, spend a month procrastinating, then pull an all nighter the day before and call the lecturer in the morning crying, asking for an extension. #RevokeArt50Now","['brexit', 'revokeart50now']"
+107,107,107,259534,1109221076339433472,321228233,negative,other,2019-03-22T22:31:27.000Z,Apart from crappy #Brexit the future looks rosy for me. #RevokeArt50Now,"['brexit', 'revokeart50now']"
+108,108,108,238236,1109083493114527744,750607897109889024,negative,leave,2019-03-22T13:24:45.000Z,"@DanTheFact @mrjamesob I may not like #Brexit but I know some one that said ""we shot ourselves in the foot for voting leave"".  Recently his approach has been ""I will vote leave just to prove a point that we shouldn't be ignoring the referendum result"".  Make of that what you will.  #RevokeArt50Now","['brexit', 'revokeart50now']"
+109,109,109,248090,1109150869541531648,83099093,negative,other,2019-03-22T17:52:28.000Z,"Okay, yes - it may be futile, but in the midst of all this chaos, signing is a small act of defiance; a way of screaming into the void.
 Let’s hope the void listens.  
 
 #RevokeArt50Now #Brexit
 
 https://t.co/OrsO8wYe85","['brexit', 'revokeart50now']"
-651775,1112754044865560576,2975000080,positive,leave,2019-04-01T16:30:12.000Z,"Labour saying back Norway 2.0. Why, this gives us nothing better than we have already (which is surely the starting point) and no longer able to have say in future EU laws.
+110,110,110,651775,1112754044865560576,2975000080,positive,leave,2019-04-01T16:30:12.000Z,"Labour saying back Norway 2.0. Why, this gives us nothing better than we have already (which is surely the starting point) and no longer able to have say in future EU laws.
 
 Remain is only option. #RevokeArt50Now #Brexit 
 
 https://t.co/fAGxeBg2vT","['brexit', 'revokeart50now']"
-239853,1109092051327565824,234463286,positive,other,2019-03-22T13:58:45.000Z,"Over 3 million people AND counting, have made it very clear we need to have another say on Brexit. Let's keep going! #RevokeArt50Now #Brexit https://t.co/3uXs2zwPvD","['brexit', 'revokeart50now']"
-385784,1110454351259148288,626864919,negative,other,2019-03-26T08:12:03.000Z,"Despite outrageous @theresa_may's blackmail attempts to @UKParliament (it's me or the cliff!), yesterday   Commons gave itself the chance to take control of #Brexit chaos as three ministers resign! Hope MPs behave responsibly this time ! #RevokeArt50Now   https://t.co/mPr8YoSjGL","['brexit', 'revokeart50now']"
-236415,1109075141009596416,70991021,neutral,other,2019-03-22T12:51:33.000Z,"And the Goverment e-petition to #RevokeArt50Now crosses the 3 million mark: 
+111,111,111,239853,1109092051327565824,234463286,positive,other,2019-03-22T13:58:45.000Z,"Over 3 million people AND counting, have made it very clear we need to have another say on Brexit. Let's keep going! #RevokeArt50Now #Brexit https://t.co/3uXs2zwPvD","['brexit', 'revokeart50now']"
+112,112,112,385784,1110454351259148288,626864919,negative,other,2019-03-26T08:12:03.000Z,"Despite outrageous @theresa_may's blackmail attempts to @UKParliament (it's me or the cliff!), yesterday   Commons gave itself the chance to take control of #Brexit chaos as three ministers resign! Hope MPs behave responsibly this time ! #RevokeArt50Now   https://t.co/mPr8YoSjGL","['brexit', 'revokeart50now']"
+113,113,113,236415,1109075141009596416,70991021,neutral,other,2019-03-22T12:51:33.000Z,"And the Goverment e-petition to #RevokeArt50Now crosses the 3 million mark: 
 @euronews #Brexit https://t.co/ZIE6r5KQDW","['brexit', 'revokeart50now']"
-248365,1109152401880158208,1007757418267332608,negative,remain,2019-03-22T17:58:34.000Z,"If @theresa_may pleads to the public about no agreement over Brexit in Parliament and is sure her deal is right, why fear going to the public for a 2nd vote? Also, she is not on my side nor on the side of the 48% because she turned her back on us. #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
-230636,1109042568132812800,62850839,positive,other,2019-03-22T10:42:07.000Z,"I know a lot of people who didn’t vote because they didn’t think for one second as a nation we’d vote for #brexit. well, now’s your chance #RevokeArt50Now https://t.co/HaReS72sib","['brexit', 'revokeart50now']"
-811585,1114141305003741184,582867073,positive,other,2019-04-05T12:22:41.000Z,"Funny how some folk can’t see that the first requirement to solve #Brexit is to dissolve the Tories.
+114,114,114,248365,1109152401880158208,1007757418267332608,negative,remain,2019-03-22T17:58:34.000Z,"If @theresa_may pleads to the public about no agreement over Brexit in Parliament and is sure her deal is right, why fear going to the public for a 2nd vote? Also, she is not on my side nor on the side of the 48% because she turned her back on us. #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
+115,115,115,230636,1109042568132812800,62850839,positive,other,2019-03-22T10:42:07.000Z,"I know a lot of people who didn’t vote because they didn’t think for one second as a nation we’d vote for #brexit. well, now’s your chance #RevokeArt50Now https://t.co/HaReS72sib","['brexit', 'revokeart50now']"
+116,116,116,811585,1114141305003741184,582867073,positive,other,2019-04-05T12:22:41.000Z,"Funny how some folk can’t see that the first requirement to solve #Brexit is to dissolve the Tories.
 
 #RevokeArt50Now","['brexit', 'revokeart50now']"
-254554,1109188104206893056,351860420,neutral,leave,2019-03-22T20:20:26.000Z,All I can see here with this #RevokeArt50Now is class baiting. How are the working class people that voted for #Brexit not out of ideology but out of desperation for change and representation suppose to react to this?,"['brexit', 'revokeart50now']"
-456074,1111010752192745472,38716986,neutral,remain,2019-03-27T21:02:59.000Z,Has anyone changed there mind on how they voted for/against Brexit? If we voted again would you vote differently #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
-1069121,1117771149440618496,1070392213828448128,negative,remain,2019-04-15T12:46:23.000Z,@Lisamboo @ukhomeoffice That's horrible! #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
-779385,1113773071935127552,2975000080,negative,other,2019-04-04T11:59:27.000Z,"We need to #RevokeArt50Now. Theresa May and Corbyn are just running down the clock. 
+117,117,117,254554,1109188104206893056,351860420,neutral,leave,2019-03-22T20:20:26.000Z,All I can see here with this #RevokeArt50Now is class baiting. How are the working class people that voted for #Brexit not out of ideology but out of desperation for change and representation suppose to react to this?,"['brexit', 'revokeart50now']"
+118,118,118,456074,1111010752192745472,38716986,neutral,remain,2019-03-27T21:02:59.000Z,Has anyone changed there mind on how they voted for/against Brexit? If we voted again would you vote differently #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
+119,119,119,1069121,1117771149440618496,1070392213828448128,negative,remain,2019-04-15T12:46:23.000Z,@Lisamboo @ukhomeoffice That's horrible! #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
+120,120,120,779385,1113773071935127552,2975000080,negative,other,2019-04-04T11:59:27.000Z,"We need to #RevokeArt50Now. Theresa May and Corbyn are just running down the clock. 
 
 Stop this madness #Brexit https://t.co/wlUV0kkU9y","['brexit', 'revokeart50now']"
-779715,1113774953760022528,2910645063,neutral,other,2019-04-04T12:06:56.000Z,#Brexit not required #RevokeArt50Now ! https://t.co/tBLaDKmDNN,"['brexit', 'revokeart50now']"
-267254,1109372774420791296,42380293,positive,other,2019-03-23T08:34:15.000Z,"Nearly 4 million, I am just waiting for my email confirmation to add my name to that number! Revoking has to be the only way forward right now, nothing else can be agreed on. #RevokeArt50Now #Brexit https://t.co/xbB1rWNDY0","['brexit', 'revokeart50now']"
-247242,1109146146902081536,85346709,negative,leave,2019-03-22T17:33:43.000Z,"Leavers were in a small majority 3 years ago. They’ve been nasty, clueless and wilfully ignorant. Time for others to speak out against this #Brexit  train wreck  #RevokeArt50Now","['brexit', 'revokeart50now']"
-406274,1110599019791876096,2704124254,positive,other,2019-03-26T17:46:54.000Z,The only important word in the response is 'this'. We may well have a different government soon. #RevokeArt50Now #Brexit https://t.co/HXQKdBZDne,"['brexit', 'revokeart50now']"
-378641,1110322655465476096,2704124254,negative,other,2019-03-25T23:28:44.000Z,Parliament just collapsed her wave function. #Brexit #RevokeArt50Now https://t.co/oYADzLAm2Q,"['brexit', 'revokeart50now']"
-237119,1109078513011834880,91345189,positive,other,2019-03-22T13:04:57.000Z,"This is amazing. Not one single bit of the country is in Grey, meaning that over 3 Million people from every single part / every single constituency is against #Brexit and wants to #RevokeArt50Now .. amazing.","['brexit', 'revokeart50now']"
-230900,1109044327534219264,830410501758779520,neutral,other,2019-03-22T10:49:07.000Z,#Brexit #RevokeArt50Now now look what you done https://t.co/2uXxnyiRpg,"['brexit', 'revokeart50now']"
-830614,1114440502533873664,19857907,negative,remain,2019-04-06T08:11:35.000Z,@krum_tashev @InspiredLuxury So ashamed to read and hear this. Your poor mum. More rubbish effects of #Brexit and yet apparently people knew what they were voting for :( #RevokeArt50Now,"['brexit', 'revokeart50now']"
-406765,1110602367400099840,28352925,positive,other,2019-03-26T18:00:13.000Z,"The media don't talk about the #RevokeArt50Now petition any more but, alike #Brexit itself, it is far from being finished! So, please, do keep signing and sharing it. We are close to 6 million signatures now...
+121,121,121,779715,1113774953760022528,2910645063,neutral,other,2019-04-04T12:06:56.000Z,#Brexit not required #RevokeArt50Now ! https://t.co/tBLaDKmDNN,"['brexit', 'revokeart50now']"
+122,122,122,267254,1109372774420791296,42380293,positive,other,2019-03-23T08:34:15.000Z,"Nearly 4 million, I am just waiting for my email confirmation to add my name to that number! Revoking has to be the only way forward right now, nothing else can be agreed on. #RevokeArt50Now #Brexit https://t.co/xbB1rWNDY0","['brexit', 'revokeart50now']"
+123,123,123,247242,1109146146902081536,85346709,negative,leave,2019-03-22T17:33:43.000Z,"Leavers were in a small majority 3 years ago. They’ve been nasty, clueless and wilfully ignorant. Time for others to speak out against this #Brexit  train wreck  #RevokeArt50Now","['brexit', 'revokeart50now']"
+124,124,124,406274,1110599019791876096,2704124254,positive,other,2019-03-26T17:46:54.000Z,The only important word in the response is 'this'. We may well have a different government soon. #RevokeArt50Now #Brexit https://t.co/HXQKdBZDne,"['brexit', 'revokeart50now']"
+125,125,125,378641,1110322655465476096,2704124254,negative,other,2019-03-25T23:28:44.000Z,Parliament just collapsed her wave function. #Brexit #RevokeArt50Now https://t.co/oYADzLAm2Q,"['brexit', 'revokeart50now']"
+126,126,126,237119,1109078513011834880,91345189,positive,other,2019-03-22T13:04:57.000Z,"This is amazing. Not one single bit of the country is in Grey, meaning that over 3 Million people from every single part / every single constituency is against #Brexit and wants to #RevokeArt50Now .. amazing.","['brexit', 'revokeart50now']"
+127,127,127,230900,1109044327534219264,830410501758779520,neutral,other,2019-03-22T10:49:07.000Z,#Brexit #RevokeArt50Now now look what you done https://t.co/2uXxnyiRpg,"['brexit', 'revokeart50now']"
+128,128,128,830614,1114440502533873664,19857907,negative,remain,2019-04-06T08:11:35.000Z,@krum_tashev @InspiredLuxury So ashamed to read and hear this. Your poor mum. More rubbish effects of #Brexit and yet apparently people knew what they were voting for :( #RevokeArt50Now,"['brexit', 'revokeart50now']"
+129,129,129,406765,1110602367400099840,28352925,positive,other,2019-03-26T18:00:13.000Z,"The media don't talk about the #RevokeArt50Now petition any more but, alike #Brexit itself, it is far from being finished! So, please, do keep signing and sharing it. We are close to 6 million signatures now...
 Sign here: https://t.co/cMUM1gEEIp https://t.co/oIKogtivji","['brexit', 'revokeart50now']"
-635928,1112625387731935232,97423608,positive,remain,2019-04-01T07:58:58.000Z,Do you know who the AfD are - or anything of Germany's history?  Quoting Nazis is not a good look. #Brexit #RevokeArt50Now https://t.co/HF6XVL7L1r,"['brexit', 'revokeart50now']"
-242751,1109117100986118144,1043343001,neutral,remain,2019-03-22T15:38:17.000Z,@Doozy_45 Apparently #Brexit is being stolen! not by us it isn't @marcfrancois can keep it. All to himself if he likes. #RevokeArt50Now,"['brexit', 'revokeart50now']"
-232867,1109058687233073152,1093459830273122432,neutral,leave,2019-03-22T11:46:11.000Z,"Remember to click the link within the email or it will not be counted!! 
+130,130,130,635928,1112625387731935232,97423608,positive,remain,2019-04-01T07:58:58.000Z,Do you know who the AfD are - or anything of Germany's history?  Quoting Nazis is not a good look. #Brexit #RevokeArt50Now https://t.co/HF6XVL7L1r,"['brexit', 'revokeart50now']"
+131,131,131,242751,1109117100986118144,1043343001,neutral,remain,2019-03-22T15:38:17.000Z,@Doozy_45 Apparently #Brexit is being stolen! not by us it isn't @marcfrancois can keep it. All to himself if he likes. #RevokeArt50Now,"['brexit', 'revokeart50now']"
+132,132,132,232867,1109058687233073152,1093459830273122432,neutral,leave,2019-03-22T11:46:11.000Z,"Remember to click the link within the email or it will not be counted!! 
 
 Mine took some time to come through but it’s here!! 💪💪
 
 #Brexit #RevokeArt50Now https://t.co/zJ8f6gSRh9","['brexit', 'revokeart50now']"
-229201,1109033263505596416,3190278100,positive,leave,2019-03-22T10:05:09.000Z,Prepping for #Brexit so I converted my life savings into Vietnamese Dong ( ͡° ͜ʖ ͡°) ₫ #RevokeArt50Now https://t.co/y0cbVD5jAK,"['brexit', 'revokeart50now']"
-271673,1109395023056068608,3438407649,positive,remain,2019-03-23T10:02:39.000Z,"@George_Osborne @EveningStandard I appreciate the analysis and sentiment George. But.. how the #Brexit referendum came about in the first place (on your watch), I won't ever be able to appreciate.
+133,133,133,229201,1109033263505596416,3190278100,positive,leave,2019-03-22T10:05:09.000Z,Prepping for #Brexit so I converted my life savings into Vietnamese Dong ( ͡° ͜ʖ ͡°) ₫ #RevokeArt50Now https://t.co/y0cbVD5jAK,"['brexit', 'revokeart50now']"
+134,134,134,271673,1109395023056068608,3438407649,positive,remain,2019-03-23T10:02:39.000Z,"@George_Osborne @EveningStandard I appreciate the analysis and sentiment George. But.. how the #Brexit referendum came about in the first place (on your watch), I won't ever be able to appreciate.
 #RevokeArt50Now","['brexit', 'revokeart50now']"
-366893,1110233868072824832,17822466,negative,remain,2019-03-25T17:35:55.000Z,"@mark_list1 People have changed their minds on #Brexit .
+135,135,135,366893,1110233868072824832,17822466,negative,remain,2019-03-25T17:35:55.000Z,"@mark_list1 People have changed their minds on #Brexit .
 
 At the time of the referendum, Remain v Leave was presented as porridge vs steak dinner. 
 
 3 years later, Remain is still porridge, but Leave is a steaming pile of dog poo.
 
 The porridge is now a lot more appetising. #RevokeArt50Now","['brexit', 'revokeart50now']"
-230493,1109041590738321408,47973,neutral,other,2019-03-22T10:38:14.000Z,Will it get past 3 million today? https://t.co/4MwbcyHTCY #RevokeArt50Now #Brexit https://t.co/IAJVOvQRvq,"['brexit', 'revokeart50now']"
-251755,1109171583355109376,47852852,positive,other,2019-03-22T19:14:47.000Z,"Secret Cabinet Office document reveals chaotic planning for no deal #Brexit
+136,136,136,230493,1109041590738321408,47973,neutral,other,2019-03-22T10:38:14.000Z,Will it get past 3 million today? https://t.co/4MwbcyHTCY #RevokeArt50Now #Brexit https://t.co/IAJVOvQRvq,"['brexit', 'revokeart50now']"
+137,137,137,251755,1109171583355109376,47852852,positive,other,2019-03-22T19:14:47.000Z,"Secret Cabinet Office document reveals chaotic planning for no deal #Brexit
 
 Let's face it. Managing the negotiations and MP approval was the easy part.
 
@@ -302,67 +302,67 @@ Anyone confident they can handle the crashout?
 #RevokeArt50Now
 
 https://t.co/vztp7QwC1w","['brexit', 'revokeart50now']"
-226581,1109016583295377408,165874906,neutral,other,2019-03-22T08:58:52.000Z,Hospital later. I’m getting my backstop removed. #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
-360069,1110189449760178176,31101041,neutral,remain,2019-03-25T14:39:25.000Z,"How about we also sign this petition that calls for UK citizens to retain their EU citizenship after #Brexit, It only needs a million (Kinda)
+138,138,138,226581,1109016583295377408,165874906,neutral,other,2019-03-22T08:58:52.000Z,Hospital later. I’m getting my backstop removed. #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
+139,139,139,360069,1110189449760178176,31101041,neutral,remain,2019-03-25T14:39:25.000Z,"How about we also sign this petition that calls for UK citizens to retain their EU citizenship after #Brexit, It only needs a million (Kinda)
 
 Maybe @ByDonkeys @peoplesvote_uk could help?
 
 https://t.co/CAzS2qeP3o
 
 #RevokeArt50Now","['brexit', 'revokeart50now']"
-431533,1110871282411802624,19733582,neutral,other,2019-03-27T11:48:47.000Z,Donald knows. We need to be listened too.  #RevokeArt50Now #Brexit https://t.co/OTS51HjDTB,"['brexit', 'revokeart50now']"
-234069,1109064146358800384,41222036,negative,remain,2019-03-22T12:07:52.000Z,"Got to the stage where I can’t read anything more about Brexit. I’m too anxious 😥
+140,140,140,431533,1110871282411802624,19733582,neutral,other,2019-03-27T11:48:47.000Z,Donald knows. We need to be listened too.  #RevokeArt50Now #Brexit https://t.co/OTS51HjDTB,"['brexit', 'revokeart50now']"
+141,141,141,234069,1109064146358800384,41222036,negative,remain,2019-03-22T12:07:52.000Z,"Got to the stage where I can’t read anything more about Brexit. I’m too anxious 😥
 I’ll probably graduate into an economy with high unemployment and general uncertainty. 2008 crash all over again. #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
-234824,1109067625085190144,1058015192985026432,neutral,other,2019-03-22T12:21:41.000Z,"Time to get this country back on its feet - so sign the petition!
+142,142,142,234824,1109067625085190144,1058015192985026432,neutral,other,2019-03-22T12:21:41.000Z,"Time to get this country back on its feet - so sign the petition!
 
 https://t.co/kBGGEeVgZj
 
 #RevokeArt50Now #Brexit","['brexit', 'revokeart50now']"
-1097847,1118491079089774592,10692162,positive,other,2019-04-17T12:27:08.000Z,@jeremycorbyn Super. While you’re on about scrapping things how about scrapping #Brexit ? #RevokeArt50Now,"['brexit', 'revokeart50now']"
-1041355,1117153617457352704,1615111236,positive,remain,2019-04-13T19:52:32.000Z,"If you agree with the need to STOP #BREXIT please consider signing Revoke Article 50 Petition, which is still open https://t.co/s0NVuFwfF2 …
+143,143,143,1097847,1118491079089774592,10692162,positive,other,2019-04-17T12:27:08.000Z,@jeremycorbyn Super. While you’re on about scrapping things how about scrapping #Brexit ? #RevokeArt50Now,"['brexit', 'revokeart50now']"
+144,144,144,1041355,1117153617457352704,1615111236,positive,remain,2019-04-13T19:52:32.000Z,"If you agree with the need to STOP #BREXIT please consider signing Revoke Article 50 Petition, which is still open https://t.co/s0NVuFwfF2 …
 
 Also, I encourage consideration of this petition https://t.co/CU8RGhEHBY … …
 Halt Brexit for a Public Inquiry
 
 #RevokeArt50Now","['brexit', 'revokeart50now']"
-233887,1109063309687439360,1043343001,negative,remain,2019-03-22T12:04:33.000Z,"I think so: ""It's the EU27s fault, it's @UKParliament's fault, its the people's fault now, they voted for pain""  after all, and they thought they were voting for the sunlit uplands, and for the #Brexit dividend. @HouseofCommons impeach the despotic monster #RevokeArt50Now https://t.co/TbMsbM8L6V","['brexit', 'revokeart50now']"
-231877,1109051664617693184,1093459830273122432,neutral,other,2019-03-22T11:18:16.000Z,"My email confirmation still isn’t here 😩😩😩😩
+145,145,145,233887,1109063309687439360,1043343001,negative,remain,2019-03-22T12:04:33.000Z,"I think so: ""It's the EU27s fault, it's @UKParliament's fault, its the people's fault now, they voted for pain""  after all, and they thought they were voting for the sunlit uplands, and for the #Brexit dividend. @HouseofCommons impeach the despotic monster #RevokeArt50Now https://t.co/TbMsbM8L6V","['brexit', 'revokeart50now']"
+146,146,146,231877,1109051664617693184,1093459830273122432,neutral,other,2019-03-22T11:18:16.000Z,"My email confirmation still isn’t here 😩😩😩😩
 
 #Brexit #RevokeArt50Now https://t.co/Mx4mW2ZFbL","['brexit', 'revokeart50now']"
-240375,1109096169081327616,218985828,neutral,remain,2019-03-22T14:15:07.000Z,"Are bots gaming the 'Cancel #Brexit' petition? https://t.co/j7d0FbeZxl
+147,147,147,240375,1109096169081327616,218985828,neutral,remain,2019-03-22T14:15:07.000Z,"Are bots gaming the 'Cancel #Brexit' petition? https://t.co/j7d0FbeZxl
 Apparently it is not that simple to hijack it. #RevokeArt50Now https://t.co/6Cn6p9PeLr","['brexit', 'revokeart50now']"
-876262,1115144160800014336,1110977095822397440,neutral,other,2019-04-08T06:47:40.000Z,"#Brexit has taken too much of my attention . #RevokeArt50Now , then I can get back to music , art , misfits and dystopia","['brexit', 'revokeart50now']"
-350279,1110123881946320896,18448748,negative,remain,2019-03-25T10:18:53.000Z,"The people who most want #Brexit are hedge fund managers etc who don’t like EU money regulations. There must be 1000s of poor people who would sign the petition if they had access to an email account #RevokeArt50Now
+148,148,148,876262,1115144160800014336,1110977095822397440,neutral,other,2019-04-08T06:47:40.000Z,"#Brexit has taken too much of my attention . #RevokeArt50Now , then I can get back to music , art , misfits and dystopia","['brexit', 'revokeart50now']"
+149,149,149,350279,1110123881946320896,18448748,negative,remain,2019-03-25T10:18:53.000Z,"The people who most want #Brexit are hedge fund managers etc who don’t like EU money regulations. There must be 1000s of poor people who would sign the petition if they had access to an email account #RevokeArt50Now
 https://t.co/SLODaSw4Y4","['brexit', 'revokeart50now']"
-241543,1109106242453151744,419772265,positive,other,2019-03-22T14:55:09.000Z,"So - by my reckoning, the appeal to revoke article 50 needs a further 30 million votes which I don't believe is unachievable - it offers an opportunity for clear democratic participation in a broken system if target is reached. #RevokeArt50Now #Brexit https://t.co/2Jsq6IWt95","['brexit', 'revokeart50now']"
-1041481,1117155380763734016,1615111236,positive,remain,2019-04-13T19:59:33.000Z,"If you agree with Lauren, we need to STOP #BREXIT please consider signing Revoke Article 50 Petition, which is still open https://t.co/s0NVuFwfF2 …
+150,150,150,241543,1109106242453151744,419772265,positive,other,2019-03-22T14:55:09.000Z,"So - by my reckoning, the appeal to revoke article 50 needs a further 30 million votes which I don't believe is unachievable - it offers an opportunity for clear democratic participation in a broken system if target is reached. #RevokeArt50Now #Brexit https://t.co/2Jsq6IWt95","['brexit', 'revokeart50now']"
+151,151,151,1041481,1117155380763734016,1615111236,positive,remain,2019-04-13T19:59:33.000Z,"If you agree with Lauren, we need to STOP #BREXIT please consider signing Revoke Article 50 Petition, which is still open https://t.co/s0NVuFwfF2 …
 
 Also, I encourage consideration of this petition https://t.co/CU8RGhEHBY … …
 Halt Brexit for a Public Inquiry
 
 #RevokeArt50Now https://t.co/OzeXjNk6VA","['brexit', 'revokeart50now']"
-234580,1109066472071094272,1102759612200169472,neutral,other,2019-03-22T12:17:07.000Z,Gina Miller: Here’s the #Brexit speech Theresa May should have given on Wednesday night #RevokeArt50Now https://t.co/vkvX4k9SGd,"['brexit', 'revokeart50now']"
-289599,1109498908072468480,580999508,neutral,remain,2019-03-23T16:55:27.000Z,"A little drawing.
+152,152,152,234580,1109066472071094272,1102759612200169472,neutral,other,2019-03-22T12:17:07.000Z,Gina Miller: Here’s the #Brexit speech Theresa May should have given on Wednesday night #RevokeArt50Now https://t.co/vkvX4k9SGd,"['brexit', 'revokeart50now']"
+153,153,153,289599,1109498908072468480,580999508,neutral,remain,2019-03-23T16:55:27.000Z,"A little drawing.
 Also hats off 🎩 to all demonstrating in London today ✊🏼 #Brexit #RevokeArt50Now https://t.co/8z24DERCGl","['brexit', 'revokeart50now']"
-433104,1110884150087684096,206841211,negative,remain,2019-03-27T12:39:55.000Z,"@Jacob_Rees_Mogg 
+154,154,154,433104,1110884150087684096,206841211,negative,remain,2019-03-27T12:39:55.000Z,"@Jacob_Rees_Mogg 
 
 Infirmity of purpose isn't as bad as it sounds.  Help is available.
 
 #RevokeArt50Now #Brexit https://t.co/ELqtxf0fQr","['brexit', 'revokeart50now']"
-221908,1108984930967658496,164254434,neutral,remain,2019-03-22T06:53:06.000Z,In the midst of #Brexit #RevokeArt50Now we have another sort of petition. https://t.co/TQEFHVFWZI,"['brexit', 'revokeart50now']"
-234856,1109067745667235840,19794059,negative,leave,2019-03-22T12:22:10.000Z,"3 million votes to stop #Brexit what is the vote that broke the camel (Brexit) back!
+155,155,155,221908,1108984930967658496,164254434,neutral,remain,2019-03-22T06:53:06.000Z,In the midst of #Brexit #RevokeArt50Now we have another sort of petition. https://t.co/TQEFHVFWZI,"['brexit', 'revokeart50now']"
+156,156,156,234856,1109067745667235840,19794059,negative,leave,2019-03-22T12:22:10.000Z,"3 million votes to stop #Brexit what is the vote that broke the camel (Brexit) back!
 
 #RevokeArt50Now","['brexit', 'revokeart50now']"
-256680,1109201998560276480,393863205,negative,other,2019-03-22T21:15:39.000Z,"For those who can sign, here's a petition to revoke article 50 and prevent the UK from crashing out of the EU in a few weeks. We're almost at 4 million signatures! 
+157,157,157,256680,1109201998560276480,393863205,negative,other,2019-03-22T21:15:39.000Z,"For those who can sign, here's a petition to revoke article 50 and prevent the UK from crashing out of the EU in a few weeks. We're almost at 4 million signatures! 
 #Brexit #RevokeArt50Now 
 
 https://t.co/mQk5MPyDdD","['brexit', 'revokeart50now']"
-1080081,1118069775111020544,2545405281,positive,leave,2019-04-16T08:33:01.000Z,@scamble446 The Euro would make the UK economy much stronger and we would be much richer and never have to change money again to go to another country great for. all our holidays #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
-241181,1109103372219617280,255054624,negative,other,2019-03-22T14:43:44.000Z,I don't know what the future holds but I know that #Brexit has created an environment where MPs get death threats and one was already murdered before the vote. This is not what anybody wanted. #RevokeArt50Now https://t.co/lMz0LvGnKY,"['brexit', 'revokeart50now']"
-881632,1115181455121047552,105372103,neutral,leave,2019-04-08T09:15:52.000Z,"@youngvulgarian Alternatively, #RevokeArt50Now and get back to running the country properly?
+158,158,158,1080081,1118069775111020544,2545405281,positive,leave,2019-04-16T08:33:01.000Z,@scamble446 The Euro would make the UK economy much stronger and we would be much richer and never have to change money again to go to another country great for. all our holidays #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now']"
+159,159,159,241181,1109103372219617280,255054624,negative,other,2019-03-22T14:43:44.000Z,I don't know what the future holds but I know that #Brexit has created an environment where MPs get death threats and one was already murdered before the vote. This is not what anybody wanted. #RevokeArt50Now https://t.co/lMz0LvGnKY,"['brexit', 'revokeart50now']"
+160,160,160,881632,1115181455121047552,105372103,neutral,leave,2019-04-08T09:15:52.000Z,"@youngvulgarian Alternatively, #RevokeArt50Now and get back to running the country properly?
 
 And never mention the #Brexit word again.","['brexit', 'revokeart50now']"
-234952,1109068171401674752,808508781021761408,negative,other,2019-03-22T12:23:52.000Z,"Revoke please. 
+161,161,161,234952,1109068171401674752,808508781021761408,negative,other,2019-03-22T12:23:52.000Z,"Revoke please. 
 
 Dear To Whom It Concern,
 
@@ -374,40 +374,40 @@ Sincerely,
 The UK
 
 #Brexit #RevokeArt50Now","['brexit', 'revokeart50now']"
-274046,1109406204072214528,326683338,negative,remain,2019-03-23T10:47:05.000Z,@theresa_may Still not acknowledging the millions of us who did not and do not want #Brexit #RevokeArt50Now #48percent,"['brexit', 'revokeart50now', '48percent']"
-276054,1109415540534272000,1029739565500821632,neutral,remain,2019-03-23T11:24:11.000Z,#Brexiteers are bailing out of the Titanic. https://t.co/DBwhoX2b2d #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now', 'brexiteers']"
-214839,1108858848843128832,33092409,neutral,leave,2019-03-21T22:32:05.000Z,@yvonneridley @BBCNews What pub is @Nigel_Farage boozing as this all unfolds and comes crashing down? #Brexit #BrexitExtension #RevokeArt50Now,"['brexit', 'revokeart50now', 'brexitextension']"
-244230,1109129436543238144,1112999046,positive,other,2019-03-22T16:27:18.000Z,"Interesting analysis showing strong correlation between education and #Brexit voting direction: https://t.co/D3dPqtbHqI
+162,162,162,274046,1109406204072214528,326683338,negative,remain,2019-03-23T10:47:05.000Z,@theresa_may Still not acknowledging the millions of us who did not and do not want #Brexit #RevokeArt50Now #48percent,"['brexit', 'revokeart50now', '48percent']"
+163,163,163,276054,1109415540534272000,1029739565500821632,neutral,remain,2019-03-23T11:24:11.000Z,#Brexiteers are bailing out of the Titanic. https://t.co/DBwhoX2b2d #Brexit #RevokeArt50Now,"['brexit', 'revokeart50now', 'brexiteers']"
+164,164,164,214839,1108858848843128832,33092409,neutral,leave,2019-03-21T22:32:05.000Z,@yvonneridley @BBCNews What pub is @Nigel_Farage boozing as this all unfolds and comes crashing down? #Brexit #BrexitExtension #RevokeArt50Now,"['brexit', 'revokeart50now', 'brexitextension']"
+165,165,165,244230,1109129436543238144,1112999046,positive,other,2019-03-22T16:27:18.000Z,"Interesting analysis showing strong correlation between education and #Brexit voting direction: https://t.co/D3dPqtbHqI
 #BrexitShambles #RevokeArt50Now https://t.co/T0rq5ifp50","['brexit', 'revokeart50now', 'brexitshambles']"
-397357,1110528500077903872,38057492,neutral,other,2019-03-26T13:06:41.000Z,If you are wondering if the will of the people has shifted since 2016 @UKParliament @theresa_may @jeremycorbyn then check out the recent numbers at the protest marches and online petitions to gain some indication. #Brexit #RevokeArt50Now #BrexitShambles https://t.co/1wS872kItd,"['brexit', 'revokeart50now', 'brexitshambles']"
-234613,1109066630540247040,496835891,positive,remain,2019-03-22T12:17:44.000Z,Wow! Now over 3 million signatures! Petition: Revoke Article 50 and remain in the EU. https://t.co/O3TXqySbwV #RevokeArt50Now #Brexit #BrexitShambles https://t.co/3Pls52PO6S,"['brexit', 'revokeart50now', 'brexitshambles']"
-730361,1113376041945448448,18134567,positive,remain,2019-04-03T09:41:48.000Z,"Childrens’ author gets to the heart of the #Brexit matter. 
+166,166,166,397357,1110528500077903872,38057492,neutral,other,2019-03-26T13:06:41.000Z,If you are wondering if the will of the people has shifted since 2016 @UKParliament @theresa_may @jeremycorbyn then check out the recent numbers at the protest marches and online petitions to gain some indication. #Brexit #RevokeArt50Now #BrexitShambles https://t.co/1wS872kItd,"['brexit', 'revokeart50now', 'brexitshambles']"
+167,167,167,234613,1109066630540247040,496835891,positive,remain,2019-03-22T12:17:44.000Z,Wow! Now over 3 million signatures! Petition: Revoke Article 50 and remain in the EU. https://t.co/O3TXqySbwV #RevokeArt50Now #Brexit #BrexitShambles https://t.co/3Pls52PO6S,"['brexit', 'revokeart50now', 'brexitshambles']"
+168,168,168,730361,1113376041945448448,18134567,positive,remain,2019-04-03T09:41:48.000Z,"Childrens’ author gets to the heart of the #Brexit matter. 
 Axel Scheffler addresses Brexit in powerful Nibbies acceptance speech
 #BrexitShambles #RevokeArt50Now  https://t.co/JgzgI405yV","['brexit', 'revokeart50now', 'brexitshambles']"
-305801,1109632116055261184,46976753,positive,remain,2019-03-24T01:44:47.000Z,"Proud to be the right hand digit on this number👇👊🏻
+169,169,169,305801,1109632116055261184,46976753,positive,remain,2019-03-24T01:44:47.000Z,"Proud to be the right hand digit on this number👇👊🏻
 Europe is stronger together
 #RevokeArt50Now 
 #BrexitShambles 
 #Brexit https://t.co/7ZOgW2bgAd","['brexit', 'revokeart50now', 'brexitshambles']"
-1080203,1118072470802718720,1564241,positive,remain,2019-04-16T08:43:44.000Z,"A HUUUGE round of applause please, for these smart-asses. 👏👏👏😀
+170,170,170,1080203,1118072470802718720,1564241,positive,remain,2019-04-16T08:43:44.000Z,"A HUUUGE round of applause please, for these smart-asses. 👏👏👏😀
 .@ByDonkeys 
 cc: .@theresa_may  .@BorisJohnson .@michaelgove .@LiamFox .@Nigel_Farage .@Jeremy_Hunt .@AmberRuddHR .@sajidjavid    #Brexit #BrexitShambles #RevokeArt50Now https://t.co/SlzCV72NDR","['brexit', 'revokeart50now', 'brexitshambles']"
-1094714,1118454239385268224,965073858,negative,leave,2019-04-17T10:00:45.000Z,"So, so powerful.
+171,171,171,1094714,1118454239385268224,965073858,negative,leave,2019-04-17T10:00:45.000Z,"So, so powerful.
 Many of you will have seen this by now. If you have not, make time and share.
 Thank you @carolecadwalla for this impassioned talk and your jounalism.
 Gets to the very rotten heart of Brexit and beyond...
 #RevokeArt50Now #Brexit #Democracy https://t.co/qPnoC9d3K5","['brexit', 'revokeart50now', 'democracy']"
-885069,1115213377469652992,278097457,negative,other,2019-04-08T11:22:43.000Z,"My displeasure with @David_Cameron government led to me voting for #Brexit, I never expected the vote would actually lead to the current disaster in #downingstreet. @theresa_may has had a disastrous Brexit negotiations to produce disaster of a deal #RevokeArt50Now @LBC","['brexit', 'revokeart50now', 'downingstreet']"
-933684,1115917553543581696,331840783,neutral,leave,2019-04-10T10:00:52.000Z,"Do those that voted for #Brexit understand that it does not get us out of the #Eurovision song contest, we still have to do that! So what is the point in leaving the EU? #RevokeArt50Now","['brexit', 'revokeart50now', 'eurovision']"
-436219,1110905526701961216,4894940505,neutral,other,2019-03-27T14:04:51.000Z,This is what my German colleagues think of #Brexit #laughingstock #RevokeArt50Now #IchBinEuropäisch https://t.co/qgoT9AiHxF,"['brexit', 'revokeart50now', 'ichbineuropäisch', 'laughingstock']"
-459452,1111021421436784640,23302736,negative,other,2019-03-27T21:45:23.000Z,So @JessRabbit78 and I have spent 3 and a half hours waiting for the result of which STILL no decisions have been made. What a bloody joke. #RevokeArt50Now #Brexit #indicativevotes,"['brexit', 'revokeart50now', 'indicativevotes']"
-225489,1109009934484688896,885393081738121216,neutral,remain,2019-03-22T08:32:27.000Z,"After last night, it seems this is quite a common sentiment! #Brexit #RevokeArt50Now #NoDealBrexit https://t.co/H76USFzeh2","['brexit', 'revokeart50now', 'nodealbrexit']"
-808150,1114110591583567872,833234354331668480,negative,other,2019-04-05T10:20:38.000Z,Fuck the bullies #PeoplesVote #RevokeArt50Now #Brexit https://t.co/hxjFala0BS,"['brexit', 'revokeart50now', 'peoplesvote']"
-861562,1114888564888698880,531280058,positive,other,2019-04-07T13:52:02.000Z,"@JolyonMaugham @taxbod I'm 56 and I've never had a political leader I felt spoke for me, in @jeremycorbyn I thought I'd found that person, #Brexit has changed that. What the future holds for me is irrelevant, but what it holds for my kids is all important to me. #PeoplesVoteNow #RevokeArt50Now","['brexit', 'revokeart50now', 'peoplesvotenow']"
-884381,1115204635806060544,109444369,neutral,other,2019-04-08T10:47:59.000Z,@BorisJohnson The dark arts of bumblefuckery. #Brexit #PeoplesVoteNow #RevokeArt50Now https://t.co/esMWaMXb5J,"['brexit', 'revokeart50now', 'peoplesvotenow']"
-613311,1112282141365280768,453918909,negative,leave,2019-03-31T09:15:02.000Z,"£675k over-spend. Fined £400k. Vote Leave aren’t going to appeal it, despite saying they would. So Vote Leave broke electoral law, but we have to respect the result?! #PeoplesVoteNow #RevokeArt50Now #brexit bullshit https://t.co/4LuEvQWC5T","['brexit', 'revokeart50now', 'peoplesvotenow']"
-860290,1114875106323566592,3372593620,neutral,remain,2019-04-07T12:58:33.000Z,And that #Brexit bobs is why you are so scared of a #PeoplesVoteNow .. people are now better informed and recognise the lies they were told #RevokeArt50Now https://t.co/n1GORhSDFw,"['brexit', 'revokeart50now', 'peoplesvotenow']"
-247232,1109146093936435200,406661392,negative,remain,2019-03-22T17:33:30.000Z,"Think #Brexit is a bad idea? 
+172,172,172,885069,1115213377469652992,278097457,negative,other,2019-04-08T11:22:43.000Z,"My displeasure with @David_Cameron government led to me voting for #Brexit, I never expected the vote would actually lead to the current disaster in #downingstreet. @theresa_may has had a disastrous Brexit negotiations to produce disaster of a deal #RevokeArt50Now @LBC","['brexit', 'revokeart50now', 'downingstreet']"
+173,173,173,933684,1115917553543581696,331840783,neutral,leave,2019-04-10T10:00:52.000Z,"Do those that voted for #Brexit understand that it does not get us out of the #Eurovision song contest, we still have to do that! So what is the point in leaving the EU? #RevokeArt50Now","['brexit', 'revokeart50now', 'eurovision']"
+174,174,174,436219,1110905526701961216,4894940505,neutral,other,2019-03-27T14:04:51.000Z,This is what my German colleagues think of #Brexit #laughingstock #RevokeArt50Now #IchBinEuropäisch https://t.co/qgoT9AiHxF,"['brexit', 'revokeart50now', 'ichbineuropäisch', 'laughingstock']"
+175,175,175,459452,1111021421436784640,23302736,negative,other,2019-03-27T21:45:23.000Z,So @JessRabbit78 and I have spent 3 and a half hours waiting for the result of which STILL no decisions have been made. What a bloody joke. #RevokeArt50Now #Brexit #indicativevotes,"['brexit', 'revokeart50now', 'indicativevotes']"
+176,176,176,225489,1109009934484688896,885393081738121216,neutral,remain,2019-03-22T08:32:27.000Z,"After last night, it seems this is quite a common sentiment! #Brexit #RevokeArt50Now #NoDealBrexit https://t.co/H76USFzeh2","['brexit', 'revokeart50now', 'nodealbrexit']"
+177,177,177,808150,1114110591583567872,833234354331668480,negative,other,2019-04-05T10:20:38.000Z,Fuck the bullies #PeoplesVote #RevokeArt50Now #Brexit https://t.co/hxjFala0BS,"['brexit', 'revokeart50now', 'peoplesvote']"
+178,178,178,861562,1114888564888698880,531280058,positive,other,2019-04-07T13:52:02.000Z,"@JolyonMaugham @taxbod I'm 56 and I've never had a political leader I felt spoke for me, in @jeremycorbyn I thought I'd found that person, #Brexit has changed that. What the future holds for me is irrelevant, but what it holds for my kids is all important to me. #PeoplesVoteNow #RevokeArt50Now","['brexit', 'revokeart50now', 'peoplesvotenow']"
+179,179,179,884381,1115204635806060544,109444369,neutral,other,2019-04-08T10:47:59.000Z,@BorisJohnson The dark arts of bumblefuckery. #Brexit #PeoplesVoteNow #RevokeArt50Now https://t.co/esMWaMXb5J,"['brexit', 'revokeart50now', 'peoplesvotenow']"
+180,180,180,613311,1112282141365280768,453918909,negative,leave,2019-03-31T09:15:02.000Z,"£675k over-spend. Fined £400k. Vote Leave aren’t going to appeal it, despite saying they would. So Vote Leave broke electoral law, but we have to respect the result?! #PeoplesVoteNow #RevokeArt50Now #brexit bullshit https://t.co/4LuEvQWC5T","['brexit', 'revokeart50now', 'peoplesvotenow']"
+181,181,181,860290,1114875106323566592,3372593620,neutral,remain,2019-04-07T12:58:33.000Z,And that #Brexit bobs is why you are so scared of a #PeoplesVoteNow .. people are now better informed and recognise the lies they were told #RevokeArt50Now https://t.co/n1GORhSDFw,"['brexit', 'revokeart50now', 'peoplesvotenow']"
+182,182,182,247232,1109146093936435200,406661392,negative,remain,2019-03-22T17:33:30.000Z,"Think #Brexit is a bad idea? 
 
 Over 3m people have signed this #Petition 
 
@@ -416,42 +416,42 @@ If you think it's a bad idea, sign it too.
 https://t.co/4SzvrQ3MRH 
 
 #RevokeArt50Now","['brexit', 'revokeart50now', 'petition']"
-331364,1109865177967706112,321533455,positive,other,2019-03-24T17:10:53.000Z,"Just prepared celeriac, apple and mustard “kraut” and a lime pickle. They respectively take 3 and 5 weeks to mature. 
+183,183,183,331364,1109865177967706112,321533455,positive,other,2019-03-24T17:10:53.000Z,"Just prepared celeriac, apple and mustard “kraut” and a lime pickle. They respectively take 3 and 5 weeks to mature. 
 
 Let’s hope Theresa hasn’t triggered her dystopian future before I get to try them  
 
 #Brexit #PeoplesVoteNow  #picklewatch #RevokeArt50Now","['brexit', 'revokeart50now', 'picklewatch', 'peoplesvotenow']"
-238062,1109082740266332160,750607897109889024,negative,other,2019-03-22T13:21:45.000Z,"@ICradlad7 @piersmorgan Majority of those asking questions are remain voters not leavers, Majority of those claiming ""this is not what we voted for etc"" didn't vote leave.   I may not like Brexit but it is mainly remain voters constantly attacking this shit storm mess 24/7. #Brexit #RevokeArt50Now #PMQs","['brexit', 'revokeart50now', 'pmqs']"
-278166,1109432061255917568,6418372,neutral,other,2019-03-23T12:29:50.000Z,Now @BBCNews wakes up to #PutitothePeople #RevokeArt50Now march against #brexit: https://t.co/6tR4xgM5ij,"['brexit', 'revokeart50now', 'putitothepeople']"
-267718,1109376772544622592,34293782,negative,other,2019-03-23T08:50:08.000Z,"According to Caroline ""nothing has changed"" since 2017, I despair... 
+184,184,184,238062,1109082740266332160,750607897109889024,negative,other,2019-03-22T13:21:45.000Z,"@ICradlad7 @piersmorgan Majority of those asking questions are remain voters not leavers, Majority of those claiming ""this is not what we voted for etc"" didn't vote leave.   I may not like Brexit but it is mainly remain voters constantly attacking this shit storm mess 24/7. #Brexit #RevokeArt50Now #PMQs","['brexit', 'revokeart50now', 'pmqs']"
+185,185,185,278166,1109432061255917568,6418372,neutral,other,2019-03-23T12:29:50.000Z,Now @BBCNews wakes up to #PutitothePeople #RevokeArt50Now march against #brexit: https://t.co/6tR4xgM5ij,"['brexit', 'revokeart50now', 'putitothepeople']"
+186,186,186,267718,1109376772544622592,34293782,negative,other,2019-03-23T08:50:08.000Z,"According to Caroline ""nothing has changed"" since 2017, I despair... 
 
 #RevokeArt50Now #PutItToThePeople #Brexit https://t.co/ZcmZpdTHK0","['brexit', 'revokeart50now', 'putittothepeople']"
-283103,1109465589897138176,288679027,positive,other,2019-03-23T14:43:04.000Z,Loving the sheer number of people on the streets of London for #PutItToThePeople today. Little hope of a 2nd ref happening but FINGERS CROSSED! #Brexit #RevokeArt50Now https://t.co/YXmDAPtKlJ,"['brexit', 'revokeart50now', 'putittothepeople']"
-256388,1109200009134788608,1467303032,neutral,other,2019-03-22T21:07:44.000Z,"@YeOldeGrumpy Thanks for the RT 
+187,187,187,283103,1109465589897138176,288679027,positive,other,2019-03-23T14:43:04.000Z,Loving the sheer number of people on the streets of London for #PutItToThePeople today. Little hope of a 2nd ref happening but FINGERS CROSSED! #Brexit #RevokeArt50Now https://t.co/YXmDAPtKlJ,"['brexit', 'revokeart50now', 'putittothepeople']"
+188,188,188,256388,1109200009134788608,1467303032,neutral,other,2019-03-22T21:07:44.000Z,"@YeOldeGrumpy Thanks for the RT 
 #RevokeArt50Now 
 #Brexit 
 #RevokeArticle50 
 #PutItToThePeople 
 
 What did you vote? ""To leave the EU""? On what terms exactly? Based on what prejudices, lies and false promises?","['brexit', 'revokeart50now', 'putittothepeople', 'revokearticle50']"
-1106362,1118604863884144640,1704241927,neutral,other,2019-04-17T19:59:16.000Z,Tory activist sent Muslim minister emails praising Enoch Powell https://t.co/umhJwi41DW #Racism #Brexit #RevokeArt50Now #PublicInquiry,"['brexit', 'revokeart50now', 'racism', 'publicinquiry']"
-338590,1109931672454209536,3388836621,neutral,other,2019-03-24T21:35:06.000Z,"Still adding a few thousand every minute! Keep it up #RemainInTheEU 
+189,189,189,1106362,1118604863884144640,1704241927,neutral,other,2019-04-17T19:59:16.000Z,Tory activist sent Muslim minister emails praising Enoch Powell https://t.co/umhJwi41DW #Racism #Brexit #RevokeArt50Now #PublicInquiry,"['brexit', 'revokeart50now', 'racism', 'publicinquiry']"
+190,190,190,338590,1109931672454209536,3388836621,neutral,other,2019-03-24T21:35:06.000Z,"Still adding a few thousand every minute! Keep it up #RemainInTheEU 
 #RevokeArt50Now 
 #RevokeArt50 
 #Brexit https://t.co/3tZxT64d35","['brexit', 'revokeart50now', 'remainintheeu', 'revokeart50']"
-279270,1109441131132174336,91086481,negative,other,2019-03-23T13:05:52.000Z,Macron: #Brexit in a nutshell. #Brexit is a suicidal choice. #RevokeArt50Now #RevokeA50petition #RevokeArticle50 https://t.co/lAvMIm9Afk,"['brexit', 'revokeart50now', 'revokea50petition', 'revokearticle50']"
-200775,1108771140300869632,1093643489622065280,negative,remain,2019-03-21T16:43:34.000Z,"@KateHoeyMP Been taking lessons in obstinance from @theresa_may?
+191,191,191,279270,1109441131132174336,91086481,negative,other,2019-03-23T13:05:52.000Z,Macron: #Brexit in a nutshell. #Brexit is a suicidal choice. #RevokeArt50Now #RevokeA50petition #RevokeArticle50 https://t.co/lAvMIm9Afk,"['brexit', 'revokeart50now', 'revokea50petition', 'revokearticle50']"
+192,192,192,200775,1108771140300869632,1093643489622065280,negative,remain,2019-03-21T16:43:34.000Z,"@KateHoeyMP Been taking lessons in obstinance from @theresa_may?
 
 You’re actually saying that no matter how many of your constituents ask for it, you have already decided not to consider it? Aren’t you meant to listen to the people?
 
 #RevokeArt50 #RevokeArt50Now #brexit","['brexit', 'revokeart50now', 'revokeart50']"
-660175,1112811647738040320,20807304,negative,remain,2019-04-01T20:19:06.000Z,"My MP, ladies and gents.... Welcome to Redditch. I don't know how much more stubborn one can get. Nice to see that she's compromising with Remainers and that she's thinking of us, Europeans. I feel sick with disgust #RevokeArticle50 #RevokeArt50Now #Brexit https://t.co/94uHT5pRgs","['brexit', 'revokeart50now', 'revokearticle50']"
-246508,1109142615285469184,783746506436309120,neutral,other,2019-03-22T17:19:41.000Z,"A picture can say a thousand words ...  #RevokeArt50Now #RevokeArticle50  #brexit 
+193,193,193,660175,1112811647738040320,20807304,negative,remain,2019-04-01T20:19:06.000Z,"My MP, ladies and gents.... Welcome to Redditch. I don't know how much more stubborn one can get. Nice to see that she's compromising with Remainers and that she's thinking of us, Europeans. I feel sick with disgust #RevokeArticle50 #RevokeArt50Now #Brexit https://t.co/94uHT5pRgs","['brexit', 'revokeart50now', 'revokearticle50']"
+194,194,194,246508,1109142615285469184,783746506436309120,neutral,other,2019-03-22T17:19:41.000Z,"A picture can say a thousand words ...  #RevokeArt50Now #RevokeArticle50  #brexit 
 @theresa_may @itvnews @BBCNews @GMB @piersmorgan @susannareid100 @UKParliament 
 @jeremycorbyn https://t.co/t6M3ksu5hX","['brexit', 'revokeart50now', 'revokearticle50']"
-252375,1109175097087135744,1151684730,negative,leave,2019-03-22T19:28:45.000Z,"I'm absolutely crying at this! Please read, even if you don't speak French! 😂😂😂 #RevokeArticle50 #Brexit #RevokeArt50Now https://t.co/MJTt4HseiL","['brexit', 'revokeart50now', 'revokearticle50']"
-822411,1114248117690433536,20807304,negative,other,2019-04-05T19:27:07.000Z,"We haven't left yet... And by the looks of it, we might not leave for a while... Disgusting #RevokeArt50Now #RevokeArticle50 #brexit https://t.co/KkCkYnFddx","['brexit', 'revokeart50now', 'revokearticle50']"
-278062,1109431284588339200,220446664,neutral,other,2019-03-23T12:26:45.000Z,"Finally some updates from ⁦@BBCBreaking⁩ on the #Brexit march
+195,195,195,252375,1109175097087135744,1151684730,negative,leave,2019-03-22T19:28:45.000Z,"I'm absolutely crying at this! Please read, even if you don't speak French! 😂😂😂 #RevokeArticle50 #Brexit #RevokeArt50Now https://t.co/MJTt4HseiL","['brexit', 'revokeart50now', 'revokearticle50']"
+196,196,196,822411,1114248117690433536,20807304,negative,other,2019-04-05T19:27:07.000Z,"We haven't left yet... And by the looks of it, we might not leave for a while... Disgusting #RevokeArt50Now #RevokeArticle50 #brexit https://t.co/KkCkYnFddx","['brexit', 'revokeart50now', 'revokearticle50']"
+197,197,197,278062,1109431284588339200,220446664,neutral,other,2019-03-23T12:26:45.000Z,"Finally some updates from ⁦@BBCBreaking⁩ on the #Brexit march
 #RevokeArt50Now #RevokeArticle50  https://t.co/dpDcSgATxm","['brexit', 'revokeart50now', 'revokearticle50']"
-234808,1109067554256023552,496835891,negative,other,2019-03-22T12:21:25.000Z,"@TiggerTherese @RooftopJaxx @bennosaurus Just tried the link, got same security warning. #RevokeArt50Now #RevokeArticle50 #Brexit","['brexit', 'revokeart50now', 'revokearticle50']"
-667765,1112835727199555584,20807304,negative,remain,2019-04-01T21:54:47.000Z,ONLY ONE OPTION LEFT... CANCEL BREXIT!!!!! #RevokeArticle50 #RevokeArt50Now #Brexit https://t.co/Lv97LtZUGI,"['brexit', 'revokeart50now', 'revokearticle50']"
+198,198,198,234808,1109067554256023552,496835891,negative,other,2019-03-22T12:21:25.000Z,"@TiggerTherese @RooftopJaxx @bennosaurus Just tried the link, got same security warning. #RevokeArt50Now #RevokeArticle50 #Brexit","['brexit', 'revokeart50now', 'revokearticle50']"
+199,199,199,667765,1112835727199555584,20807304,negative,remain,2019-04-01T21:54:47.000Z,ONLY ONE OPTION LEFT... CANCEL BREXIT!!!!! #RevokeArticle50 #RevokeArt50Now #Brexit https://t.co/Lv97LtZUGI,"['brexit', 'revokeart50now', 'revokearticle50']"

@@ -1,218 +1,218 @@
-,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-2139338,769537086919700480,869452555,positive,other,2016-08-27T14:08:33.000Z,"@jlj21964  And so they should ASAP  #EuropeBeingOverrun
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,2139338,769537086919700480,869452555,positive,other,2016-08-27T14:08:33.000Z,"@jlj21964  And so they should ASAP  #EuropeBeingOverrun
 Mrs May, please take heed of the UK peoples choice. #Brexit
 #RevokeArticle50  #NOW","['now', 'brexit', 'europebeingoverrun', 'revokearticle50']"
-1842965,873121596533161984,24924551,negative,remain,2017-06-09T10:16:25.000Z,"Hung parliament presages chaos, but maybe the only way to rein in #Brexit stupidity. #RevokeArticle50 and sort yourselves out!","['brexit', 'revokearticle50']"
-1117859,849230494688579584,848590837772673024,neutral,remain,2017-04-04T12:01:42.000Z,@JamesMelville nobody voted for this. Not too late to turn back. RT: Seeking stories to document human impact of #Brexit. #RevokeArticle50,"['brexit', 'revokearticle50']"
-2018089,877221481192845312,749955662826831872,negative,remain,2017-06-20T17:47:53.000Z,@alfonslopeztena Hoping for a Tory politician with guts to say out loud what most people think: Stop this stupid #Brexit nightmare. #RevokeArticle50,"['brexit', 'revokearticle50']"
-1117467,849222361945702400,848590837772673024,positive,other,2017-04-04T11:29:23.000Z,@mapduliand @paulajd06 @Corbo12Ian @CraigGrannell @reallyglobal Thanks for getting in touch! You can share your #Brexit stories via PM or by tweeting @revokearticle50 #RevokeArticle50,"['brexit', 'revokearticle50']"
-1117496,849222717693886464,848590837772673024,positive,other,2017-04-04T11:30:48.000Z,"@CraigGrannell Hey Craig, thanks for getting in touch! We're collecting stories about the human impact of #Brexit. Did you want to talk? #RevokeArticle50","['brexit', 'revokearticle50']"
-1185419,852095225375928320,413784340,neutral,remain,2017-04-12T09:45:07.000Z,Sickening. Young people shafted again by #Brexit #RevokeArticle50 https://t.co/Nx6yWP3hLQ,"['brexit', 'revokearticle50']"
-1907511,874298154530865152,871042206244667520,negative,leave,2017-06-12T16:11:38.000Z,@jonsnowC4 #Brexit NOW means #RevokeArticle50 - we cannot move Britain forward on a £350 million lie &amp; chasing away EU medics will destroy #NHS,"['nhs', 'brexit', 'revokearticle50']"
-1892701,874117788406775808,86369042,neutral,leave,2017-06-12T04:14:55.000Z,Time to unilaterally revoke Article 50 and thus reverse Brexit. #RevokeArticle50 #CancelBrexit #LabourParty #No10 #RestoreConfidence,"['restoreconfidence', 'revokearticle50', 'labourparty', 'cancelbrexit', 'no10']"
-1916255,874549610899013632,763477,neutral,other,2017-06-13T08:50:50.000Z,"At Brexit's projected cost of £100 billion, revoking Article 50 could provide the NHS with £350 million a week until 2023 #RevokeArticle50",['revokearticle50']
-1943570,875253137556353024,16434960,negative,remain,2017-06-15T07:26:24.000Z,"Know what, you could have had Brexit. But you fucked it up. #RevokeArticle50",['revokearticle50']
-1948653,875373416701931520,16434960,negative,other,2017-06-15T15:24:20.000Z,"Theresa May's approval rating is a terrible -34 for a reason: she has messed up Brexit. To avoid a car crash, #RevokeArticle50 now.",['revokearticle50']
-1270107,854996923778048000,20090724,negative,other,2017-04-20T09:55:26.000Z,"Forget this ""meaningful vote"" bullshit, we want #RevokeArticle50 as the clear Brexit policy for ANY Bristol candidate.",['revokearticle50']
-978745,847032639643156480,21559780,negative,remain,2017-03-29T10:28:13.000Z,A sad day for the UK and ROI. Jingoistic buffoonery forcing the silent majority to bite noses off to spite faces. #revokeArticle50 #brexit,"['revokearticle50', 'brexit']"
-1873083,873613129028075520,22317556,neutral,remain,2017-06-10T18:49:35.000Z,"@clairecircuit @duncanfallowell @gladders @DAaronovitch @mrjamesob But at the end of the day 51.9 v 48.1 based on lies isn't really a mandate for the calamity &amp; instability that is #brexit 
+1,1,1,1842965,873121596533161984,24924551,negative,remain,2017-06-09T10:16:25.000Z,"Hung parliament presages chaos, but maybe the only way to rein in #Brexit stupidity. #RevokeArticle50 and sort yourselves out!","['brexit', 'revokearticle50']"
+2,2,2,1117859,849230494688579584,848590837772673024,neutral,remain,2017-04-04T12:01:42.000Z,@JamesMelville nobody voted for this. Not too late to turn back. RT: Seeking stories to document human impact of #Brexit. #RevokeArticle50,"['brexit', 'revokearticle50']"
+3,3,3,2018089,877221481192845312,749955662826831872,negative,remain,2017-06-20T17:47:53.000Z,@alfonslopeztena Hoping for a Tory politician with guts to say out loud what most people think: Stop this stupid #Brexit nightmare. #RevokeArticle50,"['brexit', 'revokearticle50']"
+4,4,4,1117467,849222361945702400,848590837772673024,positive,other,2017-04-04T11:29:23.000Z,@mapduliand @paulajd06 @Corbo12Ian @CraigGrannell @reallyglobal Thanks for getting in touch! You can share your #Brexit stories via PM or by tweeting @revokearticle50 #RevokeArticle50,"['brexit', 'revokearticle50']"
+5,5,5,1117496,849222717693886464,848590837772673024,positive,other,2017-04-04T11:30:48.000Z,"@CraigGrannell Hey Craig, thanks for getting in touch! We're collecting stories about the human impact of #Brexit. Did you want to talk? #RevokeArticle50","['brexit', 'revokearticle50']"
+6,6,6,1185419,852095225375928320,413784340,neutral,remain,2017-04-12T09:45:07.000Z,Sickening. Young people shafted again by #Brexit #RevokeArticle50 https://t.co/Nx6yWP3hLQ,"['brexit', 'revokearticle50']"
+7,7,7,1907511,874298154530865152,871042206244667520,negative,leave,2017-06-12T16:11:38.000Z,@jonsnowC4 #Brexit NOW means #RevokeArticle50 - we cannot move Britain forward on a £350 million lie &amp; chasing away EU medics will destroy #NHS,"['nhs', 'brexit', 'revokearticle50']"
+8,8,8,1892701,874117788406775808,86369042,neutral,leave,2017-06-12T04:14:55.000Z,Time to unilaterally revoke Article 50 and thus reverse Brexit. #RevokeArticle50 #CancelBrexit #LabourParty #No10 #RestoreConfidence,"['restoreconfidence', 'revokearticle50', 'labourparty', 'cancelbrexit', 'no10']"
+9,9,9,1916255,874549610899013632,763477,neutral,other,2017-06-13T08:50:50.000Z,"At Brexit's projected cost of £100 billion, revoking Article 50 could provide the NHS with £350 million a week until 2023 #RevokeArticle50",['revokearticle50']
+10,10,10,1943570,875253137556353024,16434960,negative,remain,2017-06-15T07:26:24.000Z,"Know what, you could have had Brexit. But you fucked it up. #RevokeArticle50",['revokearticle50']
+11,11,11,1948653,875373416701931520,16434960,negative,other,2017-06-15T15:24:20.000Z,"Theresa May's approval rating is a terrible -34 for a reason: she has messed up Brexit. To avoid a car crash, #RevokeArticle50 now.",['revokearticle50']
+12,12,12,1270107,854996923778048000,20090724,negative,other,2017-04-20T09:55:26.000Z,"Forget this ""meaningful vote"" bullshit, we want #RevokeArticle50 as the clear Brexit policy for ANY Bristol candidate.",['revokearticle50']
+13,13,13,978745,847032639643156480,21559780,negative,remain,2017-03-29T10:28:13.000Z,A sad day for the UK and ROI. Jingoistic buffoonery forcing the silent majority to bite noses off to spite faces. #revokeArticle50 #brexit,"['revokearticle50', 'brexit']"
+14,14,14,1873083,873613129028075520,22317556,neutral,remain,2017-06-10T18:49:35.000Z,"@clairecircuit @duncanfallowell @gladders @DAaronovitch @mrjamesob But at the end of the day 51.9 v 48.1 based on lies isn't really a mandate for the calamity &amp; instability that is #brexit 
 
 #RevokeArticle50","['revokearticle50', 'brexit']"
-1950887,875388732605702144,7784942,negative,leave,2017-06-15T16:25:12.000Z,"What has the EU ever done for us? 
+15,15,15,1950887,875388732605702144,7784942,negative,leave,2017-06-15T16:25:12.000Z,"What has the EU ever done for us? 
 #BREXIT #revokeArticle50 #giveBackControl
 BBC: EU mobile roaming charges scrapped https://t.co/hEu5a87T3d","['revokearticle50', 'brexit', 'givebackcontrol']"
-1119249,849260633870782464,848590837772673024,positive,remain,2017-04-04T14:01:28.000Z,How is Brexit affecting your life? Pls share stories. Gov should know human impact of #Brexit. Not too late to #StopBrexit. #RevokeArticle50 https://t.co/fp8IPcwqE6,"['revokearticle50', 'brexit', 'stopbrexit']"
-1857750,873287621992210432,138095864,positive,other,2017-06-09T21:16:08.000Z,#isitok that the best way to get through the #brexit talks in 10 days is to #RevokeArticle50,"['revokearticle50', 'isitok', 'brexit']"
-1123433,849384405579771904,848590837772673024,positive,remain,2017-04-04T22:13:17.000Z,#Brexit robbing people of final time with loved ones. This is not who we are as a nation. #RevokeArticle50 #StopBrexit https://t.co/LqiZPOOoxs,"['stopbrexit', 'brexit', 'revokearticle50']"
-1714209,937359647975137280,442437582,negative,remain,2017-12-03T16:35:30.000Z,@klopp_meister @RCorbettMEP @SebDance @Keir_Starmer @UKLabour @jeremycorbyn #Brexit is a fantasy. No one can get a deal that allows us to have our cake and eat it to. The only realistic deal is to #revokearticle50 and end this embarrassing mess. #brexitshambles,"['brexit', 'brexitshambles', 'revokearticle50']"
-1412256,927889317657268224,254185468,positive,other,2017-11-07T13:23:47.000Z,#Brexit is the Big Lie that hangs over everything in UK. Article 50 must be revoked. #RevokeArticle50,"['brexit', 'revokearticle50']"
-1899140,941412352804524032,442437582,negative,remain,2017-12-14T20:59:30.000Z,"@SkyNews So if the incompetent government don’t deliver what was promised by the leave campaign. Then it’s a choice of crappy deal (stupid), no deal (insane) or #nobrexit. We can #revokearticle50 anytime. #brexitreality #brexit #brexitshambles","['brexitreality', 'revokearticle50', 'nobrexit', 'brexit', 'brexitshambles']"
-1407656,927719018294804480,215951263,positive,remain,2017-11-07T02:07:04.000Z,"@Anna_Soubry if you don’t want Brexit to be like this, back your words up with your voting record!😡#spineless #countryfirst #revokeArticle50 https://t.co/Sv0Ga0t6FB","['countryfirst', 'revokearticle50']"
-1714070,937355782844186624,442437582,neutral,remain,2017-12-03T16:20:08.000Z,@standardnews @LeaveEUOfficial there is his golden parachute. Sod the rest of us. #Revokearticle50 #putinspuppets #brexit #brexitshambles,"['putinspuppets', 'revokearticle50', 'brexitshambles', 'brexit']"
-1540581,932248396261453824,813417041394880512,positive,leave,2017-11-19T14:05:12.000Z,"@jeremycorbyn 
+16,16,16,1119249,849260633870782464,848590837772673024,positive,remain,2017-04-04T14:01:28.000Z,How is Brexit affecting your life? Pls share stories. Gov should know human impact of #Brexit. Not too late to #StopBrexit. #RevokeArticle50 https://t.co/fp8IPcwqE6,"['revokearticle50', 'brexit', 'stopbrexit']"
+17,17,17,1857750,873287621992210432,138095864,positive,other,2017-06-09T21:16:08.000Z,#isitok that the best way to get through the #brexit talks in 10 days is to #RevokeArticle50,"['revokearticle50', 'isitok', 'brexit']"
+18,18,18,1123433,849384405579771904,848590837772673024,positive,remain,2017-04-04T22:13:17.000Z,#Brexit robbing people of final time with loved ones. This is not who we are as a nation. #RevokeArticle50 #StopBrexit https://t.co/LqiZPOOoxs,"['stopbrexit', 'brexit', 'revokearticle50']"
+19,19,19,1714209,937359647975137280,442437582,negative,remain,2017-12-03T16:35:30.000Z,@klopp_meister @RCorbettMEP @SebDance @Keir_Starmer @UKLabour @jeremycorbyn #Brexit is a fantasy. No one can get a deal that allows us to have our cake and eat it to. The only realistic deal is to #revokearticle50 and end this embarrassing mess. #brexitshambles,"['brexit', 'brexitshambles', 'revokearticle50']"
+20,20,20,1412256,927889317657268224,254185468,positive,other,2017-11-07T13:23:47.000Z,#Brexit is the Big Lie that hangs over everything in UK. Article 50 must be revoked. #RevokeArticle50,"['brexit', 'revokearticle50']"
+21,21,21,1899140,941412352804524032,442437582,negative,remain,2017-12-14T20:59:30.000Z,"@SkyNews So if the incompetent government don’t deliver what was promised by the leave campaign. Then it’s a choice of crappy deal (stupid), no deal (insane) or #nobrexit. We can #revokearticle50 anytime. #brexitreality #brexit #brexitshambles","['brexitreality', 'revokearticle50', 'nobrexit', 'brexit', 'brexitshambles']"
+22,22,22,1407656,927719018294804480,215951263,positive,remain,2017-11-07T02:07:04.000Z,"@Anna_Soubry if you don’t want Brexit to be like this, back your words up with your voting record!😡#spineless #countryfirst #revokeArticle50 https://t.co/Sv0Ga0t6FB","['countryfirst', 'revokearticle50']"
+23,23,23,1714070,937355782844186624,442437582,neutral,remain,2017-12-03T16:20:08.000Z,@standardnews @LeaveEUOfficial there is his golden parachute. Sod the rest of us. #Revokearticle50 #putinspuppets #brexit #brexitshambles,"['putinspuppets', 'revokearticle50', 'brexitshambles', 'brexit']"
+24,24,24,1540581,932248396261453824,813417041394880512,positive,leave,2017-11-19T14:05:12.000Z,"@jeremycorbyn 
 Current voting indications suggests that a GE now would be a close call between @UKLabour and the Tories. If you support Brexit then I will not be able to vote for you as many others won't. You need to reject Brexit to win the next GE. #RevokeArticle50",['revokearticle50']
-1591629,933612759215898624,584885397,neutral,leave,2017-11-23T08:26:42.000Z,"Britain can't afford Brexit, grounds to #RevokeArticle50 https://t.co/ZUPh1ig075",['revokearticle50']
-212734,884344050970710016,16434960,negative,other,2017-07-10T09:30:26.000Z,"@PsychDrD @Purfleetjohn @davidallengreen Point of #RevokeArticle50 is to murder ""Brexit means Brexit"" &amp; create political space for proper conversation about what Brexit should mean.",['revokearticle50']
-46983,878512938168053760,353022633,positive,other,2017-06-24T07:19:41.000Z,"@DerbyChrisW @akamalaccas1 But I'm a Remainer, not a Brexiteer. Corbyn says if you support Labour, you support Brexit. #revokeArticle50",['revokearticle50']
-1784061,938571801743052800,107735247,negative,remain,2017-12-07T00:52:10.000Z,Are you serious? @daviddavis @DExEUgov Your incompetence is frightening. Open your ears. Stop messing about with our futures. Our best hope is that your entire project implodes. Give up the chant; Brexit is not good for the UK #revokearticle50,['revokearticle50']
-201940,883954235657924608,16434960,negative,remain,2017-07-09T07:41:27.000Z,@garvanwalshe This is where you go wrong. Brexit has not been done. We are still in the EU. We can stay if we want to. #RevokeArticle50,['revokearticle50']
-220984,884526631418818560,2767177542,neutral,remain,2017-07-10T21:35:57.000Z,"@Brexit Only to share the blame as it continues to disintegrate. Tory infighting caused brexit, so it can take ALL responsibility. #RevokeArticle50",['revokearticle50']
-1681561,936150213017907200,859490352,neutral,remain,2017-11-30T08:29:38.000Z,"@JeremySteptoe @vincecable @realDonaldTrump @theresa_may We all lose IF it happens.
+25,25,25,1591629,933612759215898624,584885397,neutral,leave,2017-11-23T08:26:42.000Z,"Britain can't afford Brexit, grounds to #RevokeArticle50 https://t.co/ZUPh1ig075",['revokearticle50']
+26,26,26,212734,884344050970710016,16434960,negative,other,2017-07-10T09:30:26.000Z,"@PsychDrD @Purfleetjohn @davidallengreen Point of #RevokeArticle50 is to murder ""Brexit means Brexit"" &amp; create political space for proper conversation about what Brexit should mean.",['revokearticle50']
+27,27,27,46983,878512938168053760,353022633,positive,other,2017-06-24T07:19:41.000Z,"@DerbyChrisW @akamalaccas1 But I'm a Remainer, not a Brexiteer. Corbyn says if you support Labour, you support Brexit. #revokeArticle50",['revokearticle50']
+28,28,28,1784061,938571801743052800,107735247,negative,remain,2017-12-07T00:52:10.000Z,Are you serious? @daviddavis @DExEUgov Your incompetence is frightening. Open your ears. Stop messing about with our futures. Our best hope is that your entire project implodes. Give up the chant; Brexit is not good for the UK #revokearticle50,['revokearticle50']
+29,29,29,201940,883954235657924608,16434960,negative,remain,2017-07-09T07:41:27.000Z,@garvanwalshe This is where you go wrong. Brexit has not been done. We are still in the EU. We can stay if we want to. #RevokeArticle50,['revokearticle50']
+30,30,30,220984,884526631418818560,2767177542,neutral,remain,2017-07-10T21:35:57.000Z,"@Brexit Only to share the blame as it continues to disintegrate. Tory infighting caused brexit, so it can take ALL responsibility. #RevokeArticle50",['revokearticle50']
+31,31,31,1681561,936150213017907200,859490352,neutral,remain,2017-11-30T08:29:38.000Z,"@JeremySteptoe @vincecable @realDonaldTrump @theresa_may We all lose IF it happens.
 Common sense will prevail.
 It won't happen.
 No #Brexit is entirely an option
 
 #StopBrexit 
 #RevokeArticle50","['stopbrexit', 'brexit', 'revokearticle50']"
-1863922,940558947513176064,442437582,neutral,remain,2017-12-12T12:28:22.000Z,@MetroUK Then why are we doing this then? #revokearticle50 #brexitreality #brexit #BrexitShambles #stopbrexit,"['stopbrexit', 'brexitreality', 'revokearticle50', 'brexit', 'brexitshambles']"
-1454623,929414830645227520,859490352,positive,remain,2017-11-11T18:25:37.000Z,"@FangornForest1 @Brexit It's all based on fact.
+32,32,32,1863922,940558947513176064,442437582,neutral,remain,2017-12-12T12:28:22.000Z,@MetroUK Then why are we doing this then? #revokearticle50 #brexitreality #brexit #BrexitShambles #stopbrexit,"['stopbrexit', 'brexitreality', 'revokearticle50', 'brexit', 'brexitshambles']"
+33,33,33,1454623,929414830645227520,859490352,positive,remain,2017-11-11T18:25:37.000Z,"@FangornForest1 @Brexit It's all based on fact.
 Denying it does not make it untrue.
 #StopBrexit 
 #RevokeArticle50
 Get on with governing UK &amp; lead European growth instead of shutting down.","['stopbrexit', 'revokearticle50']"
-1458483,929644093705244672,859490352,neutral,remain,2017-11-12T09:36:38.000Z,"Dyson on @MarrShow advocating immigration from outside EU &amp; bemoaning WTO tarrifs because he manufactures outside UK &amp; EU. Talk about someone talking Brexit to line his very own billionaire pocket &amp; screw everyone else.
+34,34,34,1458483,929644093705244672,859490352,neutral,remain,2017-11-12T09:36:38.000Z,"Dyson on @MarrShow advocating immigration from outside EU &amp; bemoaning WTO tarrifs because he manufactures outside UK &amp; EU. Talk about someone talking Brexit to line his very own billionaire pocket &amp; screw everyone else.
 #StopBrexit 
 #RevokeArticle50","['stopbrexit', 'revokearticle50']"
-1463240,929774976458248192,859490352,negative,remain,2017-11-12T18:16:43.000Z,"@mikegalsworthy Utter disgrace. Should be fitted for orange and put in The Tower. Elite Brexit.
+35,35,35,1463240,929774976458248192,859490352,negative,remain,2017-11-12T18:16:43.000Z,"@mikegalsworthy Utter disgrace. Should be fitted for orange and put in The Tower. Elite Brexit.
 #StopBrexit 
 #RevokeArticle50","['stopbrexit', 'revokearticle50']"
-1284499,922481360329170944,2827556878,positive,remain,2017-10-23T15:14:29.000Z,"@Badgersgetabad @CRobertsonUK @jacqui703 Im pretty sure the ""Little Englanders"" who voted for Brexit didn't vote to break up the United Kingdom. Just #RevokeArticle50 &amp; #StopBrexit","['stopbrexit', 'revokearticle50']"
-1117749,917655067028869120,72684950,negative,remain,2017-10-10T07:36:31.000Z,No Brexit is better than a Bad Brexit #StopBrexit #RevokeArticle50 https://t.co/ih4GPzLC6Q,"['stopbrexit', 'revokearticle50']"
-1111164,917457004871942144,18507106,negative,remain,2017-10-09T18:29:30.000Z,@Brexit @BrexitBin Likely it's position in the G7 or G8 as well. It's a small country once had an empire and fought a war. #StopBrexit #revokearticle50,"['stopbrexit', 'revokearticle50']"
-1315403,923299869539803136,3317996643,neutral,remain,2017-10-25T21:26:57.000Z,@acgrayling @POCX100 This late in the day. Omfg #brexitshambles #brexit #StopBrexit #revokearticle50,"['stopbrexit', 'revokearticle50', 'brexitshambles', 'brexit']"
-264422,955896472230334464,2965188994,negative,remain,2018-01-23T20:14:13.000Z,"@Independent @lunaperla Is this a first? A little honesty on #BrWRECKSit from the gov't. A little honesty goes a long way, but is it time for Mrs May to come clean about all impending losses and admit the total folly of #Brexit and #RevokeArticle50 now? #WATON @euromove @Open_Britain @BestForBritain","['brexit', 'brwrecksit', 'waton', 'revokearticle50']"
-90343,947286170429476864,442437582,positive,other,2017-12-31T01:59:57.000Z,@gweccles @BorisJohnson @LiamFox @theresa_may @BorisJohnson how on earth can this make strategic sense? Wouldn’t it be easier to just b straight with the public and explain why #Brexit is unworkable and #revokearticle50 ? We can then become a big boy country again rather than a joke,"['brexit', 'revokearticle50']"
-938201,984963990941061120,5408952,negative,remain,2018-04-14T01:18:09.000Z,"Talked to yet another chap today who is setting up an office in DUBLIN 
+36,36,36,1284499,922481360329170944,2827556878,positive,remain,2017-10-23T15:14:29.000Z,"@Badgersgetabad @CRobertsonUK @jacqui703 Im pretty sure the ""Little Englanders"" who voted for Brexit didn't vote to break up the United Kingdom. Just #RevokeArticle50 &amp; #StopBrexit","['stopbrexit', 'revokearticle50']"
+37,37,37,1117749,917655067028869120,72684950,negative,remain,2017-10-10T07:36:31.000Z,No Brexit is better than a Bad Brexit #StopBrexit #RevokeArticle50 https://t.co/ih4GPzLC6Q,"['stopbrexit', 'revokearticle50']"
+38,38,38,1111164,917457004871942144,18507106,negative,remain,2017-10-09T18:29:30.000Z,@Brexit @BrexitBin Likely it's position in the G7 or G8 as well. It's a small country once had an empire and fought a war. #StopBrexit #revokearticle50,"['stopbrexit', 'revokearticle50']"
+39,39,39,1315403,923299869539803136,3317996643,neutral,remain,2017-10-25T21:26:57.000Z,@acgrayling @POCX100 This late in the day. Omfg #brexitshambles #brexit #StopBrexit #revokearticle50,"['stopbrexit', 'revokearticle50', 'brexitshambles', 'brexit']"
+40,40,40,264422,955896472230334464,2965188994,negative,remain,2018-01-23T20:14:13.000Z,"@Independent @lunaperla Is this a first? A little honesty on #BrWRECKSit from the gov't. A little honesty goes a long way, but is it time for Mrs May to come clean about all impending losses and admit the total folly of #Brexit and #RevokeArticle50 now? #WATON @euromove @Open_Britain @BestForBritain","['brexit', 'brwrecksit', 'waton', 'revokearticle50']"
+41,41,41,90343,947286170429476864,442437582,positive,other,2017-12-31T01:59:57.000Z,@gweccles @BorisJohnson @LiamFox @theresa_may @BorisJohnson how on earth can this make strategic sense? Wouldn’t it be easier to just b straight with the public and explain why #Brexit is unworkable and #revokearticle50 ? We can then become a big boy country again rather than a joke,"['brexit', 'revokearticle50']"
+42,42,42,938201,984963990941061120,5408952,negative,remain,2018-04-14T01:18:09.000Z,"Talked to yet another chap today who is setting up an office in DUBLIN 
 
 He is a recruiter for the Financial sector 
 
 So many of the UK and US banks are moving there .. there’s no point being in the UK anymore 
 
 #Brexit #revokearticle50","['brexit', 'revokearticle50']"
-960401,986311205710114816,2965188994,negative,remain,2018-04-17T18:31:30.000Z,"@joycie01 @pejw7 @Lisa_Botski @DamienVFletcher @_samcorfield Key point. Millions were illegitimately excluded from voting in #EURef2016. So #RevokeArticle50 and abandon #Brexit entirely, immediately, or #PeoplesVote on “the deal?” Which is it to be?","['brexit', 'revokearticle50', 'peoplesvote', 'euref2016']"
-150832,950698927036170240,2965188994,negative,remain,2018-01-09T12:01:01.000Z,More #brexitshambles ?@DavidDavisMP @theresa_may @BorisJohnson #RevokeArticle50 now. Before too much more damage is done. #Brexit means #BrWRECKSit https://t.co/Voz1VNXFdU,"['brwrecksit', 'brexit', 'brexitshambles', 'revokearticle50']"
-85997,947065089827500032,14235228,negative,remain,2017-12-30T11:21:27.000Z,"The case for #brexit was a tissue of lies. Scaremongering over Turkey, lies about NHS funding, undeliverable guarantees about access to the single market. It is a slow-motion disaster. #stopbrexit #revokearticle50 #fbpe https://t.co/5W9dhgSe1P","['fbpe', 'stopbrexit', 'revokearticle50', 'brexit']"
-308493,958259699643756544,26268503,negative,remain,2018-01-30T08:44:50.000Z,"@Anna_Soubry Surely least damaging Brexit model is “No Brexit”, remaining in the EU as all Brexit options suggest we would be worse off. If we are putting country before ideology we should just remain in the EU. #revokearticle50",['revokearticle50']
-130260,949642506899218432,871099118613143552,positive,remain,2018-01-06T14:03:11.000Z,"Wow, it sure would suck to no longer enjoy the benefits of the European Union! Glad we are still able to #RevokeArticle50 and #ExitFromBrexit. #FBPE #StopBrexit  #StopBrexit2018 #Brexit #BrexitShambles https://t.co/z48SddDs8V","['revokearticle50', 'brexit', 'brexitshambles', 'exitfrombrexit', 'stopbrexit', 'fbpe', 'stopbrexit2018']"
-567423,968249298541600768,730514125156171648,negative,remain,2018-02-26T22:19:56.000Z,"David Allen Green: What happens if there is no #Brexit withdrawal agreement? 
+43,43,43,960401,986311205710114816,2965188994,negative,remain,2018-04-17T18:31:30.000Z,"@joycie01 @pejw7 @Lisa_Botski @DamienVFletcher @_samcorfield Key point. Millions were illegitimately excluded from voting in #EURef2016. So #RevokeArticle50 and abandon #Brexit entirely, immediately, or #PeoplesVote on “the deal?” Which is it to be?","['brexit', 'revokearticle50', 'peoplesvote', 'euref2016']"
+44,44,44,150832,950698927036170240,2965188994,negative,remain,2018-01-09T12:01:01.000Z,More #brexitshambles ?@DavidDavisMP @theresa_may @BorisJohnson #RevokeArticle50 now. Before too much more damage is done. #Brexit means #BrWRECKSit https://t.co/Voz1VNXFdU,"['brwrecksit', 'brexit', 'brexitshambles', 'revokearticle50']"
+45,45,45,85997,947065089827500032,14235228,negative,remain,2017-12-30T11:21:27.000Z,"The case for #brexit was a tissue of lies. Scaremongering over Turkey, lies about NHS funding, undeliverable guarantees about access to the single market. It is a slow-motion disaster. #stopbrexit #revokearticle50 #fbpe https://t.co/5W9dhgSe1P","['fbpe', 'stopbrexit', 'revokearticle50', 'brexit']"
+46,46,46,308493,958259699643756544,26268503,negative,remain,2018-01-30T08:44:50.000Z,"@Anna_Soubry Surely least damaging Brexit model is “No Brexit”, remaining in the EU as all Brexit options suggest we would be worse off. If we are putting country before ideology we should just remain in the EU. #revokearticle50",['revokearticle50']
+47,47,47,130260,949642506899218432,871099118613143552,positive,remain,2018-01-06T14:03:11.000Z,"Wow, it sure would suck to no longer enjoy the benefits of the European Union! Glad we are still able to #RevokeArticle50 and #ExitFromBrexit. #FBPE #StopBrexit  #StopBrexit2018 #Brexit #BrexitShambles https://t.co/z48SddDs8V","['revokearticle50', 'brexit', 'brexitshambles', 'exitfrombrexit', 'stopbrexit', 'fbpe', 'stopbrexit2018']"
+48,48,48,567423,968249298541600768,730514125156171648,negative,remain,2018-02-26T22:19:56.000Z,"David Allen Green: What happens if there is no #Brexit withdrawal agreement? 
 #BrexitShambles #FBPE #RevokeArticle50
 https://t.co/2YWcL79pA0 via @financialtimes","['revokearticle50', 'brexit', 'fbpe', 'brexitshambles']"
-892854,982241810750697472,2396188842,negative,remain,2018-04-06T13:01:11.000Z,"2. #Brexit will leave the UK &amp; its citizens Poorer, Weaker with Fewer Rights and less Control &amp; Influence &amp; more isolated than ever.
+49,49,49,892854,982241810750697472,2396188842,negative,remain,2018-04-06T13:01:11.000Z,"2. #Brexit will leave the UK &amp; its citizens Poorer, Weaker with Fewer Rights and less Control &amp; Influence &amp; more isolated than ever.
 #RevokeArticle50
 #StopBrexitSaveBritain 
 Binding #FinalSayForAll.
 #FairVote #ABTV https://t.co/UmzKEyMEUW","['stopbrexitsavebritain', 'abtv', 'revokearticle50', 'brexit', 'fairvote', 'finalsayforall']"
-3498153,1036223560187105280,857080363,neutral,other,2018-09-02T12:05:23.000Z,"#bbcnews #c4news
+50,50,50,3498153,1036223560187105280,857080363,neutral,other,2018-09-02T12:05:23.000Z,"#bbcnews #c4news
 Clear that we have been #soldAPup, #APigInAPoke, even #APokeInAPig, we have been conned by the #Brexiteers
 There is less consumer protection over #Brexit than there is over used car sales!
 #ExitFromBrexit #RevokeArticle50 Just Stop! https://t.co/HOytNHQN3z","['bbcnews', 'apokeinapig', 'revokearticle50', 'soldapup', 'c4news', 'brexit', 'brexiteers', 'exitfrombrexit', 'apiginapoke']"
-3498154,1036223560187105280,857080363,neutral,other,2018-09-02T12:05:23.000Z,"#bbcnews #c4news
+51,51,51,3498154,1036223560187105280,857080363,neutral,other,2018-09-02T12:05:23.000Z,"#bbcnews #c4news
 Clear that we have been #soldAPup, #APigInAPoke, even #APokeInAPig, we have been conned by the #Brexiteers
 There is less consumer protection over #Brexit than there is over used car sales!
 #ExitFromBrexit #RevokeArticle50 Just Stop! https://t.co/HOytNHQN3z","['bbcnews', 'apokeinapig', 'revokearticle50', 'soldapup', 'c4news', 'brexit', 'brexiteers', 'exitfrombrexit', 'apiginapoke']"
-2170030,1019617204944465920,4895565605,positive,other,2018-07-18T16:17:39.000Z,Good Question. Very good compilation of evidence. LOUSY conclusion; How can anyone just accept that nothing is likely to change or be done? #Brexit is proven to be economically and morally degrading. @Theresa_May must #revokearticle50  https://t.co/rjVl8VKrWU via @IrishTimesOpEd,"['brexit', 'revokearticle50']"
-2170031,1019617204944465920,4895565605,positive,other,2018-07-18T16:17:39.000Z,Good Question. Very good compilation of evidence. LOUSY conclusion; How can anyone just accept that nothing is likely to change or be done? #Brexit is proven to be economically and morally degrading. @Theresa_May must #revokearticle50  https://t.co/rjVl8VKrWU via @IrishTimesOpEd,"['brexit', 'revokearticle50']"
-2046993,1018832849674424320,28080704,negative,remain,2018-07-16T12:20:55.000Z,"As JC supporter/Momentum member please @Keir_Starmer @EmillyThornberry get engaged/vocal re: legality of #Brexit #EURef, @carolecadwalla. Not 'will of the people', but manipulation of people. 
+52,52,52,2170030,1019617204944465920,4895565605,positive,other,2018-07-18T16:17:39.000Z,Good Question. Very good compilation of evidence. LOUSY conclusion; How can anyone just accept that nothing is likely to change or be done? #Brexit is proven to be economically and morally degrading. @Theresa_May must #revokearticle50  https://t.co/rjVl8VKrWU via @IrishTimesOpEd,"['brexit', 'revokearticle50']"
+53,53,53,2170031,1019617204944465920,4895565605,positive,other,2018-07-18T16:17:39.000Z,Good Question. Very good compilation of evidence. LOUSY conclusion; How can anyone just accept that nothing is likely to change or be done? #Brexit is proven to be economically and morally degrading. @Theresa_May must #revokearticle50  https://t.co/rjVl8VKrWU via @IrishTimesOpEd,"['brexit', 'revokearticle50']"
+54,54,54,2046993,1018832849674424320,28080704,negative,remain,2018-07-16T12:20:55.000Z,"As JC supporter/Momentum member please @Keir_Starmer @EmillyThornberry get engaged/vocal re: legality of #Brexit #EURef, @carolecadwalla. Not 'will of the people', but manipulation of people. 
 Push 4 #RevokeArticle50, a #NoDeal Brexit will be catastrophic. 
 #StopBrexit #ToriesOut","['brexit', 'stopbrexit', 'nodeal', 'revokearticle50', 'euref', 'toriesout']"
-2046994,1018832849674424320,28080704,negative,remain,2018-07-16T12:20:55.000Z,"As JC supporter/Momentum member please @Keir_Starmer @EmillyThornberry get engaged/vocal re: legality of #Brexit #EURef, @carolecadwalla. Not 'will of the people', but manipulation of people. 
+55,55,55,2046994,1018832849674424320,28080704,negative,remain,2018-07-16T12:20:55.000Z,"As JC supporter/Momentum member please @Keir_Starmer @EmillyThornberry get engaged/vocal re: legality of #Brexit #EURef, @carolecadwalla. Not 'will of the people', but manipulation of people. 
 Push 4 #RevokeArticle50, a #NoDeal Brexit will be catastrophic. 
 #StopBrexit #ToriesOut","['brexit', 'stopbrexit', 'nodeal', 'revokearticle50', 'euref', 'toriesout']"
-2413585,1022183631366893568,745611048493977600,neutral,remain,2018-07-25T18:15:43.000Z,"Claims that our membership of the EU is diluting our identity are nonsense.
+56,56,56,2413585,1022183631366893568,745611048493977600,neutral,remain,2018-07-25T18:15:43.000Z,"Claims that our membership of the EU is diluting our identity are nonsense.
 #Brexit, however, is making us unrecognisable.
 
 #StopBrexitSaveBritain 
 #PeoplesVote
 #RevokeArticle50 https://t.co/4Mm7Vm79Tq","['brexit', 'stopbrexitsavebritain', 'peoplesvote', 'revokearticle50']"
-2413584,1022183631366893568,745611048493977600,neutral,remain,2018-07-25T18:15:43.000Z,"Claims that our membership of the EU is diluting our identity are nonsense.
+57,57,57,2413584,1022183631366893568,745611048493977600,neutral,remain,2018-07-25T18:15:43.000Z,"Claims that our membership of the EU is diluting our identity are nonsense.
 #Brexit, however, is making us unrecognisable.
 
 #StopBrexitSaveBritain 
 #PeoplesVote
 #RevokeArticle50 https://t.co/4Mm7Vm79Tq","['brexit', 'stopbrexitsavebritain', 'peoplesvote', 'revokearticle50']"
-2538155,1023528608630013952,621355415,positive,other,2018-07-29T11:20:11.000Z,"Agreed! Perversely, the utter scandal of how the #Brexit vote came about is now proving excellent for democracy #stopBrexit #revokeArticle50 #democracy https://t.co/g6MMNi89p8","['democracy', 'revokearticle50', 'brexit', 'stopbrexit']"
-2538156,1023528608630013952,621355415,positive,other,2018-07-29T11:20:11.000Z,"Agreed! Perversely, the utter scandal of how the #Brexit vote came about is now proving excellent for democracy #stopBrexit #revokeArticle50 #democracy https://t.co/g6MMNi89p8","['democracy', 'revokearticle50', 'brexit', 'stopbrexit']"
-2500702,1022961606446202880,2402093269,positive,remain,2018-07-27T21:47:07.000Z,"@juniordrblog @csibike1 Thank you for sharing this mind boggling thread on all the medical and health related issues that will be directly jeopardised by Brexit. 
+58,58,58,2538155,1023528608630013952,621355415,positive,other,2018-07-29T11:20:11.000Z,"Agreed! Perversely, the utter scandal of how the #Brexit vote came about is now proving excellent for democracy #stopBrexit #revokeArticle50 #democracy https://t.co/g6MMNi89p8","['democracy', 'revokearticle50', 'brexit', 'stopbrexit']"
+59,59,59,2538156,1023528608630013952,621355415,positive,other,2018-07-29T11:20:11.000Z,"Agreed! Perversely, the utter scandal of how the #Brexit vote came about is now proving excellent for democracy #stopBrexit #revokeArticle50 #democracy https://t.co/g6MMNi89p8","['democracy', 'revokearticle50', 'brexit', 'stopbrexit']"
+60,60,60,2500702,1022961606446202880,2402093269,positive,remain,2018-07-27T21:47:07.000Z,"@juniordrblog @csibike1 Thank you for sharing this mind boggling thread on all the medical and health related issues that will be directly jeopardised by Brexit. 
   
 Are we serious good people of the U.K.? Did we vote for any of this?? 
  
 #ExitfromBrexit #PeoplesVote with Remain option #RevokeArticle50","['exitfrombrexit', 'peoplesvote', 'revokearticle50']"
-2500703,1022961606446202880,2402093269,positive,remain,2018-07-27T21:47:07.000Z,"@juniordrblog @csibike1 Thank you for sharing this mind boggling thread on all the medical and health related issues that will be directly jeopardised by Brexit. 
+61,61,61,2500703,1022961606446202880,2402093269,positive,remain,2018-07-27T21:47:07.000Z,"@juniordrblog @csibike1 Thank you for sharing this mind boggling thread on all the medical and health related issues that will be directly jeopardised by Brexit. 
   
 Are we serious good people of the U.K.? Did we vote for any of this?? 
  
 #ExitfromBrexit #PeoplesVote with Remain option #RevokeArticle50","['exitfrombrexit', 'peoplesvote', 'revokearticle50']"
-2151680,1019517428613738496,747349420983754752,negative,remain,2018-07-18T09:41:11.000Z,"@Edward__Burke @samael200x I think it needs to be a binary choice, crash out (The Brexit wet dream😱🤬) or Remain (the only sane choice). In the meantime #StopBrexit #RevokeArticle50 #Frauderendum #DeclareRefNull&amp;Void","['frauderendum', 'stopbrexit', 'declarerefnull&void', 'revokearticle50']"
-2151679,1019517428613738496,747349420983754752,negative,remain,2018-07-18T09:41:11.000Z,"@Edward__Burke @samael200x I think it needs to be a binary choice, crash out (The Brexit wet dream😱🤬) or Remain (the only sane choice). In the meantime #StopBrexit #RevokeArticle50 #Frauderendum #DeclareRefNull&amp;Void","['frauderendum', 'stopbrexit', 'declarerefnull&void', 'revokearticle50']"
-4617605,1047799193375531008,14320744,negative,remain,2018-10-04T10:42:49.000Z,"@GuitarMoog #WithdrawalAgreement will be the defining moment in T/L of #Brexit.   
+62,62,62,2151680,1019517428613738496,747349420983754752,negative,remain,2018-07-18T09:41:11.000Z,"@Edward__Burke @samael200x I think it needs to be a binary choice, crash out (The Brexit wet dream😱🤬) or Remain (the only sane choice). In the meantime #StopBrexit #RevokeArticle50 #Frauderendum #DeclareRefNull&amp;Void","['frauderendum', 'stopbrexit', 'declarerefnull&void', 'revokearticle50']"
+63,63,63,2151679,1019517428613738496,747349420983754752,negative,remain,2018-07-18T09:41:11.000Z,"@Edward__Burke @samael200x I think it needs to be a binary choice, crash out (The Brexit wet dream😱🤬) or Remain (the only sane choice). In the meantime #StopBrexit #RevokeArticle50 #Frauderendum #DeclareRefNull&amp;Void","['frauderendum', 'stopbrexit', 'declarerefnull&void', 'revokearticle50']"
+64,64,64,4617605,1047799193375531008,14320744,negative,remain,2018-10-04T10:42:49.000Z,"@GuitarMoog #WithdrawalAgreement will be the defining moment in T/L of #Brexit.   
 
 #PeoplesVote,  #RevokeArticle50, even #TransitionPeriod, are all irrelevant #RedHerrings  
 
 No #WithdrawalAgreement and we are staring at devastating reality of #NoDealBrexit of #HardBorder b/w Ni &amp; RoI.","['hardborder', 'transitionperiod', 'nodealbrexit', 'redherrings', 'revokearticle50', 'peoplesvote', 'withdrawalagreement', 'brexit']"
-4617606,1047799193375531008,14320744,negative,remain,2018-10-04T10:42:49.000Z,"@GuitarMoog #WithdrawalAgreement will be the defining moment in T/L of #Brexit.   
+65,65,65,4617606,1047799193375531008,14320744,negative,remain,2018-10-04T10:42:49.000Z,"@GuitarMoog #WithdrawalAgreement will be the defining moment in T/L of #Brexit.   
 
 #PeoplesVote,  #RevokeArticle50, even #TransitionPeriod, are all irrelevant #RedHerrings  
 
 No #WithdrawalAgreement and we are staring at devastating reality of #NoDealBrexit of #HardBorder b/w Ni &amp; RoI.","['hardborder', 'transitionperiod', 'nodealbrexit', 'redherrings', 'revokearticle50', 'peoplesvote', 'withdrawalagreement', 'brexit']"
-3044219,1030219201049440256,483740511,negative,remain,2018-08-16T22:26:12.000Z,@BBCPolitics We are regretting it now! But it's not too late #RevokeArticle50!  #brexit a leaping holiday for #lemmings,"['lemmings', 'revokearticle50', 'brexit']"
-3044218,1030219201049440256,483740511,negative,remain,2018-08-16T22:26:12.000Z,@BBCPolitics We are regretting it now! But it's not too late #RevokeArticle50!  #brexit a leaping holiday for #lemmings,"['lemmings', 'revokearticle50', 'brexit']"
-4103646,1043146315176325120,16953902,positive,remain,2018-09-21T14:33:56.000Z,"Welcome to the Sept 21st 350 Million Guineas brexit Steeplechase
+66,66,66,3044219,1030219201049440256,483740511,negative,remain,2018-08-16T22:26:12.000Z,@BBCPolitics We are regretting it now! But it's not too late #RevokeArticle50!  #brexit a leaping holiday for #lemmings,"['lemmings', 'revokearticle50', 'brexit']"
+67,67,67,3044218,1030219201049440256,483740511,negative,remain,2018-08-16T22:26:12.000Z,@BBCPolitics We are regretting it now! But it's not too late #RevokeArticle50!  #brexit a leaping holiday for #lemmings,"['lemmings', 'revokearticle50', 'brexit']"
+68,68,68,4103646,1043146315176325120,16953902,positive,remain,2018-09-21T14:33:56.000Z,"Welcome to the Sept 21st 350 Million Guineas brexit Steeplechase
 
 #NoDeal fell at the first fence
 #Chequers has lost its rider
 #PeoplesVote is leading, but the long odds outsider #RevokeArticle50 is catching up fast. 
 
 Place you bets! https://t.co/anpG8jUoSe","['peoplesvote', 'nodeal', 'chequers', 'revokearticle50']"
-4103647,1043146315176325120,16953902,positive,remain,2018-09-21T14:33:56.000Z,"Welcome to the Sept 21st 350 Million Guineas brexit Steeplechase
+69,69,69,4103647,1043146315176325120,16953902,positive,remain,2018-09-21T14:33:56.000Z,"Welcome to the Sept 21st 350 Million Guineas brexit Steeplechase
 
 #NoDeal fell at the first fence
 #Chequers has lost its rider
 #PeoplesVote is leading, but the long odds outsider #RevokeArticle50 is catching up fast. 
 
 Place you bets! https://t.co/anpG8jUoSe","['peoplesvote', 'nodeal', 'chequers', 'revokearticle50']"
-2559467,1023703120088625152,233209237,negative,remain,2018-07-29T22:53:37.000Z,@Cornwall4EU @Forty40Kings @_Britain4Europe @peoplesvote_uk @HowardFarmer1 @ldnik @Devon4Europe @alexjpilkington @MollyMEP @CarolineLucas @OFOCBrexit I’m really not sure a #peoplesvote is a good idea right now. Damian Collins report shows our democracy is in crisis. Issues raised must be fixed before another referendum. Politicians need to stand up and admit the #brexit referendum was democratically unsafe and #RevokeArticle50,"['peoplesvote', 'revokearticle50', 'brexit']"
-2559466,1023703120088625152,233209237,negative,remain,2018-07-29T22:53:37.000Z,@Cornwall4EU @Forty40Kings @_Britain4Europe @peoplesvote_uk @HowardFarmer1 @ldnik @Devon4Europe @alexjpilkington @MollyMEP @CarolineLucas @OFOCBrexit I’m really not sure a #peoplesvote is a good idea right now. Damian Collins report shows our democracy is in crisis. Issues raised must be fixed before another referendum. Politicians need to stand up and admit the #brexit referendum was democratically unsafe and #RevokeArticle50,"['peoplesvote', 'revokearticle50', 'brexit']"
-1587548,1014477120595251200,15093906,positive,remain,2018-07-04T11:52:48.000Z,"Looks like it's about to be official - https://t.co/pmo0TUHYIe #WATON #BREXIT #FBPE #Remain #RevokeArticle50 #PeoplesVote 
+70,70,70,2559467,1023703120088625152,233209237,negative,remain,2018-07-29T22:53:37.000Z,@Cornwall4EU @Forty40Kings @_Britain4Europe @peoplesvote_uk @HowardFarmer1 @ldnik @Devon4Europe @alexjpilkington @MollyMEP @CarolineLucas @OFOCBrexit I’m really not sure a #peoplesvote is a good idea right now. Damian Collins report shows our democracy is in crisis. Issues raised must be fixed before another referendum. Politicians need to stand up and admit the #brexit referendum was democratically unsafe and #RevokeArticle50,"['peoplesvote', 'revokearticle50', 'brexit']"
+71,71,71,2559466,1023703120088625152,233209237,negative,remain,2018-07-29T22:53:37.000Z,@Cornwall4EU @Forty40Kings @_Britain4Europe @peoplesvote_uk @HowardFarmer1 @ldnik @Devon4Europe @alexjpilkington @MollyMEP @CarolineLucas @OFOCBrexit I’m really not sure a #peoplesvote is a good idea right now. Damian Collins report shows our democracy is in crisis. Issues raised must be fixed before another referendum. Politicians need to stand up and admit the #brexit referendum was democratically unsafe and #RevokeArticle50,"['peoplesvote', 'revokearticle50', 'brexit']"
+72,72,72,1587548,1014477120595251200,15093906,positive,remain,2018-07-04T11:52:48.000Z,"Looks like it's about to be official - https://t.co/pmo0TUHYIe #WATON #BREXIT #FBPE #Remain #RevokeArticle50 #PeoplesVote 
 #ABTV #OFOC #ElectoralCommission","['remain', 'waton', 'abtv', 'revokearticle50', 'peoplesvote', 'brexit', 'fbpe', 'electoralcommission', 'ofoc']"
-1587547,1014477120595251200,15093906,positive,remain,2018-07-04T11:52:48.000Z,"Looks like it's about to be official - https://t.co/pmo0TUHYIe #WATON #BREXIT #FBPE #Remain #RevokeArticle50 #PeoplesVote 
+73,73,73,1587547,1014477120595251200,15093906,positive,remain,2018-07-04T11:52:48.000Z,"Looks like it's about to be official - https://t.co/pmo0TUHYIe #WATON #BREXIT #FBPE #Remain #RevokeArticle50 #PeoplesVote 
 #ABTV #OFOC #ElectoralCommission","['remain', 'waton', 'abtv', 'revokearticle50', 'peoplesvote', 'brexit', 'fbpe', 'electoralcommission', 'ofoc']"
-2373287,1021816296827170816,219427269,negative,other,2018-07-24T17:56:04.000Z,The government is planning for food shortages in the event of a no deal Brexit. As far as I'm concerned that is a national security issue and the government must act in the best interests of the country and do anything to avoid that eventuality. #revokearticle50,['revokearticle50']
-3841450,1040561474173841408,2827556878,negative,remain,2018-09-14T11:22:42.000Z,"More to come on this, I suspect... well done to Jolyon Maugham QC. Brexit is doomed, &amp; this will be one of the excuses given by Govt when they #RevokeArticle50 https://t.co/c2Ga770nI6",['revokearticle50']
-2373288,1021816296827170816,219427269,negative,other,2018-07-24T17:56:04.000Z,The government is planning for food shortages in the event of a no deal Brexit. As far as I'm concerned that is a national security issue and the government must act in the best interests of the country and do anything to avoid that eventuality. #revokearticle50,['revokearticle50']
-3841449,1040561474173841408,2827556878,negative,remain,2018-09-14T11:22:42.000Z,"More to come on this, I suspect... well done to Jolyon Maugham QC. Brexit is doomed, &amp; this will be one of the excuses given by Govt when they #RevokeArticle50 https://t.co/c2Ga770nI6",['revokearticle50']
-4852003,1050829565650714624,3337058535,negative,other,2018-10-12T19:24:26.000Z,"Whilst the majority of Brexit focus is on NI, then a tiny bit on Gibraltar, the Channel Islands aren't even on the radar. Jersey is already decimated due to its tax haven ambitions, Brexit kills the patient. #RevokeArticle50
+74,74,74,2373287,1021816296827170816,219427269,negative,other,2018-07-24T17:56:04.000Z,The government is planning for food shortages in the event of a no deal Brexit. As far as I'm concerned that is a national security issue and the government must act in the best interests of the country and do anything to avoid that eventuality. #revokearticle50,['revokearticle50']
+75,75,75,3841450,1040561474173841408,2827556878,negative,remain,2018-09-14T11:22:42.000Z,"More to come on this, I suspect... well done to Jolyon Maugham QC. Brexit is doomed, &amp; this will be one of the excuses given by Govt when they #RevokeArticle50 https://t.co/c2Ga770nI6",['revokearticle50']
+76,76,76,2373288,1021816296827170816,219427269,negative,other,2018-07-24T17:56:04.000Z,The government is planning for food shortages in the event of a no deal Brexit. As far as I'm concerned that is a national security issue and the government must act in the best interests of the country and do anything to avoid that eventuality. #revokearticle50,['revokearticle50']
+77,77,77,3841449,1040561474173841408,2827556878,negative,remain,2018-09-14T11:22:42.000Z,"More to come on this, I suspect... well done to Jolyon Maugham QC. Brexit is doomed, &amp; this will be one of the excuses given by Govt when they #RevokeArticle50 https://t.co/c2Ga770nI6",['revokearticle50']
+78,78,78,4852003,1050829565650714624,3337058535,negative,other,2018-10-12T19:24:26.000Z,"Whilst the majority of Brexit focus is on NI, then a tiny bit on Gibraltar, the Channel Islands aren't even on the radar. Jersey is already decimated due to its tax haven ambitions, Brexit kills the patient. #RevokeArticle50
 https://t.co/nnTliFYpbL",['revokearticle50']
-2579547,1023897542919184384,49138111,positive,remain,2018-07-30T11:46:11.000Z,"Utterly astounding that, in 2018, there is a contingency plan to involve the army to deliver vital supplies in the event of a no deal brexit. It's the 21st century you fucking idiots not the 1800's. There is no fucking empire! #revokearticle50",['revokearticle50']
-4852002,1050829565650714624,3337058535,negative,other,2018-10-12T19:24:26.000Z,"Whilst the majority of Brexit focus is on NI, then a tiny bit on Gibraltar, the Channel Islands aren't even on the radar. Jersey is already decimated due to its tax haven ambitions, Brexit kills the patient. #RevokeArticle50
+79,79,79,2579547,1023897542919184384,49138111,positive,remain,2018-07-30T11:46:11.000Z,"Utterly astounding that, in 2018, there is a contingency plan to involve the army to deliver vital supplies in the event of a no deal brexit. It's the 21st century you fucking idiots not the 1800's. There is no fucking empire! #revokearticle50",['revokearticle50']
+80,80,80,4852002,1050829565650714624,3337058535,negative,other,2018-10-12T19:24:26.000Z,"Whilst the majority of Brexit focus is on NI, then a tiny bit on Gibraltar, the Channel Islands aren't even on the radar. Jersey is already decimated due to its tax haven ambitions, Brexit kills the patient. #RevokeArticle50
 https://t.co/nnTliFYpbL",['revokearticle50']
-2579546,1023897542919184384,49138111,positive,remain,2018-07-30T11:46:11.000Z,"Utterly astounding that, in 2018, there is a contingency plan to involve the army to deliver vital supplies in the event of a no deal brexit. It's the 21st century you fucking idiots not the 1800's. There is no fucking empire! #revokearticle50",['revokearticle50']
-2556033,1023666536689672192,621355415,positive,other,2018-07-29T20:28:15.000Z,"This is brilliant, insightful and informative with some fascinating little details and gives a great overview of the Brexit timeline and explanation of the general chaos at No 10 - you'll need half an hour but it's worth every minute 👍 #revokeArticle50 !!! https://t.co/OmPonTQsRS",['revokearticle50']
-2556032,1023666536689672192,621355415,positive,other,2018-07-29T20:28:15.000Z,"This is brilliant, insightful and informative with some fascinating little details and gives a great overview of the Brexit timeline and explanation of the general chaos at No 10 - you'll need half an hour but it's worth every minute 👍 #revokeArticle50 !!! https://t.co/OmPonTQsRS",['revokearticle50']
-2179223,1019682265675194368,930269286,neutral,leave,2018-07-18T20:36:11.000Z,@DavidLammy @mikegibson2010 You're right the referendum was advisory which means the result is not binding #brexit #Breximaniacs #RevokeArticle50,"['revokearticle50', 'breximaniacs', 'brexit']"
-2179222,1019682265675194368,930269286,neutral,leave,2018-07-18T20:36:11.000Z,@DavidLammy @mikegibson2010 You're right the referendum was advisory which means the result is not binding #brexit #Breximaniacs #RevokeArticle50,"['revokearticle50', 'breximaniacs', 'brexit']"
-1767031,1016352404701212672,336656405,negative,other,2018-07-09T16:04:30.000Z,They had 2 years to make #brexit work - they completely failed. Time to #revokeArticle50 and ask the EU to forgive the UK for this nonsense.,"['revokearticle50', 'brexit']"
-1767032,1016352404701212672,336656405,negative,other,2018-07-09T16:04:30.000Z,They had 2 years to make #brexit work - they completely failed. Time to #revokeArticle50 and ask the EU to forgive the UK for this nonsense.,"['revokearticle50', 'brexit']"
-2144109,1019483342687875072,747349420983754752,negative,remain,2018-07-18T07:25:44.000Z,@NickBoles #VoteLeaveBrokeTheLaw #LeaveEUBrokeTheLaw #BeLeaveBrokeTheLaw #RevokeArticle50 #StopBrexit #DeclareRefNull&amp;Void There is no mandate for Brexit.,"['revokearticle50', 'declarerefnull&void', 'stopbrexit', 'beleavebrokethelaw', 'voteleavebrokethelaw', 'leaveeubrokethelaw']"
-2144108,1019483342687875072,747349420983754752,negative,remain,2018-07-18T07:25:44.000Z,@NickBoles #VoteLeaveBrokeTheLaw #LeaveEUBrokeTheLaw #BeLeaveBrokeTheLaw #RevokeArticle50 #StopBrexit #DeclareRefNull&amp;Void There is no mandate for Brexit.,"['revokearticle50', 'declarerefnull&void', 'stopbrexit', 'beleavebrokethelaw', 'voteleavebrokethelaw', 'leaveeubrokethelaw']"
-3703756,1039042937148121088,434346330,positive,remain,2018-09-10T06:48:35.000Z,I've shared 'Johnson hasn’t a clue how to make Brexit work – and nor has anyone else' with you from The Independent Daily Edition #StopBrexit #ExitFromBrexit #FinalSay #PeoplesVote #RevokeArticle50 #BrexitShambles #FBPE  https://t.co/evCk8Ilmre,"['revokearticle50', 'finalsay', 'peoplesvote', 'stopbrexit', 'fbpe', 'exitfrombrexit', 'brexitshambles']"
-3703757,1039042937148121088,434346330,positive,remain,2018-09-10T06:48:35.000Z,I've shared 'Johnson hasn’t a clue how to make Brexit work – and nor has anyone else' with you from The Independent Daily Edition #StopBrexit #ExitFromBrexit #FinalSay #PeoplesVote #RevokeArticle50 #BrexitShambles #FBPE  https://t.co/evCk8Ilmre,"['revokearticle50', 'finalsay', 'peoplesvote', 'stopbrexit', 'fbpe', 'exitfrombrexit', 'brexitshambles']"
-3261439,1032886384091168768,483740511,negative,remain,2018-08-24T07:04:38.000Z,@5WrightStuff #Wrightstuff neither they are both #irresponsible and #culpable for harming the #UK with #brexit but it would be even more irresponsible for the chancellor NOT to #speakout about the #harm this #brexitshambles will cause! #RevokeArticle50,"['revokearticle50', 'speakout', 'culpable', 'harm', 'brexit', 'wrightstuff', 'irresponsible', 'brexitshambles', 'uk']"
-3261438,1032886384091168768,483740511,negative,remain,2018-08-24T07:04:38.000Z,@5WrightStuff #Wrightstuff neither they are both #irresponsible and #culpable for harming the #UK with #brexit but it would be even more irresponsible for the chancellor NOT to #speakout about the #harm this #brexitshambles will cause! #RevokeArticle50,"['revokearticle50', 'speakout', 'culpable', 'harm', 'brexit', 'wrightstuff', 'irresponsible', 'brexitshambles', 'uk']"
-2141145,1019469354877050880,747349420983754752,positive,remain,2018-07-18T06:30:09.000Z,@paulmasonnews @afewgoodfacts But much as I’d like to vote Labour I won’t until JC is deposed or Labour is anti Brexit. #StopBrexit #RevokeArticle50 #AntiSemitism #frauderendum,"['stopbrexit', 'antisemitism', 'frauderendum', 'revokearticle50']"
-2141146,1019469354877050880,747349420983754752,positive,remain,2018-07-18T06:30:09.000Z,@paulmasonnews @afewgoodfacts But much as I’d like to vote Labour I won’t until JC is deposed or Labour is anti Brexit. #StopBrexit #RevokeArticle50 #AntiSemitism #frauderendum,"['stopbrexit', 'antisemitism', 'frauderendum', 'revokearticle50']"
-2183686,1019721735854227456,141141836,negative,remain,2018-07-18T23:13:01.000Z,"@acgrayling The speed with which this #RevokeArticle50 because #VoteLeaveBrokeTheLaw petition is gaining signatures shows we Brits are sick to the back teeth of our dishonest, corrupt politicians and their damnable #Brexit. 
+81,81,81,2579546,1023897542919184384,49138111,positive,remain,2018-07-30T11:46:11.000Z,"Utterly astounding that, in 2018, there is a contingency plan to involve the army to deliver vital supplies in the event of a no deal brexit. It's the 21st century you fucking idiots not the 1800's. There is no fucking empire! #revokearticle50",['revokearticle50']
+82,82,82,2556033,1023666536689672192,621355415,positive,other,2018-07-29T20:28:15.000Z,"This is brilliant, insightful and informative with some fascinating little details and gives a great overview of the Brexit timeline and explanation of the general chaos at No 10 - you'll need half an hour but it's worth every minute 👍 #revokeArticle50 !!! https://t.co/OmPonTQsRS",['revokearticle50']
+83,83,83,2556032,1023666536689672192,621355415,positive,other,2018-07-29T20:28:15.000Z,"This is brilliant, insightful and informative with some fascinating little details and gives a great overview of the Brexit timeline and explanation of the general chaos at No 10 - you'll need half an hour but it's worth every minute 👍 #revokeArticle50 !!! https://t.co/OmPonTQsRS",['revokearticle50']
+84,84,84,2179223,1019682265675194368,930269286,neutral,leave,2018-07-18T20:36:11.000Z,@DavidLammy @mikegibson2010 You're right the referendum was advisory which means the result is not binding #brexit #Breximaniacs #RevokeArticle50,"['revokearticle50', 'breximaniacs', 'brexit']"
+85,85,85,2179222,1019682265675194368,930269286,neutral,leave,2018-07-18T20:36:11.000Z,@DavidLammy @mikegibson2010 You're right the referendum was advisory which means the result is not binding #brexit #Breximaniacs #RevokeArticle50,"['revokearticle50', 'breximaniacs', 'brexit']"
+86,86,86,1767031,1016352404701212672,336656405,negative,other,2018-07-09T16:04:30.000Z,They had 2 years to make #brexit work - they completely failed. Time to #revokeArticle50 and ask the EU to forgive the UK for this nonsense.,"['revokearticle50', 'brexit']"
+87,87,87,1767032,1016352404701212672,336656405,negative,other,2018-07-09T16:04:30.000Z,They had 2 years to make #brexit work - they completely failed. Time to #revokeArticle50 and ask the EU to forgive the UK for this nonsense.,"['revokearticle50', 'brexit']"
+88,88,88,2144109,1019483342687875072,747349420983754752,negative,remain,2018-07-18T07:25:44.000Z,@NickBoles #VoteLeaveBrokeTheLaw #LeaveEUBrokeTheLaw #BeLeaveBrokeTheLaw #RevokeArticle50 #StopBrexit #DeclareRefNull&amp;Void There is no mandate for Brexit.,"['revokearticle50', 'declarerefnull&void', 'stopbrexit', 'beleavebrokethelaw', 'voteleavebrokethelaw', 'leaveeubrokethelaw']"
+89,89,89,2144108,1019483342687875072,747349420983754752,negative,remain,2018-07-18T07:25:44.000Z,@NickBoles #VoteLeaveBrokeTheLaw #LeaveEUBrokeTheLaw #BeLeaveBrokeTheLaw #RevokeArticle50 #StopBrexit #DeclareRefNull&amp;Void There is no mandate for Brexit.,"['revokearticle50', 'declarerefnull&void', 'stopbrexit', 'beleavebrokethelaw', 'voteleavebrokethelaw', 'leaveeubrokethelaw']"
+90,90,90,3703756,1039042937148121088,434346330,positive,remain,2018-09-10T06:48:35.000Z,I've shared 'Johnson hasn’t a clue how to make Brexit work – and nor has anyone else' with you from The Independent Daily Edition #StopBrexit #ExitFromBrexit #FinalSay #PeoplesVote #RevokeArticle50 #BrexitShambles #FBPE  https://t.co/evCk8Ilmre,"['revokearticle50', 'finalsay', 'peoplesvote', 'stopbrexit', 'fbpe', 'exitfrombrexit', 'brexitshambles']"
+91,91,91,3703757,1039042937148121088,434346330,positive,remain,2018-09-10T06:48:35.000Z,I've shared 'Johnson hasn’t a clue how to make Brexit work – and nor has anyone else' with you from The Independent Daily Edition #StopBrexit #ExitFromBrexit #FinalSay #PeoplesVote #RevokeArticle50 #BrexitShambles #FBPE  https://t.co/evCk8Ilmre,"['revokearticle50', 'finalsay', 'peoplesvote', 'stopbrexit', 'fbpe', 'exitfrombrexit', 'brexitshambles']"
+92,92,92,3261439,1032886384091168768,483740511,negative,remain,2018-08-24T07:04:38.000Z,@5WrightStuff #Wrightstuff neither they are both #irresponsible and #culpable for harming the #UK with #brexit but it would be even more irresponsible for the chancellor NOT to #speakout about the #harm this #brexitshambles will cause! #RevokeArticle50,"['revokearticle50', 'speakout', 'culpable', 'harm', 'brexit', 'wrightstuff', 'irresponsible', 'brexitshambles', 'uk']"
+93,93,93,3261438,1032886384091168768,483740511,negative,remain,2018-08-24T07:04:38.000Z,@5WrightStuff #Wrightstuff neither they are both #irresponsible and #culpable for harming the #UK with #brexit but it would be even more irresponsible for the chancellor NOT to #speakout about the #harm this #brexitshambles will cause! #RevokeArticle50,"['revokearticle50', 'speakout', 'culpable', 'harm', 'brexit', 'wrightstuff', 'irresponsible', 'brexitshambles', 'uk']"
+94,94,94,2141145,1019469354877050880,747349420983754752,positive,remain,2018-07-18T06:30:09.000Z,@paulmasonnews @afewgoodfacts But much as I’d like to vote Labour I won’t until JC is deposed or Labour is anti Brexit. #StopBrexit #RevokeArticle50 #AntiSemitism #frauderendum,"['stopbrexit', 'antisemitism', 'frauderendum', 'revokearticle50']"
+95,95,95,2141146,1019469354877050880,747349420983754752,positive,remain,2018-07-18T06:30:09.000Z,@paulmasonnews @afewgoodfacts But much as I’d like to vote Labour I won’t until JC is deposed or Labour is anti Brexit. #StopBrexit #RevokeArticle50 #AntiSemitism #frauderendum,"['stopbrexit', 'antisemitism', 'frauderendum', 'revokearticle50']"
+96,96,96,2183686,1019721735854227456,141141836,negative,remain,2018-07-18T23:13:01.000Z,"@acgrayling The speed with which this #RevokeArticle50 because #VoteLeaveBrokeTheLaw petition is gaining signatures shows we Brits are sick to the back teeth of our dishonest, corrupt politicians and their damnable #Brexit. 
 
 Please keep signing &amp; sharing: https://t.co/vAMOaLAyZh
 #StopBrexit","['stopbrexit', 'brexit', 'voteleavebrokethelaw', 'revokearticle50']"
-2183685,1019721735854227456,141141836,negative,remain,2018-07-18T23:13:01.000Z,"@acgrayling The speed with which this #RevokeArticle50 because #VoteLeaveBrokeTheLaw petition is gaining signatures shows we Brits are sick to the back teeth of our dishonest, corrupt politicians and their damnable #Brexit. 
+97,97,97,2183685,1019721735854227456,141141836,negative,remain,2018-07-18T23:13:01.000Z,"@acgrayling The speed with which this #RevokeArticle50 because #VoteLeaveBrokeTheLaw petition is gaining signatures shows we Brits are sick to the back teeth of our dishonest, corrupt politicians and their damnable #Brexit. 
 
 Please keep signing &amp; sharing: https://t.co/vAMOaLAyZh
 #StopBrexit","['stopbrexit', 'brexit', 'voteleavebrokethelaw', 'revokearticle50']"
-2113799,1019232593349435392,747349420983754752,positive,leave,2018-07-17T14:49:21.000Z,@andreajenkyns Copious 🦄🦄🦄🦄🦄🦄🦄🦄🦄 yearning to keep the illusionary faith. Brexit is a phyrrhic victory. #StopBrexit #RevokeArticle50 #VoteLeaveCheated #Democracy,"['stopbrexit', 'democracy', 'voteleavecheated', 'revokearticle50']"
-2113800,1019232593349435392,747349420983754752,positive,leave,2018-07-17T14:49:21.000Z,@andreajenkyns Copious 🦄🦄🦄🦄🦄🦄🦄🦄🦄 yearning to keep the illusionary faith. Brexit is a phyrrhic victory. #StopBrexit #RevokeArticle50 #VoteLeaveCheated #Democracy,"['stopbrexit', 'democracy', 'voteleavecheated', 'revokearticle50']"
-2064815,1018944825637433344,747349420983754752,neutral,remain,2018-07-16T19:45:52.000Z,"Two choices only, a binary In/Remain or Out/Brexit #StopBrexit #RevokeArticle50 #PeoplesVote #BrexitIs💩 https://t.co/tjJvOYrsaF","['stopbrexit', 'peoplesvote', 'brexitis💩', 'revokearticle50']"
-2064814,1018944825637433344,747349420983754752,neutral,remain,2018-07-16T19:45:52.000Z,"Two choices only, a binary In/Remain or Out/Brexit #StopBrexit #RevokeArticle50 #PeoplesVote #BrexitIs💩 https://t.co/tjJvOYrsaF","['stopbrexit', 'peoplesvote', 'brexitis💩', 'revokearticle50']"
-2035154,1018755173374668800,747349420983754752,negative,remain,2018-07-16T07:12:15.000Z,@sarahwollaston @KeohaneDan #StopBrexit #PeoplesVote #RevokeArticle50 Brexit is a catastrophe 😳🤬,"['stopbrexit', 'peoplesvote', 'revokearticle50']"
-2035155,1018755173374668800,747349420983754752,negative,remain,2018-07-16T07:12:15.000Z,@sarahwollaston @KeohaneDan #StopBrexit #PeoplesVote #RevokeArticle50 Brexit is a catastrophe 😳🤬,"['stopbrexit', 'peoplesvote', 'revokearticle50']"
-2559495,1023703564240207872,35835330,neutral,remain,2018-07-29T22:55:23.000Z,I think (thought?) that was pretty much the opinion on all of the #EU27 members? That they don't want Britain to #brexit and would welcome #stopbrexit #revokearticle50 happily accepting an Article 50 withdrawal 🙏 https://t.co/8cpk2s4Z5A,"['stopbrexit', 'revokearticle50', 'eu27', 'brexit']"
-2559494,1023703564240207872,35835330,neutral,remain,2018-07-29T22:55:23.000Z,I think (thought?) that was pretty much the opinion on all of the #EU27 members? That they don't want Britain to #brexit and would welcome #stopbrexit #revokearticle50 happily accepting an Article 50 withdrawal 🙏 https://t.co/8cpk2s4Z5A,"['stopbrexit', 'revokearticle50', 'eu27', 'brexit']"
-3247158,1032684245054119936,591934445,positive,remain,2018-08-23T17:41:25.000Z,Surely the fact that we are having to do this tells us that it is probably not a good idea? 🤔 Unbelievable. #brexitshambles #brexit #remain #leave #stopbrexit #EUcitizens #the3million #PeoplesVote #FinalSayForAll #revokearticle50 https://t.co/JSppIT62zQ,"['stopbrexit', 'the3million', 'eucitizens', 'remain', 'peoplesvote', 'revokearticle50', 'finalsayforall', 'brexit', 'leave', 'brexitshambles']"
-3247157,1032684245054119936,591934445,positive,remain,2018-08-23T17:41:25.000Z,Surely the fact that we are having to do this tells us that it is probably not a good idea? 🤔 Unbelievable. #brexitshambles #brexit #remain #leave #stopbrexit #EUcitizens #the3million #PeoplesVote #FinalSayForAll #revokearticle50 https://t.co/JSppIT62zQ,"['stopbrexit', 'the3million', 'eucitizens', 'remain', 'peoplesvote', 'revokearticle50', 'finalsayforall', 'brexit', 'leave', 'brexitshambles']"
-2033298,1018737429333905408,4895565605,positive,other,2018-07-16T06:01:45.000Z,#Brexit is not in our national interest. Fullstop. #revokearticle50 #StopBrexitSaveBritain https://t.co/JTfPGj0sGj,"['stopbrexitsavebritain', 'brexit', 'revokearticle50']"
-2033299,1018737429333905408,4895565605,positive,other,2018-07-16T06:01:45.000Z,#Brexit is not in our national interest. Fullstop. #revokearticle50 #StopBrexitSaveBritain https://t.co/JTfPGj0sGj,"['stopbrexitsavebritain', 'brexit', 'revokearticle50']"
-2410277,1022157358481518592,2778314046,negative,remain,2018-07-25T16:31:19.000Z,"@DCBMEP Brexit is destroying the United Kingdom and its enablers will be held to account - if it ever happens.
+98,98,98,2113799,1019232593349435392,747349420983754752,positive,leave,2018-07-17T14:49:21.000Z,@andreajenkyns Copious 🦄🦄🦄🦄🦄🦄🦄🦄🦄 yearning to keep the illusionary faith. Brexit is a phyrrhic victory. #StopBrexit #RevokeArticle50 #VoteLeaveCheated #Democracy,"['stopbrexit', 'democracy', 'voteleavecheated', 'revokearticle50']"
+99,99,99,2113800,1019232593349435392,747349420983754752,positive,leave,2018-07-17T14:49:21.000Z,@andreajenkyns Copious 🦄🦄🦄🦄🦄🦄🦄🦄🦄 yearning to keep the illusionary faith. Brexit is a phyrrhic victory. #StopBrexit #RevokeArticle50 #VoteLeaveCheated #Democracy,"['stopbrexit', 'democracy', 'voteleavecheated', 'revokearticle50']"
+100,100,100,2064815,1018944825637433344,747349420983754752,neutral,remain,2018-07-16T19:45:52.000Z,"Two choices only, a binary In/Remain or Out/Brexit #StopBrexit #RevokeArticle50 #PeoplesVote #BrexitIs💩 https://t.co/tjJvOYrsaF","['stopbrexit', 'peoplesvote', 'brexitis💩', 'revokearticle50']"
+101,101,101,2064814,1018944825637433344,747349420983754752,neutral,remain,2018-07-16T19:45:52.000Z,"Two choices only, a binary In/Remain or Out/Brexit #StopBrexit #RevokeArticle50 #PeoplesVote #BrexitIs💩 https://t.co/tjJvOYrsaF","['stopbrexit', 'peoplesvote', 'brexitis💩', 'revokearticle50']"
+102,102,102,2035154,1018755173374668800,747349420983754752,negative,remain,2018-07-16T07:12:15.000Z,@sarahwollaston @KeohaneDan #StopBrexit #PeoplesVote #RevokeArticle50 Brexit is a catastrophe 😳🤬,"['stopbrexit', 'peoplesvote', 'revokearticle50']"
+103,103,103,2035155,1018755173374668800,747349420983754752,negative,remain,2018-07-16T07:12:15.000Z,@sarahwollaston @KeohaneDan #StopBrexit #PeoplesVote #RevokeArticle50 Brexit is a catastrophe 😳🤬,"['stopbrexit', 'peoplesvote', 'revokearticle50']"
+104,104,104,2559495,1023703564240207872,35835330,neutral,remain,2018-07-29T22:55:23.000Z,I think (thought?) that was pretty much the opinion on all of the #EU27 members? That they don't want Britain to #brexit and would welcome #stopbrexit #revokearticle50 happily accepting an Article 50 withdrawal 🙏 https://t.co/8cpk2s4Z5A,"['stopbrexit', 'revokearticle50', 'eu27', 'brexit']"
+105,105,105,2559494,1023703564240207872,35835330,neutral,remain,2018-07-29T22:55:23.000Z,I think (thought?) that was pretty much the opinion on all of the #EU27 members? That they don't want Britain to #brexit and would welcome #stopbrexit #revokearticle50 happily accepting an Article 50 withdrawal 🙏 https://t.co/8cpk2s4Z5A,"['stopbrexit', 'revokearticle50', 'eu27', 'brexit']"
+106,106,106,3247158,1032684245054119936,591934445,positive,remain,2018-08-23T17:41:25.000Z,Surely the fact that we are having to do this tells us that it is probably not a good idea? 🤔 Unbelievable. #brexitshambles #brexit #remain #leave #stopbrexit #EUcitizens #the3million #PeoplesVote #FinalSayForAll #revokearticle50 https://t.co/JSppIT62zQ,"['stopbrexit', 'the3million', 'eucitizens', 'remain', 'peoplesvote', 'revokearticle50', 'finalsayforall', 'brexit', 'leave', 'brexitshambles']"
+107,107,107,3247157,1032684245054119936,591934445,positive,remain,2018-08-23T17:41:25.000Z,Surely the fact that we are having to do this tells us that it is probably not a good idea? 🤔 Unbelievable. #brexitshambles #brexit #remain #leave #stopbrexit #EUcitizens #the3million #PeoplesVote #FinalSayForAll #revokearticle50 https://t.co/JSppIT62zQ,"['stopbrexit', 'the3million', 'eucitizens', 'remain', 'peoplesvote', 'revokearticle50', 'finalsayforall', 'brexit', 'leave', 'brexitshambles']"
+108,108,108,2033298,1018737429333905408,4895565605,positive,other,2018-07-16T06:01:45.000Z,#Brexit is not in our national interest. Fullstop. #revokearticle50 #StopBrexitSaveBritain https://t.co/JTfPGj0sGj,"['stopbrexitsavebritain', 'brexit', 'revokearticle50']"
+109,109,109,2033299,1018737429333905408,4895565605,positive,other,2018-07-16T06:01:45.000Z,#Brexit is not in our national interest. Fullstop. #revokearticle50 #StopBrexitSaveBritain https://t.co/JTfPGj0sGj,"['stopbrexitsavebritain', 'brexit', 'revokearticle50']"
+110,110,110,2410277,1022157358481518592,2778314046,negative,remain,2018-07-25T16:31:19.000Z,"@DCBMEP Brexit is destroying the United Kingdom and its enablers will be held to account - if it ever happens.
 
 #FBPE #RevokeArticle50 #StopBrexitSaveBritain","['stopbrexitsavebritain', 'fbpe', 'revokearticle50']"
-2410276,1022157358481518592,2778314046,negative,remain,2018-07-25T16:31:19.000Z,"@DCBMEP Brexit is destroying the United Kingdom and its enablers will be held to account - if it ever happens.
+111,111,111,2410276,1022157358481518592,2778314046,negative,remain,2018-07-25T16:31:19.000Z,"@DCBMEP Brexit is destroying the United Kingdom and its enablers will be held to account - if it ever happens.
 
 #FBPE #RevokeArticle50 #StopBrexitSaveBritain","['stopbrexitsavebritain', 'fbpe', 'revokearticle50']"
-993424,1007707048824442880,2965188994,negative,leave,2018-06-15T19:30:57.000Z,"Never too late to let your own Member of Parliament know that #VoteLeave secured an outcome to #EURef2016 by cheating. #Democracy for sale?
+112,112,112,993424,1007707048824442880,2965188994,negative,leave,2018-06-15T19:30:57.000Z,"Never too late to let your own Member of Parliament know that #VoteLeave secured an outcome to #EURef2016 by cheating. #Democracy for sale?
 Time to #RevokeArticle50 now.
  #StopBrexitSaveBritain #waton #FBPE #SODEMaction #Brexit #EUWithdrawalBill https://t.co/y1caQ7t5Fj","['stopbrexitsavebritain', 'voteleave', 'revokearticle50', 'democracy', 'brexit', 'euwithdrawalbill', 'euref2016', 'fbpe', 'sodemaction', 'waton']"
-993425,1007707048824442880,2965188994,negative,leave,2018-06-15T19:30:57.000Z,"Never too late to let your own Member of Parliament know that #VoteLeave secured an outcome to #EURef2016 by cheating. #Democracy for sale?
+113,113,113,993425,1007707048824442880,2965188994,negative,leave,2018-06-15T19:30:57.000Z,"Never too late to let your own Member of Parliament know that #VoteLeave secured an outcome to #EURef2016 by cheating. #Democracy for sale?
 Time to #RevokeArticle50 now.
  #StopBrexitSaveBritain #waton #FBPE #SODEMaction #Brexit #EUWithdrawalBill https://t.co/y1caQ7t5Fj","['stopbrexitsavebritain', 'voteleave', 'revokearticle50', 'democracy', 'brexit', 'euwithdrawalbill', 'euref2016', 'fbpe', 'sodemaction', 'waton']"
-1969686,1017890477255905280,44916723,negative,remain,2018-07-13T21:56:15.000Z,"@DavidLammy #ThisIsNotTheBrexitWeWerePromised
+114,114,114,1969686,1017890477255905280,44916723,negative,remain,2018-07-13T21:56:15.000Z,"@DavidLammy #ThisIsNotTheBrexitWeWerePromised
 
 No ""exact same benefits""
 No ""considerable upside""
@@ -223,7 +223,7 @@ While there are those that want to Leave at any cost, many Leavers voted for the
 There is no mandate for May's Brexit.
 
 #RevokeArticle50","['thisisnotthebrexitwewerepromised', 'revokearticle50']"
-1969687,1017890477255905280,44916723,negative,remain,2018-07-13T21:56:15.000Z,"@DavidLammy #ThisIsNotTheBrexitWeWerePromised
+115,115,115,1969687,1017890477255905280,44916723,negative,remain,2018-07-13T21:56:15.000Z,"@DavidLammy #ThisIsNotTheBrexitWeWerePromised
 
 No ""exact same benefits""
 No ""considerable upside""
@@ -234,7 +234,7 @@ While there are those that want to Leave at any cost, many Leavers voted for the
 There is no mandate for May's Brexit.
 
 #RevokeArticle50","['thisisnotthebrexitwewerepromised', 'revokearticle50']"
-1947051,1017728288318541824,44916723,negative,leave,2018-07-13T11:11:47.000Z,"@Jacob_Rees_Mogg #ThisIsNotTheBrexitWeWerePromised
+116,116,116,1947051,1017728288318541824,44916723,negative,leave,2018-07-13T11:11:47.000Z,"@Jacob_Rees_Mogg #ThisIsNotTheBrexitWeWerePromised
 
 No ""exact same benefits""
 No ""40 trade deals by the time we leave""
@@ -245,7 +245,7 @@ The Brexit being delivered is not the Brexit advertised.
 And there's no time to fix it.
 
 Retreat, regroup, retry. #RevokeArticle50","['thisisnotthebrexitwewerepromised', 'revokearticle50']"
-1947050,1017728288318541824,44916723,negative,leave,2018-07-13T11:11:47.000Z,"@Jacob_Rees_Mogg #ThisIsNotTheBrexitWeWerePromised
+117,117,117,1947050,1017728288318541824,44916723,negative,leave,2018-07-13T11:11:47.000Z,"@Jacob_Rees_Mogg #ThisIsNotTheBrexitWeWerePromised
 
 No ""exact same benefits""
 No ""40 trade deals by the time we leave""
@@ -256,24 +256,24 @@ The Brexit being delivered is not the Brexit advertised.
 And there's no time to fix it.
 
 Retreat, regroup, retry. #RevokeArticle50","['thisisnotthebrexitwewerepromised', 'revokearticle50']"
-3398968,1086624993172164608,4822348019,neutral,other,2019-01-19T14:02:41.000Z,"Oh, I missed the obligatory 1,000th tweet celebration. Oh, well. Let's make it Tweet #1010
+118,118,118,3398968,1086624993172164608,4822348019,neutral,other,2019-01-19T14:02:41.000Z,"Oh, I missed the obligatory 1,000th tweet celebration. Oh, well. Let's make it Tweet #1010
 
 Here's to 1,010 more, and in the meantime, let's stop Brexit and heal the country. #RevokeArticle50 #PeoplesVoteNow #DontBrexitFixIt #RemainandReform","['1010', 'peoplesvotenow', 'revokearticle50', 'dontbrexitfixit', 'remainandreform']"
-3288072,1085500751634448384,991089363487526656,neutral,other,2019-01-16T11:35:21.000Z,"The Brexit vote happened because the EU refused to offer Cameron enough flexibility on Freedom of Movement.
+119,119,119,3288072,1085500751634448384,991089363487526656,neutral,other,2019-01-16T11:35:21.000Z,"The Brexit vote happened because the EU refused to offer Cameron enough flexibility on Freedom of Movement.
 
 EU should now ditch the Withdrawal Agreement and offer better FoM terms for the UK to remain. Then 2nd Ref &amp; UK would back remain.
 #Brexit
 #RevokeArticle50
 #2ndReferendum","['2ndreferendum', 'brexit', 'revokearticle50']"
-3382151,1086359079369560064,2352351006,neutral,remain,2019-01-18T20:26:02.000Z,"The British people should get the final say on the Brexit deal, with the option to remain in the EU. Agree? Add your name: https://t.co/P96sFkMUvK #2ndReferendum #RevokeArticle50","['2ndreferendum', 'revokearticle50']"
-3116233,1083605787933581312,636127267,neutral,remain,2019-01-11T06:05:26.000Z,"@DamianGreen Interesting that 4500 jobs are going at Jaguar Landrover, with other companies announcing similar redundancies with #77Days until the Tory disaster of #Brexit. #RevokeArticle50 Stay in the EU, with the same terms!","['77days', 'brexit', 'revokearticle50']"
-3417398,1086966487657648128,35413612,negative,remain,2019-01-20T12:39:40.000Z,"@CornishSkipper @andrealeadsom @Steven_Swinford @RCorbettMEP We know brexit will make current and future pensions worse off
+120,120,120,3382151,1086359079369560064,2352351006,neutral,remain,2019-01-18T20:26:02.000Z,"The British people should get the final say on the Brexit deal, with the option to remain in the EU. Agree? Add your name: https://t.co/P96sFkMUvK #2ndReferendum #RevokeArticle50","['2ndreferendum', 'revokearticle50']"
+121,121,121,3116233,1083605787933581312,636127267,neutral,remain,2019-01-11T06:05:26.000Z,"@DamianGreen Interesting that 4500 jobs are going at Jaguar Landrover, with other companies announcing similar redundancies with #77Days until the Tory disaster of #Brexit. #RevokeArticle50 Stay in the EU, with the same terms!","['77days', 'brexit', 'revokearticle50']"
+122,122,122,3417398,1086966487657648128,35413612,negative,remain,2019-01-20T12:39:40.000Z,"@CornishSkipper @andrealeadsom @Steven_Swinford @RCorbettMEP We know brexit will make current and future pensions worse off
 
 Time for some sensible discussions!
 
 #LeaveMeansLESS #StopBrexit #RevokeArticle50 #PeoplesVote #ABTV
 https://t.co/YGPuwMXV0P https://t.co/3Omvuk2qjq","['abtv', 'revokearticle50', 'leavemeansless', 'peoplesvote', 'stopbrexit']"
-3410015,1086898565551718400,35413612,negative,remain,2019-01-20T08:09:46.000Z,"So #marr please discuss this!  @UKLabour @Conservatives 
+123,123,123,3410015,1086898565551718400,35413612,negative,remain,2019-01-20T08:09:46.000Z,"So #marr please discuss this!  @UKLabour @Conservatives 
 
 EVERY Brexit is BAD for current &amp; future #Pensioners!
 
@@ -281,27 +281,27 @@ EVERY Brexit is BAD for current &amp; future #Pensioners!
 
 #WeDeserveBetter #PeoplesVote #ABTV #RevokeArticle50 
 Source from the UK GOVERNMENT: https://t.co/YGPuwMXV0P https://t.co/WMhDjlzKEN","['abtv', 'revokearticle50', 'pensioners', 'peoplesvote', 'stopbrexit', 'wedeservebetter', 'marr', 'leavemeansless']"
-2509520,1072976649417867264,35413612,positive,leave,2018-12-12T22:09:02.000Z,"@cocteau8 @eddiemarsan I disagree - JC say he WANTS Brexit  
+124,124,124,2509520,1072976649417867264,35413612,positive,leave,2018-12-12T22:09:02.000Z,"@cocteau8 @eddiemarsan I disagree - JC say he WANTS Brexit  
 
 #StopBrexit #RevokeArticle50 #PeoplesVote
 
 In case of a #GE - unite behind the best #ABTV candidate to defeat current incumbent - we need to help many find the courage to stand up and vote a different way #DontGetFooledAGAIN","['abtv', 'revokearticle50', 'peoplesvote', 'dontgetfooledagain', 'stopbrexit', 'ge']"
-2373325,1072138441486405632,35413612,negative,remain,2018-12-10T14:38:18.000Z,"Brexit added £2bn to UK energy bills in year after referendum, report claims https://t.co/J9jlb8cu5U
+125,125,125,2373325,1072138441486405632,35413612,negative,remain,2018-12-10T14:38:18.000Z,"Brexit added £2bn to UK energy bills in year after referendum, report claims https://t.co/J9jlb8cu5U
 
 NO ONE voted for this in 2016 - Where are all those savings?  What has the #NHS received?  Nothing...  #StopBrexit - Demand #RevokeArticle50 &amp; a #PeoplesVote - Use #ABTV @ #GE https://t.co/ycofcH9LyI","['abtv', 'revokearticle50', 'peoplesvote', 'stopbrexit', 'nhs', 'ge']"
-3183131,1084777376377118720,35413612,positive,remain,2019-01-14T11:40:55.000Z,"More than 100 MEPs from every corner of EU sign heartfelt letter asking British people to reconsider Brexit https://t.co/RajY6yLl3c
+126,126,126,3183131,1084777376377118720,35413612,positive,remain,2019-01-14T11:40:55.000Z,"More than 100 MEPs from every corner of EU sign heartfelt letter asking British people to reconsider Brexit https://t.co/RajY6yLl3c
 
 We are #StrongerTogether! #FBPE  Just https://t.co/Q9XN9SefsU &amp; then decide.
 
 Be prepared for #ABTV if MPs don't #RevokeArticle50 #StopFundingHate https://t.co/FNqfsHt9GE","['abtv', 'revokearticle50', 'stopfundinghate', 'fbpe', 'strongertogether']"
-3177533,1084720389182369792,147698715,negative,other,2019-01-14T07:54:28.000Z,. @EstherMcVey1 the ‘trade’ expert spouting nonsense on @GMB will totally screw us all as much as she has screwed the disabled and those on benefit in this country. I do not trust a single word that comes out of her mouth. #arrogant #myopic #dangerous #brexit #RevokeArticle50,"['arrogant', 'myopic', 'revokearticle50', 'brexit', 'dangerous']"
-1802116,1067600377879674880,19227069,positive,other,2018-11-28T02:05:39.000Z,"@JolyonMaugham ""Be careful of knowledge, it might add to your wisdom and set you free."" 
+127,127,127,3177533,1084720389182369792,147698715,negative,other,2019-01-14T07:54:28.000Z,. @EstherMcVey1 the ‘trade’ expert spouting nonsense on @GMB will totally screw us all as much as she has screwed the disabled and those on benefit in this country. I do not trust a single word that comes out of her mouth. #arrogant #myopic #dangerous #brexit #RevokeArticle50,"['arrogant', 'myopic', 'revokearticle50', 'brexit', 'dangerous']"
+128,128,128,1802116,1067600377879674880,19227069,positive,other,2018-11-28T02:05:39.000Z,"@JolyonMaugham ""Be careful of knowledge, it might add to your wisdom and set you free."" 
 #Brexit #Art50 #RevokeArticle50","['art50', 'brexit', 'revokearticle50']"
-1802115,1067600377879674880,19227069,positive,other,2018-11-28T02:05:39.000Z,"@JolyonMaugham ""Be careful of knowledge, it might add to your wisdom and set you free."" 
+129,129,129,1802115,1067600377879674880,19227069,positive,other,2018-11-28T02:05:39.000Z,"@JolyonMaugham ""Be careful of knowledge, it might add to your wisdom and set you free."" 
 #Brexit #Art50 #RevokeArticle50","['art50', 'brexit', 'revokearticle50']"
-2873183,1079031074834001920,19227069,negative,remain,2018-12-29T15:07:10.000Z,"@ShedDark @AndrewTait67 @KhaledElawadi @Femi_Sorry @jeremycorbyn There clearly won't be an election before #Brexit. There's almost no time left (&amp; no will from May) for a PV/#FinalSay, May's Deal won't pass &amp; #NoDeal is the worst of all worlds. 
+130,130,130,2873183,1079031074834001920,19227069,negative,remain,2018-12-29T15:07:10.000Z,"@ShedDark @AndrewTait67 @KhaledElawadi @Femi_Sorry @jeremycorbyn There clearly won't be an election before #Brexit. There's almost no time left (&amp; no will from May) for a PV/#FinalSay, May's Deal won't pass &amp; #NoDeal is the worst of all worlds. 
 Likeliest solution now is extension of #Art50, though preferably #RevokeArticle50 &amp; rewrite it!","['art50', 'nodeal', 'brexit', 'revokearticle50']"
-3335065,1085881646929211392,141141836,negative,other,2019-01-17T12:48:53.000Z,"@Xander_Fox_ @dasvee @itiddly @BobMorris561 @tnewtondunn What an unholy mess.
+131,131,131,3335065,1085881646929211392,141141836,negative,other,2019-01-17T12:48:53.000Z,"@Xander_Fox_ @dasvee @itiddly @BobMorris561 @tnewtondunn What an unholy mess.
 
 Ref was honoured by triggering #Article50 &amp; exploring #Brexit options.
 
@@ -310,32 +310,32 @@ PM negotiated only deal possible given all the red lines #ERG imposed on her.
 Commons rejected that deal 432-202.
 
 #Brexit has failed. Time to do the grown up thing &amp; #RevokeArticle50.","['article50', 'brexit', 'revokearticle50', 'erg']"
-2212095,1070448384048357376,20194914,neutral,remain,2018-12-05T22:42:37.000Z,"Googling ‘moving to Iceland’
+132,132,132,2212095,1070448384048357376,20194914,neutral,remain,2018-12-05T22:42:37.000Z,"Googling ‘moving to Iceland’
 
 #Brexit
 #Brexitchaos
 #cantwealljustadmitthisisareallyreallystupidideaandadmitwemadeamistakeandwanttostay
 #article50
 #revokearticle50","['article50', 'brexitchaos', 'brexit', 'revokearticle50', 'cantwealljustadmitthisisareallyreallystupidideaandadmitwemadeamistakeandwanttostay']"
-2212094,1070448384048357376,20194914,neutral,remain,2018-12-05T22:42:37.000Z,"Googling ‘moving to Iceland’
+133,133,133,2212094,1070448384048357376,20194914,neutral,remain,2018-12-05T22:42:37.000Z,"Googling ‘moving to Iceland’
 
 #Brexit
 #Brexitchaos
 #cantwealljustadmitthisisareallyreallystupidideaandadmitwemadeamistakeandwanttostay
 #article50
 #revokearticle50","['article50', 'brexitchaos', 'brexit', 'revokearticle50', 'cantwealljustadmitthisisareallyreallystupidideaandadmitwemadeamistakeandwanttostay']"
-2939807,1080447211413127168,340545072,negative,other,2019-01-02T12:54:23.000Z,We do have an unilateral option of revoking article50? Why does no one speak of this as an option not 2crash out!?#RevokeA50 #RevokeArticle50 #bbcnews #skynews #channel4news #Brexit @HouseofCommons @UKParliament @UKLabour @vincecable @NicolaSturgeon @campbellclaret @Anna_Soubry,"['bbcnews', 'revokearticle50', 'brexit', 'channel4news', 'skynews']"
-2582447,1073641414116954112,3432562233,negative,remain,2018-12-14T18:10:35.000Z,"@theresa_may just stop it! It's beyond embarrassing!
+134,134,134,2939807,1080447211413127168,340545072,negative,other,2019-01-02T12:54:23.000Z,We do have an unilateral option of revoking article50? Why does no one speak of this as an option not 2crash out!?#RevokeA50 #RevokeArticle50 #bbcnews #skynews #channel4news #Brexit @HouseofCommons @UKParliament @UKLabour @vincecable @NicolaSturgeon @campbellclaret @Anna_Soubry,"['bbcnews', 'revokearticle50', 'brexit', 'channel4news', 'skynews']"
+135,135,135,2582447,1073641414116954112,3432562233,negative,remain,2018-12-14T18:10:35.000Z,"@theresa_may just stop it! It's beyond embarrassing!
 #bbcnews @BBCPolitics #Brexit #brexitshambles #BrexitDeal #StopBrexit #BrexitMadness #RevokeArticle50 #ToriesOut #ToryBrexit #GetTheToriesOut #GeneralElectionNow https://t.co/ynAKBW7lZ5","['bbcnews', 'revokearticle50', 'brexitdeal', 'generalelectionnow', 'brexit', 'torybrexit', 'getthetoriesout', 'stopbrexit', 'brexitmadness', 'brexitshambles', 'toriesout']"
-2402833,1072246253885579264,22934133,positive,leave,2018-12-10T21:46:42.000Z,"@BBCOS #bbcos parliament must take back control from the people and #revokeArticle50 . Parliament is sovereign for a reason, it’s a filter against mob rule. Anyone that has a good argument for #brexit must be capable of winning a seat.","['bbcos', 'revokearticle50', 'brexit']"
-3342485,1085948460359131136,423631989,positive,remain,2019-01-17T17:14:23.000Z,I seem to remember the Tories have a process where MPs vote to whittle down leadership candidates to two options and then LET THEIR MEMBERS have the final say! Why not do this for brexit options? #RevokeArticle50 #PeoplesVote #bbcpm,"['bbcpm', 'peoplesvote', 'revokearticle50']"
-3354994,1086078585750749184,340545072,positive,other,2019-01-18T01:51:27.000Z,Revealed: details of exclusive Russian deal offered to Arron Banks in #Brexit run-up #PeoplesVote #RevokeArticle50 ⁦@HouseofCommons⁩ #bbcqt ⁦@UKParliament⁩  https://t.co/VCadeAj4a8,"['bbcqt', 'brexit', 'peoplesvote', 'revokearticle50']"
-3112194,1083497891392638976,353022633,positive,other,2019-01-10T22:56:42.000Z,"By the way @JamesCleverly says MPs who don't vote for May's #withdrawaldeal have to explain to voters why they voted to #revokeArticle50 instead of May's deal or #NoDealBrexit. 
+136,136,136,2402833,1072246253885579264,22934133,positive,leave,2018-12-10T21:46:42.000Z,"@BBCOS #bbcos parliament must take back control from the people and #revokeArticle50 . Parliament is sovereign for a reason, it’s a filter against mob rule. Anyone that has a good argument for #brexit must be capable of winning a seat.","['bbcos', 'revokearticle50', 'brexit']"
+137,137,137,3342485,1085948460359131136,423631989,positive,remain,2019-01-17T17:14:23.000Z,I seem to remember the Tories have a process where MPs vote to whittle down leadership candidates to two options and then LET THEIR MEMBERS have the final say! Why not do this for brexit options? #RevokeArticle50 #PeoplesVote #bbcpm,"['bbcpm', 'peoplesvote', 'revokearticle50']"
+138,138,138,3354994,1086078585750749184,340545072,positive,other,2019-01-18T01:51:27.000Z,Revealed: details of exclusive Russian deal offered to Arron Banks in #Brexit run-up #PeoplesVote #RevokeArticle50 ⁦@HouseofCommons⁩ #bbcqt ⁦@UKParliament⁩  https://t.co/VCadeAj4a8,"['bbcqt', 'brexit', 'peoplesvote', 'revokearticle50']"
+139,139,139,3112194,1083497891392638976,353022633,positive,other,2019-01-10T22:56:42.000Z,"By the way @JamesCleverly says MPs who don't vote for May's #withdrawaldeal have to explain to voters why they voted to #revokeArticle50 instead of May's deal or #NoDealBrexit. 
 
 Fortunately Hugo Rifkind already did: #Brexit is a #CheeseSubmarine
 
 https://t.co/2i6E5raShd #bbcqt","['bbcqt', 'nodealbrexit', 'withdrawaldeal', 'brexit', 'revokearticle50', 'cheesesubmarine']"
-3353251,1086046080343699456,1392064814,positive,remain,2019-01-17T23:42:17.000Z,"Another evening of Brexit makes me want to shout:
+140,140,140,3353251,1086046080343699456,1392064814,positive,remain,2019-01-17T23:42:17.000Z,"Another evening of Brexit makes me want to shout:
 
 Oi Brits
 Stop bickering
@@ -343,19 +343,19 @@ You're fucked
 And you brought it on yourself
 
 #RevokeArticle50 #bbcqt","['bbcqt', 'revokearticle50']"
-3367680,1086234008323801088,31526366,negative,other,2019-01-18T12:09:03.000Z,"@tradercoach @weehalfpintt @hugorifkind @simonblackwell That's what's so dodgy about #bbcqt , the obvious bias towards #Brexit . 'Get the smug blonde on she'll get the rabble roused.'
+141,141,141,3367680,1086234008323801088,31526366,negative,other,2019-01-18T12:09:03.000Z,"@tradercoach @weehalfpintt @hugorifkind @simonblackwell That's what's so dodgy about #bbcqt , the obvious bias towards #Brexit . 'Get the smug blonde on she'll get the rabble roused.'
 #RevokeArticle50 . #Remainer #PeoplesVote","['bbcqt', 'revokearticle50', 'brexit', 'peoplesvote', 'remainer']"
-2565142,1073521165073817600,220981118,negative,other,2018-12-14T10:12:45.000Z,"@thomasbrake @CrispinBlunt @BBCr4today He thinks he's the Black Knight, championing a dangerously hopeless case, on blind faith alone.
+142,142,142,2565142,1073521165073817600,220981118,negative,other,2018-12-14T10:12:45.000Z,"@thomasbrake @CrispinBlunt @BBCr4today He thinks he's the Black Knight, championing a dangerously hopeless case, on blind faith alone.
 
 He absurdly believes a UK, severely injured by 'No Deal', will still prevail.
 
 #Brexit #NoDealBrexit #NoDeal
 #bbcqt #RevokeA50 #RevokeArticle50 #ExitFromBrexit #Tory #PeoplesVote https://t.co/T9YgTTUqy1","['bbcqt', 'revokearticle50', 'brexit', 'revokea50', 'nodealbrexit', 'peoplesvote', 'tory', 'nodeal', 'exitfrombrexit']"
-3420923,1087015039935094784,91324809,positive,remain,2019-01-20T15:52:35.000Z,"It's not up 2 EU 2make #brexit smooth, UK wants 2 leave so UK must come with an acceptable proposal which meets ALL expectations of british people - not a half baked made-up deal like @theresa_may 's.
+143,143,143,3420923,1087015039935094784,91324809,positive,remain,2019-01-20T15:52:35.000Z,"It's not up 2 EU 2make #brexit smooth, UK wants 2 leave so UK must come with an acceptable proposal which meets ALL expectations of british people - not a half baked made-up deal like @theresa_may 's.
 #StopBrexit #RevokeArticle50  #letscallthewholethingoff #betteroffintheEU https://t.co/ofk9epjKOG","['betteroffintheeu', 'revokearticle50', 'stopbrexit', 'letscallthewholethingoff', 'brexit']"
-2467582,1072792614422921216,4866620944,neutral,remain,2018-12-12T09:57:45.000Z,@BBCBreaking If the conservatives can change their mind on their leader then the people can change their mind over brexit #RevokeArticle50 #binbrexit #RemainintheEU,"['binbrexit', 'remainintheeu', 'revokearticle50']"
-2830906,1078000768253333504,1053786009513705472,positive,leave,2018-12-26T18:53:06.000Z,Does anyone really think if the referendum result had gone the other way that the Brexiters would have been appeased? Every attempt at a Brexit deal is met with cries of 'betrayal'. Instead of trying to keep Ree-Smugg &amp; Farrago happy we should just #BinBrexit &amp; #RevokeArticle50,"['binbrexit', 'revokearticle50']"
-2351377,1072059216045768704,37901739,neutral,other,2018-12-10T09:23:29.000Z,"""Dynamite""
+144,144,144,2467582,1072792614422921216,4866620944,neutral,remain,2018-12-12T09:57:45.000Z,@BBCBreaking If the conservatives can change their mind on their leader then the people can change their mind over brexit #RevokeArticle50 #binbrexit #RemainintheEU,"['binbrexit', 'remainintheeu', 'revokearticle50']"
+145,145,145,2830906,1078000768253333504,1053786009513705472,positive,leave,2018-12-26T18:53:06.000Z,Does anyone really think if the referendum result had gone the other way that the Brexiters would have been appeased? Every attempt at a Brexit deal is met with cries of 'betrayal'. Instead of trying to keep Ree-Smugg &amp; Farrago happy we should just #BinBrexit &amp; #RevokeArticle50,"['binbrexit', 'revokearticle50']"
+146,146,146,2351377,1072059216045768704,37901739,neutral,other,2018-12-10T09:23:29.000Z,"""Dynamite""
 ""The timing is sublime""
 
 #Brexit: UK can unilaterally revoke article 50, says #EU court 
@@ -363,101 +363,101 @@ He absurdly believes a UK, severely injured by 'No Deal', will still prevail.
 https://t.co/KtdRpCnnOl HT @AlynSmith
 
 #revokearticle50 #bollockstobrexit","['bollockstobrexit', 'eu', 'brexit', 'revokearticle50']"
-3252094,1085281154285166592,1048936871194185600,positive,remain,2019-01-15T21:02:45.000Z,"Live History: 202 Yes - 432 No
+147,147,147,3252094,1085281154285166592,1048936871194185600,positive,remain,2019-01-15T21:02:45.000Z,"Live History: 202 Yes - 432 No
 Theresa May loses Brexit deal vote by majority of 230
 What will happen next? #revokearticle50 #peoplesvote #bollockstobrexit","['bollockstobrexit', 'peoplesvote', 'revokearticle50']"
-3418010,1086971826666905600,2473900885,negative,remain,2019-01-20T13:00:53.000Z,"@BorisJohnson, just in case you forgot your own lies. #BorisJohnson #Brexit #Lies
+148,148,148,3418010,1086971826666905600,2473900885,negative,remain,2019-01-20T13:00:53.000Z,"@BorisJohnson, just in case you forgot your own lies. #BorisJohnson #Brexit #Lies
 
 #StopBrexit #RevokeArticle50 https://t.co/FqFkERoDr3","['borisjohnson', 'revokearticle50', 'brexit', 'stopbrexit', 'lies']"
-3380834,1086344534525648896,202518874,negative,remain,2019-01-18T19:28:14.000Z,"#c4news @BorisJohnson would be the WORST PM ever. Who wants a blatant liar and narcissist? 
+149,149,149,3380834,1086344534525648896,202518874,negative,remain,2019-01-18T19:28:14.000Z,"#c4news @BorisJohnson would be the WORST PM ever. Who wants a blatant liar and narcissist? 
 
 #trump #liar #brexit #RevokeArticle50 #Turkey #RevokeRemainRebuild #peoplesvote #BorisJohnson #gtto #FBPE #EU #brexitfacts https://t.co/NtvKmad9bf","['borisjohnson', 'revokearticle50', 'liar', 'peoplesvote', 'c4news', 'eu', 'brexitfacts', 'turkey', 'revokeremainrebuild', 'fbpe', 'brexit', 'trump', 'gtto']"
-3153377,1084307907985006592,4832862820,positive,other,2019-01-13T04:35:25.000Z,"Politics is the art of the possible, Corbyn's Brexit isn't possible, May's Brexit isn't possible. None of the other 17.4m Brexits are possible. Having ruled out the impossible it is time to accept the probable. #RevokeArticle50 #BRemain https://t.co/lPus1HTx9e","['bremain', 'revokearticle50']"
-2985579,1081468357474426880,2704124254,positive,leave,2019-01-05T08:32:03.000Z,Ken Clarke has been absolutely right every step of the #Brexit agony. It really is time to listen to him if we truly care about future generations. #BBCR4today #RevokeArticle50,"['brexit', 'bbcr4today', 'revokearticle50']"
-2216440,1070483143747141632,19303349,negative,leave,2018-12-06T01:00:44.000Z,"When you know the direction you're going in is wrong - you stop and take time to factor in newly available information. From start to now, process of Brexit has been nourished by misinformation - it is flawed &amp; should not be sustained as it is #RevokeArticle50 #Brexit #BrexitMess https://t.co/5SkBqcRYgz","['brexit', 'brexitmess', 'revokearticle50']"
-2216441,1070483143747141632,19303349,negative,leave,2018-12-06T01:00:44.000Z,"When you know the direction you're going in is wrong - you stop and take time to factor in newly available information. From start to now, process of Brexit has been nourished by misinformation - it is flawed &amp; should not be sustained as it is #RevokeArticle50 #Brexit #BrexitMess https://t.co/5SkBqcRYgz","['brexit', 'brexitmess', 'revokearticle50']"
-2958871,1080907878951575552,905366253577150464,negative,other,2019-01-03T19:24:55.000Z,Or aim to #RevokeA50 #revokearticle50 in the face of #BrexitShambles - they insist on driving their corrupt agenda forward...NO DEAL under #Brexit will benefit UK https://t.co/2CLJJksIod,"['brexit', 'brexitshambles', 'revokea50', 'revokearticle50']"
-3212450,1085124798034907136,15066159,neutral,remain,2019-01-15T10:41:27.000Z,"Spearheaded by the unspeakable; #Brexit (n) - ""The undefined negotiated by the unprepared in order to get the unspecified for the uninformed."" #BrexitVote #RevokeArticle50","['brexit', 'brexitvote', 'revokearticle50']"
-3145754,1084122086271078400,114888384,neutral,other,2019-01-12T16:17:02.000Z,The Times on not knowing when the game’s up. Cartoon. #Brexit @peoplesvote_uk #RevokeArticle50 #endthechaos @RobbieGibb @JulianSmithUK @ConHome https://t.co/mzSZvuPqDg,"['brexit', 'endthechaos', 'revokearticle50']"
-3429888,1087261825949986816,114888384,neutral,other,2019-01-21T08:13:14.000Z,I've just read about what May's plan 'B' will be. Now I understand how the wheat field must have felt. Trodden on and flattened as she ran right through it. #Brexit #revokearticle50 #endthechaos @peoplesvote_uk @bestforbritain @campbellclaret @IanDunt @Haggis_UK @ConHome @Peston https://t.co/QhYZ2zLPra,"['brexit', 'endthechaos', 'revokearticle50']"
-2287163,1071187501610610688,100479245,negative,remain,2018-12-07T23:39:36.000Z,"@Peston @theresa_may Do you remember how much better things were before the #EURef2016 , before huge fortunes had been wasted trying to sell us #Brexit ? @theresa_may needs to #RevokeArticle50 before any more damage to the country is done","['brexit', 'euref2016', 'revokearticle50']"
-3144599,1084094929377390592,141182321,negative,remain,2019-01-12T14:29:07.000Z,To be more accurate it shows that #Brexit is a fiction &amp; no deal is a disastrous proposition. #RevokeArticle50 #FBPE #Renew https://t.co/IxjtIxQr5L,"['brexit', 'fbpe', 'renew', 'revokearticle50']"
-3324846,1085828389259247616,35413612,positive,other,2019-01-17T09:17:16.000Z,"#FBPE  What other useful helpful things might the EU have done for us?
+150,150,150,3153377,1084307907985006592,4832862820,positive,other,2019-01-13T04:35:25.000Z,"Politics is the art of the possible, Corbyn's Brexit isn't possible, May's Brexit isn't possible. None of the other 17.4m Brexits are possible. Having ruled out the impossible it is time to accept the probable. #RevokeArticle50 #BRemain https://t.co/lPus1HTx9e","['bremain', 'revokearticle50']"
+151,151,151,2985579,1081468357474426880,2704124254,positive,leave,2019-01-05T08:32:03.000Z,Ken Clarke has been absolutely right every step of the #Brexit agony. It really is time to listen to him if we truly care about future generations. #BBCR4today #RevokeArticle50,"['brexit', 'bbcr4today', 'revokearticle50']"
+152,152,152,2216440,1070483143747141632,19303349,negative,leave,2018-12-06T01:00:44.000Z,"When you know the direction you're going in is wrong - you stop and take time to factor in newly available information. From start to now, process of Brexit has been nourished by misinformation - it is flawed &amp; should not be sustained as it is #RevokeArticle50 #Brexit #BrexitMess https://t.co/5SkBqcRYgz","['brexit', 'brexitmess', 'revokearticle50']"
+153,153,153,2216441,1070483143747141632,19303349,negative,leave,2018-12-06T01:00:44.000Z,"When you know the direction you're going in is wrong - you stop and take time to factor in newly available information. From start to now, process of Brexit has been nourished by misinformation - it is flawed &amp; should not be sustained as it is #RevokeArticle50 #Brexit #BrexitMess https://t.co/5SkBqcRYgz","['brexit', 'brexitmess', 'revokearticle50']"
+154,154,154,2958871,1080907878951575552,905366253577150464,negative,other,2019-01-03T19:24:55.000Z,Or aim to #RevokeA50 #revokearticle50 in the face of #BrexitShambles - they insist on driving their corrupt agenda forward...NO DEAL under #Brexit will benefit UK https://t.co/2CLJJksIod,"['brexit', 'brexitshambles', 'revokea50', 'revokearticle50']"
+155,155,155,3212450,1085124798034907136,15066159,neutral,remain,2019-01-15T10:41:27.000Z,"Spearheaded by the unspeakable; #Brexit (n) - ""The undefined negotiated by the unprepared in order to get the unspecified for the uninformed."" #BrexitVote #RevokeArticle50","['brexit', 'brexitvote', 'revokearticle50']"
+156,156,156,3145754,1084122086271078400,114888384,neutral,other,2019-01-12T16:17:02.000Z,The Times on not knowing when the game’s up. Cartoon. #Brexit @peoplesvote_uk #RevokeArticle50 #endthechaos @RobbieGibb @JulianSmithUK @ConHome https://t.co/mzSZvuPqDg,"['brexit', 'endthechaos', 'revokearticle50']"
+157,157,157,3429888,1087261825949986816,114888384,neutral,other,2019-01-21T08:13:14.000Z,I've just read about what May's plan 'B' will be. Now I understand how the wheat field must have felt. Trodden on and flattened as she ran right through it. #Brexit #revokearticle50 #endthechaos @peoplesvote_uk @bestforbritain @campbellclaret @IanDunt @Haggis_UK @ConHome @Peston https://t.co/QhYZ2zLPra,"['brexit', 'endthechaos', 'revokearticle50']"
+158,158,158,2287163,1071187501610610688,100479245,negative,remain,2018-12-07T23:39:36.000Z,"@Peston @theresa_may Do you remember how much better things were before the #EURef2016 , before huge fortunes had been wasted trying to sell us #Brexit ? @theresa_may needs to #RevokeArticle50 before any more damage to the country is done","['brexit', 'euref2016', 'revokearticle50']"
+159,159,159,3144599,1084094929377390592,141182321,negative,remain,2019-01-12T14:29:07.000Z,To be more accurate it shows that #Brexit is a fiction &amp; no deal is a disastrous proposition. #RevokeArticle50 #FBPE #Renew https://t.co/IxjtIxQr5L,"['brexit', 'fbpe', 'renew', 'revokearticle50']"
+160,160,160,3324846,1085828389259247616,35413612,positive,other,2019-01-17T09:17:16.000Z,"#FBPE  What other useful helpful things might the EU have done for us?
 
 @UKLabour pls NO GE until you have a #Brexit policy  just #RevokeArticle50 and put Westminster in order first.  
 
 Germany and France signal willingness to delay Brexit https://t.co/zNUCKuMRDU https://t.co/4SCzKsUZEm","['brexit', 'fbpe', 'revokearticle50']"
-2796247,1076942658227105792,367755053,negative,remain,2018-12-23T20:48:33.000Z,The #Gatwickdrone was an alien spacecraft showing us how shit a #NoDealBrexit would be. We are not alone! Govt covering it up in case the God fearing public lose faith in .... #Brexit. Time to #RevokeArticle50. ET says so.,"['brexit', 'gatwickdrone', 'revokearticle50', 'nodealbrexit']"
-2724692,1075799134949572608,2222959046,neutral,other,2018-12-20T17:04:35.000Z,"Fulfilling the will of the kremlin #revokearticle50 #Conservatives #Brexit #Government @JSHeappey
+161,161,161,2796247,1076942658227105792,367755053,negative,remain,2018-12-23T20:48:33.000Z,The #Gatwickdrone was an alien spacecraft showing us how shit a #NoDealBrexit would be. We are not alone! Govt covering it up in case the God fearing public lose faith in .... #Brexit. Time to #RevokeArticle50. ET says so.,"['brexit', 'gatwickdrone', 'revokearticle50', 'nodealbrexit']"
+162,162,162,2724692,1075799134949572608,2222959046,neutral,other,2018-12-20T17:04:35.000Z,"Fulfilling the will of the kremlin #revokearticle50 #Conservatives #Brexit #Government @JSHeappey
 https://t.co/bGmLcoAjE6","['brexit', 'government', 'conservatives', 'revokearticle50']"
-2349892,1072053812477812736,14636247,negative,other,2018-12-10T09:02:01.000Z,"#Brexit : #UK can unilaterally #revokeArticle50 See nothing is #imposed on us......#selfharm #lemming
+163,163,163,2349892,1072053812477812736,14636247,negative,other,2018-12-10T09:02:01.000Z,"#Brexit : #UK can unilaterally #revokeArticle50 See nothing is #imposed on us......#selfharm #lemming
 .https://t.co/iqeLcd3f0r","['brexit', 'lemming', 'uk', 'revokearticle50', 'imposed']"
-3236548,1085261753649254400,873070380591611904,negative,remain,2019-01-15T19:45:39.000Z,"The only way to 'settle' the #Mayhem of #Brexit is to #RevokeArticle50 - anything else will lead to years &amp; years more of negotiation, waste of time &amp; effort!","['brexit', 'mayhem', 'revokearticle50']"
-3392132,1086555231582937088,54653263,negative,other,2019-01-19T09:25:29.000Z,"No easy route out of #Brexit says Keir Starmer. But #TheresaMay has been clear - it's her deal, #NoDeal or #nobrexit. The first was massively rejected, the second creates a national emergency. Only the last one meets our needs, so just #RevokeArticle50. https://t.co/pmVfIuQjx2","['brexit', 'nobrexit', 'nodeal', 'revokearticle50', 'theresamay']"
-3433655,1087306805968031744,939789092006563840,positive,remain,2019-01-21T11:11:58.000Z,"@unitetheunion @jahebditch Your jobs would be safer, as would those of thousands of #Unite colleagues, if you could persuade @LenMcCluskey and @jeremycorbyn to stop backing #brexit. 
+164,164,164,3236548,1085261753649254400,873070380591611904,negative,remain,2019-01-15T19:45:39.000Z,"The only way to 'settle' the #Mayhem of #Brexit is to #RevokeArticle50 - anything else will lead to years &amp; years more of negotiation, waste of time &amp; effort!","['brexit', 'mayhem', 'revokearticle50']"
+165,165,165,3392132,1086555231582937088,54653263,negative,other,2019-01-19T09:25:29.000Z,"No easy route out of #Brexit says Keir Starmer. But #TheresaMay has been clear - it's her deal, #NoDeal or #nobrexit. The first was massively rejected, the second creates a national emergency. Only the last one meets our needs, so just #RevokeArticle50. https://t.co/pmVfIuQjx2","['brexit', 'nobrexit', 'nodeal', 'revokearticle50', 'theresamay']"
+166,166,166,3433655,1087306805968031744,939789092006563840,positive,remain,2019-01-21T11:11:58.000Z,"@unitetheunion @jahebditch Your jobs would be safer, as would those of thousands of #Unite colleagues, if you could persuade @LenMcCluskey and @jeremycorbyn to stop backing #brexit. 
 Write to your MPs and ask them to support efforts to stop #NoDeal and suspend or #RevokeArticle50. 
 https://t.co/AXKVAAr6iQ","['brexit', 'nodeal', 'revokearticle50', 'unite']"
-3160913,1084431929972281344,142725458,negative,remain,2019-01-13T12:48:14.000Z,@IanDunt #Brexit requires either a backstop or a border. A border breached the #GoodFridayAccord and a backstop is a no for May. Parliament has rejected #NoDealBrexit so why not #RevokeArticle50,"['brexit', 'nodealbrexit', 'goodfridayaccord', 'revokearticle50']"
-2809861,1077225860741165056,581208856,negative,remain,2018-12-24T15:33:53.000Z,"@unionlib Mark, 
+167,167,167,3160913,1084431929972281344,142725458,negative,remain,2019-01-13T12:48:14.000Z,@IanDunt #Brexit requires either a backstop or a border. A border breached the #GoodFridayAccord and a backstop is a no for May. Parliament has rejected #NoDealBrexit so why not #RevokeArticle50,"['brexit', 'nodealbrexit', 'goodfridayaccord', 'revokearticle50']"
+168,168,168,2809861,1077225860741165056,581208856,negative,remain,2018-12-24T15:33:53.000Z,"@unionlib Mark, 
 Living for yesterday at this #Brexit &amp; constitutional crisis point isn't going to solve anything.
 
 It's #RevokeArticle50 or #NoDealBrexit 
 
 Take your pick","['brexit', 'nodealbrexit', 'revokearticle50']"
-3174966,1084610272399163392,253941749,neutral,remain,2019-01-14T00:36:54.000Z,"With no #Brexit more likely than no-deal departure you will see the £ pound rise, UK market confidence/investment grow, and the British economy pick up rapidly. #PeopelsVote #RevokeArticle50 https://t.co/Dsn6PQkB82","['brexit', 'peopelsvote', 'revokearticle50']"
-900002,1060570203434770432,424508845,negative,remain,2018-11-08T16:30:15.000Z,Going well isn't it #Brexit #PeoplesVote #clueless #revokearticle50 https://t.co/hoBdgmN3dN,"['brexit', 'peoplesvote', 'clueless', 'revokearticle50']"
-900003,1060570203434770432,424508845,negative,remain,2018-11-08T16:30:15.000Z,Going well isn't it #Brexit #PeoplesVote #clueless #revokearticle50 https://t.co/hoBdgmN3dN,"['brexit', 'peoplesvote', 'clueless', 'revokearticle50']"
-2982895,1081327225260126208,215951263,positive,leave,2019-01-04T23:11:15.000Z,"@MichaelAbberton What do you want us to say, that the Tory membership is out of touch? A bunch of nativist little Englanders? Generally won’t be touched by #Brexit or even set to make a lot of money hedging against the £ and British business?
+169,169,169,3174966,1084610272399163392,253941749,neutral,remain,2019-01-14T00:36:54.000Z,"With no #Brexit more likely than no-deal departure you will see the £ pound rise, UK market confidence/investment grow, and the British economy pick up rapidly. #PeopelsVote #RevokeArticle50 https://t.co/Dsn6PQkB82","['brexit', 'peopelsvote', 'revokearticle50']"
+170,170,170,900002,1060570203434770432,424508845,negative,remain,2018-11-08T16:30:15.000Z,Going well isn't it #Brexit #PeoplesVote #clueless #revokearticle50 https://t.co/hoBdgmN3dN,"['brexit', 'peoplesvote', 'clueless', 'revokearticle50']"
+171,171,171,900003,1060570203434770432,424508845,negative,remain,2018-11-08T16:30:15.000Z,Going well isn't it #Brexit #PeoplesVote #clueless #revokearticle50 https://t.co/hoBdgmN3dN,"['brexit', 'peoplesvote', 'clueless', 'revokearticle50']"
+172,172,172,2982895,1081327225260126208,215951263,positive,leave,2019-01-04T23:11:15.000Z,"@MichaelAbberton What do you want us to say, that the Tory membership is out of touch? A bunch of nativist little Englanders? Generally won’t be touched by #Brexit or even set to make a lot of money hedging against the £ and British business?
 #PeoplesVote #RevokeArticle50 #FBPE","['brexit', 'peoplesvote', 'fbpe', 'revokearticle50']"
-3002622,1081867905073991680,843413538865602560,negative,remain,2019-01-06T10:59:43.000Z,"Last night I bet a Brexiter £50,000 for a SINGLE concrete benefit to me/my employees/business! 
+173,173,173,3002622,1081867905073991680,843413538865602560,negative,remain,2019-01-06T10:59:43.000Z,"Last night I bet a Brexiter £50,000 for a SINGLE concrete benefit to me/my employees/business! 
 I won EASILY It was an unfair bet. There are NO #Brexit BENEFITS
 #RevokeArticle50 #PeoplesVote 
 #Leave hypnotised &amp; filled people with mindless/racist hate &amp; Unicorn dreams @S70Harris https://t.co/3YKbC9ybgv","['brexit', 'peoplesvote', 'leave', 'revokearticle50']"
-3174877,1084607144366874624,253941749,negative,remain,2019-01-14T00:24:28.000Z,We DO NOT have a duty to implement the result of the referendum when it was found to be fraudulent &amp; criminal! Catastrophic harm has already been done by #Brexit politicians. All things connected to #Leave are negative and suspect. Time to call a #PeoplesVote and #RevokeArticle50 https://t.co/hFXhHw8W0s,"['brexit', 'peoplesvote', 'leave', 'revokearticle50']"
-3062294,1082908209000706048,872158753008877440,neutral,remain,2019-01-09T07:53:31.000Z,#Brexit #RevokeArticle50 or #PeoplesVote now https://t.co/lNc5PbWPRV,"['brexit', 'peoplesvote', 'revokearticle50']"
-2465875,1072787995277844480,158744917,negative,remain,2018-12-12T09:39:24.000Z,How can the @Conservatives ever hope to unite the country when they can’t stay united themselves? I am now so ashamed of our political classes on all sides - how can they have ever allowed the #Brexit damage get to this point? #RevokeArticle50 now and have a legal #PeoplesVote,"['brexit', 'peoplesvote', 'revokearticle50']"
-2936084,1080401419210027008,215951263,negative,remain,2019-01-02T09:52:25.000Z,"@Haggis_UK So Chris Grayling is acknowledging that the public support for #Brexit May no longer be the majority consensus and is actively seeking to circumvent democracy
+174,174,174,3174877,1084607144366874624,253941749,negative,remain,2019-01-14T00:24:28.000Z,We DO NOT have a duty to implement the result of the referendum when it was found to be fraudulent &amp; criminal! Catastrophic harm has already been done by #Brexit politicians. All things connected to #Leave are negative and suspect. Time to call a #PeoplesVote and #RevokeArticle50 https://t.co/hFXhHw8W0s,"['brexit', 'peoplesvote', 'leave', 'revokearticle50']"
+175,175,175,3062294,1082908209000706048,872158753008877440,neutral,remain,2019-01-09T07:53:31.000Z,#Brexit #RevokeArticle50 or #PeoplesVote now https://t.co/lNc5PbWPRV,"['brexit', 'peoplesvote', 'revokearticle50']"
+176,176,176,2465875,1072787995277844480,158744917,negative,remain,2018-12-12T09:39:24.000Z,How can the @Conservatives ever hope to unite the country when they can’t stay united themselves? I am now so ashamed of our political classes on all sides - how can they have ever allowed the #Brexit damage get to this point? #RevokeArticle50 now and have a legal #PeoplesVote,"['brexit', 'peoplesvote', 'revokearticle50']"
+177,177,177,2936084,1080401419210027008,215951263,negative,remain,2019-01-02T09:52:25.000Z,"@Haggis_UK So Chris Grayling is acknowledging that the public support for #Brexit May no longer be the majority consensus and is actively seeking to circumvent democracy
 How the fuck does this person still hold public office? 😡
 #RevokeArticle50 #PeoplesVote @SkyNews @LBC @BBCNews","['brexit', 'peoplesvote', 'revokearticle50']"
-2480563,1072837505932820480,239345385,neutral,remain,2018-12-12T12:56:08.000Z,#RevokeArticle50 NOW #PeoplesVote #Brexit,"['brexit', 'peoplesvote', 'revokearticle50']"
-3363415,1086207794557132800,211303528,neutral,remain,2019-01-18T10:24:53.000Z,"@HackneyAbbott The key issue over next 8 weeks is #Brexit . Are you going to tell them how much it will hurt?
+178,178,178,2480563,1072837505932820480,239345385,neutral,remain,2018-12-12T12:56:08.000Z,#RevokeArticle50 NOW #PeoplesVote #Brexit,"['brexit', 'peoplesvote', 'revokearticle50']"
+179,179,179,3363415,1086207794557132800,211303528,neutral,remain,2019-01-18T10:24:53.000Z,"@HackneyAbbott The key issue over next 8 weeks is #Brexit . Are you going to tell them how much it will hurt?
 
 #RevokeArticle50 
 #PeoplesVote","['brexit', 'peoplesvote', 'revokearticle50']"
-2715586,1075495980294922240,340545072,negative,other,2018-12-19T20:59:58.000Z,Every member of the house had a responsibility to look after the Wellbeing of the nation! Not delivering shit just because ... #Brexit @theresa_may Stop the blackmailing ! Disgraceful ! #PeoplesVote #RevokeArticle50 @BBCNews @jeremycorbyn @HouseofCommons @UKParliament,"['brexit', 'peoplesvote', 'revokearticle50']"
-2663700,1074709309865541632,2312084024,negative,other,2018-12-17T16:54:01.000Z,"This is why we should never have had a referendum, &amp; why those calling for a #PeoplesVote need to be cautious. The ignorant &amp; ill informed are STILL ignorant &amp; ill informed. The first referendum was rife with illegality. We don't need another. Just #RevokeArticle50 now. 
+180,180,180,2715586,1075495980294922240,340545072,negative,other,2018-12-19T20:59:58.000Z,Every member of the house had a responsibility to look after the Wellbeing of the nation! Not delivering shit just because ... #Brexit @theresa_may Stop the blackmailing ! Disgraceful ! #PeoplesVote #RevokeArticle50 @BBCNews @jeremycorbyn @HouseofCommons @UKParliament,"['brexit', 'peoplesvote', 'revokearticle50']"
+181,181,181,2663700,1074709309865541632,2312084024,negative,other,2018-12-17T16:54:01.000Z,"This is why we should never have had a referendum, &amp; why those calling for a #PeoplesVote need to be cautious. The ignorant &amp; ill informed are STILL ignorant &amp; ill informed. The first referendum was rife with illegality. We don't need another. Just #RevokeArticle50 now. 
 #Brexit https://t.co/5Nk7WNNoBZ","['brexit', 'peoplesvote', 'revokearticle50']"
-2944241,1080541672726032384,340545072,positive,remain,2019-01-02T19:09:44.000Z,@jeremycorbyn IF THERE IS A GE... @UKLabour will ONLY win if they are the party that will 1) #RevokeArticle50 or /&amp;     2) #PeoplesVote - If same as Govt re #Brexit then many of us remain homeless and can’t vote for either of you! @EmilyThornberry @YvetteCooperMP @ChukaUmunna,"['brexit', 'peoplesvote', 'revokearticle50']"
-2977325,1081229677358956544,215951263,negative,remain,2019-01-04T16:43:38.000Z,"@Michael_557 @AftertimeTim @Conservative The fact that it wants to #Brexit 
+182,182,182,2944241,1080541672726032384,340545072,positive,remain,2019-01-02T19:09:44.000Z,@jeremycorbyn IF THERE IS A GE... @UKLabour will ONLY win if they are the party that will 1) #RevokeArticle50 or /&amp;     2) #PeoplesVote - If same as Govt re #Brexit then many of us remain homeless and can’t vote for either of you! @EmilyThornberry @YvetteCooperMP @ChukaUmunna,"['brexit', 'peoplesvote', 'revokearticle50']"
+183,183,183,2977325,1081229677358956544,215951263,negative,remain,2019-01-04T16:43:38.000Z,"@Michael_557 @AftertimeTim @Conservative The fact that it wants to #Brexit 
 At the moment the government is choosing to defund public services 
 Once we leave the EU we won’t have the resources to fund public services 
 #RevokeArticle50 #PeoplesVote","['brexit', 'peoplesvote', 'revokearticle50']"
-2924473,1080080177554694144,274451897,positive,remain,2019-01-01T12:35:55.000Z,@LBC @AndrewCastle63 While he continues to support #Brexit @jeremycorbyn has no more chance of uniting our country than @theresa_may has. People now want a #PeoplesVote and to #RevokeArticle50,"['brexit', 'peoplesvote', 'revokearticle50']"
-2616736,1074078350925287424,144942946,negative,remain,2018-12-15T23:06:48.000Z,Forget the #PeoplesVote just #RevokeArticle50 and let's end the #Brexit bullshit,"['brexit', 'peoplesvote', 'revokearticle50']"
-3434664,1087319291169513472,2783875490,negative,remain,2019-01-21T12:01:35.000Z,"Is it fair to say that a majority of #Brexit supporters are older, white men? If so, I am absolutely disgusted with them and I am ashamed to be an older, white man. #PeoplesVote #RevokeArticle50","['brexit', 'peoplesvote', 'revokearticle50']"
-3279433,1085463587886383104,144827236,negative,other,2019-01-16T09:07:40.000Z,"@jamesmb Even though the #RevokeArticle50 approach is more in line with our constitution, the #Brexit fanatics would think they had been cheated somehow, so, yes, #PeoplesVote it must be.","['brexit', 'peoplesvote', 'revokearticle50']"
-3318978,1085774972574932992,1554093896,positive,remain,2019-01-17T05:45:00.000Z,"We need to stop this...  It's now clear now that brexit can ONLY lead to disaster for this country &amp; it needs to be stopped. Either #RevokeArticle50 or give us a #PeoplesVote - Whichever way, it needs to happen- it would clearly be in the nation's best interest! #Brexit https://t.co/tn9vnOcuFl","['brexit', 'peoplesvote', 'revokearticle50']"
-2837450,1078272951831719936,340545072,neutral,remain,2018-12-27T12:54:39.000Z,@HouseofCommons #Brexit @theresa_may @jeremycorbyn #RevokeArticle50 #PeoplesVote https://t.co/qxlHHGKvOb,"['brexit', 'peoplesvote', 'revokearticle50']"
-3053040,1082718816734535680,177569826,positive,other,2019-01-08T19:20:56.000Z,@MarkHemi82 What is the point of a General Election when the Government and Opposition parties share a similar #Brexit policy? Unless Parliament acts to #RevokeArticle50 the best way forward is a #PeoplesVote,"['brexit', 'peoplesvote', 'revokearticle50']"
-2924619,1080082848185487360,246844437,negative,remain,2019-01-01T12:46:32.000Z,"@Bobbifett @TheStephenRalph @andreajenkyns That was the *second* ref. The one that tried to void the good (no cheating, nothing illegal) results of the first one, the 1975 ref.
+184,184,184,2924473,1080080177554694144,274451897,positive,remain,2019-01-01T12:35:55.000Z,@LBC @AndrewCastle63 While he continues to support #Brexit @jeremycorbyn has no more chance of uniting our country than @theresa_may has. People now want a #PeoplesVote and to #RevokeArticle50,"['brexit', 'peoplesvote', 'revokearticle50']"
+185,185,185,2616736,1074078350925287424,144942946,negative,remain,2018-12-15T23:06:48.000Z,Forget the #PeoplesVote just #RevokeArticle50 and let's end the #Brexit bullshit,"['brexit', 'peoplesvote', 'revokearticle50']"
+186,186,186,3434664,1087319291169513472,2783875490,negative,remain,2019-01-21T12:01:35.000Z,"Is it fair to say that a majority of #Brexit supporters are older, white men? If so, I am absolutely disgusted with them and I am ashamed to be an older, white man. #PeoplesVote #RevokeArticle50","['brexit', 'peoplesvote', 'revokearticle50']"
+187,187,187,3279433,1085463587886383104,144827236,negative,other,2019-01-16T09:07:40.000Z,"@jamesmb Even though the #RevokeArticle50 approach is more in line with our constitution, the #Brexit fanatics would think they had been cheated somehow, so, yes, #PeoplesVote it must be.","['brexit', 'peoplesvote', 'revokearticle50']"
+188,188,188,3318978,1085774972574932992,1554093896,positive,remain,2019-01-17T05:45:00.000Z,"We need to stop this...  It's now clear now that brexit can ONLY lead to disaster for this country &amp; it needs to be stopped. Either #RevokeArticle50 or give us a #PeoplesVote - Whichever way, it needs to happen- it would clearly be in the nation's best interest! #Brexit https://t.co/tn9vnOcuFl","['brexit', 'peoplesvote', 'revokearticle50']"
+189,189,189,2837450,1078272951831719936,340545072,neutral,remain,2018-12-27T12:54:39.000Z,@HouseofCommons #Brexit @theresa_may @jeremycorbyn #RevokeArticle50 #PeoplesVote https://t.co/qxlHHGKvOb,"['brexit', 'peoplesvote', 'revokearticle50']"
+190,190,190,3053040,1082718816734535680,177569826,positive,other,2019-01-08T19:20:56.000Z,@MarkHemi82 What is the point of a General Election when the Government and Opposition parties share a similar #Brexit policy? Unless Parliament acts to #RevokeArticle50 the best way forward is a #PeoplesVote,"['brexit', 'peoplesvote', 'revokearticle50']"
+191,191,191,2924619,1080082848185487360,246844437,negative,remain,2019-01-01T12:46:32.000Z,"@Bobbifett @TheStephenRalph @andreajenkyns That was the *second* ref. The one that tried to void the good (no cheating, nothing illegal) results of the first one, the 1975 ref.
 
 The third, #PeoplesVote,  will make it right again and save Britain from the calamity of #Brexit, don't you worry. 
 
 #RevokeArticle50 and HNY!","['brexit', 'peoplesvote', 'revokearticle50']"
-3250174,1085276935960301568,2783875490,negative,remain,2019-01-15T20:45:59.000Z,"So, a massive defeat for Theresa May. Jeremy Corbyn calls for a vote of no confidence that he will lose. Then what? There is insufficient support for any other #Brexit option. We must now have a #PeoplesVote or better still #RevokeArticle50","['brexit', 'peoplesvote', 'revokearticle50']"
-3040263,1082547674098864128,90849769,negative,other,2019-01-08T08:00:52.000Z,Those who feel the need to shout abuse like this wont be vindicated by #Brexit The continuing turmoil and injustice afterwards will only increase their level of abuse! The need for a #PeoplesVote and #RevokeArticle50 grows every day! https://t.co/JzYlLTGROR,"['brexit', 'peoplesvote', 'revokearticle50']"
-3405590,1086724143473664000,866637810509516800,neutral,other,2019-01-19T20:36:40.000Z,"People have taken notice of the all extra information that came to light over the past two years and that they did not have before the referendum.
+192,192,192,3250174,1085276935960301568,2783875490,negative,remain,2019-01-15T20:45:59.000Z,"So, a massive defeat for Theresa May. Jeremy Corbyn calls for a vote of no confidence that he will lose. Then what? There is insufficient support for any other #Brexit option. We must now have a #PeoplesVote or better still #RevokeArticle50","['brexit', 'peoplesvote', 'revokearticle50']"
+193,193,193,3040263,1082547674098864128,90849769,negative,other,2019-01-08T08:00:52.000Z,Those who feel the need to shout abuse like this wont be vindicated by #Brexit The continuing turmoil and injustice afterwards will only increase their level of abuse! The need for a #PeoplesVote and #RevokeArticle50 grows every day! https://t.co/JzYlLTGROR,"['brexit', 'peoplesvote', 'revokearticle50']"
+194,194,194,3405590,1086724143473664000,866637810509516800,neutral,other,2019-01-19T20:36:40.000Z,"People have taken notice of the all extra information that came to light over the past two years and that they did not have before the referendum.
 #PeoplesVote #RevokeArticle50 #Brexit https://t.co/9G1ECpbj4Q","['brexit', 'peoplesvote', 'revokearticle50']"
-2891541,1079415759384838144,206413533,neutral,remain,2018-12-30T16:35:46.000Z,Can I return the #Brexit gift it’s unwanted #PeoplesVote or #RevokeArticle50 https://t.co/RUwrM0lWHO,"['brexit', 'peoplesvote', 'revokearticle50']"
-2887963,1079361532851617792,215951263,positive,remain,2018-12-30T13:00:17.000Z,"@jaybo_n @thetimes But we are both you and I know we are because we know what the default legal framework is the UK will become a third country and we’ll fall back to basic international regulations and treaties
+195,195,195,2891541,1079415759384838144,206413533,neutral,remain,2018-12-30T16:35:46.000Z,Can I return the #Brexit gift it’s unwanted #PeoplesVote or #RevokeArticle50 https://t.co/RUwrM0lWHO,"['brexit', 'peoplesvote', 'revokearticle50']"
+196,196,196,2887963,1079361532851617792,215951263,positive,remain,2018-12-30T13:00:17.000Z,"@jaybo_n @thetimes But we are both you and I know we are because we know what the default legal framework is the UK will become a third country and we’ll fall back to basic international regulations and treaties
 Fortunately #RevokeArticle50 works instantaneously 
 #Brexit #PeoplesVote","['brexit', 'peoplesvote', 'revokearticle50']"
-2485498,1072859260076228608,902120481133916032,negative,remain,2018-12-12T14:22:35.000Z,"Not a time to #Brexit: On so many levels.
+197,197,197,2485498,1072859260076228608,902120481133916032,negative,remain,2018-12-12T14:22:35.000Z,"Not a time to #Brexit: On so many levels.
 IMF warns storm clouds are gathering for next financial crisis
 Deputy head David Lipton says global banking system is not prepared for another downturn.
 https://t.co/3RyJzAIfCV
 #PeoplesVote or #RevokeArticle50","['brexit', 'peoplesvote', 'revokearticle50']"
-3179211,1084737622239559680,22934133,negative,remain,2019-01-14T09:02:57.000Z,@bbc5live #RevokeArticle50 and stop this mess now. #brexit is now exposed as an imperialist wet dream. It benefits no one but #Putin .,"['brexit', 'putin', 'revokearticle50']"
-2721439,1075765681113554944,566336166,negative,other,2018-12-20T14:51:39.000Z,"@OxfordDiplomat #Putin presumably sees the #Brexit - which he helped finance and influence behind the scenes - slipping away ..  the chance of a #RevokeArticle50 and sanity prevailing..
+198,198,198,3179211,1084737622239559680,22934133,negative,remain,2019-01-14T09:02:57.000Z,@bbc5live #RevokeArticle50 and stop this mess now. #brexit is now exposed as an imperialist wet dream. It benefits no one but #Putin .,"['brexit', 'putin', 'revokearticle50']"
+199,199,199,2721439,1075765681113554944,566336166,negative,other,2018-12-20T14:51:39.000Z,"@OxfordDiplomat #Putin presumably sees the #Brexit - which he helped finance and influence behind the scenes - slipping away ..  the chance of a #RevokeArticle50 and sanity prevailing..
 
 People should be alarmed that Putin has said this and in ""normal"" times would have been alarmed .. but now?","['brexit', 'putin', 'revokearticle50']"

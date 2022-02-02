@@ -1,141 +1,141 @@
-,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-2078614,746373020978143232,585902565,negative,remain,2016-06-24T16:02:49.000Z,"Los políticos, expertos y periodistas han tenido la misma previsión con las consecuencias del Brexit que la que tuvieron con la crisis. #0",['0']
-1035323,741728154864222208,21517745,neutral,leave,2016-06-11T20:25:47.000Z,I aint no football expert but even i know Roy needs to swap players now!!!! Lawro predicted that this game will end in a draw... #0-0,['0-0']
-541048,723601575818727424,425982146,negative,leave,2016-04-22T19:57:14.000Z,Phone Number Comments 0024-996-4345479. https://t.co/isT1cllUGm #00249964345479,['00249964345479']
-1329507,744929008551268352,267678618,positive,other,2016-06-20T16:24:50.000Z,#007 Carmaker Says Brexit To Boost Exports https://t.co/g2UHbWxF31,['007']
-1348274,745034215415222272,293236806,positive,other,2016-06-20T23:22:53.000Z,#007 Aston Martin Carmaker Says Brexit To Boost Exports &amp; British Competitiveness https://t.co/BPXRJW4sk2 https://t.co/vVcSjYqtnN,['007']
-2262126,746461116767821824,15074697,neutral,other,2016-06-24T21:52:53.000Z,Everything's going according to Blofeld's plan #Brexit #007,"['007', 'brexit']"
-1586858,746106902476529664,384717221,positive,leave,2016-06-23T22:25:22.000Z,"$EURJPY ""I am invincible!"" Minus the last part #brexit #007 https://t.co/txHWBnSdZp","['007', 'brexit']"
-2101143,746383495509970944,29196353,neutral,other,2016-06-24T16:44:27.000Z,Was bedeutet der Brexit für Film- und TV-Produktion? https://t.co/TR10ZmED2l #007 #Stars #Kofferpacken,"['007', 'stars', 'kofferpacken']"
-1975274,746299690677846016,20152152,negative,remain,2016-06-24T11:11:26.000Z,"Fran Drescher #007-F #Bond, Jamie Bond. License to Kill now License to Nag. #BREXIT https://t.co/kEABpHqc8x","['007-f', 'bond', 'brexit']"
-2375107,746637724908650496,16345700,neutral,leave,2016-06-25T09:34:40.000Z,Made in Britain #brexit #01189998819991197253,"['01189998819991197253', 'brexit']"
-946822,740248306039787520,206134168,positive,leave,2016-06-07T18:25:23.000Z,A arte da escrita | Daily Vlog #02: https://t.co/mUv0lyAyRc via @YouTube,['02']
-1627988,746193060569063424,700431698,positive,remain,2016-06-24T04:07:43.000Z,"RT @fantagiomusic: [#아스트로] 2016.07.01 0:00AM
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,2078614,746373020978143232,585902565,negative,remain,2016-06-24T16:02:49.000Z,"Los políticos, expertos y periodistas han tenido la misma previsión con las consecuencias del Brexit que la que tuvieron con la crisis. #0",['0']
+1,1,1,1035323,741728154864222208,21517745,neutral,leave,2016-06-11T20:25:47.000Z,I aint no football expert but even i know Roy needs to swap players now!!!! Lawro predicted that this game will end in a draw... #0-0,['0-0']
+2,2,2,541048,723601575818727424,425982146,negative,leave,2016-04-22T19:57:14.000Z,Phone Number Comments 0024-996-4345479. https://t.co/isT1cllUGm #00249964345479,['00249964345479']
+3,3,3,1329507,744929008551268352,267678618,positive,other,2016-06-20T16:24:50.000Z,#007 Carmaker Says Brexit To Boost Exports https://t.co/g2UHbWxF31,['007']
+4,4,4,1348274,745034215415222272,293236806,positive,other,2016-06-20T23:22:53.000Z,#007 Aston Martin Carmaker Says Brexit To Boost Exports &amp; British Competitiveness https://t.co/BPXRJW4sk2 https://t.co/vVcSjYqtnN,['007']
+5,5,5,2262126,746461116767821824,15074697,neutral,other,2016-06-24T21:52:53.000Z,Everything's going according to Blofeld's plan #Brexit #007,"['007', 'brexit']"
+6,6,6,1586858,746106902476529664,384717221,positive,leave,2016-06-23T22:25:22.000Z,"$EURJPY ""I am invincible!"" Minus the last part #brexit #007 https://t.co/txHWBnSdZp","['007', 'brexit']"
+7,7,7,2101143,746383495509970944,29196353,neutral,other,2016-06-24T16:44:27.000Z,Was bedeutet der Brexit für Film- und TV-Produktion? https://t.co/TR10ZmED2l #007 #Stars #Kofferpacken,"['007', 'stars', 'kofferpacken']"
+8,8,8,1975274,746299690677846016,20152152,negative,remain,2016-06-24T11:11:26.000Z,"Fran Drescher #007-F #Bond, Jamie Bond. License to Kill now License to Nag. #BREXIT https://t.co/kEABpHqc8x","['007-f', 'bond', 'brexit']"
+9,9,9,2375107,746637724908650496,16345700,neutral,leave,2016-06-25T09:34:40.000Z,Made in Britain #brexit #01189998819991197253,"['01189998819991197253', 'brexit']"
+10,10,10,946822,740248306039787520,206134168,positive,leave,2016-06-07T18:25:23.000Z,A arte da escrita | Daily Vlog #02: https://t.co/mUv0lyAyRc via @YouTube,['02']
+11,11,11,1627988,746193060569063424,700431698,positive,remain,2016-06-24T04:07:43.000Z,"RT @fantagiomusic: [#아스트로] 2016.07.01 0:00AM
 ASTRO 2nd MINI ALBUM 'Summer Vibes' CONCEPT PHOTO #02
 #라키 #숨가빠 https://t.co/7TR1qJZVls","['02', '라키', '숨가빠']"
-436907,717419914357837824,815614020,neutral,remain,2016-04-05T18:33:31.000Z,"Kan Panamadokumenten leda till Brexit genom att underminera David Cameron? 
+12,12,12,436907,717419914357837824,815614020,neutral,remain,2016-04-05T18:33:31.000Z,"Kan Panamadokumenten leda till Brexit genom att underminera David Cameron? 
 https://t.co/RBLEPCVZHt
 #svpol
 #021pol","['021pol', 'svpol']"
-9308,686534268324057088,815614020,neutral,other,2016-01-11T13:04:59.000Z,"Katalonien, Polen och Brexit, hur ska detta sluta?
+13,13,13,9308,686534268324057088,815614020,neutral,other,2016-01-11T13:04:59.000Z,"Katalonien, Polen och Brexit, hur ska detta sluta?
 https://t.co/ZLIANt07Ma
 #svpol
 #021pol","['021pol', 'svpol']"
-1315734,744868931521880064,815614020,neutral,remain,2016-06-20T12:26:06.000Z,"Löfven: Blir ingen kollaps i Sverige om Brexit vinner. Men vem trodde det? Mesta pekar nu på Remain
+14,14,14,1315734,744868931521880064,815614020,neutral,remain,2016-06-20T12:26:06.000Z,"Löfven: Blir ingen kollaps i Sverige om Brexit vinner. Men vem trodde det? Mesta pekar nu på Remain
 https://t.co/UinffteP5m
 #svpol
 #021pol","['021pol', 'svpol']"
-158216,701788691392557056,815614020,neutral,remain,2016-02-22T15:20:37.000Z,"Boris Johnson är bara Boris med väljarna. Det gör hans stöd för Brexit noterbart.
+15,15,15,158216,701788691392557056,815614020,neutral,remain,2016-02-22T15:20:37.000Z,"Boris Johnson är bara Boris med väljarna. Det gör hans stöd för Brexit noterbart.
 https://t.co/oRRytyyWLg
 #svpol
 #021pol","['021pol', 'svpol']"
-570998,725271172552773632,815614020,neutral,other,2016-04-27T10:31:37.000Z,"Om Trump blir nominerad, bör politiker i omvärlden, likt Obama om Brexit, ge väljarna i USA goda råd?
+16,16,16,570998,725271172552773632,815614020,neutral,other,2016-04-27T10:31:37.000Z,"Om Trump blir nominerad, bör politiker i omvärlden, likt Obama om Brexit, ge väljarna i USA goda råd?
 https://t.co/shkORkEUIq
 #svpol
 #021pol","['021pol', 'svpol']"
-1932854,746312934297468928,38391507,neutral,remain,2016-06-24T12:04:04.000Z,"Today on the blog, we featured our Fake Friends. 
+17,17,17,1932854,746312934297468928,38391507,neutral,remain,2016-06-24T12:04:04.000Z,"Today on the blog, we featured our Fake Friends. 
 
 #032igers 
 
 urfakefriend https://t.co/S5AGWu7Agz",['032igers']
-1305879,744826198375665664,1634763686,neutral,remain,2016-06-20T09:36:18.000Z,need business Development officer at Dreamworld Resort Hotel  Lahore  graduate 2 year exp sales exp #0345-8264417  email:aliaamer8@gmail.com,['0345-8264417']
-1511943,745912291296681984,2231508102,positive,other,2016-06-23T09:32:03.000Z,India well prepared for #039;Brexit#039;: Finance Ministry https://t.co/L7ViHaubqH,['039;brexit#039']
-1295496,744732514284113920,2231508102,negative,other,2016-06-20T03:24:02.000Z,#039;Brexit#039; could send shock waves across global economy https://t.co/9oM91Ivo9L,['039;brexit#039']
-2094703,746380396011593728,2231502476,negative,remain,2016-06-24T16:32:08.000Z,British pound falls to lowest level since 1985 as #039;Leave#039; side triumphs in Brexit vote https://t.co/jLcrgh4DVZ,['039;leave#039']
-803220,736165357149257728,2231517942,neutral,other,2016-05-27T12:01:13.000Z,G7: Brexit #039;risk to global growth#039; https://t.co/LXDQe5AQOH #news #uk | https://t.co/FDrLBT7jI5,"['039;risk', 'news', 'uk']"
-1103338,742723237100937216,149868001,negative,remain,2016-06-14T14:19:53.000Z,#Cambridge Vice-Chancellor: Brexit is bad for scientific research #jobs # #Cambridge: #03:32 Quest's camper p... https://t.co/F9jNLVMBPE,"['03:32', 'cambridge', 'cambridge', 'jobs']"
-934359,740025686023274496,344160709,negative,remain,2016-06-07T03:40:47.000Z,"RT @hyoyeonsubs2: BAEK said he picked #04 bc during Growl it was Baseball concept &amp; the 4th hitter is said to be most imp&amp;acknowledged
+18,18,18,1305879,744826198375665664,1634763686,neutral,remain,2016-06-20T09:36:18.000Z,need business Development officer at Dreamworld Resort Hotel  Lahore  graduate 2 year exp sales exp #0345-8264417  email:aliaamer8@gmail.com,['0345-8264417']
+19,19,19,1511943,745912291296681984,2231508102,positive,other,2016-06-23T09:32:03.000Z,India well prepared for #039;Brexit#039;: Finance Ministry https://t.co/L7ViHaubqH,['039;brexit#039']
+20,20,20,1295496,744732514284113920,2231508102,negative,other,2016-06-20T03:24:02.000Z,#039;Brexit#039; could send shock waves across global economy https://t.co/9oM91Ivo9L,['039;brexit#039']
+21,21,21,2094703,746380396011593728,2231502476,negative,remain,2016-06-24T16:32:08.000Z,British pound falls to lowest level since 1985 as #039;Leave#039; side triumphs in Brexit vote https://t.co/jLcrgh4DVZ,['039;leave#039']
+22,22,22,803220,736165357149257728,2231517942,neutral,other,2016-05-27T12:01:13.000Z,G7: Brexit #039;risk to global growth#039; https://t.co/LXDQe5AQOH #news #uk | https://t.co/FDrLBT7jI5,"['039;risk', 'news', 'uk']"
+23,23,23,1103338,742723237100937216,149868001,negative,remain,2016-06-14T14:19:53.000Z,#Cambridge Vice-Chancellor: Brexit is bad for scientific research #jobs # #Cambridge: #03:32 Quest's camper p... https://t.co/F9jNLVMBPE,"['03:32', 'cambridge', 'cambridge', 'jobs']"
+24,24,24,934359,740025686023274496,344160709,negative,remain,2016-06-07T03:40:47.000Z,"RT @hyoyeonsubs2: BAEK said he picked #04 bc during Growl it was Baseball concept &amp; the 4th hitter is said to be most imp&amp;acknowledged
 http…",['04']
-837609,737610468924100608,119052031,negative,other,2016-05-31T11:43:34.000Z,Ich habe ein Video zu einer @YouTube-Playlist hinzugefügt: https://t.co/S27kkO8Ysi Let's Play Dragon Age Origins #045 - Der,['045']
-174653,702102175317536768,2517117878,neutral,other,2016-02-23T12:06:17.000Z,A State of Cloud #046 - BREXIT: the impact for Cloud Providers based in UK and the EU https://t.co/ak4eHVrPGA,['046']
-192492,702566046201282560,214016432,neutral,other,2016-02-24T18:49:33.000Z,A State of Cloud #046 - BREXIT: the impact for Cloud Providers based in UK and the EU https://t.co/aG6rfdb4xm,['046']
-95744,700366383658438656,3323385934,neutral,remain,2016-02-18T17:08:52.000Z,Podoba mi się film Ghost Master #05 - Wchodzę w ludzi ()_() w @YouTube – https://t.co/2W6C7PJaog,['05']
-1349772,745046054396104704,91890954,negative,other,2016-06-21T00:09:56.000Z,Hhealth https://t.co/nCapzpxYff #0526 Better Breads  Guilt-free Desserts: Top Converting Health Offers! https://t.co/vdT2APUO06,['0526']
-2042614,746357293441245184,2476387929,neutral,other,2016-06-24T15:00:20.000Z,BREXIT | INFOVIDEO #053 | Let's Talk Info: https://t.co/k4bY9FwZ3g über @YouTube,['053']
-188333,702463487620952064,718651225,neutral,remain,2016-02-24T12:02:01.000Z,#05Mar Estaremos compartiendo tarima con @Landsemk y @ManoDuraMetal en @TiburonClubBB a Rockear! https://t.co/9PJDU4t1eH,['05mar']
-1303362,744813687882416128,704447616306814976,neutral,other,2016-06-20T08:46:35.000Z,ÉDITO #07 - BREXIT:       submitted by    /u/frandy21  [link]   [comments]  https://t.co/RvUUJ9XbZS,['07']
-1949875,746289448623702016,2631185584,negative,remain,2016-06-24T10:30:44.000Z,Let's Play Dark Souls 3 #074 Den Typen kennen wir doch oder nicht? [German] [HD]: https://t.co/BXDxKB1lu9 über @YouTube,['074']
-275586,706404174154563584,15286352,neutral,leave,2016-03-06T09:00:54.000Z,10 países con el agua más contaminada en el mundo #0800FlorWeb #Blog – https://t.co/U2VexYEYT5,"['0800florweb', 'blog']"
-1126254,742970690563911680,123882741,positive,other,2016-06-15T06:43:11.000Z,I liked a @YouTube video from @lvmisverige https://t.co/E9ZpNxBN3U Keir Martland om Brexit | #085 Radio Mises,['085']
-2243324,746472868360290304,1365820224,positive,other,2016-06-24T22:39:35.000Z,Beauty Salon : #0995 Portable Tattoo Chair Massage Table Spa Beauty Salon Facial Treatment Bed White https://t.co/if48tMcWDJ Deals #4949,"['0995', '4949']"
-2443887,746724226896363520,911656490,negative,leave,2016-06-25T15:18:23.000Z,"US had their #RedWave #Brexit 11/2014 (as a referendum of @BarackObama's policies), but HE didn't resign. #0bozo #MrMomJeans #YouSuck @VJ44","['0bozo', 'brexit', 'mrmomjeans', 'redwave', 'yousuck']"
-2104902,746385248318021632,612872702,positive,other,2016-06-24T16:51:25.000Z,The latest The Taboo Fetish Talk Daily! https://t.co/umdaehssaz Thanks to @demonseed69 @KissaSins @deMonddUshawn #brexit #0cou,"['0cou', 'brexit']"
-1840496,746248500493508608,1139307337,neutral,other,2016-06-24T07:48:01.000Z,PM David Cameron to announce resignation #0to100 #brexit,"['0to100', 'brexit']"
-436198,717377106938830848,555370896,positive,other,2016-04-05T15:43:25.000Z,We're already Australia's #1 European export market. Brexit would be in Canberra's interests: boost exports further via a free trade deal.,['1']
-1004260,741257789561933824,128641320,neutral,other,2016-06-10T13:16:43.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/Ejl715H1Ks",['1']
-1106972,742719318278840320,74441791,neutral,remain,2016-06-14T14:04:19.000Z,"RT @SMTownEngSub: SBS MTV The Show #1 nominees this week:
+25,25,25,837609,737610468924100608,119052031,negative,other,2016-05-31T11:43:34.000Z,Ich habe ein Video zu einer @YouTube-Playlist hinzugefügt: https://t.co/S27kkO8Ysi Let's Play Dragon Age Origins #045 - Der,['045']
+26,26,26,174653,702102175317536768,2517117878,neutral,other,2016-02-23T12:06:17.000Z,A State of Cloud #046 - BREXIT: the impact for Cloud Providers based in UK and the EU https://t.co/ak4eHVrPGA,['046']
+27,27,27,192492,702566046201282560,214016432,neutral,other,2016-02-24T18:49:33.000Z,A State of Cloud #046 - BREXIT: the impact for Cloud Providers based in UK and the EU https://t.co/aG6rfdb4xm,['046']
+28,28,28,95744,700366383658438656,3323385934,neutral,remain,2016-02-18T17:08:52.000Z,Podoba mi się film Ghost Master #05 - Wchodzę w ludzi ()_() w @YouTube – https://t.co/2W6C7PJaog,['05']
+29,29,29,1349772,745046054396104704,91890954,negative,other,2016-06-21T00:09:56.000Z,Hhealth https://t.co/nCapzpxYff #0526 Better Breads  Guilt-free Desserts: Top Converting Health Offers! https://t.co/vdT2APUO06,['0526']
+30,30,30,2042614,746357293441245184,2476387929,neutral,other,2016-06-24T15:00:20.000Z,BREXIT | INFOVIDEO #053 | Let's Talk Info: https://t.co/k4bY9FwZ3g über @YouTube,['053']
+31,31,31,188333,702463487620952064,718651225,neutral,remain,2016-02-24T12:02:01.000Z,#05Mar Estaremos compartiendo tarima con @Landsemk y @ManoDuraMetal en @TiburonClubBB a Rockear! https://t.co/9PJDU4t1eH,['05mar']
+32,32,32,1303362,744813687882416128,704447616306814976,neutral,other,2016-06-20T08:46:35.000Z,ÉDITO #07 - BREXIT:       submitted by    /u/frandy21  [link]   [comments]  https://t.co/RvUUJ9XbZS,['07']
+33,33,33,1949875,746289448623702016,2631185584,negative,remain,2016-06-24T10:30:44.000Z,Let's Play Dark Souls 3 #074 Den Typen kennen wir doch oder nicht? [German] [HD]: https://t.co/BXDxKB1lu9 über @YouTube,['074']
+34,34,34,275586,706404174154563584,15286352,neutral,leave,2016-03-06T09:00:54.000Z,10 países con el agua más contaminada en el mundo #0800FlorWeb #Blog – https://t.co/U2VexYEYT5,"['0800florweb', 'blog']"
+35,35,35,1126254,742970690563911680,123882741,positive,other,2016-06-15T06:43:11.000Z,I liked a @YouTube video from @lvmisverige https://t.co/E9ZpNxBN3U Keir Martland om Brexit | #085 Radio Mises,['085']
+36,36,36,2243324,746472868360290304,1365820224,positive,other,2016-06-24T22:39:35.000Z,Beauty Salon : #0995 Portable Tattoo Chair Massage Table Spa Beauty Salon Facial Treatment Bed White https://t.co/if48tMcWDJ Deals #4949,"['0995', '4949']"
+37,37,37,2443887,746724226896363520,911656490,negative,leave,2016-06-25T15:18:23.000Z,"US had their #RedWave #Brexit 11/2014 (as a referendum of @BarackObama's policies), but HE didn't resign. #0bozo #MrMomJeans #YouSuck @VJ44","['0bozo', 'brexit', 'mrmomjeans', 'redwave', 'yousuck']"
+38,38,38,2104902,746385248318021632,612872702,positive,other,2016-06-24T16:51:25.000Z,The latest The Taboo Fetish Talk Daily! https://t.co/umdaehssaz Thanks to @demonseed69 @KissaSins @deMonddUshawn #brexit #0cou,"['0cou', 'brexit']"
+39,39,39,1840496,746248500493508608,1139307337,neutral,other,2016-06-24T07:48:01.000Z,PM David Cameron to announce resignation #0to100 #brexit,"['0to100', 'brexit']"
+40,40,40,436198,717377106938830848,555370896,positive,other,2016-04-05T15:43:25.000Z,We're already Australia's #1 European export market. Brexit would be in Canberra's interests: boost exports further via a free trade deal.,['1']
+41,41,41,1004260,741257789561933824,128641320,neutral,other,2016-06-10T13:16:43.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/Ejl715H1Ks",['1']
+42,42,42,1106972,742719318278840320,74441791,neutral,remain,2016-06-14T14:04:19.000Z,"RT @SMTownEngSub: SBS MTV The Show #1 nominees this week:
 • Luna
 • EXID
 • Baek A Yeon https://t.co/V0VeH0sdxf",['1']
-1972567,746328849445642240,128435690,neutral,leave,2016-06-24T13:07:18.000Z,"Container Gardens &amp; Recipes #1: This time of year we are all trying to get our yards, gardens, decks and pati... https://t.co/WnD2MHbw9f",['1']
-1164208,743191276745560064,3344564308,negative,leave,2016-06-15T21:19:42.000Z,#1 Boa!! https://t.co/T9utrwaaP2,['1']
-493537,721071467635544064,3807841283,negative,remain,2016-04-15T20:23:29.000Z,RT @SadityPrincess_: Rule #1 to be a boss ass bitch .. Never 🙅🏻 let a pussy nigga try to play you 🖕🏼💯,['1']
-997081,741178453211418624,27185960,neutral,other,2016-06-10T08:01:28.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain $GS $JPM $FXB https://t.co/OL6r5DFJip",['1']
-663457,731102953717829632,78714922,negative,remain,2016-05-13T12:45:02.000Z,"RELEASE BOOST
+43,43,43,1972567,746328849445642240,128435690,neutral,leave,2016-06-24T13:07:18.000Z,"Container Gardens &amp; Recipes #1: This time of year we are all trying to get our yards, gardens, decks and pati... https://t.co/WnD2MHbw9f",['1']
+44,44,44,1164208,743191276745560064,3344564308,negative,leave,2016-06-15T21:19:42.000Z,#1 Boa!! https://t.co/T9utrwaaP2,['1']
+45,45,45,493537,721071467635544064,3807841283,negative,remain,2016-04-15T20:23:29.000Z,RT @SadityPrincess_: Rule #1 to be a boss ass bitch .. Never 🙅🏻 let a pussy nigga try to play you 🖕🏼💯,['1']
+46,46,46,997081,741178453211418624,27185960,neutral,other,2016-06-10T08:01:28.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain $GS $JPM $FXB https://t.co/OL6r5DFJip",['1']
+47,47,47,663457,731102953717829632,78714922,negative,remain,2016-05-13T12:45:02.000Z,"RELEASE BOOST
 Title: Fall Back Skyward
 Series: Fall Back #1
 Author: Author Autumn Grey
 Genre: Contemporary... https://t.co/NQ1MNrOhQZ",['1']
-1488227,745785225397952512,621234674,neutral,other,2016-06-23T01:07:08.000Z,@allsports_27  lol Dunn is projected to go like 7th or 8th the 3rd best/steal of the draft is Murray. Even the 6ers considered taking him #1,['1']
-2193163,746435766893445120,2298965749,neutral,other,2016-06-24T20:12:09.000Z,"#1: The Very Best of Ralph Stanley: The Very Best of Ralph Stanley ~ Ralph Stanley 54,031% Sales Rank in Musi... https://t.co/rrtfHAG2Mh",['1']
-2255725,746484377660588032,3173831373,positive,remain,2016-06-24T23:25:19.000Z,@SquawkCNBC @CNBC  Good Brexit show. Kayla is a rising CNBC star &amp; has surpassed Sara. Kelly still #1.,['1']
-564421,724877264907816960,555370896,neutral,other,2016-04-26T08:26:22.000Z,London was a global financial centre for 150 years before we joined the EU (EEC). It's still world #1 today. London will thrive post-Brexit.,['1']
-2193665,746436105654788096,15973687,neutral,other,2016-06-24T20:13:30.000Z,Brexit impact #1 - Marmite just became a whole lot cheaper in Indonesia,['1']
-437254,717447860804055040,555370896,positive,other,2016-04-05T20:24:34.000Z,We're already New Zealand's #1 European export market. Brexit would be in  Wellington's interests: boost exports more via a free trade deal.,['1']
-1029010,741654099079368704,18604681,neutral,other,2016-06-11T15:31:31.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/OJx9CuvzTE",['1']
-1125957,742967472689680384,14680805,neutral,other,2016-06-15T06:30:23.000Z,Brexit myths #1: We're dictated to by Brussels https://t.co/1hzuLicOpx,['1']
-1920501,746308019382673408,730646181903093760,neutral,leave,2016-06-24T11:44:32.000Z,"@Flaganatas @Annrhefn Well in this case, that wasn't why they did it. Apparently the #1 reason for Brexit was national sovereignty.",['1']
-2254716,746483327167664128,804982640,positive,remain,2016-06-24T23:21:08.000Z,"@rickygervais: ""Joking aside, Brexit won't make any difference. 
+48,48,48,1488227,745785225397952512,621234674,neutral,other,2016-06-23T01:07:08.000Z,@allsports_27  lol Dunn is projected to go like 7th or 8th the 3rd best/steal of the draft is Murray. Even the 6ers considered taking him #1,['1']
+49,49,49,2193163,746435766893445120,2298965749,neutral,other,2016-06-24T20:12:09.000Z,"#1: The Very Best of Ralph Stanley: The Very Best of Ralph Stanley ~ Ralph Stanley 54,031% Sales Rank in Musi... https://t.co/rrtfHAG2Mh",['1']
+50,50,50,2255725,746484377660588032,3173831373,positive,remain,2016-06-24T23:25:19.000Z,@SquawkCNBC @CNBC  Good Brexit show. Kayla is a rising CNBC star &amp; has surpassed Sara. Kelly still #1.,['1']
+51,51,51,564421,724877264907816960,555370896,neutral,other,2016-04-26T08:26:22.000Z,London was a global financial centre for 150 years before we joined the EU (EEC). It's still world #1 today. London will thrive post-Brexit.,['1']
+52,52,52,2193665,746436105654788096,15973687,neutral,other,2016-06-24T20:13:30.000Z,Brexit impact #1 - Marmite just became a whole lot cheaper in Indonesia,['1']
+53,53,53,437254,717447860804055040,555370896,positive,other,2016-04-05T20:24:34.000Z,We're already New Zealand's #1 European export market. Brexit would be in  Wellington's interests: boost exports more via a free trade deal.,['1']
+54,54,54,1029010,741654099079368704,18604681,neutral,other,2016-06-11T15:31:31.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/OJx9CuvzTE",['1']
+55,55,55,1125957,742967472689680384,14680805,neutral,other,2016-06-15T06:30:23.000Z,Brexit myths #1: We're dictated to by Brussels https://t.co/1hzuLicOpx,['1']
+56,56,56,1920501,746308019382673408,730646181903093760,neutral,leave,2016-06-24T11:44:32.000Z,"@Flaganatas @Annrhefn Well in this case, that wasn't why they did it. Apparently the #1 reason for Brexit was national sovereignty.",['1']
+57,57,57,2254716,746483327167664128,804982640,positive,remain,2016-06-24T23:21:08.000Z,"@rickygervais: ""Joking aside, Brexit won't make any difference. 
 The rich will still be rich,…"" #1 in United Kingdom https://t.co/Y0wC6QZdoz",['1']
-523137,722791055071043584,273080957,negative,other,2016-04-20T14:16:30.000Z,"@jamesagate I'll take a look for you. Brexit is #1 issue in terms of G/U rates, then BOE policy. My trade bias has been to short the GBP.",['1']
-1647278,746176413015879680,20810375,positive,remain,2016-06-24T03:01:34.000Z,"RT @nelsonbocaranda: 12 países en los q habrá que revisar cuentas bancarias, casas,hoteles&amp;apartamentos  de personeros rojos desde el #1 ht…",['1']
-1037068,741797357600145408,2269557301,neutral,other,2016-06-12T01:00:46.000Z,"#1 Reason to Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain https://t.co/DmG9HRVqMH via @MishGEA",['1']
-998539,741197785958088704,236873316,neutral,other,2016-06-10T09:18:17.000Z,"#1 Reason to Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain https://t.co/scSZCqqeaM via @MishGEA",['1']
-1551328,746025791037804544,46431763,neutral,leave,2016-06-23T17:03:03.000Z,Suspiciously timed Brexit newsdrop #1 Deutsche Bank to reorganise its private and commercial banking business in Germany,['1']
-737511,734043986273402880,2252017892,neutral,other,2016-05-21T15:31:38.000Z,"@kingbill73 @polnyypesets @RogerHelmerMEP 
+58,58,58,523137,722791055071043584,273080957,negative,other,2016-04-20T14:16:30.000Z,"@jamesagate I'll take a look for you. Brexit is #1 issue in terms of G/U rates, then BOE policy. My trade bias has been to short the GBP.",['1']
+59,59,59,1647278,746176413015879680,20810375,positive,remain,2016-06-24T03:01:34.000Z,"RT @nelsonbocaranda: 12 países en los q habrá que revisar cuentas bancarias, casas,hoteles&amp;apartamentos  de personeros rojos desde el #1 ht…",['1']
+60,60,60,1037068,741797357600145408,2269557301,neutral,other,2016-06-12T01:00:46.000Z,"#1 Reason to Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain https://t.co/DmG9HRVqMH via @MishGEA",['1']
+61,61,61,998539,741197785958088704,236873316,neutral,other,2016-06-10T09:18:17.000Z,"#1 Reason to Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain https://t.co/scSZCqqeaM via @MishGEA",['1']
+62,62,62,1551328,746025791037804544,46431763,neutral,leave,2016-06-23T17:03:03.000Z,Suspiciously timed Brexit newsdrop #1 Deutsche Bank to reorganise its private and commercial banking business in Germany,['1']
+63,63,63,737511,734043986273402880,2252017892,neutral,other,2016-05-21T15:31:38.000Z,"@kingbill73 @polnyypesets @RogerHelmerMEP 
 Correct.
 This might help-
 Brexit Dictionary.
 New definitions- #1
 Migrant. https://t.co/g2oWoTDaSy",['1']
-604232,728014637258539008,3009650729,negative,other,2016-05-05T00:13:10.000Z,RT @Darryllayton3: 4. If he an Athlete show up to his games and support him .. #1 Fan on and off the Field or Court .,['1']
-1008615,741311994721112064,2190315380,neutral,other,2016-06-10T16:52:07.000Z,"@UKIPNFKN @davidagoodland #1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/4Lffgofcfl",['1']
-1116063,742797258568126464,1390545049,negative,other,2016-06-14T19:14:01.000Z,posição 13412 no Ranking segue-de-volta. Confira os 100 primeiros: https://t.co/T0LzGuzUOK. #1 @segvolta,['1']
-1217792,743722139493138432,3099991173,neutral,other,2016-06-17T08:29:10.000Z,Kevin Hart: What Now? Official Trailer #1 (2016) - Stand-up Concert Movie HD https://t.co/MPJfVviwcG,['1']
-1007543,741298573686378496,701920073967996928,neutral,other,2016-06-10T15:58:47.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain
+64,64,64,604232,728014637258539008,3009650729,negative,other,2016-05-05T00:13:10.000Z,RT @Darryllayton3: 4. If he an Athlete show up to his games and support him .. #1 Fan on and off the Field or Court .,['1']
+65,65,65,1008615,741311994721112064,2190315380,neutral,other,2016-06-10T16:52:07.000Z,"@UKIPNFKN @davidagoodland #1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/4Lffgofcfl",['1']
+66,66,66,1116063,742797258568126464,1390545049,negative,other,2016-06-14T19:14:01.000Z,posição 13412 no Ranking segue-de-volta. Confira os 100 primeiros: https://t.co/T0LzGuzUOK. #1 @segvolta,['1']
+67,67,67,1217792,743722139493138432,3099991173,neutral,other,2016-06-17T08:29:10.000Z,Kevin Hart: What Now? Official Trailer #1 (2016) - Stand-up Concert Movie HD https://t.co/MPJfVviwcG,['1']
+68,68,68,1007543,741298573686378496,701920073967996928,neutral,other,2016-06-10T15:58:47.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain
 https://t.co/YlHhxbwbES",['1']
-2423807,746696108596932608,1710669524,positive,remain,2016-06-25T13:26:39.000Z,GTA V ! (Best of Funny Moments #1) https://t.co/LSfOd6yMGZ via @YouTube,['1']
-996540,741169717797228544,1633334168,neutral,other,2016-06-10T07:26:45.000Z,DEALS! #1: BRITA MAXTRA Water Filter Cartridges - Pack of 4: BRITA MAXTRA Water Filter Cartridges - Pack of 4... https://t.co/qx0DIzTAw7,['1']
-1003078,741246117573189632,18856867,neutral,other,2016-06-10T12:30:20.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/OD9PhDJ3ne",['1']
-1631022,746165163666083840,17419716,positive,other,2016-06-24T02:16:52.000Z,#1 Secret to Maintain Strong Bones and Joints - VIDEO https://t.co/vSqqHbTYlp,['1']
-123718,701043943203586048,218239242,positive,other,2016-02-20T14:01:15.000Z,posição 11382 no Ranking segue-de-volta. Confira os 100 primeiros: https://t.co/dQy9IA34wj. #1 @segvolta,['1']
-1431469,745567627737600000,355115300,neutral,other,2016-06-22T10:42:29.000Z,Brexit mood swings soundtrack #1 https://t.co/wgi8gm91vf,['1']
-691475,732205865869041664,6270232,positive,other,2016-05-16T13:47:36.000Z,Brexit Essays #1: Time for Ireland to grow up and get beyond its devotion to the EU? https://t.co/iAGZgL4jX9 https://t.co/gPA1ZSGpcG,['1']
-1005446,741271875758723072,2190315380,neutral,other,2016-06-10T14:12:42.000Z,"@yagbebi #1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/4Lffgofcfl https://t.co/Rr1HfHgjHY",['1']
-1007270,741294642189225984,15985098,neutral,other,2016-06-10T15:43:09.000Z,"#1 Reason to Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain | MishTalk https://t.co/lgNhwMIn6c",['1']
-1003309,741247840312303616,380244433,neutral,other,2016-06-10T12:37:11.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain | Zero Hedge https://t.co/XWJk5lXVWF",['1']
-552053,724157226256990208,804982640,positive,other,2016-04-24T08:45:11.000Z,"@TheEconomist: ""Putin is keen on Brexit. That's something for Eurosceptics to think about…"" #1 in United Kingdom https://t.co/axOsXU2RNG",['1']
-1829841,746275393678630912,382924739,positive,other,2016-06-24T09:34:53.000Z,Of course this douche supports the racially-tinged Brexit. Not shocking since his #1 issue is basically Mexit.  https://t.co/gwNvmOBHkd,['1']
-2024323,746349550667849728,14003222,neutral,leave,2016-06-24T14:29:34.000Z,"On the other side the #1 brexit argument was immigration, so I guess they'd be unhappy about EEA freedom of movement?",['1']
-1914245,746305421619630080,87631028,neutral,remain,2016-06-24T11:34:12.000Z,"@mays_kinga oui ils vont simuler ""l'avenir"" en s'appuyant sur des hypothèses, des variables comme la conjoncture, Brexit etc etc #1",['1']
-1974037,746329428838481920,2610286794,neutral,other,2016-06-24T13:09:36.000Z,@PrisonPlanet Will Brexit become the new #1 baby name?,['1']
-1249027,744135744525066240,21108088,neutral,remain,2016-06-18T11:52:41.000Z,"@RvL_Rapio I mean, China vs EU/World #1, went exactly how anybody could've expected :/",['1']
-1995438,746337829370929152,404050457,positive,remain,2016-06-24T13:42:59.000Z,Surreal food world #1. Confectionery likely to lose most from Brexit! https://t.co/3JqKnLN2Lr  Had to laugh! Johnson &amp; Gove sweet snatchers,['1']
-938596,740124821216862208,2383142268,negative,remain,2016-06-07T10:14:42.000Z,RT @SongJoongKi_SG: [PHOTO] 160607 Song Joong Ki - TOPTEN10 2016 S/S Lookbook #1 https://t.co/q2U0mSPOwJ,['1']
-2239634,746469484001628160,2370915000,positive,other,2016-06-24T22:26:08.000Z,"I liked a @YouTube video from @gladiatorgamer1 https://t.co/jWhXAfitW7 Brexit! | Podcast #1 | Other topics: Lord Rexasaur's Tourney,",['1']
-1692457,746195719082512384,953127818,negative,other,2016-06-24T04:18:17.000Z,"This is why we are the #1 Health &amp; Wellness Company in the WORLD.  Big things are about drop.
+69,69,69,2423807,746696108596932608,1710669524,positive,remain,2016-06-25T13:26:39.000Z,GTA V ! (Best of Funny Moments #1) https://t.co/LSfOd6yMGZ via @YouTube,['1']
+70,70,70,996540,741169717797228544,1633334168,neutral,other,2016-06-10T07:26:45.000Z,DEALS! #1: BRITA MAXTRA Water Filter Cartridges - Pack of 4: BRITA MAXTRA Water Filter Cartridges - Pack of 4... https://t.co/qx0DIzTAw7,['1']
+71,71,71,1003078,741246117573189632,18856867,neutral,other,2016-06-10T12:30:20.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/OD9PhDJ3ne",['1']
+72,72,72,1631022,746165163666083840,17419716,positive,other,2016-06-24T02:16:52.000Z,#1 Secret to Maintain Strong Bones and Joints - VIDEO https://t.co/vSqqHbTYlp,['1']
+73,73,73,123718,701043943203586048,218239242,positive,other,2016-02-20T14:01:15.000Z,posição 11382 no Ranking segue-de-volta. Confira os 100 primeiros: https://t.co/dQy9IA34wj. #1 @segvolta,['1']
+74,74,74,1431469,745567627737600000,355115300,neutral,other,2016-06-22T10:42:29.000Z,Brexit mood swings soundtrack #1 https://t.co/wgi8gm91vf,['1']
+75,75,75,691475,732205865869041664,6270232,positive,other,2016-05-16T13:47:36.000Z,Brexit Essays #1: Time for Ireland to grow up and get beyond its devotion to the EU? https://t.co/iAGZgL4jX9 https://t.co/gPA1ZSGpcG,['1']
+76,76,76,1005446,741271875758723072,2190315380,neutral,other,2016-06-10T14:12:42.000Z,"@yagbebi #1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/4Lffgofcfl https://t.co/Rr1HfHgjHY",['1']
+77,77,77,1007270,741294642189225984,15985098,neutral,other,2016-06-10T15:43:09.000Z,"#1 Reason to Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain | MishTalk https://t.co/lgNhwMIn6c",['1']
+78,78,78,1003309,741247840312303616,380244433,neutral,other,2016-06-10T12:37:11.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain | Zero Hedge https://t.co/XWJk5lXVWF",['1']
+79,79,79,552053,724157226256990208,804982640,positive,other,2016-04-24T08:45:11.000Z,"@TheEconomist: ""Putin is keen on Brexit. That's something for Eurosceptics to think about…"" #1 in United Kingdom https://t.co/axOsXU2RNG",['1']
+80,80,80,1829841,746275393678630912,382924739,positive,other,2016-06-24T09:34:53.000Z,Of course this douche supports the racially-tinged Brexit. Not shocking since his #1 issue is basically Mexit.  https://t.co/gwNvmOBHkd,['1']
+81,81,81,2024323,746349550667849728,14003222,neutral,leave,2016-06-24T14:29:34.000Z,"On the other side the #1 brexit argument was immigration, so I guess they'd be unhappy about EEA freedom of movement?",['1']
+82,82,82,1914245,746305421619630080,87631028,neutral,remain,2016-06-24T11:34:12.000Z,"@mays_kinga oui ils vont simuler ""l'avenir"" en s'appuyant sur des hypothèses, des variables comme la conjoncture, Brexit etc etc #1",['1']
+83,83,83,1974037,746329428838481920,2610286794,neutral,other,2016-06-24T13:09:36.000Z,@PrisonPlanet Will Brexit become the new #1 baby name?,['1']
+84,84,84,1249027,744135744525066240,21108088,neutral,remain,2016-06-18T11:52:41.000Z,"@RvL_Rapio I mean, China vs EU/World #1, went exactly how anybody could've expected :/",['1']
+85,85,85,1995438,746337829370929152,404050457,positive,remain,2016-06-24T13:42:59.000Z,Surreal food world #1. Confectionery likely to lose most from Brexit! https://t.co/3JqKnLN2Lr  Had to laugh! Johnson &amp; Gove sweet snatchers,['1']
+86,86,86,938596,740124821216862208,2383142268,negative,remain,2016-06-07T10:14:42.000Z,RT @SongJoongKi_SG: [PHOTO] 160607 Song Joong Ki - TOPTEN10 2016 S/S Lookbook #1 https://t.co/q2U0mSPOwJ,['1']
+87,87,87,2239634,746469484001628160,2370915000,positive,other,2016-06-24T22:26:08.000Z,"I liked a @YouTube video from @gladiatorgamer1 https://t.co/jWhXAfitW7 Brexit! | Podcast #1 | Other topics: Lord Rexasaur's Tourney,",['1']
+88,88,88,1692457,746195719082512384,953127818,negative,other,2016-06-24T04:18:17.000Z,"This is why we are the #1 Health &amp; Wellness Company in the WORLD.  Big things are about drop.
 
 Le-Vel Media Blitz... https://t.co/Ivd56P0neL",['1']
-1624675,746191004005335040,50759157,positive,remain,2016-06-24T03:59:33.000Z,but... didn't exac't reach top ten on the charts? and reached #1 in iTunes? 🤔 https://t.co/VVoU7XImKO,['1']
-1042895,741941513580511232,2649922692,neutral,other,2016-06-12T10:33:36.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/X2UpAUmHrp",['1']
-1971521,746328446624751616,3415204390,negative,other,2016-06-24T13:05:42.000Z,"Classic Trump move. Forget Brexit, my golf courses are #1! @CNNPolitics https://t.co/bYLvJee5aK",['1']
-694172,732291735188045824,112449060,positive,other,2016-05-16T19:28:49.000Z,Brexit Essays #1: Time for Ireland to grow up and get beyond its devotion to the EU? https://t.co/0fFKvvOPmk via @sluggerotoole,['1']
-994235,741088289696808960,36952586,neutral,other,2016-06-10T02:03:11.000Z,"#1 Reason to Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain https://t.co/ZfmllUo4e2 via @MishGEA",['1']
-2374136,746666787392077824,947281567,neutral,other,2016-06-25T11:30:09.000Z,#1 Tentang Brexit dan Pengaruhnya Terhadap Liga Primer Inggris https://t.co/3pHdHf30oj https://t.co/wWbRU47IAD,['1']
-706320,732689846683242496,353204765,positive,remain,2016-05-17T21:50:46.000Z,"I liked a @YouTube video from @ohmwrecker https://t.co/myue8j02T3 FRIENDSHIP TEST, HIT IT FROM THE BACK! | Gang Beasts #1 Funny",['1']
-1692068,746225763557347328,137816676,neutral,other,2016-06-24T06:17:40.000Z,Ich habe ein @YouTube-Video positiv bewertet: https://t.co/yeUKOo6jZv ..::how to::.. #1 dowload GTA SAN ANDREAS in 5min,['1']
-1729331,746240942542290944,50094742,negative,leave,2016-06-24T07:17:59.000Z,"RT @the1Dscene: 📸 | Niall leaving the Modest! management party yesterday 
+89,89,89,1624675,746191004005335040,50759157,positive,remain,2016-06-24T03:59:33.000Z,but... didn't exac't reach top ten on the charts? and reached #1 in iTunes? 🤔 https://t.co/VVoU7XImKO,['1']
+90,90,90,1042895,741941513580511232,2649922692,neutral,other,2016-06-12T10:33:36.000Z,"#1 Reason To Vote Brexit: Goldman Sachs, JPMorgan, &amp; The IMF Seek Remain https://t.co/X2UpAUmHrp",['1']
+91,91,91,1971521,746328446624751616,3415204390,negative,other,2016-06-24T13:05:42.000Z,"Classic Trump move. Forget Brexit, my golf courses are #1! @CNNPolitics https://t.co/bYLvJee5aK",['1']
+92,92,92,694172,732291735188045824,112449060,positive,other,2016-05-16T19:28:49.000Z,Brexit Essays #1: Time for Ireland to grow up and get beyond its devotion to the EU? https://t.co/0fFKvvOPmk via @sluggerotoole,['1']
+93,93,93,994235,741088289696808960,36952586,neutral,other,2016-06-10T02:03:11.000Z,"#1 Reason to Vote Brexit: Goldman Sachs, JPM, IMF Seek Remain https://t.co/ZfmllUo4e2 via @MishGEA",['1']
+94,94,94,2374136,746666787392077824,947281567,neutral,other,2016-06-25T11:30:09.000Z,#1 Tentang Brexit dan Pengaruhnya Terhadap Liga Primer Inggris https://t.co/3pHdHf30oj https://t.co/wWbRU47IAD,['1']
+95,95,95,706320,732689846683242496,353204765,positive,remain,2016-05-17T21:50:46.000Z,"I liked a @YouTube video from @ohmwrecker https://t.co/myue8j02T3 FRIENDSHIP TEST, HIT IT FROM THE BACK! | Gang Beasts #1 Funny",['1']
+96,96,96,1692068,746225763557347328,137816676,neutral,other,2016-06-24T06:17:40.000Z,Ich habe ein @YouTube-Video positiv bewertet: https://t.co/yeUKOo6jZv ..::how to::.. #1 dowload GTA SAN ANDREAS in 5min,['1']
+97,97,97,1729331,746240942542290944,50094742,negative,leave,2016-06-24T07:17:59.000Z,"RT @the1Dscene: 📸 | Niall leaving the Modest! management party yesterday 
 
 June 22nd, 2016 | via justjared | #1 https://t.co/7iH4ApNkIQ",['1']
-826412,737236683167518720,18080248,negative,other,2016-05-30T10:58:17.000Z,Brexit concern #1 Why France and Italy could be the next European economies to crash https://t.co/8y9uLa0L2A,['1']
-2316970,746587752209096704,804982640,positive,other,2016-06-25T06:16:05.000Z,"@TheEconomist: ""A striking amount of the variation in the Brexit vote can be explained by…"" #1 in United Kingdom https://t.co/NWCkBeDZXg",['1']
+98,98,98,826412,737236683167518720,18080248,negative,other,2016-05-30T10:58:17.000Z,Brexit concern #1 Why France and Italy could be the next European economies to crash https://t.co/8y9uLa0L2A,['1']
+99,99,99,2316970,746587752209096704,804982640,positive,other,2016-06-25T06:16:05.000Z,"@TheEconomist: ""A striking amount of the variation in the Brexit vote can be explained by…"" #1 in United Kingdom https://t.co/NWCkBeDZXg",['1']
