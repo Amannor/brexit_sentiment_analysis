@@ -1,4 +1,5 @@
 import html
+import re
 from collections import Counter, OrderedDict
 from string import punctuation
 import html.parser
@@ -11,12 +12,22 @@ BOT_SCORES_DF = None
 TAG_FREQ_PERCANT_CUTOFF = [0.1, 0.25, 0.5, 1, 1.5]
 DEFAULT_FIGSIZE_VALS = (6.4, 4.8)  # See https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html
 
-# Source: https://ukandeu.ac.uk/how-remain-and-leave-camps-use-hashtags/ (and a bit from https://hashtagify.me/hashtag/brexit)
+'''
+Sources for tag stance assigning:
+https://inews.co.uk/news/politics/know-fbpe-pcpeu-guide-remainer-hashtags-127673
+https://ukandeu.ac.uk/how-remain-and-leave-camps-use-hashtags/ (and a bit from https://hashtagify.me/hashtag/brexit)
+For #fbpe look for example at: https://www.markpack.org.uk/153702/fbpe-what-does-it-mean/
+'bollockstobrexit': https://en.wikipedia.org/wiki/Bollocks_to_Brexit
+'''
 LEAVE_TAGS = set(['no2eu', 'notoeu', 'no2europe', 'notoeurope', 'betteroffout', 'voteout', 'eureform', 'britainout',
-                  'leaveeu', 'voteleave', 'beleave', 'loveeuropeleaveeu', 'leave', 'brexiteer', 'brexiteers',
-                  'brexiters', 'saynotoeurope', 'britishindependence', 'brexitnow', 'brexitforever',
+                  'leaveeu', 'leaveeurope', 'voteleave', 'beleave', 'loveeuropeleaveeu', 'leave', 'brexiteer',
+                  'brexiteers', 'brexiters', 'saynotoeurope', 'britishindependence', 'brexitnow', 'brexitforever',
                   'backthebrexitdeal', 'standup4brexit', 'standupforbrexit', 'standup4bexit', 'standupforbexit',
-                  'standup4brexiit', 'standupforbrexiit'])
+                  'standup4brexiit', 'standupforbrexiit', 'pro-#brexit', 'pro-brexit', 'probrexit', 'fcukeu',
+                  'keepcalmandfcukeu', 'bleave', 'euexit', 'theonlywayisukip', 'makeukipgreatagain', 'backtoukip'
+                  'ukipallthewaynow', 'jointheukipfightback', 'voteukip', 'leaveeuofficial', 'leaveeuropeofficial',
+                  'fishingforleave', 'fishingforleav', 'supportukip', 'joinukiptoday', 'voteukiptoday', 'ukipisfreedom',
+                  'ukip4realbrexit', 'wantbrexitvoteukip', 'ukipfortheunion', 'ukipunited', 'ukvoteukip', 'ukip-forever'])
 REMAIN_TAGS = set(['yes2eu', 'yestoeu', 'yes2europe', 'yestoeurope', 'betteroffin', 'votein', 'ukineu', 'bremain',
                    'strongerin', 'leadnotleave', 'voteremain', 'remain', 'stopbrexit', 'fbpe', 'brexitreality',
                    'brexitshambles', 'torybrexitshambles', 'torybrexitdisaster', 'death2brexit', 'deathtobrexit',
@@ -30,9 +41,11 @@ REMAIN_TAGS = set(['yes2eu', 'yestoeu', 'yes2europe', 'yestoeurope', 'betteroffi
                    'iameuropean', 'toryshambles', 'getbrexitgone', 'stopthebrexitcoup', 'rejoineu', 'proeu',
                    'brexitbluff', 'brrrexshit', 'brexitfraud', 'fuckbrexit', 'brexitfail', 'standup2brexit',
                    'standuptobrexit', 'standupagainstbrexit', 'standup2brexitnonsense', 'standuptobrexitnonsense',
-                   'standupstopbrexit', 'stopbrexitsaturday'])
-# For #fbpe look for example at: https://www.markpack.org.uk/153702/fbpe-what-does-it-mean/
-# 'bollockstobrexit': https://en.wikipedia.org/wiki/Bollocks_to_Brexit
+                   'standupstopbrexit', 'stopbrexitsaturday', 'mpstopbrexit', 'brexitleavesbritainnaked', 'binbrexit',
+                   'pcpeu', 'waton', 'fuckukip', 'fukip', 'ukipout', 'fckukip', 'ukipfraud', 'banukip', 'ukipscum',
+                   'nevervoteukip', 'bringdowntoryukipgov', 'dontjoinukip', 'ukipisajoke', 'ukiparepoop', 'ukipfascists',
+                   'ukipnonsense', 'ukipracists', 'racistukip', 'stukipid', 'ukipinsheepsclothing',
+                   'ukiptoryfascistsout', 'ofoc'])
 
 ALL_TAGS = LEAVE_TAGS.union(REMAIN_TAGS)
 
@@ -65,7 +78,7 @@ def process_tokens(s):
             # Example for a string that causes this exception: 'good/#bad?:o\\'
             s = tmp
 
-    s = s.strip(punctuation.replace("?", ""))
+    s = s.strip(f'{punctuation.replace("?", "")}’')
 
     tmp = s
     for t in TOKENS_TO_REMOVE:
@@ -74,11 +87,45 @@ def process_tokens(s):
 
 
 def extract_hash_tags(s):
-    # Source: https://stackoverflow.com/a/2527903
+
+    s = s.replace("#@", "#") #To make sure no user-taggings will be in any hashtag
+    s = s.replace("#", " #") #To prevent concatenated hashtags
+    s = s.replace("@", "@ ") #To make sure no user-taggings will be in any hashtag
+
+    # Based on: https://stackoverflow.com/a/2527903
     tags = set(part[1:] for part in s.split() if part.startswith('#'))
+    tags_to_remove = set()
+    tags_to_add = set()
+    for cur_t in tags:
+        if any(x in cur_t for x in ["www.", "http:", "https:"]):
+            continue
+
+        '''
+        #####This part is wring because it convert user-taggings inside hashtags to hashtags. I'm committing this as a
+        comment for possible future reference.
+        Will delete in future commits 
+        for cur_token in ["r\@", "+@", "/@"]:
+            if cur_token in cur_t:
+                tags_to_remove.add(cur_t)
+                tags_to_add.update(set(cur_t.split(cur_token)))
+        '''
+
+        '''
+        This section was originally here for cases when hashtags contained, for example the substring: L'#Islam but the
+        previous code (of s = s.replace("#", " #")) made this part redundant. I'm committing this as a comment for
+        possible future reference.
+        for accented_prefix in ["l'", "d'", "qu'", "n'"]:
+            if f'{accented_prefix}#' in cur_t:
+                tags_to_remove.add(cur_t)
+                tags_to_add.add(cur_t.replace(f'{accented_prefix}#', accented_prefix))
+        '''
+
+        s = s.replace("-#", "-")
+
+    tags -= tags_to_remove
+    tags.update(tags_to_add)
     tags = [process_tokens(t.lower()) for t in tags]
     tags = list(filter(None, tags))  # Remove empty strings
-
     return tags
 
 
@@ -153,7 +200,7 @@ def plot_most_common(counter, n=10, keys_to_ignore=[], title_suffix=""):
 
     plt.xticks(rotation=45, ha="right")  # Tilt the x ticks lables
     plt.subplots_adjust(bottom=0.25)
-    save_fig(f'{n}_most_common_tags{title_suffix.lower().replace(" ", "_").replace("-", "_")}')
+    save_fig(f'{n}_most_common_tags{title_suffix.lower().replace(" ", "_").replace("-", "_").replace(",", "")}')
 
 
 def get_and_write_hashtags_counter():
@@ -185,7 +232,8 @@ def get_only_specific_keys_from_counter(counter, keys=ALL_TAGS, ignore_zero_coun
 def create_hashtags_histograms():
     hashtags_counter = get_and_write_hashtags_counter()
     plot_most_common(hashtags_counter)
-    plot_most_common(hashtags_counter, keys_to_ignore=["brexit"], title_suffix=" without brexit")
+    tags_to_ignore = ["brexit", "uk", "eu", "news"]
+    plot_most_common(hashtags_counter, keys_to_ignore=tags_to_ignore, title_suffix=f" without {', '.join(tags_to_ignore)}")
 
     filtered_counter = get_only_specific_keys_from_counter(hashtags_counter)
     plot_most_common(filtered_counter, title_suffix=" pure-stance hashtags")
