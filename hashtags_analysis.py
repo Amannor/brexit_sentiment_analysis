@@ -89,7 +89,6 @@ def process_tokens(s):
 def extract_hash_tags(s):
 
     s = s.replace("#@", "#") #To make sure no user-taggings will be in any hashtag
-    s = s.replace("#", " #") #To prevent concatenated hashtags
     s = s.replace("@", "@ ") #To make sure no user-taggings will be in any hashtag
 
     # Based on: https://stackoverflow.com/a/2527903
@@ -100,7 +99,16 @@ def extract_hash_tags(s):
         if any(x in cur_t for x in ["www.", "http:", "https:"]):
             continue
 
-        s = s.replace("-#", "-")
+        for token in ["_","-"]:
+            if f'{token}#' in cur_t:
+                tags_to_remove.add(cur_t)
+                tags_to_add.add((cur_t.replace(f'{token}#', token)))
+
+        if "#" in cur_t and not cur_t in tags_to_remove:
+            #Note - this isn't perfect and some cases "slip" (this block won't be executed if there's "_#" or "-#")
+            tags_to_remove.add(cur_t)
+            tags_to_add.update(set(cur_t.split("#")))
+
 
     tags -= tags_to_remove
     tags.update(tags_to_add)
