@@ -1,83 +1,83 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,789997,735784933483028480,727593506005499904,neutral,other,2016-05-26T10:49:33.000Z,Poster by Eva Rothschild. #Europe #eureferendum #yestoeurope #brexit by hattiecrisell https://t.co/eeNkNYjVMN https://t.co/NkL7KrhnaL,"['brexit', 'europe', 'yestoeurope', 'eureferendum']"
-1,1,1,134888,701405170836574208,31127192,positive,other,2016-02-21T13:56:38.000Z,Why the #EUReferendum matters to you &amp; your family https://t.co/oY2r1DWzGn #brexit #YestoEurope,"['eureferendum', 'yestoeurope', 'brexit']"
-2,2,2,563767,724760200083832832,724753970422534144,neutral,other,2016-04-26T00:41:11.000Z,Biggest Decision Of Our Generation - Lets Take Control! #Brexit #SaytoStay #WhatWouldBeyonceDo #YOUNGFOREVER #VoteYES #yestoeurope,"['whatwouldbeyoncedo', 'saytostay', 'yestoeurope', 'brexit', 'youngforever', 'voteyes']"
-3,3,3,1402507,745330111172481024,895523046,negative,other,2016-06-21T18:58:40.000Z,"#yestoeurope Cost to NHS from obesity  2015 £12bn, migrants &lt; £1bn yet don't see #brexit blocking borders from influx of foreign chocolate.","['yestoeurope', 'brexit']"
-4,4,4,2224973,772399900558581760,274478080,positive,other,2016-09-04T11:44:21.000Z,03.09.16 March For Europe #Peace #StrongerIn #EUref #RemainINEU #Brexit #EUreferendum #YesToEurope #DevidedWeFall https://t.co/KaVhrzcGEV,"['strongerin', 'brexit', 'devidedwefall', 'peace', 'eureferendum', 'yestoeurope', 'remainineu', 'euref']"
-5,5,5,907986,845943379603197952,480671308,positive,leave,2017-03-26T10:19:53.000Z,Saw this at a #CivicSociety exhibition yesterday...! #YesToEurope 1971 #brexit We really shouldn't leave..! 🇪🇺 https://t.co/qD131rK4Eh,"['yestoeurope', 'civicsociety', 'brexit']"
-6,6,6,4311261,1044752676553191424,713376732598939648,positive,leave,2018-09-26T00:57:03.000Z,"... It also reminded me of what I wrote on FB about tackling #Terrorism back in March 2016 in regards to the #Brussels attack: https://t.co/TLxYVNPvr2 #YesToUnity #YesToEurope #Europe #brexit @mrjamesob @LBC 
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,0,0,0,0,789997,735784933483028480,727593506005499904,neutral,other,2016-05-26T10:49:33.000Z,Poster by Eva Rothschild. #Europe #eureferendum #yestoeurope #brexit by hattiecrisell https://t.co/eeNkNYjVMN https://t.co/NkL7KrhnaL,"['brexit', 'europe', 'yestoeurope', 'eureferendum']"
+1,1,1,1,1,1,1,134888,701405170836574208,31127192,positive,other,2016-02-21T13:56:38.000Z,Why the #EUReferendum matters to you &amp; your family https://t.co/oY2r1DWzGn #brexit #YestoEurope,"['eureferendum', 'yestoeurope', 'brexit']"
+2,2,2,2,2,2,2,563767,724760200083832832,724753970422534144,neutral,other,2016-04-26T00:41:11.000Z,Biggest Decision Of Our Generation - Lets Take Control! #Brexit #SaytoStay #WhatWouldBeyonceDo #YOUNGFOREVER #VoteYES #yestoeurope,"['whatwouldbeyoncedo', 'saytostay', 'yestoeurope', 'brexit', 'youngforever', 'voteyes']"
+3,3,3,3,3,3,3,1402507,745330111172481024,895523046,negative,other,2016-06-21T18:58:40.000Z,"#yestoeurope Cost to NHS from obesity  2015 £12bn, migrants &lt; £1bn yet don't see #brexit blocking borders from influx of foreign chocolate.","['yestoeurope', 'brexit']"
+4,4,4,4,4,4,4,2224973,772399900558581760,274478080,positive,other,2016-09-04T11:44:21.000Z,03.09.16 March For Europe #Peace #StrongerIn #EUref #RemainINEU #Brexit #EUreferendum #YesToEurope #DevidedWeFall https://t.co/KaVhrzcGEV,"['strongerin', 'brexit', 'devidedwefall', 'peace', 'eureferendum', 'yestoeurope', 'remainineu', 'euref']"
+5,5,5,5,5,5,5,907986,845943379603197952,480671308,positive,leave,2017-03-26T10:19:53.000Z,Saw this at a #CivicSociety exhibition yesterday...! #YesToEurope 1971 #brexit We really shouldn't leave..! 🇪🇺 https://t.co/qD131rK4Eh,"['yestoeurope', 'civicsociety', 'brexit']"
+6,6,6,6,6,6,6,4311261,1044752676553191424,713376732598939648,positive,leave,2018-09-26T00:57:03.000Z,"... It also reminded me of what I wrote on FB about tackling #Terrorism back in March 2016 in regards to the #Brussels attack: https://t.co/TLxYVNPvr2 #YesToUnity #YesToEurope #Europe #brexit @mrjamesob @LBC 
 PS: Great job you're doing there, James!","['terrorism', 'europe', 'brussels', 'yestounity', 'brexit', 'yestoeurope']"
-7,7,7,4311260,1044752676553191424,713376732598939648,positive,leave,2018-09-26T00:57:03.000Z,"... It also reminded me of what I wrote on FB about tackling #Terrorism back in March 2016 in regards to the #Brussels attack: https://t.co/TLxYVNPvr2 #YesToUnity #YesToEurope #Europe #brexit @mrjamesob @LBC 
+7,7,7,7,7,7,7,4311260,1044752676553191424,713376732598939648,positive,leave,2018-09-26T00:57:03.000Z,"... It also reminded me of what I wrote on FB about tackling #Terrorism back in March 2016 in regards to the #Brussels attack: https://t.co/TLxYVNPvr2 #YesToUnity #YesToEurope #Europe #brexit @mrjamesob @LBC 
 PS: Great job you're doing there, James!","['terrorism', 'europe', 'brussels', 'yestounity', 'brexit', 'yestoeurope']"
-8,8,8,2338485,1071904443891900416,296211879,positive,leave,2018-12-09T23:08:29.000Z,Thug tries to set fire to an #EUflag but finds it won't oblige. Thanks to EU safety laws. #ThanksEU #YestoEurope #IamEuropean #Brexit https://t.co/Qt21Krycch,"['brexit', 'thankseu', 'euflag', 'iameuropean', 'yestoeurope']"
-9,9,9,2977737,1081234630550999040,20844608,positive,remain,2019-01-04T17:03:18.000Z,"See you soon 🇬🇧...next time probably after the #brexit, but I hope you #remain how you‘ve been.
+8,8,8,8,8,8,8,2338485,1071904443891900416,296211879,positive,leave,2018-12-09T23:08:29.000Z,Thug tries to set fire to an #EUflag but finds it won't oblige. Thanks to EU safety laws. #ThanksEU #YestoEurope #IamEuropean #Brexit https://t.co/Qt21Krycch,"['brexit', 'thankseu', 'euflag', 'iameuropean', 'yestoeurope']"
+9,9,9,9,9,9,9,2977737,1081234630550999040,20844608,positive,remain,2019-01-04T17:03:18.000Z,"See you soon 🇬🇧...next time probably after the #brexit, but I hope you #remain how you‘ve been.
 #nobrexit #yestoeurope 🇪🇺❤️🇬🇧 @ Heathrow Terminal 5 https://t.co/YaWywHnpue","['remain', 'yestoeurope', 'nobrexit', 'brexit']"
-10,10,10,579094,1056153184803135488,794616080924835840,neutral,remain,2018-10-27T11:58:36.000Z,"🕕 Présents ce matin pour le colloque de l'ALDE avec Madame la députée @npouzyreff78 🇨🇵 pour défendre une Europe progressiste !  #YesToEurope 💪🇪🇺
+10,10,10,10,10,10,10,579094,1056153184803135488,794616080924835840,neutral,remain,2018-10-27T11:58:36.000Z,"🕕 Présents ce matin pour le colloque de l'ALDE avec Madame la députée @npouzyreff78 🇨🇵 pour défendre une Europe progressiste !  #YesToEurope 💪🇪🇺
 
 Le programme :
 ➡️ Défense 
 ➡️ Sécurité
 ➡️ Brexit https://t.co/a3VmyaSj8v",['yestoeurope']
-11,11,11,579093,1056153184803135488,794616080924835840,neutral,remain,2018-10-27T11:58:36.000Z,"🕕 Présents ce matin pour le colloque de l'ALDE avec Madame la députée @npouzyreff78 🇨🇵 pour défendre une Europe progressiste !  #YesToEurope 💪🇪🇺
+11,11,11,11,11,11,11,579093,1056153184803135488,794616080924835840,neutral,remain,2018-10-27T11:58:36.000Z,"🕕 Présents ce matin pour le colloque de l'ALDE avec Madame la députée @npouzyreff78 🇨🇵 pour défendre une Europe progressiste !  #YesToEurope 💪🇪🇺
 
 Le programme :
 ➡️ Défense 
 ➡️ Sécurité
 ➡️ Brexit https://t.co/a3VmyaSj8v",['yestoeurope']
-12,12,12,1787703,1131144770733137920,1301100498,positive,leave,2019-05-22T10:28:23.000Z,@diana4hereford @ThatTimWalker @brexit_sham @LibDems @GreenJeanMEP Thank you. You can trust @TheGreenParty we are honest: first to stand against #austerity and look at the work @MollyMEP has done for #taxjustice #badboysofBrexit #digitaltax You do not have to settle for second best #VoteGreen2019 #YesToEurope #NoToClimateChange #GreenWave,"['badboysofbrexit', 'notoclimatechange', 'digitaltax', 'austerity', 'votegreen2019', 'greenwave', 'yestoeurope', 'taxjustice']"
-13,13,13,1566184,1127865523675385856,746833826014437376,positive,other,2019-05-13T09:17:50.000Z,"Today @TheGreenParty MP &amp; inspirational campaigner against #Brexit @CarolineLucas will be in Cambridge for an #EUelections2019 rally! 
+12,12,12,12,12,12,12,1787703,1131144770733137920,1301100498,positive,leave,2019-05-22T10:28:23.000Z,@diana4hereford @ThatTimWalker @brexit_sham @LibDems @GreenJeanMEP Thank you. You can trust @TheGreenParty we are honest: first to stand against #austerity and look at the work @MollyMEP has done for #taxjustice #badboysofBrexit #digitaltax You do not have to settle for second best #VoteGreen2019 #YesToEurope #NoToClimateChange #GreenWave,"['badboysofbrexit', 'notoclimatechange', 'digitaltax', 'austerity', 'votegreen2019', 'greenwave', 'yestoeurope', 'taxjustice']"
+13,13,13,13,13,13,13,1566184,1127865523675385856,746833826014437376,positive,other,2019-05-13T09:17:50.000Z,"Today @TheGreenParty MP &amp; inspirational campaigner against #Brexit @CarolineLucas will be in Cambridge for an #EUelections2019 rally! 
 
 Whichever party you plan to vote for, grab an EU flag and get to Market Square at 1 pm
 
 https://t.co/QtG9yJHzU4
 
 #YestoEurope #NotoClimateChange","['euelections2019', 'brexit', 'yestoeurope', 'notoclimatechange']"
-14,14,14,1220217,1121398284097130496,1091010470755139584,positive,leave,2019-04-25T12:59:20.000Z,"The Greens are the leading pro-Remain party in the East as well, and will get stronger every time the Brexit alliance visits Clacton.
+14,14,14,14,14,14,14,1220217,1121398284097130496,1091010470755139584,positive,leave,2019-04-25T12:59:20.000Z,"The Greens are the leading pro-Remain party in the East as well, and will get stronger every time the Brexit alliance visits Clacton.
 
 #VoteGreen
 #ForNowForTheFuture
 #YesToEurope
 #NoToClimateChange https://t.co/07Noo2U0lv","['votegreen', 'yestoeurope', 'fornowforthefuture', 'notoclimatechange']"
-15,15,15,1056900,1152591783127179264,404281100,positive,remain,2019-07-20T14:51:09.000Z,"https://t.co/9Rit0ZTDve  #Brexit #MarchforChange #NoToBoris #YestoEurope #AnotherEurope #EuropeofAllPeoples #EuropeDesGens #StopBrexit #BollockstoBrexit #UK
+15,15,15,15,15,15,15,1056900,1152591783127179264,404281100,positive,remain,2019-07-20T14:51:09.000Z,"https://t.co/9Rit0ZTDve  #Brexit #MarchforChange #NoToBoris #YestoEurope #AnotherEurope #EuropeofAllPeoples #EuropeDesGens #StopBrexit #BollockstoBrexit #UK
 
 The #EU should move off its fixed position
 
 Decentralise from the current federation to a CONFEDERATION like #NATO &amp; @OSCE","['anothereurope', 'europedesgens', 'europeofallpeoples', 'bollockstobrexit', 'brexit', 'marchforchange', 'notoboris', 'stopbrexit', 'nato', 'eu', 'yestoeurope', 'uk']"
-16,16,16,1261265,1155624594386161664,794906337146707840,negative,other,2019-07-28T23:42:28.000Z,"Please tell me again how #Boris is going to bring about a 'new, golden age', when it was precisely the Tories' cruel austerity policy, and NOT the EU, that brought about the highest level of child poverty in decades and #Brexit draining resources 🤷‍♀️🤦‍♀️
+16,16,16,16,16,16,16,1261265,1155624594386161664,794906337146707840,negative,other,2019-07-28T23:42:28.000Z,"Please tell me again how #Boris is going to bring about a 'new, golden age', when it was precisely the Tories' cruel austerity policy, and NOT the EU, that brought about the highest level of child poverty in decades and #Brexit draining resources 🤷‍♀️🤦‍♀️
 
 #austerity
 #YesToEurope https://t.co/qK78pQRKE0","['austerity', 'yestoeurope', 'brexit', 'boris']"
-17,17,17,1056791,1152589658154590208,1223389308,negative,other,2019-07-20T14:42:43.000Z,"#MoronOfTheWeek: Brexit racists, Trump racists, and Johnson's lying Kipper 
+17,17,17,17,17,17,17,1056791,1152589658154590208,1223389308,negative,other,2019-07-20T14:42:43.000Z,"#MoronOfTheWeek: Brexit racists, Trump racists, and Johnson's lying Kipper 
 
 #MarchForChange #YesToEurope #NoToBoris
 
 @LBC #bbcpm #marr #r4today #bbcaq #PeoplesVote #Ridge #newsnight #PoliticsLive 
 https://t.co/Ywyreibp6g","['bbcpm', 'bbcaq', 'politicslive', 'peoplesvote', 'r4today', 'ridge', 'moronoftheweek', 'notoboris', 'marchforchange', 'marr', 'newsnight', 'yestoeurope']"
-18,18,18,1056122,1152576426194931712,18723848,negative,remain,2019-07-20T13:50:08.000Z,Just a few people milling around #ParliamentSquare to protest Brexit. No biggie. #bestforbritain #notoboris #yestoeurope #remain #protest https://t.co/gojIAraWjc,"['bestforbritain', 'notoboris', 'remain', 'yestoeurope', 'parliamentsquare', 'protest']"
-19,19,19,1268493,1155766658675412992,705749959631638528,neutral,remain,2019-07-29T09:06:59.000Z,"#Brexit In one GIF : 
+18,18,18,18,18,18,18,1056122,1152576426194931712,18723848,negative,remain,2019-07-20T13:50:08.000Z,Just a few people milling around #ParliamentSquare to protest Brexit. No biggie. #bestforbritain #notoboris #yestoeurope #remain #protest https://t.co/gojIAraWjc,"['bestforbritain', 'notoboris', 'remain', 'yestoeurope', 'parliamentsquare', 'protest']"
+19,19,19,19,19,19,19,1268493,1155766658675412992,705749959631638528,neutral,remain,2019-07-29T09:06:59.000Z,"#Brexit In one GIF : 
 
 #StopBrexit #NotoBrexit #NotoBoris #NotInMyName #BollockstoBrexit #yestoeurope #FBPE #SODEM https://t.co/h9DvyYQTyl","['bollockstobrexit', 'notoboris', 'yestoeurope', 'brexit', 'notinmyname', 'stopbrexit', 'fbpe', 'sodem', 'notobrexit']"
-20,20,20,1071690,1152940778018226176,2967808421,negative,other,2019-07-21T13:57:56.000Z,"Unhappy about an upcoming unelected PM? This petition calls for change. 
+20,20,20,20,20,20,20,1071690,1152940778018226176,2967808421,negative,other,2019-07-21T13:57:56.000Z,"Unhappy about an upcoming unelected PM? This petition calls for change. 
 
 https://t.co/ld0JqjffOS
 
 #ToryLeadershipContest #BorisJohnson #brexit 
 #NoToBoris #YestoEurope 
  #BorisJohnsonShouldNotBePM https://t.co/gZQBTXrgxN","['borisjohnson', 'borisjohnsonshouldnotbepm', 'toryleadershipcontest', 'notoboris', 'brexit', 'yestoeurope']"
-21,21,21,1050102,1152474825887297536,2967808421,negative,other,2019-07-20T07:06:25.000Z,"Unhappy about an upcoming unelected PM? This petition calls for change. 
+21,21,21,21,21,21,21,1050102,1152474825887297536,2967808421,negative,other,2019-07-20T07:06:25.000Z,"Unhappy about an upcoming unelected PM? This petition calls for change. 
 
 https://t.co/ld0JqjffOS 
 
 #ToryLeadershipContest #BorisJohnson #brexit 
 #NoToBoris #YestoEurope 
  #BorisJohnsonShouldNotBePM https://t.co/LbT5CS1CvK","['borisjohnson', 'borisjohnsonshouldnotbepm', 'toryleadershipcontest', 'notoboris', 'brexit', 'yestoeurope']"
-22,22,22,1057171,1152596836324204544,870564496603049984,neutral,remain,2019-07-20T15:11:14.000Z,"Getting these 60 foot banners through a massive crowd took some negotiation. But we managed this much more successfully than out government has managed the #Brexit catastrophe. 
+22,22,22,22,22,22,22,1057171,1152596836324204544,870564496603049984,neutral,remain,2019-07-20T15:11:14.000Z,"Getting these 60 foot banners through a massive crowd took some negotiation. But we managed this much more successfully than out government has managed the #Brexit catastrophe. 
 #NoToBoris #YestoEurope #StopBrexit #Cornwall https://t.co/O5Q5RguhuR","['brexit', 'cornwall', 'notoboris', 'stopbrexit', 'yestoeurope']"
-23,23,23,1062885,1152760626613293056,1695147684,neutral,remain,2019-07-21T02:02:05.000Z,The two sides of this #Brexit poster still add up to one thing - #brexitshambles #MarchForChange #NoToBoris #YestoEurope https://t.co/mwQ2kbsZuo,"['brexit', 'notoboris', 'marchforchange', 'yestoeurope', 'brexitshambles']"
-24,24,24,1276202,1155834627472408576,705749959631638528,neutral,remain,2019-07-29T13:37:04.000Z,"#Brexit in one picture : 
+23,23,23,23,23,23,23,1062885,1152760626613293056,1695147684,neutral,remain,2019-07-21T02:02:05.000Z,The two sides of this #Brexit poster still add up to one thing - #brexitshambles #MarchForChange #NoToBoris #YestoEurope https://t.co/mwQ2kbsZuo,"['brexit', 'notoboris', 'marchforchange', 'yestoeurope', 'brexitshambles']"
+24,24,24,24,24,24,24,1276202,1155834627472408576,705749959631638528,neutral,remain,2019-07-29T13:37:04.000Z,"#Brexit in one picture : 
 
 #StopBrexit #NoToBoris #NotoBrexit #YestoEurope #FBPE #SODEM https://t.co/8Sg6r49U4q","['brexit', 'notoboris', 'stopbrexit', 'fbpe', 'sodem', 'notobrexit', 'yestoeurope']"
-25,25,25,1054923,1152553175519571968,1096512509291516032,negative,remain,2019-07-20T12:17:45.000Z,"#MarchforChange  now trending at No 1!
+25,25,25,25,25,25,25,1054923,1152553175519571968,1096512509291516032,negative,remain,2019-07-20T12:17:45.000Z,"#MarchforChange  now trending at No 1!
 
   #witheuinspirit
   #March4Change
@@ -86,15 +86,15 @@ https://t.co/ld0JqjffOS
   #RevokeA50
   #Brexit
   #PeoplesVote https://t.co/zDcBzFfalN","['brexit', 'revokea50', 'marchforchange', 'peoplesvote', 'stopbrexit', 'witheuinspirit', 'yestoeurope', 'march4change']"
-26,26,26,1050241,1152477298270121984,1449825546,positive,other,2019-07-20T07:16:14.000Z,"'One of the top officials handling #Brexit told ministers that threatening no deal was like taking the pin out of a grenade and holding it next to your own head.'
+26,26,26,26,26,26,26,1050241,1152477298270121984,1449825546,positive,other,2019-07-20T07:16:14.000Z,"'One of the top officials handling #Brexit told ministers that threatening no deal was like taking the pin out of a grenade and holding it next to your own head.'
 Yet Boris and Hunt still promote it.
 #YestoEurope 
 https://t.co/bkDwuXOCiL","['brexit', 'yestoeurope']"
-27,27,27,1059418,1152645075186388992,517199271,negative,leave,2019-07-20T18:22:55.000Z,"@OwenJones84 And four years later, Labour refuses to embrace European Socialism and stand against #Brexit 🤷🏾‍♂️  2 steps forward, 1 step back. #YestoEurope","['brexit', 'yestoeurope']"
-28,28,28,1055522,1152564557619089408,1449825546,negative,other,2019-07-20T13:02:58.000Z,"Frightening to see the nonsense some Brexiteers come out with. 
+27,27,27,27,27,27,27,1059418,1152645075186388992,517199271,negative,leave,2019-07-20T18:22:55.000Z,"@OwenJones84 And four years later, Labour refuses to embrace European Socialism and stand against #Brexit 🤷🏾‍♂️  2 steps forward, 1 step back. #YestoEurope","['brexit', 'yestoeurope']"
+28,28,28,28,28,28,28,1055522,1152564557619089408,1449825546,negative,other,2019-07-20T13:02:58.000Z,"Frightening to see the nonsense some Brexiteers come out with. 
 Leavers promised all sorts of things in the referendum, some contradictory, but May's #Brexit deal was far closer to what most people expected than No Deal, which was not a proposed option.
 #YestoEurope https://t.co/Iu7S0CCgdW","['brexit', 'yestoeurope']"
-29,29,29,1066241,1152868328324640768,794906337146707840,negative,remain,2019-07-21T09:10:03.000Z,"@Jacob_Rees_Mogg If there is no positive facts on which to sell Brexit, you will have to resort to ""peddling optimism"", I guess.
+29,29,29,29,29,29,29,1066241,1152868328324640768,794906337146707840,negative,remain,2019-07-21T09:10:03.000Z,"@Jacob_Rees_Mogg If there is no positive facts on which to sell Brexit, you will have to resort to ""peddling optimism"", I guess.
 
 Normally, you peddle items of nefarious origin (see below).
 
@@ -102,59 +102,59 @@ Could this have been a Freudian Slip, I wonder? 😈
 
 #Brexit
 #YestoEurope https://t.co/RS9SbgJ7nN","['brexit', 'yestoeurope']"
-30,30,30,1055372,1152561694629158912,104929660,negative,remain,2019-07-20T12:51:36.000Z,this may be my fav sign yet. bollocks to the lie that is a jobs first brexit told over and over again by @jeremycorbyn no sign of him at #YesToEurope #MarchForChange 'quelle surprise! 🙄we are in a #brexitemergency and  @UKLabour are mostly awol.... https://t.co/E8749MdmF4,"['brexitemergency', 'yestoeurope', 'marchforchange']"
-31,31,31,1230785,1155133244783902720,5858962,negative,other,2019-07-27T15:10:01.000Z,@JoJohnsonUK So as someone who should know better why are you standing by enabling Brexit to decimate our thriving Uni based science &amp; research sector? There is simply no logic to your position. Act now to stop this madness. Je suis European #BrexitKillstheNHS #BollocksToBrexit #YestoEurope https://t.co/Enh2CpHh8G,"['brexitkillsthenhs', 'yestoeurope', 'bollockstobrexit']"
-32,32,32,973496,1151000113030008832,832342008157052928,negative,remain,2019-07-16T05:26:26.000Z,"Tory party leadership candidates steeringbour country towards No Deal Brexit and almost certain chaos and recession, and fail to call a racist a racist. #BrexitMeansTrump #StopBrexitFixBritain #March4Change on Saturday 20 July @march_change #NoToBoris #YesToEurope https://t.co/bmRMlqIOzI","['brexitmeanstrump', 'notoboris', 'stopbrexitfixbritain', 'yestoeurope', 'march4change']"
-33,33,33,1191368,1154475471532429312,1380308922,positive,remain,2019-07-25T19:36:16.000Z,"@CheshireLive @sherlock1968 @BorisJohnson Love #chester? Hate #brexit and #Boris? Join @chesterforeu
+30,30,30,30,30,30,30,1055372,1152561694629158912,104929660,negative,remain,2019-07-20T12:51:36.000Z,this may be my fav sign yet. bollocks to the lie that is a jobs first brexit told over and over again by @jeremycorbyn no sign of him at #YesToEurope #MarchForChange 'quelle surprise! 🙄we are in a #brexitemergency and  @UKLabour are mostly awol.... https://t.co/E8749MdmF4,"['brexitemergency', 'yestoeurope', 'marchforchange']"
+31,31,31,31,31,31,31,1230785,1155133244783902720,5858962,negative,other,2019-07-27T15:10:01.000Z,@JoJohnsonUK So as someone who should know better why are you standing by enabling Brexit to decimate our thriving Uni based science &amp; research sector? There is simply no logic to your position. Act now to stop this madness. Je suis European #BrexitKillstheNHS #BollocksToBrexit #YestoEurope https://t.co/Enh2CpHh8G,"['brexitkillsthenhs', 'yestoeurope', 'bollockstobrexit']"
+32,32,32,32,32,32,32,973496,1151000113030008832,832342008157052928,negative,remain,2019-07-16T05:26:26.000Z,"Tory party leadership candidates steeringbour country towards No Deal Brexit and almost certain chaos and recession, and fail to call a racist a racist. #BrexitMeansTrump #StopBrexitFixBritain #March4Change on Saturday 20 July @march_change #NoToBoris #YesToEurope https://t.co/bmRMlqIOzI","['brexitmeanstrump', 'notoboris', 'stopbrexitfixbritain', 'yestoeurope', 'march4change']"
+33,33,33,33,33,33,33,1191368,1154475471532429312,1380308922,positive,remain,2019-07-25T19:36:16.000Z,"@CheshireLive @sherlock1968 @BorisJohnson Love #chester? Hate #brexit and #Boris? Join @chesterforeu
 
 #NoToBoris
 #YesToEurope https://t.co/wbRUJ7eoYR","['chester?', 'notoboris', 'brexit', 'yestoeurope', 'boris?']"
-34,34,34,1056686,1152587308274786304,1061265602566913920,positive,remain,2019-07-20T14:33:22.000Z,"@RCorbettMEP BREAK the BREXIT.
+34,34,34,34,34,34,34,1056686,1152587308274786304,1061265602566913920,positive,remain,2019-07-20T14:33:22.000Z,"@RCorbettMEP BREAK the BREXIT.
 History is being made on Twitter. A wonderful piece of participative politics. Well done Richard and all British Europeans! #EU and #Amsterdam are with you!!
 #NotoBoris #YestoEurope @LabourinEurope @UKandEU @peoplesvote_uk @Europarl_EN @vonderleyen 
 Erasmus","['eu', 'amsterdam', 'notoboris', 'yestoeurope']"
-35,35,35,1055418,1152562707138265088,29459695,neutral,remain,2019-07-20T12:55:37.000Z,@chalmersdavidn @patriciatibbels @CornishSkipper @brexit_sham @LocalHistoryGuy @jmc_64 @Geoelte_Spinne @MarieAnnUK @WonkaVite @StokeEurope I am following you all #MarchForChange #YestoEurope #NoToBoris #FBPE #FollowBackProEU #StopBrexit #IFB https://t.co/Omm6tPSWCO,"['ifb', 'followbackproeu', 'notoboris', 'stopbrexit', 'marchforchange', 'fbpe', 'yestoeurope']"
-36,36,36,1051219,1152494394714611712,45010849,neutral,remain,2019-07-20T08:24:10.000Z,"This is why Brexit *must* be stopped. Politicians need to step up &amp; protect the UK. Or if they won't, give the people their say. Nobody voted for this...
+35,35,35,35,35,35,35,1055418,1152562707138265088,29459695,neutral,remain,2019-07-20T12:55:37.000Z,@chalmersdavidn @patriciatibbels @CornishSkipper @brexit_sham @LocalHistoryGuy @jmc_64 @Geoelte_Spinne @MarieAnnUK @WonkaVite @StokeEurope I am following you all #MarchForChange #YestoEurope #NoToBoris #FBPE #FollowBackProEU #StopBrexit #IFB https://t.co/Omm6tPSWCO,"['ifb', 'followbackproeu', 'notoboris', 'stopbrexit', 'marchforchange', 'fbpe', 'yestoeurope']"
+36,36,36,36,36,36,36,1051219,1152494394714611712,45010849,neutral,remain,2019-07-20T08:24:10.000Z,"This is why Brexit *must* be stopped. Politicians need to step up &amp; protect the UK. Or if they won't, give the people their say. Nobody voted for this...
 #NoToBoris #MarchForChange #YestoEurope #RevokeArticle50 #informedConsent #StrongerTogether
 #NoToBoris
 https://t.co/X2CBvMgsJC","['informedconsent', 'revokearticle50', 'notoboris', 'strongertogether', 'marchforchange', 'yestoeurope']"
-37,37,37,1058169,1152618168763977728,871676753919578112,positive,remain,2019-07-20T16:36:00.000Z,A no-deal Brexit will be fine because we’ll still have fresh drinking water. Really? We know we wouldn’t have the ingredients for fat Boris’ beloved Mars Bars. #kippergate ‘Warm fish goes off. Why are these people clapping food poisoning?’#NoToBoris #YestoEurope #BollocksToBrexit https://t.co/V0GL5J9ZVk,"['kippergate', 'yestoeurope', 'bollockstobrexit']"
-38,38,38,1058517,1152625659090481152,3059457425,positive,other,2019-07-20T17:05:46.000Z,"#UnitedKingdom | Best for Britain, Scientists for the #EuropeanUnion, National Health Service (NHS) for People's Vote and other social organizations took to the streets to perform the #NoToBoris, #YesToEurope march in #London. #Brexit
+37,37,37,37,37,37,37,1058169,1152618168763977728,871676753919578112,positive,remain,2019-07-20T16:36:00.000Z,A no-deal Brexit will be fine because we’ll still have fresh drinking water. Really? We know we wouldn’t have the ingredients for fat Boris’ beloved Mars Bars. #kippergate ‘Warm fish goes off. Why are these people clapping food poisoning?’#NoToBoris #YestoEurope #BollocksToBrexit https://t.co/V0GL5J9ZVk,"['kippergate', 'yestoeurope', 'bollockstobrexit']"
+38,38,38,38,38,38,38,1058517,1152625659090481152,3059457425,positive,other,2019-07-20T17:05:46.000Z,"#UnitedKingdom | Best for Britain, Scientists for the #EuropeanUnion, National Health Service (NHS) for People's Vote and other social organizations took to the streets to perform the #NoToBoris, #YesToEurope march in #London. #Brexit
 https://t.co/QIXhjsTawJ","['london', 'brexit', 'notoboris', 'yestoeurope', 'unitedkingdom', 'europeanunion']"
-39,39,39,1058442,1152624207987183616,296005306,positive,other,2019-07-20T17:00:00.000Z,"#UnitedKingdom | Best for Britain, Scientists for the #EuropeanUnion, National Health Service (NHS) for People's Vote and other social organizations took to the streets to perform the #NoToBoris, #YesToEurope march in #London. #Brexit
+39,39,39,39,39,39,39,1058442,1152624207987183616,296005306,positive,other,2019-07-20T17:00:00.000Z,"#UnitedKingdom | Best for Britain, Scientists for the #EuropeanUnion, National Health Service (NHS) for People's Vote and other social organizations took to the streets to perform the #NoToBoris, #YesToEurope march in #London. #Brexit
 https://t.co/WNM9uHgSmZ","['london', 'brexit', 'notoboris', 'yestoeurope', 'unitedkingdom', 'europeanunion']"
-40,40,40,1060127,1152661507156729856,36886093,neutral,other,2019-07-20T19:28:13.000Z,"#UnitedKingdom | #EuropeanUnion, National Health Service (NHS) for People's Vote and other social organizations took to the streets to perform the #NoToBoris, #YesToEurope march in #London. #Brexit
+40,40,40,40,40,40,40,1060127,1152661507156729856,36886093,neutral,other,2019-07-20T19:28:13.000Z,"#UnitedKingdom | #EuropeanUnion, National Health Service (NHS) for People's Vote and other social organizations took to the streets to perform the #NoToBoris, #YesToEurope march in #London. #Brexit
 (link: https://t.co/SdNPlAjRbx) https://t.co/SdNPlAjRbx https://t.co/a1XEiqdEu7","['london', 'brexit', 'notoboris', 'yestoeurope', 'unitedkingdom', 'europeanunion']"
-41,41,41,1062177,1152715573387833344,83839299,positive,leave,2019-07-20T23:03:03.000Z,"Well, that was pretty awesome, and I was proud to be a part of it. People from all parts of the UK, representing a wide spectrum of political views, all coming together to say #YestoEurope and #NoToBoris. #Brexit #MarchForChange https://t.co/fMT7rRLk92","['marchforchange', 'brexit', 'notoboris', 'yestoeurope']"
-42,42,42,1130297,1153746191647219712,5858962,neutral,remain,2019-07-23T19:18:22.000Z,@guyverhofstadt Oh the irony of the UK wanting a EU Naval Force! It betrays the hollow lie at the heart of Brexit - that the UK can isolate itself &amp; succeed. All EU nations are stronger together. Je suis European #BrexitKillstheNHS #BollocksToBrexit #MarchForChange #YestoEurope https://t.co/oXwotWE5AI,"['marchforchange', 'brexitkillsthenhs', 'yestoeurope', 'bollockstobrexit']"
-43,43,43,1059370,1152643945874251776,5858962,neutral,remain,2019-07-20T18:18:26.000Z,@toryboypierce @BorisJohnson In fact it will be Boris Johnson &amp; any MP’s that back no deal Brexit that the country will not forgive. MP’s must think very carefully in the coming weeks &amp; put country before party. Je suis European #BrexitKillstheNHS #BollocksToBrexit #MarchForChange #YestoEurope https://t.co/e6TYwi9NsI,"['marchforchange', 'brexitkillsthenhs', 'yestoeurope', 'bollockstobrexit']"
-44,44,44,1129407,1153737697791479808,5858962,positive,other,2019-07-23T18:44:37.000Z,@liamyoung Voted Labour for over 40 years... but I’m not voting for Labour again until they have clearly pro EU/Remain position re Brexit and start campaigning clearly for Remain. Je suis European #BrexitKillstheNHS #BollocksToBrexit #MarchForChange #YestoEurope https://t.co/qyMrtwmMYx,"['marchforchange', 'brexitkillsthenhs', 'yestoeurope', 'bollockstobrexit']"
-45,45,45,1056503,1152583524056260608,925115091032461056,negative,remain,2019-07-20T14:18:20.000Z,"Boris blimp flies over Parliament Square as anti-Brexit protesters gather for major march
+41,41,41,41,41,41,41,1062177,1152715573387833344,83839299,positive,leave,2019-07-20T23:03:03.000Z,"Well, that was pretty awesome, and I was proud to be a part of it. People from all parts of the UK, representing a wide spectrum of political views, all coming together to say #YestoEurope and #NoToBoris. #Brexit #MarchForChange https://t.co/fMT7rRLk92","['marchforchange', 'brexit', 'notoboris', 'yestoeurope']"
+42,42,42,42,42,42,42,1130297,1153746191647219712,5858962,neutral,remain,2019-07-23T19:18:22.000Z,@guyverhofstadt Oh the irony of the UK wanting a EU Naval Force! It betrays the hollow lie at the heart of Brexit - that the UK can isolate itself &amp; succeed. All EU nations are stronger together. Je suis European #BrexitKillstheNHS #BollocksToBrexit #MarchForChange #YestoEurope https://t.co/oXwotWE5AI,"['marchforchange', 'brexitkillsthenhs', 'yestoeurope', 'bollockstobrexit']"
+43,43,43,43,43,43,43,1059370,1152643945874251776,5858962,neutral,remain,2019-07-20T18:18:26.000Z,@toryboypierce @BorisJohnson In fact it will be Boris Johnson &amp; any MP’s that back no deal Brexit that the country will not forgive. MP’s must think very carefully in the coming weeks &amp; put country before party. Je suis European #BrexitKillstheNHS #BollocksToBrexit #MarchForChange #YestoEurope https://t.co/e6TYwi9NsI,"['marchforchange', 'brexitkillsthenhs', 'yestoeurope', 'bollockstobrexit']"
+44,44,44,44,44,44,44,1129407,1153737697791479808,5858962,positive,other,2019-07-23T18:44:37.000Z,@liamyoung Voted Labour for over 40 years... but I’m not voting for Labour again until they have clearly pro EU/Remain position re Brexit and start campaigning clearly for Remain. Je suis European #BrexitKillstheNHS #BollocksToBrexit #MarchForChange #YestoEurope https://t.co/qyMrtwmMYx,"['marchforchange', 'brexitkillsthenhs', 'yestoeurope', 'bollockstobrexit']"
+45,45,45,45,45,45,45,1056503,1152583524056260608,925115091032461056,negative,remain,2019-07-20T14:18:20.000Z,"Boris blimp flies over Parliament Square as anti-Brexit protesters gather for major march
 
 #MarchForChange
 #NotoBoris
 #YestoEurope
 
  https://t.co/7irFTE3Mdd","['marchforchange', 'notoboris', 'yestoeurope']"
-46,46,46,1055527,1152564681162317824,905482497043160960,negative,remain,2019-07-20T13:03:28.000Z,"@BrexitAlex Your words mean nothing Alex (formerly of Cambridge Analytica) Phillips 
+46,46,46,46,46,46,46,1055527,1152564681162317824,905482497043160960,negative,remain,2019-07-20T13:03:28.000Z,"@BrexitAlex Your words mean nothing Alex (formerly of Cambridge Analytica) Phillips 
 
 Brexit was founded on fraud and lies in an advisory referendum 
 
 #MarchForChange #YestoEurope #RevokeA50","['marchforchange', 'revokea50', 'yestoeurope']"
-47,47,47,924439,1149656642419474432,1063495642255933440,negative,remain,2019-07-12T12:27:57.000Z,March for change. Reunite the people. Reunite with Europe. End the Brexit chaos. #marchforchange #yestoeurope https://t.co/rmQp5UcTBK https://t.co/7LJNqy2Q42,"['marchforchange', 'yestoeurope']"
-48,48,48,1348362,1156826901773737984,794906337146707840,positive,other,2019-08-01T07:20:00.000Z,"@mrjamesob But we are supposedly only spending this eye watering sum of money to have more money to spend, like £350mio/week for the #NHS 🤷‍♀️
+47,47,47,47,47,47,47,924439,1149656642419474432,1063495642255933440,negative,remain,2019-07-12T12:27:57.000Z,March for change. Reunite the people. Reunite with Europe. End the Brexit chaos. #marchforchange #yestoeurope https://t.co/rmQp5UcTBK https://t.co/7LJNqy2Q42,"['marchforchange', 'yestoeurope']"
+48,48,48,48,48,48,48,1348362,1156826901773737984,794906337146707840,positive,other,2019-08-01T07:20:00.000Z,"@mrjamesob But we are supposedly only spending this eye watering sum of money to have more money to spend, like £350mio/week for the #NHS 🤷‍♀️
 
 Add the expected downfall of £90bn caused by No-Deal and your head spins. But #Boris unicorns just don't come cheap, I guess 😈
 
 #yestoeurope
 #Brexit","['nhs', 'yestoeurope', 'brexit', 'boris']"
-49,49,49,1348407,1156827226974937088,794906337146707840,positive,other,2019-08-01T07:21:18.000Z,"@PeterStefanovi2 But we are supposedly only spending this eye watering sum of money to have more money to spend, like £350mio/week for the #NHS 🤷‍♀️
+49,49,49,49,49,49,49,1348407,1156827226974937088,794906337146707840,positive,other,2019-08-01T07:21:18.000Z,"@PeterStefanovi2 But we are supposedly only spending this eye watering sum of money to have more money to spend, like £350mio/week for the #NHS 🤷‍♀️
 
 Add the expected downfall of £90bn caused by No-Deal and your head spins. But #Boris unicorns just don't come cheap, I guess 😈
 
 #yestoeurope
 #Brexit","['nhs', 'yestoeurope', 'brexit', 'boris']"
-50,50,50,1263445,1155723716212535296,794906337146707840,neutral,other,2019-07-29T06:16:20.000Z,"Priorities, huh?
+50,50,50,50,50,50,50,1263445,1155723716212535296,794906337146707840,neutral,other,2019-07-29T06:16:20.000Z,"Priorities, huh?
 
 'Serve all' quickly turned into serving his vanity project. His time in London could have been a warning...
 
@@ -162,199 +162,199 @@ If #Boris really took his own promises seriously, let alone the slogan on a red 
 
 #Brexit
 #yestoeurope https://t.co/wDP8iVOYFX","['nhs', 'yestoeurope', 'brexit', 'boris']"
-51,51,51,1348389,1156827108653588480,794906337146707840,positive,other,2019-08-01T07:20:50.000Z,"@SloughForEU But we are supposedly only spending this eye watering sum of money to have more money to spend, like £350mio/week for the #NHS 🤷‍♀️
+51,51,51,51,51,51,51,1348389,1156827108653588480,794906337146707840,positive,other,2019-08-01T07:20:50.000Z,"@SloughForEU But we are supposedly only spending this eye watering sum of money to have more money to spend, like £350mio/week for the #NHS 🤷‍♀️
 
 Add the expected downfall of £90bn caused by No-Deal and your head spins. But #Boris unicorns just don't come cheap, I guess 😈
 
 #yestoeurope
 #Brexit","['nhs', 'yestoeurope', 'brexit', 'boris']"
-52,52,52,1107503,1153623910887362560,112282562,negative,remain,2019-07-23T11:12:28.000Z,Thanks @Conservatives you’ve inflicted #Brexit on this country and now you’re inflicting #BorisJohnson on us all as #NextPrimeMinister #NotMyPM #NoToBoris #yestoeurope,"['notmypm', 'borisjohnson', 'yestoeurope', 'brexit', 'notoboris', 'nextprimeminister']"
-53,53,53,1050785,1152487633974628352,1023576400425627520,positive,other,2019-07-20T07:57:18.000Z,"Brexit is nothing like what Leaver politicians promised
+52,52,52,52,52,52,52,1107503,1153623910887362560,112282562,negative,remain,2019-07-23T11:12:28.000Z,Thanks @Conservatives you’ve inflicted #Brexit on this country and now you’re inflicting #BorisJohnson on us all as #NextPrimeMinister #NotMyPM #NoToBoris #yestoeurope,"['notmypm', 'borisjohnson', 'yestoeurope', 'brexit', 'notoboris', 'nextprimeminister']"
+53,53,53,53,53,53,53,1050785,1152487633974628352,1023576400425627520,positive,other,2019-07-20T07:57:18.000Z,"Brexit is nothing like what Leaver politicians promised
 If you live within a couple of hours of London, please join #MarchForChange today at noon
 #NoToJohnson #YestoEurope #NotMyPM https://t.co/ZwYr8MeTD4","['notmypm', 'marchforchange', 'yestoeurope', 'notojohnson']"
-54,54,54,1076556,1153046990269366272,351065029,negative,remain,2019-07-21T20:59:59.000Z,"MPs must find the courage to stop a mindless no-deal Brexit | Brexit | The Guardian
+54,54,54,54,54,54,54,1076556,1153046990269366272,351065029,negative,remain,2019-07-21T20:59:59.000Z,"MPs must find the courage to stop a mindless no-deal Brexit | Brexit | The Guardian
 #NoToBoris #NotMyPM #YestoEurope #MarchForChange #RevokeArticle50 #StopBrexit  https://t.co/sa2ZyPfqbc","['notmypm', 'revokearticle50', 'notoboris', 'stopbrexit', 'marchforchange', 'yestoeurope']"
-55,55,55,1178742,1154348108182147072,2276663923,negative,remain,2019-07-25T11:10:10.000Z,"Lots of bluster, no substance, absolutely nothing. Making up shit about the opposition. It's clear what he thinks about anyone who disagrees with him, especially on Brexit. Welcome to #BorisBritain #NotMyPrimeMinister #yestoeurope","['notmyprimeminister', 'borisbritain', 'yestoeurope']"
-56,56,56,1043737,1152254269766213632,1019952530237873920,neutral,remain,2019-07-19T16:30:00.000Z,"""For me the choice is starker than ever: a sexist Boris Johnson Brexit, or a bright future in Europe combined with a serious effort to heal the country."" 
+55,55,55,55,55,55,55,1178742,1154348108182147072,2276663923,negative,remain,2019-07-25T11:10:10.000Z,"Lots of bluster, no substance, absolutely nothing. Making up shit about the opposition. It's clear what he thinks about anyone who disagrees with him, especially on Brexit. Welcome to #BorisBritain #NotMyPrimeMinister #yestoeurope","['notmyprimeminister', 'borisbritain', 'yestoeurope']"
+56,56,56,56,56,56,56,1043737,1152254269766213632,1019952530237873920,neutral,remain,2019-07-19T16:30:00.000Z,"""For me the choice is starker than ever: a sexist Boris Johnson Brexit, or a bright future in Europe combined with a serious effort to heal the country."" 
 
 Join us TOMORROW to say #YestoEurope #NotoBoris #NotMyPrimeMinister @march_change
 
 https://t.co/i4OLCIqF14","['notmyprimeminister', 'notoboris', 'yestoeurope']"
-57,57,57,1644841,1161536324622594048,705749959631638528,positive,remain,2019-08-14T07:13:34.000Z,"I loved #JohnBercow before he even said anything against #Brexit. Now I love him even more 😊
+57,57,57,57,57,57,57,1644841,1161536324622594048,705749959631638528,positive,remain,2019-08-14T07:13:34.000Z,"I loved #JohnBercow before he even said anything against #Brexit. Now I love him even more 😊
 
 https://t.co/j5F3Fr6GIX 
 
 #StopBrexit #bollockstobrexit #NotoBrexit #NoToNodeal #NotoBoris #yestoeurope #FBPE #SODEM","['notoboris', 'bollockstobrexit', 'johnbercow', 'yestoeurope', 'stopbrexit', 'notonodeal', 'fbpe', 'sodem', 'notobrexit', 'brexit']"
-58,58,58,1060333,1152666222829494272,1247509208,neutral,remain,2019-07-20T19:46:57.000Z,#FBPE #NoToBoris #YestoEurope #Brexit https://t.co/4HjWWPuCo4,"['notoboris', 'brexit', 'fbpe', 'yestoeurope']"
-59,59,59,1946580,1166023349660782592,4507647255,neutral,other,2019-08-26T16:23:24.000Z,"So.. Johnson's after a 'comprehensive' deal with America. I take it then, that 'everything' IS indeed on the table. #Brexit #RevokeA50 #NoToBoris #YestoEurope","['notoboris', 'brexit', 'revokea50', 'yestoeurope']"
-60,60,60,1052734,1152518371432378368,912027446169489408,positive,other,2019-07-20T09:59:27.000Z,"Thanks Edwin. Great list of key #Brexit concerns.
+58,58,58,58,58,58,58,1060333,1152666222829494272,1247509208,neutral,remain,2019-07-20T19:46:57.000Z,#FBPE #NoToBoris #YestoEurope #Brexit https://t.co/4HjWWPuCo4,"['notoboris', 'brexit', 'fbpe', 'yestoeurope']"
+59,59,59,59,59,59,59,1946580,1166023349660782592,4507647255,neutral,other,2019-08-26T16:23:24.000Z,"So.. Johnson's after a 'comprehensive' deal with America. I take it then, that 'everything' IS indeed on the table. #Brexit #RevokeA50 #NoToBoris #YestoEurope","['notoboris', 'brexit', 'revokea50', 'yestoeurope']"
+60,60,60,60,60,60,60,1052734,1152518371432378368,912027446169489408,positive,other,2019-07-20T09:59:27.000Z,"Thanks Edwin. Great list of key #Brexit concerns.
 #NoToBoris #YestoEurope https://t.co/OPe7y1kzpm","['notoboris', 'brexit', 'yestoeurope']"
-61,61,61,1508383,1159367462665760768,4507647255,positive,other,2019-08-08T07:35:17.000Z,"Of course they should publish the impact of no deal papers. We deserve to know how our families will be affected.  We're being treated with contempt. All I recall hearing in 2016 is, like will be replaced with like from day one of brexit. Easy! 🙄 #Brexit #NoToBoris #YestoEurope https://t.co/UzjOHaVeU2","['notoboris', 'brexit', 'yestoeurope']"
-62,62,62,1055209,1152558598377132032,1696063290,positive,other,2019-07-20T12:39:18.000Z,"The future is Green. The future has to be Green. Nothing else will do. If you care about the UK and if you care about the planet, join the @TheGreenParty today.
+61,61,61,61,61,61,61,1508383,1159367462665760768,4507647255,positive,other,2019-08-08T07:35:17.000Z,"Of course they should publish the impact of no deal papers. We deserve to know how our families will be affected.  We're being treated with contempt. All I recall hearing in 2016 is, like will be replaced with like from day one of brexit. Easy! 🙄 #Brexit #NoToBoris #YestoEurope https://t.co/UzjOHaVeU2","['notoboris', 'brexit', 'yestoeurope']"
+62,62,62,62,62,62,62,1055209,1152558598377132032,1696063290,positive,other,2019-07-20T12:39:18.000Z,"The future is Green. The future has to be Green. Nothing else will do. If you care about the UK and if you care about the planet, join the @TheGreenParty today.
 
 #ClimateEmergency #Brexit #YestoEurope #NoToBoris https://t.co/hmuB3QYUOW","['notoboris', 'brexit', 'yestoeurope', 'climateemergency']"
-63,63,63,1051965,1152506295104286720,148809384,negative,remain,2019-07-20T09:11:27.000Z,"I feel as though #NoToBoris is weakened somewhat by also being #YestoEurope
+63,63,63,63,63,63,63,1051965,1152506295104286720,148809384,negative,remain,2019-07-20T09:11:27.000Z,"I feel as though #NoToBoris is weakened somewhat by also being #YestoEurope
 
 Not wanting Boris Johnson to be PM is something we can all get behind. This Implies that Boris Johnson IS Brexit and implicitly forces leavers onto his side.
 
 So #NoToBoris #BrexitIsASeparateIssue","['notoboris', 'brexitisaseparateissue', 'yestoeurope']"
-64,64,64,1055964,1152573420313423872,16294783,positive,other,2019-07-20T13:38:11.000Z,"BIG cheers for @SholaMos1 @mikegalsworthy ""Bigger than Boris, bigger than Trump, EUROPE! That's our future! They're our neighbours, our people, and it's time to put Brexit in the bin"" 🇬🇧🇪🇺☀️💖
+64,64,64,64,64,64,64,1055964,1152573420313423872,16294783,positive,other,2019-07-20T13:38:11.000Z,"BIG cheers for @SholaMos1 @mikegalsworthy ""Bigger than Boris, bigger than Trump, EUROPE! That's our future! They're our neighbours, our people, and it's time to put Brexit in the bin"" 🇬🇧🇪🇺☀️💖
 @march_change #NoToBoris #YestoEurope #BollockstoBrexit #MarchForChange https://t.co/lHKOIQQLqN","['notoboris', 'marchforchange', 'bollockstobrexit', 'yestoeurope']"
-65,65,65,1055994,1152573991892267008,16294783,positive,remain,2019-07-20T13:40:28.000Z,".@Femi_Sorry @OFOCBrexit ""Brexit is an opportunity. It's an opportunity to fix all the problems that lead to Brexit""
+65,65,65,65,65,65,65,1055994,1152573991892267008,16294783,positive,remain,2019-07-20T13:40:28.000Z,".@Femi_Sorry @OFOCBrexit ""Brexit is an opportunity. It's an opportunity to fix all the problems that lead to Brexit""
 #MarchForChange #BollockstoBrexit #NoToBoris #YestoEurope https://t.co/MPWxy7jxef","['notoboris', 'marchforchange', 'bollockstobrexit', 'yestoeurope']"
-66,66,66,1055948,1152573114418700288,750504973,neutral,other,2019-07-20T13:36:58.000Z,Some more pics from #MarchForChange in London.  #NoToBoris #YestoEurope #Brexit https://t.co/iJ2tgk7Nii,"['notoboris', 'marchforchange', 'brexit', 'yestoeurope']"
-67,67,67,1056371,1152581052185096192,3869876177,positive,other,2019-07-20T14:08:31.000Z,"Everyone at the #LeftBloc and all interested in building the leftwing anti-Brexit movement are invited to our post-demo social.
+66,66,66,66,66,66,66,1055948,1152573114418700288,750504973,neutral,other,2019-07-20T13:36:58.000Z,Some more pics from #MarchForChange in London.  #NoToBoris #YestoEurope #Brexit https://t.co/iJ2tgk7Nii,"['notoboris', 'marchforchange', 'brexit', 'yestoeurope']"
+67,67,67,67,67,67,67,1056371,1152581052185096192,3869876177,positive,other,2019-07-20T14:08:31.000Z,"Everyone at the #LeftBloc and all interested in building the leftwing anti-Brexit movement are invited to our post-demo social.
 
 From 4:30pm in Living Space, Waterloo. Free refreshments provided 🍷
 
 👉 https://t.co/NfhV3WVzKW
 
 #MarchForChange #NoToBoris #YestoEurope https://t.co/k7oTaGw2kM","['notoboris', 'marchforchange', 'leftbloc', 'yestoeurope']"
-68,68,68,1057847,1152610487131136000,557943742,negative,other,2019-07-20T16:05:29.000Z,"‘No to Boris, yes to Europe’: Protesters gather for march against Brexit. #MarchForChange https://t.co/bQhRqfkEFX
+68,68,68,68,68,68,68,1057847,1152610487131136000,557943742,negative,other,2019-07-20T16:05:29.000Z,"‘No to Boris, yes to Europe’: Protesters gather for march against Brexit. #MarchForChange https://t.co/bQhRqfkEFX
 #MarchForChange #RevokeA50 #NoToBoris #YestoEurope","['notoboris', 'marchforchange', 'revokea50', 'yestoeurope']"
-69,69,69,1058155,1152617708539777024,726279932096176128,negative,remain,2019-07-20T16:34:10.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/age3ZTcS6w","['notoboris', 'marchforchange', 'yestoeurope']"
-70,70,70,1057531,1152603299641737216,726279932096176128,negative,remain,2019-07-20T15:36:55.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/Rr1EBZKO9N","['notoboris', 'marchforchange', 'yestoeurope']"
-71,71,71,1057756,1152608287214460928,726279932096176128,negative,remain,2019-07-20T15:56:44.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/FbbrTST2B9","['notoboris', 'marchforchange', 'yestoeurope']"
-72,72,72,1053709,1152532973234917376,726279932096176128,negative,remain,2019-07-20T10:57:28.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/2HPRFbPxQS","['notoboris', 'marchforchange', 'yestoeurope']"
-73,73,73,1057765,1152608457633218560,726279932096176128,negative,remain,2019-07-20T15:57:25.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/GIY2UHIFuD","['notoboris', 'marchforchange', 'yestoeurope']"
-74,74,74,1060486,1152669723794051072,425840919,negative,remain,2019-07-20T20:00:52.000Z,"Anti-Brexit protesters hold 'No to Boris' march https://t.co/XaocMY4QoG
+69,69,69,69,69,69,69,1058155,1152617708539777024,726279932096176128,negative,remain,2019-07-20T16:34:10.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/age3ZTcS6w","['notoboris', 'marchforchange', 'yestoeurope']"
+70,70,70,70,70,70,70,1057531,1152603299641737216,726279932096176128,negative,remain,2019-07-20T15:36:55.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/Rr1EBZKO9N","['notoboris', 'marchforchange', 'yestoeurope']"
+71,71,71,71,71,71,71,1057756,1152608287214460928,726279932096176128,negative,remain,2019-07-20T15:56:44.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/FbbrTST2B9","['notoboris', 'marchforchange', 'yestoeurope']"
+72,72,72,72,72,72,72,1053709,1152532973234917376,726279932096176128,negative,remain,2019-07-20T10:57:28.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/2HPRFbPxQS","['notoboris', 'marchforchange', 'yestoeurope']"
+73,73,73,73,73,73,73,1057765,1152608457633218560,726279932096176128,negative,remain,2019-07-20T15:57:25.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/GIY2UHIFuD","['notoboris', 'marchforchange', 'yestoeurope']"
+74,74,74,74,74,74,74,1060486,1152669723794051072,425840919,negative,remain,2019-07-20T20:00:52.000Z,"Anti-Brexit protesters hold 'No to Boris' march https://t.co/XaocMY4QoG
 
 #MarchForChange #NoToBoris #YestoEurope","['notoboris', 'marchforchange', 'yestoeurope']"
-75,75,75,1057504,1152602928856915968,726279932096176128,negative,remain,2019-07-20T15:35:27.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/D1nd8LtLe4","['notoboris', 'marchforchange', 'yestoeurope']"
-76,76,76,1057773,1152608825691856896,726279932096176128,negative,remain,2019-07-20T15:58:53.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/RVtrQ70nIL","['notoboris', 'marchforchange', 'yestoeurope']"
-77,77,77,1058234,1152619542549532672,726279932096176128,negative,remain,2019-07-20T16:41:28.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/3JXKDTNEdg","['notoboris', 'marchforchange', 'yestoeurope']"
-78,78,78,1052894,1152520322429702144,222289436,neutral,leave,2019-07-20T10:07:12.000Z,"On my way to #MarchForChange . Previously I've had messages on my banners about how it isn't undemocratic to have a further referendum, but this time I've gone with an impossibility-of-achieving-the-promised-form-of-Brexit theme.
+75,75,75,75,75,75,75,1057504,1152602928856915968,726279932096176128,negative,remain,2019-07-20T15:35:27.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/D1nd8LtLe4","['notoboris', 'marchforchange', 'yestoeurope']"
+76,76,76,76,76,76,76,1057773,1152608825691856896,726279932096176128,negative,remain,2019-07-20T15:58:53.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/RVtrQ70nIL","['notoboris', 'marchforchange', 'yestoeurope']"
+77,77,77,77,77,77,77,1058234,1152619542549532672,726279932096176128,negative,remain,2019-07-20T16:41:28.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/3JXKDTNEdg","['notoboris', 'marchforchange', 'yestoeurope']"
+78,78,78,78,78,78,78,1052894,1152520322429702144,222289436,neutral,leave,2019-07-20T10:07:12.000Z,"On my way to #MarchForChange . Previously I've had messages on my banners about how it isn't undemocratic to have a further referendum, but this time I've gone with an impossibility-of-achieving-the-promised-form-of-Brexit theme.
 
 #NoToBoris 
 #YestoEurope https://t.co/RDIJFFBzqT","['notoboris', 'marchforchange', 'yestoeurope']"
-79,79,79,1057012,1152594006838304768,20794746,negative,leave,2019-07-20T15:00:00.000Z,“Change must start by stopping Brexit” @MadeleinaKay #MarchForChange #NoToBoris #YestoEurope,"['notoboris', 'marchforchange', 'yestoeurope']"
-80,80,80,1056521,1152583871164243968,354215133,negative,other,2019-07-20T14:19:43.000Z,"No, we don't want to get on with Brexit!! #marchforchange #YestoEurope #NoToBoris https://t.co/sZMeXZwDNH","['notoboris', 'marchforchange', 'yestoeurope']"
-81,81,81,1053885,1152535419998941184,726279932096176128,negative,remain,2019-07-20T11:07:11.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/miUEkaHUR7","['notoboris', 'marchforchange', 'yestoeurope']"
-82,82,82,1058228,1152619425444573184,726279932096176128,negative,remain,2019-07-20T16:41:00.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/TdW1v492iC","['notoboris', 'marchforchange', 'yestoeurope']"
-83,83,83,1044004,1152259076941844480,62928634,positive,other,2019-07-19T16:49:06.000Z,"Slightly niche march banner for #MarchForChange 
+79,79,79,79,79,79,79,1057012,1152594006838304768,20794746,negative,leave,2019-07-20T15:00:00.000Z,“Change must start by stopping Brexit” @MadeleinaKay #MarchForChange #NoToBoris #YestoEurope,"['notoboris', 'marchforchange', 'yestoeurope']"
+80,80,80,80,80,80,80,1056521,1152583871164243968,354215133,negative,other,2019-07-20T14:19:43.000Z,"No, we don't want to get on with Brexit!! #marchforchange #YestoEurope #NoToBoris https://t.co/sZMeXZwDNH","['notoboris', 'marchforchange', 'yestoeurope']"
+81,81,81,81,81,81,81,1053885,1152535419998941184,726279932096176128,negative,remain,2019-07-20T11:07:11.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/miUEkaHUR7","['notoboris', 'marchforchange', 'yestoeurope']"
+82,82,82,82,82,82,82,1058228,1152619425444573184,726279932096176128,negative,remain,2019-07-20T16:41:00.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/TdW1v492iC","['notoboris', 'marchforchange', 'yestoeurope']"
+83,83,83,83,83,83,83,1044004,1152259076941844480,62928634,positive,other,2019-07-19T16:49:06.000Z,"Slightly niche march banner for #MarchForChange 
 
 Still, better smeg than brexit. 
 
 #NoToBoris #YestoEurope https://t.co/LCzT0xQS9E","['notoboris', 'marchforchange', 'yestoeurope']"
-84,84,84,1049028,1152411884408233984,846112244282904448,positive,other,2019-07-20T02:56:18.000Z,"“.... The anti-Brexit campaigner said that what made the votes this week “even more extraordinary” was that a quarter of the Cabinet, led by outgoing chancellor Philip Hammond, abstained.” Thus, with a spring in our step, we join #MarchForChange today.
+84,84,84,84,84,84,84,1049028,1152411884408233984,846112244282904448,positive,other,2019-07-20T02:56:18.000Z,"“.... The anti-Brexit campaigner said that what made the votes this week “even more extraordinary” was that a quarter of the Cabinet, led by outgoing chancellor Philip Hammond, abstained.” Thus, with a spring in our step, we join #MarchForChange today.
 #NoToBoris #YestoEurope https://t.co/l2d2m8AYX9","['notoboris', 'marchforchange', 'yestoeurope']"
-85,85,85,1059347,1152643357937741824,819196471845253120,negative,other,2019-07-20T18:16:06.000Z,"@snb19692 Mr Stop Brexit wrapping up at #MarchForChange 
+85,85,85,85,85,85,85,1059347,1152643357937741824,819196471845253120,negative,other,2019-07-20T18:16:06.000Z,"@snb19692 Mr Stop Brexit wrapping up at #MarchForChange 
 #NoToBoris 
 #YestoEurope https://t.co/MJlxnuoRTq","['notoboris', 'marchforchange', 'yestoeurope']"
-86,86,86,1058162,1152618041122967552,726279932096176128,negative,remain,2019-07-20T16:35:30.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/SN1jY3lNtx","['notoboris', 'marchforchange', 'yestoeurope']"
-87,87,87,1053689,1152532609005694976,726279932096176128,negative,remain,2019-07-20T10:56:01.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/H3MgOdesnt","['notoboris', 'marchforchange', 'yestoeurope']"
-88,88,88,1053901,1152535631295332352,726279932096176128,negative,remain,2019-07-20T11:08:02.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/6AzEwNQoRS","['notoboris', 'marchforchange', 'yestoeurope']"
-89,89,89,1057684,1152606515641102336,1075520691133472768,neutral,other,2019-07-20T15:49:42.000Z,"@carolJhedges @Nigel_Farage Thankyou to everyone marching today for our futures. 
+86,86,86,86,86,86,86,1058162,1152618041122967552,726279932096176128,negative,remain,2019-07-20T16:35:30.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/SN1jY3lNtx","['notoboris', 'marchforchange', 'yestoeurope']"
+87,87,87,87,87,87,87,1053689,1152532609005694976,726279932096176128,negative,remain,2019-07-20T10:56:01.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/H3MgOdesnt","['notoboris', 'marchforchange', 'yestoeurope']"
+88,88,88,88,88,88,88,1053901,1152535631295332352,726279932096176128,negative,remain,2019-07-20T11:08:02.000Z,"We need to stop Brexit, it will be a disaster for the UK. #marchforchange #YestoEurope #NoToBoris https://t.co/6AzEwNQoRS","['notoboris', 'marchforchange', 'yestoeurope']"
+89,89,89,89,89,89,89,1057684,1152606515641102336,1075520691133472768,neutral,other,2019-07-20T15:49:42.000Z,"@carolJhedges @Nigel_Farage Thankyou to everyone marching today for our futures. 
 
 For those who couldn’t make it, carry on retweeting and spreading the message #MarchForChange #NoToBoris #YestoEurope #brexit","['notoboris', 'marchforchange', 'yestoeurope', 'brexit']"
-90,90,90,1057023,1152594176195911680,870564496603049984,positive,remain,2019-07-20T15:00:40.000Z,"Fantastic crowd and brilliant speakers at #MarchForChange. Only a tiny gaggle of Tommy Robinson fans seem not to be enjoying themselves much and are shouting support for Boris Johnson and #Brexit. 
+90,90,90,90,90,90,90,1057023,1152594176195911680,870564496603049984,positive,remain,2019-07-20T15:00:40.000Z,"Fantastic crowd and brilliant speakers at #MarchForChange. Only a tiny gaggle of Tommy Robinson fans seem not to be enjoying themselves much and are shouting support for Boris Johnson and #Brexit. 
 #NoToBoris #YestoEurope https://t.co/OPZ9CbhMMY","['notoboris', 'marchforchange', 'yestoeurope', 'brexit']"
-91,91,91,1055879,1152571841883586560,711945679,negative,leave,2019-07-20T13:31:55.000Z,"🇪🇺🇬🇧🇬🇧🇪🇺Guardian is on it!
+91,91,91,91,91,91,91,1055879,1152571841883586560,711945679,negative,leave,2019-07-20T13:31:55.000Z,"🇪🇺🇬🇧🇬🇧🇪🇺Guardian is on it!
 March for Change: anti-#Brexit protesters take to London streets https://t.co/z5WAGHUcDN
 #NoToBoris #YestoEurope #NoDealBrexit #MarchForChange","['notoboris', 'marchforchange', 'yestoeurope', 'nodealbrexit']"
-92,92,92,1056025,1152574566008590336,750504973,positive,other,2019-07-20T13:42:44.000Z,People in England are sending a clear message about Brexit. Massive turnout at #MarchForChange in London. #NoToBoris #YestoEurope #NoToBrexit https://t.co/jZ7nNNoLiu,"['notoboris', 'marchforchange', 'yestoeurope', 'notobrexit']"
-93,93,93,1056419,1152581918426370048,921387891951063040,neutral,other,2019-07-20T14:11:57.000Z,"Thousands of people march through the streets of London against Boris and Brexit. As always @BBCNews be like
+92,92,92,92,92,92,92,1056025,1152574566008590336,750504973,positive,other,2019-07-20T13:42:44.000Z,People in England are sending a clear message about Brexit. Massive turnout at #MarchForChange in London. #NoToBoris #YestoEurope #NoToBrexit https://t.co/jZ7nNNoLiu,"['notoboris', 'marchforchange', 'yestoeurope', 'notobrexit']"
+93,93,93,93,93,93,93,1056419,1152581918426370048,921387891951063040,neutral,other,2019-07-20T14:11:57.000Z,"Thousands of people march through the streets of London against Boris and Brexit. As always @BBCNews be like
 
 #MarchForChange #NoToBoris #NoToBrexit #YestoEurope https://t.co/fmewLgJg6y","['notoboris', 'marchforchange', 'yestoeurope', 'notobrexit']"
-94,94,94,1065748,1152861922783404032,103029808,positive,remain,2019-07-21T08:44:36.000Z,"With the wonderfully talented @callumbeattieuk who gave a barnstorming performance if his Boris Brexit song at the #MarchForChange event.  So glad the team got him on stage! Who the f is Boris? 
+94,94,94,94,94,94,94,1065748,1152861922783404032,103029808,positive,remain,2019-07-21T08:44:36.000Z,"With the wonderfully talented @callumbeattieuk who gave a barnstorming performance if his Boris Brexit song at the #MarchForChange event.  So glad the team got him on stage! Who the f is Boris? 
 #NoToBoris #NoToBrexit #YestoEurope @march_change @Devon4Europe @_Britain4Europe https://t.co/VK7ryaoUv4","['notoboris', 'marchforchange', 'yestoeurope', 'notobrexit']"
-95,95,95,1058734,1152629969627074560,941784833587597056,negative,other,2019-07-20T17:22:54.000Z,"So @BBCNews did cover #MarchForChange #NoToBoris #YestoEurope rally in the end and did acknowledge it was ""thousands.""
+95,95,95,95,95,95,95,1058734,1152629969627074560,941784833587597056,negative,other,2019-07-20T17:22:54.000Z,"So @BBCNews did cover #MarchForChange #NoToBoris #YestoEurope rally in the end and did acknowledge it was ""thousands.""
 
 Sadly no mention of the speakers including the #RemainerNow guys...
 
 BBC News - Anti-Brexit protesters hold 'No to Boris' march
 https://t.co/PRdL1OFvts","['notoboris', 'marchforchange', 'yestoeurope', 'remainernow']"
-96,96,96,1055076,1152556268806123520,941784833587597056,positive,other,2019-07-20T12:30:02.000Z,"Following #MarchForChange #NoToBoris #YestoEurope events today.
+96,96,96,96,96,96,96,1055076,1152556268806123520,941784833587597056,positive,other,2019-07-20T12:30:02.000Z,"Following #MarchForChange #NoToBoris #YestoEurope events today.
 
 Well you should also follow us. We share stories of those who have changed their minds on brexit. Like Dan from Devon here....
 
 #RemainerNow https://t.co/WIXJ3EYsMe","['notoboris', 'marchforchange', 'yestoeurope', 'remainernow']"
-97,97,97,1059645,1152650184523997184,1127284685728624640,negative,other,2019-07-20T18:43:13.000Z,"@BBCNews @BBCPolitics #MarchForChange saying #NoToBoris and #YesToEurope!
+97,97,97,97,97,97,97,1059645,1152650184523997184,1127284685728624640,negative,other,2019-07-20T18:43:13.000Z,"@BBCNews @BBCPolitics #MarchForChange saying #NoToBoris and #YesToEurope!
 Saying no to tiny minority extremists that want hard Brexit.
 Will of the people is a lie.
 88% 45m electorate don't!
 We are majority now 100x more then all Conservative party members.
 #RevokeArticle50
 https://t.co/XGwUcaYdz1","['notoboris', 'marchforchange', 'yestoeurope', 'revokearticle50']"
-98,98,98,1059290,1152642179703156736,1127284685728624640,negative,other,2019-07-20T18:11:25.000Z,"#MarchForChange saying #NoToBoris  and #YesToEurope! Saying no to tiny minority extremists that want hard  Brexit.
+98,98,98,98,98,98,98,1059290,1152642179703156736,1127284685728624640,negative,other,2019-07-20T18:11:25.000Z,"#MarchForChange saying #NoToBoris  and #YesToEurope! Saying no to tiny minority extremists that want hard  Brexit.
 Will of the people is a lie. Only tiny 6m extremists wants hard Brexit!
 88% 45m electorate don't!
 #RevokeArticle50 https://t.co/iLAiEk3luW","['notoboris', 'marchforchange', 'yestoeurope', 'revokearticle50']"
-99,99,99,1059574,1152648639623434240,1127284685728624640,negative,other,2019-07-20T18:37:05.000Z,"@UKMoments #MarchForChange saying #NoToBoris and #YesToEurope! Saying no to tiny minority extremists that want hard Brexit.
+99,99,99,99,99,99,99,1059574,1152648639623434240,1127284685728624640,negative,other,2019-07-20T18:37:05.000Z,"@UKMoments #MarchForChange saying #NoToBoris and #YesToEurope! Saying no to tiny minority extremists that want hard Brexit.
 Will of the people is a lie. Only tiny 6m extremists wants hard Brexit!
 88% 45m electorate don't!
 #RevokeArticle50
 https://t.co/XGwUcaYdz1","['notoboris', 'marchforchange', 'yestoeurope', 'revokearticle50']"
-100,100,100,1059269,1152641803209887744,1127284685728624640,negative,other,2019-07-20T18:09:55.000Z,"#MarchForChange saying #NoToBoris  and #YesToEurope! Saying no to tiny minority extremists that want hard  Brexit.
+100,100,100,100,100,100,100,1059269,1152641803209887744,1127284685728624640,negative,other,2019-07-20T18:09:55.000Z,"#MarchForChange saying #NoToBoris  and #YesToEurope! Saying no to tiny minority extremists that want hard  Brexit.
 Will of the people is a lie. Only tiny 6m extremists wants hard Brexit!
 88% 45m electorate don't!
 #RevokeArticle50 https://t.co/KSsfV8KIS2","['notoboris', 'marchforchange', 'yestoeurope', 'revokearticle50']"
-101,101,101,1059247,1152641412678279168,1127284685728624640,negative,other,2019-07-20T18:08:22.000Z,"@Christo34733859 @ChukaUmunna @LibDems @thomasbrake @catherinemep @EdwardJDavey @Wera_Hobhouse @dinesh_dhamija @LuisaPorritt @Gareth_Roberts_ @Barb_G @TRLibDems @SophieintVeld Brilliant @LibDems team today for the #MarchForChange saying #NoToBoris and #YesToEurope! Saying no to tiny minority extremists that want hard Brexit.
+101,101,101,101,101,101,101,1059247,1152641412678279168,1127284685728624640,negative,other,2019-07-20T18:08:22.000Z,"@Christo34733859 @ChukaUmunna @LibDems @thomasbrake @catherinemep @EdwardJDavey @Wera_Hobhouse @dinesh_dhamija @LuisaPorritt @Gareth_Roberts_ @Barb_G @TRLibDems @SophieintVeld Brilliant @LibDems team today for the #MarchForChange saying #NoToBoris and #YesToEurope! Saying no to tiny minority extremists that want hard Brexit.
 Will of the people is a lie. Only tiny 6m extremists wants hard Brexit!
 88% 45m electorate don't!
 #RevokeArticle50 https://t.co/kSTch93lcq","['notoboris', 'marchforchange', 'yestoeurope', 'revokearticle50']"
-102,102,102,1351348,1156847339484721152,803742168141692928,positive,remain,2019-08-01T08:41:13.000Z,Placard waving North Devon residents welcome Boris with a Brexit message https://t.co/zpoMduqEuF #marchforchange #undemocraticNoDeal #NoToBoris #YesToEurope @NDevon4Europe,"['notoboris', 'marchforchange', 'yestoeurope', 'undemocraticnodeal']"
-103,103,103,1056459,1152582699342848000,354215133,negative,remain,2019-07-20T14:15:04.000Z,#Wales will suffer greatly if Brexit happens #marchforchange #YestoEurope #NoToBoris,"['notoboris', 'marchforchange', 'yestoeurope', 'wales']"
-104,104,104,1064118,1152837406833426432,1075520691133472768,negative,remain,2019-07-21T07:07:11.000Z,"@doncasterleave @dmar317 @Femi_Sorry Leave won in a corrupt and illegal refferendum based on lies over 3 years ago when we had no idea what brexit actually meant. 
+102,102,102,102,102,102,102,1351348,1156847339484721152,803742168141692928,positive,remain,2019-08-01T08:41:13.000Z,Placard waving North Devon residents welcome Boris with a Brexit message https://t.co/zpoMduqEuF #marchforchange #undemocraticNoDeal #NoToBoris #YesToEurope @NDevon4Europe,"['notoboris', 'marchforchange', 'yestoeurope', 'undemocraticnodeal']"
+103,103,103,103,103,103,103,1056459,1152582699342848000,354215133,negative,remain,2019-07-20T14:15:04.000Z,#Wales will suffer greatly if Brexit happens #marchforchange #YestoEurope #NoToBoris,"['notoboris', 'marchforchange', 'yestoeurope', 'wales']"
+104,104,104,104,104,104,104,1064118,1152837406833426432,1075520691133472768,negative,remain,2019-07-21T07:07:11.000Z,"@doncasterleave @dmar317 @Femi_Sorry Leave won in a corrupt and illegal refferendum based on lies over 3 years ago when we had no idea what brexit actually meant. 
 
 Put the decision back to the people now that we actually know what brexit looks like. #PeoplesVote #NoToBoris #YestoEurope","['notoboris', 'peoplesvote', 'yestoeurope']"
-105,105,105,1071438,1152935452950896640,69558002,negative,remain,2019-07-21T13:36:47.000Z,"Some more photos of ⁦@march_change⁩ yesterday. Ppl came from across the UK to show they want #YestoEurope #NoToBoris Best option is to #RevokeRemainRebuild Everybody knows #Brexit is a crime, a con and highly damaging! Some still won’t admit it. Some make money from chaos. https://t.co/9K6e6dZ9WT","['notoboris', 'revokeremainrebuild', 'brexit', 'yestoeurope']"
-106,106,106,1053777,1152533743766331392,29459695,negative,remain,2019-07-20T11:00:32.000Z,I don't accept that it is over. We will stop #Brexit. #MarchForChange #YestoEurope #NoToBoris #StopBrexit https://t.co/eU7dIkavmN,"['notoboris', 'stopbrexit', 'marchforchange', 'yestoeurope', 'brexit']"
-107,107,107,1071531,1152937375372390400,69558002,negative,remain,2019-07-21T13:44:25.000Z,Anti-Brexit protesters hold 'No to Boris' march - BBC News Also shown in ⁦@euronews⁩ and news in other EU countries. #YestoEurope #NoToBoris and #RevokeA50 chants filled Central London. ⁦@SODEMAction⁩ shouts this every day. Join us #StopBrexit  https://t.co/BJbH9bikwh,"['notoboris', 'stopbrexit', 'revokea50', 'yestoeurope']"
-108,108,108,1287620,1155953762013306880,21519725,positive,remain,2019-07-29T21:30:28.000Z,The Tory Party and Brexit is like an ageing rock band riven with musical and personal differences but having to push ahead with that final contractual obligation album. #StopBrexit #NoToBoris #YesToEurope,"['notoboris', 'stopbrexit', 'yestoeurope']"
-109,109,109,1037583,1152161003804790784,72684950,negative,other,2019-07-19T10:19:24.000Z,Boris blimp to fly over London during anti-Brexit protest - The Independent #NoToBoris #YesToEU #YesToEurope #RevokeArticle50  https://t.co/6NiQu28sao,"['notoboris', 'yestoeu', 'yestoeurope', 'revokearticle50']"
-110,110,110,1055843,1152571140663066624,4375048277,negative,other,2019-07-20T13:29:08.000Z,Brexit?   Errr no.  #NoToBoris #YestoEurope https://t.co/wYwvU2lVah,"['notoboris', 'yestoeurope']"
-111,111,111,804774,1147082892746600448,1135664884165894144,positive,other,2019-07-05T10:00:48.000Z,"""They promised that the UK will profit from Brexit. The fact is that everybody is losing.""
+105,105,105,105,105,105,105,1071438,1152935452950896640,69558002,negative,remain,2019-07-21T13:36:47.000Z,"Some more photos of ⁦@march_change⁩ yesterday. Ppl came from across the UK to show they want #YestoEurope #NoToBoris Best option is to #RevokeRemainRebuild Everybody knows #Brexit is a crime, a con and highly damaging! Some still won’t admit it. Some make money from chaos. https://t.co/9K6e6dZ9WT","['notoboris', 'revokeremainrebuild', 'brexit', 'yestoeurope']"
+106,106,106,106,106,106,106,1053777,1152533743766331392,29459695,negative,remain,2019-07-20T11:00:32.000Z,I don't accept that it is over. We will stop #Brexit. #MarchForChange #YestoEurope #NoToBoris #StopBrexit https://t.co/eU7dIkavmN,"['notoboris', 'stopbrexit', 'marchforchange', 'yestoeurope', 'brexit']"
+107,107,107,107,107,107,107,1071531,1152937375372390400,69558002,negative,remain,2019-07-21T13:44:25.000Z,Anti-Brexit protesters hold 'No to Boris' march - BBC News Also shown in ⁦@euronews⁩ and news in other EU countries. #YestoEurope #NoToBoris and #RevokeA50 chants filled Central London. ⁦@SODEMAction⁩ shouts this every day. Join us #StopBrexit  https://t.co/BJbH9bikwh,"['notoboris', 'stopbrexit', 'revokea50', 'yestoeurope']"
+108,108,108,108,108,108,108,1287620,1155953762013306880,21519725,positive,remain,2019-07-29T21:30:28.000Z,The Tory Party and Brexit is like an ageing rock band riven with musical and personal differences but having to push ahead with that final contractual obligation album. #StopBrexit #NoToBoris #YesToEurope,"['notoboris', 'stopbrexit', 'yestoeurope']"
+109,109,109,109,109,109,109,1037583,1152161003804790784,72684950,negative,other,2019-07-19T10:19:24.000Z,Boris blimp to fly over London during anti-Brexit protest - The Independent #NoToBoris #YesToEU #YesToEurope #RevokeArticle50  https://t.co/6NiQu28sao,"['notoboris', 'yestoeu', 'yestoeurope', 'revokearticle50']"
+110,110,110,110,110,110,110,1055843,1152571140663066624,4375048277,negative,other,2019-07-20T13:29:08.000Z,Brexit?   Errr no.  #NoToBoris #YestoEurope https://t.co/wYwvU2lVah,"['notoboris', 'yestoeurope']"
+111,111,111,111,111,111,111,804774,1147082892746600448,1135664884165894144,positive,other,2019-07-05T10:00:48.000Z,"""They promised that the UK will profit from Brexit. The fact is that everybody is losing.""
 
 On July 20th we're saying #NoToBoris and #YesToEurope.
 
 Join us!!!
 
 https://t.co/TECQVKPApH","['notoboris', 'yestoeurope']"
-112,112,112,1050957,1152490480858554368,792782917638455296,negative,other,2019-07-20T08:08:37.000Z,"The man in charge of Dundee’s cross-party working group on Brexit has said Nigel Farage is not welcome in the city.
+112,112,112,112,112,112,112,1050957,1152490480858554368,792782917638455296,negative,other,2019-07-20T08:08:37.000Z,"The man in charge of Dundee’s cross-party working group on Brexit has said Nigel Farage is not welcome in the city.
 #NoToBoris #YestoEurope https://t.co/jgli3ApIdj via @thecourieruk","['notoboris', 'yestoeurope']"
-113,113,113,1027597,1151945323247472640,3824214389,neutral,remain,2019-07-18T20:02:21.000Z,"The majority of people (53%) do not think Boris Johnson will deliver Brexit by October 31st.
+113,113,113,113,113,113,113,1027597,1151945323247472640,3824214389,neutral,remain,2019-07-18T20:02:21.000Z,"The majority of people (53%) do not think Boris Johnson will deliver Brexit by October 31st.
 
 17% think he will.
 
 Time to rethink this whole thing, say #NoToBoris and #yestoeurope this Saturday in central London at the march!
 
 https://t.co/uBg8RTcoYI","['notoboris', 'yestoeurope']"
-114,114,114,811906,1147200446144143360,258305273,negative,leave,2019-07-05T17:47:54.000Z,"It’s now been 3 years of UK politics being engulfed in this Brexit mudslide - THREE YEARS!
+114,114,114,114,114,114,114,811906,1147200446144143360,258305273,negative,leave,2019-07-05T17:47:54.000Z,"It’s now been 3 years of UK politics being engulfed in this Brexit mudslide - THREE YEARS!
 
 Yes I’m still as angry as ever about it so I’ll be in London on the 20th of July to say #NoToBoris #YesToEurope 
 
 #BinBrexit 🚮 https://t.co/YT7mvRCMrL","['notoboris', 'yestoeurope', 'binbrexit']"
-115,115,115,1053323,1152526798795747328,596512506,negative,other,2019-07-20T10:32:56.000Z,Only 103 days until #Brexit. What can we do to prevent it? A General Strike? #NoToBoris #YestoEurope,"['notoboris', 'yestoeurope', 'brexit']"
-116,116,116,1191539,1154477007356354560,200993319,positive,leave,2019-07-25T19:42:22.000Z,"Today I wrote 177 words #acwri, summarising part of @tommie_shelby 's argument
+115,115,115,115,115,115,115,1053323,1152526798795747328,596512506,negative,other,2019-07-20T10:32:56.000Z,Only 103 days until #Brexit. What can we do to prevent it? A General Strike? #NoToBoris #YestoEurope,"['notoboris', 'yestoeurope', 'brexit']"
+116,116,116,116,116,116,116,1191539,1154477007356354560,200993319,positive,leave,2019-07-25T19:42:22.000Z,"Today I wrote 177 words #acwri, summarising part of @tommie_shelby 's argument
 Yesterday I wrote well over 2000, but the last 500 or so were complete rubbish
 Sure, the heat🔥is distracting
 #Brexit is distracting
 #NoToBoris #YesToEurope 💙🇪🇺
 I need to learn to pace myself better✍️","['notoboris', 'yestoeurope', 'brexit', 'acwri']"
-117,117,117,1056097,1152575767966040064,593519165,neutral,other,2019-07-20T13:47:31.000Z,"LIVE: Activists hold anti-Brexit “March for Change” in London speeches have started.
+117,117,117,117,117,117,117,1056097,1152575767966040064,593519165,neutral,other,2019-07-20T13:47:31.000Z,"LIVE: Activists hold anti-Brexit “March for Change” in London speeches have started.
 #March4Change #NoToBoris  #YesToEurope 
 https://t.co/eL0DTPibmb via @YouTube","['notoboris', 'yestoeurope', 'march4change']"
-118,118,118,1054903,1152552789748453376,792782917638455296,positive,other,2019-07-20T12:16:13.000Z,"Can Remain now win, 100 days before Brexit? | EUROPE 
+118,118,118,118,118,118,118,1054903,1152552789748453376,792782917638455296,positive,other,2019-07-20T12:16:13.000Z,"Can Remain now win, 100 days before Brexit? | EUROPE 
 What can the Remain side do in 100 days to put a legitimate halt to Brexit? Something it’s never done before?   
 #NoToBoris  #YesToEurope #March4Change
 https://t.co/M9PKIEoIFM","['notoboris', 'yestoeurope', 'march4change']"
-119,119,119,1055257,1152559581383577600,792782917638455296,neutral,remain,2019-07-20T12:43:12.000Z,"#NoToBoris  #YesToEurope #March4Change 
+119,119,119,119,119,119,119,1055257,1152559581383577600,792782917638455296,neutral,remain,2019-07-20T12:43:12.000Z,"#NoToBoris  #YesToEurope #March4Change 
 Boris Johnson blimp lifts off outside parliament in anti-Brexit march – video https://t.co/NrYG0sJeZs","['notoboris', 'yestoeurope', 'march4change']"
-120,120,120,1072121,1152948430613995520,302938456,neutral,leave,2019-07-21T14:28:21.000Z,the Brexit Wonderland crew yesterday at the #MarchForChange 🙃🇪🇺🇬🇧 #YesToEurope #NoToBoris https://t.co/FeztGGEQcO,"['notoboris', 'yestoeurope', 'marchforchange']"
-121,121,121,1060527,1152670501199917056,2330060305,neutral,other,2019-07-20T20:03:57.000Z,"RT @BremainInSpain Thousands of pro-EU demonstrators are taking part in the anti-Brexit #MarchforChange today, turning Park Lane into a sea of blue flags. #NoToBoris #YestoEurope https://t.co/lhlYYalQP1 …","['notoboris', 'yestoeurope', 'marchforchange']"
-122,122,122,1055678,1152567847920513024,792782917638455296,neutral,other,2019-07-20T13:16:03.000Z,"Thousands of pro-EU demonstrators are taking part in the anti-Brexit #MarchforChange today, turning Park Lane into a sea of blue flags.
+120,120,120,120,120,120,120,1072121,1152948430613995520,302938456,neutral,leave,2019-07-21T14:28:21.000Z,the Brexit Wonderland crew yesterday at the #MarchForChange 🙃🇪🇺🇬🇧 #YesToEurope #NoToBoris https://t.co/FeztGGEQcO,"['notoboris', 'yestoeurope', 'marchforchange']"
+121,121,121,121,121,121,121,1060527,1152670501199917056,2330060305,neutral,other,2019-07-20T20:03:57.000Z,"RT @BremainInSpain Thousands of pro-EU demonstrators are taking part in the anti-Brexit #MarchforChange today, turning Park Lane into a sea of blue flags. #NoToBoris #YestoEurope https://t.co/lhlYYalQP1 …","['notoboris', 'yestoeurope', 'marchforchange']"
+122,122,122,122,122,122,122,1055678,1152567847920513024,792782917638455296,neutral,other,2019-07-20T13:16:03.000Z,"Thousands of pro-EU demonstrators are taking part in the anti-Brexit #MarchforChange today, turning Park Lane into a sea of blue flags.
 #NoToBoris #YestoEurope
 https://t.co/0k2Tn8Z9pU","['notoboris', 'yestoeurope', 'marchforchange']"
-123,123,123,1057476,1152602491411947520,863377035661647872,positive,other,2019-07-20T15:33:42.000Z,"Thousands of anti-Brexiteers join No to Boris, yes to Europe march
+123,123,123,123,123,123,123,1057476,1152602491411947520,863377035661647872,positive,other,2019-07-20T15:33:42.000Z,"Thousands of anti-Brexiteers join No to Boris, yes to Europe march
 #Brexit #MarchForChange #NoToBoris #YesToEurope https://t.co/9BNRpoyfR4","['notoboris', 'yestoeurope', 'marchforchange', 'brexit']"
-124,124,124,928251,1149734950368894976,846112244282904448,positive,remain,2019-07-12T17:39:07.000Z,"Can you help in MARLBOROUGH tomorrow, Sat? 10 til 12. Pick up #NotoBoris #YestoEurope leaflets | NO TO BREXIT posters and stickers | our unique logo badges | #Moodometer | Sign up to our campaign | Say “hello” | Make friends | Find facts | NL:  https://t.co/aw5C43AWC0 https://t.co/9fADIgf2gR","['notoboris', 'yestoeurope', 'moodometer']"
-125,125,125,1060210,1152663341787209728,523554201,positive,other,2019-07-20T19:35:30.000Z,"Thousands of protesters have taken to the streets of central London in a #MarchForChange against #Brexit and @Conservatives leadership hopeful @BorisJohnson 💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽
+124,124,124,124,124,124,124,928251,1149734950368894976,846112244282904448,positive,remain,2019-07-12T17:39:07.000Z,"Can you help in MARLBOROUGH tomorrow, Sat? 10 til 12. Pick up #NotoBoris #YestoEurope leaflets | NO TO BREXIT posters and stickers | our unique logo badges | #Moodometer | Sign up to our campaign | Say “hello” | Make friends | Find facts | NL:  https://t.co/aw5C43AWC0 https://t.co/9fADIgf2gR","['notoboris', 'yestoeurope', 'moodometer']"
+125,125,125,125,125,125,125,1060210,1152663341787209728,523554201,positive,other,2019-07-20T19:35:30.000Z,"Thousands of protesters have taken to the streets of central London in a #MarchForChange against #Brexit and @Conservatives leadership hopeful @BorisJohnson 💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽💪🏽
 #NoToBoris 
 #NoToBrexit 
 #YestoEurope
 https://t.co/Ch8x4JjcgF","['notobrexit', 'brexit', 'notoboris', 'marchforchange', 'yestoeurope']"
-126,126,126,632250,1143793787497570304,19598347,negative,remain,2019-06-26T08:11:04.000Z,"I've signed, have you?
+126,126,126,126,126,126,126,632250,1143793787497570304,19598347,negative,remain,2019-06-26T08:11:04.000Z,"I've signed, have you?
 
 ✍️ - Sign the petition. 
 📧 - Send a message. 
@@ -363,67 +363,67 @@ https://t.co/Ch8x4JjcgF","['notobrexit', 'brexit', 'notoboris', 'marchforchange'
 https://t.co/ZLumYMJ5YS
 
 #YesToEurope #NoToBrexit #March4Change #StopBrexit https://t.co/ci0vprHSo5","['notobrexit', 'brexit', 'stopbrexit', 'yestoeurope', 'march4change']"
-127,127,127,1002342,1151537289782333440,3869876177,positive,leave,2019-07-17T17:00:59.000Z,"We're very excited to announce that @OwenJones84 will be joining us at the #LeftBloc on Saturday ✊📢
+127,127,127,127,127,127,127,1002342,1151537289782333440,3869876177,positive,leave,2019-07-17T17:00:59.000Z,"We're very excited to announce that @OwenJones84 will be joining us at the #LeftBloc on Saturday ✊📢
 
 We are marching to stop Brexit and transform Britain and Europe. See you: 11am, Stanhope Gate.
 
 👉https://t.co/ObmwqveMBA
 
 #NotoBrexit #YestoEurope https://t.co/47UGPGsXr5","['notobrexit', 'leftbloc', 'yestoeurope']"
-128,128,128,1061223,1152688982469304320,965092262,negative,remain,2019-07-20T21:17:24.000Z,Anti-Brexit protesters hold 'No to Boris' march https://t.co/bF9wzCS6gF #NoToBoris #NoToBrexit #YesToEurope #yestoChange #MarchForChange #RevokeRemainRebuild #StrongerTogether #FBPE,"['notobrexit', 'notoboris', 'strongertogether', 'marchforchange', 'revokeremainrebuild', 'yestochange', 'fbpe', 'yestoeurope']"
-129,129,129,1725844,1162645249900142592,1380308922,positive,remain,2019-08-17T08:40:03.000Z,"@chesterforeu @BorisJohnson @BackBoris is not a man of the people #StopBrexit #yestoeurope #nottoboris
+128,128,128,128,128,128,128,1061223,1152688982469304320,965092262,negative,remain,2019-07-20T21:17:24.000Z,Anti-Brexit protesters hold 'No to Boris' march https://t.co/bF9wzCS6gF #NoToBoris #NoToBrexit #YesToEurope #yestoChange #MarchForChange #RevokeRemainRebuild #StrongerTogether #FBPE,"['notobrexit', 'notoboris', 'strongertogether', 'marchforchange', 'revokeremainrebuild', 'yestochange', 'fbpe', 'yestoeurope']"
+129,129,129,129,129,129,129,1725844,1162645249900142592,1380308922,positive,remain,2019-08-17T08:40:03.000Z,"@chesterforeu @BorisJohnson @BackBoris is not a man of the people #StopBrexit #yestoeurope #nottoboris
 
 Love #Chester hate #brexit join @chesterforeu
 
 https://t.co/I4VVNfJGlK https://t.co/ae6dGdUdT1","['nottoboris', 'yestoeurope', 'stopbrexit', 'brexit', 'chester']"
-130,130,130,1055325,1152560839959941120,722058271708876800,negative,other,2019-07-20T12:48:12.000Z,"On the streets of London again!
+130,130,130,130,130,130,130,1055325,1152560839959941120,722058271708876800,negative,other,2019-07-20T12:48:12.000Z,"On the streets of London again!
 
 It's a bigger crowd than I expected saying #NoToBoris and #YesToEurope 
 
 There's no mandate for a #NoDeal #Brexit. Let's have a #PeoplesVote to end this mess! https://t.co/dH4OHLcKJD","['peoplesvote', 'notoboris', 'nodeal', 'yestoeurope', 'brexit']"
-131,131,131,690464,1144996496359809024,1144950931567579136,positive,other,2019-06-29T15:50:12.000Z,"Come join us, European Socialists on the 20th July on an anti-Brexit march organised by @march_change. Here are the details: https://t.co/jixuNNEJ2m. 🇪🇺🇬🇧 #Brexit #March4Change #YesToEurope #NoToBrexit #PES_PSE","['pes_pse', 'notobrexit', 'brexit', 'yestoeurope', 'march4change']"
-132,132,132,1909837,1165352272483758080,5858962,positive,other,2019-08-24T19:56:47.000Z,@jeremycorbyn The country is just over 60 days from No Deal Brexit. Nothing should be more important than stopping No Deal or any Brexit. Every second of your time &amp; Social Media output should be focused on that one issue. Je suis European #RejectBrexit #BollocksToBrexit #YestoEurope https://t.co/m0MRzQTq2x,"['rejectbrexit', 'yestoeurope', 'bollockstobrexit']"
-133,133,133,1075190,1153012146558648320,318950851,negative,other,2019-07-21T18:41:32.000Z,"BBC News - Anti-Brexit protesters hold 'No to Boris' march https://t.co/St4xUuYUvy
+131,131,131,131,131,131,131,690464,1144996496359809024,1144950931567579136,positive,other,2019-06-29T15:50:12.000Z,"Come join us, European Socialists on the 20th July on an anti-Brexit march organised by @march_change. Here are the details: https://t.co/jixuNNEJ2m. 🇪🇺🇬🇧 #Brexit #March4Change #YesToEurope #NoToBrexit #PES_PSE","['pes_pse', 'notobrexit', 'brexit', 'yestoeurope', 'march4change']"
+132,132,132,132,132,132,132,1909837,1165352272483758080,5858962,positive,other,2019-08-24T19:56:47.000Z,@jeremycorbyn The country is just over 60 days from No Deal Brexit. Nothing should be more important than stopping No Deal or any Brexit. Every second of your time &amp; Social Media output should be focused on that one issue. Je suis European #RejectBrexit #BollocksToBrexit #YestoEurope https://t.co/m0MRzQTq2x,"['rejectbrexit', 'yestoeurope', 'bollockstobrexit']"
+133,133,133,133,133,133,133,1075190,1153012146558648320,318950851,negative,other,2019-07-21T18:41:32.000Z,"BBC News - Anti-Brexit protesters hold 'No to Boris' march https://t.co/St4xUuYUvy
 It took me five minutes to find the ONE article on the BBC website. #BBCNews #Bias 
 Unfortunately no surprise.
 #YestoEurope and #NoToBoris 
 #MarchForChange
 #RevokeArticle50 to #Remain in the #EU","['remain', 'bias', 'bbcnews', 'revokearticle50', 'notoboris', 'marchforchange', 'eu', 'yestoeurope']"
-134,134,134,1060447,1152668756142960640,27424841,positive,other,2019-07-20T19:57:01.000Z,@kimmy_belle @EveningStandard Yes thousands! I was there at the #MarchForChange where people who never marched before #brexit came out again to say #NoToBoris #YestoEurope and #Remain,"['remain', 'notoboris', 'marchforchange', 'brexit', 'yestoeurope']"
-135,135,135,1056129,1152576614787686400,212653721,negative,remain,2019-07-20T13:50:53.000Z,#Revoke! #Remain! #Brexit is insane! #YestoEurope #NoToBoris #MarchForChange #RevokeArticle50 https://t.co/32P46mkc7O,"['remain', 'revokearticle50', 'brexit', 'notoboris', 'marchforchange', 'yestoeurope', 'revoke']"
-136,136,136,1054743,1152549776094896128,479854396,neutral,remain,2019-07-20T12:04:14.000Z,Bollocks to Brexit! #Remain #YestoEurope https://t.co/PHiI8BPaWz,"['remain', 'yestoeurope']"
-137,137,137,1254285,1155515797495660544,711945679,negative,remain,2019-07-28T16:30:09.000Z,"🇬🇧@TiceRichard @Nigel_Farage 🇪🇺
+134,134,134,134,134,134,134,1060447,1152668756142960640,27424841,positive,other,2019-07-20T19:57:01.000Z,@kimmy_belle @EveningStandard Yes thousands! I was there at the #MarchForChange where people who never marched before #brexit came out again to say #NoToBoris #YestoEurope and #Remain,"['remain', 'notoboris', 'marchforchange', 'brexit', 'yestoeurope']"
+135,135,135,135,135,135,135,1056129,1152576614787686400,212653721,negative,remain,2019-07-20T13:50:53.000Z,#Revoke! #Remain! #Brexit is insane! #YestoEurope #NoToBoris #MarchForChange #RevokeArticle50 https://t.co/32P46mkc7O,"['remain', 'revokearticle50', 'brexit', 'notoboris', 'marchforchange', 'yestoeurope', 'revoke']"
+136,136,136,136,136,136,136,1054743,1152549776094896128,479854396,neutral,remain,2019-07-20T12:04:14.000Z,Bollocks to Brexit! #Remain #YestoEurope https://t.co/PHiI8BPaWz,"['remain', 'yestoeurope']"
+137,137,137,137,137,137,137,1254285,1155515797495660544,711945679,negative,remain,2019-07-28T16:30:09.000Z,"🇬🇧@TiceRichard @Nigel_Farage 🇪🇺
 Oops.
 Seems someone took too hard a right turn .... 
 
 #brexit #fbpe #remainers #FarRight #StopBrexitSaveDemocracy #LibDemSurge #YesToEurope https://t.co/0g4wFdSKEO","['remainers', 'yestoeurope', 'farright', 'libdemsurge', 'fbpe', 'brexit', 'stopbrexitsavedemocracy']"
-138,138,138,1339208,1156639950147858432,711945679,positive,remain,2019-07-31T18:57:08.000Z,"🇪🇺The Great BREXIT Endgame is underway on all sides🇬🇧
+138,138,138,138,138,138,138,1339208,1156639950147858432,711945679,positive,remain,2019-07-31T18:57:08.000Z,"🇪🇺The Great BREXIT Endgame is underway on all sides🇬🇧
 
 Here are 3 Useful Winning Tips You Might Like to Try!
 https://t.co/ZXp7fUEZyy
 
 #BorisJohnsonShouldNotBePM #stopbrexit #yestoeurope #NoDealBrexit #fbpe #remainers #RevokeRemainRebuild  #RevokeArticle50 #WATON #wearesodem https://t.co/cbJHBPgWpv","['stopbrexit', 'borisjohnsonshouldnotbepm', 'remainers', 'waton', 'revokearticle50', 'wearesodem', 'yestoeurope', 'nodealbrexit', 'fbpe', 'revokeremainrebuild']"
-139,139,139,1334058,1156578090681819136,711945679,positive,remain,2019-07-31T14:51:19.000Z,"🇪🇺The BREXIT endgame is underway on all sides🇬🇧
+139,139,139,139,139,139,139,1334058,1156578090681819136,711945679,positive,remain,2019-07-31T14:51:19.000Z,"🇪🇺The BREXIT endgame is underway on all sides🇬🇧
 
 Here are 3 Useful Tips You Might Like to Try!
  https://t.co/giFNkkjgf6
 
 #BorisJohnsonShouldNotBePM #stopbrexit #yestoeurope #NoDealBrexit #fbpe #remainers #RevokeRemainRebuild  #RevokeArticle50 #WATON https://t.co/27zByAVgiM","['stopbrexit', 'borisjohnsonshouldnotbepm', 'remainers', 'waton', 'revokearticle50', 'yestoeurope', 'nodealbrexit', 'fbpe', 'revokeremainrebuild']"
-140,140,140,1056156,1152577264971915264,471477968,neutral,remain,2019-07-20T13:53:28.000Z,@Zara50505392 @YasmineHamid sisters against Brexit #MarchForChange #StopBrexit #YestoEurope https://t.co/P4UAJyrANV,"['stopbrexit', 'marchforchange', 'yestoeurope']"
-141,141,141,1057396,1152601253073104896,30307922,negative,remain,2019-07-20T15:28:47.000Z,#YestoEurope #StopBrexit #MarchForChange    See it. Say It. Stop Brexit. https://t.co/1eaak3eJG7,"['stopbrexit', 'marchforchange', 'yestoeurope']"
-142,142,142,1084772,1153257099071303680,21519725,negative,remain,2019-07-22T10:54:53.000Z,"Bojo thinks we can 'find technological solutions' to prevent hard a Irish border after Brexit.
+140,140,140,140,140,140,140,1056156,1152577264971915264,471477968,neutral,remain,2019-07-20T13:53:28.000Z,@Zara50505392 @YasmineHamid sisters against Brexit #MarchForChange #StopBrexit #YestoEurope https://t.co/P4UAJyrANV,"['stopbrexit', 'marchforchange', 'yestoeurope']"
+141,141,141,141,141,141,141,1057396,1152601253073104896,30307922,negative,remain,2019-07-20T15:28:47.000Z,#YestoEurope #StopBrexit #MarchForChange    See it. Say It. Stop Brexit. https://t.co/1eaak3eJG7,"['stopbrexit', 'marchforchange', 'yestoeurope']"
+142,142,142,142,142,142,142,1084772,1153257099071303680,21519725,negative,remain,2019-07-22T10:54:53.000Z,"Bojo thinks we can 'find technological solutions' to prevent hard a Irish border after Brexit.
 
 I always wince at the pronouncements - based on ignorance and lies - of duplicitous Brexiteers on this subject...   1/
 
 #StopBrexit #NotoBoris #YestoEurope
 
 https://t.co/3f7oQyeZIF","['stopbrexit', 'notoboris', 'yestoeurope']"
-143,143,143,1276035,1155833021469249536,711945679,neutral,remain,2019-07-29T13:30:41.000Z,"🇪🇺THIS🇪🇺
+143,143,143,143,143,143,143,1276035,1155833021469249536,711945679,neutral,remain,2019-07-29T13:30:41.000Z,"🇪🇺THIS🇪🇺
 
 https://t.co/hecW1ikyN6
 You know what to do!
 #stopbrexit #NHS #RevokeArticle50 #brexit #remainers #fbpe #yestoeurope #WATON #Boris","['stopbrexit', 'remainers', 'waton', 'revokearticle50', 'yestoeurope', 'boris', 'fbpe', 'nhs', 'brexit']"
-144,144,144,1081667,1153220797357547520,998516058158968832,negative,remain,2019-07-22T08:30:38.000Z,"A no deal #Brexit is utter madness.
+144,144,144,144,144,144,144,1081667,1153220797357547520,998516058158968832,negative,remain,2019-07-22T08:30:38.000Z,"A no deal #Brexit is utter madness.
 Read Commons Select Committee 19 July 2019.
 
 We need a #RemainAlliance fast.
@@ -438,7 +438,7 @@ We need a #RemainAlliance fast.
 #RevokeArticle50
 #LeadersNotLeavers
 #SaveOurStar https://t.co/0StqFJJARG","['stopbrexitsavebritain', 'notobrexit', 'revokearticle50', 'brexit', 'peoplesvote', 'bollockstobrexit', 'stopbrexit', 'marchforchange', 'saveourstar', 'remainalliance', 'leadersnotleavers', 'yestoeurope']"
-145,145,145,1087568,1153293094286254080,998516058158968832,negative,remain,2019-07-22T13:17:55.000Z,"A no deal #Brexit is madness.
+145,145,145,145,145,145,145,1087568,1153293094286254080,998516058158968832,negative,remain,2019-07-22T13:17:55.000Z,"A no deal #Brexit is madness.
 Commons Select Committee 19 July 2019.
 
 #RemainAlliance fast.
@@ -456,7 +456,7 @@ Commons Select Committee 19 July 2019.
 #RevokeArticle50
 #LeadersNotLeavers
 #SaveOurStar https://t.co/tlnzy0Wwnd","['stopbrexitsavebritain', 'notobrexit', 'revokearticle50', 'brexit', 'peoplesvote', 'bollockstobrexit', 'stopbrexit', 'marchforchange', 'snp', 'saveourstar', 'remainalliance', 'leadersnotleavers', 'yestoeurope', 'libdems', 'greens']"
-146,146,146,1087560,1153293027571621888,998516058158968832,negative,remain,2019-07-22T13:17:39.000Z,"A no deal #Brexit is madness.
+146,146,146,146,146,146,146,1087560,1153293027571621888,998516058158968832,negative,remain,2019-07-22T13:17:39.000Z,"A no deal #Brexit is madness.
 Commons Select Committee 19 July 2019.
 
 #RemainAlliance fast.
@@ -474,7 +474,7 @@ Commons Select Committee 19 July 2019.
 #RevokeArticle50
 #LeadersNotLeavers
 #SaveOurStar https://t.co/Lt7fb6wzBy","['stopbrexitsavebritain', 'notobrexit', 'revokearticle50', 'brexit', 'peoplesvote', 'bollockstobrexit', 'stopbrexit', 'marchforchange', 'snp', 'saveourstar', 'remainalliance', 'leadersnotleavers', 'yestoeurope', 'libdems', 'greens']"
-147,147,147,1087572,1153293172044378112,998516058158968832,negative,remain,2019-07-22T13:18:14.000Z,"A no deal #Brexit is madness.
+147,147,147,147,147,147,147,1087572,1153293172044378112,998516058158968832,negative,remain,2019-07-22T13:18:14.000Z,"A no deal #Brexit is madness.
 Commons Select Committee 19 July 2019.
 
 #RemainAlliance fast.
@@ -492,11 +492,11 @@ Commons Select Committee 19 July 2019.
 #RevokeArticle50
 #LeadersNotLeavers
 #SaveOurStar https://t.co/aM46j9LiRS","['stopbrexitsavebritain', 'notobrexit', 'revokearticle50', 'brexit', 'peoplesvote', 'bollockstobrexit', 'stopbrexit', 'marchforchange', 'snp', 'saveourstar', 'remainalliance', 'leadersnotleavers', 'yestoeurope', 'libdems', 'greens']"
-148,148,148,1631767,1161258379471405056,1103673366005932032,positive,other,2019-08-13T12:49:07.000Z,"Good to chat with ""Stop Brexit Steve"" @snb19692 and @SODEMAction today. Very impressed with how hard they are working to get across the message that WE DON'T WANT BREXIT. Keep shouting 📣📣📣
+148,148,148,148,148,148,148,1631767,1161258379471405056,1103673366005932032,positive,other,2019-08-13T12:49:07.000Z,"Good to chat with ""Stop Brexit Steve"" @snb19692 and @SODEMAction today. Very impressed with how hard they are working to get across the message that WE DON'T WANT BREXIT. Keep shouting 📣📣📣
 #StopBrexitSaveBritain #StopBrexitSaveDemocracy #YesToEurope #BollocksToBrexit https://t.co/TTiDESZA9d","['stopbrexitsavebritain', 'yestoeurope', 'bollockstobrexit', 'stopbrexitsavedemocracy']"
-149,149,149,1064808,1152849745255305216,447983131,negative,remain,2019-07-21T07:56:12.000Z,"#MarchForChange #March4Change #NoToBoris #YestoEurope #NoToBorisYesToEurope 
+149,149,149,149,149,149,149,1064808,1152849745255305216,447983131,negative,remain,2019-07-21T07:56:12.000Z,"#MarchForChange #March4Change #NoToBoris #YestoEurope #NoToBorisYesToEurope 
 I'm probably going to be losing my NHS job because of #tory privatisation by the back door policies. We can't recruit because of #brexit and I'm still to hear one good reason to leave. https://t.co/8rTVCoaEea","['tory', 'notoborisyestoeurope', 'notoboris', 'marchforchange', 'brexit', 'yestoeurope', 'march4change']"
-150,150,150,1286044,1155937158894518272,794906337146707840,neutral,other,2019-07-29T20:24:29.000Z,"'Snappy writing' skills required. And only trainee level skills.
+150,150,150,150,150,150,150,1286044,1155937158894518272,794906337146707840,neutral,other,2019-07-29T20:24:29.000Z,"'Snappy writing' skills required. And only trainee level skills.
 
 Oh, seems there will soon be another BoJo in the making 😂
 
@@ -505,16 +505,16 @@ Just invent your stories - as long as it pleases Brexiters and is 'uplifting', y
 #UnfitForOffice
 #yestoeurope 
 #Brexit https://t.co/0Eilq5fR2u","['unfitforoffice', 'yestoeurope', 'brexit']"
-151,151,151,1073399,1152975260196769792,930944243836882944,positive,other,2019-07-21T16:14:57.000Z,"The #MarchForChange took over #London yesterday with #protesters lining the streets. Saying #NotoBoris and #YestoEurope this marcher has T-shirts and some great insight into #Brexit's effect on #Welsh #farmers
+151,151,151,151,151,151,151,1073399,1152975260196769792,930944243836882944,positive,other,2019-07-21T16:14:57.000Z,"The #MarchForChange took over #London yesterday with #protesters lining the streets. Saying #NotoBoris and #YestoEurope this marcher has T-shirts and some great insight into #Brexit's effect on #Welsh #farmers
 
 https://t.co/IJJONAnmix","['welsh', 'protesters', 'notoboris', ""brexit's"", 'london', 'farmers', 'marchforchange', 'yestoeurope']"
-152,152,152,1056700,1152587527112581120,18723848,negative,remain,2019-07-20T14:34:15.000Z,"Dani Loughran talking about the ugly economic truths of Brexit - duplicated regulations, more uncertainty, more costs for businesses.
+152,152,152,152,152,152,152,1056700,1152587527112581120,18723848,negative,remain,2019-07-20T14:34:15.000Z,"Dani Loughran talking about the ugly economic truths of Brexit - duplicated regulations, more uncertainty, more costs for businesses.
 
 #MarchForChange #NoToBoris #NoToBrexit #YestoEurope #WhatIsBorisSmoking #Kippergate https://t.co/xKCcW12GSS","['whatisborissmoking', 'notobrexit', 'notoboris', 'marchforchange', 'kippergate', 'yestoeurope']"
-153,153,153,1050786,1152487701263847424,376158038,positive,other,2019-07-20T07:57:34.000Z,"An uplifting song for all you wonderful marchers today: Reg &amp; The Remainers - We're Not Gonna Brexit https://t.co/DpFRbLkhcu via @YouTube
+153,153,153,153,153,153,153,1050786,1152487701263847424,376158038,positive,other,2019-07-20T07:57:34.000Z,"An uplifting song for all you wonderful marchers today: Reg &amp; The Remainers - We're Not Gonna Brexit https://t.co/DpFRbLkhcu via @YouTube
 
 #WithEUinSpirit #MarchForChange #StandAndBeTrue #FeetOnTheStreet #YesToEurope","['witheuinspirit', 'feetonthestreet', 'marchforchange', 'standandbetrue', 'yestoeurope']"
-154,154,154,1055695,1152568175344664576,912295646488559616,positive,other,2019-07-20T13:17:21.000Z,"YAY!!
+154,154,154,154,154,154,154,1055695,1152568175344664576,912295646488559616,positive,other,2019-07-20T13:17:21.000Z,"YAY!!
 #Roses4Remain - so glad the Yorks and Lancs teams met up successfully (they had a plan - unlike Brexiters!)
 
 Hope the #RemainVoiceChoir is singing 'All Brexit deals are CR*P' !
@@ -523,11 +523,11 @@ Hope the #RemainVoiceChoir is singing 'All Brexit deals are CR*P' !
 #RevokeA50 
 #SaveOurStar
 #witheuinspirit https://t.co/sr6eL6xbpJ","['witheuinspirit', 'revokea50', 'remainvoicechoir', 'notoboris', 'marchforchange', 'saveourstar', 'roses4remain', 'yestoeurope']"
-155,155,155,1055208,1152558578940731392,1124350302235308032,negative,leave,2019-07-20T12:39:13.000Z,We cant all be the #EUsupergirl but we can all speak out to stop the #toxicmess of #Brexit. Instead say #YestoEurope #yestoDemocracy and #yestoChange https://t.co/4lMro5oR5J,"['yestodemocracy', 'eusupergirl', 'yestochange', 'toxicmess', 'yestoeurope', 'brexit']"
-156,156,156,1055040,1152555625185980416,1124350302235308032,negative,remain,2019-07-20T12:27:29.000Z,Today ordinary people speak out against toxic #Brexit on the #MarchForChange. The only good deal is no Brexit. SAy #YestoEurope #yestoDemocracy and #yestoChange https://t.co/zjONjX2e5U,"['yestodemocracy', 'marchforchange', 'brexit', 'yestochange', 'yestoeurope']"
-157,157,157,1054349,1152543469677817856,1124350302235308032,negative,remain,2019-07-20T11:39:11.000Z,Sajid Javid says the Brexit Party Ltd aren't extremists. Appeasement will be a disaster for this country. Joins us today for the #MarchForChange. Time to say #NoToBoris #NotoBrexit #NotoFascism. Together we can do this saying #YestoEurope #yestoDemocracy #yestoChange https://t.co/TIA3JGI7U7,"['yestodemocracy', 'marchforchange', 'notoboris', 'yestochange', 'notobrexit', 'yestoeurope', 'notofascism']"
-158,158,158,1256956,1155554302611591168,1962626484,positive,leave,2019-07-28T19:03:09.000Z,"My closing statement at MacGill 2019 on the future of Europe in a post Brexit world. Beginning “perhaps now, more than ever, we are relying on our elected officials and diplomats to chart a course towards a safer and fairer world for present and future generations”. #YesToEurope https://t.co/aCeD4iMJiS",['yestoeurope']
-159,159,159,1242554,1155395130226069504,794906337146707840,positive,other,2019-07-28T08:30:39.000Z,"And the orange manatee in the WH wants you as PM, I know 😁
+155,155,155,155,155,155,155,1055208,1152558578940731392,1124350302235308032,negative,leave,2019-07-20T12:39:13.000Z,We cant all be the #EUsupergirl but we can all speak out to stop the #toxicmess of #Brexit. Instead say #YestoEurope #yestoDemocracy and #yestoChange https://t.co/4lMro5oR5J,"['yestodemocracy', 'eusupergirl', 'yestochange', 'toxicmess', 'yestoeurope', 'brexit']"
+156,156,156,156,156,156,156,1055040,1152555625185980416,1124350302235308032,negative,remain,2019-07-20T12:27:29.000Z,Today ordinary people speak out against toxic #Brexit on the #MarchForChange. The only good deal is no Brexit. SAy #YestoEurope #yestoDemocracy and #yestoChange https://t.co/zjONjX2e5U,"['yestodemocracy', 'marchforchange', 'brexit', 'yestochange', 'yestoeurope']"
+157,157,157,157,157,157,157,1054349,1152543469677817856,1124350302235308032,negative,remain,2019-07-20T11:39:11.000Z,Sajid Javid says the Brexit Party Ltd aren't extremists. Appeasement will be a disaster for this country. Joins us today for the #MarchForChange. Time to say #NoToBoris #NotoBrexit #NotoFascism. Together we can do this saying #YestoEurope #yestoDemocracy #yestoChange https://t.co/TIA3JGI7U7,"['yestodemocracy', 'marchforchange', 'notoboris', 'yestochange', 'notobrexit', 'yestoeurope', 'notofascism']"
+158,158,158,158,158,158,158,1256956,1155554302611591168,1962626484,positive,leave,2019-07-28T19:03:09.000Z,"My closing statement at MacGill 2019 on the future of Europe in a post Brexit world. Beginning “perhaps now, more than ever, we are relying on our elected officials and diplomats to chart a course towards a safer and fairer world for present and future generations”. #YesToEurope https://t.co/aCeD4iMJiS",['yestoeurope']
+159,159,159,159,159,159,159,1242554,1155395130226069504,794906337146707840,positive,other,2019-07-28T08:30:39.000Z,"And the orange manatee in the WH wants you as PM, I know 😁
 
 Btw, so does Vladimir 😈
 
@@ -537,13 +537,13 @@ Sit down, shut up or, funny idea, actually work for your MEP salary!
 
 #Brexit
 #yestoeurope https://t.co/3iuyenjh1K","['yestoeurope', 'brexit']"
-160,160,160,1202258,1154674574673481728,794906337146707840,neutral,leave,2019-07-26T08:47:26.000Z,"@DavidLammy What I find utterly disturbing abt this WW2 glorification, invoking Blitz spirit etc, is that English conveniently blend out facts.
+160,160,160,160,160,160,160,1202258,1154674574673481728,794906337146707840,neutral,leave,2019-07-26T08:47:26.000Z,"@DavidLammy What I find utterly disturbing abt this WW2 glorification, invoking Blitz spirit etc, is that English conveniently blend out facts.
 
 Without the US's support the war might well have ended differently. Plus,the UK was a big recipient of Marshall Plan funds 🤷‍♀️
 
 #YesToEurope
 #Brexit","['yestoeurope', 'brexit']"
-161,161,161,1328059,1156520018261282816,794906337146707840,negative,remain,2019-07-31T11:00:34.000Z,"First, I am abhorred by the facts that @BBC allowed this man to spew his vile de facto unchallenged 🤬
+161,161,161,161,161,161,161,1328059,1156520018261282816,794906337146707840,negative,remain,2019-07-31T11:00:34.000Z,"First, I am abhorred by the facts that @BBC allowed this man to spew his vile de facto unchallenged 🤬
 
 Second, I wonder whether Brexiters are ok with this guy being Nigel's US contact &amp; inspiration. Is this 'taking back control'?🤦‍♀️
 
@@ -551,10 +551,10 @@ We sure can do better!
 
 #yestoeurope
 #Brexit https://t.co/tluBqQA5Im","['yestoeurope', 'brexit']"
-162,162,162,1058051,1152615273507295232,836721050008313728,negative,remain,2019-07-20T16:24:30.000Z,The marches the euro-fanatics are holding are getting smaller. Recent survey: Support for #Brexit reaches 57% - up from 51.9% in the referendum. EU remain is dying. This time next week the UK will have its first pro-Brexit Prime Minister (#BorisJohnson). #YesToEurope - NO TO EU. https://t.co/qY8c9zJFeb,"['yestoeurope', 'brexit']"
-163,163,163,1065445,1152858259612741632,863377035661647872,negative,other,2019-07-21T08:30:02.000Z,"VIDEO: #NotoBoris, #YesToEurope"" protest marches on Westminster to campaign against Brexit
+162,162,162,162,162,162,162,1058051,1152615273507295232,836721050008313728,negative,remain,2019-07-20T16:24:30.000Z,The marches the euro-fanatics are holding are getting smaller. Recent survey: Support for #Brexit reaches 57% - up from 51.9% in the referendum. EU remain is dying. This time next week the UK will have its first pro-Brexit Prime Minister (#BorisJohnson). #YesToEurope - NO TO EU. https://t.co/qY8c9zJFeb,"['yestoeurope', 'brexit']"
+163,163,163,163,163,163,163,1065445,1152858259612741632,863377035661647872,negative,other,2019-07-21T08:30:02.000Z,"VIDEO: #NotoBoris, #YesToEurope"" protest marches on Westminster to campaign against Brexit
 #Brexit #MarchForChange https://t.co/zW8Qpx95YN","['yestoeurope', 'brexit', 'marchforchange', 'notoboris']"
-164,164,164,1272826,1155804349093822464,711945679,positive,remain,2019-07-29T11:36:45.000Z,"🇪🇺Boris Johnson PROMISED:🇬🇧
+164,164,164,164,164,164,164,1272826,1155804349093822464,711945679,positive,remain,2019-07-29T11:36:45.000Z,"🇪🇺Boris Johnson PROMISED:🇬🇧
 🤡£350 million a week for the #NHS post #Brexit
 🤡A 'Great Trade Deal'
 🤡To remain faithful to 2 wives
@@ -562,65 +562,65 @@ We sure can do better!
 
 Does ANYBODY seriously think his current *promises* will be honoured?
 #NoDealBrexit #yestoeurope #fbpe https://t.co/Ta5LanNY7b","['yestoeurope', 'brexit', 'nodealbrexit', 'fbpe', 'nhs']"
-165,165,165,1211803,1154783556742369280,705749959631638528,neutral,remain,2019-07-26T16:00:29.000Z,"I would delete #Brexit instantly and without hesitating any micro second. 
+165,165,165,165,165,165,165,1211803,1154783556742369280,705749959631638528,neutral,remain,2019-07-26T16:00:29.000Z,"I would delete #Brexit instantly and without hesitating any micro second. 
 
 #StopBrexit #NoToBoris #NotoBrexit #yestoeurope #FBPE #SODEM https://t.co/UHYoXNRz4b","['yestoeurope', 'brexit', 'notoboris', 'stopbrexit', 'fbpe', 'sodem', 'notobrexit']"
-166,166,166,1390973,1157274480185630720,782666388292775808,positive,remain,2019-08-02T12:58:31.000Z,"I hope #Yorkshire folks especially give @angelasmithmp her due. She doesn't always get a good press but she's put the country first from the outset in this #Brexit mess.
+166,166,166,166,166,166,166,1390973,1157274480185630720,782666388292775808,positive,remain,2019-08-02T12:58:31.000Z,"I hope #Yorkshire folks especially give @angelasmithmp her due. She doesn't always get a good press but she's put the country first from the outset in this #Brexit mess.
 #teamremain
 #NoToBoris #yestoeurope https://t.co/AQMWuqaflO","['yestoeurope', 'brexit', 'yorkshire', 'notoboris', 'teamremain']"
-167,167,167,1842787,1164173458542084096,5858962,positive,other,2019-08-21T13:52:36.000Z,@BorisJohnson @DavidShBrazil We will be committing economic suicide on 31st Oct. Be honest for once in your life - explain what Brexit will really mean &amp; let the people decide. That would be statesmanlike. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/4uyjCN2lRE,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
-168,168,168,1314299,1156310738836840448,5858962,neutral,remain,2019-07-30T21:08:58.000Z,@jeremycorbyn But Labour would face all the same problems in reality. You personally have sat on your hands and clearly want Brexit. Unless Labour joins other Remain parties with enthusiasm you offer nothing. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/hgaOW9k5ZE,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
-169,169,169,1554119,1159961949402259456,5858962,neutral,leave,2019-08-09T22:57:34.000Z,@bbc5live @Ian_Politic @Emmabarnett @zatzi Underwhelmed by another Rees-Mogg. All the Brexit Party MEP’s are simply skivers who are taking our money &amp; doing bugger all. We need to make our voices heard at the centre of Europe. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/pV6FZq5LJ9,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
-170,170,170,1260499,1155606186684833792,5858962,positive,remain,2019-07-28T22:29:19.000Z,@UKLabourRadlett We need to stop Brexit first. Every assessment says that any Brexit will mean nothing on your list will be fundable. We’re stronger together - Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/GBjR7BsHa0,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
-171,171,171,1436048,1158108371482025984,5858962,positive,remain,2019-08-04T20:12:07.000Z,@JamesCleverly My priorities are like millions of others - stopping Brexit. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/jlPeyvCPZl,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
-172,172,172,1745500,1163010078796066816,5858962,neutral,other,2019-08-18T08:49:45.000Z,@SteveBarclay Your legislation can simply be repealed and it will be consigned to the bin of history. But you &amp; other Brexit fanatics will be held to account by the country for your actions. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/mkyk9mm6GS,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
-173,173,173,1548957,1159888133984534528,5858962,neutral,other,2019-08-09T18:04:15.000Z,@JamesCleverly But scientists from the EU are the highest source of scientific expertise to the UK. But thats just a ‘detail’ to a Brexit fanatic. You Tories will not be forgiven for Brexit. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/PfnerEBone,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
-174,174,174,2113864,1167401367092322304,569974829,positive,other,2019-08-30T11:39:09.000Z,Today @SteepleTimes celebrates the arrival of 'The John &amp; Gina Show' and salutes @thatginamiller and Sir John Major - Read all about it at: https://t.co/FS1j3l7hW2 #JohnMajor #GinaMiller #Brexit #ExitBrexit #BollocksToBrexit #NoToBoris #YesToEurope #SODEM  #ExitBrexit https://t.co/03efhaw2tM,"['yestoeurope', 'ginamiller', 'exitbrexit', 'brexit', 'bollockstobrexit', 'notoboris', 'sodem', 'johnmajor']"
-175,175,175,733365,1145991659215347712,1135664884165894144,negative,remain,2019-07-02T09:44:37.000Z,"""Boris Johnson and Jeremy Hunt's spending splurge is running out of control. But any Brexit - and especially no deal Brexit - means much less money in future.""
+167,167,167,167,167,167,167,1842787,1164173458542084096,5858962,positive,other,2019-08-21T13:52:36.000Z,@BorisJohnson @DavidShBrazil We will be committing economic suicide on 31st Oct. Be honest for once in your life - explain what Brexit will really mean &amp; let the people decide. That would be statesmanlike. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/4uyjCN2lRE,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
+168,168,168,168,168,168,168,1314299,1156310738836840448,5858962,neutral,remain,2019-07-30T21:08:58.000Z,@jeremycorbyn But Labour would face all the same problems in reality. You personally have sat on your hands and clearly want Brexit. Unless Labour joins other Remain parties with enthusiasm you offer nothing. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/hgaOW9k5ZE,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
+169,169,169,169,169,169,169,1554119,1159961949402259456,5858962,neutral,leave,2019-08-09T22:57:34.000Z,@bbc5live @Ian_Politic @Emmabarnett @zatzi Underwhelmed by another Rees-Mogg. All the Brexit Party MEP’s are simply skivers who are taking our money &amp; doing bugger all. We need to make our voices heard at the centre of Europe. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/pV6FZq5LJ9,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
+170,170,170,170,170,170,170,1260499,1155606186684833792,5858962,positive,remain,2019-07-28T22:29:19.000Z,@UKLabourRadlett We need to stop Brexit first. Every assessment says that any Brexit will mean nothing on your list will be fundable. We’re stronger together - Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/GBjR7BsHa0,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
+171,171,171,171,171,171,171,1436048,1158108371482025984,5858962,positive,remain,2019-08-04T20:12:07.000Z,@JamesCleverly My priorities are like millions of others - stopping Brexit. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/jlPeyvCPZl,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
+172,172,172,172,172,172,172,1745500,1163010078796066816,5858962,neutral,other,2019-08-18T08:49:45.000Z,@SteveBarclay Your legislation can simply be repealed and it will be consigned to the bin of history. But you &amp; other Brexit fanatics will be held to account by the country for your actions. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/mkyk9mm6GS,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
+173,173,173,173,173,173,173,1548957,1159888133984534528,5858962,neutral,other,2019-08-09T18:04:15.000Z,@JamesCleverly But scientists from the EU are the highest source of scientific expertise to the UK. But thats just a ‘detail’ to a Brexit fanatic. You Tories will not be forgiven for Brexit. Je suis European #BrexitKillstheNHS #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/PfnerEBone,"['yestoeurope', 'brexitkillsthenhs', 'remainalliance', 'bollockstobrexit']"
+174,174,174,174,174,174,174,2113864,1167401367092322304,569974829,positive,other,2019-08-30T11:39:09.000Z,Today @SteepleTimes celebrates the arrival of 'The John &amp; Gina Show' and salutes @thatginamiller and Sir John Major - Read all about it at: https://t.co/FS1j3l7hW2 #JohnMajor #GinaMiller #Brexit #ExitBrexit #BollocksToBrexit #NoToBoris #YesToEurope #SODEM  #ExitBrexit https://t.co/03efhaw2tM,"['yestoeurope', 'ginamiller', 'exitbrexit', 'brexit', 'bollockstobrexit', 'notoboris', 'sodem', 'johnmajor']"
+175,175,175,175,175,175,175,733365,1145991659215347712,1135664884165894144,negative,remain,2019-07-02T09:44:37.000Z,"""Boris Johnson and Jeremy Hunt's spending splurge is running out of control. But any Brexit - and especially no deal Brexit - means much less money in future.""
 
 #YesToEurope #NoToBrexit
 
 #March4Change 
 
 https://t.co/rWXJ6ZYbBl","['yestoeurope', 'march4change', 'notobrexit']"
-176,176,176,1055061,1152556028308967424,253498519,negative,other,2019-07-20T12:29:05.000Z,EU funded #MarchForChange #YesToEurope full of Tory rebels who oppose #Brexit #Prorogation on g... https://t.co/PNcxpFo7iO,"['yestoeurope', 'marchforchange', 'brexit', 'prorogation']"
-177,177,177,1064137,1152837676753723392,51073715,negative,remain,2019-07-21T07:08:15.000Z,"AJEnglish: #NoToBoris, #YesToEurope: #MarchForChange protesters fly Boris Johnson blimp over London as thousands march against Brexit https://t.co/EDr8PwsTSn https://t.co/chlayDoHfi","['yestoeurope', 'marchforchange', 'notoboris']"
-178,178,178,784244,1146735580874792960,1135664884165894144,negative,other,2019-07-04T11:00:42.000Z,"""The foreign secretary’s three Brexit soundbites have now gone from ridiculous to annoying and back to ridiculous, like Alan Partridge shouting ‘Dan!’ in a hotel car park"".
+176,176,176,176,176,176,176,1055061,1152556028308967424,253498519,negative,other,2019-07-20T12:29:05.000Z,EU funded #MarchForChange #YesToEurope full of Tory rebels who oppose #Brexit #Prorogation on g... https://t.co/PNcxpFo7iO,"['yestoeurope', 'marchforchange', 'brexit', 'prorogation']"
+177,177,177,177,177,177,177,1064137,1152837676753723392,51073715,negative,remain,2019-07-21T07:08:15.000Z,"AJEnglish: #NoToBoris, #YesToEurope: #MarchForChange protesters fly Boris Johnson blimp over London as thousands march against Brexit https://t.co/EDr8PwsTSn https://t.co/chlayDoHfi","['yestoeurope', 'marchforchange', 'notoboris']"
+178,178,178,178,178,178,178,784244,1146735580874792960,1135664884165894144,negative,other,2019-07-04T11:00:42.000Z,"""The foreign secretary’s three Brexit soundbites have now gone from ridiculous to annoying and back to ridiculous, like Alan Partridge shouting ‘Dan!’ in a hotel car park"".
 
 It's time to say #NoToBrexit &amp; #YesToEurope.
 
 Join us in London on July 20th!!
 
 https://t.co/FfRzGXhxES","['yestoeurope', 'notobrexit']"
-179,179,179,1679210,1161940364942557184,766323696193667072,negative,other,2019-08-15T09:59:05.000Z,"This is the Union I want to remain a part of,not Johnson's Xenophobic and insular hard and destructive hard Brexit. #yestoeurope #NoToBrexit https://t.co/gavQ64w0EA","['yestoeurope', 'notobrexit']"
-180,180,180,1059626,1152649818973573120,1127284685728624640,negative,other,2019-07-20T18:41:46.000Z,"Say #NotToBoris and #YesToEurope!
+179,179,179,179,179,179,179,1679210,1161940364942557184,766323696193667072,negative,other,2019-08-15T09:59:05.000Z,"This is the Union I want to remain a part of,not Johnson's Xenophobic and insular hard and destructive hard Brexit. #yestoeurope #NoToBrexit https://t.co/gavQ64w0EA","['yestoeurope', 'notobrexit']"
+180,180,180,180,180,180,180,1059626,1152649818973573120,1127284685728624640,negative,other,2019-07-20T18:41:46.000Z,"Say #NotToBoris and #YesToEurope!
 Saying no to tiny minority extremists that want hard Brexit.
 Will of the people is a lie. Only tiny 6m extremists wants hard Brexit!
 88% 45m electorate don't!
 #RevokeArticle50
 https://t.co/XGwUcaYdz1","['yestoeurope', 'nottoboris', 'revokearticle50']"
-181,181,181,1905248,1165256681007308800,5858962,negative,other,2019-08-24T13:36:56.000Z,@BethRigby So he doesn’t want a No Deal Brexit?... so the obvious logic is therefore he must commit to Revoke A50 before 31st Oct. No one voted for No Deal. Je suis European #RejectBrexit #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/t3horXRJGE,"['yestoeurope', 'rejectbrexit', 'remainalliance', 'bollockstobrexit']"
-182,182,182,1990016,1166639755058176000,5858962,negative,remain,2019-08-28T09:12:47.000Z,@drdavidbull It’s Johnson who is acting like a dictator. Wake up - the country does not want Brexit now they see clearly all the lies &amp; the damage it will bring. Je suis European #RejectBrexit #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/HEUK5RDVgb,"['yestoeurope', 'rejectbrexit', 'remainalliance', 'bollockstobrexit']"
-183,183,183,1928519,1165680475337310208,5858962,negative,other,2019-08-25T17:40:57.000Z,@Peston @BorisJohnson @eucopresident Yes reneging on a debt to the EU + a No Deal Brexit will make any possibility of replacing all the trade deals WE ALREADY HAVE even harder to achieve. Give the people the final say! Je suis European #RejectBrexit #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/UyqB7CjME9,"['yestoeurope', 'rejectbrexit', 'remainalliance', 'bollockstobrexit']"
-184,184,184,1864122,1164478100618600448,5858962,positive,leave,2019-08-22T10:03:08.000Z,@IanBlackfordMP @socksknitter Brexit perfectly encapsulates why Scotland needs independence. Je suis European #RejectBrexit #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/WoX1r0ZOGT,"['yestoeurope', 'rejectbrexit', 'remainalliance', 'bollockstobrexit']"
-185,185,185,1481306,1158952944798224384,5858962,positive,other,2019-08-07T04:08:09.000Z,@Conservatives @BorisJohnson Here’s the reality post Brexit seen from a Canadian perspective; Read this article &amp; then you may well think what are we doing? We have a great trade deal with Canada right now - one we helped negotiate too! Je suis European  #BollocksToBrexiit #RemainAlliance #YestoEurope https://t.co/Clznmca6JH,"['yestoeurope', 'remainalliance', 'bollockstobrexiit']"
-186,186,186,1515770,1159447019255189504,5858962,positive,other,2019-08-08T12:51:25.000Z,@lizbilney I was involved in preparing for the Millenium ‘bug’ &amp; believe me the reason it did not impact us was down to billions of pounds worth of preparation across the country over a 5 yr period. Any Brexit will hit hard. Je suis European #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/RyeoLnn3wu,"['yestoeurope', 'remainalliance', 'bollockstobrexit']"
-187,187,187,2145858,1167833245393850368,5858962,negative,remain,2019-08-31T16:15:17.000Z,@SteveBarclay The British people cannot unite behind the Brexit lie &amp; a coup. Today all over the country we are opposing your closing of parliament &amp; no deal Brexit. Je suis European #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/8F7Fuv9cbv,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"
-188,188,188,1071056,1152928637383061504,871676753919578112,positive,remain,2019-07-21T13:09:42.000Z,"This is an excellent cause to support, not because Brexit would devastate our farming industry but also because farming was, and still is, one of the main targets of VoteLeave’s campaign of lies and disinformation. #tariffs #YestoEurope #BollocksToBrexit https://t.co/F5769MCRcY","['yestoeurope', 'tariffs', 'bollockstobrexit']"
-189,189,189,1054027,1152537578836561920,69921786,negative,leave,2019-07-20T11:15:46.000Z,"The stupidity of these protesters has no limit #YesToBoris #NoToEU #YesToEurope 
+181,181,181,181,181,181,181,1905248,1165256681007308800,5858962,negative,other,2019-08-24T13:36:56.000Z,@BethRigby So he doesn’t want a No Deal Brexit?... so the obvious logic is therefore he must commit to Revoke A50 before 31st Oct. No one voted for No Deal. Je suis European #RejectBrexit #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/t3horXRJGE,"['yestoeurope', 'rejectbrexit', 'remainalliance', 'bollockstobrexit']"
+182,182,182,182,182,182,182,1990016,1166639755058176000,5858962,negative,remain,2019-08-28T09:12:47.000Z,@drdavidbull It’s Johnson who is acting like a dictator. Wake up - the country does not want Brexit now they see clearly all the lies &amp; the damage it will bring. Je suis European #RejectBrexit #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/HEUK5RDVgb,"['yestoeurope', 'rejectbrexit', 'remainalliance', 'bollockstobrexit']"
+183,183,183,183,183,183,183,1928519,1165680475337310208,5858962,negative,other,2019-08-25T17:40:57.000Z,@Peston @BorisJohnson @eucopresident Yes reneging on a debt to the EU + a No Deal Brexit will make any possibility of replacing all the trade deals WE ALREADY HAVE even harder to achieve. Give the people the final say! Je suis European #RejectBrexit #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/UyqB7CjME9,"['yestoeurope', 'rejectbrexit', 'remainalliance', 'bollockstobrexit']"
+184,184,184,184,184,184,184,1864122,1164478100618600448,5858962,positive,leave,2019-08-22T10:03:08.000Z,@IanBlackfordMP @socksknitter Brexit perfectly encapsulates why Scotland needs independence. Je suis European #RejectBrexit #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/WoX1r0ZOGT,"['yestoeurope', 'rejectbrexit', 'remainalliance', 'bollockstobrexit']"
+185,185,185,185,185,185,185,1481306,1158952944798224384,5858962,positive,other,2019-08-07T04:08:09.000Z,@Conservatives @BorisJohnson Here’s the reality post Brexit seen from a Canadian perspective; Read this article &amp; then you may well think what are we doing? We have a great trade deal with Canada right now - one we helped negotiate too! Je suis European  #BollocksToBrexiit #RemainAlliance #YestoEurope https://t.co/Clznmca6JH,"['yestoeurope', 'remainalliance', 'bollockstobrexiit']"
+186,186,186,186,186,186,186,1515770,1159447019255189504,5858962,positive,other,2019-08-08T12:51:25.000Z,@lizbilney I was involved in preparing for the Millenium ‘bug’ &amp; believe me the reason it did not impact us was down to billions of pounds worth of preparation across the country over a 5 yr period. Any Brexit will hit hard. Je suis European #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/RyeoLnn3wu,"['yestoeurope', 'remainalliance', 'bollockstobrexit']"
+187,187,187,187,187,187,187,2145858,1167833245393850368,5858962,negative,remain,2019-08-31T16:15:17.000Z,@SteveBarclay The British people cannot unite behind the Brexit lie &amp; a coup. Today all over the country we are opposing your closing of parliament &amp; no deal Brexit. Je suis European #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/8F7Fuv9cbv,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"
+188,188,188,188,188,188,188,1071056,1152928637383061504,871676753919578112,positive,remain,2019-07-21T13:09:42.000Z,"This is an excellent cause to support, not because Brexit would devastate our farming industry but also because farming was, and still is, one of the main targets of VoteLeave’s campaign of lies and disinformation. #tariffs #YestoEurope #BollocksToBrexit https://t.co/F5769MCRcY","['yestoeurope', 'tariffs', 'bollockstobrexit']"
+189,189,189,189,189,189,189,1054027,1152537578836561920,69921786,negative,leave,2019-07-20T11:15:46.000Z,"The stupidity of these protesters has no limit #YesToBoris #NoToEU #YesToEurope 
 Brexit is about yes to Europe. It’s only No to EU https://t.co/6bR9A2vo4m","['yestoeurope', 'yestoboris', 'notoeu']"
-190,190,190,683316,1177748575448702976,5858962,negative,other,2019-09-28T00:55:16.000Z,@MPIainDS The Benn Act in fact protects this country from the insanity that you would inflict on your own people in a no deal Brexit. Je suis European #BrexitShambles #BollocksToBrexit #LiarJohnson #YestoEurope https://t.co/o9Ti1VUc9N,"['liarjohnson', 'yestoeurope', 'bollockstobrexit', 'brexitshambles']"
-191,191,191,489492,1175606248777162752,5858962,negative,remain,2019-09-22T03:02:26.000Z,"@Barker4Grimsby You do realise;
+190,190,190,190,190,190,190,683316,1177748575448702976,5858962,negative,other,2019-09-28T00:55:16.000Z,@MPIainDS The Benn Act in fact protects this country from the insanity that you would inflict on your own people in a no deal Brexit. Je suis European #BrexitShambles #BollocksToBrexit #LiarJohnson #YestoEurope https://t.co/o9Ti1VUc9N,"['liarjohnson', 'yestoeurope', 'bollockstobrexit', 'brexitshambles']"
+191,191,191,191,191,191,191,489492,1175606248777162752,5858962,negative,remain,2019-09-22T03:02:26.000Z,"@Barker4Grimsby You do realise;
 80% of British fish
 From British waters 
 Landed on British Shores -
 
 are exported to the EU? If we Brexit you will destroy British jobs. Je suis European #StopTheCoup #BollocksToBrexit #LiarJohnson #YestoEurope https://t.co/kByQs7xHXz","['stopthecoup', 'yestoeurope', 'bollockstobrexit', 'liarjohnson']"
-192,192,192,434505,1174568825062379520,5858962,neutral,other,2019-09-19T06:20:04.000Z,@BorisJohnson A cheap political stunt. How about engaging with people who think Brexit is madness? How about engaging with the EU instead of lying about the negotiations? Je suis European #StopTheCoup #BollocksToBrexit #LiarJohnson #YestoEurope https://t.co/QD3acR3n1h,"['stopthecoup', 'yestoeurope', 'bollockstobrexit', 'liarjohnson']"
-193,193,193,380399,1173684101779533824,5858962,neutral,other,2019-09-16T19:44:30.000Z,@DaveBel99787193 @Xavier_Bettel @ArmyLuxembourg @gouv_lu @CourGrandDucale @ChambreLux You can’t even get a simple historical fact right. Oh well I tell you what let’s have a German + Brexit. Je suis European #StopTheCoup #BollocksToBrexit #LiarJohnson #YestoEurope https://t.co/Jze5CtL3iB,"['stopthecoup', 'yestoeurope', 'bollockstobrexit', 'liarjohnson']"
-194,194,194,677445,1177652299524689920,5858962,neutral,other,2019-09-27T18:32:42.000Z,"@Conservatives @BorisJohnson I’m normally a Labour voter - but I will be voting LibDem at the next election as they represent my beliefs about Brexit, Europe and my families future. Je suis European #BollocksToBrexit #LiarJohnson #YestoEurope https://t.co/8V8Hk6hBHM","['yestoeurope', 'bollockstobrexit', 'liarjohnson']"
-195,195,195,196757,1171357131607617536,5858962,negative,remain,2019-09-10T09:37:57.000Z,"@drdavidbull @MetroUK But of course there is ‘no clean break’ Brexit - in all circumstances the same issue remain; years of negotiations, market alignment, the backstop. These will have to be negotiated - remain ends the pain immediately. Je suis European #StopTheCoup #RemainAlliance #YestoEurope https://t.co/9hYzDHWJ2j","['yestoeurope', 'stopthecoup', 'remainalliance']"
-196,196,196,215497,1171580391762878464,5858962,positive,other,2019-09-11T00:25:06.000Z,@Conservatives @BorisJohnson Yes he does and that’s why we’re going to vote LibDem @ Remain! Can you pass the message on that the only way to get Brexit out of our lives it to vote LibDem &amp; make sure  everyone knows! Je suis European #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/oFZnZvBzPe,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"
-197,197,197,143195,1170699773126565888,5858962,positive,leave,2019-09-08T14:05:51.000Z,@KateHoeyMP Wow you are truly bonkers. The establishment are behind Brexit &amp; will be the only winners if they succeed. Je suis European #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/oI7XVsHKfT,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"
-198,198,198,158874,1170998085201354752,5858962,negative,remain,2019-09-09T09:51:14.000Z,@susannareid100 The Tories negotiated a deal. Parliament rejected the deal. That’s what MP’s are there fore. Any Brexit deal will harm people across the country - our current deal will not harm them. Je suis European #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/IYqwMG7hn2,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"
-199,199,199,158406,1170995210207318016,5858962,negative,remain,2019-09-09T09:39:48.000Z,@StevieBrexit Ironically the only way to ‘get on with it’ &amp; get an immediate end to Brexit is to Remain. All other options will mean a decade of negotiations &amp; real economic harm. The Brexiteer elite will not feel it - but we will.  #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/84zljPZKA0,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"
+192,192,192,192,192,192,192,434505,1174568825062379520,5858962,neutral,other,2019-09-19T06:20:04.000Z,@BorisJohnson A cheap political stunt. How about engaging with people who think Brexit is madness? How about engaging with the EU instead of lying about the negotiations? Je suis European #StopTheCoup #BollocksToBrexit #LiarJohnson #YestoEurope https://t.co/QD3acR3n1h,"['stopthecoup', 'yestoeurope', 'bollockstobrexit', 'liarjohnson']"
+193,193,193,193,193,193,193,380399,1173684101779533824,5858962,neutral,other,2019-09-16T19:44:30.000Z,@DaveBel99787193 @Xavier_Bettel @ArmyLuxembourg @gouv_lu @CourGrandDucale @ChambreLux You can’t even get a simple historical fact right. Oh well I tell you what let’s have a German + Brexit. Je suis European #StopTheCoup #BollocksToBrexit #LiarJohnson #YestoEurope https://t.co/Jze5CtL3iB,"['stopthecoup', 'yestoeurope', 'bollockstobrexit', 'liarjohnson']"
+194,194,194,194,194,194,194,677445,1177652299524689920,5858962,neutral,other,2019-09-27T18:32:42.000Z,"@Conservatives @BorisJohnson I’m normally a Labour voter - but I will be voting LibDem at the next election as they represent my beliefs about Brexit, Europe and my families future. Je suis European #BollocksToBrexit #LiarJohnson #YestoEurope https://t.co/8V8Hk6hBHM","['yestoeurope', 'bollockstobrexit', 'liarjohnson']"
+195,195,195,195,195,195,195,196757,1171357131607617536,5858962,negative,remain,2019-09-10T09:37:57.000Z,"@drdavidbull @MetroUK But of course there is ‘no clean break’ Brexit - in all circumstances the same issue remain; years of negotiations, market alignment, the backstop. These will have to be negotiated - remain ends the pain immediately. Je suis European #StopTheCoup #RemainAlliance #YestoEurope https://t.co/9hYzDHWJ2j","['yestoeurope', 'stopthecoup', 'remainalliance']"
+196,196,196,196,196,196,196,215497,1171580391762878464,5858962,positive,other,2019-09-11T00:25:06.000Z,@Conservatives @BorisJohnson Yes he does and that’s why we’re going to vote LibDem @ Remain! Can you pass the message on that the only way to get Brexit out of our lives it to vote LibDem &amp; make sure  everyone knows! Je suis European #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/oFZnZvBzPe,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"
+197,197,197,197,197,197,197,143195,1170699773126565888,5858962,positive,leave,2019-09-08T14:05:51.000Z,@KateHoeyMP Wow you are truly bonkers. The establishment are behind Brexit &amp; will be the only winners if they succeed. Je suis European #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/oI7XVsHKfT,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"
+198,198,198,198,198,198,198,158874,1170998085201354752,5858962,negative,remain,2019-09-09T09:51:14.000Z,@susannareid100 The Tories negotiated a deal. Parliament rejected the deal. That’s what MP’s are there fore. Any Brexit deal will harm people across the country - our current deal will not harm them. Je suis European #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/IYqwMG7hn2,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"
+199,199,199,199,199,199,199,158406,1170995210207318016,5858962,negative,remain,2019-09-09T09:39:48.000Z,@StevieBrexit Ironically the only way to ‘get on with it’ &amp; get an immediate end to Brexit is to Remain. All other options will mean a decade of negotiations &amp; real economic harm. The Brexiteer elite will not feel it - but we will.  #StopTheCoup #BollocksToBrexit #RemainAlliance #YestoEurope https://t.co/84zljPZKA0,"['yestoeurope', 'stopthecoup', 'remainalliance', 'bollockstobrexit']"

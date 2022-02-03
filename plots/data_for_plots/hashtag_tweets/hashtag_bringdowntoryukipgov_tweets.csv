@@ -1,5 +1,5 @@
-,Unnamed: 0,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,778648,1005486362940887040,1424741568,negative,other,2018-06-09T16:26:44.000Z,"Mr Corbyn
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,0,0,778648,1005486362940887040,1424741568,negative,other,2018-06-09T16:26:44.000Z,"Mr Corbyn
 Sir
 We ALL know #MayGov is dysfunctional and untrustworthy
 
@@ -12,7 +12,7 @@ someone to lead us from the tragedy that is #Brexit
 @OwenJones84 
 @DavidLammy 
 @Andrew_Adonis https://t.co/rWtJwTsWgu","['brexit', 'maygov', 'bringdowntoryukipgov']"
-1,778647,1005486362940887040,1424741568,negative,other,2018-06-09T16:26:44.000Z,"Mr Corbyn
+1,1,1,1,1,778647,1005486362940887040,1424741568,negative,other,2018-06-09T16:26:44.000Z,"Mr Corbyn
 Sir
 We ALL know #MayGov is dysfunctional and untrustworthy
 

@@ -1,8 +1,8 @@
-,Unnamed: 0,Unnamed: 0.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,661070,731056699830878208,121192398,positive,remain,2016-05-13T09:41:14.000Z,"At least #Bremain sounds nicer than #Brexit. Maybe #Brexit campaigners should have chosen #Bleave - sounds pleasant, if vaguely ineffectual.","['brexit', 'bremain', 'bleave', 'brexit']"
-1,1,1061396,742261193755131904,236124838,neutral,other,2016-06-13T07:43:53.000Z,"https://t.co/HyMyS2Li8L
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,0,0,0,661070,731056699830878208,121192398,positive,remain,2016-05-13T09:41:14.000Z,"At least #Bremain sounds nicer than #Brexit. Maybe #Brexit campaigners should have chosen #Bleave - sounds pleasant, if vaguely ineffectual.","['brexit', 'bremain', 'bleave', 'brexit']"
+1,1,1,1,1,1,1061396,742261193755131904,236124838,neutral,other,2016-06-13T07:43:53.000Z,"https://t.co/HyMyS2Li8L
 #BLEAVE UK referendum on EU (June 23) and some view and thoughts! #UKreferendum #EUreferendum #Brexit #London","['eureferendum', 'brexit', 'london', 'ukreferendum', 'bleave']"
-2,2,1744925,757210038318538752,223985496,positive,remain,2016-07-24T13:45:16.000Z,The term #Brexit isn't very positive - how about #B-leave ? @RedHotSquirrel @TelePolitics @timesredbox,"['bleave', 'brexit']"
-3,3,1405034,858967173515153408,2230242703,neutral,leave,2017-05-01T08:51:47.000Z,"We must #Bleave in #Brexit
+2,2,2,2,2,2,1744925,757210038318538752,223985496,positive,remain,2016-07-24T13:45:16.000Z,The term #Brexit isn't very positive - how about #B-leave ? @RedHotSquirrel @TelePolitics @timesredbox,"['bleave', 'brexit']"
+3,3,3,3,3,3,1405034,858967173515153408,2230242703,neutral,leave,2017-05-01T08:51:47.000Z,"We must #Bleave in #Brexit
 (i actually think leaving the EU is crap)","['bleave', 'brexit']"
-4,4,1696456,869521412142268416,307358161,negative,remain,2017-05-30T11:50:34.000Z,@mikeparry8 @Number10gov let's be positive about this. Not sure what idiot created #brexit but it is negative. #BLeave is positive believeme,"['brexit', 'bleave']"
+4,4,4,4,4,4,1696456,869521412142268416,307358161,negative,remain,2017-05-30T11:50:34.000Z,@mikeparry8 @Number10gov let's be positive about this. Not sure what idiot created #brexit but it is negative. #BLeave is positive believeme,"['brexit', 'bleave']"

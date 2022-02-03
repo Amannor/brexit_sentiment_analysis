@@ -1,11 +1,11 @@
-,Unnamed: 0,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,1779269,746228478664572928,2747481995,positive,other,2016-06-24T06:28:28.000Z,So much for plan b should Trump win. England shows they hate immigrants as much as USA. #brexit #FUkip #trump #wherethefuckdoigonow #mars?,"['fukip', 'trump', 'wherethefuckdoigonow', 'brexit', 'mars?']"
-1,1098468,749941216876322816,143312079,neutral,other,2016-07-04T12:21:33.000Z,"#UK politics is turning into a #telenovela right in front of our very eyes…
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,0,0,1779269,746228478664572928,2747481995,positive,other,2016-06-24T06:28:28.000Z,So much for plan b should Trump win. England shows they hate immigrants as much as USA. #brexit #FUkip #trump #wherethefuckdoigonow #mars?,"['fukip', 'trump', 'wherethefuckdoigonow', 'brexit', 'mars?']"
+1,1,1,1,1,1098468,749941216876322816,143312079,neutral,other,2016-07-04T12:21:33.000Z,"#UK politics is turning into a #telenovela right in front of our very eyes…
 https://t.co/NXbtPAmMIW
 cc:/ @p_a_p_i_ 
 #brexit #farage #fukip","['fukip', 'farage', 'brexit', 'telenovela', 'uk']"
-2,598034,794210006551920640,14698357,positive,other,2016-11-03T16:09:55.000Z,Can't tweet for laughing.  #Brexit #Fukip,"['brexit', 'fukip']"
-3,860653,844158546031919104,59516476,negative,remain,2017-03-21T12:07:35.000Z,"British racism and intolerance, best in the world, as demonstrated by the fucking home office. #fukip #brexit  https://t.co/W96wPy4uiG","['fukip', 'brexit']"
-4,114531,821338185984802816,20545933,neutral,remain,2017-01-17T12:47:37.000Z,counter argument: isn't no deal a bad deal? (also anyone in Europe want to adopt me plz?) #brexit #tradedeal #fukip https://t.co/27gdEVgE8U,"['fukip', 'brexit', 'tradedeal']"
-5,3071850,1030706703866712064,3004537139,positive,remain,2018-08-18T06:43:22.000Z,@RobNols @Mike_Fabricant @DeborahMeaden He knows public opinion has turned AGAINST Brexit. He knows momentum is moving towards a #peoplesvote he knows there are influential politicians calling for the #final say he knows the game is up. #Fukip,"['fukip', 'final', 'peoplesvote']"
-6,3071849,1030706703866712064,3004537139,positive,remain,2018-08-18T06:43:22.000Z,@RobNols @Mike_Fabricant @DeborahMeaden He knows public opinion has turned AGAINST Brexit. He knows momentum is moving towards a #peoplesvote he knows there are influential politicians calling for the #final say he knows the game is up. #Fukip,"['fukip', 'final', 'peoplesvote']"
+2,2,2,2,2,598034,794210006551920640,14698357,positive,other,2016-11-03T16:09:55.000Z,Can't tweet for laughing.  #Brexit #Fukip,"['brexit', 'fukip']"
+3,3,3,3,3,860653,844158546031919104,59516476,negative,remain,2017-03-21T12:07:35.000Z,"British racism and intolerance, best in the world, as demonstrated by the fucking home office. #fukip #brexit  https://t.co/W96wPy4uiG","['fukip', 'brexit']"
+4,4,4,4,4,114531,821338185984802816,20545933,neutral,remain,2017-01-17T12:47:37.000Z,counter argument: isn't no deal a bad deal? (also anyone in Europe want to adopt me plz?) #brexit #tradedeal #fukip https://t.co/27gdEVgE8U,"['fukip', 'brexit', 'tradedeal']"
+5,5,5,5,5,3071850,1030706703866712064,3004537139,positive,remain,2018-08-18T06:43:22.000Z,@RobNols @Mike_Fabricant @DeborahMeaden He knows public opinion has turned AGAINST Brexit. He knows momentum is moving towards a #peoplesvote he knows there are influential politicians calling for the #final say he knows the game is up. #Fukip,"['fukip', 'final', 'peoplesvote']"
+6,6,6,6,6,3071849,1030706703866712064,3004537139,positive,remain,2018-08-18T06:43:22.000Z,@RobNols @Mike_Fabricant @DeborahMeaden He knows public opinion has turned AGAINST Brexit. He knows momentum is moving towards a #peoplesvote he knows there are influential politicians calling for the #final say he knows the game is up. #Fukip,"['fukip', 'final', 'peoplesvote']"

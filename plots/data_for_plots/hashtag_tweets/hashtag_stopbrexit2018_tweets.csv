@@ -1,20 +1,20 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,1793400,938798949498019840,4009450228,negative,leave,2017-12-07T15:54:46.000Z,My New Years resolution will be to use every fibre of my being to stop the national humiliation that is Brexit #stopbrexit2018,['stopbrexit2018']
-1,1,1,98443,947609885406928896,419927046,negative,remain,2017-12-31T23:26:17.000Z,"@johnmcdonnellMP First step is to stop Brexit then address the issues that lead to Brexit - which were caused by UK government failures NOT the EU. 
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,0,0,0,1793400,938798949498019840,4009450228,negative,leave,2017-12-07T15:54:46.000Z,My New Years resolution will be to use every fibre of my being to stop the national humiliation that is Brexit #stopbrexit2018,['stopbrexit2018']
+1,1,1,1,1,1,98443,947609885406928896,419927046,negative,remain,2017-12-31T23:26:17.000Z,"@johnmcdonnellMP First step is to stop Brexit then address the issues that lead to Brexit - which were caused by UK government failures NOT the EU. 
 
 #StopBrexit 
 #StopBrexit2018 
 #NewYear2018 
 #2018goals https://t.co/a2HdAw7UOI","['2018goals', 'stopbrexit', 'newyear2018', 'stopbrexit2018']"
-2,2,2,1007339,988724648144769024,139193241,positive,other,2018-04-24T10:21:40.000Z,Great new In Limbo video #3million #stopbrexit2018 Rage Against The Brexit Machine https://t.co/koXwwg000T,"['3million', 'stopbrexit2018']"
-3,3,3,766523,976460807600033792,744480047789146112,negative,remain,2018-03-21T14:09:32.000Z,"Looking to find just a smidgeon of good news from this slow moving train wreck that is Brexit, at least now the majority of the population have seen through that bloviating buffoon Boris Johnson. Small consolation but I’ll take what I can get.... #StopBrexit2018 #A50Challenge https://t.co/tFpNPLGQRp","['a50challenge', 'stopbrexit2018']"
-4,4,4,99499,947852054994804736,319619581,neutral,remain,2018-01-01T15:28:34.000Z,"See also: #A50challenge #a50invalidity @A50Challenge #Brexit #StopBrexit #exitfrombrexit #ExitBrexit #StopBrexit2018 #StopBrexitNow #StopBrexitSaveBritain
+2,2,2,2,2,2,1007339,988724648144769024,139193241,positive,other,2018-04-24T10:21:40.000Z,Great new In Limbo video #3million #stopbrexit2018 Rage Against The Brexit Machine https://t.co/koXwwg000T,"['3million', 'stopbrexit2018']"
+3,3,3,3,3,3,766523,976460807600033792,744480047789146112,negative,remain,2018-03-21T14:09:32.000Z,"Looking to find just a smidgeon of good news from this slow moving train wreck that is Brexit, at least now the majority of the population have seen through that bloviating buffoon Boris Johnson. Small consolation but I’ll take what I can get.... #StopBrexit2018 #A50Challenge https://t.co/tFpNPLGQRp","['a50challenge', 'stopbrexit2018']"
+4,4,4,4,4,4,99499,947852054994804736,319619581,neutral,remain,2018-01-01T15:28:34.000Z,"See also: #A50challenge #a50invalidity @A50Challenge #Brexit #StopBrexit #exitfrombrexit #ExitBrexit #StopBrexit2018 #StopBrexitNow #StopBrexitSaveBritain
 
 https://t.co/zmdRIH95Vq","['a50challenge', 'stopbrexitnow', 'stopbrexitsavebritain', 'exitbrexit', 'brexit', 'stopbrexit', 'a50invalidity', 'exitfrombrexit', 'stopbrexit2018']"
-5,5,5,153827,950794240015192064,730514125156171648,negative,remain,2018-01-09T18:19:46.000Z,"#Brexit bill may have broken international #environment law, says UN.
+5,5,5,5,5,5,153827,950794240015192064,730514125156171648,negative,remain,2018-01-09T18:19:46.000Z,"#Brexit bill may have broken international #environment law, says UN.
 #StopBrexit2018 #StopBrexit #AarhusConvention  https://t.co/yoWOtkKdPY","['aarhusconvention', 'brexit', 'environment', 'stopbrexit', 'stopbrexit2018']"
-6,6,6,910316,983357495157690368,2683210415,neutral,remain,2018-04-09T14:54:31.000Z,More bureaucracy *shocked face* Hang on a minute....wasn’t a cornerstone of #Brexit that there would be less not more red tape? #ABTV #waton #FBPE #FinalSayForAll #StopBrexit2018 https://t.co/kgdDnzqpKq,"['abtv', 'brexit', 'finalsayforall', 'fbpe', 'waton', 'stopbrexit2018']"
-7,7,7,653950,971431329022791680,17571514,positive,remain,2018-03-07T17:04:11.000Z,"Euroclear, a company set up in 1968 with 29 trillion in customers assets is leaving London and moving to Brussels.
+6,6,6,6,6,6,910316,983357495157690368,2683210415,neutral,remain,2018-04-09T14:54:31.000Z,More bureaucracy *shocked face* Hang on a minute....wasn’t a cornerstone of #Brexit that there would be less not more red tape? #ABTV #waton #FBPE #FinalSayForAll #StopBrexit2018 https://t.co/kgdDnzqpKq,"['abtv', 'brexit', 'finalsayforall', 'fbpe', 'waton', 'stopbrexit2018']"
+7,7,7,7,7,7,653950,971431329022791680,17571514,positive,remain,2018-03-07T17:04:11.000Z,"Euroclear, a company set up in 1968 with 29 trillion in customers assets is leaving London and moving to Brussels.
 
 The GDP of the UK is 1.88 trillion
 
@@ -26,153 +26,153 @@ For f*****  sake stop brexit !!!
 #remain
 #FBPE
 https://t.co/zInmLvvmZj https://t.co/SiY9CrXSdV","['abtv', 'remain', 'stopbrexit', 'fbpe', 'stopbrexit2018']"
-8,8,8,244541,954869904968122368,35413612,neutral,remain,2018-01-21T00:15:00.000Z,#StopBrexit2018 #Stay #FBPE: @EnfieldforEU https://t.co/1hLfHUXqbe https://t.co/sabhGVodHl EXC: Brexit legal challenge could give MPs vote on leaving single market #StopBrexit #FBPE #ABTV https://t.co/1hLfHUXqbe,"['abtv', 'stopbrexit', 'fbpe', 'fbpe', 'stay', 'stopbrexit2018']"
-9,9,9,866235,980373950256570368,713439738993238016,positive,remain,2018-04-01T09:18:58.000Z,There seems to be some confusion about what #ABTV means. It means voting for the anti-Brexit PARTY &amp; NOT anti-Brexit candidates of @Conservatives or @UKLabour candidates. Vote for @LibDems or @TheGreenParty to send &amp; MSG &amp;help #StopBrexit2018 https://t.co/ZC0FDydfy1,"['abtv', 'stopbrexit2018']"
-10,10,10,771064,976705415537885184,100518337,positive,other,2018-03-22T06:21:32.000Z,"@jeremycorbyn Not a chance while you enable Tory Brexit. Vote for a non-Brexit party: Green, LibDem, RenewBritain, SNP, Plaid. 
+8,8,8,8,8,8,244541,954869904968122368,35413612,neutral,remain,2018-01-21T00:15:00.000Z,#StopBrexit2018 #Stay #FBPE: @EnfieldforEU https://t.co/1hLfHUXqbe https://t.co/sabhGVodHl EXC: Brexit legal challenge could give MPs vote on leaving single market #StopBrexit #FBPE #ABTV https://t.co/1hLfHUXqbe,"['abtv', 'stopbrexit', 'fbpe', 'fbpe', 'stay', 'stopbrexit2018']"
+9,9,9,9,9,9,866235,980373950256570368,713439738993238016,positive,remain,2018-04-01T09:18:58.000Z,There seems to be some confusion about what #ABTV means. It means voting for the anti-Brexit PARTY &amp; NOT anti-Brexit candidates of @Conservatives or @UKLabour candidates. Vote for @LibDems or @TheGreenParty to send &amp; MSG &amp;help #StopBrexit2018 https://t.co/ZC0FDydfy1,"['abtv', 'stopbrexit2018']"
+10,10,10,10,10,10,771064,976705415537885184,100518337,positive,other,2018-03-22T06:21:32.000Z,"@jeremycorbyn Not a chance while you enable Tory Brexit. Vote for a non-Brexit party: Green, LibDem, RenewBritain, SNP, Plaid. 
 #ABTV
 #StopBrexit2018","['abtv', 'stopbrexit2018']"
-11,11,11,891704,982171243414605824,826362869130330112,positive,remain,2018-04-06T08:20:46.000Z,@CarolineLucas well done you guys! Hope to see more ABTV voting to send a message to the two main parties - we don’t want Brexit! Any form of Brexit! Give us a public vote on the final deal. #ABTV #VoteEU #VoteRemain #FBPE #StopBrexit2018 https://t.co/VtpXPK74ht,"['abtv', 'voteeu', 'voteremain', 'fbpe', 'stopbrexit2018']"
-12,12,12,912540,983470873360420864,2683210415,neutral,remain,2018-04-09T22:25:02.000Z,@PeterStefanovi2 Govt are just too busy fiddling #Brexit to be properly briefed on facts! #stopbrexit2018 #FixDomestic #ABTV18 #FBPE #FinalSayForAll,"['abtv18', 'fixdomestic', 'brexit', 'finalsayforall', 'fbpe', 'stopbrexit2018']"
-13,13,13,158293,951038967323025408,19078105,positive,other,2018-01-10T10:32:13.000Z,"@UK_Music @communitiesuk @DCMS @spellar If you want local music venues to thrive beyond March 2019 (and maintain easy access for UK musicians to the EEA) then you'd better support #StopBrexit2018, because there'll be a hell of a lot less money in people's pockets if Brexit goes ahead! #AgentofChange #SaveLiveMusic","['agentofchange', 'stopbrexit2018', 'savelivemusic']"
-14,14,14,162284,951148132842209280,749673114229940224,neutral,remain,2018-01-10T17:46:01.000Z,"If the Brexit vote happened today, UK agriculture would vote ‘remain’ https://t.co/DMJugpa8lF #agriland
+11,11,11,11,11,11,891704,982171243414605824,826362869130330112,positive,remain,2018-04-06T08:20:46.000Z,@CarolineLucas well done you guys! Hope to see more ABTV voting to send a message to the two main parties - we don’t want Brexit! Any form of Brexit! Give us a public vote on the final deal. #ABTV #VoteEU #VoteRemain #FBPE #StopBrexit2018 https://t.co/VtpXPK74ht,"['abtv', 'voteeu', 'voteremain', 'fbpe', 'stopbrexit2018']"
+12,12,12,12,12,12,912540,983470873360420864,2683210415,neutral,remain,2018-04-09T22:25:02.000Z,@PeterStefanovi2 Govt are just too busy fiddling #Brexit to be properly briefed on facts! #stopbrexit2018 #FixDomestic #ABTV18 #FBPE #FinalSayForAll,"['abtv18', 'fixdomestic', 'brexit', 'finalsayforall', 'fbpe', 'stopbrexit2018']"
+13,13,13,13,13,13,158293,951038967323025408,19078105,positive,other,2018-01-10T10:32:13.000Z,"@UK_Music @communitiesuk @DCMS @spellar If you want local music venues to thrive beyond March 2019 (and maintain easy access for UK musicians to the EEA) then you'd better support #StopBrexit2018, because there'll be a hell of a lot less money in people's pockets if Brexit goes ahead! #AgentofChange #SaveLiveMusic","['agentofchange', 'stopbrexit2018', 'savelivemusic']"
+14,14,14,14,14,14,162284,951148132842209280,749673114229940224,neutral,remain,2018-01-10T17:46:01.000Z,"If the Brexit vote happened today, UK agriculture would vote ‘remain’ https://t.co/DMJugpa8lF #agriland
 #StopBrexit2018 #FBPE","['agriland', 'fbpe', 'stopbrexit2018']"
-15,15,15,782323,977102477710495744,20348161,negative,remain,2018-03-23T08:39:19.000Z,"Watching the Brexit process is like watching a car crash in slow motion. We know exactly what's going to happen, we can see the damage that will occur. I can all be stopped with the push of a button. #Article50 #StopBrexit2018","['article50', 'stopbrexit2018']"
-16,16,16,612530,969726036496830464,407320355,neutral,remain,2018-03-03T00:07:58.000Z,"@GeorginaSparrow @copeart002 @MichelBarnier @theresa_may As is the UK: ""a political construct"".
+15,15,15,15,15,15,782323,977102477710495744,20348161,negative,remain,2018-03-23T08:39:19.000Z,"Watching the Brexit process is like watching a car crash in slow motion. We know exactly what's going to happen, we can see the damage that will occur. I can all be stopped with the push of a button. #Article50 #StopBrexit2018","['article50', 'stopbrexit2018']"
+16,16,16,16,16,16,612530,969726036496830464,407320355,neutral,remain,2018-03-03T00:07:58.000Z,"@GeorginaSparrow @copeart002 @MichelBarnier @theresa_may As is the UK: ""a political construct"".
 
 #balkanisedbritain #brexit #StopBrexit #FBPE #StopBrexit2018 #BrexitShambles","['balkanisedbritain', 'brexitshambles', 'stopbrexit', 'fbpe', 'brexit', 'stopbrexit2018']"
-17,17,17,111778,948638018977587200,47598058,neutral,remain,2018-01-03T19:31:43.000Z,"I see turning worms in the USA see #Bannon 
+17,17,17,17,17,17,111778,948638018977587200,47598058,neutral,remain,2018-01-03T19:31:43.000Z,"I see turning worms in the USA see #Bannon 
 But when will the brexit worms start to turn?
 And who first?
 #StopBrexit2018 #FBPE","['bannon', 'fbpe', 'stopbrexit2018']"
-18,18,18,804750,977879873724342272,820708631532466048,negative,other,2018-03-25T12:08:24.000Z,"Not odd - indicative of #BBCBrexitBias . All MSM seem to be colluding to hide the extent of anti-Brexit feeling. Question is whether it is genuine collusion, led by  government, or apathy and lazy journalism, just reporting what Gov't tells them to? #StopBrexit2018 https://t.co/YJsDGKHSh8","['bbcbrexitbias', 'stopbrexit2018']"
-19,19,19,920830,983940514608308224,56066187,negative,other,2018-04-11T05:31:14.000Z,@Cornish_Damo @BBCNews @bbcnickrobinson @AndrewMarr9 @MarrShow Corrupt as Tory Government. Nothing but a mouthpiece for the Brexit state. #BBCBrexitBias #ToriesOut #StopBrexit2018,"['bbcbrexitbias', 'toriesout', 'stopbrexit2018']"
-20,20,20,501550,965573482078752768,1141956350,neutral,other,2018-02-19T13:07:12.000Z,"@Rehman_Chishti repeating the #Brexit lie that 'the British people' voted to come out of the #EU. 36% voted to come out, sunshine, which means that 64% did not. That is 64% of 'the British people' did not vote to Leave. 
+18,18,18,18,18,18,804750,977879873724342272,820708631532466048,negative,other,2018-03-25T12:08:24.000Z,"Not odd - indicative of #BBCBrexitBias . All MSM seem to be colluding to hide the extent of anti-Brexit feeling. Question is whether it is genuine collusion, led by  government, or apathy and lazy journalism, just reporting what Gov't tells them to? #StopBrexit2018 https://t.co/YJsDGKHSh8","['bbcbrexitbias', 'stopbrexit2018']"
+19,19,19,19,19,19,920830,983940514608308224,56066187,negative,other,2018-04-11T05:31:14.000Z,@Cornish_Damo @BBCNews @bbcnickrobinson @AndrewMarr9 @MarrShow Corrupt as Tory Government. Nothing but a mouthpiece for the Brexit state. #BBCBrexitBias #ToriesOut #StopBrexit2018,"['bbcbrexitbias', 'toriesout', 'stopbrexit2018']"
+20,20,20,20,20,20,501550,965573482078752768,1141956350,neutral,other,2018-02-19T13:07:12.000Z,"@Rehman_Chishti repeating the #Brexit lie that 'the British people' voted to come out of the #EU. 36% voted to come out, sunshine, which means that 64% did not. That is 64% of 'the British people' did not vote to Leave. 
 
 Stop lying.  
 
 #StopBrexit #StopBrexit2018 #Tories #bbcdp","['bbcdp', 'brexit', 'stopbrexit', 'eu', 'tories', 'stopbrexit2018']"
-21,21,21,314220,958329632117358592,819114829562728320,positive,other,2018-01-30T13:22:43.000Z,"@SteveBakerHW keeps on saying projections show growth will continue. If he can take that conclusion, then the relative hit resulting from #Brexit should similarly be accepted. #StopBrexit2018 #BBCNews @faisalislam @bbclaurak","['bbcnews', 'brexit', 'stopbrexit2018']"
-22,22,22,246318,955008942769393664,946809275174805632,negative,remain,2018-01-21T09:27:29.000Z,https://t.co/x50OFoZVIR - Stewart Lee on UKIP #stewartlee #NigelFarage #UKIP #racism #BrexitShambles #Brexiteers #Brexit #StopBrexit2018 #FBPE #EURef #bbctw #TheresaMay #StopBrexit #ToryLies #ToriesOut #bbcdp #Labour #comedy #standupcomedy #StandUp,"['bbctw', 'standup', 'racism', 'stopbrexit2018', 'brexitshambles', 'bbcdp', 'labour', 'theresamay', 'toriesout', 'ukip', 'brexit', 'torylies', 'stopbrexit', 'fbpe', 'brexiteers', 'comedy', 'standupcomedy', 'stewartlee', 'euref', 'nigelfarage']"
-23,23,23,111898,948644616269713408,69558002,negative,remain,2018-01-03T19:57:56.000Z,"@Redcountessa @lancewalton @oneoflokis Parties can be voted out at next election but Brexit is for keeps, or at least a very long time. Tax avoidance law, workers/consumers/human rights protection lost through Brexit. Dark ages revival! #StopBrexit2018 #BrexitShambles #ThinkAgain #FinalSayForAll #FBPE #BecauseOfTories","['becauseoftories', 'thinkagain', 'finalsayforall', 'fbpe', 'stopbrexit2018', 'brexitshambles']"
-24,24,24,94896,947493516275527680,774995564912054272,negative,other,2017-12-31T15:43:52.000Z,"#BecauseOfTories 
+21,21,21,21,21,21,314220,958329632117358592,819114829562728320,positive,other,2018-01-30T13:22:43.000Z,"@SteveBakerHW keeps on saying projections show growth will continue. If he can take that conclusion, then the relative hit resulting from #Brexit should similarly be accepted. #StopBrexit2018 #BBCNews @faisalislam @bbclaurak","['bbcnews', 'brexit', 'stopbrexit2018']"
+22,22,22,22,22,22,246318,955008942769393664,946809275174805632,negative,remain,2018-01-21T09:27:29.000Z,https://t.co/x50OFoZVIR - Stewart Lee on UKIP #stewartlee #NigelFarage #UKIP #racism #BrexitShambles #Brexiteers #Brexit #StopBrexit2018 #FBPE #EURef #bbctw #TheresaMay #StopBrexit #ToryLies #ToriesOut #bbcdp #Labour #comedy #standupcomedy #StandUp,"['bbctw', 'standup', 'racism', 'stopbrexit2018', 'brexitshambles', 'bbcdp', 'labour', 'theresamay', 'toriesout', 'ukip', 'brexit', 'torylies', 'stopbrexit', 'fbpe', 'brexiteers', 'comedy', 'standupcomedy', 'stewartlee', 'euref', 'nigelfarage']"
+23,23,23,23,23,23,111898,948644616269713408,69558002,negative,remain,2018-01-03T19:57:56.000Z,"@Redcountessa @lancewalton @oneoflokis Parties can be voted out at next election but Brexit is for keeps, or at least a very long time. Tax avoidance law, workers/consumers/human rights protection lost through Brexit. Dark ages revival! #StopBrexit2018 #BrexitShambles #ThinkAgain #FinalSayForAll #FBPE #BecauseOfTories","['becauseoftories', 'thinkagain', 'finalsayforall', 'fbpe', 'stopbrexit2018', 'brexitshambles']"
+24,24,24,24,24,24,94896,947493516275527680,774995564912054272,negative,other,2017-12-31T15:43:52.000Z,"#BecauseOfTories 
  Government figures for how much WORSE OFF families will be each year due to Brexit. 
  £2,600 in the case of EEA membership
  £4,300 in the case of UK-EU agreement
  £5,200 in the case of No Deal
 #FBPE #ToriesOut2018 #StopBrexit2018 @spaceangel1964","['becauseoftories', 'toriesout2018', 'fbpe', 'stopbrexit2018']"
-25,25,25,456393,963657407426695168,18969049,neutral,remain,2018-02-14T06:13:24.000Z,"I ""know"" this from somewhere - but why does it also remind me of ""Brexit""? #BestForBritain #StopBrexit2018 https://t.co/76ln9Sb2W8","['bestforbritain', 'stopbrexit2018']"
-26,26,26,158063,951018063176065024,940671495784878080,neutral,other,2018-01-10T09:09:09.000Z,"#NHS or #Brexit = no brainer. We *need* the NHS. We don't need Brexit. We need decent social care, housing, transport and education. We demand #BetterThanBrexit
+25,25,25,25,25,25,456393,963657407426695168,18969049,neutral,remain,2018-02-14T06:13:24.000Z,"I ""know"" this from somewhere - but why does it also remind me of ""Brexit""? #BestForBritain #StopBrexit2018 https://t.co/76ln9Sb2W8","['bestforbritain', 'stopbrexit2018']"
+26,26,26,26,26,26,158063,951018063176065024,940671495784878080,neutral,other,2018-01-10T09:09:09.000Z,"#NHS or #Brexit = no brainer. We *need* the NHS. We don't need Brexit. We need decent social care, housing, transport and education. We demand #BetterThanBrexit
 #StopBrexit2018
 @MaryCreaghMP @jeremycorbyn @ChukaUmunna @ @RemainingKind @LoubinWally @spaceangel1964 @MHookins https://t.co/jtsgoFUXlF","['betterthanbrexit', 'nhs', 'brexit', 'stopbrexit2018']"
-27,27,27,207113,953173239731277824,35472161,negative,remain,2018-01-16T07:53:04.000Z,"#BorisJohnson cleverly undermines #Brexit with utterly  absurd claims. 
+27,27,27,27,27,27,207113,953173239731277824,35472161,negative,remain,2018-01-16T07:53:04.000Z,"#BorisJohnson cleverly undermines #Brexit with utterly  absurd claims. 
 
 Leaving the SM and CU will lead to less,  not more money for public services. 
 
 #StopBrexit2018
 
 https://t.co/QSQzStp8Mg","['borisjohnson', 'brexit', 'stopbrexit2018']"
-28,28,28,103701,948189717476139008,2650194375,positive,remain,2018-01-02T13:50:19.000Z,"#StopBrexit #FBPE  #StopBrexit2018 #BREAKING
+28,28,28,28,28,28,103701,948189717476139008,2650194375,positive,remain,2018-01-02T13:50:19.000Z,"#StopBrexit #FBPE  #StopBrexit2018 #BREAKING
 When you start see adverts like this then, come on .....come on....#Brexit dead...finished...wake up the mail sun express your all finished https://t.co/lMw7XcGWOk","['breaking', 'stopbrexit', 'fbpe', 'stopbrexit2018']"
-29,29,29,121268,949181462431109120,940671495784878080,positive,remain,2018-01-05T07:31:10.000Z,"The past, as they say, is another country. He's right about #Brexit. Worth heeding to #StopBrexit2018
+29,29,29,29,29,29,121268,949181462431109120,940671495784878080,positive,remain,2018-01-05T07:31:10.000Z,"The past, as they say, is another country. He's right about #Brexit. Worth heeding to #StopBrexit2018
 #Bresistance https://t.co/6WTN4zKAuG","['bresistance', 'brexit', 'stopbrexit2018']"
-30,30,30,136004,949999166989750272,940671495784878080,positive,leave,2018-01-07T13:40:26.000Z,"Indeed a pox on Brexit.
+30,30,30,30,30,30,136004,949999166989750272,940671495784878080,positive,leave,2018-01-07T13:40:26.000Z,"Indeed a pox on Brexit.
 ""How great it would be if Britain were in the thick of this fight – but we too are in the grip of an anti-Enlightenment populist right.""
 #Bresistance #StopBrexit2018
 @RemainingKind @MHookins @Emma_Forage @acgrayling @LoubinWally https://t.co/fbB1AluEpF","['bresistance', 'stopbrexit2018']"
-31,31,31,194702,952537460290007040,940671495784878080,negative,remain,2018-01-14T13:46:42.000Z,"Ignorance is no excuse.  Stay informed about the consequences of #Brexit
+31,31,31,31,31,31,194702,952537460290007040,940671495784878080,negative,remain,2018-01-14T13:46:42.000Z,"Ignorance is no excuse.  Stay informed about the consequences of #Brexit
 PRT
 
 #WeAreTheOppositionNow  #FBPE
 #StopBrexit2018  #Bresistance 
 
 @spaceangel1964 @LoubinWally @RemainingKind @Emma_Forage @MHookins https://t.co/EwFSE7HrWS","['brexit', 'bresistance', 'wearetheoppositionnow', 'fbpe', 'stopbrexit2018']"
-32,32,32,920521,983875257307197440,392926705,positive,other,2018-04-11T01:11:55.000Z,"#BrexitEffect means on 3 May anyone opposed to #Brexit should not vote @Conservatives or @UKLabour 
+32,32,32,32,32,32,920521,983875257307197440,392926705,positive,other,2018-04-11T01:11:55.000Z,"#BrexitEffect means on 3 May anyone opposed to #Brexit should not vote @Conservatives or @UKLabour 
 
 “Labour says MP backs its Brexit policy despite 'bollocks' comments”
 #StopBrexit2018 
 https://t.co/wBht20qt5J","['brexit', 'brexiteffect', 'stopbrexit2018']"
-33,33,33,263344,955850747752730624,41918041,negative,remain,2018-01-23T17:12:31.000Z,Tell the Lords to stop the power grab - ask them to amend the #EUWithdrawalBill and stop backdoor law changes. Sign @unlockdemocracy open letter #Brexit #Brexiteers #BrexitReality #STOPBREXIT #StopBrexit2018 https://t.co/IIizq1LWiA,"['brexit', 'brexitreality', 'euwithdrawalbill', 'stopbrexit', 'brexiteers', 'stopbrexit2018']"
-34,34,34,166733,951360033819852800,434346330,negative,remain,2018-01-11T07:48:02.000Z,"Brexit could see UK economy lose £54bn by 2030, Sadiq Khan's impact papers warn #BrexitReality #brexitshambles #Brexit #BrexitFacts #StopBrexit #ExitFromBrexit #StopBrexit2018  https://t.co/6D5HL1SC49","['brexit', 'brexitreality', 'stopbrexit', 'exitfrombrexit', 'brexitfacts', 'brexitshambles', 'stopbrexit2018']"
-35,35,35,228112,953963529727545344,801006365665873920,neutral,remain,2018-01-18T12:13:23.000Z,@Conservatives TOO RIGHT 36% of the electorate - DO THE MATHS THERESA - have given the Tories an overwhelming mandate to trash our country and its people while they shovel up the proceeds #StopBrexit #Brexit #BrexitShambles #BrexitReality #StopBrexit2018 @CCHQpress @Labour4EU,"['brexit', 'brexitshambles', 'brexitreality', 'stopbrexit', 'stopbrexit2018']"
-36,36,36,132518,949768906696249344,871099118613143552,negative,remain,2018-01-06T22:25:27.000Z,@Botanygeek Yep. Tide is turning as the #BrexitShambles is exposed. People are realising this is not what we were sold. Farage and pals have a lot to answer for. #FBPE #Brexit #StopBrexit #StopBrexit2018,"['brexit', 'brexitshambles', 'stopbrexit', 'fbpe', 'stopbrexit2018']"
-37,37,37,217948,953568679312216064,1205670361,positive,remain,2018-01-17T10:04:24.000Z,"@BrexitBin It’s quite simple, Tories, Labour and UKIP support #BrexitShambles so, if you’re against it, vote for someone else ie #LibDems Greens, Plaid Cymru or SNP.
+33,33,33,33,33,33,263344,955850747752730624,41918041,negative,remain,2018-01-23T17:12:31.000Z,Tell the Lords to stop the power grab - ask them to amend the #EUWithdrawalBill and stop backdoor law changes. Sign @unlockdemocracy open letter #Brexit #Brexiteers #BrexitReality #STOPBREXIT #StopBrexit2018 https://t.co/IIizq1LWiA,"['brexit', 'brexitreality', 'euwithdrawalbill', 'stopbrexit', 'brexiteers', 'stopbrexit2018']"
+34,34,34,34,34,34,166733,951360033819852800,434346330,negative,remain,2018-01-11T07:48:02.000Z,"Brexit could see UK economy lose £54bn by 2030, Sadiq Khan's impact papers warn #BrexitReality #brexitshambles #Brexit #BrexitFacts #StopBrexit #ExitFromBrexit #StopBrexit2018  https://t.co/6D5HL1SC49","['brexit', 'brexitreality', 'stopbrexit', 'exitfrombrexit', 'brexitfacts', 'brexitshambles', 'stopbrexit2018']"
+35,35,35,35,35,35,228112,953963529727545344,801006365665873920,neutral,remain,2018-01-18T12:13:23.000Z,@Conservatives TOO RIGHT 36% of the electorate - DO THE MATHS THERESA - have given the Tories an overwhelming mandate to trash our country and its people while they shovel up the proceeds #StopBrexit #Brexit #BrexitShambles #BrexitReality #StopBrexit2018 @CCHQpress @Labour4EU,"['brexit', 'brexitshambles', 'brexitreality', 'stopbrexit', 'stopbrexit2018']"
+36,36,36,36,36,36,132518,949768906696249344,871099118613143552,negative,remain,2018-01-06T22:25:27.000Z,@Botanygeek Yep. Tide is turning as the #BrexitShambles is exposed. People are realising this is not what we were sold. Farage and pals have a lot to answer for. #FBPE #Brexit #StopBrexit #StopBrexit2018,"['brexit', 'brexitshambles', 'stopbrexit', 'fbpe', 'stopbrexit2018']"
+37,37,37,37,37,37,217948,953568679312216064,1205670361,positive,remain,2018-01-17T10:04:24.000Z,"@BrexitBin It’s quite simple, Tories, Labour and UKIP support #BrexitShambles so, if you’re against it, vote for someone else ie #LibDems Greens, Plaid Cymru or SNP.
 #Brexit #StopBrexit #StopBrexit2018","['brexit', 'brexitshambles', 'stopbrexit', 'libdems', 'stopbrexit2018']"
-38,38,38,217014,953546556749344768,1679297402,positive,remain,2018-01-17T08:36:29.000Z,UK outside the EU - more democratic? Only if you support Leave #StopBrexit2018 #BrexitShambles #Brexit https://t.co/qesfCGqeyG,"['brexit', 'brexitshambles', 'stopbrexit2018']"
-39,39,39,114614,948880291439038464,162427574,negative,other,2018-01-04T11:34:25.000Z,"Former #UK🇬🇧 PM Tony Blair warns British voters:
+38,38,38,38,38,38,217014,953546556749344768,1679297402,positive,remain,2018-01-17T08:36:29.000Z,UK outside the EU - more democratic? Only if you support Leave #StopBrexit2018 #BrexitShambles #Brexit https://t.co/qesfCGqeyG,"['brexit', 'brexitshambles', 'stopbrexit2018']"
+39,39,39,39,39,39,114614,948880291439038464,162427574,negative,other,2018-01-04T11:34:25.000Z,"Former #UK🇬🇧 PM Tony Blair warns British voters:
 
 ""Time is running out to stop #Brexit folly.""
 
 #ExitFromBrexit #BrexitShambles #StopBrexit2018 
 
 https://t.co/byHkyr4CrU","['brexit', 'brexitshambles', 'uk🇬🇧', 'exitfrombrexit', 'stopbrexit2018']"
-40,40,40,157668,951008798105272320,35472161,negative,remain,2018-01-10T08:32:21.000Z,"A quick  reminder to #Brextemists who believe #Brexit means closing our borders.   It doesn't.   We already control  our borders.   If we do it badly then blame successive  governments  not the EU. 
+40,40,40,40,40,40,157668,951008798105272320,35472161,negative,remain,2018-01-10T08:32:21.000Z,"A quick  reminder to #Brextemists who believe #Brexit means closing our borders.   It doesn't.   We already control  our borders.   If we do it badly then blame successive  governments  not the EU. 
 
 #StopBrexit2018","['brexit', 'brextemists', 'stopbrexit2018']"
-41,41,41,257751,955574699685240832,4895565605,neutral,leave,2018-01-22T22:55:36.000Z,Finally! At least some #Business leaders have the guts to talk about the real implications rather than be cowed by the #Brexit bullies who tell them to keep quiet. #StopBrexit2018 https://t.co/0Vc3gkqH1w,"['brexit', 'business', 'stopbrexit2018']"
-42,42,42,148002,950615961106821120,792782917638455296,negative,remain,2018-01-09T06:31:21.000Z,"Uncertainty? Not so. We're absolutely certain that #Brexit is bad news for the UK, for business, and for millions of innocent citizens #CitizensRights #StopBrexit2018
+41,41,41,41,41,41,257751,955574699685240832,4895565605,neutral,leave,2018-01-22T22:55:36.000Z,Finally! At least some #Business leaders have the guts to talk about the real implications rather than be cowed by the #Brexit bullies who tell them to keep quiet. #StopBrexit2018 https://t.co/0Vc3gkqH1w,"['brexit', 'business', 'stopbrexit2018']"
+42,42,42,42,42,42,148002,950615961106821120,792782917638455296,negative,remain,2018-01-09T06:31:21.000Z,"Uncertainty? Not so. We're absolutely certain that #Brexit is bad news for the UK, for business, and for millions of innocent citizens #CitizensRights #StopBrexit2018
 
 https://t.co/rlvAtekoD2","['brexit', 'citizensrights', 'stopbrexit2018']"
-43,43,43,620966,970048391265873920,3004212106,positive,remain,2018-03-03T21:28:53.000Z,"Fine work by Katy. The #Brexit Irish border issue becomes even clearer in this thread - as does the obvious solution, which is to retain our membership of the #SingleMarket and the #CustomsUnion (or, preferably, of the #EuropeanUnion itself).
+43,43,43,43,43,43,620966,970048391265873920,3004212106,positive,remain,2018-03-03T21:28:53.000Z,"Fine work by Katy. The #Brexit Irish border issue becomes even clearer in this thread - as does the obvious solution, which is to retain our membership of the #SingleMarket and the #CustomsUnion (or, preferably, of the #EuropeanUnion itself).
 #ExitFromBrexit #StopBrexit2018 https://t.co/ZMAX8lmJwr","['brexit', 'customsunion', 'europeanunion', 'singlemarket', 'exitfrombrexit', 'stopbrexit2018']"
-44,44,44,856198,979694246197366784,445578830,negative,other,2018-03-30T12:18:04.000Z,"@jeremycorbyn Do you realise that the #EU will introduce measures to stop this, but this won’t apply to #UK after #brexit. It’s time to #StopBrexit2018","['brexit', 'eu', 'uk', 'stopbrexit2018']"
-45,45,45,189376,952254624630702080,78835016,positive,remain,2018-01-13T19:02:49.000Z,"Please help me send millions of messages to our #EUFriends!
+44,44,44,44,44,44,856198,979694246197366784,445578830,negative,other,2018-03-30T12:18:04.000Z,"@jeremycorbyn Do you realise that the #EU will introduce measures to stop this, but this won’t apply to #UK after #brexit. It’s time to #StopBrexit2018","['brexit', 'eu', 'uk', 'stopbrexit2018']"
+45,45,45,45,45,45,189376,952254624630702080,78835016,positive,remain,2018-01-13T19:02:49.000Z,"Please help me send millions of messages to our #EUFriends!
 Re-Tweet this and tag in your friends, EU press, EU politicians - we need them to help challenge the perception that we all want #Brexit, when more of us want #StopBrexit2018 #FBPE @albawhitewolf @W_A_T_O_N @emmyzen https://t.co/ubAVwJQIPF","['brexit', 'eufriends', 'fbpe', 'stopbrexit2018']"
-46,46,46,99102,947778765878366208,17731966,positive,remain,2018-01-01T10:37:21.000Z,"Theresa May is going to shift the deckchairs around on the Titanic. Yes, dear, that will really make #Brexit a success. I’m beginning to think her heart isn’t in it. 
+46,46,46,46,46,46,99102,947778765878366208,17731966,positive,remain,2018-01-01T10:37:21.000Z,"Theresa May is going to shift the deckchairs around on the Titanic. Yes, dear, that will really make #Brexit a success. I’m beginning to think her heart isn’t in it. 
 #ExitFromBrexit 
 #StopBrexit2018 
 #FBPE https://t.co/uW2V9uIEjt","['brexit', 'exitfrombrexit', 'fbpe', 'stopbrexit2018']"
-47,47,47,352448,959732564968787968,351589772,negative,other,2018-02-03T10:17:29.000Z,"Yes, we need to fight this together and stop this #Brexit madness #ExitFromBrexit #StopBrexit2018 #FBPE https://t.co/I8V8P5FXhB","['brexit', 'exitfrombrexit', 'fbpe', 'stopbrexit2018']"
-48,48,48,590301,969199677794025472,109644823,positive,remain,2018-03-01T13:16:24.000Z,"Two ex-prime ministers from different political backgrounds agree #Brexit is harmful &amp; support the idea of #ExitFromBrexit , They agree on other things about Brexit too. Today, @PimlicoPlumbers are donating to @LibDems due to their Brexit stance. We can #StopBrexit2018","['brexit', 'exitfrombrexit', 'stopbrexit2018']"
-49,49,49,136623,950009423782666240,601089226,neutral,other,2018-01-07T14:21:11.000Z,#FakeNews. 20% fall in £ because of #Brexit means we are all that much worse off in world terms. Economy is growing thank heavens but less fast than our peer countries. #StopBrexit2018 https://t.co/RGlTGL7wzo,"['brexit', 'fakenews', 'stopbrexit2018']"
-50,50,50,109281,948502500549767168,747380400226508800,negative,remain,2018-01-03T10:33:13.000Z,"The bigger the berk, the worse #Brexit negotiations will go, the more ""Leavers"" will realise the folly of #Brexit. (I hope)
+47,47,47,47,47,47,352448,959732564968787968,351589772,negative,other,2018-02-03T10:17:29.000Z,"Yes, we need to fight this together and stop this #Brexit madness #ExitFromBrexit #StopBrexit2018 #FBPE https://t.co/I8V8P5FXhB","['brexit', 'exitfrombrexit', 'fbpe', 'stopbrexit2018']"
+48,48,48,48,48,48,590301,969199677794025472,109644823,positive,remain,2018-03-01T13:16:24.000Z,"Two ex-prime ministers from different political backgrounds agree #Brexit is harmful &amp; support the idea of #ExitFromBrexit , They agree on other things about Brexit too. Today, @PimlicoPlumbers are donating to @LibDems due to their Brexit stance. We can #StopBrexit2018","['brexit', 'exitfrombrexit', 'stopbrexit2018']"
+49,49,49,49,49,49,136623,950009423782666240,601089226,neutral,other,2018-01-07T14:21:11.000Z,#FakeNews. 20% fall in £ because of #Brexit means we are all that much worse off in world terms. Economy is growing thank heavens but less fast than our peer countries. #StopBrexit2018 https://t.co/RGlTGL7wzo,"['brexit', 'fakenews', 'stopbrexit2018']"
+50,50,50,50,50,50,109281,948502500549767168,747380400226508800,negative,remain,2018-01-03T10:33:13.000Z,"The bigger the berk, the worse #Brexit negotiations will go, the more ""Leavers"" will realise the folly of #Brexit. (I hope)
 #FBPE
 #StopBrexit2018 https://t.co/LUDL0WaE7t","['brexit', 'fbpe', 'brexit', 'stopbrexit2018']"
-51,51,51,129551,949606794560753664,2429189266,positive,other,2018-01-06T11:41:17.000Z,"Interesting that Two Brains #gove wants farmers to grow wild flowers rather than edible crops post #Brexit- he really doesn’t have a clue does he
+51,51,51,51,51,51,129551,949606794560753664,2429189266,positive,other,2018-01-06T11:41:17.000Z,"Interesting that Two Brains #gove wants farmers to grow wild flowers rather than edible crops post #Brexit- he really doesn’t have a clue does he
 
 #ToriesOut #StopBrexit2018 #FBPE","['brexit', 'fbpe', 'gove', 'toriesout', 'stopbrexit2018']"
-52,52,52,169881,951411897945001984,223770776,neutral,other,2018-01-11T11:14:07.000Z,"Farage calls for second referendum! Presumably finding he's effectively unemployable other than as a low-grade shock jock, he now wants to keep his €100,000 + exes for not doing any work in the EU parliament.
+52,52,52,52,52,52,169881,951411897945001984,223770776,neutral,other,2018-01-11T11:14:07.000Z,"Farage calls for second referendum! Presumably finding he's effectively unemployable other than as a low-grade shock jock, he now wants to keep his €100,000 + exes for not doing any work in the EU parliament.
 
 @mrjamesob #FBPE #StopBrexit2018 #Brexit #Farage #LeaveEU https://t.co/7weGylrDyK","['brexit', 'fbpe', 'leaveeu', 'farage', 'stopbrexit2018']"
-53,53,53,263889,955871255290351616,35413612,positive,other,2018-01-23T18:34:01.000Z,#StopBrexit2018 #Stay #FBPE: @thatginamiller https://t.co/mgOUJ5TzW0 https://t.co/LfNO37oUpH The financial sector should be pushing the Govt to share both sector impact reports &amp; their post #Brexit plans; as well as the need for a common sense people’s… https://t.co/mgOUJ5TzW0,"['brexit', 'fbpe', 'stay', 'stopbrexit2018']"
-54,54,54,117786,948969580671787008,746371177174679552,neutral,other,2018-01-04T17:29:13.000Z,"I see @OwenJones84 has blocked me. He shares with B. Johnson a complete disregard for maintaining a consistent political outlook, instead he blows with the political wind, taking whatever stance he thinks more appropriate to furthering his ambitions.
+53,53,53,53,53,53,263889,955871255290351616,35413612,positive,other,2018-01-23T18:34:01.000Z,#StopBrexit2018 #Stay #FBPE: @thatginamiller https://t.co/mgOUJ5TzW0 https://t.co/LfNO37oUpH The financial sector should be pushing the Govt to share both sector impact reports &amp; their post #Brexit plans; as well as the need for a common sense people’s… https://t.co/mgOUJ5TzW0,"['brexit', 'fbpe', 'stay', 'stopbrexit2018']"
+54,54,54,54,54,54,117786,948969580671787008,746371177174679552,neutral,other,2018-01-04T17:29:13.000Z,"I see @OwenJones84 has blocked me. He shares with B. Johnson a complete disregard for maintaining a consistent political outlook, instead he blows with the political wind, taking whatever stance he thinks more appropriate to furthering his ambitions.
 #StopBrexit2018 #FBPE #Brexit","['brexit', 'fbpe', 'stopbrexit2018']"
-55,55,55,160740,951085849369825280,152805197,positive,remain,2018-01-10T13:38:31.000Z,"@fascinatorfun @class_bore @abdekker @ThatTimWalker @LibDems Quite. Labour 'front bench' are all over the place at the moment. A load of sound bites but no coherent policy or vision on #Brexit,  or anything else for that matter. My MP @CatherineWest1 is a refeshing exception, but look where that got her ... 😡
+55,55,55,55,55,55,160740,951085849369825280,152805197,positive,remain,2018-01-10T13:38:31.000Z,"@fascinatorfun @class_bore @abdekker @ThatTimWalker @LibDems Quite. Labour 'front bench' are all over the place at the moment. A load of sound bites but no coherent policy or vision on #Brexit,  or anything else for that matter. My MP @CatherineWest1 is a refeshing exception, but look where that got her ... 😡
 #FBPE #StopBrexit2018","['brexit', 'fbpe', 'stopbrexit2018']"
-56,56,56,274386,956588502644396032,567543500,positive,remain,2018-01-25T18:04:06.000Z,@NuffSaidThis @spaceangel1964 Contradiction in terms in that statement Nuff Said This! Brexit  shuts us off instead of widening our opportunities. So if we do indeed #Brexit there will be less opportunities for those of the following generations Small world after Brexit. Nuff said! #StopBrexit2018 #FBPE,"['brexit', 'fbpe', 'stopbrexit2018']"
-57,57,57,109816,948523890485223424,928297382332260480,negative,other,2018-01-03T11:58:12.000Z,"Dear @theresa_may, 
+56,56,56,56,56,56,274386,956588502644396032,567543500,positive,remain,2018-01-25T18:04:06.000Z,@NuffSaidThis @spaceangel1964 Contradiction in terms in that statement Nuff Said This! Brexit  shuts us off instead of widening our opportunities. So if we do indeed #Brexit there will be less opportunities for those of the following generations Small world after Brexit. Nuff said! #StopBrexit2018 #FBPE,"['brexit', 'fbpe', 'stopbrexit2018']"
+57,57,57,57,57,57,109816,948523890485223424,928297382332260480,negative,other,2018-01-03T11:58:12.000Z,"Dear @theresa_may, 
 please read this thread. 
 No point in just blaming Twitter/FB for hate speech, when many political leaders stoke divisions and normalise scapegoating of migrants. 
 Leaders lead by example. What will history say about yours?
 
 #StopBrexit2018 #FBPE #Brexit https://t.co/TGBkhriRMc","['brexit', 'fbpe', 'stopbrexit2018']"
-58,58,58,231110,954077316522573824,716282621517500416,neutral,remain,2018-01-18T19:45:32.000Z,‘Av a butchers ... #FBPE  #StopBrexit2018 #Brexit https://t.co/2ldgUXVzIe,"['brexit', 'fbpe', 'stopbrexit2018']"
-59,59,59,125567,949331308664287232,151131231,neutral,other,2018-01-05T17:26:36.000Z,We had a general election in 2015 and again in 2017. Why do we need to wait any more than two years to vote on the outcome of the #Brexit negotiations? Let's #StopBrexit2018 #FBPE https://t.co/j1WwgYlwtM,"['brexit', 'fbpe', 'stopbrexit2018']"
-60,60,60,113600,948848682144878592,3233925233,negative,remain,2018-01-04T09:28:49.000Z,"@mpollaud @Alexa_Kantor @OwenJones84 @andraswf @amencarini @cliodiaspora @infomagpie @The3Million Owen Jones 's sole purpose is to shut down the idea that #Brexit can be halted, for fear that doing so will damage Corbyn's prospects.  And he doesn't give a toss about who gets hurt in the process. Self-serving and utterly shameful. 
+58,58,58,58,58,58,231110,954077316522573824,716282621517500416,neutral,remain,2018-01-18T19:45:32.000Z,‘Av a butchers ... #FBPE  #StopBrexit2018 #Brexit https://t.co/2ldgUXVzIe,"['brexit', 'fbpe', 'stopbrexit2018']"
+59,59,59,59,59,59,125567,949331308664287232,151131231,neutral,other,2018-01-05T17:26:36.000Z,We had a general election in 2015 and again in 2017. Why do we need to wait any more than two years to vote on the outcome of the #Brexit negotiations? Let's #StopBrexit2018 #FBPE https://t.co/j1WwgYlwtM,"['brexit', 'fbpe', 'stopbrexit2018']"
+60,60,60,60,60,60,113600,948848682144878592,3233925233,negative,remain,2018-01-04T09:28:49.000Z,"@mpollaud @Alexa_Kantor @OwenJones84 @andraswf @amencarini @cliodiaspora @infomagpie @The3Million Owen Jones 's sole purpose is to shut down the idea that #Brexit can be halted, for fear that doing so will damage Corbyn's prospects.  And he doesn't give a toss about who gets hurt in the process. Self-serving and utterly shameful. 
 #StopBrexit2018
 #FBPE","['brexit', 'fbpe', 'stopbrexit2018']"
-61,61,61,238276,954425170114109440,137483767,negative,remain,2018-01-19T18:47:47.000Z,"And a lot of politicians ( not u @Anna_Soubry spout a lot of politically biased twaddle too. Especially concerning #Brexit will of the people having *clearly"" spoken after a referendum of lies. #StopBrexit2018 #FBPE https://t.co/V5UQZbbKyV","['brexit', 'fbpe', 'stopbrexit2018']"
-62,62,62,223236,953729730322358272,714490928367583232,negative,remain,2018-01-17T20:44:21.000Z,"@Conservatives There is no smooth #brexit. Only smooth liars. 
+61,61,61,61,61,61,238276,954425170114109440,137483767,negative,remain,2018-01-19T18:47:47.000Z,"And a lot of politicians ( not u @Anna_Soubry spout a lot of politically biased twaddle too. Especially concerning #Brexit will of the people having *clearly"" spoken after a referendum of lies. #StopBrexit2018 #FBPE https://t.co/V5UQZbbKyV","['brexit', 'fbpe', 'stopbrexit2018']"
+62,62,62,62,62,62,223236,953729730322358272,714490928367583232,negative,remain,2018-01-17T20:44:21.000Z,"@Conservatives There is no smooth #brexit. Only smooth liars. 
 #StopBrexit2018 
 #FBPE 
 #","['brexit', 'fbpe', 'stopbrexit2018']"
-63,63,63,591475,969208276515770368,3542951596,negative,other,2018-03-01T13:50:34.000Z,"oops 
+63,63,63,63,63,63,591475,969208276515770368,3542951596,negative,other,2018-03-01T13:50:34.000Z,"oops 
 
 Theresa May admitted there could be no open border in Ireland if Britain outside the EU, newly emerged video shows - The Independenthttps://apple.news/AeNVEOiDpQqW2172LNTrGJw
 
 #StopBrexit2018 #Brexit #FBPE","['brexit', 'fbpe', 'stopbrexit2018']"
-64,64,64,102862,948143017369759744,747380400226508800,positive,remain,2018-01-02T10:44:45.000Z,"#Brexit is the biggest disaster since Suez.
+64,64,64,64,64,64,102862,948143017369759744,747380400226508800,positive,remain,2018-01-02T10:44:45.000Z,"#Brexit is the biggest disaster since Suez.
 It'll be the ""Nile"" in the coffin of the Tories - and @jeremycorbyn's @UKLabour , if HE continues his merry way.
 Political dislocation has never been this bad.
 #FBPE
 #StopBrexit2018 https://t.co/gPqcL3Q9jG","['brexit', 'fbpe', 'stopbrexit2018']"
-65,65,65,174104,951509459246964736,152805197,positive,other,2018-01-11T17:41:47.000Z,"@LBC Think stopping #Brexit would be a better first step ...
+65,65,65,65,65,65,174104,951509459246964736,152805197,positive,other,2018-01-11T17:41:47.000Z,"@LBC Think stopping #Brexit would be a better first step ...
 #FBPE #StopBrexit2018","['brexit', 'fbpe', 'stopbrexit2018']"
-66,66,66,99643,947884562285252608,1087247508,positive,remain,2018-01-01T17:37:45.000Z,All the leave voters now trying to hijack #FBPE is hilarious. They somehow think putting it on their handle will bring it down. All it is doing is improving the FBPE figures. The fact that they're scared enough to try and hijack it says a lot though. #Brexit #StopBrexit2018,"['brexit', 'fbpe', 'stopbrexit2018']"
-67,67,67,113234,948817234033545216,3233925233,negative,remain,2018-01-04T07:23:51.000Z,"👇👌👏👏👏 Both #Brexit parties need to get the shock of their lives on 3 May.
+66,66,66,66,66,66,99643,947884562285252608,1087247508,positive,remain,2018-01-01T17:37:45.000Z,All the leave voters now trying to hijack #FBPE is hilarious. They somehow think putting it on their handle will bring it down. All it is doing is improving the FBPE figures. The fact that they're scared enough to try and hijack it says a lot though. #Brexit #StopBrexit2018,"['brexit', 'fbpe', 'stopbrexit2018']"
+67,67,67,67,67,67,113234,948817234033545216,3233925233,negative,remain,2018-01-04T07:23:51.000Z,"👇👌👏👏👏 Both #Brexit parties need to get the shock of their lives on 3 May.
 
 #StopBrexit2018 
 #FBPE https://t.co/D1hbEj0Kzx","['brexit', 'fbpe', 'stopbrexit2018']"
-68,68,68,220516,953642971223687168,796460310462763008,negative,remain,2018-01-17T14:59:36.000Z,"I wonder if HMG/DExEU did a #Brexit impact assessment for the Oil/Gas industry even though @DavidDavisMP thinks they are unnecessary.
+68,68,68,68,68,68,220516,953642971223687168,796460310462763008,negative,remain,2018-01-17T14:59:36.000Z,"I wonder if HMG/DExEU did a #Brexit impact assessment for the Oil/Gas industry even though @DavidDavisMP thinks they are unnecessary.
 
 If they had, this would not be a surprise
 It may have informed policy
@@ -181,85 +181,85 @@ There will be no good from #Brexit
 None.
 Time to #StopBrexit2018 
 #FBPE https://t.co/HQZkqp9npc","['brexit', 'fbpe', 'stopbrexit2018']"
-69,69,69,860643,979987412607750144,226126051,positive,other,2018-03-31T07:43:01.000Z,I wonder how many times a day Theresa May has to tell herself that she is doing the right thing Brexit means Brexit must run through her ears like tinnitus #Brexit #FBPE #StopBrexit2018 https://t.co/eUT5NPIROF,"['brexit', 'fbpe', 'stopbrexit2018']"
-70,70,70,106716,948310396494139392,319619581,positive,remain,2018-01-02T21:49:51.000Z,"@faisalislam If we'd had a Govt. of competence &amp; capability there was just a slim chance that #Brexit could have succeeded without trashing our global reputation &amp; our economy. Instead we have @theresa_may @michaelgove @BorisJohnson &amp; @DavidDavisMP
+69,69,69,69,69,69,860643,979987412607750144,226126051,positive,other,2018-03-31T07:43:01.000Z,I wonder how many times a day Theresa May has to tell herself that she is doing the right thing Brexit means Brexit must run through her ears like tinnitus #Brexit #FBPE #StopBrexit2018 https://t.co/eUT5NPIROF,"['brexit', 'fbpe', 'stopbrexit2018']"
+70,70,70,70,70,70,106716,948310396494139392,319619581,positive,remain,2018-01-02T21:49:51.000Z,"@faisalislam If we'd had a Govt. of competence &amp; capability there was just a slim chance that #Brexit could have succeeded without trashing our global reputation &amp; our economy. Instead we have @theresa_may @michaelgove @BorisJohnson &amp; @DavidDavisMP
 
 Doomed to failure.
 #StopBrexit2018 #FBPE","['brexit', 'fbpe', 'stopbrexit2018']"
-71,71,71,124741,949293439249797120,78835016,positive,leave,2018-01-05T14:56:07.000Z,Have you heard about the Article 50 Challenge? If you believe #Brexit is wrong &amp; you want to #StopBrexit2018 this is the best legal challenge we have going! But....it needs paying for by us. Please pledge &amp; circulate as much as you can. #FBPE   https://t.co/qlGmLFveie @W_A_T_O_N,"['brexit', 'fbpe', 'stopbrexit2018']"
-72,72,72,153819,950793836401393664,730514125156171648,positive,other,2018-01-09T18:18:10.000Z,"""Confidence has dropped among London businesses for the 4th quarter running as #Brexit overshadows trading"" #FBPE #StopBrexit2018 https://t.co/osxOl0KlxO","['brexit', 'fbpe', 'stopbrexit2018']"
-73,73,73,101045,948005677619974144,152805197,positive,remain,2018-01-02T01:39:01.000Z,"@JeanneBartram 'Oh yes they can' , as the #Brexit pantomime extends its run into 2018... 🙄😎🇪🇺
+71,71,71,71,71,71,124741,949293439249797120,78835016,positive,leave,2018-01-05T14:56:07.000Z,Have you heard about the Article 50 Challenge? If you believe #Brexit is wrong &amp; you want to #StopBrexit2018 this is the best legal challenge we have going! But....it needs paying for by us. Please pledge &amp; circulate as much as you can. #FBPE   https://t.co/qlGmLFveie @W_A_T_O_N,"['brexit', 'fbpe', 'stopbrexit2018']"
+72,72,72,72,72,72,153819,950793836401393664,730514125156171648,positive,other,2018-01-09T18:18:10.000Z,"""Confidence has dropped among London businesses for the 4th quarter running as #Brexit overshadows trading"" #FBPE #StopBrexit2018 https://t.co/osxOl0KlxO","['brexit', 'fbpe', 'stopbrexit2018']"
+73,73,73,73,73,73,101045,948005677619974144,152805197,positive,remain,2018-01-02T01:39:01.000Z,"@JeanneBartram 'Oh yes they can' , as the #Brexit pantomime extends its run into 2018... 🙄😎🇪🇺
 #FBPE #StopBrexit2018","['brexit', 'fbpe', 'stopbrexit2018']"
-74,74,74,229519,954013456881070080,790133520383500160,negative,remain,2018-01-18T15:31:47.000Z,No surprise here. #Brexit #StopBrexit2018 #FBPE https://t.co/o1o56ye0mo,"['brexit', 'fbpe', 'stopbrexit2018']"
-75,75,75,98502,947597128569933824,17731966,negative,leave,2017-12-31T22:35:35.000Z,"My two wishes? 
+74,74,74,74,74,74,229519,954013456881070080,790133520383500160,negative,remain,2018-01-18T15:31:47.000Z,No surprise here. #Brexit #StopBrexit2018 #FBPE https://t.co/o1o56ye0mo,"['brexit', 'fbpe', 'stopbrexit2018']"
+75,75,75,75,75,75,98502,947597128569933824,17731966,negative,leave,2017-12-31T22:35:35.000Z,"My two wishes? 
 1) That Remoaners carry on telling this incompetent Tory Govt exactly what they can do with their undemocratic referendum. 
 2) That the under forties get out on the street &amp; kick the Tories &amp; #Brexit permanently into the long grass. 
 #StopBrexit2018 
 #FBPE https://t.co/ed4GrSkIxP","['brexit', 'fbpe', 'stopbrexit2018']"
-76,76,76,171004,951432190138740736,74563213,negative,other,2018-01-11T12:34:45.000Z,"The tragedy of this day, this week, this month is that #Brexit is being enabled by @jeremycorbyn, right now. #StopBrexit2018 #FBPE","['brexit', 'fbpe', 'stopbrexit2018']"
-77,77,77,107994,948453731170910208,2546016482,neutral,remain,2018-01-03T07:19:25.000Z,"@Theocracidal @chunkymark I can't believe that older people who rely on the NHS and social services vote for this lot and #Brexit which will finish off the NHS once and for all. #StopBrexit2018
+76,76,76,76,76,76,171004,951432190138740736,74563213,negative,other,2018-01-11T12:34:45.000Z,"The tragedy of this day, this week, this month is that #Brexit is being enabled by @jeremycorbyn, right now. #StopBrexit2018 #FBPE","['brexit', 'fbpe', 'stopbrexit2018']"
+77,77,77,77,77,77,107994,948453731170910208,2546016482,neutral,remain,2018-01-03T07:19:25.000Z,"@Theocracidal @chunkymark I can't believe that older people who rely on the NHS and social services vote for this lot and #Brexit which will finish off the NHS once and for all. #StopBrexit2018
 #FBPE","['brexit', 'fbpe', 'stopbrexit2018']"
-78,78,78,101637,948093153244041216,23303410,positive,other,2018-01-02T07:26:37.000Z,"Looks like ""most people"" don't want #Brexit at all. #FBPE #StopBrexit2018 https://t.co/y16wGnE9Gx","['brexit', 'fbpe', 'stopbrexit2018']"
-79,79,79,186269,952117948319240192,18693908,positive,leave,2018-01-13T09:59:43.000Z,More stupid EU red tape - why shouldn't retailers be allowed to fleece us? Consumer rights - who needs them? After #Brexit we will regain the freedom to give free rein to anyone that wants to rip us off. #FBPE #StopBrexit2018 #WeAreEurope https://t.co/Gm7A13oLbn,"['brexit', 'fbpe', 'weareeurope', 'stopbrexit2018']"
-80,80,80,195145,952558554392735744,2373299036,neutral,other,2018-01-14T15:10:31.000Z,"I wonder which one of these people is Brexit Mean? 
+78,78,78,78,78,78,101637,948093153244041216,23303410,positive,other,2018-01-02T07:26:37.000Z,"Looks like ""most people"" don't want #Brexit at all. #FBPE #StopBrexit2018 https://t.co/y16wGnE9Gx","['brexit', 'fbpe', 'stopbrexit2018']"
+79,79,79,79,79,79,186269,952117948319240192,18693908,positive,leave,2018-01-13T09:59:43.000Z,More stupid EU red tape - why shouldn't retailers be allowed to fleece us? Consumer rights - who needs them? After #Brexit we will regain the freedom to give free rein to anyone that wants to rip us off. #FBPE #StopBrexit2018 #WeAreEurope https://t.co/Gm7A13oLbn,"['brexit', 'fbpe', 'weareeurope', 'stopbrexit2018']"
+80,80,80,80,80,80,195145,952558554392735744,2373299036,neutral,other,2018-01-14T15:10:31.000Z,"I wonder which one of these people is Brexit Mean? 
 
 #Brexit #StopBrexit2018 #fightBrexit https://t.co/MLX0iKdpVi","['brexit', 'fightbrexit', 'stopbrexit2018']"
-81,81,81,979392,987096421328338944,404281100,positive,remain,2018-04-19T22:31:40.000Z,"https://t.co/Y9essOKNaC #Brexit #FBPE #stopbrexit2018 #StopBrexit #Art50Challenge #BrexitShambles #Indyref2 
+81,81,81,81,81,81,979392,987096421328338944,404281100,positive,remain,2018-04-19T22:31:40.000Z,"https://t.co/Y9essOKNaC #Brexit #FBPE #stopbrexit2018 #StopBrexit #Art50Challenge #BrexitShambles #Indyref2 
 
 ""Any #ECJ decision which overturned British parliamentary legislation would be particularly controversial""
 
 This will be a fascinating clash of sovereign entities","['brexit', 'indyref2', 'stopbrexit', 'ecj', 'art50challenge', 'fbpe', 'stopbrexit2018', 'brexitshambles']"
-82,82,82,113798,948862802931933184,2700274245,positive,leave,2018-01-04T10:24:55.000Z,"""#Labour will win back lost support, &amp; hold existing support from Leavers, not by a ‘me too’ stance on #Brexit, but by showing they understand, and have the policies to address, the reasons behind their Brexit vote"" - who can argue with that? #StopBrexit2018 #JeremyCorbyn https://t.co/A33imWVcA9","['brexit', 'jeremycorbyn', 'stopbrexit2018']"
-83,83,83,132836,949787227567030272,136238340,negative,remain,2018-01-06T23:38:15.000Z,"Absolutely! Until #Labour oppose #Brexit, they are under increasing pressure from #StopBrexit2018 #FBPE https://t.co/dNhQu0Bpxb","['brexit', 'labour', 'fbpe', 'stopbrexit2018']"
-84,84,84,116729,948938997891502080,791903121761046528,positive,leave,2018-01-04T15:27:42.000Z,"We can change our government we cant change #Brexit once happened!
+82,82,82,82,82,82,113798,948862802931933184,2700274245,positive,leave,2018-01-04T10:24:55.000Z,"""#Labour will win back lost support, &amp; hold existing support from Leavers, not by a ‘me too’ stance on #Brexit, but by showing they understand, and have the policies to address, the reasons behind their Brexit vote"" - who can argue with that? #StopBrexit2018 #JeremyCorbyn https://t.co/A33imWVcA9","['brexit', 'jeremycorbyn', 'stopbrexit2018']"
+83,83,83,83,83,83,132836,949787227567030272,136238340,negative,remain,2018-01-06T23:38:15.000Z,"Absolutely! Until #Labour oppose #Brexit, they are under increasing pressure from #StopBrexit2018 #FBPE https://t.co/dNhQu0Bpxb","['brexit', 'labour', 'fbpe', 'stopbrexit2018']"
+84,84,84,84,84,84,116729,948938997891502080,791903121761046528,positive,leave,2018-01-04T15:27:42.000Z,"We can change our government we cant change #Brexit once happened!
 
 Be smart vote @LibDems even if temporarily to #StopBrexit2018 or if @jeremycorbyn changes his stance on #Brexit then the choice is obvious vote #Labourin 2018 lets #StopBrexit2018 #FundourNHS #getridoftories","['brexit', 'labourin', 'fundournhs', 'getridoftories', 'stopbrexit2018']"
-85,85,85,447839,963275240838172672,432735135,negative,other,2018-02-13T04:54:48.000Z,@DanielJHannan Shouldn’t we have been told about the costs of #Brexit by those promoting it? This is just a disingenuous rewriting of history. And who exactly will be paying the price? Not you &amp; other senior #Leave liars but the citizens of the (for now) UK. #StopBrexit2018,"['brexit', 'leave', 'stopbrexit2018']"
-86,86,86,603268,969548767568506880,927629819986268032,neutral,other,2018-03-02T12:23:34.000Z,@HappyAbode1875 @minxymartin @CCHQPress OMG!  OMG!  ¿¿¿ What if Brexit doesn’t mean Brexit ?????  Could it mean “Brrrrrr...... Exit”?  #BrexitReality #MaySpeech #Brexit #StopBrexit2018,"['brexit', 'mayspeech', 'brexitreality', 'stopbrexit2018']"
-87,87,87,274455,956597442266451968,711945679,neutral,leave,2018-01-25T18:39:37.000Z,"Point is: Tessa Jowell can be treated in Germany for her cancer. I can be treated in Germany (Restored  citizenship) also. Post #Brexit, only one of us will have that chance. Guess which one? #nhs #cancer #StopBrexit2018","['brexit', 'nhs', 'cancer', 'stopbrexit2018']"
-88,88,88,451049,963382414981718016,2683210415,negative,remain,2018-02-13T12:00:41.000Z,Who will liVE the longest outside EU if #Brexit goes ahead? A population who didn’t vote to leave in the first place! #NotInMyName #StopBrexit2018 #OFOC #FBPE https://t.co/kHtEiVLgOp,"['brexit', 'notinmyname', 'fbpe', 'ofoc', 'stopbrexit2018']"
-89,89,89,224407,953774419448664064,1369330465,negative,other,2018-01-17T23:41:56.000Z,"I find it hard to know which game the #PrimeMinister is playing - perhaps she herself does not know. What she does know is that #Brexit will be harmful to the whole of the UK, except her very rich cronies, so why are we doing it? #StopBrexit2018 https://t.co/CqrTxriBOu","['brexit', 'primeminister', 'stopbrexit2018']"
-90,90,90,384860,961151994340790272,720259315773247488,negative,other,2018-02-07T08:17:47.000Z,"There are 30 people who attend Cabinet who have the same political affiliations. Given they don’t know a) what #Brexit means and b) how to achieve it, it says it all about confused the leave position is. 
+85,85,85,85,85,85,447839,963275240838172672,432735135,negative,other,2018-02-13T04:54:48.000Z,@DanielJHannan Shouldn’t we have been told about the costs of #Brexit by those promoting it? This is just a disingenuous rewriting of history. And who exactly will be paying the price? Not you &amp; other senior #Leave liars but the citizens of the (for now) UK. #StopBrexit2018,"['brexit', 'leave', 'stopbrexit2018']"
+86,86,86,86,86,86,603268,969548767568506880,927629819986268032,neutral,other,2018-03-02T12:23:34.000Z,@HappyAbode1875 @minxymartin @CCHQPress OMG!  OMG!  ¿¿¿ What if Brexit doesn’t mean Brexit ?????  Could it mean “Brrrrrr...... Exit”?  #BrexitReality #MaySpeech #Brexit #StopBrexit2018,"['brexit', 'mayspeech', 'brexitreality', 'stopbrexit2018']"
+87,87,87,87,87,87,274455,956597442266451968,711945679,neutral,leave,2018-01-25T18:39:37.000Z,"Point is: Tessa Jowell can be treated in Germany for her cancer. I can be treated in Germany (Restored  citizenship) also. Post #Brexit, only one of us will have that chance. Guess which one? #nhs #cancer #StopBrexit2018","['brexit', 'nhs', 'cancer', 'stopbrexit2018']"
+88,88,88,88,88,88,451049,963382414981718016,2683210415,negative,remain,2018-02-13T12:00:41.000Z,Who will liVE the longest outside EU if #Brexit goes ahead? A population who didn’t vote to leave in the first place! #NotInMyName #StopBrexit2018 #OFOC #FBPE https://t.co/kHtEiVLgOp,"['brexit', 'notinmyname', 'fbpe', 'ofoc', 'stopbrexit2018']"
+89,89,89,89,89,89,224407,953774419448664064,1369330465,negative,other,2018-01-17T23:41:56.000Z,"I find it hard to know which game the #PrimeMinister is playing - perhaps she herself does not know. What she does know is that #Brexit will be harmful to the whole of the UK, except her very rich cronies, so why are we doing it? #StopBrexit2018 https://t.co/CqrTxriBOu","['brexit', 'primeminister', 'stopbrexit2018']"
+90,90,90,90,90,90,384860,961151994340790272,720259315773247488,negative,other,2018-02-07T08:17:47.000Z,"There are 30 people who attend Cabinet who have the same political affiliations. Given they don’t know a) what #Brexit means and b) how to achieve it, it says it all about confused the leave position is. 
 #StopBrexit2018 #r4today","['brexit', 'r4today', 'stopbrexit2018']"
-91,91,91,199496,952826421394669568,137483767,negative,other,2018-01-15T08:54:56.000Z,@Anna_Soubry No we don't want #Brexit at all. Latest poll shows 55% now want #REMAIN #StopBrexit2018,"['brexit', 'remain', 'stopbrexit2018']"
-92,92,92,580241,968795165556137984,16646268,positive,remain,2018-02-28T10:29:01.000Z,@marcuschown I think the fact that it covers everything over with a clean white sheet has a lot to do with it. Am I alone thinking that I’d wish it would snow so heavily that we bury #Brexit under it for all time? #StopBrexit2018 #snowmagedon,"['brexit', 'snowmagedon', 'stopbrexit2018']"
-93,93,93,123547,949248550222942208,2767003853,neutral,remain,2018-01-05T11:57:45.000Z,"#Stay
+91,91,91,91,91,91,199496,952826421394669568,137483767,negative,other,2018-01-15T08:54:56.000Z,@Anna_Soubry No we don't want #Brexit at all. Latest poll shows 55% now want #REMAIN #StopBrexit2018,"['brexit', 'remain', 'stopbrexit2018']"
+92,92,92,92,92,92,580241,968795165556137984,16646268,positive,remain,2018-02-28T10:29:01.000Z,@marcuschown I think the fact that it covers everything over with a clean white sheet has a lot to do with it. Am I alone thinking that I’d wish it would snow so heavily that we bury #Brexit under it for all time? #StopBrexit2018 #snowmagedon,"['brexit', 'snowmagedon', 'stopbrexit2018']"
+93,93,93,93,93,93,123547,949248550222942208,2767003853,neutral,remain,2018-01-05T11:57:45.000Z,"#Stay
 
 We can stop #Brexit.
 Nothing is impossible in modern politics. But if so many Europeans really want Britain to stay in the EU, they need to find their voices now, says @fromTGA 
 
 #StopBrexit2018 
  https://t.co/WvmxLxYRoO","['brexit', 'stay', 'stopbrexit2018']"
-94,94,94,227678,953964206927343616,2650194375,positive,remain,2018-01-18T12:16:05.000Z,#StopBrexit  #StopBrexit2018  # #ExitFromBrexit #Brexit   This the Sun saying any EU living in this country this is what will happen to you.. Go brave  strong Sun reading Albion supporters decapitate a foreigner....that how it reads...close this rag down https://t.co/oHSpj92avI,"['brexit', 'stopbrexit', 'exitfrombrexit', 'stopbrexit2018']"
-95,95,95,103524,948182926402969600,2650194375,neutral,remain,2018-01-02T13:23:20.000Z,"#StopBrexit2018 #FBPE  #brexitshambles #Brexit #StopBrexit
+94,94,94,94,94,94,227678,953964206927343616,2650194375,positive,remain,2018-01-18T12:16:05.000Z,#StopBrexit  #StopBrexit2018  # #ExitFromBrexit #Brexit   This the Sun saying any EU living in this country this is what will happen to you.. Go brave  strong Sun reading Albion supporters decapitate a foreigner....that how it reads...close this rag down https://t.co/oHSpj92avI,"['brexit', 'stopbrexit', 'exitfrombrexit', 'stopbrexit2018']"
+95,95,95,95,95,95,103524,948182926402969600,2650194375,neutral,remain,2018-01-02T13:23:20.000Z,"#StopBrexit2018 #FBPE  #brexitshambles #Brexit #StopBrexit
 Toby Young is an absolute disgrace his Father, would not believe what his son stands for. Michael Young help start the O U  a giant of a man. https://t.co/1OTU4oDToD","['brexit', 'stopbrexit', 'fbpe', 'brexitshambles', 'stopbrexit2018']"
-96,96,96,687806,972896582554279936,2650194375,neutral,remain,2018-03-11T18:06:35.000Z,"#StopBrexit2018 #StopBrexit #Brexit #FBPE #Labour #ToriesOut 
+96,96,96,96,96,96,687806,972896582554279936,2650194375,neutral,remain,2018-03-11T18:06:35.000Z,"#StopBrexit2018 #StopBrexit #Brexit #FBPE #Labour #ToriesOut 
 More Tory lies, as soon as one opened his mouth, out pops a twist of facts. How about letting our kids have a school lunch like the northern ireland kids, you Tory hypocrite,you make me sick... https://t.co/yJtGN8gXek","['brexit', 'stopbrexit', 'fbpe', 'labour', 'toriesout', 'stopbrexit2018']"
-97,97,97,205030,953024879107993600,407320355,neutral,remain,2018-01-15T22:03:32.000Z,"The return of the #MagicMoneyTree #Brexit #StopBrexit
+97,97,97,97,97,97,205030,953024879107993600,407320355,neutral,remain,2018-01-15T22:03:32.000Z,"The return of the #MagicMoneyTree #Brexit #StopBrexit
 #StopBrexit2018 #FBPE
 https://t.co/tjypj1iZUD","['brexit', 'stopbrexit', 'fbpe', 'magicmoneytree', 'stopbrexit2018']"
-98,98,98,765141,976406402687291392,928017192330940416,neutral,remain,2018-03-21T10:33:21.000Z,"Petition: Declare the 2016 referendum vote null and void due to foreign interference https://t.co/ksyYYj6rEK
+98,98,98,98,98,98,765141,976406402687291392,928017192330940416,neutral,remain,2018-03-21T10:33:21.000Z,"Petition: Declare the 2016 referendum vote null and void due to foreign interference https://t.co/ksyYYj6rEK
 
 #FBPE #StopBrexit #StopBrexit2018 #Brexit #BrexitShambles #RemainerNow","['brexit', 'stopbrexit', 'fbpe', 'remainernow', 'stopbrexit2018', 'brexitshambles']"
-99,99,99,115026,948889813805142016,871099118613143552,negative,remain,2018-01-04T12:12:15.000Z,"@GO_Ealing @sjanemurf @piersmorgan Classic hard brexiter. Zero ideas for how to actually deliver brexit, just toxic trolling and personal attacks. Can't even think of an original hashtag! 😆
+99,99,99,99,99,99,115026,948889813805142016,871099118613143552,negative,remain,2018-01-04T12:12:15.000Z,"@GO_Ealing @sjanemurf @piersmorgan Classic hard brexiter. Zero ideas for how to actually deliver brexit, just toxic trolling and personal attacks. Can't even think of an original hashtag! 😆
 2018 is the year, people! #Brexit lies and nastiness being exposed. 😀✌ #StopBrexit2018 #StopBrexit #FBPE #ToriesOut","['brexit', 'stopbrexit', 'fbpe', 'toriesout', 'stopbrexit2018']"
-100,100,100,208538,953218288749875200,2650194375,negative,remain,2018-01-16T10:52:04.000Z,"#StopBrexit2018  #StopBrexit  #Brexit  #FBPE  #ToriesOut  Says it all Tories means false news and disinformation, my advice don't listen to there lies ever. https://t.co/WzX35n8TZn","['brexit', 'stopbrexit', 'fbpe', 'toriesout', 'stopbrexit2018']"
-101,101,101,109220,948500684093165568,319619581,positive,remain,2018-01-03T10:26:00.000Z,"@damocrat @nick_clegg @UKLabour @IanMurrayMP @johnmcdonnellMP @BarryGardiner @Conservatives The @UKLabour leadership - in coalition with the @Conservatives on #Brexit 
+100,100,100,100,100,100,208538,953218288749875200,2650194375,negative,remain,2018-01-16T10:52:04.000Z,"#StopBrexit2018  #StopBrexit  #Brexit  #FBPE  #ToriesOut  Says it all Tories means false news and disinformation, my advice don't listen to there lies ever. https://t.co/WzX35n8TZn","['brexit', 'stopbrexit', 'fbpe', 'toriesout', 'stopbrexit2018']"
+101,101,101,101,101,101,109220,948500684093165568,319619581,positive,remain,2018-01-03T10:26:00.000Z,"@damocrat @nick_clegg @UKLabour @IanMurrayMP @johnmcdonnellMP @BarryGardiner @Conservatives The @UKLabour leadership - in coalition with the @Conservatives on #Brexit 
 
 https://t.co/IoNRnNIIos #StopBrexit #FBPE #StopBrexit2018 #FinalSayForAll #EXITbrexit","['brexit', 'stopbrexit', 'finalsayforall', 'exitbrexit', 'fbpe', 'stopbrexit2018']"
-102,102,102,177928,951700852833771520,2546016482,negative,remain,2018-01-12T06:22:19.000Z,"Momentum is growing, we will #StopBrexit2018
+102,102,102,102,102,102,177928,951700852833771520,2546016482,negative,remain,2018-01-12T06:22:19.000Z,"Momentum is growing, we will #StopBrexit2018
 
 Shock poll reveals the result if we have a second EU referendum https://t.co/W3PN0lWj25 
 #FBPE #StopBrexit #Brexit #FinalSayForAll","['brexit', 'stopbrexit', 'finalsayforall', 'fbpe', 'stopbrexit2018']"
-103,103,103,106757,948312464151777280,319619581,negative,remain,2018-01-02T21:58:04.000Z,If this rotten Tory Government were a car it would surely be an Austin Allegro. One of *the* worst cars every built by British Leyland. #StopBrexit #StopBrexit2018 #FBPE #FinalSayForAll #Brexit https://t.co/3xHjuy4TsQ,"['brexit', 'stopbrexit', 'finalsayforall', 'fbpe', 'stopbrexit2018']"
-104,104,104,112088,948640111553597440,869548778046590848,neutral,remain,2018-01-03T19:40:02.000Z,"Captain of the Titanic - ""There is an obsession amongst some passengers about the fact that this ship is sinking""
+103,103,103,103,103,103,106757,948312464151777280,319619581,negative,remain,2018-01-02T21:58:04.000Z,If this rotten Tory Government were a car it would surely be an Austin Allegro. One of *the* worst cars every built by British Leyland. #StopBrexit #StopBrexit2018 #FBPE #FinalSayForAll #Brexit https://t.co/3xHjuy4TsQ,"['brexit', 'stopbrexit', 'finalsayforall', 'fbpe', 'stopbrexit2018']"
+104,104,104,104,104,104,112088,948640111553597440,869548778046590848,neutral,remain,2018-01-03T19:40:02.000Z,"Captain of the Titanic - ""There is an obsession amongst some passengers about the fact that this ship is sinking""
 
 #Brexit #StopBrexit
 #StopBrexit2018 #LiamFox
 #FBPE #EU #brexitshambles
 
 https://t.co/Ing4jPAI2m","['brexit', 'stopbrexit', 'liamfox', 'fbpe', 'eu', 'brexitshambles', 'stopbrexit2018']"
-105,105,105,106966,948324289215856640,2724368082,negative,other,2018-01-02T22:45:04.000Z,"In case you were in any doubt, #ProjectFear was #Projectreality!
+105,105,105,105,105,105,106966,948324289215856640,2724368082,negative,other,2018-01-02T22:45:04.000Z,"In case you were in any doubt, #ProjectFear was #Projectreality!
 
 #Brexit is making us poorer to the tune of £350 million/week!
 
@@ -268,84 +268,84 @@ https://t.co/Ing4jPAI2m","['brexit', 'stopbrexit', 'liamfox', 'fbpe', 'eu', 'bre
 #StopBrexit #StopBrexit2018 #FBPE
 
 https://t.co/gegciq2era via @financialtimes","['brexit', 'stopbrexit', 'nhs', 'projectreality', 'fbpe', 'projectfear', 'stopbrexit2018']"
-106,106,106,727030,974695579136774144,417320141,positive,remain,2018-03-16T17:15:09.000Z,The very best way of confronting #Putin is to #StopBrexit!  There is a very good reason why #Putin wanted #Brexit so badly - It weakens us! #StopBrexit2018,"['brexit', 'stopbrexit', 'putin', 'stopbrexit2018']"
-107,107,107,558520,967914798812942336,1205670361,positive,remain,2018-02-26T00:10:45.000Z,"@Scientists4EU @mikegalsworthy #Brexit, if it removes FOM is also an attack on the freedom of the population of UK.
+106,106,106,106,106,106,727030,974695579136774144,417320141,positive,remain,2018-03-16T17:15:09.000Z,The very best way of confronting #Putin is to #StopBrexit!  There is a very good reason why #Putin wanted #Brexit so badly - It weakens us! #StopBrexit2018,"['brexit', 'stopbrexit', 'putin', 'stopbrexit2018']"
+107,107,107,107,107,107,558520,967914798812942336,1205670361,positive,remain,2018-02-26T00:10:45.000Z,"@Scientists4EU @mikegalsworthy #Brexit, if it removes FOM is also an attack on the freedom of the population of UK.
 #StopBrexit #StopBrexitSaveBritain #StopBrexit2018","['brexit', 'stopbrexit', 'stopbrexitsavebritain', 'stopbrexit2018']"
-108,108,108,625953,970331551585263616,1205670361,positive,remain,2018-03-04T16:14:04.000Z,"@FightingTopBlog Yes, Cuddy has definitely nothing positive to say about #Brexit, or at least nothing positive and correct.
+108,108,108,108,108,108,625953,970331551585263616,1205670361,positive,remain,2018-03-04T16:14:04.000Z,"@FightingTopBlog Yes, Cuddy has definitely nothing positive to say about #Brexit, or at least nothing positive and correct.
 #StopBrexit #StopBrexitSaveBritain #StopBrexit2018","['brexit', 'stopbrexit', 'stopbrexitsavebritain', 'stopbrexit2018']"
-109,109,109,717239,974232979097735168,1205670361,positive,remain,2018-03-15T10:36:57.000Z,"@David_Dowse1 Come on, you don’t expect rags like the Mail, Express, Sun to tell the truth about #Brexit, that would be a first!
+109,109,109,109,109,109,717239,974232979097735168,1205670361,positive,remain,2018-03-15T10:36:57.000Z,"@David_Dowse1 Come on, you don’t expect rags like the Mail, Express, Sun to tell the truth about #Brexit, that would be a first!
 #StopBrexit #StopBrexitSaveBritain #StopBrexit2018","['brexit', 'stopbrexit', 'stopbrexitsavebritain', 'stopbrexit2018']"
-110,110,110,379530,960866438016794624,740521037922734080,negative,remain,2018-02-06T13:23:05.000Z,"@WomaninHavana #Brexit is a lie, #Tories still think they can cover it up, but it’s not working and will never work - cannot govern a country on a lie. We just need @UKLabour to realise that they have to oppose and not agree with #tories 
+110,110,110,110,110,110,379530,960866438016794624,740521037922734080,negative,remain,2018-02-06T13:23:05.000Z,"@WomaninHavana #Brexit is a lie, #Tories still think they can cover it up, but it’s not working and will never work - cannot govern a country on a lie. We just need @UKLabour to realise that they have to oppose and not agree with #tories 
 #StopBrexit #StopBrexit2018 @faisalislam","['brexit', 'stopbrexit', 'tories', 'tories', 'stopbrexit2018']"
-111,111,111,193470,952508821062275072,2650194375,negative,remain,2018-01-14T11:52:54.000Z,"#StopBrexit  #StopBrexit2018  #Brexit  #FBPE  The Tory media went straight on the attack blaming labour, for #Trump  visit cancellation, transpires that's it's the Tory's who hate him and trump knows. https://t.co/pp1SNA6sRo","['brexit', 'stopbrexit', 'trump', 'fbpe', 'stopbrexit2018']"
-112,112,112,621439,970083465021546496,746680786087251840,positive,other,2018-03-03T23:48:15.000Z,"@Andrew_Adonis Dear Mr Barnier, I agree with @Andrew_Adonis. I think @theresa_may is hopelessly out of her depth and #Brexit must be stopped for all our sakes. Our best future is in the EU. #StopBrexit2018","['brexit', 'stopbrexit2018']"
-113,113,113,931372,984520458157502464,713439738993238016,neutral,other,2018-04-12T19:55:43.000Z,To be clear ... I’m OK. In fact I’m more than OK. IF #Brexit happens (I don’t think so) then I will be just fine. I’m qualified &amp; experienced internationally. The losers will be the poor people that were suckered into voting for it. Am I happy? NO! I’m trying to #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-114,114,114,617452,969916444048855040,787585044307144704,positive,leave,2018-03-03T12:44:35.000Z,"By any reasonable analaysis the PM's 5 #Brexit tests: ""delivers referendum result [37% voted Leave]; lasting solution; protects jobs and security; maintains UK as a tolerant, European democracy; strengthens the UK’s 4 nation union"" mean we must #StopBrexit2018","['brexit', 'stopbrexit2018']"
-115,115,115,739456,975453186952704000,896301798084030464,positive,leave,2018-03-18T19:25:37.000Z,@Scientists4EU @mikegalsworthy Together with common standards and goals Europe can do great things #StopBrexit2018 #Brexit https://t.co/FlSJ9fub3e,"['brexit', 'stopbrexit2018']"
-116,116,116,142545,950329998115770368,792782917638455296,positive,other,2018-01-08T11:35:02.000Z,"Oh dear. Does @theresa_may really still believe that there's a #Brexit deal that works for ANY part of the UK, let alone all of it? Life must be good, dancing with those unicorns... #StopBrexit2018
+111,111,111,111,111,111,193470,952508821062275072,2650194375,negative,remain,2018-01-14T11:52:54.000Z,"#StopBrexit  #StopBrexit2018  #Brexit  #FBPE  The Tory media went straight on the attack blaming labour, for #Trump  visit cancellation, transpires that's it's the Tory's who hate him and trump knows. https://t.co/pp1SNA6sRo","['brexit', 'stopbrexit', 'trump', 'fbpe', 'stopbrexit2018']"
+112,112,112,112,112,112,621439,970083465021546496,746680786087251840,positive,other,2018-03-03T23:48:15.000Z,"@Andrew_Adonis Dear Mr Barnier, I agree with @Andrew_Adonis. I think @theresa_may is hopelessly out of her depth and #Brexit must be stopped for all our sakes. Our best future is in the EU. #StopBrexit2018","['brexit', 'stopbrexit2018']"
+113,113,113,113,113,113,931372,984520458157502464,713439738993238016,neutral,other,2018-04-12T19:55:43.000Z,To be clear ... I’m OK. In fact I’m more than OK. IF #Brexit happens (I don’t think so) then I will be just fine. I’m qualified &amp; experienced internationally. The losers will be the poor people that were suckered into voting for it. Am I happy? NO! I’m trying to #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+114,114,114,114,114,114,617452,969916444048855040,787585044307144704,positive,leave,2018-03-03T12:44:35.000Z,"By any reasonable analaysis the PM's 5 #Brexit tests: ""delivers referendum result [37% voted Leave]; lasting solution; protects jobs and security; maintains UK as a tolerant, European democracy; strengthens the UK’s 4 nation union"" mean we must #StopBrexit2018","['brexit', 'stopbrexit2018']"
+115,115,115,115,115,115,739456,975453186952704000,896301798084030464,positive,leave,2018-03-18T19:25:37.000Z,@Scientists4EU @mikegalsworthy Together with common standards and goals Europe can do great things #StopBrexit2018 #Brexit https://t.co/FlSJ9fub3e,"['brexit', 'stopbrexit2018']"
+116,116,116,116,116,116,142545,950329998115770368,792782917638455296,positive,other,2018-01-08T11:35:02.000Z,"Oh dear. Does @theresa_may really still believe that there's a #Brexit deal that works for ANY part of the UK, let alone all of it? Life must be good, dancing with those unicorns... #StopBrexit2018
 
 https://t.co/A0Y5rzoq7C","['brexit', 'stopbrexit2018']"
-117,117,117,629889,970569992424116224,796460310462763008,positive,remain,2018-03-05T08:01:33.000Z,"As you were tweeps.
+117,117,117,117,117,117,629889,970569992424116224,796460310462763008,positive,remain,2018-03-05T08:01:33.000Z,"As you were tweeps.
 
 This is just a couple of the ""nearly 40"" so-called #Brexit ""Brains"" trying to justify their positions.
 Apparently it's only going to hurt a little bit, so don't worry, Brexit will be fine.
 
 #StopBrexit2018 https://t.co/UkP6aoEHWk","['brexit', 'stopbrexit2018']"
-118,118,118,297189,957902133336174592,230822779,negative,remain,2018-01-29T09:04:00.000Z,. @JustineGreening on supporting PM on #Brexit on @BBCr4today: “impossible (almost) task” oh please just stop. Clearly most of us will be worse off than before. #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-119,119,119,552880,967419291674009600,109644823,negative,remain,2018-02-24T15:21:47.000Z,Indeed .... a watered down back door #Brexit is not acceptable @ChukaUmunna @Anna_Soubry #StopBrexit2018 https://t.co/lb9trfNnkn,"['brexit', 'stopbrexit2018']"
-120,120,120,351089,959696945840316416,747051322667589632,positive,remain,2018-02-03T07:55:56.000Z,"@PickardJE @UKLabour @jeremycorbyn are you listening yet? Backing #Brexit is your Achilles heel, back a 2nd referendum with the option to reject #Brexit and remain a member of the EU needs to be given to the people, opinions have changed, that is how you will get into power #StopBrexit2018","['brexit', 'stopbrexit2018']"
-121,121,121,155235,950849129596510208,35472161,neutral,other,2018-01-09T21:57:53.000Z,"Brussels spells out reality of no-deal #Brexit 
+118,118,118,118,118,118,297189,957902133336174592,230822779,negative,remain,2018-01-29T09:04:00.000Z,. @JustineGreening on supporting PM on #Brexit on @BBCr4today: “impossible (almost) task” oh please just stop. Clearly most of us will be worse off than before. #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+119,119,119,119,119,119,552880,967419291674009600,109644823,negative,remain,2018-02-24T15:21:47.000Z,Indeed .... a watered down back door #Brexit is not acceptable @ChukaUmunna @Anna_Soubry #StopBrexit2018 https://t.co/lb9trfNnkn,"['brexit', 'stopbrexit2018']"
+120,120,120,120,120,120,351089,959696945840316416,747051322667589632,positive,remain,2018-02-03T07:55:56.000Z,"@PickardJE @UKLabour @jeremycorbyn are you listening yet? Backing #Brexit is your Achilles heel, back a 2nd referendum with the option to reject #Brexit and remain a member of the EU needs to be given to the people, opinions have changed, that is how you will get into power #StopBrexit2018","['brexit', 'stopbrexit2018']"
+121,121,121,121,121,121,155235,950849129596510208,35472161,neutral,other,2018-01-09T21:57:53.000Z,"Brussels spells out reality of no-deal #Brexit 
 
 #StopBrexit2018 https://t.co/AjYmzTeRJ4","['brexit', 'stopbrexit2018']"
-122,122,122,207317,953177904443248640,52228989,neutral,other,2018-01-16T08:11:36.000Z,A harbinger for the impact of #Brexit perhaps? #StopBrexit2018 https://t.co/yUJpAtpVK8,"['brexit', 'stopbrexit2018']"
-123,123,123,156784,950982191030390784,792782917638455296,positive,other,2018-01-10T06:46:37.000Z,"""Ten months to come to an agreement on #Brexit... or to do an about-turn"" @CincoDiascom #StopBrexit2018
+122,122,122,122,122,122,207317,953177904443248640,52228989,neutral,other,2018-01-16T08:11:36.000Z,A harbinger for the impact of #Brexit perhaps? #StopBrexit2018 https://t.co/yUJpAtpVK8,"['brexit', 'stopbrexit2018']"
+123,123,123,123,123,123,156784,950982191030390784,792782917638455296,positive,other,2018-01-10T06:46:37.000Z,"""Ten months to come to an agreement on #Brexit... or to do an about-turn"" @CincoDiascom #StopBrexit2018
 
 https://t.co/kvIBgJAb4X","['brexit', 'stopbrexit2018']"
-124,124,124,373981,960633770121588736,65399590,positive,other,2018-02-05T21:58:33.000Z,"""Preparedness for #Brexit is key. All competent authorities and market operators have to prepare now. When the UK leaves the single market, the  financial passport is gone.""  #StopBrexit2018 https://t.co/iqKrsza87C","['brexit', 'stopbrexit2018']"
-125,125,125,779153,976908249156014080,863080535681372160,positive,other,2018-03-22T19:47:31.000Z,@CameronHickman @LibDems @BarackObama asked us to remain because he’s an intelligent human being. Current administration want us to #Brexit ... Russia uses UK to clean their dirty money &amp; need us to exit EU because of the new taxation laws in 2019 will apply if we remain... I’m guessing #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-126,126,126,685193,972775530637484032,20348161,negative,other,2018-03-11T10:05:34.000Z,"#Brexit - a huge, clumsy, farcical, destructive step backwards. UK why are you doing this to yourself? #StopBrexit2018 https://t.co/GzI5hyVKck","['brexit', 'stopbrexit2018']"
-127,127,127,322782,958628821649035264,20348161,negative,other,2018-01-31T09:11:36.000Z,There is absolutely no doubt in my mind that to proceed with Brexit knowing what we know now would be an act of gross irresponsibility. Knowing that lots of people will lose their jobs as a direct result of #Brexit is just one of many reasons to #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-128,128,128,222479,953706680856055808,35472161,neutral,remain,2018-01-17T19:12:46.000Z,"The only surprise is that the experts’ predicted economic consequences of #Brexit took so long to materialise
+124,124,124,124,124,124,373981,960633770121588736,65399590,positive,other,2018-02-05T21:58:33.000Z,"""Preparedness for #Brexit is key. All competent authorities and market operators have to prepare now. When the UK leaves the single market, the  financial passport is gone.""  #StopBrexit2018 https://t.co/iqKrsza87C","['brexit', 'stopbrexit2018']"
+125,125,125,125,125,125,779153,976908249156014080,863080535681372160,positive,other,2018-03-22T19:47:31.000Z,@CameronHickman @LibDems @BarackObama asked us to remain because he’s an intelligent human being. Current administration want us to #Brexit ... Russia uses UK to clean their dirty money &amp; need us to exit EU because of the new taxation laws in 2019 will apply if we remain... I’m guessing #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+126,126,126,126,126,126,685193,972775530637484032,20348161,negative,other,2018-03-11T10:05:34.000Z,"#Brexit - a huge, clumsy, farcical, destructive step backwards. UK why are you doing this to yourself? #StopBrexit2018 https://t.co/GzI5hyVKck","['brexit', 'stopbrexit2018']"
+127,127,127,127,127,127,322782,958628821649035264,20348161,negative,other,2018-01-31T09:11:36.000Z,There is absolutely no doubt in my mind that to proceed with Brexit knowing what we know now would be an act of gross irresponsibility. Knowing that lots of people will lose their jobs as a direct result of #Brexit is just one of many reasons to #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+128,128,128,128,128,128,222479,953706680856055808,35472161,neutral,remain,2018-01-17T19:12:46.000Z,"The only surprise is that the experts’ predicted economic consequences of #Brexit took so long to materialise
 
 #StopBrexit2018
 
 https://t.co/ZIf6cKdHLy","['brexit', 'stopbrexit2018']"
-129,129,129,739434,975452207373082624,896301798084030464,positive,leave,2018-03-18T19:21:43.000Z,Together with common standards and goals Europe can do great things #StopBrexit2018 #Brexit https://t.co/FlSJ9fub3e,"['brexit', 'stopbrexit2018']"
-130,130,130,740705,975508770993340416,2534927001,negative,other,2018-03-18T23:06:29.000Z,"Crikey Jakey Boy!
+129,129,129,129,129,129,739434,975452207373082624,896301798084030464,positive,leave,2018-03-18T19:21:43.000Z,Together with common standards and goals Europe can do great things #StopBrexit2018 #Brexit https://t.co/FlSJ9fub3e,"['brexit', 'stopbrexit2018']"
+130,130,130,130,130,130,740705,975508770993340416,2534927001,negative,other,2018-03-18T23:06:29.000Z,"Crikey Jakey Boy!
 My money, what's left of it after #Brexit, is on the joke side of things
 
 How's your timing on dead parrots?
 
 #StopBrexit2018 https://t.co/gBSswrLsTm","['brexit', 'stopbrexit2018']"
-131,131,131,192609,952472790782939136,891428135618707328,negative,remain,2018-01-14T09:29:44.000Z,"@rocciabella I have no party colour/vote, I'm against stupid and #Brexit is stupid. #StopBrexit2018","['brexit', 'stopbrexit2018']"
-132,132,132,739471,975454641734471680,896301798084030464,positive,leave,2018-03-18T19:31:24.000Z,@guyverhofstadt Together with common standards and goals Europe can do great things #StopBrexit2018 #Brexit https://t.co/FlSJ9fub3e,"['brexit', 'stopbrexit2018']"
-133,133,133,925662,984189163632300032,984077860385251200,negative,leave,2018-04-11T21:59:16.000Z,"@AndrewCHarries @VeroVero777 @Scroogeesq @Bournemouth4EU @LabourfutureUK @UKLabour Totally agree. I am sick of all the really ANGRY #Brexit men telling me what to think. The trouble for dictators, is that they get overthrown. Better though to sweep all those kippers back under the rug. #StopBrexit2018","['brexit', 'stopbrexit2018']"
-134,134,134,746902,975738618563252224,264236078,negative,remain,2018-03-19T14:19:49.000Z,#Brexit will harm the UK and millions of innocent citizens if we allow it to go ahead. Which is why we're going to #StopBrexit2018 https://t.co/QUhGGcKDmP,"['brexit', 'stopbrexit2018']"
-135,135,135,204974,953022949136699392,891428135618707328,negative,remain,2018-01-15T21:55:52.000Z,@apricotfox If I did not care I would leave them to be robbed blind by the govt and their #Brexit backing billionaires #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-136,136,136,449840,963347455868882944,164809116,positive,other,2018-02-13T09:41:46.000Z,@JoshRobertson97 @Gnarlbones Changing mind in face of facts is sign of an open flexible mind-welcome to the reality of #Brexit and help us #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-137,137,137,390194,961285161064325120,3315837778,neutral,other,2018-02-07T17:06:56.000Z,What right does a gerrrymandered advisory referendum have to take away our rights as EU citizens? None in this court’s view. #StopBrexit2018 @BrExpatsEU @The3Million @BremainInSpain @BritishInEurope @nickreeves9876 #brexit https://t.co/2RC6QHBokw,"['brexit', 'stopbrexit2018']"
-138,138,138,119171,949017754442567680,35472161,negative,remain,2018-01-04T20:40:39.000Z,"If there EU tackled fundamental problems with the European project then #Brexit could be stopped
+131,131,131,131,131,131,192609,952472790782939136,891428135618707328,negative,remain,2018-01-14T09:29:44.000Z,"@rocciabella I have no party colour/vote, I'm against stupid and #Brexit is stupid. #StopBrexit2018","['brexit', 'stopbrexit2018']"
+132,132,132,132,132,132,739471,975454641734471680,896301798084030464,positive,leave,2018-03-18T19:31:24.000Z,@guyverhofstadt Together with common standards and goals Europe can do great things #StopBrexit2018 #Brexit https://t.co/FlSJ9fub3e,"['brexit', 'stopbrexit2018']"
+133,133,133,133,133,133,925662,984189163632300032,984077860385251200,negative,leave,2018-04-11T21:59:16.000Z,"@AndrewCHarries @VeroVero777 @Scroogeesq @Bournemouth4EU @LabourfutureUK @UKLabour Totally agree. I am sick of all the really ANGRY #Brexit men telling me what to think. The trouble for dictators, is that they get overthrown. Better though to sweep all those kippers back under the rug. #StopBrexit2018","['brexit', 'stopbrexit2018']"
+134,134,134,134,134,134,746902,975738618563252224,264236078,negative,remain,2018-03-19T14:19:49.000Z,#Brexit will harm the UK and millions of innocent citizens if we allow it to go ahead. Which is why we're going to #StopBrexit2018 https://t.co/QUhGGcKDmP,"['brexit', 'stopbrexit2018']"
+135,135,135,135,135,135,204974,953022949136699392,891428135618707328,negative,remain,2018-01-15T21:55:52.000Z,@apricotfox If I did not care I would leave them to be robbed blind by the govt and their #Brexit backing billionaires #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+136,136,136,136,136,136,449840,963347455868882944,164809116,positive,other,2018-02-13T09:41:46.000Z,@JoshRobertson97 @Gnarlbones Changing mind in face of facts is sign of an open flexible mind-welcome to the reality of #Brexit and help us #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+137,137,137,137,137,137,390194,961285161064325120,3315837778,neutral,other,2018-02-07T17:06:56.000Z,What right does a gerrrymandered advisory referendum have to take away our rights as EU citizens? None in this court’s view. #StopBrexit2018 @BrExpatsEU @The3Million @BremainInSpain @BritishInEurope @nickreeves9876 #brexit https://t.co/2RC6QHBokw,"['brexit', 'stopbrexit2018']"
+138,138,138,138,138,138,119171,949017754442567680,35472161,negative,remain,2018-01-04T20:40:39.000Z,"If there EU tackled fundamental problems with the European project then #Brexit could be stopped
 
 So let's do it!
 
 #StopBrexit2018
 
 https://t.co/mrMFvN1Q3J","['brexit', 'stopbrexit2018']"
-139,139,139,114063,948869050192580608,78835016,positive,other,2018-01-04T10:49:45.000Z,"Owen @OwenJones84, as one of the #StopBrexit2018 proponents, I really appreciate your insight &amp; agree we have to change tack and we are shifting (see recent meme below). If you, like me, believe that #Brexit won't fix Britain, but break it, pls assist us! https://t.co/UDospKoh3z https://t.co/yDVzap6eaf","['brexit', 'stopbrexit2018']"
-140,140,140,122305,949210988884131840,3398432139,neutral,other,2018-01-05T09:28:29.000Z,"Scrap #Brexit now, properly fund the NHS with the billions currently being used to shore up this Govt. 
+139,139,139,139,139,139,114063,948869050192580608,78835016,positive,other,2018-01-04T10:49:45.000Z,"Owen @OwenJones84, as one of the #StopBrexit2018 proponents, I really appreciate your insight &amp; agree we have to change tack and we are shifting (see recent meme below). If you, like me, believe that #Brexit won't fix Britain, but break it, pls assist us! https://t.co/UDospKoh3z https://t.co/yDVzap6eaf","['brexit', 'stopbrexit2018']"
+140,140,140,140,140,140,122305,949210988884131840,3398432139,neutral,other,2018-01-05T09:28:29.000Z,"Scrap #Brexit now, properly fund the NHS with the billions currently being used to shore up this Govt. 
 #StopBrexit2018","['brexit', 'stopbrexit2018']"
-141,141,141,244730,954870665320042496,189243309,positive,other,2018-01-21T00:18:01.000Z,"@ReasonCoffeeShp Good honest British voters who were hoodwinked into voting for #Brexit are realising it, are getting angry and doing what pragmatic voters do, changing their mind. Meanwhile Remain voters are sticking to their guns. 
+141,141,141,141,141,141,244730,954870665320042496,189243309,positive,other,2018-01-21T00:18:01.000Z,"@ReasonCoffeeShp Good honest British voters who were hoodwinked into voting for #Brexit are realising it, are getting angry and doing what pragmatic voters do, changing their mind. Meanwhile Remain voters are sticking to their guns. 
 Labour is finally catching up!
 We can #StopBrexit2018 together.","['brexit', 'stopbrexit2018']"
-142,142,142,171239,951436934487990272,383783212,negative,remain,2018-01-11T12:53:36.000Z,Can @davidattenburro make a programme called blue-with-gold-stars planet? Exposing the damage that small floating fragments of brexiters are doing to the country. #StopBrexit2018 #brexit. We might see some political change then.,"['brexit', 'stopbrexit2018']"
-143,143,143,242308,954708093136490496,891428135618707328,neutral,remain,2018-01-20T13:32:01.000Z,It still frustrates when peps want to frame #Brexit as a left/right issue - it clearly isn't. #StopBrexit2018 https://t.co/aZYhiuXO3R,"['brexit', 'stopbrexit2018']"
-144,144,144,249406,955133271964340224,50437768,positive,leave,2018-01-21T17:41:32.000Z,"Yes, please @EmmanuelMacron save us from our own government and #Brexit 
+142,142,142,142,142,142,171239,951436934487990272,383783212,negative,remain,2018-01-11T12:53:36.000Z,Can @davidattenburro make a programme called blue-with-gold-stars planet? Exposing the damage that small floating fragments of brexiters are doing to the country. #StopBrexit2018 #brexit. We might see some political change then.,"['brexit', 'stopbrexit2018']"
+143,143,143,143,143,143,242308,954708093136490496,891428135618707328,neutral,remain,2018-01-20T13:32:01.000Z,It still frustrates when peps want to frame #Brexit as a left/right issue - it clearly isn't. #StopBrexit2018 https://t.co/aZYhiuXO3R,"['brexit', 'stopbrexit2018']"
+144,144,144,144,144,144,249406,955133271964340224,50437768,positive,leave,2018-01-21T17:41:32.000Z,"Yes, please @EmmanuelMacron save us from our own government and #Brexit 
 
 #StopBrexit2018 https://t.co/F9cbQDaSW4","['brexit', 'stopbrexit2018']"
-145,145,145,142215,950321508248948736,792782917638455296,positive,other,2018-01-08T11:01:18.000Z,"Well, no #Brexit would be preferable to any kind of Brexit, actually @NicolaSturgeon #StopBrexit2018
+145,145,145,145,145,145,142215,950321508248948736,792782917638455296,positive,other,2018-01-08T11:01:18.000Z,"Well, no #Brexit would be preferable to any kind of Brexit, actually @NicolaSturgeon #StopBrexit2018
 https://t.co/WBty6w5fCT","['brexit', 'stopbrexit2018']"
-146,146,146,93996,947447359943962624,564524678,neutral,remain,2017-12-31T12:40:27.000Z,@BBCNews @theresa_may Oh no! She's still labouring under the delusion  that most people want #brexit. NO we don't. We want to #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-147,147,147,626764,970361275522998272,796460310462763008,negative,other,2018-03-04T18:12:11.000Z,"There are NO benefits to #Brexit 
+146,146,146,146,146,146,93996,947447359943962624,564524678,neutral,remain,2017-12-31T12:40:27.000Z,@BBCNews @theresa_may Oh no! She's still labouring under the delusion  that most people want #brexit. NO we don't. We want to #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+147,147,147,147,147,147,626764,970361275522998272,796460310462763008,negative,other,2018-03-04T18:12:11.000Z,"There are NO benefits to #Brexit 
 
 Nothing
 Nada
@@ -357,80 +357,80 @@ Zip
 NOTHING!
 
 #StopBrexit2018 https://t.co/8Ykai388eQ","['brexit', 'stopbrexit2018']"
-148,148,148,868281,980427812220948480,796460310462763008,neutral,other,2018-04-01T12:53:00.000Z,"Thanks Sue. 
+148,148,148,148,148,148,868281,980427812220948480,796460310462763008,neutral,other,2018-04-01T12:53:00.000Z,"Thanks Sue. 
 It's also worth remembering we live in the EU not because we are unpatriotic, but because it is a RIGHT for us to do so. 
 #Brexit threatens to take our rights &amp; livelihoods away.
 #StopBrexit2018 https://t.co/LnSXacflc2","['brexit', 'stopbrexit2018']"
-149,149,149,284673,957287877112721408,818910361944555520,negative,other,2018-01-27T16:23:10.000Z,The effect of a hard #Brexit on Cross Channel rail services #StopBrexit2018 https://t.co/1paFxA5TVH,"['brexit', 'stopbrexit2018']"
-150,150,150,162931,951152426731606016,910761535,negative,remain,2018-01-10T18:03:04.000Z,@benjamat10 @FactCheck Because of the widespread suggestion pre ref that immigrants were putting too much pressure on public services. That's why. #StopBrexit2018 #Brexit,"['brexit', 'stopbrexit2018']"
-151,151,151,127121,949424447341125632,20263955,neutral,other,2018-01-05T23:36:42.000Z,"Sadly it is like those who voted for Trump, saying ""oh but her emails"". So despite them saying the truth on #brexit, there are those who will not listen to @nickclegg and Tony Blair (@InstituteGC ). #StopBrexit2018 https://t.co/is7foN1ZXn","['brexit', 'stopbrexit2018']"
-152,152,152,1009578,988810938089385984,1205670361,neutral,leave,2018-04-24T16:04:33.000Z,"@Franklyaghost @JohnLaverty1953 @thatginamiller You really don’t understand democracy and sovereignty do you? #Brexit means transferring power from a democratic EU to a few Tories.
+149,149,149,149,149,149,284673,957287877112721408,818910361944555520,negative,other,2018-01-27T16:23:10.000Z,The effect of a hard #Brexit on Cross Channel rail services #StopBrexit2018 https://t.co/1paFxA5TVH,"['brexit', 'stopbrexit2018']"
+150,150,150,150,150,150,162931,951152426731606016,910761535,negative,remain,2018-01-10T18:03:04.000Z,@benjamat10 @FactCheck Because of the widespread suggestion pre ref that immigrants were putting too much pressure on public services. That's why. #StopBrexit2018 #Brexit,"['brexit', 'stopbrexit2018']"
+151,151,151,151,151,151,127121,949424447341125632,20263955,neutral,other,2018-01-05T23:36:42.000Z,"Sadly it is like those who voted for Trump, saying ""oh but her emails"". So despite them saying the truth on #brexit, there are those who will not listen to @nickclegg and Tony Blair (@InstituteGC ). #StopBrexit2018 https://t.co/is7foN1ZXn","['brexit', 'stopbrexit2018']"
+152,152,152,152,152,152,1009578,988810938089385984,1205670361,neutral,leave,2018-04-24T16:04:33.000Z,"@Franklyaghost @JohnLaverty1953 @thatginamiller You really don’t understand democracy and sovereignty do you? #Brexit means transferring power from a democratic EU to a few Tories.
 #StopBrexit2018","['brexit', 'stopbrexit2018']"
-153,153,153,148857,950643986510876672,792782917638455296,negative,remain,2018-01-09T08:22:43.000Z,"Well no, @Nigel_Farage - nobody with a modicum of intelligence and common sense understands #Brexit. It's utterly senseless. #StopBrexit2018
+153,153,153,153,153,153,148857,950643986510876672,792782917638455296,negative,remain,2018-01-09T08:22:43.000Z,"Well no, @Nigel_Farage - nobody with a modicum of intelligence and common sense understands #Brexit. It's utterly senseless. #StopBrexit2018
 
 https://t.co/TfnBu6xUX3","['brexit', 'stopbrexit2018']"
-154,154,154,276122,956836536678539264,1425210032,neutral,other,2018-01-26T10:29:42.000Z,"UK economy 'tens of billions weaker' owing to #brexit. Brexit impoverishes, EU enriches us. #StopBrexit2018 via.@Andrew_Adonis https://t.co/WSgp7BtqkY","['brexit', 'stopbrexit2018']"
-155,155,155,150957,950702339807236096,581177809,negative,remain,2018-01-09T12:14:35.000Z,"@mirrormirror007 The missing comma in the first sentence makes this a contradictory tweet. That said, I presume you favour #Brexit. I don’t. Bye. #StopBrexit2018","['brexit', 'stopbrexit2018']"
-156,156,156,272380,956275566285676544,106713128,negative,remain,2018-01-24T21:20:36.000Z,The architect of #Brexit is half right. It is a mistake. But he is wrong on the other half - it is a disaster. #StopBrexit2018 https://t.co/m6CNbIdauU,"['brexit', 'stopbrexit2018']"
-157,157,157,781201,977049541328490496,794810444,positive,other,2018-03-23T05:08:58.000Z,"It is clear now that foreign influence and inaccurate facts were highly influential on the electorate during the #Brexit referendum and therefore the result should be declared as null and void.
+154,154,154,154,154,154,276122,956836536678539264,1425210032,neutral,other,2018-01-26T10:29:42.000Z,"UK economy 'tens of billions weaker' owing to #brexit. Brexit impoverishes, EU enriches us. #StopBrexit2018 via.@Andrew_Adonis https://t.co/WSgp7BtqkY","['brexit', 'stopbrexit2018']"
+155,155,155,155,155,155,150957,950702339807236096,581177809,negative,remain,2018-01-09T12:14:35.000Z,"@mirrormirror007 The missing comma in the first sentence makes this a contradictory tweet. That said, I presume you favour #Brexit. I don’t. Bye. #StopBrexit2018","['brexit', 'stopbrexit2018']"
+156,156,156,156,156,156,272380,956275566285676544,106713128,negative,remain,2018-01-24T21:20:36.000Z,The architect of #Brexit is half right. It is a mistake. But he is wrong on the other half - it is a disaster. #StopBrexit2018 https://t.co/m6CNbIdauU,"['brexit', 'stopbrexit2018']"
+157,157,157,157,157,157,781201,977049541328490496,794810444,positive,other,2018-03-23T05:08:58.000Z,"It is clear now that foreign influence and inaccurate facts were highly influential on the electorate during the #Brexit referendum and therefore the result should be declared as null and void.
 
 Please sign and share this petition https://t.co/k49N2MxQw8
 
 #StopBrexit2018 https://t.co/yDsxlUjHP5","['brexit', 'stopbrexit2018']"
-158,158,158,322267,958619054079700992,164809116,negative,remain,2018-01-31T08:32:47.000Z,@LibDemLords Leadership? This act of self immolation that is #Brexit has to be stopped. The Tories cannot turn back-its now become not about fact&amp;reality but all about “face”... If it wasn’t clear before-surely the leaked assessment from the DeEXEU now does. #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-159,159,159,129075,949588463363510272,264236078,neutral,remain,2018-01-06T10:28:26.000Z,"Apparently, Trump @POTUS didn't know what #Brexit was 2 weeks before the referendum. Ah well - 18 months on, and @Theresa_may and millions of Leavers still don't understand what it means. #StopBrexit2018
+158,158,158,158,158,158,322267,958619054079700992,164809116,negative,remain,2018-01-31T08:32:47.000Z,@LibDemLords Leadership? This act of self immolation that is #Brexit has to be stopped. The Tories cannot turn back-its now become not about fact&amp;reality but all about “face”... If it wasn’t clear before-surely the leaked assessment from the DeEXEU now does. #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+159,159,159,159,159,159,129075,949588463363510272,264236078,neutral,remain,2018-01-06T10:28:26.000Z,"Apparently, Trump @POTUS didn't know what #Brexit was 2 weeks before the referendum. Ah well - 18 months on, and @Theresa_may and millions of Leavers still don't understand what it means. #StopBrexit2018
 
 https://t.co/wTgBzKqLhV","['brexit', 'stopbrexit2018']"
-160,160,160,193557,952496283641630720,4895565605,positive,remain,2018-01-14T11:03:05.000Z,"UK's largest export market, taking more than 40% of our exports, is GROWING and is next door. #Brexit is economically stupid.
+160,160,160,160,160,160,193557,952496283641630720,4895565605,positive,remain,2018-01-14T11:03:05.000Z,"UK's largest export market, taking more than 40% of our exports, is GROWING and is next door. #Brexit is economically stupid.
 #StopBrexit2018 https://t.co/gQGAAuJFG3","['brexit', 'stopbrexit2018']"
-161,161,161,875552,980873275432632320,417320141,negative,remain,2018-04-02T18:23:07.000Z,"Ship of Fools, the Enduring Metaphor (for #Brexit)  #StopBrexit2018 https://t.co/G1sF1yOheH","['brexit', 'stopbrexit2018']"
-162,162,162,315122,958350384837181440,19078105,neutral,remain,2018-01-30T14:45:11.000Z,@tnewtondunn Baker demolished nothing except whatever remained of his own reputation. Everyone is clear that #Brexit is makes no economic sense at all. #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-163,163,163,742949,975663544644587520,164809116,positive,leave,2018-03-19T09:21:30.000Z,@PeterHain @alan_matts @OwenSmith_MP @ConorMcGinn @BrIreCham @Open_Britain @LabourLordsUK @BelTel Another #Brexit dividend?? There’s an easy answer just get JC by the ear-tell him it’s 2018 not 1980-and to cease the”will of the people is ever unchangeable”  rubbish &amp; “EU membership prevents U.K. introducing true socialist Governance” #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-164,164,164,95892,947503501583814656,858746839532752896,negative,remain,2017-12-31T16:23:33.000Z,@mcnally_bucky @Rachael_Swindon @BecauseOfTories It's this 'Will of the people' nonsense that gets me. It's nothing more than a get out clause for the brexit loving politicians. When #Brexit fails they will blame the Leave voters and get off scot-free. All the more reason to #StopBrexit2018,"['brexit', 'stopbrexit2018']"
-165,165,165,917219,983702084473245696,204749879,negative,other,2018-04-10T13:43:47.000Z,"@YouEngage The constant peddling of myths &amp; fantasies about Brexit's ""benefits"", &amp; the demonisation of immigrants &amp; Muslims, is gutter politics at its worst, &amp; those who used such racist &amp; fascistic tactics to steal the referendum should hang their heads in shame.
+161,161,161,161,161,161,875552,980873275432632320,417320141,negative,remain,2018-04-02T18:23:07.000Z,"Ship of Fools, the Enduring Metaphor (for #Brexit)  #StopBrexit2018 https://t.co/G1sF1yOheH","['brexit', 'stopbrexit2018']"
+162,162,162,162,162,162,315122,958350384837181440,19078105,neutral,remain,2018-01-30T14:45:11.000Z,@tnewtondunn Baker demolished nothing except whatever remained of his own reputation. Everyone is clear that #Brexit is makes no economic sense at all. #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+163,163,163,163,163,163,742949,975663544644587520,164809116,positive,leave,2018-03-19T09:21:30.000Z,@PeterHain @alan_matts @OwenSmith_MP @ConorMcGinn @BrIreCham @Open_Britain @LabourLordsUK @BelTel Another #Brexit dividend?? There’s an easy answer just get JC by the ear-tell him it’s 2018 not 1980-and to cease the”will of the people is ever unchangeable”  rubbish &amp; “EU membership prevents U.K. introducing true socialist Governance” #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+164,164,164,164,164,164,95892,947503501583814656,858746839532752896,negative,remain,2017-12-31T16:23:33.000Z,@mcnally_bucky @Rachael_Swindon @BecauseOfTories It's this 'Will of the people' nonsense that gets me. It's nothing more than a get out clause for the brexit loving politicians. When #Brexit fails they will blame the Leave voters and get off scot-free. All the more reason to #StopBrexit2018,"['brexit', 'stopbrexit2018']"
+165,165,165,165,165,165,917219,983702084473245696,204749879,negative,other,2018-04-10T13:43:47.000Z,"@YouEngage The constant peddling of myths &amp; fantasies about Brexit's ""benefits"", &amp; the demonisation of immigrants &amp; Muslims, is gutter politics at its worst, &amp; those who used such racist &amp; fascistic tactics to steal the referendum should hang their heads in shame.
 #Brexit #StopBrexit2018","['brexit', 'stopbrexit2018']"
-166,166,166,371211,960545880666525696,19078105,positive,other,2018-02-05T16:09:18.000Z,"@thomasbrake Too late! The 21% need to start process of moving their EEA-facing operations now if they want to fully de-risk #Brexit impact. Seem not to realise they're already competing for talent, space and other resources in alternative locations... This is why UK must #StopBrexit2018","['brexit', 'stopbrexit2018']"
-167,167,167,286021,957362238368702464,745340495166119808,neutral,leave,2018-01-27T21:18:39.000Z,"@GarethThomasMP @Number10gov @SDoughtyMP @alunmichael @Peymasad @gavinshuker @MikeGapes @gdh1961 The thing is, we already have the best relationship we can have with the EU. Labour should start opposing this madness called #Brexit #StopBrexit2018","['brexit', 'stopbrexit2018']"
-168,168,168,222559,953708822413172736,35472161,negative,other,2018-01-17T19:21:16.000Z,"Facebook has bowed to pressure from MPs and said it will deepen its investigation into whether Russian agents used the platform to spread fake news in the hope of influencing the #Brexit vote.
+166,166,166,166,166,166,371211,960545880666525696,19078105,positive,other,2018-02-05T16:09:18.000Z,"@thomasbrake Too late! The 21% need to start process of moving their EEA-facing operations now if they want to fully de-risk #Brexit impact. Seem not to realise they're already competing for talent, space and other resources in alternative locations... This is why UK must #StopBrexit2018","['brexit', 'stopbrexit2018']"
+167,167,167,167,167,167,286021,957362238368702464,745340495166119808,neutral,leave,2018-01-27T21:18:39.000Z,"@GarethThomasMP @Number10gov @SDoughtyMP @alunmichael @Peymasad @gavinshuker @MikeGapes @gdh1961 The thing is, we already have the best relationship we can have with the EU. Labour should start opposing this madness called #Brexit #StopBrexit2018","['brexit', 'stopbrexit2018']"
+168,168,168,168,168,168,222559,953708822413172736,35472161,negative,other,2018-01-17T19:21:16.000Z,"Facebook has bowed to pressure from MPs and said it will deepen its investigation into whether Russian agents used the platform to spread fake news in the hope of influencing the #Brexit vote.
 
 #StopBrexit2018
 
 https://t.co/yzJgVjk4m1","['brexit', 'stopbrexit2018']"
-169,169,169,96497,947520153704640512,17731966,positive,other,2017-12-31T17:29:43.000Z,"Adonis deserves our support, wholehearted and unreserved, as he battles #Brexit. He has my admiration for the stand he has taken and my best wishes as we #StopBrexit2018 https://t.co/8wTZ3vJAPk","['brexit', 'stopbrexit2018']"
-170,170,170,94254,947454748390764544,564524678,neutral,other,2017-12-31T13:09:49.000Z,@jeremycorbyn And #Brexit ?  Will you #StopBrexit2018 ?,"['brexit', 'stopbrexit2018']"
-171,171,171,728358,974773320171352064,32470361,neutral,other,2018-03-16T22:24:04.000Z,This has got to be retweeted 😂 #StopBrexit2018 #brexit https://t.co/Xx6VIMHWFy,"['brexit', 'stopbrexit2018']"
-172,172,172,212473,953307500014600192,54636563,positive,other,2018-01-16T16:46:34.000Z,@dannymcgrory67 @Hepworthclare @theSNP I agree. #StopBrexit2018 is my absolute No1 priority. All else can be discussed by the grown ups who secured the future by getting #Brexit stopped. Scotland could then debate independence from a position of European comfort.,"['brexit', 'stopbrexit2018']"
-173,173,173,96843,947528837344190464,141141836,positive,other,2017-12-31T18:04:13.000Z,"Dear .@DavidDavidMP
+169,169,169,169,169,169,96497,947520153704640512,17731966,positive,other,2017-12-31T17:29:43.000Z,"Adonis deserves our support, wholehearted and unreserved, as he battles #Brexit. He has my admiration for the stand he has taken and my best wishes as we #StopBrexit2018 https://t.co/8wTZ3vJAPk","['brexit', 'stopbrexit2018']"
+170,170,170,170,170,170,94254,947454748390764544,564524678,neutral,other,2017-12-31T13:09:49.000Z,@jeremycorbyn And #Brexit ?  Will you #StopBrexit2018 ?,"['brexit', 'stopbrexit2018']"
+171,171,171,171,171,171,728358,974773320171352064,32470361,neutral,other,2018-03-16T22:24:04.000Z,This has got to be retweeted 😂 #StopBrexit2018 #brexit https://t.co/Xx6VIMHWFy,"['brexit', 'stopbrexit2018']"
+172,172,172,172,172,172,212473,953307500014600192,54636563,positive,other,2018-01-16T16:46:34.000Z,@dannymcgrory67 @Hepworthclare @theSNP I agree. #StopBrexit2018 is my absolute No1 priority. All else can be discussed by the grown ups who secured the future by getting #Brexit stopped. Scotland could then debate independence from a position of European comfort.,"['brexit', 'stopbrexit2018']"
+173,173,173,173,173,173,96843,947528837344190464,141141836,positive,other,2017-12-31T18:04:13.000Z,"Dear .@DavidDavidMP
 I've read an .@MailOnline article that has given me hope you've finally seen the light on the harmfulness of #Brexit to the National Interest. I call on you to muster the courage to be truthful about #Brexit risks &amp; to call the whole thing off. #StopBrexit2018 https://t.co/z3YJu1TLOZ","['brexit', 'stopbrexit2018']"
-174,174,174,366660,960430801103081472,186764685,neutral,other,2018-02-05T08:32:01.000Z,"Bravo
+174,174,174,174,174,174,366660,960430801103081472,186764685,neutral,other,2018-02-05T08:32:01.000Z,"Bravo
 
 I can’t wait til we can say the same of #Brexit madness
 
 #StopBrexit2018 https://t.co/9IdtQ0Ydja","['brexit', 'stopbrexit2018']"
-175,175,175,557576,967855825422356480,1141956350,negative,other,2018-02-25T20:16:25.000Z,"@PWilliamsTBF @SKinnock Correction: 36% of the UK voted to leave the EU. Now it's about 30% and falling. #Brexit is over. Get used to it.
+175,175,175,175,175,175,557576,967855825422356480,1141956350,negative,other,2018-02-25T20:16:25.000Z,"@PWilliamsTBF @SKinnock Correction: 36% of the UK voted to leave the EU. Now it's about 30% and falling. #Brexit is over. Get used to it.
 
 #StopBrexit2018","['brexit', 'stopbrexit2018']"
-176,176,176,875265,980856596535365632,140878115,negative,remain,2018-04-02T17:16:50.000Z,"Every day #Brexit goes from bad to worse to worser!   Hormones in beef and chlorine washed chickens.   Get your act together @LiamFox #StopBrexit2018 
+176,176,176,176,176,176,875265,980856596535365632,140878115,negative,remain,2018-04-02T17:16:50.000Z,"Every day #Brexit goes from bad to worse to worser!   Hormones in beef and chlorine washed chickens.   Get your act together @LiamFox #StopBrexit2018 
 https://t.co/LS7OoqTJw8","['brexit', 'stopbrexit2018']"
-177,177,177,325989,958709060538257408,417320141,negative,remain,2018-01-31T14:30:26.000Z,"This #Brexit cult idiocy is as if the country has been kidnapped by inept coked-up gangsters, shoved into an Austin Allegro, the getaway driver's Stevie Wonder and he's feeling lucky. #StopBrexit2018","['brexit', 'stopbrexit2018']"
-178,178,178,252242,955354110982836224,19233522,neutral,other,2018-01-22T08:19:04.000Z,*You cannot end austerity and proceed with #Brexit* @jeremycorbyn #StopBrexit2018 https://t.co/Peoc9Bt1fu,"['brexit', 'stopbrexit2018']"
-179,179,179,353325,959757708663681024,891428135618707328,positive,remain,2018-02-03T11:57:23.000Z,If we #Brexit the Govt will lose all incentive to do something about air quality ... #StopBrexit2018 https://t.co/Y9rAYuCdQa,"['brexit', 'stopbrexit2018']"
-180,180,180,107228,948344359195471872,62563458,neutral,other,2018-01-03T00:04:49.000Z,"@hardworkingword Would make no difference.  @jeremycorbyn backs her every time &amp; forces his MPs to do the same. Corbyn is working with May to deliver Farage’s #Brexit, irrespective of the ‘will of the people’. #StopBrexit. #FBPE #StopBrexit2018","['brexit', 'stopbrexit2018', 'fbpe', 'stopbrexit']"
-181,181,181,891951,982187709803315200,351841737,negative,remain,2018-04-06T09:26:12.000Z,"Bad geopolitical timing for Brexit (Rusia, Trump, China) , see https://t.co/Wh44rT54m0
+177,177,177,177,177,177,325989,958709060538257408,417320141,negative,remain,2018-01-31T14:30:26.000Z,"This #Brexit cult idiocy is as if the country has been kidnapped by inept coked-up gangsters, shoved into an Austin Allegro, the getaway driver's Stevie Wonder and he's feeling lucky. #StopBrexit2018","['brexit', 'stopbrexit2018']"
+178,178,178,178,178,178,252242,955354110982836224,19233522,neutral,other,2018-01-22T08:19:04.000Z,*You cannot end austerity and proceed with #Brexit* @jeremycorbyn #StopBrexit2018 https://t.co/Peoc9Bt1fu,"['brexit', 'stopbrexit2018']"
+179,179,179,179,179,179,353325,959757708663681024,891428135618707328,positive,remain,2018-02-03T11:57:23.000Z,If we #Brexit the Govt will lose all incentive to do something about air quality ... #StopBrexit2018 https://t.co/Y9rAYuCdQa,"['brexit', 'stopbrexit2018']"
+180,180,180,180,180,180,107228,948344359195471872,62563458,neutral,other,2018-01-03T00:04:49.000Z,"@hardworkingword Would make no difference.  @jeremycorbyn backs her every time &amp; forces his MPs to do the same. Corbyn is working with May to deliver Farage’s #Brexit, irrespective of the ‘will of the people’. #StopBrexit. #FBPE #StopBrexit2018","['brexit', 'stopbrexit2018', 'fbpe', 'stopbrexit']"
+181,181,181,181,181,181,891951,982187709803315200,351841737,negative,remain,2018-04-06T09:26:12.000Z,"Bad geopolitical timing for Brexit (Rusia, Trump, China) , see https://t.co/Wh44rT54m0
 Worst posible time for the NHS (pressure, funding, eu workforce), see https://t.co/Bo1zmiHqTS
 
 #brexit is the #perfectstorm
 
 #StopBrexit2018 #Brexit https://t.co/p2FTu0szev","['brexit', 'stopbrexit2018', 'perfectstorm', 'brexit']"
-182,182,182,153795,950793004138291200,250320154,negative,remain,2018-01-09T18:14:51.000Z,Well done everybody. This is how we'll #stopbrexit2018 - expose it for what it is. #TobyYoung resigns from university regulator - BBC News https://t.co/gVQTf115Iz #brexit,"['brexit', 'stopbrexit2018', 'tobyyoung']"
-183,183,183,628288,970431751867785216,95926754,negative,remain,2018-03-04T22:52:14.000Z,"Stop this ridiculous #Brexit, please... #StopBrexit2018 #StopBrexitSaveBritain https://t.co/wt8DLVo85w","['brexit', 'stopbrexitsavebritain', 'stopbrexit2018']"
-184,184,184,731518,975008019581980672,2650194375,negative,remain,2018-03-17T13:56:41.000Z,#StopBrexit2018 #BrexitShambles  #Toriesout #Labour  #FBPE  labour have lost my vote. To #Brexit  for me...change or history will judge you harshly Mr Corbyn... https://t.co/9xmxRFqe6t,"['brexit', 'toriesout', 'fbpe', 'labour', 'stopbrexit2018', 'brexitshambles']"
-185,185,185,199337,952821546883715072,2601559130,positive,remain,2018-01-15T08:35:34.000Z,"Looking forward to seeing @SadiqKhan as PM. Meanwhile, he's done @DavidDavisMP's job for him. You can see why #Brexiteers didn't want #Brexit facts getting out.
+182,182,182,182,182,182,153795,950793004138291200,250320154,negative,remain,2018-01-09T18:14:51.000Z,Well done everybody. This is how we'll #stopbrexit2018 - expose it for what it is. #TobyYoung resigns from university regulator - BBC News https://t.co/gVQTf115Iz #brexit,"['brexit', 'stopbrexit2018', 'tobyyoung']"
+183,183,183,183,183,183,628288,970431751867785216,95926754,negative,remain,2018-03-04T22:52:14.000Z,"Stop this ridiculous #Brexit, please... #StopBrexit2018 #StopBrexitSaveBritain https://t.co/wt8DLVo85w","['brexit', 'stopbrexitsavebritain', 'stopbrexit2018']"
+184,184,184,184,184,184,731518,975008019581980672,2650194375,negative,remain,2018-03-17T13:56:41.000Z,#StopBrexit2018 #BrexitShambles  #Toriesout #Labour  #FBPE  labour have lost my vote. To #Brexit  for me...change or history will judge you harshly Mr Corbyn... https://t.co/9xmxRFqe6t,"['brexit', 'toriesout', 'fbpe', 'labour', 'stopbrexit2018', 'brexitshambles']"
+185,185,185,185,185,185,199337,952821546883715072,2601559130,positive,remain,2018-01-15T08:35:34.000Z,"Looking forward to seeing @SadiqKhan as PM. Meanwhile, he's done @DavidDavisMP's job for him. You can see why #Brexiteers didn't want #Brexit facts getting out.
 But they have. And no surprise, #uk #Leave of #EU will be very very bad.
 #StopBrexit2018 to save UK. https://t.co/xzp4YqQgbK","['brexit', 'uk', 'leave', 'eu', 'brexiteers', 'stopbrexit2018']"
-186,186,186,142862,950339968995594240,1676722236,neutral,leave,2018-01-08T12:14:39.000Z,If she wants a #Brexit deal that works for #UK then that means #StopBrexit2018 https://t.co/pGbBHY9CAN,"['brexit', 'uk', 'stopbrexit2018']"
-187,187,187,132551,949770509805391872,19078105,neutral,other,2018-01-06T22:31:50.000Z,@sxybio Isn’t the bigger issue how many UK academics need access to EEA institutions/funding and how they act to preserve that by somehow ‘migrating’ their role to institutions based in the EU27? #education #universities #Brexit #StopBrexit2018,"['brexit', 'universities', 'education', 'stopbrexit2018']"
-188,188,188,196470,952615657023197184,331084681,positive,remain,2018-01-14T18:57:26.000Z,"Colleague: How do you feel about #Brexit ?
+186,186,186,186,186,186,142862,950339968995594240,1676722236,neutral,leave,2018-01-08T12:14:39.000Z,If she wants a #Brexit deal that works for #UK then that means #StopBrexit2018 https://t.co/pGbBHY9CAN,"['brexit', 'uk', 'stopbrexit2018']"
+187,187,187,187,187,187,132551,949770509805391872,19078105,neutral,other,2018-01-06T22:31:50.000Z,@sxybio Isn’t the bigger issue how many UK academics need access to EEA institutions/funding and how they act to preserve that by somehow ‘migrating’ their role to institutions based in the EU27? #education #universities #Brexit #StopBrexit2018,"['brexit', 'universities', 'education', 'stopbrexit2018']"
+188,188,188,188,188,188,196470,952615657023197184,331084681,positive,remain,2018-01-14T18:57:26.000Z,"Colleague: How do you feel about #Brexit ?
 Me: You mean the biggest and most pointless act of self-harm in national history? 
 Colleague: Yeah. That.
 Me: I try my best to stay objective.
@@ -438,30 +438,30 @@ Me: I try my best to stay objective.
 #WATON
 #ABTV 
 #StopBrexit2018","['brexit', 'waton', 'abtv', 'stopbrexit2018']"
-189,189,189,262895,955833071495995392,319619581,negative,other,2018-01-23T16:02:17.000Z,"@JulieLeyGibbs @InstituteGC .@jeremycorbyn seems to have his own protection squad focussed on anyone who criticises him on social media. The same squad focuses on Labour MPs, MEP's as well as prominent figures such as Tony Blair. They know he's a threat to Corbyn's authority. #Brexit #WATON #StopBrexit2018","['brexit', 'waton', 'stopbrexit2018']"
-190,190,190,246746,955021639934267392,164809116,positive,other,2018-01-21T10:17:57.000Z,@pestononsunday For goodness sake-you can’t let Truss get away with this lie that membership of customs union &amp; single market prevents trade deals outside EU!!!  #Brexit #WATON #StopBrexit2018,"['brexit', 'waton', 'stopbrexit2018']"
-191,191,191,477014,964389043663327232,32420584,negative,other,2018-02-16T06:40:40.000Z,So many real examples of what's wrong with #Brexit #WATON #StopBrexit2018 https://t.co/febXP7u0ad,"['brexit', 'waton', 'stopbrexit2018']"
-192,192,192,265831,956052924408451072,792782917638455296,positive,other,2018-01-24T06:35:54.000Z,"Airlines are ""flying blind"" thanks to #Brexit - @vincecable 
+189,189,189,189,189,189,262895,955833071495995392,319619581,negative,other,2018-01-23T16:02:17.000Z,"@JulieLeyGibbs @InstituteGC .@jeremycorbyn seems to have his own protection squad focussed on anyone who criticises him on social media. The same squad focuses on Labour MPs, MEP's as well as prominent figures such as Tony Blair. They know he's a threat to Corbyn's authority. #Brexit #WATON #StopBrexit2018","['brexit', 'waton', 'stopbrexit2018']"
+190,190,190,190,190,190,246746,955021639934267392,164809116,positive,other,2018-01-21T10:17:57.000Z,@pestononsunday For goodness sake-you can’t let Truss get away with this lie that membership of customs union &amp; single market prevents trade deals outside EU!!!  #Brexit #WATON #StopBrexit2018,"['brexit', 'waton', 'stopbrexit2018']"
+191,191,191,191,191,191,477014,964389043663327232,32420584,negative,other,2018-02-16T06:40:40.000Z,So many real examples of what's wrong with #Brexit #WATON #StopBrexit2018 https://t.co/febXP7u0ad,"['brexit', 'waton', 'stopbrexit2018']"
+192,192,192,192,192,192,265831,956052924408451072,792782917638455296,positive,other,2018-01-24T06:35:54.000Z,"Airlines are ""flying blind"" thanks to #Brexit - @vincecable 
 #StopBrexit2018 #WATON
 https://t.co/crWM1GGDyU","['brexit', 'waton', 'stopbrexit2018']"
-193,193,193,477018,964389608082436096,32420584,negative,other,2018-02-16T06:42:54.000Z,...and yet another example #Brexit damages international business and is affecting real people #StopBrexit2018 #WATON https://t.co/eNGHbZExgs,"['brexit', 'waton', 'stopbrexit2018']"
-194,194,194,111661,948617301158326272,3233925233,negative,remain,2018-01-03T18:09:23.000Z,"@jeremycorbyn @UKLabour @theresa_may @Jeremy_Hunt Patients and those who work in the NHS deserve more than your vapid sloganising about ""a #Brexit that works for the many, not the few"",  that's for sure.  Any colour of Brexit will cause irreparable harm. Get off the fence and fight for the NHS.
+193,193,193,193,193,193,477018,964389608082436096,32420584,negative,other,2018-02-16T06:42:54.000Z,...and yet another example #Brexit damages international business and is affecting real people #StopBrexit2018 #WATON https://t.co/eNGHbZExgs,"['brexit', 'waton', 'stopbrexit2018']"
+194,194,194,194,194,194,111661,948617301158326272,3233925233,negative,remain,2018-01-03T18:09:23.000Z,"@jeremycorbyn @UKLabour @theresa_may @Jeremy_Hunt Patients and those who work in the NHS deserve more than your vapid sloganising about ""a #Brexit that works for the many, not the few"",  that's for sure.  Any colour of Brexit will cause irreparable harm. Get off the fence and fight for the NHS.
 
 #StopBrexit2018 #WednesdayWisdom","['brexit', 'wednesdaywisdom', 'stopbrexit2018']"
-195,195,195,98539,947598845856370688,844890881798889472,positive,remain,2017-12-31T22:42:25.000Z,"Getting a bit closer to saying 'bye to 2017 and saying hello to a year that will hopefully put an end to all of the #Brexit-mess, the #InLimbo status for so many ...
+195,195,195,195,195,195,98539,947598845856370688,844890881798889472,positive,remain,2017-12-31T22:42:25.000Z,"Getting a bit closer to saying 'bye to 2017 and saying hello to a year that will hopefully put an end to all of the #Brexit-mess, the #InLimbo status for so many ...
 
 Happy New Year! 🥂🎇🎆🥂
 
 #StopBrexit2018 https://t.co/FHDguCK59V","['brexit-mess', 'inlimbo', 'stopbrexit2018']"
-196,196,196,109605,948513679439482880,747380400226508800,negative,remain,2018-01-03T11:17:38.000Z,"Where IS @jeremycorbyn  in all this - let alone the biggest crime of our times - #Brexit?
+196,196,196,196,196,196,109605,948513679439482880,747380400226508800,negative,remain,2018-01-03T11:17:38.000Z,"Where IS @jeremycorbyn  in all this - let alone the biggest crime of our times - #Brexit?
 Nowhere. He's a disgrace to the term ""Leader of the Opposition"" on both counts... ""Leader"" &amp; ""Opposition"".
 #FBPE
 #StopBrexit2018 
 @mrjamesob @krishgm @faisalislam @BBCNews https://t.co/mIKKcr92xQ","['brexit?', 'fbpe', 'stopbrexit2018']"
-197,197,197,856469,979706749451153408,796460310462763008,negative,remain,2018-03-30T13:07:45.000Z,"@CllrBSilvester Why are you flying our flag upside down?
+197,197,197,197,197,197,856469,979706749451153408,796460310462763008,negative,remain,2018-03-30T13:07:45.000Z,"@CllrBSilvester Why are you flying our flag upside down?
 Is it your way of saying the UK will be imperilled by #Brexit?
 Nice touch with the wheelie bins....Says everything about the chaos you want to impose on us.
 
 #StopBrexit2018","['brexit?', 'stopbrexit2018']"
-198,198,198,981303,987238665368887296,832342008157052928,positive,leave,2018-04-20T07:56:54.000Z,Does no one @BBCr4today @BBCNews keep up to date with what makes news on the continent? 👇here’s a good story for you. Remember it probably wouldn’t have happened if not for BREXIT! #StopBrexit2018 #BrexitBetraysBritain https://t.co/PXq6sRiQdy,"['brexitbetraysbritain', 'stopbrexit2018']"
-199,199,199,252362,955372303407370240,820708631532466048,positive,remain,2018-01-22T09:31:21.000Z,@originaldbailey @Pete_Knight_ @DancingTheMind @doctor_oxford @drphilhammond @PeterStefanovi2 Support the NHS on 3rd Feb - cannot have Brexit and the NHS 'cos #BrexitbreaksBritain #StopBrexit2018. https://t.co/y1iu2OeNo1,"['brexitbreaksbritain', 'stopbrexit2018']"
+198,198,198,198,198,198,981303,987238665368887296,832342008157052928,positive,leave,2018-04-20T07:56:54.000Z,Does no one @BBCr4today @BBCNews keep up to date with what makes news on the continent? 👇here’s a good story for you. Remember it probably wouldn’t have happened if not for BREXIT! #StopBrexit2018 #BrexitBetraysBritain https://t.co/PXq6sRiQdy,"['brexitbetraysbritain', 'stopbrexit2018']"
+199,199,199,199,199,199,252362,955372303407370240,820708631532466048,positive,remain,2018-01-22T09:31:21.000Z,@originaldbailey @Pete_Knight_ @DancingTheMind @doctor_oxford @drphilhammond @PeterStefanovi2 Support the NHS on 3rd Feb - cannot have Brexit and the NHS 'cos #BrexitbreaksBritain #StopBrexit2018. https://t.co/y1iu2OeNo1,"['brexitbreaksbritain', 'stopbrexit2018']"

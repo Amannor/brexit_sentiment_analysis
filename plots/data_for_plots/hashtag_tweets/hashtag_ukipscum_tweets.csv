@@ -1,5 +1,5 @@
-,Unnamed: 0,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,2447652,746729730485981184,171877288,neutral,other,2016-06-25T15:40:15.000Z,BYE UKIP OFF YOU GO. Ta ta. Au revoir. Laters. #Brexit #ukipscum https://t.co/j0cT3kuEgy,"['brexit', 'ukipscum']"
-1,1932710,762036751934300160,262780982,neutral,other,2016-08-06T21:24:54.000Z,Watching @C4Gogglebox Brexit #michaels mother typical reaction to Farage getting a grilling #UKIPScum,"['ukipscum', 'michaels']"
-2,274588,787051473863598080,770680073053671424,negative,other,2016-10-14T22:04:28.000Z,The Stooges - No Fun https://t.co/1BakLnJcFM via @YouTube #we_have_brexit #UKIP_scum #BBC_children,"['we_have_brexit', 'ukipscum', 'bbc_children']"
-3,272665,824649765908598784,1595883193,negative,leave,2017-01-26T16:06:40.000Z,"@baggiedave70 @bbckamal that's as silly and pompous as ""fog in channel. Continent cut off!"" Headline years back. #Brexit #ukipscum #UK","['brexit', 'uk', 'ukipscum']"
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,0,0,2447652,746729730485981184,171877288,neutral,other,2016-06-25T15:40:15.000Z,BYE UKIP OFF YOU GO. Ta ta. Au revoir. Laters. #Brexit #ukipscum https://t.co/j0cT3kuEgy,"['brexit', 'ukipscum']"
+1,1,1,1,1,1932710,762036751934300160,262780982,neutral,other,2016-08-06T21:24:54.000Z,Watching @C4Gogglebox Brexit #michaels mother typical reaction to Farage getting a grilling #UKIPScum,"['ukipscum', 'michaels']"
+2,2,2,2,2,274588,787051473863598080,770680073053671424,negative,other,2016-10-14T22:04:28.000Z,The Stooges - No Fun https://t.co/1BakLnJcFM via @YouTube #we_have_brexit #UKIP_scum #BBC_children,"['we_have_brexit', 'ukipscum', 'bbc_children']"
+3,3,3,3,3,272665,824649765908598784,1595883193,negative,leave,2017-01-26T16:06:40.000Z,"@baggiedave70 @bbckamal that's as silly and pompous as ""fog in channel. Continent cut off!"" Headline years back. #Brexit #ukipscum #UK","['brexit', 'uk', 'ukipscum']"

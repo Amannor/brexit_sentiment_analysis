@@ -1,246 +1,246 @@
-,Unnamed: 0,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,1140121,743022450766712832,850972862,neutral,other,2016-06-15T10:08:51.000Z,https://t.co/QVCbHPnvg4 #Brexit #fishingforleave#eatmorefish,"['brexit', 'eatmorefish', 'fishingforleave']"
-1,1146507,743056790359793664,23799381,positive,leave,2016-06-15T12:25:18.000Z,Respect to you. #FishingForLeave #BRexit #EUref https://t.co/gJFhhhS245,"['brexit', 'euref', 'fishingforleave']"
-2,1140393,743053952397287424,31178944,negative,other,2016-06-15T12:14:02.000Z,Battle of The Thames: Remain activists risk safety with protest at Farage Brexit flotilla https://t.co/wS6QYolgLs #fishingforleave #Brexit,"['brexit', 'fishingforleave']"
-3,1436348,745557384588754944,2292678794,negative,leave,2016-06-22T10:01:46.000Z,@SkyNews #FishingForLeave #Brexit take back control from the failing EU,"['brexit', 'fishingforleave']"
-4,1137392,743009134933647360,140222976,neutral,other,2016-06-15T09:15:56.000Z,A flotilla of trawlers piloted pro-#Brexit fishermen with Farage on board is moving down the Thames #FishingForLeave https://t.co/fLTN44RKSU,"['brexit', 'fishingforleave']"
-5,1152061,743096358752653312,367999975,negative,other,2016-06-15T15:02:32.000Z,Battle of the Thames: Is this what Bob Geldof thinks of British fishermen's EU protest? https://t.co/nY18BbWFip #fishingforleave #Brexit,"['brexit', 'fishingforleave']"
-6,1180778,743354705594613760,123553298,negative,other,2016-06-16T08:09:07.000Z,"Watch our recap video of the Battle of the Thames (with subtitles) here: https://t.co/cY7ctf4hLA
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,0,0,1140121,743022450766712832,850972862,neutral,other,2016-06-15T10:08:51.000Z,https://t.co/QVCbHPnvg4 #Brexit #fishingforleave#eatmorefish,"['brexit', 'eatmorefish', 'fishingforleave']"
+1,1,1,1,1,1146507,743056790359793664,23799381,positive,leave,2016-06-15T12:25:18.000Z,Respect to you. #FishingForLeave #BRexit #EUref https://t.co/gJFhhhS245,"['brexit', 'euref', 'fishingforleave']"
+2,2,2,2,2,1140393,743053952397287424,31178944,negative,other,2016-06-15T12:14:02.000Z,Battle of The Thames: Remain activists risk safety with protest at Farage Brexit flotilla https://t.co/wS6QYolgLs #fishingforleave #Brexit,"['brexit', 'fishingforleave']"
+3,3,3,3,3,1436348,745557384588754944,2292678794,negative,leave,2016-06-22T10:01:46.000Z,@SkyNews #FishingForLeave #Brexit take back control from the failing EU,"['brexit', 'fishingforleave']"
+4,4,4,4,4,1137392,743009134933647360,140222976,neutral,other,2016-06-15T09:15:56.000Z,A flotilla of trawlers piloted pro-#Brexit fishermen with Farage on board is moving down the Thames #FishingForLeave https://t.co/fLTN44RKSU,"['brexit', 'fishingforleave']"
+5,5,5,5,5,1152061,743096358752653312,367999975,negative,other,2016-06-15T15:02:32.000Z,Battle of the Thames: Is this what Bob Geldof thinks of British fishermen's EU protest? https://t.co/nY18BbWFip #fishingforleave #Brexit,"['brexit', 'fishingforleave']"
+6,6,6,6,6,1180778,743354705594613760,123553298,negative,other,2016-06-16T08:09:07.000Z,"Watch our recap video of the Battle of the Thames (with subtitles) here: https://t.co/cY7ctf4hLA
 
 #fishingforleave | #Brexit","['brexit', 'fishingforleave']"
-7,1134611,742994142133944320,2349395607,neutral,other,2016-06-15T08:16:22.000Z,https://t.co/JiUkf7gJlX Carhelmar BM23 sailing up the Thames #fishingforleave #Brexit @BBCRadio2 @BBCBreaking ⚓️,"['brexit', 'fishingforleave']"
-8,1145814,743052973132120064,2341268312,negative,leave,2016-06-15T12:10:08.000Z,@PhilTomkinson Geldof is against #Brexit and #fishingforleave it's the remainers who are desperate,"['brexit', 'fishingforleave']"
-9,1180876,743355187364933632,123553298,negative,other,2016-06-16T08:11:02.000Z,"@RaheemKassam Watch our recap video of the Battle of the Thames (with subtitles) here: https://t.co/cY7ctf4hLA
+7,7,7,7,7,1134611,742994142133944320,2349395607,neutral,other,2016-06-15T08:16:22.000Z,https://t.co/JiUkf7gJlX Carhelmar BM23 sailing up the Thames #fishingforleave #Brexit @BBCRadio2 @BBCBreaking ⚓️,"['brexit', 'fishingforleave']"
+8,8,8,8,8,1145814,743052973132120064,2341268312,negative,leave,2016-06-15T12:10:08.000Z,@PhilTomkinson Geldof is against #Brexit and #fishingforleave it's the remainers who are desperate,"['brexit', 'fishingforleave']"
+9,9,9,9,9,1180876,743355187364933632,123553298,negative,other,2016-06-16T08:11:02.000Z,"@RaheemKassam Watch our recap video of the Battle of the Thames (with subtitles) here: https://t.co/cY7ctf4hLA
 
 #fishingforleave | #Brexit","['brexit', 'fishingforleave']"
-10,1145717,743052406104166400,2583066531,positive,other,2016-06-15T12:07:53.000Z,"#fishingforleave :He's not a Sir, just a scruffy loud mouthed Irish man with inflated sense of importance. #Brexit  https://t.co/5SVAcXDoTC","['brexit', 'fishingforleave']"
-11,1138333,743013688278454272,3807368123,neutral,other,2016-06-15T09:34:02.000Z,"#fishingforleave, the #Brexit flotilla ✌ https://t.co/tDY5x9RN2q","['brexit', 'fishingforleave']"
-12,1141326,743028766553853952,95987075,neutral,other,2016-06-15T10:33:57.000Z,@jimwaterson Real fishermen/women fighting peacefully for their right to fish in our waters- and you scoff? #fishingforleave  #Brexit,"['brexit', 'fishingforleave']"
-13,1151420,743091659718692864,2392520408,neutral,leave,2016-06-15T14:43:52.000Z,"#fishingforleave  I'm with uou
+10,10,10,10,10,1145717,743052406104166400,2583066531,positive,other,2016-06-15T12:07:53.000Z,"#fishingforleave :He's not a Sir, just a scruffy loud mouthed Irish man with inflated sense of importance. #Brexit  https://t.co/5SVAcXDoTC","['brexit', 'fishingforleave']"
+11,11,11,11,11,1138333,743013688278454272,3807368123,neutral,other,2016-06-15T09:34:02.000Z,"#fishingforleave, the #Brexit flotilla ✌ https://t.co/tDY5x9RN2q","['brexit', 'fishingforleave']"
+12,12,12,12,12,1141326,743028766553853952,95987075,neutral,other,2016-06-15T10:33:57.000Z,@jimwaterson Real fishermen/women fighting peacefully for their right to fish in our waters- and you scoff? #fishingforleave  #Brexit,"['brexit', 'fishingforleave']"
+13,13,13,13,13,1151420,743091659718692864,2392520408,neutral,leave,2016-06-15T14:43:52.000Z,"#fishingforleave  I'm with uou
 #Brexit https://t.co/7XlBLWaFJ7","['brexit', 'fishingforleave']"
-14,1144966,743047584047071232,95987075,negative,remain,2016-06-15T11:48:43.000Z,@sirmikeuk EU won't let us now Mike- but as soon as we #Brexit #fishingforleave we bloody well will!!,"['brexit', 'fishingforleave']"
-15,1116901,742833447023087616,2341268312,neutral,other,2016-06-14T21:37:49.000Z,"@KevinJPringle @HumzaYousaf @MSmithsonPB Scotland is going to vote out, including most of SNP membership. #Brexit #fishingforleave","['brexit', 'fishingforleave']"
-16,1172646,743339037948207104,36447473,negative,other,2016-06-16T07:06:51.000Z,GeenPeilTV: Battle of the Thames! #fishingforleave #Brexit  https://t.co/GeMBgZLhKb,"['brexit', 'fishingforleave']"
-17,1184378,743373413964713984,270327100,negative,other,2016-06-16T09:23:27.000Z,I'ts not funny when you loose your livelihood #fishingforleave #Brexit  https://t.co/yYgvC9tu0h,"['brexit', 'fishingforleave']"
-18,1138707,743015516827230208,21092087,negative,remain,2016-06-15T09:41:18.000Z,Pathetic spoilt kid Remainers trying to hijack the #fishingforleave flotilla in their legitimate fight to regain their industry. #Brexit,"['brexit', 'fishingforleave']"
-19,1145588,743051537052803072,705273937,positive,other,2016-06-15T12:04:26.000Z,The British Fishing Industry https://t.co/8xNPvFZRKR via @MartynPrice3 Support British fishermen who are #fishingforleave. Vote #Brexit!,"['brexit', 'fishingforleave']"
-20,898147,739114936396337152,925786620,negative,other,2016-06-04T15:21:47.000Z,"#FishingForLeave
+14,14,14,14,14,1144966,743047584047071232,95987075,negative,remain,2016-06-15T11:48:43.000Z,@sirmikeuk EU won't let us now Mike- but as soon as we #Brexit #fishingforleave we bloody well will!!,"['brexit', 'fishingforleave']"
+15,15,15,15,15,1116901,742833447023087616,2341268312,neutral,other,2016-06-14T21:37:49.000Z,"@KevinJPringle @HumzaYousaf @MSmithsonPB Scotland is going to vote out, including most of SNP membership. #Brexit #fishingforleave","['brexit', 'fishingforleave']"
+16,16,16,16,16,1172646,743339037948207104,36447473,negative,other,2016-06-16T07:06:51.000Z,GeenPeilTV: Battle of the Thames! #fishingforleave #Brexit  https://t.co/GeMBgZLhKb,"['brexit', 'fishingforleave']"
+17,17,17,17,17,1184378,743373413964713984,270327100,negative,other,2016-06-16T09:23:27.000Z,I'ts not funny when you loose your livelihood #fishingforleave #Brexit  https://t.co/yYgvC9tu0h,"['brexit', 'fishingforleave']"
+18,18,18,18,18,1138707,743015516827230208,21092087,negative,remain,2016-06-15T09:41:18.000Z,Pathetic spoilt kid Remainers trying to hijack the #fishingforleave flotilla in their legitimate fight to regain their industry. #Brexit,"['brexit', 'fishingforleave']"
+19,19,19,19,19,1145588,743051537052803072,705273937,positive,other,2016-06-15T12:04:26.000Z,The British Fishing Industry https://t.co/8xNPvFZRKR via @MartynPrice3 Support British fishermen who are #fishingforleave. Vote #Brexit!,"['brexit', 'fishingforleave']"
+20,20,20,20,20,898147,739114936396337152,925786620,negative,other,2016-06-04T15:21:47.000Z,"#FishingForLeave
 Salt in their veins and fire in their bellies: FISHERMEN battling for #Brexit
 @andrewstonell1
 https://t.co/BmBlUGvQha","['brexit', 'fishingforleave']"
-21,1130820,742973584038072320,64384952,positive,other,2016-06-15T06:54:40.000Z,"@KTHopkins #fishingforleave Good for them! I can see the headline ""Farage &amp; band of Pirates launch naval attack on parliament""🎣 ⚓🚢😀 #Brexit","['brexit', 'fishingforleave']"
-22,1210649,743569494459715584,4877806708,positive,other,2016-06-16T22:22:36.000Z,"Save Britain's fish stocks and Industry! Geldof, be quiet, go away, take Izzard with you! #Brexit #Fishingforleave https://t.co/NwzMpnvQFd","['brexit', 'fishingforleave']"
-23,1189480,743398881698975744,267976688,negative,remain,2016-06-16T11:04:39.000Z,"@FreddSays @faisalislam Only thing not surprising is #Brexit supporters ignorance of the facts #fishingforleave 
+21,21,21,21,21,1130820,742973584038072320,64384952,positive,other,2016-06-15T06:54:40.000Z,"@KTHopkins #fishingforleave Good for them! I can see the headline ""Farage &amp; band of Pirates launch naval attack on parliament""🎣 ⚓🚢😀 #Brexit","['brexit', 'fishingforleave']"
+22,22,22,22,22,1210649,743569494459715584,4877806708,positive,other,2016-06-16T22:22:36.000Z,"Save Britain's fish stocks and Industry! Geldof, be quiet, go away, take Izzard with you! #Brexit #Fishingforleave https://t.co/NwzMpnvQFd","['brexit', 'fishingforleave']"
+23,23,23,23,23,1189480,743398881698975744,267976688,negative,remain,2016-06-16T11:04:39.000Z,"@FreddSays @faisalislam Only thing not surprising is #Brexit supporters ignorance of the facts #fishingforleave 
 
 https://t.co/Zb70MppyK7","['brexit', 'fishingforleave']"
-24,1150010,743080836308828160,731174963919630208,neutral,remain,2016-06-15T14:00:51.000Z,@AndrewRosindell Presumably they returned to the champagne bar afterwards. Idiots. #fishingforleave #Brexit  https://t.co/hdvCB9SwwR,"['brexit', 'fishingforleave']"
-25,1147860,743065985834442752,731174963919630208,positive,leave,2016-06-15T13:01:51.000Z,The first of many internet memes. Excellent. #fishingforleave #Brexit  https://t.co/uDextOxAnZ,"['brexit', 'fishingforleave']"
-26,1137737,743010950589091840,187579804,neutral,remain,2016-06-15T09:23:09.000Z,@JSandlerClarke @matthew1butcher #fishingforleave #Brexit British waters for British boats. https://t.co/dl5gtKKOnC,"['brexit', 'fishingforleave']"
-27,898135,739114374036631552,925786620,negative,other,2016-06-04T15:19:33.000Z,"@Ajax_Hake @Ajax_Wife #FishingForLeave
+24,24,24,24,24,1150010,743080836308828160,731174963919630208,neutral,remain,2016-06-15T14:00:51.000Z,@AndrewRosindell Presumably they returned to the champagne bar afterwards. Idiots. #fishingforleave #Brexit  https://t.co/hdvCB9SwwR,"['brexit', 'fishingforleave']"
+25,25,25,25,25,1147860,743065985834442752,731174963919630208,positive,leave,2016-06-15T13:01:51.000Z,The first of many internet memes. Excellent. #fishingforleave #Brexit  https://t.co/uDextOxAnZ,"['brexit', 'fishingforleave']"
+26,26,26,26,26,1137737,743010950589091840,187579804,neutral,remain,2016-06-15T09:23:09.000Z,@JSandlerClarke @matthew1butcher #fishingforleave #Brexit British waters for British boats. https://t.co/dl5gtKKOnC,"['brexit', 'fishingforleave']"
+27,27,27,27,27,898135,739114374036631552,925786620,negative,other,2016-06-04T15:19:33.000Z,"@Ajax_Hake @Ajax_Wife #FishingForLeave
 Salt in their veins and fire in their bellies: FISHERMEN battling for #Brexit
 https://t.co/BmBlUGvQha","['brexit', 'fishingforleave']"
-28,1149798,743079273188196352,722085149261881344,positive,other,2016-06-15T13:54:39.000Z,@V_of_Europe Das it fit in the Thames? Than it can follow the In-crowd of givemesomefuckingaidmoney Geldof! #fishingforleave by a #Brexit,"['brexit', 'fishingforleave']"
-29,1145361,743050176974192640,2583066531,neutral,other,2016-06-15T11:59:02.000Z,"#fishingforleave :UK working men who have seen their industry devastated,blocked by scruffy 1 hit wonder Bob who's not even British #Brexit","['brexit', 'fishingforleave']"
-30,1128762,742990468334669824,31178944,positive,other,2016-06-15T08:01:46.000Z,70 strong #Brexit flotilla of #fishingforleave coming up the Thames now. @BBCNews @SkyNews @itvnews @Channel4News  https://t.co/kOn89qmj9z,"['brexit', 'fishingforleave']"
-31,1138972,743016918798467072,160831009,neutral,other,2016-06-15T09:46:52.000Z,Contrast - 4 nurses stand outside a hospital with placards and it is all over the BBC - every channel! @KTHopkins #Brexit #fishingforleave,"['brexit', 'fishingforleave']"
-32,1137375,743009076653756416,523085134,positive,other,2016-06-15T09:15:42.000Z,LIVE: @Nigel_Farage to lead flotilla of boats up Thames in support of #Brexit https://t.co/lDcOPW3fo1 via @YouTube 👍🏼😎 #fishingforleave,"['brexit', 'fishingforleave']"
-33,1150103,743081372751912960,259382116,positive,other,2016-06-15T14:02:59.000Z,@aronftaylor he will say not aimed at #fishingforleave but his contempt clear for honest workers who put their lives at stake daily #Brexit,"['brexit', 'fishingforleave']"
-34,1435858,745555970638569472,2292678794,neutral,leave,2016-06-22T09:56:09.000Z,@Nigel_Farage #FishingForLeave #Brexit take back control,"['brexit', 'fishingforleave']"
-35,1137036,743007621284761600,95987075,positive,other,2016-06-15T09:09:55.000Z,@Nigel_Farage Thank you sir! 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼 #fishingforleave support our British fishing industry #Brexit and let's get our waters back,"['brexit', 'fishingforleave']"
-36,1146010,743053925834711040,2341268312,positive,remain,2016-06-15T12:13:55.000Z,@AngusRobertson Any chance of you nipping down to the river and supporting Scottish fishermen? Nope? Thought not! #fishingforleave #Brexit,"['brexit', 'fishingforleave']"
-37,1138339,743013703507935232,98711871,neutral,other,2016-06-15T09:34:06.000Z,#Brexit #armada #fishingforleave Closest Geldof had been to water in years.,"['brexit', 'fishingforleave', 'armada']"
-38,1133992,742990902008918016,2269659987,negative,other,2016-06-15T08:03:29.000Z,Outrageous #bbcnews not a word on the Thames flotilla. Scared? #fishingforleave #Brexit,"['brexit', 'fishingforleave', 'bbcnews']"
-39,1119259,742849592732094464,31178944,negative,leave,2016-06-14T22:41:59.000Z,"Project Fear?No, it's Project TERROR!!! #Brexit #fishingforleave #VoteLeave #BBCDebate #bbcqt #TheSun @Nigel_Farage  https://t.co/TYVRr9kZXO","['brexit', 'fishingforleave', 'bbcqt', 'voteleave', 'bbcdebate', 'thesun']"
-40,1138897,743016585078681600,160831009,negative,remain,2016-06-15T09:45:33.000Z,Note that the #BiasedBBC and Sky have NO mention of this protest! @KTHopkins #Brexit #fishingforleave,"['brexit', 'fishingforleave', 'biasedbbc']"
-41,1118919,742846829600051200,31178944,neutral,other,2016-06-14T22:31:00.000Z,Nigel Farage to lead 60-boat armada up Thames in call for Brexit https://t.co/Y50RIs7WG4 #fishingforleave #Brexit #VoteLeave #EUDebate #LBC,"['brexit', 'fishingforleave', 'eudebate', 'lbc', 'voteleave']"
-42,1140017,743021903300993024,144931417,positive,other,2016-06-15T10:06:41.000Z,Funny how #flotilla but not #fishingforleave is trending? #Brexit,"['brexit', 'fishingforleave', 'flotilla']"
-43,1152200,743097369726754816,87269679,neutral,other,2016-06-15T15:06:33.000Z,#flotilla #fishingforleave #Brexit @Nigel_Farage Twitterati with you on this https://t.co/ABrhUzcXOu,"['brexit', 'fishingforleave', 'flotilla']"
-44,1115440,742791059709829120,22670613,neutral,other,2016-06-14T18:49:23.000Z,#fishingforleave @Gravy_Davey @BoopFashionista @OrionHombre @Alexpettitt armada of 60 boats #Brexit #london scope it https://t.co/dxjtZhe8N6,"['brexit', 'fishingforleave', 'london']"
-45,1146745,743088649697398784,2426914762,positive,remain,2016-06-15T14:31:54.000Z,@ElaineHynes3 @Tactical_Things #fishingforleave bob Gedlof and co are all idiots #Brexit #voteleave don let the idiots win,"['brexit', 'fishingforleave', 'voteleave']"
-46,1190476,743404266493181952,2392520408,positive,other,2016-06-16T11:26:03.000Z,"I see that Switzerland has withdrawn their application to join the
+28,28,28,28,28,1149798,743079273188196352,722085149261881344,positive,other,2016-06-15T13:54:39.000Z,@V_of_Europe Das it fit in the Thames? Than it can follow the In-crowd of givemesomefuckingaidmoney Geldof! #fishingforleave by a #Brexit,"['brexit', 'fishingforleave']"
+29,29,29,29,29,1145361,743050176974192640,2583066531,neutral,other,2016-06-15T11:59:02.000Z,"#fishingforleave :UK working men who have seen their industry devastated,blocked by scruffy 1 hit wonder Bob who's not even British #Brexit","['brexit', 'fishingforleave']"
+30,30,30,30,30,1128762,742990468334669824,31178944,positive,other,2016-06-15T08:01:46.000Z,70 strong #Brexit flotilla of #fishingforleave coming up the Thames now. @BBCNews @SkyNews @itvnews @Channel4News  https://t.co/kOn89qmj9z,"['brexit', 'fishingforleave']"
+31,31,31,31,31,1138972,743016918798467072,160831009,neutral,other,2016-06-15T09:46:52.000Z,Contrast - 4 nurses stand outside a hospital with placards and it is all over the BBC - every channel! @KTHopkins #Brexit #fishingforleave,"['brexit', 'fishingforleave']"
+32,32,32,32,32,1137375,743009076653756416,523085134,positive,other,2016-06-15T09:15:42.000Z,LIVE: @Nigel_Farage to lead flotilla of boats up Thames in support of #Brexit https://t.co/lDcOPW3fo1 via @YouTube 👍🏼😎 #fishingforleave,"['brexit', 'fishingforleave']"
+33,33,33,33,33,1150103,743081372751912960,259382116,positive,other,2016-06-15T14:02:59.000Z,@aronftaylor he will say not aimed at #fishingforleave but his contempt clear for honest workers who put their lives at stake daily #Brexit,"['brexit', 'fishingforleave']"
+34,34,34,34,34,1435858,745555970638569472,2292678794,neutral,leave,2016-06-22T09:56:09.000Z,@Nigel_Farage #FishingForLeave #Brexit take back control,"['brexit', 'fishingforleave']"
+35,35,35,35,35,1137036,743007621284761600,95987075,positive,other,2016-06-15T09:09:55.000Z,@Nigel_Farage Thank you sir! 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼 #fishingforleave support our British fishing industry #Brexit and let's get our waters back,"['brexit', 'fishingforleave']"
+36,36,36,36,36,1146010,743053925834711040,2341268312,positive,remain,2016-06-15T12:13:55.000Z,@AngusRobertson Any chance of you nipping down to the river and supporting Scottish fishermen? Nope? Thought not! #fishingforleave #Brexit,"['brexit', 'fishingforleave']"
+37,37,37,37,37,1138339,743013703507935232,98711871,neutral,other,2016-06-15T09:34:06.000Z,#Brexit #armada #fishingforleave Closest Geldof had been to water in years.,"['brexit', 'fishingforleave', 'armada']"
+38,38,38,38,38,1133992,742990902008918016,2269659987,negative,other,2016-06-15T08:03:29.000Z,Outrageous #bbcnews not a word on the Thames flotilla. Scared? #fishingforleave #Brexit,"['brexit', 'fishingforleave', 'bbcnews']"
+39,39,39,39,39,1119259,742849592732094464,31178944,negative,leave,2016-06-14T22:41:59.000Z,"Project Fear?No, it's Project TERROR!!! #Brexit #fishingforleave #VoteLeave #BBCDebate #bbcqt #TheSun @Nigel_Farage  https://t.co/TYVRr9kZXO","['brexit', 'fishingforleave', 'bbcqt', 'voteleave', 'bbcdebate', 'thesun']"
+40,40,40,40,40,1138897,743016585078681600,160831009,negative,remain,2016-06-15T09:45:33.000Z,Note that the #BiasedBBC and Sky have NO mention of this protest! @KTHopkins #Brexit #fishingforleave,"['brexit', 'fishingforleave', 'biasedbbc']"
+41,41,41,41,41,1118919,742846829600051200,31178944,neutral,other,2016-06-14T22:31:00.000Z,Nigel Farage to lead 60-boat armada up Thames in call for Brexit https://t.co/Y50RIs7WG4 #fishingforleave #Brexit #VoteLeave #EUDebate #LBC,"['brexit', 'fishingforleave', 'eudebate', 'lbc', 'voteleave']"
+42,42,42,42,42,1140017,743021903300993024,144931417,positive,other,2016-06-15T10:06:41.000Z,Funny how #flotilla but not #fishingforleave is trending? #Brexit,"['brexit', 'fishingforleave', 'flotilla']"
+43,43,43,43,43,1152200,743097369726754816,87269679,neutral,other,2016-06-15T15:06:33.000Z,#flotilla #fishingforleave #Brexit @Nigel_Farage Twitterati with you on this https://t.co/ABrhUzcXOu,"['brexit', 'fishingforleave', 'flotilla']"
+44,44,44,44,44,1115440,742791059709829120,22670613,neutral,other,2016-06-14T18:49:23.000Z,#fishingforleave @Gravy_Davey @BoopFashionista @OrionHombre @Alexpettitt armada of 60 boats #Brexit #london scope it https://t.co/dxjtZhe8N6,"['brexit', 'fishingforleave', 'london']"
+45,45,45,45,45,1146745,743088649697398784,2426914762,positive,remain,2016-06-15T14:31:54.000Z,@ElaineHynes3 @Tactical_Things #fishingforleave bob Gedlof and co are all idiots #Brexit #voteleave don let the idiots win,"['brexit', 'fishingforleave', 'voteleave']"
+46,46,46,46,46,1190476,743404266493181952,2392520408,positive,other,2016-06-16T11:26:03.000Z,"I see that Switzerland has withdrawn their application to join the
 e/useless
 #Brexit 
 #VoteRemain 
 #fishingforleave https://t.co/kl2q5Cy17q","['brexit', 'fishingforleave', 'voteremain']"
-47,1143856,743041942406238208,3293235761,positive,leave,2016-06-15T11:26:18.000Z,"Yes, you're being stupid.
+47,47,47,47,47,1143856,743041942406238208,3293235761,positive,leave,2016-06-15T11:26:18.000Z,"Yes, you're being stupid.
 
 #FISHOFFGELDOF #Brexit #FishingforLeave. https://t.co/c4x7ss8cvg","['brexit', 'fishoffgeldof', 'fishingforleave']"
-48,1155319,743118690829389824,966903620,positive,other,2016-06-15T16:31:17.000Z,"✓Traitor's Gate the perfect landing for Remainders Remainiacs &amp;suchlike reprobates
+48,48,48,48,48,1155319,743118690829389824,966903620,positive,other,2016-06-15T16:31:17.000Z,"✓Traitor's Gate the perfect landing for Remainders Remainiacs &amp;suchlike reprobates
 #flotila #fishingforleave #Brexit https://t.co/P9PbtUl5pI","['brexit', 'flotila', 'fishingforleave']"
-49,1138070,743012657700208640,95987075,negative,other,2016-06-15T09:29:56.000Z,@wend_iam Really? That's disgusting 😡the fat cats get fatter when the rest of us scrape a life #fishingforleave #forTheirLivelihood #Brexit,"['brexit', 'fortheirlivelihood', 'fishingforleave']"
-50,1140765,743056023586537472,31178944,neutral,leave,2016-06-15T12:22:15.000Z,https://t.co/cSvV4mtrrG Watch and learn #Geldof  #fishingforleave #Brexit #VoteLeave @Nigel_Farage @bazilyo @FishStock1 @fishingforleave,"['brexit', 'geldof', 'voteleave', 'fishingforleave']"
-51,1203154,743483216980549632,187579804,neutral,leave,2016-06-16T16:39:46.000Z,"Cameron and Geldof work so well together.  
+49,49,49,49,49,1138070,743012657700208640,95987075,negative,other,2016-06-15T09:29:56.000Z,@wend_iam Really? That's disgusting 😡the fat cats get fatter when the rest of us scrape a life #fishingforleave #forTheirLivelihood #Brexit,"['brexit', 'fortheirlivelihood', 'fishingforleave']"
+50,50,50,50,50,1140765,743056023586537472,31178944,neutral,leave,2016-06-15T12:22:15.000Z,https://t.co/cSvV4mtrrG Watch and learn #Geldof  #fishingforleave #Brexit #VoteLeave @Nigel_Farage @bazilyo @FishStock1 @fishingforleave,"['brexit', 'geldof', 'voteleave', 'fishingforleave']"
+51,51,51,51,51,1203154,743483216980549632,187579804,neutral,leave,2016-06-16T16:39:46.000Z,"Cameron and Geldof work so well together.  
 
 #Brexit #LabourLeave #fishingforleave https://t.co/1FMfmlj2mP","['brexit', 'labourleave', 'fishingforleave']"
-52,1138757,743015766086328320,3807368123,negative,other,2016-06-15T09:42:17.000Z,"Dutch breasts bigger bcoz of #Brexit 😂😅
+52,52,52,52,52,1138757,743015766086328320,3807368123,negative,other,2016-06-15T09:42:17.000Z,"Dutch breasts bigger bcoz of #Brexit 😂😅
 #Leave, #fishingforleave it's the only sensible decision ✌ https://t.co/MaLFRS7b1o","['brexit', 'leave', 'fishingforleave']"
-53,1144640,743045698187300864,3293235761,negative,other,2016-06-15T11:41:14.000Z,"Confirmation I was right to avoid #LiveAid 
+53,53,53,53,53,1144640,743045698187300864,3293235761,negative,other,2016-06-15T11:41:14.000Z,"Confirmation I was right to avoid #LiveAid 
 
 #FishoffGelfof #Brexit #fishingforleave","['brexit', 'liveaid', 'fishoffgelfof', 'fishingforleave']"
-54,1143067,743037837826764800,49592293,neutral,other,2016-06-15T11:10:00.000Z,Corbyn brings up the UKIP #fishingforleave flotilla at #PMQs #Brexit,"['brexit', 'pmqs', 'fishingforleave']"
-55,1287286,744599310839447552,31750838,positive,leave,2016-06-19T18:34:44.000Z,@allangsstewart Never Have! Never Would! Same To Your Good Self #smellthecoffee #Brexit #fishingforleave #farmingforleave #Rebuild #Scotland,"['brexit', 'rebuild', 'fishingforleave', 'smellthecoffee', 'scotland', 'farmingforleave']"
-56,1141705,743030752414203904,95987075,positive,leave,2016-06-15T10:41:50.000Z,"#fishingforleave A brilliant cry out for Britains who care, to answer. #SaveOurFishingIndustry #Brexit","['brexit', 'saveourfishingindustry', 'fishingforleave']"
-57,1142121,743032781966610432,23804708,negative,leave,2016-06-15T10:49:54.000Z,Oops!  #FishingForLeave #BattleOfTheThames #VoteLeave #Brexit https://t.co/c5PoNfg1s7,"['brexit', 'voteleave', 'battleofthethames', 'fishingforleave']"
-58,1139759,743020902946885632,731174963919630208,positive,remain,2016-06-15T10:02:42.000Z,"Ignore the luvvies, political hypocrites and IN ""useful idiots"" getting in the way, good luck #fishingforleave ! #Brexit #VoteLeave","['brexit', 'voteleave', 'fishingforleave']"
-59,1144434,743044752338255872,95987075,negative,leave,2016-06-15T11:37:28.000Z,@OldRightie Yes! #fishingforleave is a cry out to everyone who will hear! It's our people &amp; industry that is suffering #VoteLeave #Brexit,"['brexit', 'voteleave', 'fishingforleave']"
-60,1145163,743048791905964032,731174963919630208,negative,leave,2016-06-15T11:53:31.000Z,Pity that #fishingforleave flotilla has been twisted by media into Farage v Geldof. It's about the fishing industry ffs. #Brexit #VoteLeave,"['brexit', 'voteleave', 'fishingforleave']"
-61,1052405,742060219761623040,2341268312,positive,leave,2016-06-12T18:25:17.000Z,Good to see Michael Gove visiting the Atlantic Challenge PD197 on the national news! #VoteLeave #Brexit #FishingForLeave,"['brexit', 'voteleave', 'fishingforleave']"
-62,1196154,743435932603420672,187579804,neutral,leave,2016-06-16T13:31:53.000Z,@AndrewRosindell @haydn0912 Geldof the hypocrite. #fishingforleave #VoteLeave #Brexit https://t.co/0qkIthof6a,"['brexit', 'voteleave', 'fishingforleave']"
-63,1155069,743117046930628608,331120067,neutral,leave,2016-06-15T16:24:45.000Z,Bob Geldof sounds like an arrogant elitist. #fishingforleave #Brexit would shut him up for awhile. #VoteLeave https://t.co/DP44gbJwjC,"['brexit', 'voteleave', 'fishingforleave']"
-64,1196073,743435434697592832,455729898,neutral,leave,2016-06-16T13:29:54.000Z,Man of the people. https://t.co/774gDJEvuX #fishingforleave #Brexit #VoteLeave,"['brexit', 'voteleave', 'fishingforleave']"
-65,1171577,743332657518391296,628200605,positive,leave,2016-06-16T06:41:30.000Z,@_emmajaynexx @iVoteLeave fantastic boat.. #VoteLeave #Brexit #fishingforleave,"['brexit', 'voteleave', 'fishingforleave']"
-66,1162563,743173856160952320,214633771,negative,leave,2016-06-15T20:10:29.000Z,"you disgusting vile pigs, support our #fishingforleave #VoteLeave #voteout #Brexit https://t.co/Z1VZxqA0PR","['brexit', 'voteleave', 'fishingforleave', 'voteout']"
-67,1142376,743034121937649664,713706813762498560,negative,leave,2016-06-15T10:55:14.000Z,"#GeorgeOsborne Lord of Time has come back from the future with dire message on #Brexit.
+54,54,54,54,54,1143067,743037837826764800,49592293,neutral,other,2016-06-15T11:10:00.000Z,Corbyn brings up the UKIP #fishingforleave flotilla at #PMQs #Brexit,"['brexit', 'pmqs', 'fishingforleave']"
+55,55,55,55,55,1287286,744599310839447552,31750838,positive,leave,2016-06-19T18:34:44.000Z,@allangsstewart Never Have! Never Would! Same To Your Good Self #smellthecoffee #Brexit #fishingforleave #farmingforleave #Rebuild #Scotland,"['brexit', 'rebuild', 'fishingforleave', 'smellthecoffee', 'scotland', 'farmingforleave']"
+56,56,56,56,56,1141705,743030752414203904,95987075,positive,leave,2016-06-15T10:41:50.000Z,"#fishingforleave A brilliant cry out for Britains who care, to answer. #SaveOurFishingIndustry #Brexit","['brexit', 'saveourfishingindustry', 'fishingforleave']"
+57,57,57,57,57,1142121,743032781966610432,23804708,negative,leave,2016-06-15T10:49:54.000Z,Oops!  #FishingForLeave #BattleOfTheThames #VoteLeave #Brexit https://t.co/c5PoNfg1s7,"['brexit', 'voteleave', 'battleofthethames', 'fishingforleave']"
+58,58,58,58,58,1139759,743020902946885632,731174963919630208,positive,remain,2016-06-15T10:02:42.000Z,"Ignore the luvvies, political hypocrites and IN ""useful idiots"" getting in the way, good luck #fishingforleave ! #Brexit #VoteLeave","['brexit', 'voteleave', 'fishingforleave']"
+59,59,59,59,59,1144434,743044752338255872,95987075,negative,leave,2016-06-15T11:37:28.000Z,@OldRightie Yes! #fishingforleave is a cry out to everyone who will hear! It's our people &amp; industry that is suffering #VoteLeave #Brexit,"['brexit', 'voteleave', 'fishingforleave']"
+60,60,60,60,60,1145163,743048791905964032,731174963919630208,negative,leave,2016-06-15T11:53:31.000Z,Pity that #fishingforleave flotilla has been twisted by media into Farage v Geldof. It's about the fishing industry ffs. #Brexit #VoteLeave,"['brexit', 'voteleave', 'fishingforleave']"
+61,61,61,61,61,1052405,742060219761623040,2341268312,positive,leave,2016-06-12T18:25:17.000Z,Good to see Michael Gove visiting the Atlantic Challenge PD197 on the national news! #VoteLeave #Brexit #FishingForLeave,"['brexit', 'voteleave', 'fishingforleave']"
+62,62,62,62,62,1196154,743435932603420672,187579804,neutral,leave,2016-06-16T13:31:53.000Z,@AndrewRosindell @haydn0912 Geldof the hypocrite. #fishingforleave #VoteLeave #Brexit https://t.co/0qkIthof6a,"['brexit', 'voteleave', 'fishingforleave']"
+63,63,63,63,63,1155069,743117046930628608,331120067,neutral,leave,2016-06-15T16:24:45.000Z,Bob Geldof sounds like an arrogant elitist. #fishingforleave #Brexit would shut him up for awhile. #VoteLeave https://t.co/DP44gbJwjC,"['brexit', 'voteleave', 'fishingforleave']"
+64,64,64,64,64,1196073,743435434697592832,455729898,neutral,leave,2016-06-16T13:29:54.000Z,Man of the people. https://t.co/774gDJEvuX #fishingforleave #Brexit #VoteLeave,"['brexit', 'voteleave', 'fishingforleave']"
+65,65,65,65,65,1171577,743332657518391296,628200605,positive,leave,2016-06-16T06:41:30.000Z,@_emmajaynexx @iVoteLeave fantastic boat.. #VoteLeave #Brexit #fishingforleave,"['brexit', 'voteleave', 'fishingforleave']"
+66,66,66,66,66,1162563,743173856160952320,214633771,negative,leave,2016-06-15T20:10:29.000Z,"you disgusting vile pigs, support our #fishingforleave #VoteLeave #voteout #Brexit https://t.co/Z1VZxqA0PR","['brexit', 'voteleave', 'fishingforleave', 'voteout']"
+67,67,67,67,67,1142376,743034121937649664,713706813762498560,negative,leave,2016-06-15T10:55:14.000Z,"#GeorgeOsborne Lord of Time has come back from the future with dire message on #Brexit.
 #VoteLeave #fishingforleave https://t.co/IzzV1CI8f0","['brexit', 'voteleave', 'georgeosborne', 'fishingforleave']"
-68,1543572,745971688999952384,715931911504412672,neutral,leave,2016-06-23T13:28:04.000Z,@BiddleIan Really? Read: https://t.co/S6kfbCMwjp #VoteLeave #VoteLeaveTakeControl #FishingForLeave #Brexit,"['brexit', 'voteleave', 'voteleavetakecontrol', 'fishingforleave']"
-69,1145310,743049854281191424,31075190,negative,leave,2016-06-15T11:57:45.000Z,Allow yourself only ONE mistake! Don't be FOOLED again! #Brexit #VoteLeave #VoteLeaveEU #fishingforleave https://t.co/C7K2MKWMpn,"['brexit', 'voteleaveeu', 'voteleave', 'fishingforleave']"
-70,1140639,743055227272765440,850972862,neutral,leave,2016-06-15T12:19:06.000Z,@snook1111pie @vivienmiss @itvnews @Nigel_Farage exactly #BobAid#Brexit#BrexitFlotilla#fishingforleave,"['brexitflotilla', 'brexit', 'fishingforleave', 'bobaid']"
-71,1144951,743077660130172928,31178944,neutral,leave,2016-06-15T13:48:14.000Z,"""Entry to the traitors gate"".very apt.@Nigel_Farage #VoteLeave #fishingforleave #brexitflotilla #brexit @FishStock1  https://t.co/gkqiBKmdcj","['brexitflotilla', 'voteleave', 'fishingforleave', 'brexit']"
-72,1134485,742993479144476672,3154205567,negative,other,2016-06-15T08:13:44.000Z,"Love the #FishingForLeave protest sailing up the Thames, proper #british protest! #Brexit https://t.co/JpFRJEILbG","['british', 'brexit', 'fishingforleave']"
-73,985469,740969233639735296,31178944,positive,leave,2016-06-09T18:10:06.000Z,@FishStock1 https://t.co/E7X7Qb8lmw an apt shanty for us to share. #VoteLeave #Brexit #EUref #fishingforleave #eatmorefish,"['euref', 'brexit', 'fishingforleave', 'eatmorefish', 'voteleave']"
-74,1153858,743109165778927616,115777637,neutral,remain,2016-06-15T15:53:26.000Z,#Remainiac attempt to storm the #fishingforleave protest ends in disaster...much like their #brexit fantasies #EURef https://t.co/g1tH4o1Ucm,"['euref', 'brexit', 'fishingforleave', 'remainiac']"
-75,1147874,743066035843149824,220671535,positive,other,2016-06-15T13:02:03.000Z,"RT if you agree we should #TakeControl of our fishing industry again.
+68,68,68,68,68,1543572,745971688999952384,715931911504412672,neutral,leave,2016-06-23T13:28:04.000Z,@BiddleIan Really? Read: https://t.co/S6kfbCMwjp #VoteLeave #VoteLeaveTakeControl #FishingForLeave #Brexit,"['brexit', 'voteleave', 'voteleavetakecontrol', 'fishingforleave']"
+69,69,69,69,69,1145310,743049854281191424,31075190,negative,leave,2016-06-15T11:57:45.000Z,Allow yourself only ONE mistake! Don't be FOOLED again! #Brexit #VoteLeave #VoteLeaveEU #fishingforleave https://t.co/C7K2MKWMpn,"['brexit', 'voteleaveeu', 'voteleave', 'fishingforleave']"
+70,70,70,70,70,1140639,743055227272765440,850972862,neutral,leave,2016-06-15T12:19:06.000Z,@snook1111pie @vivienmiss @itvnews @Nigel_Farage exactly #BobAid#Brexit#BrexitFlotilla#fishingforleave,"['brexitflotilla', 'brexit', 'fishingforleave', 'bobaid']"
+71,71,71,71,71,1144951,743077660130172928,31178944,neutral,leave,2016-06-15T13:48:14.000Z,"""Entry to the traitors gate"".very apt.@Nigel_Farage #VoteLeave #fishingforleave #brexitflotilla #brexit @FishStock1  https://t.co/gkqiBKmdcj","['brexitflotilla', 'voteleave', 'fishingforleave', 'brexit']"
+72,72,72,72,72,1134485,742993479144476672,3154205567,negative,other,2016-06-15T08:13:44.000Z,"Love the #FishingForLeave protest sailing up the Thames, proper #british protest! #Brexit https://t.co/JpFRJEILbG","['british', 'brexit', 'fishingforleave']"
+73,73,73,73,73,985469,740969233639735296,31178944,positive,leave,2016-06-09T18:10:06.000Z,@FishStock1 https://t.co/E7X7Qb8lmw an apt shanty for us to share. #VoteLeave #Brexit #EUref #fishingforleave #eatmorefish,"['euref', 'brexit', 'fishingforleave', 'eatmorefish', 'voteleave']"
+74,74,74,74,74,1153858,743109165778927616,115777637,neutral,remain,2016-06-15T15:53:26.000Z,#Remainiac attempt to storm the #fishingforleave protest ends in disaster...much like their #brexit fantasies #EURef https://t.co/g1tH4o1Ucm,"['euref', 'brexit', 'fishingforleave', 'remainiac']"
+75,75,75,75,75,1147874,743066035843149824,220671535,positive,other,2016-06-15T13:02:03.000Z,"RT if you agree we should #TakeControl of our fishing industry again.
 
 #flotilla #FishingforLeave #Brexit #EUref https://t.co/Wz8txKhisz","['euref', 'brexit', 'fishingforleave', 'takecontrol', 'flotilla']"
-76,1141396,743029111023603712,3087093887,neutral,other,2016-06-15T10:35:19.000Z,No Chance Geldof! Our British Fishermen &amp; women are the greatest! #EUref #Brexit #fishingforleave #flotilla #Thames https://t.co/lJELQUJOE3,"['euref', 'brexit', 'fishingforleave', 'thames', 'flotilla']"
-77,1129944,742998303525220352,23804708,positive,other,2016-06-15T08:32:54.000Z,LIVE: Farage to lead flotilla of boats up Thames in support of Brexit #FishingForLeave #EURef https://t.co/YBY8G4MfdF via @YouTube,"['euref', 'fishingforleave']"
-78,1164528,743194546713006080,567546116,neutral,leave,2016-06-15T21:32:42.000Z,Maybe they should get you on John? That would definitely swing it for #voteleave #brexit #fishingforleave #EUref  https://t.co/kaW5vIFpH4,"['euref', 'fishingforleave', 'brexit', 'voteleave']"
-79,1000715,741220183507865600,31178944,neutral,leave,2016-06-10T10:47:17.000Z,@UKLabour @jeremycorbyn https://t.co/DeGYq6L3Zp #bbcqt #itvdebate #VoteLeave #EUref #Brexit #fishingforleave. But you said this last Autumn?,"['euref', 'itvdebate', 'brexit', 'fishingforleave', 'bbcqt', 'voteleave']"
-80,1146289,743055553774129152,41195676,positive,leave,2016-06-15T12:20:23.000Z,"Will it be ""@TheSun wot won it""? #Brexit #EUreferendum #fishingforleave https://t.co/jDRUBJdQRT","['eureferendum', 'brexit', 'fishingforleave']"
-81,1138206,743013178540457984,724661127452479360,negative,other,2016-06-15T09:32:00.000Z,Latest news from Southend. Increase of Turds in Estuary leads to loss of blue flag status #Brexit #fishingforleave #EUreferendum,"['eureferendum', 'brexit', 'fishingforleave']"
-82,1256056,744189862023139328,742733562156331008,negative,other,2016-06-18T15:27:44.000Z,Evil far right racists who killed Jo Cox. #ProjectSmear #fishingforleave #Brexit #EUreferendum https://t.co/dqWrpywcig,"['eureferendum', 'projectsmear', 'fishingforleave', 'brexit']"
-83,1148779,743102501642178560,613560763,neutral,remain,2016-06-15T15:26:57.000Z,Bob Geldof and Remain campaigners getting hosed by fishermen after gatecrashing Brexit flotilla #fishingforleave... https://t.co/fPeWo6kh8P,['fishingforleave']
-84,714923,733062812759642112,1002755442,positive,remain,2016-05-18T22:32:48.000Z,@MassonGary @SkyNews you expect anything less? Lol just look at brexit coverage. #fishingforleave,['fishingforleave']
-85,1134546,743024034967900160,17685299,negative,other,2016-06-15T10:15:09.000Z,British fishing Industry v Bob Geldof Brexit Battle of the Thames. Should board his shp and make him walk the plank  #fishingforleave,['fishingforleave']
-86,639672,730323209543925760,122151170,positive,other,2016-05-11T09:06:36.000Z,https://t.co/AQzBJwpAdv Strong case 2 Save Britain's Fish via Brexit! #fishingforleave SW + Scotland = last bastions https://t.co/QGyabMwFQz,['fishingforleave']
-87,1132158,743011489850757120,19458471,negative,remain,2016-06-15T09:25:18.000Z,"Brexit-backers boo as a Remain supporting vessel blares out ""The In Crowd"" during the #fishingforleave protest. https://t.co/DvLXaJ0K2h",['fishingforleave']
-88,639742,730325135027273728,122151170,positive,other,2016-05-11T09:14:15.000Z,https://t.co/AQzBJwpAdv 4 the British fishing industry case 2 support Brexit #fishingforleave Battle Bus 2 Brixham?  https://t.co/kw1lj3dXD3,['fishingforleave']
-89,1456199,745652855848210432,2292678794,positive,leave,2016-06-22T16:21:09.000Z,@itvnews @BorisJohnson i will be backing you and Brexit all the way. Vote out! #FishingForLeave,['fishingforleave']
-90,1131020,743005249712082944,523085134,positive,other,2016-06-15T09:00:30.000Z,LIVE: Farage to lead flotilla of boats up Thames in support of ‘Brexit’ https://t.co/lDcOPW3fo1 via @YouTube #fishingforleave,['fishingforleave']
-91,1137949,743042271109603328,123553298,negative,other,2016-06-15T11:27:37.000Z,#fishingforleave Brexit Battle on the Thames https://t.co/Ewdwoaeu7J,['fishingforleave']
-92,1233238,743842469989781504,2292678794,positive,leave,2016-06-17T16:27:19.000Z,@fishingforleave proud of everyone involves in this. Backing you all the way #fishingforleave #brexit,"['fishingforleave', 'brexit']"
-93,934200,739988957254029312,114188082,positive,other,2016-06-07T01:14:50.000Z,"Nigel Farage to lead pro-Brexit flotilla up Thames https://t.co/Rk3uyds6mK ""We want our waters back"" #FishingforLeave #Brexit","['fishingforleave', 'brexit']"
-94,717813,733206856215212032,1002755442,positive,other,2016-05-19T08:05:11.000Z,@DanHannanMEP any chance of helping our campaign #fishingforleave at the fishing Expo in Aberdeen #brexit,"['fishingforleave', 'brexit']"
-95,1136211,743003031558623232,425736798,neutral,other,2016-06-15T08:51:41.000Z,#FishingforLeave #Brexit Flotilla starts journing at Thames Estuary #EUReferendum https://t.co/Sjc8SG1J3A https://t.co/iqiQ3OzvU9,"['fishingforleave', 'brexit', 'eureferendum']"
-96,1142983,743037311089250304,3293235761,neutral,other,2016-06-15T11:07:54.000Z,"Sneering again.
+76,76,76,76,76,1141396,743029111023603712,3087093887,neutral,other,2016-06-15T10:35:19.000Z,No Chance Geldof! Our British Fishermen &amp; women are the greatest! #EUref #Brexit #fishingforleave #flotilla #Thames https://t.co/lJELQUJOE3,"['euref', 'brexit', 'fishingforleave', 'thames', 'flotilla']"
+77,77,77,77,77,1129944,742998303525220352,23804708,positive,other,2016-06-15T08:32:54.000Z,LIVE: Farage to lead flotilla of boats up Thames in support of Brexit #FishingForLeave #EURef https://t.co/YBY8G4MfdF via @YouTube,"['euref', 'fishingforleave']"
+78,78,78,78,78,1164528,743194546713006080,567546116,neutral,leave,2016-06-15T21:32:42.000Z,Maybe they should get you on John? That would definitely swing it for #voteleave #brexit #fishingforleave #EUref  https://t.co/kaW5vIFpH4,"['euref', 'fishingforleave', 'brexit', 'voteleave']"
+79,79,79,79,79,1000715,741220183507865600,31178944,neutral,leave,2016-06-10T10:47:17.000Z,@UKLabour @jeremycorbyn https://t.co/DeGYq6L3Zp #bbcqt #itvdebate #VoteLeave #EUref #Brexit #fishingforleave. But you said this last Autumn?,"['euref', 'itvdebate', 'brexit', 'fishingforleave', 'bbcqt', 'voteleave']"
+80,80,80,80,80,1146289,743055553774129152,41195676,positive,leave,2016-06-15T12:20:23.000Z,"Will it be ""@TheSun wot won it""? #Brexit #EUreferendum #fishingforleave https://t.co/jDRUBJdQRT","['eureferendum', 'brexit', 'fishingforleave']"
+81,81,81,81,81,1138206,743013178540457984,724661127452479360,negative,other,2016-06-15T09:32:00.000Z,Latest news from Southend. Increase of Turds in Estuary leads to loss of blue flag status #Brexit #fishingforleave #EUreferendum,"['eureferendum', 'brexit', 'fishingforleave']"
+82,82,82,82,82,1256056,744189862023139328,742733562156331008,negative,other,2016-06-18T15:27:44.000Z,Evil far right racists who killed Jo Cox. #ProjectSmear #fishingforleave #Brexit #EUreferendum https://t.co/dqWrpywcig,"['eureferendum', 'projectsmear', 'fishingforleave', 'brexit']"
+83,83,83,83,83,1148779,743102501642178560,613560763,neutral,remain,2016-06-15T15:26:57.000Z,Bob Geldof and Remain campaigners getting hosed by fishermen after gatecrashing Brexit flotilla #fishingforleave... https://t.co/fPeWo6kh8P,['fishingforleave']
+84,84,84,84,84,714923,733062812759642112,1002755442,positive,remain,2016-05-18T22:32:48.000Z,@MassonGary @SkyNews you expect anything less? Lol just look at brexit coverage. #fishingforleave,['fishingforleave']
+85,85,85,85,85,1134546,743024034967900160,17685299,negative,other,2016-06-15T10:15:09.000Z,British fishing Industry v Bob Geldof Brexit Battle of the Thames. Should board his shp and make him walk the plank  #fishingforleave,['fishingforleave']
+86,86,86,86,86,639672,730323209543925760,122151170,positive,other,2016-05-11T09:06:36.000Z,https://t.co/AQzBJwpAdv Strong case 2 Save Britain's Fish via Brexit! #fishingforleave SW + Scotland = last bastions https://t.co/QGyabMwFQz,['fishingforleave']
+87,87,87,87,87,1132158,743011489850757120,19458471,negative,remain,2016-06-15T09:25:18.000Z,"Brexit-backers boo as a Remain supporting vessel blares out ""The In Crowd"" during the #fishingforleave protest. https://t.co/DvLXaJ0K2h",['fishingforleave']
+88,88,88,88,88,639742,730325135027273728,122151170,positive,other,2016-05-11T09:14:15.000Z,https://t.co/AQzBJwpAdv 4 the British fishing industry case 2 support Brexit #fishingforleave Battle Bus 2 Brixham?  https://t.co/kw1lj3dXD3,['fishingforleave']
+89,89,89,89,89,1456199,745652855848210432,2292678794,positive,leave,2016-06-22T16:21:09.000Z,@itvnews @BorisJohnson i will be backing you and Brexit all the way. Vote out! #FishingForLeave,['fishingforleave']
+90,90,90,90,90,1131020,743005249712082944,523085134,positive,other,2016-06-15T09:00:30.000Z,LIVE: Farage to lead flotilla of boats up Thames in support of ‘Brexit’ https://t.co/lDcOPW3fo1 via @YouTube #fishingforleave,['fishingforleave']
+91,91,91,91,91,1137949,743042271109603328,123553298,negative,other,2016-06-15T11:27:37.000Z,#fishingforleave Brexit Battle on the Thames https://t.co/Ewdwoaeu7J,['fishingforleave']
+92,92,92,92,92,1233238,743842469989781504,2292678794,positive,leave,2016-06-17T16:27:19.000Z,@fishingforleave proud of everyone involves in this. Backing you all the way #fishingforleave #brexit,"['fishingforleave', 'brexit']"
+93,93,93,93,93,934200,739988957254029312,114188082,positive,other,2016-06-07T01:14:50.000Z,"Nigel Farage to lead pro-Brexit flotilla up Thames https://t.co/Rk3uyds6mK ""We want our waters back"" #FishingforLeave #Brexit","['fishingforleave', 'brexit']"
+94,94,94,94,94,717813,733206856215212032,1002755442,positive,other,2016-05-19T08:05:11.000Z,@DanHannanMEP any chance of helping our campaign #fishingforleave at the fishing Expo in Aberdeen #brexit,"['fishingforleave', 'brexit']"
+95,95,95,95,95,1136211,743003031558623232,425736798,neutral,other,2016-06-15T08:51:41.000Z,#FishingforLeave #Brexit Flotilla starts journing at Thames Estuary #EUReferendum https://t.co/Sjc8SG1J3A https://t.co/iqiQ3OzvU9,"['fishingforleave', 'brexit', 'eureferendum']"
+96,96,96,96,96,1142983,743037311089250304,3293235761,neutral,other,2016-06-15T11:07:54.000Z,"Sneering again.
 
 #FISHOFFGELDOF #FishingforLeave #Brexit #Eurosneer https://t.co/8Acn12nEbr","['fishingforleave', 'brexit', 'fishoffgeldof', 'eurosneer']"
-97,1145562,743051382924685312,425736798,negative,remain,2016-06-15T12:03:49.000Z,#FishingforLeave #Brexit flotilla travels along Thames with #Remain protest boats https://t.co/Sjc8SG1J3A https://t.co/sCFzTcscSF,"['fishingforleave', 'brexit', 'remain']"
-98,1142530,743034955467526144,3293235761,neutral,remain,2016-06-15T10:58:32.000Z,"#Remain will be dumping excess hypocrisy in landfill later today.
+97,97,97,97,97,1145562,743051382924685312,425736798,negative,remain,2016-06-15T12:03:49.000Z,#FishingforLeave #Brexit flotilla travels along Thames with #Remain protest boats https://t.co/Sjc8SG1J3A https://t.co/sCFzTcscSF,"['fishingforleave', 'brexit', 'remain']"
+98,98,98,98,98,1142530,743034955467526144,3293235761,neutral,remain,2016-06-15T10:58:32.000Z,"#Remain will be dumping excess hypocrisy in landfill later today.
 
 #FISHOFFGELDOF #FishingforLeave #Brexit","['fishingforleave', 'brexit', 'remain', 'fishoffgeldof']"
-99,1142694,743035755291942912,1931222966,neutral,leave,2016-06-15T11:01:43.000Z,Bob Geldof and Remain campaigners have mutiny on their boat #fishingforleave #voteleave #brexit https://t.co/BCb4PkZezW,"['fishingforleave', 'brexit', 'voteleave']"
-100,1159447,743178424361975808,3807368123,neutral,other,2016-06-15T20:28:38.000Z,"Today #fishingforleave did rule the waves! 👊
+99,99,99,99,99,1142694,743035755291942912,1931222966,neutral,leave,2016-06-15T11:01:43.000Z,Bob Geldof and Remain campaigners have mutiny on their boat #fishingforleave #voteleave #brexit https://t.co/BCb4PkZezW,"['fishingforleave', 'brexit', 'voteleave']"
+100,100,100,100,100,1159447,743178424361975808,3807368123,neutral,other,2016-06-15T20:28:38.000Z,"Today #fishingforleave did rule the waves! 👊
 #Nexit a # Brexit ✌ https://t.co/OGuXtmmnyl","['fishingforleave', 'nexit']"
-101,1270794,744444528657072128,724514225108979712,neutral,other,2016-06-19T08:19:41.000Z,unquestionably and simply right &amp; British #FishingGO/#fishingforleave #brexit https://t.co/8JlSKJRXlw,"['fishinggo', 'fishingforleave', 'brexit']"
-102,1171301,743330718588145664,3293235761,negative,other,2016-06-16T06:33:48.000Z,"Sadly typical #Remainist denial about dire effects of #CFP.
+101,101,101,101,101,1270794,744444528657072128,724514225108979712,neutral,other,2016-06-19T08:19:41.000Z,unquestionably and simply right &amp; British #FishingGO/#fishingforleave #brexit https://t.co/8JlSKJRXlw,"['fishinggo', 'fishingforleave', 'brexit']"
+102,102,102,102,102,1171301,743330718588145664,3293235761,negative,other,2016-06-16T06:33:48.000Z,"Sadly typical #Remainist denial about dire effects of #CFP.
 
 #fishoffgeldof #fishingforleave #Brexit #Guardiandenial https://t.co/mDBi1LhOos","['fishoffgeldof', 'brexit', 'cfp', 'fishingforleave', 'remainist', 'guardiandenial']"
-103,1157363,743162991999324160,725152240160350208,positive,other,2016-06-15T19:27:19.000Z,"#fishingforleave
+103,103,103,103,103,1157363,743162991999324160,725152240160350208,positive,other,2016-06-15T19:27:19.000Z,"#fishingforleave
 #FISHOFFGELDOF
 
 Is there a way to financially support fishing industry to rebuild after #brexit? https://t.co/Nsta2LJjdu","['fishoffgeldof', 'brexit?', 'fishingforleave']"
-104,1148621,743071343810359296,722085149261881344,neutral,leave,2016-06-15T13:23:08.000Z,"#fishoffgeldof and yours!
+104,104,104,104,104,1148621,743071343810359296,722085149261881344,neutral,leave,2016-06-15T13:23:08.000Z,"#fishoffgeldof and yours!
 
 #fishingforleave and you're hooked on #Brexit 
 Now let's see who's also wisely. #Nexit? https://t.co/nZuXhj1DCt","['fishoffgeldof', 'nexit?', 'fishingforleave', 'brexit']"
-105,1139978,743021723277230080,1695962126,neutral,leave,2016-06-15T10:05:58.000Z,"Come on #fishingforleave with your #flotilla on the #Thames, sink that wazzock #Geldoff #VoteLeave #Brexit","['geldoff', 'brexit', 'fishingforleave', 'thames', 'voteleave', 'flotilla']"
-106,1137690,743010664642416640,95987075,positive,other,2016-06-15T09:22:01.000Z,@WonnacottLouise Wish I was there! Wishing #fishingforleave the very best! #Brexit #leave #getourwatersback,"['getourwatersback', 'brexit', 'leave', 'fishingforleave']"
-107,1168347,743294776728924160,3249042484,negative,other,2016-06-16T04:10:59.000Z,"#fishingforleave #brexit #LabourLeave #LabourIn #euref #InOrOut 
+105,105,105,105,105,1139978,743021723277230080,1695962126,neutral,leave,2016-06-15T10:05:58.000Z,"Come on #fishingforleave with your #flotilla on the #Thames, sink that wazzock #Geldoff #VoteLeave #Brexit","['geldoff', 'brexit', 'fishingforleave', 'thames', 'voteleave', 'flotilla']"
+106,106,106,106,106,1137690,743010664642416640,95987075,positive,other,2016-06-15T09:22:01.000Z,@WonnacottLouise Wish I was there! Wishing #fishingforleave the very best! #Brexit #leave #getourwatersback,"['getourwatersback', 'brexit', 'leave', 'fishingforleave']"
+107,107,107,107,107,1168347,743294776728924160,3249042484,negative,other,2016-06-16T04:10:59.000Z,"#fishingforleave #brexit #LabourLeave #LabourIn #euref #InOrOut 
 
 Pretentious Twat Bob Geldof vs UK Fishermen
 https://t.co/e8ZK30775J","['inorout', 'labourin', 'fishingforleave', 'euref', 'labourleave', 'brexit']"
-108,1156815,743128422923284480,30059108,negative,leave,2016-06-15T17:09:57.000Z,Vote Leave #VoteLeave #fishingforleave #LeaveEU #LabourLeave #Brexit https://t.co/fJyl5GBHG8,"['leaveeu', 'brexit', 'fishingforleave', 'labourleave', 'voteleave']"
-109,1254700,744200957504921600,31178944,neutral,leave,2016-06-18T16:11:49.000Z,#Brexit #VoteLeave #EURO2016 #EUref #EUreferendum #LeaveEU #fishingforleave #ukip #seashanties #seashanties  https://t.co/wVsKN7bGEh,"['leaveeu', 'euref', 'brexit', 'eureferendum', 'seashanties', 'fishingforleave', 'ukip', 'voteleave', 'euro2016']"
-110,1156371,743125230860828672,3087093887,positive,leave,2016-06-15T16:57:16.000Z,100% Agree! #EUref #Brexit #Lexit #LeaveEU #VoteLeave #LabourLeave #flotilla #Thames #fishingforleave https://t.co/mUAD6z7xgx,"['leaveeu', 'lexit', 'euref', 'brexit', 'fishingforleave', 'thames', 'labourleave', 'voteleave', 'flotilla']"
-111,1414508,745420829152940032,2814756798,neutral,leave,2016-06-22T00:59:09.000Z,The EU &amp; the Decline of UK Fishing Industry https://t.co/2dMtzOu5TC #FishingForLeave #VoteLeave #Lexit #Brexit,"['lexit', 'brexit', 'voteleave', 'fishingforleave']"
-112,1412431,745422138119696384,2814756798,neutral,leave,2016-06-22T01:04:21.000Z,Fishermen chart course towards Brexit https://t.co/NUoQu8AJbz #FishingForLeave #VoteLeave #Lexit,"['lexit', 'voteleave', 'fishingforleave']"
-113,1137928,743011958845235200,1931222966,neutral,leave,2016-06-15T09:27:10.000Z,Live video feed of the flotilla  #fishingforleave #voteleave #brexit #euref #london https://t.co/TG4uYX8g3k,"['london', 'voteleave', 'fishingforleave', 'euref', 'brexit']"
-114,1193119,743418422432763904,2721267708,negative,leave,2016-06-16T12:22:18.000Z,"#Brexit Threatens To Topple World Government https://t.co/kG9kcFBTJF
+108,108,108,108,108,1156815,743128422923284480,30059108,negative,leave,2016-06-15T17:09:57.000Z,Vote Leave #VoteLeave #fishingforleave #LeaveEU #LabourLeave #Brexit https://t.co/fJyl5GBHG8,"['leaveeu', 'brexit', 'fishingforleave', 'labourleave', 'voteleave']"
+109,109,109,109,109,1254700,744200957504921600,31178944,neutral,leave,2016-06-18T16:11:49.000Z,#Brexit #VoteLeave #EURO2016 #EUref #EUreferendum #LeaveEU #fishingforleave #ukip #seashanties #seashanties  https://t.co/wVsKN7bGEh,"['leaveeu', 'euref', 'brexit', 'eureferendum', 'seashanties', 'fishingforleave', 'ukip', 'voteleave', 'euro2016']"
+110,110,110,110,110,1156371,743125230860828672,3087093887,positive,leave,2016-06-15T16:57:16.000Z,100% Agree! #EUref #Brexit #Lexit #LeaveEU #VoteLeave #LabourLeave #flotilla #Thames #fishingforleave https://t.co/mUAD6z7xgx,"['leaveeu', 'lexit', 'euref', 'brexit', 'fishingforleave', 'thames', 'labourleave', 'voteleave', 'flotilla']"
+111,111,111,111,111,1414508,745420829152940032,2814756798,neutral,leave,2016-06-22T00:59:09.000Z,The EU &amp; the Decline of UK Fishing Industry https://t.co/2dMtzOu5TC #FishingForLeave #VoteLeave #Lexit #Brexit,"['lexit', 'brexit', 'voteleave', 'fishingforleave']"
+112,112,112,112,112,1412431,745422138119696384,2814756798,neutral,leave,2016-06-22T01:04:21.000Z,Fishermen chart course towards Brexit https://t.co/NUoQu8AJbz #FishingForLeave #VoteLeave #Lexit,"['lexit', 'voteleave', 'fishingforleave']"
+113,113,113,113,113,1137928,743011958845235200,1931222966,neutral,leave,2016-06-15T09:27:10.000Z,Live video feed of the flotilla  #fishingforleave #voteleave #brexit #euref #london https://t.co/TG4uYX8g3k,"['london', 'voteleave', 'fishingforleave', 'euref', 'brexit']"
+114,114,114,114,114,1193119,743418422432763904,2721267708,negative,leave,2016-06-16T12:22:18.000Z,"#Brexit Threatens To Topple World Government https://t.co/kG9kcFBTJF
 #FishingForLeave #BobGeldof #Migrants #Islam #RegressiveLeft #Orlando","['migrants', 'orlando', 'bobgeldof', 'regressiveleft', 'brexit', 'islam', 'fishingforleave']"
-115,1165474,743206450122588160,2781680974,neutral,leave,2016-06-15T22:20:00.000Z,"Sir ""bob'a'nob"" to rescue #Remain look even bigger fools now #VoteLeave #NigelFarage #fishingforleave #Brexit  https://t.co/s43nHBCdBX","['nigelfarage', 'brexit', 'fishingforleave', 'remain', 'voteleave']"
-116,1146294,743055575840350208,2405096358,negative,other,2016-06-15T12:20:29.000Z,"#BobGeldoff supports #REMAIN and says ""Give us your fucking country""  #fishingforleave #Brexit #voteleave #EUref https://t.co/xyLzCzgerK","['remain', 'euref', 'voteleave', 'brexit', 'fishingforleave', 'bobgeldoff']"
-117,1117322,742835934098554880,726410304,positive,leave,2016-06-14T21:47:42.000Z,#VoteLeave #Brexit #fishingforleave  #London #riverthames The uk fishing fleet is coming and they want OUT!!! https://t.co/SFGZvKNqmt,"['riverthames', 'brexit', 'fishingforleave', 'london', 'voteleave']"
-118,2208435,746415473072431104,2292678794,neutral,leave,2016-06-24T18:51:31.000Z,Well we did it! What a day! Proud of all the fishermen involved in protest whether on land or sea #FishingForLeave #brexit #takebackcontrol,"['takebackcontrol', 'brexit', 'fishingforleave']"
-119,1146530,743056966294110208,282577289,negative,other,2016-06-15T12:26:00.000Z,"What a total wanker, this ...
+115,115,115,115,115,1165474,743206450122588160,2781680974,neutral,leave,2016-06-15T22:20:00.000Z,"Sir ""bob'a'nob"" to rescue #Remain look even bigger fools now #VoteLeave #NigelFarage #fishingforleave #Brexit  https://t.co/s43nHBCdBX","['nigelfarage', 'brexit', 'fishingforleave', 'remain', 'voteleave']"
+116,116,116,116,116,1146294,743055575840350208,2405096358,negative,other,2016-06-15T12:20:29.000Z,"#BobGeldoff supports #REMAIN and says ""Give us your fucking country""  #fishingforleave #Brexit #voteleave #EUref https://t.co/xyLzCzgerK","['remain', 'euref', 'voteleave', 'brexit', 'fishingforleave', 'bobgeldoff']"
+117,117,117,117,117,1117322,742835934098554880,726410304,positive,leave,2016-06-14T21:47:42.000Z,#VoteLeave #Brexit #fishingforleave  #London #riverthames The uk fishing fleet is coming and they want OUT!!! https://t.co/SFGZvKNqmt,"['riverthames', 'brexit', 'fishingforleave', 'london', 'voteleave']"
+118,118,118,118,118,2208435,746415473072431104,2292678794,neutral,leave,2016-06-24T18:51:31.000Z,Well we did it! What a day! Proud of all the fishermen involved in protest whether on land or sea #FishingForLeave #brexit #takebackcontrol,"['takebackcontrol', 'brexit', 'fishingforleave']"
+119,119,119,119,119,1146530,743056966294110208,282577289,negative,other,2016-06-15T12:26:00.000Z,"What a total wanker, this ...
 
 #Brexit #fishingforleave #flotilla #Thames","['thames', 'brexit', 'fishingforleave', 'flotilla']"
-120,1147838,743065889638080512,95987075,neutral,other,2016-06-15T13:01:28.000Z,@Linda_b_123 #Geldof #Thames #fishingforleave People left Geldof's boat in disgust-with him&amp; tactics against our Nations Fishermen #Brexit,"['thames', 'brexit', 'geldof', 'fishingforleave']"
-121,1162866,743176975553040384,369126127,neutral,other,2016-06-15T20:22:53.000Z,"Rematch! #BobGeldof &amp; #Brexit 500nm off the coast of the U.K. In winter, survive that # bobtheknob! #Thames #fishingforleave #uk #UKIP","['uk', 'bobgeldof', 'brexit', 'ukip', 'fishingforleave', 'thames']"
-122,1136550,743035204604944384,31178944,positive,leave,2016-06-15T10:59:32.000Z,@Nigel_Farage Geldof is a champagne socialist. What a joke. #fishingforleave #brexit #VoteLeave,"['voteleave', 'fishingforleave', 'brexit']"
-123,1274646,744477666888323072,129178047,positive,leave,2016-06-19T10:31:22.000Z,Jesus wept! #brexit #VoteLeave #fishingforleave  https://t.co/bUmCQUzvwQ,"['voteleave', 'fishingforleave', 'brexit']"
-124,1144720,743076240307965952,31178944,negative,leave,2016-06-15T13:42:36.000Z,"@CollegeGnSpy @bazilyo strip him of his ""Sir"". Appalling behaviour.#fishingforleave #brexit #VoteLeave @Nigel_Farage @NickFerrariLBC","['voteleave', 'fishingforleave', 'brexit']"
-125,1074653,742413571695448064,31178944,neutral,leave,2016-06-13T17:49:23.000Z,#fishingforleave #VoteLeave #brexit @Nigel_Farage @fishingforleave @BritSeaFishing @MrsLund1 #EUDebate Well done all https://t.co/Wmb0fTFtZ5,"['voteleave', 'fishingforleave', 'brexit', 'eudebate']"
-126,1530101,753594011873603584,201376183,positive,other,2016-07-14T14:16:28.000Z,Hope @andrealeadsom uses tenacity she had for #Brexit to return British fishing waters back to British fishermen. #fishingforleave,"['brexit', 'fishingforleave']"
-127,612418,747868894707257344,122151170,neutral,leave,2016-06-28T19:06:53.000Z,I'm sure that Brexit wasn't all my doing! #fishingforleave #eatmorefish #business https://t.co/JjGt2uzrPI,"['business', 'eatmorefish', 'fishingforleave']"
-128,1438927,816760156893696000,220387693,neutral,other,2017-01-04T21:36:10.000Z,The subtitles don't work. Does anyone speak Tesco Value Brand? #Brexit #FishingforLeave https://t.co/xkKliYL9DH,"['fishingforleave', 'brexit']"
-129,1457675,817399426402713600,220387693,neutral,leave,2017-01-06T15:56:24.000Z,@LapwingPD972 gotcha. Even more so after #Brexit #FishingforLeave,"['fishingforleave', 'brexit']"
-130,1621999,866384166342078464,1905789708,negative,other,2017-05-21T20:04:16.000Z,"@TheScientistUK @fishingforleave @andrealeadsom Well done #FishingForLeave. You're absolutely right to be sceptical, we are hearing too many fine Brexit words and as yet no action.",['fishingforleave']
-131,614940,836560748922953728,2252017892,neutral,other,2017-02-28T12:56:39.000Z,"#fishingforLeave: 
+120,120,120,120,120,1147838,743065889638080512,95987075,neutral,other,2016-06-15T13:01:28.000Z,@Linda_b_123 #Geldof #Thames #fishingforleave People left Geldof's boat in disgust-with him&amp; tactics against our Nations Fishermen #Brexit,"['thames', 'brexit', 'geldof', 'fishingforleave']"
+121,121,121,121,121,1162866,743176975553040384,369126127,neutral,other,2016-06-15T20:22:53.000Z,"Rematch! #BobGeldof &amp; #Brexit 500nm off the coast of the U.K. In winter, survive that # bobtheknob! #Thames #fishingforleave #uk #UKIP","['uk', 'bobgeldof', 'brexit', 'ukip', 'fishingforleave', 'thames']"
+122,122,122,122,122,1136550,743035204604944384,31178944,positive,leave,2016-06-15T10:59:32.000Z,@Nigel_Farage Geldof is a champagne socialist. What a joke. #fishingforleave #brexit #VoteLeave,"['voteleave', 'fishingforleave', 'brexit']"
+123,123,123,123,123,1274646,744477666888323072,129178047,positive,leave,2016-06-19T10:31:22.000Z,Jesus wept! #brexit #VoteLeave #fishingforleave  https://t.co/bUmCQUzvwQ,"['voteleave', 'fishingforleave', 'brexit']"
+124,124,124,124,124,1144720,743076240307965952,31178944,negative,leave,2016-06-15T13:42:36.000Z,"@CollegeGnSpy @bazilyo strip him of his ""Sir"". Appalling behaviour.#fishingforleave #brexit #VoteLeave @Nigel_Farage @NickFerrariLBC","['voteleave', 'fishingforleave', 'brexit']"
+125,125,125,125,125,1074653,742413571695448064,31178944,neutral,leave,2016-06-13T17:49:23.000Z,#fishingforleave #VoteLeave #brexit @Nigel_Farage @fishingforleave @BritSeaFishing @MrsLund1 #EUDebate Well done all https://t.co/Wmb0fTFtZ5,"['voteleave', 'fishingforleave', 'brexit', 'eudebate']"
+126,126,126,126,126,1530101,753594011873603584,201376183,positive,other,2016-07-14T14:16:28.000Z,Hope @andrealeadsom uses tenacity she had for #Brexit to return British fishing waters back to British fishermen. #fishingforleave,"['brexit', 'fishingforleave']"
+127,127,127,127,127,612418,747868894707257344,122151170,neutral,leave,2016-06-28T19:06:53.000Z,I'm sure that Brexit wasn't all my doing! #fishingforleave #eatmorefish #business https://t.co/JjGt2uzrPI,"['business', 'eatmorefish', 'fishingforleave']"
+128,128,128,128,128,1438927,816760156893696000,220387693,neutral,other,2017-01-04T21:36:10.000Z,The subtitles don't work. Does anyone speak Tesco Value Brand? #Brexit #FishingforLeave https://t.co/xkKliYL9DH,"['fishingforleave', 'brexit']"
+129,129,129,129,129,1457675,817399426402713600,220387693,neutral,leave,2017-01-06T15:56:24.000Z,@LapwingPD972 gotcha. Even more so after #Brexit #FishingforLeave,"['fishingforleave', 'brexit']"
+130,130,130,130,130,1621999,866384166342078464,1905789708,negative,other,2017-05-21T20:04:16.000Z,"@TheScientistUK @fishingforleave @andrealeadsom Well done #FishingForLeave. You're absolutely right to be sceptical, we are hearing too many fine Brexit words and as yet no action.",['fishingforleave']
+131,131,131,131,131,614940,836560748922953728,2252017892,neutral,other,2017-02-28T12:56:39.000Z,"#fishingforLeave: 
 &gt; NHS 350m - escaped
 &gt; simple Brexit- escaped 
 &gt; Farage- caught by US ship.",['fishingforleave']
-132,766563,976447190691405824,55568873,negative,leave,2018-03-21T13:15:26.000Z,@Nigel_Farage Gary has lots of money and does not give a flying f*** about the UK's declining industries and job losses.. As long as he's alright!? #fishingforleave #Brexit ☀️☀️☀️🇬🇧🇬🇧🇬🇧☀️☀️☀️,"['brexit', 'fishingforleave']"
-133,906098,983104708138151936,282550312,negative,remain,2018-04-08T22:10:02.000Z,Fishermen of UK have been sold by the UK govt not the EU... #Brexit will not solve their woes .. it lies with Westminster...  #FishingForLeave https://t.co/qzSB9L19ZU,"['brexit', 'fishingforleave']"
-134,903969,982991840688427008,419414119,positive,other,2018-04-08T14:41:32.000Z,Conwy fishermen showing support on a day of demonstrations to save the UK fishing industry #giveitback #FishingForLeave #Brexit @fishingforleave @NWPioneer @NewsNorthWales https://t.co/BV11MHMWq0,"['brexit', 'giveitback', 'fishingforleave']"
-135,767360,976477353936375808,220043584,positive,remain,2018-03-21T15:15:17.000Z,"Rees-Smug. I like that.
+132,132,132,132,132,766563,976447190691405824,55568873,negative,leave,2018-03-21T13:15:26.000Z,@Nigel_Farage Gary has lots of money and does not give a flying f*** about the UK's declining industries and job losses.. As long as he's alright!? #fishingforleave #Brexit ☀️☀️☀️🇬🇧🇬🇧🇬🇧☀️☀️☀️,"['brexit', 'fishingforleave']"
+133,133,133,133,133,906098,983104708138151936,282550312,negative,remain,2018-04-08T22:10:02.000Z,Fishermen of UK have been sold by the UK govt not the EU... #Brexit will not solve their woes .. it lies with Westminster...  #FishingForLeave https://t.co/qzSB9L19ZU,"['brexit', 'fishingforleave']"
+134,134,134,134,134,903969,982991840688427008,419414119,positive,other,2018-04-08T14:41:32.000Z,Conwy fishermen showing support on a day of demonstrations to save the UK fishing industry #giveitback #FishingForLeave #Brexit @fishingforleave @NWPioneer @NewsNorthWales https://t.co/BV11MHMWq0,"['brexit', 'giveitback', 'fishingforleave']"
+135,135,135,135,135,767360,976477353936375808,220043584,positive,remain,2018-03-21T15:15:17.000Z,"Rees-Smug. I like that.
 
 #ReesMogg #Brexit #fishingforleave","['brexit', 'reesmogg', 'fishingforleave']"
-136,898504,982647383031992320,190962362,positive,other,2018-04-07T15:52:47.000Z,"🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘
+136,136,136,136,136,898504,982647383031992320,190962362,positive,other,2018-04-07T15:52:47.000Z,"🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘
 🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟
 🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
 
 #FishFam - Please cheer them on ✊
 
 #Brexit #Event #Sunday #BurningBoats #SaveBritainsFish #FishingForLeave ⬇️ https://t.co/sr67aRE6Fd","['burningboats', 'savebritainsfish', 'sunday', 'brexit', 'fishfam', 'event', 'fishingforleave']"
-137,623333,970255461046980608,839840543916044160,negative,remain,2018-03-04T11:11:43.000Z,"This is the typical #Remain response to intelligent constructive factual conversation. #sad #insults 
+137,137,137,137,137,623333,970255461046980608,839840543916044160,negative,remain,2018-03-04T11:11:43.000Z,"This is the typical #Remain response to intelligent constructive factual conversation. #sad #insults 
  #Fishingforleave #Brexit https://t.co/yfidmVgkUm","['fishingforleave', 'sad', 'insults', 'brexit', 'remain']"
-138,772334,976736110536806400,2170209896,neutral,other,2018-03-22T08:23:30.000Z,"Not entirely sure if she is one of those #Brexiters, but if she was one, that would certainly explain the fish slap sticking it back to the man. #NigelFarage #FishingForLeave #HMSBrexit #EU #Brexit #Fishing #WestminsterBridge #ExitFromBrexit  https://t.co/YHOnpctypX","['hmsbrexit', 'westminsterbridge', 'fishing', 'exitfrombrexit', 'eu', 'nigelfarage', 'brexit', 'brexiters', 'fishingforleave']"
-139,902694,982935435654688768,190962362,positive,other,2018-04-08T10:57:24.000Z,"#Marr #Brexit #SundayMorning #ManchesterMarathon #SundayBrunch #amberrudd #LordAdonis #Fish #EU
+138,138,138,138,138,772334,976736110536806400,2170209896,neutral,other,2018-03-22T08:23:30.000Z,"Not entirely sure if she is one of those #Brexiters, but if she was one, that would certainly explain the fish slap sticking it back to the man. #NigelFarage #FishingForLeave #HMSBrexit #EU #Brexit #Fishing #WestminsterBridge #ExitFromBrexit  https://t.co/YHOnpctypX","['hmsbrexit', 'westminsterbridge', 'fishing', 'exitfrombrexit', 'eu', 'nigelfarage', 'brexit', 'brexiters', 'fishingforleave']"
+139,139,139,139,139,902694,982935435654688768,190962362,positive,other,2018-04-08T10:57:24.000Z,"#Marr #Brexit #SundayMorning #ManchesterMarathon #SundayBrunch #amberrudd #LordAdonis #Fish #EU
 
 #FishingForLeave #Event HAPPENING NOW &gt; @fishingforleave 
 🆘Our fishing rights are at risk - Please Brits - cheer them on✊🆘 
 
 🇬🇧🐟🇬🇧🐟🇬🇧🐟🇬🇧🐟🇬🇧🐟🇬🇧🐟🇬🇧🐟🇬🇧🐟🇬🇧🐟","['lordadonis', 'sundaymorning', 'brexit', 'amberrudd', 'event', 'marr', 'fishingforleave', 'eu', 'sundaybrunch', 'manchestermarathon', 'fish']"
-140,903513,982970166135975936,836721050008313728,positive,other,2018-04-08T13:15:24.000Z,#FishingForLeave protest on the #Tyne in the city of #Newcastle. First pictures. Thanks to @MossadJack. Stop the Brexit 'transition' sell-out of the once lucrative #British #Fishing #Industry to continued EU control of our waters. #Brexit now. EU boats OUT of our waters. (#Fish) https://t.co/H1X7r5pdwS,"['newcastle', 'fishing', 'fish', 'brexit', 'tyne', 'industry', 'british', 'fishingforleave']"
-141,748949,975803162631331840,2582547340,negative,remain,2018-03-19T18:36:18.000Z,@fishingforleave @oldbid45 @John2Win What a failure these Brexit negotiations have been! I thought @DavidDavisMP was the stand up guy for Brexit but I feel betrayed. Best outcome would be #nodeal #fishingforleave #JacobReesMogg,"['nodeal', 'jacobreesmogg', 'fishingforleave']"
-142,954345,985993462091796480,234698050,positive,other,2018-04-16T21:28:54.000Z,"Justice League
+140,140,140,140,140,903513,982970166135975936,836721050008313728,positive,other,2018-04-08T13:15:24.000Z,#FishingForLeave protest on the #Tyne in the city of #Newcastle. First pictures. Thanks to @MossadJack. Stop the Brexit 'transition' sell-out of the once lucrative #British #Fishing #Industry to continued EU control of our waters. #Brexit now. EU boats OUT of our waters. (#Fish) https://t.co/H1X7r5pdwS,"['newcastle', 'fishing', 'fish', 'brexit', 'tyne', 'industry', 'british', 'fishingforleave']"
+141,141,141,141,141,748949,975803162631331840,2582547340,negative,remain,2018-03-19T18:36:18.000Z,@fishingforleave @oldbid45 @John2Win What a failure these Brexit negotiations have been! I thought @DavidDavisMP was the stand up guy for Brexit but I feel betrayed. Best outcome would be #nodeal #fishingforleave #JacobReesMogg,"['nodeal', 'jacobreesmogg', 'fishingforleave']"
+142,142,142,142,142,954345,985993462091796480,234698050,positive,other,2018-04-16T21:28:54.000Z,"Justice League
 Superman: Leave (Hack 📝 - Brexit’s good for the trade)
 Batman: Remain (crime fighter = big Europol fan)
 Flash: Remain (Freedom of Movement ⚡️👍)
 Aquaman: Leave (#FishingForLeave #TakeBackOurFish)
 Wonder Woman: Leave (Raised on a sheltered island paradise etc)","['takebackourfish', 'fishingforleave']"
-143,764186,976384368288595968,413355878,neutral,other,2018-03-21T09:05:48.000Z,That #FishingForLeave flotilla in full for you. #brexit #thames https://t.co/035Ah1QVZS,"['thames', 'brexit', 'fishingforleave']"
-144,766390,976441162885189632,20550442,neutral,other,2018-03-21T12:51:29.000Z,"#Petition:
+143,143,143,143,143,764186,976384368288595968,413355878,neutral,other,2018-03-21T09:05:48.000Z,That #FishingForLeave flotilla in full for you. #brexit #thames https://t.co/035Ah1QVZS,"['thames', 'brexit', 'fishingforleave']"
+144,144,144,144,144,766390,976441162885189632,20550442,neutral,other,2018-03-21T12:51:29.000Z,"#Petition:
 Stop the #CommonFisheriesPolicy being adopted into #UKLaw post-#Brexit.
 #FishingForLeave
 @fishingforleave
 https://t.co/R0zF5a21vy","['uklaw', 'commonfisheriespolicy', 'petition', 'brexit', 'fishingforleave']"
-145,746408,1058321508655869952,25505244,negative,other,2018-11-02T11:34:44.000Z,"Just because they've taken the piss for 40 years doesn't mean they should be allowed to continue.
+145,145,145,145,145,746408,1058321508655869952,25505244,negative,other,2018-11-02T11:34:44.000Z,"Just because they've taken the piss for 40 years doesn't mean they should be allowed to continue.
 No access to British waters for EU fishermen!  #fishingforleave #brexit
 
 Brexit: EU fishing row threatens to snag May’s customs union plan https://t.co/m4W1K2Ze69","['fishingforleave', 'brexit']"
-146,746409,1058321508655869952,25505244,negative,other,2018-11-02T11:34:44.000Z,"Just because they've taken the piss for 40 years doesn't mean they should be allowed to continue.
+146,146,146,146,146,746409,1058321508655869952,25505244,negative,other,2018-11-02T11:34:44.000Z,"Just because they've taken the piss for 40 years doesn't mean they should be allowed to continue.
 No access to British waters for EU fishermen!  #fishingforleave #brexit
 
 Brexit: EU fishing row threatens to snag May’s customs union plan https://t.co/m4W1K2Ze69","['fishingforleave', 'brexit']"
-147,2297081,1071373077966073856,1027458519430131456,positive,other,2018-12-08T11:57:01.000Z,"Earn on Army Navy Game join us
+147,147,147,147,147,2297081,1071373077966073856,1027458519430131456,positive,other,2018-12-08T11:57:01.000Z,"Earn on Army Navy Game join us
 🇺🇲 https://t.co/2gI2J4Qkmx
 #SunDevils🤹🏼‍♂️ #Nevada #SeduceMenIn4Words😇🎄#Brexit #LeaveMeansLeave🥑#WTONow #LeaveEU🎁#FishingForLeave #emilia #travel😇#piedmont #italia #arena🐙#architecture #history https://t.co/udbo5v389s","['sundevils🤹🏼\u200d♂️', 'history', 'nevada', 'travel😇', 'brexit', 'piedmont', 'italia', 'seducemenin4words😇🎄', 'arena🐙', 'wtonow', 'architecture', 'fishingforleave', 'emilia', 'leaveeu🎁', 'leavemeansleave🥑']"
-148,2359231,1072093466161750016,1097530975,positive,other,2018-12-10T11:39:35.000Z,"At least 10 super trawlers working the English Channel today, they have more quota than the 5000 uk boats, hows that right? #brexit #fishingforleave #theyllbenofishleft #bansupertrawlers","['theyllbenofishleft', 'bansupertrawlers', 'fishingforleave', 'brexit']"
-149,2583012,1073646183787257856,3426181779,negative,other,2018-12-14T18:29:32.000Z,"Meet the Scots who can’t wait to finish Brexit and get out of the EU - and for good reason:- The rape of the seas, whilst our government was powerless, watching stocks decline and crash.
+148,148,148,148,148,2359231,1072093466161750016,1097530975,positive,other,2018-12-10T11:39:35.000Z,"At least 10 super trawlers working the English Channel today, they have more quota than the 5000 uk boats, hows that right? #brexit #fishingforleave #theyllbenofishleft #bansupertrawlers","['theyllbenofishleft', 'bansupertrawlers', 'fishingforleave', 'brexit']"
+149,149,149,149,149,2583012,1073646183787257856,3426181779,negative,other,2018-12-14T18:29:32.000Z,"Meet the Scots who can’t wait to finish Brexit and get out of the EU - and for good reason:- The rape of the seas, whilst our government was powerless, watching stocks decline and crash.
   https://t.co/kyMDDHEJPk
 @fishingforleave #fishingforleave @Con_voice #con_voice #UKLabour","['uklabour', 'con_voice', 'fishingforleave']"
-150,42557,1088076997614620672,1085903347658432256,positive,leave,2019-01-23T14:12:26.000Z,"I am 100% behind fisherman and #FishingForLeave! Agreement over using waters to fish after a #NoDeal #Brexit? Nope!
+150,150,150,150,150,42557,1088076997614620672,1085903347658432256,positive,leave,2019-01-23T14:12:26.000Z,"I am 100% behind fisherman and #FishingForLeave! Agreement over using waters to fish after a #NoDeal #Brexit? Nope!
 
 https://t.co/w0sKBW7OFA","['brexit?', 'nodeal', 'fishingforleave']"
-151,504122,1111349823561711616,337239641,negative,other,2019-03-28T19:30:20.000Z,"So there's no confusion ahead of tomorrow's doubtless million-strong #brexit protest in London
+151,151,151,151,151,504122,1111349823561711616,337239641,negative,other,2019-03-28T19:30:20.000Z,"So there's no confusion ahead of tomorrow's doubtless million-strong #brexit protest in London
 
 Photo 1: #fishingforleave
 Photo 2: #fishingforgirls https://t.co/sJ8nfeggOT","['fishingforgirls', 'fishingforleave', 'brexit']"
-152,17751,1106556851494313984,47928526,neutral,other,2019-03-15T14:04:46.000Z,My @pa story from the #fishingforleave Brexit flotilla on the Tyne  https://t.co/RgkKXSRpB3,['fishingforleave']
-153,1563768,1127841671197147136,760930990638456832,neutral,leave,2019-05-13T07:43:03.000Z,"@smartnotstupid have a think about this piece of patriotism;  the man who is f***ing up his fellow man but has to live away from the UK for 9 months of the year (for #money) https://t.co/4myAkfD7ij
+152,152,152,152,152,17751,1106556851494313984,47928526,neutral,other,2019-03-15T14:04:46.000Z,My @pa story from the #fishingforleave Brexit flotilla on the Tyne  https://t.co/RgkKXSRpB3,['fishingforleave']
+153,153,153,153,153,1563768,1127841671197147136,760930990638456832,neutral,leave,2019-05-13T07:43:03.000Z,"@smartnotstupid have a think about this piece of patriotism;  the man who is f***ing up his fellow man but has to live away from the UK for 9 months of the year (for #money) https://t.co/4myAkfD7ij
 
 @richardbranson #brexit #hypocrisy #quotas #fishingforleave #Wewantourfishback handsoffvenezuela https://t.co/7MDkiWnkAb","['hypocrisy', 'wewantourfishback', 'fishingforleave', 'quotas', 'brexit', 'money']"
-154,52509,1107189468719648768,28189547,positive,other,2019-03-17T07:58:34.000Z,Total support for this show those politicians they cannot stop #brexit #fishingforleave #MarchToLeave #BrexitBetrayalMarch #WTOBrexit https://t.co/hTN1XmXFVc,"['wtobrexit', 'fishingforleave', 'brexitbetrayalmarch', 'brexit', 'marchtoleave']"
-155,39362,1133353172699897856,3191417549,positive,leave,2019-05-28T12:43:47.000Z,"@ali__samson Yes, rallying UKIP to 'Save Brexit' (photo @hopenothate) helping UKIP and Farage, just weeks before #EUelections. Hoey also reunited with her and Farage's 2016 ally #FishingForLeave, revealed by @Channel4News to be linked to Far Right extremists StormFront https://t.co/F4lrOEhSrf https://t.co/KyQpvqYEuM","['fishingforleave', 'euelections']"
+154,154,154,154,154,52509,1107189468719648768,28189547,positive,other,2019-03-17T07:58:34.000Z,Total support for this show those politicians they cannot stop #brexit #fishingforleave #MarchToLeave #BrexitBetrayalMarch #WTOBrexit https://t.co/hTN1XmXFVc,"['wtobrexit', 'fishingforleave', 'brexitbetrayalmarch', 'brexit', 'marchtoleave']"
+155,155,155,155,155,39362,1133353172699897856,3191417549,positive,leave,2019-05-28T12:43:47.000Z,"@ali__samson Yes, rallying UKIP to 'Save Brexit' (photo @hopenothate) helping UKIP and Farage, just weeks before #EUelections. Hoey also reunited with her and Farage's 2016 ally #FishingForLeave, revealed by @Channel4News to be linked to Far Right extremists StormFront https://t.co/F4lrOEhSrf https://t.co/KyQpvqYEuM","['fishingforleave', 'euelections']"

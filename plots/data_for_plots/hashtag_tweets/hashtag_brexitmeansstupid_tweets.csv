@@ -1,21 +1,21 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,1263289,808614309236510720,601089226,neutral,remain,2016-12-13T10:07:29.000Z,"So #Brexit means lower wages, higher prices, the economy going backwards. #AntiBrexit #BrexitmeansStupid https://t.co/n2yOo0SfvF","['brexit', 'brexitmeansstupid', 'antibrexit']"
-1,1,1,1325355,811142699415928832,601089226,negative,other,2016-12-20T09:34:24.000Z,#BrexitmeansStupid #BrexitmeansLessControloverCrime. How Brexit could be a boon for criminals https://t.co/sieg1URyNk via @markpack,"['brexitmeanslesscontrolovercrime', 'brexitmeansstupid']"
-2,2,2,1418430,816266920353787904,601089226,neutral,other,2017-01-03T12:56:13.000Z,"#BrexitmeansStupid #BrexitmeansNonsenseEconomics 
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+0,0,0,0,0,0,0,1263289,808614309236510720,601089226,neutral,remain,2016-12-13T10:07:29.000Z,"So #Brexit means lower wages, higher prices, the economy going backwards. #AntiBrexit #BrexitmeansStupid https://t.co/n2yOo0SfvF","['brexit', 'brexitmeansstupid', 'antibrexit']"
+1,1,1,1,1,1,1,1325355,811142699415928832,601089226,negative,other,2016-12-20T09:34:24.000Z,#BrexitmeansStupid #BrexitmeansLessControloverCrime. How Brexit could be a boon for criminals https://t.co/sieg1URyNk via @markpack,"['brexitmeanslesscontrolovercrime', 'brexitmeansstupid']"
+2,2,2,2,2,2,2,1418430,816266920353787904,601089226,neutral,other,2017-01-03T12:56:13.000Z,"#BrexitmeansStupid #BrexitmeansNonsenseEconomics 
 Claim Brexit could create 400,000 jobs 'entirely fictional', 
 https://t.co/i8XCpmybw8","['brexitmeansnonsenseeconomics', 'brexitmeansstupid']"
-3,3,3,1328233,811218992971005952,601089226,negative,remain,2016-12-20T14:37:34.000Z,"#BrexitmeansStupid #BrexitmeansLosingDemocraticRights
+3,3,3,3,3,3,3,1328233,811218992971005952,601089226,negative,remain,2016-12-20T14:37:34.000Z,"#BrexitmeansStupid #BrexitmeansLosingDemocraticRights
 May refuses to commit to MPs' vote on final Brexit deal
 https://t.co/XfHQkU6zmR","['brexitmeansstupid', 'brexitmeanslosingdemocraticrights']"
-4,4,4,1394812,814860583401099264,601089226,neutral,other,2016-12-30T15:47:57.000Z,#BrexitmeansStupid #BrexitmeansPoverty Brexit could slash jobs growth and incomes in Northern Ireland https://t.co/oJ8OdJdzmM,"['brexitmeansstupid', 'brexitmeanspoverty']"
-5,5,5,66156,820586053572685824,601089226,negative,other,2017-01-15T10:58:55.000Z,"#BrexitmeansStupid #BrexitmeansMoreQueuing
+4,4,4,4,4,4,4,1394812,814860583401099264,601089226,neutral,other,2016-12-30T15:47:57.000Z,#BrexitmeansStupid #BrexitmeansPoverty Brexit could slash jobs growth and incomes in Northern Ireland https://t.co/oJ8OdJdzmM,"['brexitmeansstupid', 'brexitmeanspoverty']"
+5,5,5,5,5,5,5,66156,820586053572685824,601089226,negative,other,2017-01-15T10:58:55.000Z,"#BrexitmeansStupid #BrexitmeansMoreQueuing
 Passport queues could be longer after #Brexit airports warn 
 https://t.co/32CV635miR","['brexit', 'brexitmeansmorequeuing', 'brexitmeansstupid']"
-6,6,6,1424640,928377187568414720,601089226,negative,other,2017-11-08T21:42:24.000Z,#Prexit @patel4witham learnt that lying worked when she rode on the #Brexit #LieBus. Not surprising she had trouble telling the truth about her #Israel ventures. #BrexitMeansStupid #BrexitMeansLies,"['brexitmeanslies', 'brexit', 'liebus', 'prexit', 'israel', 'brexitmeansstupid']"
-7,7,7,220368,884480939514101760,601089226,negative,other,2017-07-10T18:34:23.000Z,Here's what #Brexit's all about. Not just #BrexitMeansStupid but #BrexitMeansBetrayingUK. Every one of us will suffer. https://t.co/lmtp4qGLD2,"['brexitmeansstupid', ""brexit's"", 'brexitmeansbetrayinguk']"
-8,8,8,2154964,1070228231490596864,269997972,negative,leave,2018-12-05T08:07:48.000Z,Theresa May talking about bringing the country together. This the idiot who choose to ignore and insult nearly half the Country who had voted not to leave the with ‘Brexit means Brexit’! #Brexitmeansstupid,['brexitmeansstupid']
-9,9,9,2154965,1070228231490596864,269997972,negative,leave,2018-12-05T08:07:48.000Z,Theresa May talking about bringing the country together. This the idiot who choose to ignore and insult nearly half the Country who had voted not to leave the with ‘Brexit means Brexit’! #Brexitmeansstupid,['brexitmeansstupid']
-10,10,10,733978,1113395020764200960,27206066,positive,remain,2019-04-03T10:57:13.000Z,"""Britain is about to put up a big sign: GO AWAY.""
+6,6,6,6,6,6,6,1424640,928377187568414720,601089226,negative,other,2017-11-08T21:42:24.000Z,#Prexit @patel4witham learnt that lying worked when she rode on the #Brexit #LieBus. Not surprising she had trouble telling the truth about her #Israel ventures. #BrexitMeansStupid #BrexitMeansLies,"['brexitmeanslies', 'brexit', 'liebus', 'prexit', 'israel', 'brexitmeansstupid']"
+7,7,7,7,7,7,7,220368,884480939514101760,601089226,negative,other,2017-07-10T18:34:23.000Z,Here's what #Brexit's all about. Not just #BrexitMeansStupid but #BrexitMeansBetrayingUK. Every one of us will suffer. https://t.co/lmtp4qGLD2,"['brexitmeansstupid', ""brexit's"", 'brexitmeansbetrayinguk']"
+8,8,8,8,8,8,8,2154964,1070228231490596864,269997972,negative,leave,2018-12-05T08:07:48.000Z,Theresa May talking about bringing the country together. This the idiot who choose to ignore and insult nearly half the Country who had voted not to leave the with ‘Brexit means Brexit’! #Brexitmeansstupid,['brexitmeansstupid']
+9,9,9,9,9,9,9,2154965,1070228231490596864,269997972,negative,leave,2018-12-05T08:07:48.000Z,Theresa May talking about bringing the country together. This the idiot who choose to ignore and insult nearly half the Country who had voted not to leave the with ‘Brexit means Brexit’! #Brexitmeansstupid,['brexitmeansstupid']
+10,10,10,10,10,10,10,733978,1113395020764200960,27206066,positive,remain,2019-04-03T10:57:13.000Z,"""Britain is about to put up a big sign: GO AWAY.""
 ""The problem with holding out for a perfect Brexit plan is that you can’t fix stupid.""
 
 #brexit_means_stupid
