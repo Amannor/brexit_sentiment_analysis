@@ -1,5 +1,4 @@
 import glob
-from collections import Counter
 
 from common_utiles import *
 
@@ -8,7 +7,6 @@ DEF_CSV_HEADER = ('t_id', 'user_id', 't_sentiment', 't_stance', 't_date') #ID~us
 CSV_HEADER_INCL_TXT = ('t_id', 'user_id', 't_sentiment', 't_stance', 't_date', 't_text')
 
 def get_existing_tweets_per_category(only_files_with_text):
-    # tweets_ids_to_creation_time = {}
     tweets_ids_and_creation_time = []
     tweets_ids_not_found = set()
     tweets_ids_not_authorized = set()
@@ -84,18 +82,13 @@ def final_report_data_generator(only_files_with_text = True):
         out_file_count = 1
         data_file = os.path.join(DATA_FOLDER, f'tweets_stance_sentiment_{i}outof4.csv')
         print(f'{get_cur_formatted_time()} Reading {data_file}')
-        data_tweets_ids = set()
-        duplicate_tweets_ids = Counter()
         tweets_ids_not_requested_yet = set()
-        all_tweets_info = []
-        tweets_found_count, tweets_not_found_count, tweets_not_authorized_count = 0, 0, 0
 
         with pd.read_csv(data_file, chunksize=max_tweets_per_file, sep="~") as reader:
             for chunk in reader:
                 out_fname = os.path.join(FINAL_REPORT_DATA_FOLDER, f'tweets_stance_sentiment_incl_date_and_text_{i}_{out_file_count}_outof4.csv')
                 if i == 1:
                     chunk.rename(columns={'ID': 't_id'}, inplace=True)
-                        # .merge(tweets_ids_and_creation_time, how='inner')
                 else:
                     chunk.columns = list(DEF_CSV_HEADER)[:4]
 
@@ -260,11 +253,8 @@ def final_report_plot_generator():
      - Count every tweet as one divided by the number of overall tweets that the user tweeted in each timespan separately
     '''
 
-
-
-
 if __name__ == "__main__":
     print(f'{get_cur_formatted_time()} Start')
-    # final_report_data_generator()
+    final_report_data_generator()
     final_report_plot_generator()
     print(f'{get_cur_formatted_time()} FIN')
