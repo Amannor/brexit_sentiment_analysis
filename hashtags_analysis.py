@@ -230,7 +230,14 @@ def create_hashtags_histograms():
 
     filtered_counter = get_only_specific_keys_from_counter(hashtags_counter)
     plot_most_common(filtered_counter, title_suffix=" pure-stance hashtags")
-    plot_most_common(filtered_counter, n=len(filtered_counter), title_suffix=" pure-stance hashtags")
+    filtered_counter_remain = get_only_specific_keys_from_counter(hashtags_counter, keys = LEAVE_TAGS)
+    filtered_counter_remain = filtered_counter_remain.most_common(20)
+    filtered_counter_remain = Counter({i[0]: i[1] for i in filtered_counter_remain})
+    filtered_counter_leave = get_only_specific_keys_from_counter(hashtags_counter, keys = REMAIN_TAGS)
+    filtered_counter_leave = filtered_counter_leave.most_common(20)
+    filtered_counter_leave = Counter({i[0]: i[1] for i in filtered_counter_leave})
+    filtered_counter = sum_counters([filtered_counter_remain, filtered_counter_leave])
+    plot_most_common(filtered_counter, n=len(filtered_counter), title_suffix=" top 20 from each pure-stance hashtags")
 
     '''
     TODO:
