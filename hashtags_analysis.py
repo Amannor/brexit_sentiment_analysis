@@ -116,6 +116,12 @@ def extract_hash_tags(s):
     tags -= tags_to_remove
     tags.update(tags_to_add)
 
+    '''
+    TODO (optional): there are tags that contain the sequence '"\' - not sure what to do with (some cases require
+    splitting to separate tags, some just deleting the sequence from the tag (and not splitting). It's pretty rare so
+    no big deal
+    '''
+
 
     tags = [process_tokens(t.lower()) for t in tags]
     tags = list(filter(None, tags))  # Remove empty strings
