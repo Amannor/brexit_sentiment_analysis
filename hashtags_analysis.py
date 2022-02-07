@@ -1,12 +1,15 @@
 import html
-import re
+import html.parser
+import json
+import os
 from collections import Counter, OrderedDict
 from string import punctuation
-import html.parser
 
 import matplotlib.patches as mpatches
+import matplotlib.pyplot as plt
+import pandas as pd
 
-from common_utiles import *
+import common_utiles as cu
 
 BOT_SCORES_DF = None
 TAG_FREQ_PERCANT_CUTOFF = [0.1, 0.25, 0.5, 1, 1.5]
@@ -147,16 +150,16 @@ def sum_counters(counter_list):
 
 def calculate_hashtags_counter(bot_score_threshold=None):
     hashtags_counter = Counter()
-    should_filter_bots, bot_msg_suffix = handle_bots(bot_score_threshold)
+    should_filter_bots, bot_msg_suffix = cu.handle_bots(bot_score_threshold)
 
-    for fname in os.listdir(FINAL_REPORT_DATA_FOLDER):
+    for fname in os.listdir(cu.FINAL_REPORT_DATA_FOLDER):
         if not (fname.startswith(f'tweets_stance_sentiment_incl_date_and_text') and fname.endswith(".csv")):
             continue
-        full_fname = os.path.join(FINAL_REPORT_DATA_FOLDER, fname)
-        print(f'{get_cur_formatted_time()} Parsing {full_fname}{bot_msg_suffix}')
+        full_fname = os.path.join(cu.FINAL_REPORT_DATA_FOLDER, fname)
+        print(f'{cu.get_cur_formatted_time()} Parsing {full_fname}{bot_msg_suffix}')
         df = pd.read_csv(full_fname)
         if should_filter_bots:
-            df = remove_bots_by_threshold(df, bot_score_threshold)
+            df = cu.remove_bots_by_threshold(df, bot_score_threshold)
 
         df["hashtags"] = df["t_text"].apply(extract_hash_tags)
         df = df.drop(df.columns.difference(["hashtags"]), axis="columns")  # Drop all but "hashtags" column
@@ -183,36 +186,36 @@ def plot_most_common(counter, n=10, keys_to_ignore=[], title_suffix=""):
                      ha='center')  # Source: https://stackoverflow.com/a/55866275
 
             if tag[0] in REMAIN_TAGS:
-                colors.append(REMAIN_COLOR)
+                colors.append(cu.REMAIN_COLOR)
             elif tag[0] in LEAVE_TAGS:
-                colors.append(LEAVE_COLOR)
+                colors.append(cu.LEAVE_COLOR)
             else:
-                colors.append(OTHER_STANCE_COLOR)
+                colors.append(cu.OTHER_STANCE_COLOR)
     plt.bar(x_vals, y_vals, color=colors)
     plt.title(f'{n} most common tags{title_suffix}')
 
     # Custom legend (see https://stackoverflow.com/a/39500357)
-    legend_item_remain = mpatches.Patch(color=REMAIN_COLOR, label='Remain')
-    legend_item_leave = mpatches.Patch(color=LEAVE_COLOR, label='Leave')
-    legend_item_other = mpatches.Patch(color=OTHER_STANCE_COLOR, label='Other')
+    legend_item_remain = mpatches.Patch(color=cu.REMAIN_COLOR, label='Remain')
+    legend_item_leave = mpatches.Patch(color=cu.LEAVE_COLOR, label='Leave')
+    legend_item_other = mpatches.Patch(color=cu.OTHER_STANCE_COLOR, label='Other')
     plt.legend(handles=[legend_item_remain, legend_item_leave, legend_item_other])
 
     plt.xticks(rotation=45, ha="right")  # Tilt the x ticks lables
     plt.subplots_adjust(bottom=0.25)
-    save_fig(f'{n}_most_common_tags{title_suffix.lower().replace(" ", "_").replace("-", "_").replace(",", "")}')
+    cu.save_fig(f'{n}_most_common_tags{title_suffix.lower().replace(" ", "_").replace("-", "_").replace(",", "")}')
 
 
 def get_and_write_hashtags_counter():
-    counter_fname = os.path.join(PLOTS_DATA_FOLDER, "hashtags_counter.json")
+    counter_fname = os.path.join(cu.PLOTS_DATA_FOLDER, "hashtags_counter.json")
     if os.path.isfile(counter_fname):
-        print(f'{get_cur_formatted_time()} Reading data from {counter_fname}')
+        print(f'{cu.get_cur_formatted_time()} Reading data from {counter_fname}')
         with open(counter_fname, "r", encoding="utf-8") as f:
             cur_dict = json.load(f)
             hashtags_counter = Counter(cur_dict)
     else:
-        print(f'{get_cur_formatted_time()} No existing data file found, calculating hashtags frequency')
+        print(f'{cu.get_cur_formatted_time()} No existing data file found, calculating hashtags frequency')
         hashtags_counter = calculate_hashtags_counter()
-        write_to_json_file_if_not_empty(hashtags_counter, counter_fname, escape_html_chars=False)
+        cu.write_to_json_file_if_not_empty(hashtags_counter, counter_fname, escape_html_chars=False)
     return hashtags_counter
 
 
@@ -261,17 +264,17 @@ def get_exist_tags_to_tweets_or_default(hashtags_counter):
     tag_to_tweets = {tag: None for tag in hashtags_counter}
     existing_counters_count = 0
     for tag in hashtags_counter:
-        fname = os.path.join(PLOTS_DATA_FOLDER, 'hashtag_tweets', f"hashtag_{tag}_tweets.csv")
+        fname = os.path.join(cu.PLOTS_DATA_FOLDER, 'hashtag_tweets', f"hashtag_{tag}_tweets.csv")
         if os.path.isfile(fname):
             tag_to_tweets[tag] = pd.read_csv(fname)
             existing_counters_count += 1
 
-    print(f'{get_cur_formatted_time()} Found existing data for {existing_counters_count}/{len(hashtags_counter)} tags')
+    print(f'{cu.get_cur_formatted_time()} Found existing data for {existing_counters_count}/{len(hashtags_counter)} tags')
     return tag_to_tweets
 
 
 def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
-    should_filter_bots, bot_msg_suffix = handle_bots(bot_score_threshold)
+    should_filter_bots, bot_msg_suffix = cu.handle_bots(bot_score_threshold)
     hashtags_counter = get_and_write_hashtags_counter()
     hashtags_counter = get_only_specific_keys_from_counter(hashtags_counter, reverse=True)
     max_tweets_per_tag = 200
@@ -282,25 +285,25 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
     tag_to_tweets = get_exist_tags_to_tweets_or_default(hashtags_counter)
     tag_to_num_tweets_required = {tag: min(hashtags_counter[tag], max_tweets_per_tag) for tag in hashtags_counter}
 
-    for fname in os.listdir(FINAL_REPORT_DATA_FOLDER):
+    for fname in os.listdir(cu.FINAL_REPORT_DATA_FOLDER):
         if all([is_quota_met_for_tag(tag_to_tweets[tag], tag_to_num_tweets_required[tag]) for tag in
                 tag_to_num_tweets_required]):
-            print(f'{get_cur_formatted_time()} Quotas for all tags met - not checking anymore files')
+            print(f'{cu.get_cur_formatted_time()} Quotas for all tags met - not checking anymore files')
             break
         if not (fname.startswith(f'tweets_stance_sentiment_incl_date_and_text') and fname.endswith(".csv")):
             continue
-        full_fname = os.path.join(FINAL_REPORT_DATA_FOLDER, fname)
-        print(f'{get_cur_formatted_time()} Parsing {full_fname}{bot_msg_suffix}')
+        full_fname = os.path.join(cu.FINAL_REPORT_DATA_FOLDER, fname)
+        print(f'{cu.get_cur_formatted_time()} Parsing {full_fname}{bot_msg_suffix}')
         df = pd.read_csv(full_fname)
         if should_filter_bots:
-            df = remove_bots_by_threshold(df, bot_score_threshold)
+            df = cu.remove_bots_by_threshold(df, bot_score_threshold)
 
         hashtags_set = False
 
         for cur_tag in hashtags_counter:
-            print(f'{get_cur_formatted_time()} Tag {cur_tag}')
+            print(f'{cu.get_cur_formatted_time()} Tag {cur_tag}')
             if is_quota_met_for_tag(tag_to_tweets[cur_tag], tag_to_num_tweets_required[cur_tag]):
-                print(f'{get_cur_formatted_time()} Tag quota reached')
+                print(f'{cu.get_cur_formatted_time()} Tag quota reached')
                 continue
             if not hashtags_set:
                 df["hashtags"] = df["t_text"].apply(extract_hash_tags)
@@ -311,16 +314,16 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
                 df["is_tag_present"] = df['hashtags'].apply(
                     lambda l: len(ALL_TAGS.intersection(set(l))) == 0 and len(l) > 0)
                 df_for_tag = df[df["is_tag_present"]]
-                print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no pure-stance tags')
+                print(f'{cu.get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no pure-stance tags')
             elif cur_tag == no_tags_at_all_key:
                 df["is_tag_present"] = df['hashtags'].apply(
                     lambda l: len(ALL_TAGS.intersection(set(l))) == 0 and len(l) == 0)
                 df_for_tag = df[df["is_tag_present"]]
-                print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no tags at all')
+                print(f'{cu.get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing no tags at all')
             else:
                 df["is_tag_present"] = df['hashtags'].apply(lambda l: cur_tag in l)
                 df_for_tag = df[df["is_tag_present"]]
-                print(f'{get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing tag')
+                print(f'{cu.get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing tag')
 
             if len(df_for_tag.index) == 0:
                 continue
@@ -345,11 +348,13 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
 
 
 if __name__ == "__main__":
-    print(f'{get_cur_formatted_time()} Start')
+    print(f'{cu.get_cur_formatted_time()} Start')
     create_hashtags_histograms()
     tag_to_tweets_df = create_tweets_with_pure_stance_tags()
     for tag in tag_to_tweets_df:
-        df_to_csv_plus_create_dir(tag_to_tweets_df[tag], os.path.join(PLOTS_DATA_FOLDER, 'hashtag_tweets'),
+        cu.df_to_csv_plus_create_dir(tag_to_tweets_df[tag], os.path.join(cu.PLOTS_DATA_FOLDER, 'hashtag_tweets'),
                                   f"hashtag_{tag}_tweets.csv")
 
-    print(f'{get_cur_formatted_time()} FIN')
+
+
+    print(f'{cu.get_cur_formatted_time()} FIN')
