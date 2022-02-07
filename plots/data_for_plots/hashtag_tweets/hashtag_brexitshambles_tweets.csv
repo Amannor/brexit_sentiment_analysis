@@ -1,314 +1,311 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,0,2272823,773400932050763776,19158571,positive,other,2016-09-07T06:02:05.000Z,".Best chance of UK trade deal is with Australia, but negotiation can't start until #Brexit complete &amp; will then take 2 years #BrexitShambles","['brexit', 'brexitshambles']"
-1,1,1,1,1,1,2283483,773601141653381120,493544561,neutral,other,2016-09-07T19:17:39.000Z,#brexitshambles EasyJet moves aviation maintenance to Malta following Brexit vote! https://t.co/7LVjIZ2V2u,['brexitshambles']
-2,2,2,2,2,2,1095199,749961474089549824,28851894,neutral,remain,2016-07-04T13:42:03.000Z,Resignations of David Cameron + @BorisJohnson + @Nigel_Farage = Total lack of confidence and plan for Brexit. #BrexitShambles,['brexitshambles']
-3,3,3,3,3,3,323832,747406608725086208,22388200,negative,remain,2016-06-27T12:29:56.000Z,"We cut the EU parachute... wait, why is everyone screaming? #brexit #EEAinUK #brexitshambles https://t.co/zWPjsbNzdt https://t.co/6lXapbNf7j","['eeainuk', 'brexitshambles', 'brexit']"
-4,4,4,4,4,4,504258,747688353215152128,167786201,negative,remain,2016-06-28T07:09:29.000Z,"Reports of attacks on Poles and Muslims in the wake of Brexit vote
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+773601141653381120,493544561,neutral,other,2016-09-07T19:17:39.000Z,#brexitshambles EasyJet moves aviation maintenance to Malta following Brexit vote! https://t.co/7LVjIZ2V2u,['brexitshambles']
+749961474089549824,28851894,neutral,remain,2016-07-04T13:42:03.000Z,Resignations of David Cameron + @BorisJohnson + @Nigel_Farage = Total lack of confidence and plan for Brexit. #BrexitShambles,['brexitshambles']
+773400932050763776,19158571,positive,other,2016-09-07T06:02:05.000Z,".Best chance of UK trade deal is with Australia, but negotiation can't start until #Brexit complete &amp; will then take 2 years #BrexitShambles","['brexitshambles', 'brexit']"
+747406608725086208,22388200,negative,remain,2016-06-27T12:29:56.000Z,"We cut the EU parachute... wait, why is everyone screaming? #brexit #EEAinUK #brexitshambles https://t.co/zWPjsbNzdt https://t.co/6lXapbNf7j","['eeainuk', 'brexitshambles', 'brexit']"
+747688353215152128,167786201,negative,remain,2016-06-28T07:09:29.000Z,"Reports of attacks on Poles and Muslims in the wake of Brexit vote
 #brexitshambles #racism https://t.co/SN0N1m6bzM","['racism', 'brexitshambles']"
-5,5,5,5,5,5,1232174,807260014209597440,66811109,positive,remain,2016-12-09T16:26:00.000Z,New culinary delights for #2016 discovered at #wintertijdinleuven #Brexit Unlike #brexitshambles they look tasty https://t.co/IangrRN20Y,"['2016', 'wintertijdinleuven', 'brexit', 'brexitshambles']"
-6,6,6,6,6,6,1282263,809316193463107584,493553000,positive,remain,2016-12-15T08:36:31.000Z,Like anyone really knows what it means #brexit #brexitshambles #2016defined https://t.co/RAdOtVrDvZ,"['2016defined', 'brexitshambles', 'brexit']"
-7,7,7,7,7,7,664089,795237483395031040,1442077802,negative,remain,2016-11-06T12:12:45.000Z,Just going to leave this here. #USElections2016 #brexit #brexitshambles #2016dumpsterfire https://t.co/6MDRrFd8wh,"['2016dumpsterfire', 'uselections2016', 'brexitshambles', 'brexit']"
-8,8,8,8,8,8,1389306,814557897761914880,51830173,negative,other,2016-12-29T19:45:11.000Z,USA expels Russian diplomats. Hold on to 2017 it's going to be a bumpy ride. #trump #brexitshambles #brexit #2017,"['2017', 'trump', 'brexitshambles', 'brexit']"
-9,9,9,9,9,9,1383488,814367971892199424,747436971417559040,negative,other,2016-12-29T07:10:29.000Z,"#brexitshambles UK in 2030: older, more unequal and blighted by Brexit, report predicts https://t.co/KzrZ55fr5Z #2ndthoughts","['2ndthoughts', 'brexitshambles']"
-10,10,10,10,10,10,1081628,803289922039906304,50007070,negative,other,2016-11-28T17:30:16.000Z,@worstall @richardcalhoun Fixed Supply #99problems &amp; I doubt many are owned by UK nationals anyway or Tax payers #Brexit #BrexitShambles,"['99problems', 'brexit', 'brexitshambles']"
-11,11,11,11,11,11,1174807,806044711408517120,2960851739,neutral,other,2016-12-06T07:56:49.000Z,ID for EU migrants after #brexit ? How about a yellow star? #amberrudd #brexitshambles #Fascism,"['amberrudd', 'fascism', 'brexitshambles', 'brexit']"
-12,12,12,12,12,12,598244,794211232127524864,93961300,neutral,remain,2016-11-03T16:14:48.000Z,#brexitshambles getting their pitch forks ready #angrymob #brexit https://t.co/SVWstVwRyq,"['angrymob', 'brexitshambles', 'brexit']"
-13,13,13,13,13,13,704366,795987085526241280,794914924237586432,positive,remain,2016-11-08T13:51:24.000Z,Couldn't agree more! In fact it has a feeling of inevitability. #brexitshambles #anotherfinemess #brexit https://t.co/Z4eCdCFuEv,"['anotherfinemess', 'brexitshambles', 'brexit']"
-14,14,14,14,14,14,1140512,805044526075281408,2350801664,positive,other,2016-12-03T13:42:26.000Z,I want to know what's being shouted from the audience! #bbcaq #brexit  #brexitshambles #AnyQuestions,"['anyquestions', 'brexit', 'brexitshambles', 'bbcaq']"
-15,15,15,15,15,15,1082533,803313139399983104,713491147608485888,positive,remain,2016-11-28T19:02:31.000Z,"Is #Article127 the new #Article50? It's #Brexitshambles bingo at the moment, but still better than #Brexit shaping up to be... https://t.co/6SQKx1E9Ug","['article127', 'brexit', 'brexitshambles', 'article50?']"
-16,16,16,16,16,16,440545,790927019278303232,930642349,neutral,remain,2016-10-25T14:44:30.000Z,"Ways to wind up brexiters:
-Refer to #Article50 as #ArticleCinquante
+809316193463107584,493553000,positive,remain,2016-12-15T08:36:31.000Z,Like anyone really knows what it means #brexit #brexitshambles #2016defined https://t.co/RAdOtVrDvZ,"['2016defined', 'brexitshambles', 'brexit']"
+795237483395031040,1442077802,negative,remain,2016-11-06T12:12:45.000Z,Just going to leave this here. #USElections2016 #brexit #brexitshambles #2016dumpsterfire https://t.co/6MDRrFd8wh,"['2016dumpsterfire', 'brexitshambles', 'uselections2016', 'brexit']"
+794992811993022464,163893990,positive,remain,2016-11-05T20:00:31.000Z,#Brexit #Brexitshambles The new €TwoPounds #2Pounds #coin is shaped similarly to a #50pence because that is what it will be worth by March !,"['2pounds', 'brexit', 'coin', '50pence', 'brexitshambles']"
+794597783126806528,87948569,neutral,remain,2016-11-04T17:50:49.000Z,"#brexitshambles :  
+#brexit meant #brexit,
+Then #3judges #wrecksit,
+So lets just #forgetsit,
+And stay in and #enjoyit.","['3judges', 'forgetsit', 'enjoyit', 'wrecksit', 'brexitshambles', 'brexit', 'brexit']"
+796269900905988096,18457463,neutral,other,2016-11-09T08:35:13.000Z,"This IS kind of like the Brexit ""What in the hell do we do now"" phase.
 
-#Brexit #BrexitShambles","['article50', 'articlecinquante', 'brexit', 'brexitshambles']"
-17,17,17,17,17,17,566620,794126977238175744,1735241,neutral,remain,2016-11-03T10:40:00.000Z,"#breaking: UK High Court rules British government doesn’t have power to trigger #Article50
- #brexit #brexitshambles #breakfastmeansbreakfast https://t.co/XVKUwrNRI5","['article50', 'brexit', 'breakfastmeansbreakfast', 'brexitshambles', 'breaking']"
-18,18,18,18,18,18,713736,796093085080047616,384533439,neutral,other,2016-11-08T20:52:36.000Z,#Toblerone pre #Brexit Post BrextVote &amp; after triggering #Article50 #BrexitChocolate #brexitshambles https://t.co/wH5EMQmLHm,"['article50', 'brexit', 'brexitchocolate', 'toblerone', 'brexitshambles']"
-19,19,19,19,19,19,1099790,803897618359353344,384533439,positive,other,2016-11-30T09:45:02.000Z,#Labour 'secretly' plotting to block #Brexit #Article50 ? I hope so! &amp; now do it openly #brexitshambles #BrexitRef2 https://t.co/wTGdOzedB5,"['article50', 'brexit', 'brexitref2', 'labour', 'brexitshambles']"
-20,20,20,20,20,20,918497,798672634372378624,709360301456683008,neutral,remain,2016-11-15T23:42:49.000Z,"When your far right rhetoric falls on deaf ears and you have to listen to the reasoning of the UK Courts
+#America #brexitshambles #ElectionNight #Trump #Clinton #brexit","['america', 'electionnight', 'brexitshambles', 'clinton', 'brexit', 'trump']"
+796298470105776128,165517390,neutral,other,2016-11-09T10:28:44.000Z,Well done America for pulling your own 'Brexit' #Trump #USElection2016 #brexitshambles #America #GoodLuckAmerica #WisdomWednesday,"['america', 'goodluckamerica', 'brexitshambles', 'uselection2016', 'wisdomwednesday', 'trump']"
+786313190552371200,26460275,positive,remain,2016-10-12T21:10:48.000Z,"This is the most British headline I have ever seen.
 
-#Brexit
-#Article50
-#brexitshambles https://t.co/VYQlU6vhi1","['article50', 'brexit', 'brexitshambles']"
-21,21,21,21,21,21,592726,794184837221548032,722194882417336320,positive,remain,2016-11-03T14:29:55.000Z,@LibDemsCrookes My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['article50', 'brexit', 'brexitshambles']"
-22,22,22,22,22,22,1081211,803279183015186432,709360301456683008,positive,other,2016-11-28T16:47:36.000Z,"@faisalislam "" PM May agrees focus on bilateral ""strategic"" relationship...with the Holy Father...
+#SoVeryBritish #British #Anglophile #UK #headlines #lol #BrexitShambles #Brexit https://t.co/efMVnuWkjt","['anglophile', 'headlines', 'lol', 'brexit', 'soverybritish', 'brexitshambles', 'british', 'uk']"
+794211232127524864,93961300,neutral,remain,2016-11-03T16:14:48.000Z,#brexitshambles getting their pitch forks ready #angrymob #brexit https://t.co/SVWstVwRyq,"['angrymob', 'brexitshambles', 'brexit']"
+795987085526241280,794914924237586432,positive,remain,2016-11-08T13:51:24.000Z,Couldn't agree more! In fact it has a feeling of inevitability. #brexitshambles #anotherfinemess #brexit https://t.co/Z4eCdCFuEv,"['anotherfinemess', 'brexitshambles', 'brexit']"
+794759353752399872,509570382,neutral,remain,2016-11-05T04:32:50.000Z,A Brit asking a German-strong audience what they think of #brexit ! The answer was unanimous.. #APKHongKong #brexitshambles https://t.co/6yClDHtd0F,"['apkhongkong', 'brexitshambles', 'brexit']"
+794528712209428480,722194882417336320,positive,remain,2016-11-04T13:16:21.000Z,#brexitshambles #Article50 #TheresaMay #ParliamentisSovereign #brexit #Ukip #Remain HAPPY #BonfireNight!!!!! https://t.co/KmHRso4rp3,"['article50', 'bonfirenight', 'brexitshambles', 'ukip', 'theresamay', 'remain', 'brexit', 'parliamentissovereign']"
+794427163701284864,2156850916,negative,other,2016-11-04T06:32:50.000Z,UKIP and Leave EU report a surge in new memberships since yesterday's decision #Brexit #brexitshambles #Article50 https://t.co/uVAb2M8rt5,"['article50', 'brexit', 'brexitshambles']"
+803279183015186432,709360301456683008,positive,other,2016-11-28T16:47:36.000Z,"@faisalislam "" PM May agrees focus on bilateral ""strategic"" relationship...with the Holy Father...
 #Brexit 
 #brexitshambles 
 #Article50","['article50', 'brexit', 'brexitshambles']"
-23,23,23,23,23,23,615767,794427163701284864,2156850916,negative,other,2016-11-04T06:32:50.000Z,UKIP and Leave EU report a surge in new memberships since yesterday's decision #Brexit #brexitshambles #Article50 https://t.co/uVAb2M8rt5,"['article50', 'brexit', 'brexitshambles']"
-24,24,24,24,24,24,584683,794153418445258752,19980832,negative,remain,2016-11-03T12:25:04.000Z,"Yet another vile, half-baked piece of pseudo-journalism. #Article50 #Brexit #BrexitShambles https://t.co/FjZ6L8eCUH","['article50', 'brexit', 'brexitshambles']"
-25,25,25,25,25,25,588050,794165219761258496,4909175817,negative,remain,2016-11-03T13:11:57.000Z,Will the article 50 ruling stop Brexit? #Brexit #Article50 #brexitshambles via @telegraphnews https://t.co/g3WMFTYGyU https://t.co/cabIzOiFX1,"['article50', 'brexit', 'brexitshambles']"
-26,26,26,26,26,26,585292,794155208146186240,72507937,neutral,remain,2016-11-03T12:32:10.000Z,"Farage hinting at ""revolution"" - just in time for Guy Fawkes night. Oh, goody. #Brexit #brexitshambles #article50 https://t.co/6ThyJ14KfS","['article50', 'brexit', 'brexitshambles']"
-27,27,27,27,27,27,577120,794133109520338944,749636692093628416,neutral,other,2016-11-03T11:04:22.000Z,"After the court judgement, do you think Brexit is in jeopardy? Pls rt #BrexitShambles #Brexit #Article50","['article50', 'brexit', 'brexitshambles']"
-28,28,28,28,28,28,589764,794171378190712832,2567113017,negative,remain,2016-11-03T13:36:26.000Z,"Just read this on FB. Amen, @Scientists4EU. Stronger In were worse than useless. #Article50 #Brexit #BrexitShambles https://t.co/pqkMm3s4AG","['article50', 'brexit', 'brexitshambles']"
-29,29,29,29,29,29,592616,794184179965632512,722194882417336320,positive,remain,2016-11-03T14:27:18.000Z,@TheNewEuropean My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['article50', 'brexit', 'brexitshambles']"
-30,30,30,30,30,30,592638,794184370298953728,722194882417336320,positive,remain,2016-11-03T14:28:03.000Z,@LibEuropeans My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['article50', 'brexit', 'brexitshambles']"
-31,31,31,31,31,31,645883,794840520229056512,17257857,negative,other,2016-11-05T09:55:22.000Z,'The chart Brexiters won't want to see before MPs vote on #Article50' https://t.co/kAEQORqwXb #BrexitShambles #Brexit,"['article50', 'brexit', 'brexitshambles']"
-32,32,32,32,32,32,918242,798664816365686784,709360301456683008,neutral,other,2016-11-15T23:11:45.000Z,"Stage two of Theresa May's refusal to give away any information on the #Brexit plan...
-
-#Article50
-#brexitshambles https://t.co/0X20M3GtpR","['article50', 'brexit', 'brexitshambles']"
-33,33,33,33,33,33,592606,794184142686748672,722194882417336320,positive,remain,2016-11-03T14:27:09.000Z,@TANews101 My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['article50', 'brexit', 'brexitshambles']"
-34,34,34,34,34,34,903022,798451846016811008,162427574,negative,other,2016-11-15T09:05:29.000Z,".@thetimes front page:
-
-Cabinet split threatens to derail May’s #Brexit talks.
-
-#BrexitShambles #Article50
-
-Via @JohnRentoul via @suttonnick https://t.co/NDDoaGN2QN","['article50', 'brexit', 'brexitshambles']"
-35,35,35,35,35,35,592647,794184427307991040,722194882417336320,positive,remain,2016-11-03T14:28:17.000Z,@Right_to_Remain My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['article50', 'brexit', 'brexitshambles']"
-36,36,36,36,36,36,1077430,803200275733483520,709360301456683008,positive,remain,2016-11-28T11:34:03.000Z,"Dear Theresa May, it's much better to learn to swim before you dive into the deep-end
+803200275733483520,709360301456683008,positive,remain,2016-11-28T11:34:03.000Z,"Dear Theresa May, it's much better to learn to swim before you dive into the deep-end
 
 #Brexit
 #brexitshambles
 #Article50
 #Article127 https://t.co/DS5rGLBB6x","['article50', 'brexit', 'brexitshambles', 'article127']"
-37,37,37,37,37,37,624291,794489735091748864,119009845,neutral,other,2016-11-04T10:41:28.000Z,"Nobody took any notice of this 4 months ago
-
-https://t.co/elKxheNBn8
-
-#Article50 #Brexit #brexitshambles #EUref #EUreferendum","['article50', 'brexit', 'eureferendum', 'brexitshambles', 'euref']"
-38,38,38,38,38,38,699374,795933727843041280,318309017,neutral,other,2016-11-08T10:19:23.000Z,#LizTruss confronted by Tory MPs over handling of #Article50 row #Brexit #BrexitShambles https://t.co/30HSuW5tGl,"['article50', 'brexit', 'liztruss', 'brexitshambles']"
-39,39,39,39,39,39,648266,794875725992042496,2829791140,negative,other,2016-11-05T12:15:15.000Z,Totally agree #LizTruss should condemn disgraceful headlines or resign #BrexitShambles #Article50 #Brexit https://t.co/DTWT4c8atc,"['article50', 'brexit', 'liztruss', 'brexitshambles']"
-40,40,40,40,40,40,1446836,817024990755323904,805515175,neutral,remain,2017-01-05T15:08:32.000Z,This new front cover from The Economist is doing the rounds on here! #TheresaMay #Brexit #brexitshambles #LoveTwitter #Article50 https://t.co/TyD6Wn0RZd,"['article50', 'brexit', 'lovetwitter', 'theresamay', 'brexitshambles']"
-41,41,41,41,41,41,1351624,812265672004816896,786223821564981120,negative,other,2016-12-23T11:56:42.000Z,#Queen “disappointed” with PM as she “refused to share #Brexit strategy”  https://t.co/UynZ6mBXdW #article50 #TheresaMay #brexitshambles https://t.co/0tQRXlqMEL,"['article50', 'brexit', 'queen', 'theresamay', 'brexitshambles']"
-42,42,42,42,42,42,1351623,812265671748972544,786202162317537280,negative,other,2016-12-23T11:56:41.000Z,#Queen “disappointed” with PM as she “refused to share #Brexit strategy”  https://t.co/rGv7RrqrqP #article50 #TheresaMay #brexitshambles https://t.co/qQE3ADBoqh,"['article50', 'brexit', 'queen', 'theresamay', 'brexitshambles']"
-43,43,43,43,43,43,1351622,812265671677579264,786208501500567552,negative,other,2016-12-23T11:56:41.000Z,#Queen “disappointed” with PM as she “refused to share #Brexit strategy”  https://t.co/8XwbQCMDQ4 #article50 #TheresaMay #brexitshambles https://t.co/DyYGUPmXCZ,"['article50', 'brexit', 'queen', 'theresamay', 'brexitshambles']"
-44,44,44,44,44,44,1351621,812265671715422208,786195999412752384,negative,other,2016-12-23T11:56:41.000Z,#Queen “disappointed” with PM as she “refused to share #Brexit strategy”  https://t.co/CTnht2HyHR #article50 #TheresaMay #brexitshambles https://t.co/c4pHNwpO3K,"['article50', 'brexit', 'queen', 'theresamay', 'brexitshambles']"
-45,45,45,45,45,45,1351620,812265671677644800,786205840181121024,negative,other,2016-12-23T11:56:41.000Z,#Queen “disappointed” with PM as she “refused to share #Brexit strategy”  https://t.co/N0GJGrR92e #article50 #TheresaMay #brexitshambles https://t.co/HLBJiqbcxR,"['article50', 'brexit', 'queen', 'theresamay', 'brexitshambles']"
-46,46,46,46,46,46,1301900,809922106767081472,1223389308,negative,other,2016-12-17T00:44:12.000Z,"#Brexit fallout: Theresa ""no mates"" May frozen out in #Brussels
-
-#Article50 #r4today #brexitshambles https://t.co/u4OWNZ3l6P","['article50', 'brexit', 'r4today', 'brussels', 'brexitshambles']"
-47,47,47,47,47,47,1182816,806123066946453504,805515175,negative,remain,2016-12-06T13:08:10.000Z,This is getting worse! More #TheresaMay hot air! This means absolutely nothing! #Brexit #brexitshambles #Article50 https://t.co/PRGqa21yOc,"['article50', 'brexit', 'theresamay', 'brexitshambles']"
-48,48,48,48,48,48,646891,794855399031795712,724925690685042560,neutral,other,2016-11-05T10:54:29.000Z,Concise and brief analyses on yesterday's #Article50 Court decision #brexitshambles #brexitjudgment #BrexitBritain #brexit https://t.co/jsGUvR5KEN,"['article50', 'brexitjudgment', 'brexitbritain', 'brexit', 'brexitshambles']"
-49,49,49,49,49,49,625185,794496321151504384,114598868,neutral,remain,2016-11-04T11:07:38.000Z,"Those Chanting
-Project Fear
-Now Appear
-To Be Fearful
-Of Sovereignty
-
-#micropoetry #brexit #art50 #Article50 #brexitjudgment #brexitshambles https://t.co/sOXwm1c9ct","['article50', 'brexitjudgment', 'micropoetry', 'art50', 'brexit', 'brexitshambles']"
-50,50,50,50,50,50,1044407,802088822632804352,724925690685042560,neutral,remain,2016-11-25T09:57:32.000Z,#brexit #Article50 claimants case for UKSC #BrexitVote #brexitshambles #BrexitObserv https://t.co/mPo0FLhAGD,"['article50', 'brexitobserv', 'brexit', 'brexitvote', 'brexitshambles']"
-51,51,51,51,51,51,1050900,802208634621087744,724925690685042560,neutral,other,2016-11-25T17:53:37.000Z,@scotgov intervening case for the UKHC #brexit #Article50 case lodged in UKSC #BREAKING #brexitshambles #BrexitObserv #BrexitVote https://t.co/dZoumGgowh,"['article50', 'brexitobserv', 'brexit', 'brexitvote', 'brexitshambles', 'breaking']"
-52,52,52,52,52,52,1098567,803888131548254208,709437204607705088,neutral,other,2016-11-30T09:07:20.000Z,"Parliament will have a say on Brexit talks despite Theresa May's appeal, says David Davis https://t.co/UONiPTUseb #BrexitShambles #Article50","['article50', 'brexitshambles']"
-53,53,53,53,53,53,584602,794168220844490752,2615138531,negative,remain,2016-11-03T13:23:53.000Z,"@EssayWells There is no popular majority for Brexit. Don't let UKIP lies become conventional wisdom.
+812814064804134912,2389336800,negative,remain,2016-12-25T00:15:49.000Z,Inside #Brexit: How #Britain lost #Europe https://t.co/vy1MXUz0w5 #brexitshambles #Article50 #EU #UK #MerryChristmasEveryone,"['article50', 'brexit', 'eu', 'brexitshambles', 'britain', 'europe', 'merrychristmaseveryone', 'uk']"
+794530948561911808,20009216,negative,remain,2016-11-04T13:25:14.000Z,So the judges told us what we already knew; Brexit referendum is not legally binding #brexitshambles #Article50,"['article50', 'brexitshambles']"
+794168220844490752,2615138531,negative,remain,2016-11-03T13:23:53.000Z,"@EssayWells There is no popular majority for Brexit. Don't let UKIP lies become conventional wisdom.
 #brexitshambles #Article50","['article50', 'brexitshambles']"
-54,54,54,54,54,54,584077,794166582733893632,33321492,negative,remain,2016-11-03T13:17:22.000Z,"Brexit tears for the Brexiteers, you lost, get over it is how it goes I believe #Article50 #brexitshambles","['article50', 'brexitshambles']"
-55,55,55,55,55,55,569751,794134146784305152,3326962047,positive,other,2016-11-03T11:08:29.000Z,"Best news in flipping ages. #Article50 #brexitshambles  
-
-Brexit court defeat for UK government - https://t.co/PHWGTk1XME","['article50', 'brexitshambles']"
-56,56,56,56,56,56,571682,794137057945862144,152737043,neutral,other,2016-11-03T11:20:03.000Z,CHILL OUT: The parliament vote on #Article50 just means that the Gov has to plan and tell us what Brexit means Brexit means #brexitshambles,"['article50', 'brexitshambles']"
-57,57,57,57,57,57,627605,794530948561911808,20009216,negative,remain,2016-11-04T13:25:14.000Z,So the judges told us what we already knew; Brexit referendum is not legally binding #brexitshambles #Article50,"['article50', 'brexitshambles']"
-58,58,58,58,58,58,588378,794181446827200512,255033213,neutral,remain,2016-11-03T14:16:26.000Z,"Brexit means Brexit. 
-
-Except the High Court says it might not. #Article50 #brexitshambles","['article50', 'brexitshambles']"
-59,59,59,59,59,59,611222,794317442067656704,15016899,positive,other,2016-11-03T23:16:50.000Z,Lets just do away with parliament altogether. That'll make the mobs happy. #bbcqt #brexitshambles #Article50 #brexit,"['article50', 'brexitshambles', 'bbcqt', 'brexit']"
-60,60,60,60,60,60,615854,794428185266057216,429386904,negative,remain,2016-11-04T06:36:53.000Z,"Not only is this harassment of these judges, it's intimidation for the supreme judges #Article50 #brexit #brexitshambles https://t.co/HEAGvOJm7O","['article50', 'brexitshambles', 'brexit']"
-61,61,61,61,61,61,585177,794154892868907008,44865280,positive,other,2016-11-03T12:30:55.000Z,"Yes, we are a parliamentary democracy. 
-Calm down!! 
-#Article50 #brexit #brexitshambles https://t.co/ycSl8OUYo4","['article50', 'brexitshambles', 'brexit']"
-62,62,62,62,62,62,575889,794130419532918784,408882467,negative,remain,2016-11-03T10:53:40.000Z,Brexit court defeat for UK government #brexit #brexitshambles #Article50  https://t.co/0XcrQaqgFL,"['article50', 'brexitshambles', 'brexit']"
-63,63,63,63,63,63,985442,800679975800238080,1606215696,positive,remain,2016-11-21T12:39:16.000Z,"Does #Article50 allow for that? Isn't is just 2 years, then we're out? #brexit #brexitshambles 
-
-https://t.co/ZhkmKX85EN","['article50', 'brexitshambles', 'brexit']"
-64,64,64,64,64,64,593762,794189649099034624,4760760941,negative,remain,2016-11-03T14:49:02.000Z,"Leave got the majority. You are the ones who lost. The parliament was not against the #brexit referendum
-#Article50 #brexitshambles https://t.co/0ZGJ4dbmAo","['article50', 'brexitshambles', 'brexit']"
-65,65,65,65,65,65,591040,794177221036482560,930518431,positive,other,2016-11-03T13:59:39.000Z,"Court: #Article50 might not be triggered
-'UKIP leadership contest in a mess'
-Nigel Farage: 
-#brexit #brexitshambles https://t.co/nwduq4g6dS","['article50', 'brexitshambles', 'brexit']"
-66,66,66,66,66,66,582507,794147131284160512,245927269,positive,remain,2016-11-03T12:00:05.000Z,The amount of times i've heard this from #brexit camp... glorious. #article50 #brexitshambles https://t.co/Hb9JVL7eDJ,"['article50', 'brexitshambles', 'brexit']"
-67,67,67,67,67,67,1076779,803189039394385920,709360301456683008,neutral,other,2016-11-28T10:49:24.000Z,"Will we be holding PMQs in Westminster Abbey this week Prime Minister?
+802221945118920704,108734413,negative,other,2016-11-25T18:46:30.000Z,How prescient of @BorisJohnson to have foreseen the poverty of the UK #brexit negotiating position #brexitshambles #Article50 #borisjohnson https://t.co/OpLycBPNvA,"['article50', 'brexitshambles', 'borisjohnson', 'brexit']"
+794126977238175744,1735241,neutral,remain,2016-11-03T10:40:00.000Z,"#breaking: UK High Court rules British government doesn’t have power to trigger #Article50
+ #brexit #brexitshambles #breakfastmeansbreakfast https://t.co/XVKUwrNRI5","['article50', 'brexitshambles', 'breaking', 'brexit', 'breakfastmeansbreakfast']"
+802208634621087744,724925690685042560,neutral,other,2016-11-25T17:53:37.000Z,@scotgov intervening case for the UKHC #brexit #Article50 case lodged in UKSC #BREAKING #brexitshambles #BrexitObserv #BrexitVote https://t.co/dZoumGgowh,"['article50', 'brexitshambles', 'breaking', 'brexit', 'brexitvote', 'brexitobserv']"
+794156000001556480,71015273,neutral,remain,2016-11-03T12:35:19.000Z,#brexitshambles #Article50 leavers need to get over it! #brexit not going to happen!,"['article50', 'brexitshambles', 'brexit']"
+803189039394385920,709360301456683008,neutral,other,2016-11-28T10:49:24.000Z,"Will we be holding PMQs in Westminster Abbey this week Prime Minister?
 #brexit
 #brexitshambles 
 #Article50 
 
 https://t.co/7eBLa98SEs","['article50', 'brexitshambles', 'brexit']"
-68,68,68,68,68,68,1184143,806134557745549312,65440904,positive,remain,2016-12-06T13:53:50.000Z,"Hard to see how this can result in a good outcome for the UK or Europe. #brexitshambles #brexit #Article50 
+806282905475575808,754234266851110912,neutral,other,2016-12-06T23:43:19.000Z,So the #brexit referendum wasn't *advisoryZ except that parliament was told it was #brexitshambles #article50 https://t.co/DkGrRe4gSL,"['article50', 'brexitshambles', 'brexit']"
+794130419532918784,408882467,negative,remain,2016-11-03T10:53:40.000Z,Brexit court defeat for UK government #brexit #brexitshambles #Article50  https://t.co/0XcrQaqgFL,"['article50', 'brexitshambles', 'brexit']"
+806134557745549312,65440904,positive,remain,2016-12-06T13:53:50.000Z,"Hard to see how this can result in a good outcome for the UK or Europe. #brexitshambles #brexit #Article50 
 
 https://t.co/oMG3giszNo","['article50', 'brexitshambles', 'brexit']"
-69,69,69,69,69,69,585525,794156000001556480,71015273,neutral,remain,2016-11-03T12:35:19.000Z,#brexitshambles #Article50 leavers need to get over it! #brexit not going to happen!,"['article50', 'brexitshambles', 'brexit']"
-70,70,70,70,70,70,609395,794300686112538624,1554084182,positive,remain,2016-11-03T22:10:15.000Z,How long Boris' Titanic success of #brexit will probably take #Article50 #brexitshambles https://t.co/yVeGh7zM4d,"['article50', 'brexitshambles', 'brexit']"
-71,71,71,71,71,71,612207,794334112622460928,293152768,neutral,remain,2016-11-04T00:23:05.000Z,Comment of the day #Article50 #brexit #brexitshambles https://t.co/6CVgWyU9WB,"['article50', 'brexitshambles', 'brexit']"
-72,72,72,72,72,72,600547,794224135442460672,2383722986,positive,remain,2016-11-03T17:06:04.000Z,Pretty much sums up what will happen with #Article50 now #brexit #brexitshambles https://t.co/6CGgCYS8ni,"['article50', 'brexitshambles', 'brexit']"
-73,73,73,73,73,73,583455,794149781505474560,1709703013,neutral,remain,2016-11-03T12:10:37.000Z,Isn't this taking back control? #brexit #Article50 #brexitshambles,"['article50', 'brexitshambles', 'brexit']"
-74,74,74,74,74,74,1193908,806282905475575808,754234266851110912,neutral,other,2016-12-06T23:43:19.000Z,So the #brexit referendum wasn't *advisoryZ except that parliament was told it was #brexitshambles #article50 https://t.co/DkGrRe4gSL,"['article50', 'brexitshambles', 'brexit']"
-75,75,75,75,75,75,569800,794119171491713024,761452525,neutral,other,2016-11-03T10:08:59.000Z,"The rule of law 'trumps' a populist referendum result by the looks of it! 
+803897618359353344,384533439,positive,other,2016-11-30T09:45:02.000Z,#Labour 'secretly' plotting to block #Brexit #Article50 ? I hope so! &amp; now do it openly #brexitshambles #BrexitRef2 https://t.co/wTGdOzedB5,"['article50', 'brexitshambles', 'brexit', 'brexitref2', 'labour']"
+794122323964137472,3014234895,negative,other,2016-11-03T10:21:30.000Z,"How ironic if the government have to go to the #European court to have this overturned #brexitshambles  #brexit 
+#Article50","['article50', 'brexitshambles', 'brexit', 'european']"
+794877295081254912,2829791140,positive,remain,2016-11-05T12:21:29.000Z,#LizTruss be like.... #brexitshambles #brexit #Article50 https://t.co/eOnPJO4g6u,"['article50', 'brexitshambles', 'brexit', 'liztruss']"
+794141952996495360,106238643,neutral,remain,2016-11-03T11:39:30.000Z,#Strictly come #Brexit # @edballs #brexitshambles #Article50 https://t.co/nGnJwdr8YC,"['article50', 'brexitshambles', 'brexit', 'strictly']"
+804298581628907520,756608530644361216,neutral,remain,2016-12-01T12:18:19.000Z,"British people also voted on 350 milion for the #NHS, did they not, Nigel? #farage #brexit #ukip #brexitshambles #Article50 https://t.co/06RVLBOb9f","['article50', 'brexitshambles', 'brexit', 'ukip', 'farage', 'nhs']"
+802088822632804352,724925690685042560,neutral,remain,2016-11-25T09:57:32.000Z,#brexit #Article50 claimants case for UKSC #BrexitVote #brexitshambles #BrexitObserv https://t.co/mPo0FLhAGD,"['article50', 'brexitshambles', 'brexitvote', 'brexit', 'brexitobserv']"
+794257494310789120,1137233875,neutral,remain,2016-11-03T19:18:37.000Z,In your opinion which country is more divided right now? #Article50 #brexit #brexitshambles #USElections2016 #Clinton #Trump,"['article50', 'brexitshambles', 'clinton', 'brexit', 'uselections2016', 'trump']"
+788066892737118208,2458011600,positive,other,2016-10-17T17:19:23.000Z,"spent IQ-stretching day in #RCJ court 4, hearing top QCs argue about #Article50. constitutional #brexit.shambles even greater than I thought","['article50', 'brexitshambles', 'rcj']"
+795286733583740928,722630419,neutral,remain,2016-11-06T15:28:27.000Z,#RunningCommentary #TheresaMays #SecretGovernment? Talking to corporations not the people #brexitshambles #Article50 #Brexit https://t.co/qeo6W4bdGX,"['article50', 'brexitshambles', 'theresamays', 'brexit', 'secretgovernment?', 'runningcommentary']"
+802584735021236224,724925690685042560,neutral,remain,2016-11-26T18:48:06.000Z,#Welsh govt intervening case in #brexit #Article50 UKSC trial #brexitshambles #BrexitVote https://t.co/PfXuqjOTT5,"['article50', 'brexitshambles', 'welsh', 'brexitvote', 'brexit']"
+794176247375032320,2257991014,negative,remain,2016-11-03T13:55:47.000Z,Possible appeal to the European Court   Oh the irony 😂#brexit #brexitshambles #Article50 #Art50 #europe #ironic,"['article50', 'europe', 'brexitshambles', 'ironic', 'art50']"
+797407159030005760,2533069214,negative,other,2016-11-12T11:54:16.000Z,Disgusting #Fascism #brexitshambles #brexit #Article50 https://t.co/GJRS4Y2x4O,"['article50', 'fascism', 'brexitshambles', 'brexit']"
+795326089044393984,1487368478,neutral,other,2016-11-06T18:04:50.000Z,"'Brexit DOESN'T mean Brexit!' 😂
+#Brexit #Article50 #HighCourtRuling #BrexitBritain #BrexitShambles #BUGGERBREXIT
+https://t.co/iMjA3iVpO1","['article50', 'highcourtruling', 'brexit', 'buggerbrexit', 'brexitshambles', 'brexitbritain']"
+796082165800964096,716109919,neutral,other,2016-11-08T20:09:13.000Z,"Scottish government to intervene in #Article50 case, says  #nicolasturgeon #brexit #Scotland #brexitshambles  https://t.co/Q25FWVjY50","['article50', 'nicolasturgeon', 'brexitshambles', 'brexit', 'scotland']"
+809922106767081472,1223389308,negative,other,2016-12-17T00:44:12.000Z,"#Brexit fallout: Theresa ""no mates"" May frozen out in #Brussels
 
-#Article50 #Brexit #Brexitshambles","['article50', 'brexitshambles', 'brexit']"
-76,76,76,76,76,76,578306,794135854470012928,2156850916,negative,remain,2016-11-03T11:15:16.000Z,"What's the point of voting in this country anymore? #brexit #Article50 
-Leave or Remain - we have all been betrayed. #brexitshambles","['article50', 'brexitshambles', 'brexit']"
-77,77,77,77,77,77,1237815,807517162936090624,222032680,neutral,other,2016-12-10T09:27:49.000Z,If you only read one #brexit &amp; #Article50 analysis this weekend @Law_and_policy on #brexitshambles should be it! https://t.co/bEnkqKm4q8,"['article50', 'brexitshambles', 'brexit']"
-78,78,78,78,78,78,571930,794122323964137472,3014234895,negative,other,2016-11-03T10:21:30.000Z,"How ironic if the government have to go to the #European court to have this overturned #brexitshambles  #brexit 
-#Article50","['article50', 'brexitshambles', 'european', 'brexit']"
-79,79,79,79,79,79,610625,794312446404153344,2389336800,negative,remain,2016-11-03T22:56:59.000Z,High Court lifts the gloom over the 48% https://t.co/o5eF2Pxmpb via @FT #brexit #highcourtruling #Article50 #brexitshambles,"['article50', 'brexitshambles', 'highcourtruling', 'brexit']"
-80,80,80,80,80,80,661096,795199914959663104,58036645,neutral,remain,2016-11-06T09:43:28.000Z,"Credit where it's due, well done for your commentary The Observer. #brexit #brexitshambles #Article50 #ToriesOut https://t.co/O5RtO1tAM3","['article50', 'brexitshambles', 'toriesout', 'brexit']"
-81,81,81,81,81,81,518626,792809536574754816,1223389308,neutral,remain,2016-10-30T19:24:57.000Z,"What has @Theresa_May's secret @Nissan deal really cost #Britain?
-
-#Brexit #Article50 #brexitshambles https://t.co/Y4s8Tu1zMb","['article50', 'britain?', 'brexit', 'brexitshambles']"
-82,82,82,82,82,82,619120,794452380058353664,944504538,negative,remain,2016-11-04T08:13:02.000Z,Will we ever leave the #EU ? We voted for it or is it all pie in the sky. #brexit #brexitshambles #Article50,"['article50', 'eu', 'brexitshambles', 'brexit']"
-83,83,83,83,83,83,868967,797407159030005760,2533069214,negative,other,2016-11-12T11:54:16.000Z,Disgusting #Fascism #brexitshambles #brexit #Article50 https://t.co/GJRS4Y2x4O,"['article50', 'fascism', 'brexitshambles', 'brexit']"
-84,84,84,84,84,84,585596,794156185717010432,553849185,positive,other,2016-11-03T12:36:04.000Z,"@DavidTCDavies do you mean unlected like Theresa May?
-#Article50 
-#Brexit 
-#brexitshambles 
-#Parliament 
-#highcourt https://t.co/KQN1GhbjPP","['article50', 'highcourt', 'brexit', 'parliament', 'brexitshambles']"
-85,85,85,85,85,85,650309,794930287922790400,2901964056,neutral,remain,2016-11-05T15:52:04.000Z,Justice Secretary Liz Truss fails to condemn Brexit ruling backlash  https://t.co/QzD28Fnosp #brexitshambles #justice #parliament #Article50,"['article50', 'justice', 'brexitshambles', 'parliament']"
-86,86,86,86,86,86,904447,798466146760392704,786208501500567552,negative,other,2016-11-15T10:02:18.000Z,Leaked memo: ‘there is NO plan’ for #brexit https://t.co/wFVoTi9KO8 #brexitshambles #LisbonTreaty #Article50 #TheresaMay https://t.co/FRv87fPBgo,"['article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-87,87,87,87,87,87,904448,798466147221962752,786223821564981120,negative,other,2016-11-15T10:02:18.000Z,Leaked memo: ‘there is NO plan’ for #brexit https://t.co/J7zPP1X6Su #brexitshambles #LisbonTreaty #Article50 #TheresaMay https://t.co/ZtfO8HtBis,"['article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-88,88,88,88,88,88,904449,798466146404073472,786205840181121024,negative,other,2016-11-15T10:02:18.000Z,Leaked memo: ‘there is NO plan’ for #brexit https://t.co/M1ss9G1rjJ #brexitshambles #LisbonTreaty #Article50 #TheresaMay https://t.co/MUNb9vZX9I,"['article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-89,89,89,89,89,89,904450,798466146412285952,13519212,negative,other,2016-11-15T10:02:18.000Z,Leaked memo: ‘there is NO plan’ for #brexit https://t.co/CbX7AK0129 #brexitshambles #LisbonTreaty #Article50 #TheresaMay https://t.co/0LfFJmm9so,"['article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-90,90,90,90,90,90,904452,798466147129532416,786228445839626240,negative,other,2016-11-15T10:02:18.000Z,Leaked memo: ‘there is NO plan’ for #brexit https://t.co/2GEdFXYjJH #brexitshambles #LisbonTreaty #Article50 #TheresaMay https://t.co/PlLBt0d4ZP,"['article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-91,91,91,91,91,91,904451,798466146756268032,795399464555048960,negative,other,2016-11-15T10:02:18.000Z,Leaked memo: ‘there is NO plan’ for #brexit https://t.co/lUdBFUYKJy #brexitshambles #LisbonTreaty #Article50 #TheresaMay https://t.co/CWJdSxZxu8,"['article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-92,92,92,92,92,92,648366,794877295081254912,2829791140,positive,remain,2016-11-05T12:21:29.000Z,#LizTruss be like.... #brexitshambles #brexit #Article50 https://t.co/eOnPJO4g6u,"['article50', 'liztruss', 'brexitshambles', 'brexit']"
-93,93,93,93,93,93,1341750,811736344082923520,65440904,positive,remain,2016-12-22T00:53:20.000Z,More brilliance from #stevebell. #brexit #brexitshambles #postrefracism #Xenophobia #brexitmeansbrexit #turkeys #Article50 #hardbrexit https://t.co/jBj3kDhOlT,"['article50', 'stevebell', 'hardbrexit', 'turkeys', 'brexit', 'postrefracism', 'brexitmeansbrexit', 'brexitshambles', 'xenophobia']"
-94,94,94,94,94,94,583169,794148961745571840,114412574,negative,remain,2016-11-03T12:07:21.000Z,"""Submarine"" Theresa May refuses to face TV cameras over #Article50 #brexit defeat: https://t.co/8mfist2i83 #SupremeCourt #brexitshambles","['article50', 'supremecourt', 'brexitshambles', 'brexit']"
-95,95,95,95,95,95,1249177,808038877600563200,756608530644361216,positive,remain,2016-12-11T20:00:55.000Z,The perfect mug for a hot and steaming filter bubble tea #brexit #brexitshambles #Article50 #TeaTime #filterbubble https://t.co/Vh4Fhy2VqA,"['article50', 'teatime', 'brexit', 'filterbubble', 'brexitshambles']"
-96,96,96,96,96,96,656376,795062551520378880,786117520256229248,neutral,other,2016-11-06T00:37:38.000Z,The current argument #brexit #brexitshambles #article50 #hypocrite #UKPolitics https://t.co/r7yUzwRUyR,"['article50', 'ukpolitics', 'brexit', 'brexitshambles', 'hypocrite']"
-97,97,97,97,97,97,1037306,801889197086871552,3256883794,neutral,remain,2016-11-24T20:44:17.000Z,Shove this up yer #brexit #brexitshambles #AS2016 https://t.co/DO5sEO6uPb,"['as2016', 'brexitshambles', 'brexit']"
-98,98,98,98,98,98,1031259,801783805518475264,1546756460,negative,other,2016-11-24T13:45:30.000Z,"Dead #Brexit voter insists he will make full recovery
+#Article50 #r4today #brexitshambles https://t.co/u4OWNZ3l6P","['article50', 'r4today', 'brexitshambles', 'brussels', 'brexit']"
+794164821017104384,786117520256229248,positive,remain,2016-11-03T13:10:22.000Z,"From the ashes, we will rise. Stronger together. #StrongerIN #Article50 #brexit #brexitshambles. #votephilipknight for a real alternative. https://t.co/gjJhsJt6Y9","['article50', 'strongerin', 'brexit', 'votephilipknight', 'brexitshambles']"
+808038877600563200,756608530644361216,positive,remain,2016-12-11T20:00:55.000Z,The perfect mug for a hot and steaming filter bubble tea #brexit #brexitshambles #Article50 #TeaTime #filterbubble https://t.co/Vh4Fhy2VqA,"['article50', 'teatime', 'brexitshambles', 'filterbubble', 'brexit']"
+796093085080047616,384533439,neutral,other,2016-11-08T20:52:36.000Z,#Toblerone pre #Brexit Post BrextVote &amp; after triggering #Article50 #BrexitChocolate #brexitshambles https://t.co/wH5EMQmLHm,"['article50', 'toblerone', 'brexitshambles', 'brexit', 'brexitchocolate']"
+796030988665126912,724925690685042560,positive,other,2016-11-08T16:45:51.000Z,Scotland to intervene against #uk government in Supreme Court #brexit case #brexitshambles #brexitdebate #Euref #BREAKING #Article50 https://t.co/yFdqPrV8yi,"['article50', 'uk', 'brexitshambles', 'euref', 'breaking', 'brexit', 'brexitdebate']"
+798484292825468928,749712345157500928,negative,other,2016-11-15T11:14:25.000Z,"Full content of leaked #Brexit report
+No idea what to do yet will trigger #Article50?
+#brexitshambles �� MORE &gt;&gt; https://t.co/NSKeoWeVcD","['article50?', 'brexit', 'brexitshambles']"
+803313139399983104,713491147608485888,positive,remain,2016-11-28T19:02:31.000Z,"Is #Article127 the new #Article50? It's #Brexitshambles bingo at the moment, but still better than #Brexit shaping up to be... https://t.co/6SQKx1E9Ug","['article50?', 'brexit', 'brexitshambles', 'article127']"
+805466079128678400,553358800,positive,remain,2016-12-04T17:37:32.000Z,So much for Austria's own version of brexit. Kudos to the people of Austria #Brexitshambles #Austrianelection,"['austrianelection', 'brexitshambles']"
+801783805518475264,1546756460,negative,other,2016-11-24T13:45:30.000Z,"Dead #Brexit voter insists he will make full recovery
 #AutumnStatement #brexitshambles 
 https://t.co/TjY1npWfXr","['autumnstatement', 'brexit', 'brexitshambles']"
-99,99,99,99,99,99,1012603,801406484588482560,31373289,neutral,other,2016-11-23T12:46:09.000Z,The damaging impact of Brexit becoming clearer. Important that we protect Scotland's place in Europe #brexitshambles #AutumnStatement https://t.co/gCGT75Icek,"['autumnstatement', 'brexitshambles']"
-100,100,100,100,100,100,1014748,801429732449484800,21253646,negative,other,2016-11-23T14:18:32.000Z,So what Brexit actually means: A £220bn increase in national debt by end of Parliament. #brexitshambles #AutumnStatement,"['autumnstatement', 'brexitshambles']"
-101,101,101,101,101,101,935524,799150337043140608,2683210415,neutral,other,2016-11-17T07:21:02.000Z,.@PHammondMP 'eye wateringly expensive!' #brexitshambles relying on #AutumnStatement to give fact not fiction re cost Brexit - tell truth? https://t.co/OlL3P9H5gn,"['autumnstatement', 'brexitshambles']"
-102,102,102,102,102,102,1021583,801524358900486144,21995098,negative,remain,2016-11-23T20:34:33.000Z,Up shit creek without a paddle springs to mind #AutumnStatement #brexitshambles #brexit https://t.co/6FEk5MjWa3,"['autumnstatement', 'brexitshambles', 'brexit']"
-103,103,103,103,103,103,1017966,801457000534056960,853256114,positive,remain,2016-11-23T16:06:53.000Z,Far from £350m/week to NHS as promised by @BorisJohnson #AutumnStatement reveals #brexit will cost UK £226m/week #brexitshambles https://t.co/CTWofkFfuW,"['autumnstatement', 'brexitshambles', 'brexit']"
-104,104,104,104,104,104,1031265,801783846811369472,310535567,positive,remain,2016-11-24T13:45:40.000Z,#brexitshambles #brexit #AutumnStatement Brexit &amp; austerity. All combined to bring the UK economy down. The govt are not thinking straight.,"['autumnstatement', 'brexitshambles', 'brexit']"
-105,105,105,105,105,105,1022830,801551139284144128,456114101,neutral,remain,2016-11-23T22:20:58.000Z,Cant we plug the 60bn brexit cost with the 350m savings?....Oh #Budget2017 #brexit #brexitshambles #AutumnStatement,"['autumnstatement', 'brexitshambles', 'budget2017', 'brexit']"
-106,106,106,106,106,106,1026315,801709401660866560,46121931,positive,remain,2016-11-24T08:49:51.000Z,Amazing comment. #brexit #finalfantasyxv #brexitshambles #AutumnStatement https://t.co/Y7DaMNAKW8,"['autumnstatement', 'brexitshambles', 'finalfantasyxv', 'brexit']"
-107,107,107,107,107,107,1178025,806087220302114816,621754322,positive,other,2016-12-06T10:45:44.000Z,What's in the best interests of Britain? Staying in the EU. I support staying in the EU so I'm #BackingBritain. #brexit #brexitshambles https://t.co/bxPNGYAy4a,"['backingbritain', 'brexitshambles', 'brexit']"
-108,108,108,108,108,108,1410406,815859705780305920,611585332,neutral,other,2017-01-02T09:58:06.000Z,"Here comes the #BigBritishSqueeze-@Brexit
-#bankholiday
-#BankHolidayMonday 
-#brexitshambles 
-https://t.co/pbvEOrXLkB
-https://t.co/hVdwDgpPji","['bankholiday', 'brexitshambles', 'bankholidaymonday', 'bigbritishsqueeze-@brexit']"
-109,109,109,109,109,109,1236211,807424949631811584,122448174,negative,other,2016-12-10T03:21:23.000Z,And #banks will probably get their demand of open-ended #Brexit transition pact #BrexitBetrayal #brexitshambles https://t.co/AhmZnyhdzO,"['banks', 'brexit', 'brexitshambles', 'brexitbetrayal']"
-110,110,110,110,110,110,1065078,802811200362967040,20529286,negative,other,2016-11-27T09:48:00.000Z,"Sunday morning had started quite well, until I saw Michael Gove's ugly mug on #marr #bbc #brexit #brexitshambles","['bbc', 'brexitshambles', 'marr', 'brexit']"
-111,111,111,111,111,111,282487,787277583251546112,722630419,neutral,other,2016-10-15T13:02:57.000Z,"#bbcaq 
-Hold on. After the #Brexit and #BrexitMeansBrexit we have the #brexitshambles and this begins the #BrexitCliff so #HoldOnForBrexit https://t.co/44xWIk6vfK","['bbcaq', 'brexit', 'brexitmeansbrexit', 'holdonforbrexit', 'brexitshambles', 'brexitcliff']"
-112,112,112,112,112,112,236405,786501400960184320,785454540803932160,neutral,remain,2016-10-13T09:38:41.000Z,"Media-bias doesn't exist, until it happens to Brexit #BorisJohnson #BBCBias #brexitshambles https://t.co/IEw1hcTPq1","['bbcbias', 'borisjohnson', 'brexitshambles']"
-113,113,113,113,113,113,1051978,802235166198370304,359397742,negative,other,2016-11-25T19:39:03.000Z,#brexit campaigns shouldn't have LIED all the way through #Referendum thats why 2nd one is coming @SkyNews #skynews #brexitshambles #bbcnews https://t.co/1sIFLlKheM,"['bbcnews', 'referendum', 'brexit', 'brexitshambles', 'skynews']"
-114,114,114,114,114,114,1082707,803318293004161024,305801629,negative,remain,2016-11-28T19:23:00.000Z,I don't remember Screaming Lord Sutch ever getting so much attention - just about sums it up.  #bbcpm #Brexit #brexitshambles,"['bbcpm', 'brexit', 'brexitshambles']"
-115,115,115,115,115,115,1379738,814154671497560064,711945679,neutral,remain,2016-12-28T17:02:54.000Z,#bbcpm Brexit : the truth. #brexitshambles https://t.co/ts8Jc1GG7O,"['bbcpm', 'brexitshambles']"
-116,116,116,116,116,116,1424075,816337386678472704,1223389308,negative,remain,2017-01-03T17:36:14.000Z,".@LeaveEUOfficial admit that a #2ndreferendum is a serious possibility.
-
-Let's make it happen!
-
-#brexitshambles
-#bbcpm #brexit https://t.co/ZRxTP8pBH0","['bbcpm', 'brexitshambles', '2ndreferendum', 'brexit']"
-117,117,117,117,117,117,1121817,804488579787395072,1336803638,negative,remain,2016-12-02T00:53:18.000Z,"Remember when David Cameron fucked a pig? The bastard off-Spring was Brexit!
+801429732449484800,21253646,negative,other,2016-11-23T14:18:32.000Z,So what Brexit actually means: A £220bn increase in national debt by end of Parliament. #brexitshambles #AutumnStatement,"['autumnstatement', 'brexitshambles']"
+801406484588482560,31373289,neutral,other,2016-11-23T12:46:09.000Z,The damaging impact of Brexit becoming clearer. Important that we protect Scotland's place in Europe #brexitshambles #AutumnStatement https://t.co/gCGT75Icek,"['autumnstatement', 'brexitshambles']"
+799150337043140608,2683210415,neutral,other,2016-11-17T07:21:02.000Z,.@PHammondMP 'eye wateringly expensive!' #brexitshambles relying on #AutumnStatement to give fact not fiction re cost Brexit - tell truth? https://t.co/OlL3P9H5gn,"['autumnstatement', 'brexitshambles']"
+801783846811369472,310535567,positive,remain,2016-11-24T13:45:40.000Z,#brexitshambles #brexit #AutumnStatement Brexit &amp; austerity. All combined to bring the UK economy down. The govt are not thinking straight.,"['autumnstatement', 'brexitshambles', 'brexit']"
+801457000534056960,853256114,positive,remain,2016-11-23T16:06:53.000Z,Far from £350m/week to NHS as promised by @BorisJohnson #AutumnStatement reveals #brexit will cost UK £226m/week #brexitshambles https://t.co/CTWofkFfuW,"['autumnstatement', 'brexitshambles', 'brexit']"
+801524358900486144,21995098,negative,remain,2016-11-23T20:34:33.000Z,Up shit creek without a paddle springs to mind #AutumnStatement #brexitshambles #brexit https://t.co/6FEk5MjWa3,"['autumnstatement', 'brexitshambles', 'brexit']"
+801551139284144128,456114101,neutral,remain,2016-11-23T22:20:58.000Z,Cant we plug the 60bn brexit cost with the 350m savings?....Oh #Budget2017 #brexit #brexitshambles #AutumnStatement,"['autumnstatement', 'budget2017', 'brexitshambles', 'brexit']"
+806087220302114816,621754322,positive,other,2016-12-06T10:45:44.000Z,What's in the best interests of Britain? Staying in the EU. I support staying in the EU so I'm #BackingBritain. #brexit #brexitshambles https://t.co/bxPNGYAy4a,"['backingbritain', 'brexitshambles', 'brexit']"
+791337568239513600,26416527,neutral,remain,2016-10-26T17:55:53.000Z,That's that sorted then #baldrick #brexit #BREXITisBREXIT #brexitshambles https://t.co/MALUKHNwSh,"['baldrick', 'brexitshambles', 'brexitisbrexit', 'brexit']"
+791594981295349760,3323346989,neutral,remain,2016-10-27T10:58:45.000Z,"#BankersBrexit 
+#brexit
+#brexitshambles https://t.co/85uU24l8lw","['bankersbrexit', 'brexitshambles', 'brexit']"
+802811200362967040,20529286,negative,other,2016-11-27T09:48:00.000Z,"Sunday morning had started quite well, until I saw Michael Gove's ugly mug on #marr #bbc #brexit #brexitshambles","['bbc', 'marr', 'brexitshambles', 'brexit']"
+786501400960184320,785454540803932160,neutral,remain,2016-10-13T09:38:41.000Z,"Media-bias doesn't exist, until it happens to Brexit #BorisJohnson #BBCBias #brexitshambles https://t.co/IEw1hcTPq1","['bbcbias', 'brexitshambles', 'borisjohnson']"
+809684535608803328,313775431,neutral,remain,2016-12-16T09:00:11.000Z,@Change_Britain Or not...#brexit #bbcdp @GiselaStuart @JuliaHB1 #brexitshambles https://t.co/hHbFUKDsTJ,"['bbcdp', 'brexitshambles']"
+806112164553617408,2225633047,positive,remain,2016-12-06T12:24:51.000Z,24/7 drivel from May on #brexit. This Tory #brexitshambles is more like an Aykbourn farce every day #bbcdp,"['bbcdp', 'brexitshambles', 'brexit']"
+795959819853332480,51147107,neutral,other,2016-11-08T12:03:03.000Z,"A billion pounds of deals is a suspiciously round number #BBCdp
+#TheresaMayhem
+#Brexit #BrexitShambles #BrexitChaos","['bbcdp', 'theresamayhem', 'brexit', 'brexitchaos', 'brexitshambles']"
+795224598673584128,340545072,negative,other,2016-11-06T11:21:33.000Z,Gina Miller: #Brexit ruling prevents UK from being a 'tin-pot dictatorship' #bbcqt #brexitshambles #brexitjudgement  https://t.co/BsTBmSMoV2,"['bbcqt', 'brexit', 'brexitjudgement', 'brexitshambles']"
+801193368407646208,313775431,positive,other,2016-11-22T22:39:19.000Z,"@Pompie10350638 like Norway then...
+https://t.co/GugohcgnIM #brexit #OpenBritain #bbcdp #bbcsp #bbcqt #leavemeansleave #brexitshambles","['bbcqt', 'brexitshambles', 'bbcsp', 'bbcdp', 'brexit', 'leavemeansleave', 'openbritain']"
+794248570505347072,221733067,negative,other,2016-11-03T18:43:10.000Z,"How many people understand parliament  is sovereign over royal prerogative? Charles I lost his head over it 
+#brexit #brexitshambles  #bbcqt","['bbcqt', 'brexitshambles', 'brexit']"
+794316800657915904,4249667517,negative,remain,2016-11-03T23:14:17.000Z,Brexit was the biggest farce in British political history. #bbcqt #brexitshambles #brexit,"['bbcqt', 'brexitshambles', 'brexit']"
+804488579787395072,1336803638,negative,remain,2016-12-02T00:53:18.000Z,"Remember when David Cameron fucked a pig? The bastard off-Spring was Brexit!
 
 #brexitshambles #brexit #bbcqt","['bbcqt', 'brexitshambles', 'brexit']"
-118,118,118,118,118,118,603978,794248570505347072,221733067,negative,other,2016-11-03T18:43:10.000Z,"How many people understand parliament  is sovereign over royal prerogative? Charles I lost his head over it 
-#brexit #brexitshambles  #bbcqt","['bbcqt', 'brexitshambles', 'brexit']"
-119,119,119,119,119,119,592334,794182846676090880,2180015951,neutral,remain,2016-11-03T14:22:00.000Z,"Remember folks, its all an illusion https://t.co/GEWwAgTh1e
+794317442067656704,15016899,positive,other,2016-11-03T23:16:50.000Z,Lets just do away with parliament altogether. That'll make the mobs happy. #bbcqt #brexitshambles #Article50 #brexit,"['bbcqt', 'brexitshambles', 'brexit', 'article50']"
+801731807364386816,3094292199,negative,remain,2016-11-24T10:18:52.000Z,"#Brexit will hurt the worst off in society the most. #Bexiteers have no answers, only deluded denial #brexitshambles https://t.co/VMp95HvXF0","['bexiteers', 'brexit', 'brexitshambles']"
+802465874569400320,65440904,negative,other,2016-11-26T10:55:48.000Z,"This needs no comment #brexit #BlackFridayWeekend #BlackoutBlackFriday #brexitshambles #BrexitBlues 
+https://t.co/qAOowzvFG8","['blackoutblackfriday', 'brexitshambles', 'brexitblues', 'blackfridayweekend', 'brexit']"
+806112180282294272,1160888816,neutral,other,2016-12-06T12:24:55.000Z,"#BlessedTheresa now saying we're having a red, white and blue #Brexit. #bbcdp #brexitshambles","['blessedtheresa', 'brexitshambles', 'bbcdp', 'brexit']"
+803906919803088896,21280907,positive,other,2016-11-30T10:22:00.000Z,@DanielJHannan  Nice one Dan. Very astute.    https://t.co/TY1OcgTsXJ  2/2 #Brexit #Dogsbrexit #Brexitshambles #Blindleadingtheblind,"['blindleadingtheblind', 'brexit', 'dogsbrexit', 'brexitshambles']"
+803554565677260800,144525228,positive,other,2016-11-29T11:01:52.000Z,"Finally, a plan, written down... what a joke!
+https://t.co/orB7VuCFl0
+#Brexit #brexitshambles #blogs","['blogs', 'brexit', 'brexitshambles']"
+799138006028472320,30205406,neutral,remain,2016-11-17T06:32:02.000Z,Brexit means Breaks It? #brexit #brexitshambles #bojo #borisjohnson #Boris https://t.co/GkV8Iri815,"['bojo', 'boris', 'brexitshambles', 'brexit', 'borisjohnson']"
+787739656674762752,784175189647122432,negative,other,2016-10-16T19:39:04.000Z,Will this be an incredible flop for Priti? @patel4witham @BBCNewsnight #brexitshambles #Brexit #nobrexit #PrittiPatel #bojo #YesEU https://t.co/tmdkktAx34,"['bojo', 'nobrexit', 'prittipatel', 'brexitshambles', 'brexit', 'yeseu']"
+804625239623761920,805515175,negative,remain,2016-12-02T09:56:20.000Z,Boris Johnson: democracy is in retreat across world https://t.co/lqDdBYUHmZ via @guardian #Boris #Brexit #brexitshambles #democracy,"['boris', 'brexit', 'democracy', 'brexitshambles']"
+794247889505685504,4273838681,positive,remain,2016-11-03T18:40:27.000Z,"""Brexit means Brexit and we are going to make a Titanic success of it"" - Boris Johnson
+QUICK, GET TO THE LIFEBOATS!!!
+#brexitshambles #Boris https://t.co/3S0Wfb0v6t","['boris', 'brexitshambles']"
+798992329499504640,1710254557,negative,remain,2016-11-16T20:53:10.000Z,#brexitshambles #brexit #boris #liar @foreignoffice a disgrace and yet he is still there behaving like the bafoon he is @BorisJohnson https://t.co/7u9p1cOYeW,"['boris', 'liar', 'brexitshambles', 'brexit']"
+793497982108860416,275604312,negative,remain,2016-11-01T17:00:36.000Z,"#brexitshambles #brexit #borisjohnson. A legacy of idiotic mayor, Boris Johnson. Lower Thames Street reduced to one lane for few cyclists. https://t.co/xWOWmvAKmh","['borisjohnson', 'brexitshambles', 'brexit']"
+794190342434197504,2901964056,neutral,other,2016-11-03T14:51:47.000Z,"Brexit court case: Government loses, May cannot trigger Article 50 https://t.co/fJREmQ1EKU #brexitshambles  #ukip #PritiPatel #borisjohnson","['borisjohnson', 'ukip', 'brexitshambles', 'pritipatel']"
+802934930254819328,119828727,positive,other,2016-11-27T17:59:39.000Z,Chance of an 'orderly' Brexit within two years is less than 50% #brexitshambles #BreakingNews  https://t.co/o7FdHfC98Z,"['breakingnews', 'brexitshambles']"
+803142750447292416,119828727,negative,remain,2016-11-28T07:45:28.000Z,Hard Brexit would damage 'almost every sector' of UK economy #brexitshambles #BreakingNews  https://t.co/9kiIpQlVwL,"['breakingnews', 'brexitshambles']"
+794122971879186432,257070859,positive,other,2016-11-03T10:24:05.000Z,This could be interesting ....... #brexit #brexitshambles #BreakingNews https://t.co/e7yrWVFzM4,"['breakingnews', 'brexitshambles', 'brexit']"
+802422021812617216,219977220,negative,other,2016-11-26T08:01:32.000Z,"£60,000,000,000 is a small price to pay for 'sovereignty' #bregret #brexit #brexitshambles","['bregret', 'brexitshambles', 'brexit']"
+815577167841161216,99628982,negative,remain,2017-01-01T15:15:24.000Z,"Doing the right thing is sometimes difficult, but the UK economical suicide is even worse.
+#bregret #brexitshambles #brexit https://t.co/egCTJoCzFe","['bregret', 'brexitshambles', 'brexit']"
+795945701553373184,771448913022844928,neutral,remain,2016-11-08T11:06:57.000Z,"Brexit - too may ifs, too may buts. #StrongerIN #brexitshambles #bregret","['bregret', 'brexitshambles', 'strongerin']"
+810902724204232704,753653490484973440,positive,remain,2016-12-19T17:40:49.000Z,Hope you like my Xmas card @nick_clegg designed by @albawhitewolf #brexit #brexitshambles #bremaininspain https://t.co/Prju7N7V1S,"['bremaininspain', 'brexitshambles', 'brexit']"
+817380669143793664,761271909333995520,neutral,other,2017-01-06T14:41:52.000Z,".@bankofengland ADMITS HUGE BREXIT BLUNDER!
+Except, of course, that's not what happened at all.
+#Bresistance #brexitshambles https://t.co/v1FQtgKoX8","['bresistance', 'brexitshambles']"
+816275420152758272,19907074,neutral,other,2017-01-03T13:30:00.000Z,Shut up shut up! You had your vote! Keep them coming @SKZCartoons #brexit #brexitshambles #Bresistance https://t.co/7PVtiyE7Zq,"['bresistance', 'brexitshambles', 'brexit']"
+794157179729084416,20442930,negative,leave,2016-11-03T12:40:01.000Z,Brexit BLOCKED: Brits face new vote to leave EU after shock court ruling #brexitshambles #brex https://t.co/6xyOvH3TdG https://t.co/d7Lc1PS1k5,"['brex', 'brexitshambles']"
+804423333374791680,194537703,neutral,remain,2016-12-01T20:34:02.000Z,"It won’t be easy to stop Brexit. But here are four ways to do it
 
-#brexit #ThursdayThoughts #GinaMiller #Article50 #brexitshambles  #bbcqt #PMQs","['bbcqt', 'ginamiller', 'thursdaythoughts', 'pmqs', 'article50', 'brexit', 'brexitshambles']"
-120,120,120,120,120,120,1120188,804461774779142144,372805464,neutral,leave,2016-12-01T23:06:47.000Z,"Ahh, but did Brexiteers who believed they DID KNOW Brexit meant LEAVING #SingleMarket know exactly what THAT meant #BrexitShambles #bbcqt","['bbcqt', 'singlemarket', 'brexitshambles']"
-121,121,121,121,121,121,1150294,805402099945246720,722630419,negative,remain,2016-12-04T13:23:18.000Z,#bbcsp Nick Clegg did wrong to facilitate Tory rule but he's hammering the Brexitbods on the single market #brexitshambles #Brexit,"['bbcsp', 'brexit', 'brexitshambles']"
-122,122,122,122,122,122,247847,786595812079960064,3347915091,neutral,remain,2016-10-13T15:53:50.000Z,Reassuringly there are still tubs of #BenAndJerrys #brexitshambles #Brexit https://t.co/4HzsVFieSo,"['benandjerrys', 'brexit', 'brexitshambles']"
-123,123,123,123,123,123,1394362,814825620203048960,989635268,positive,other,2016-12-30T13:29:01.000Z,A big thanks to the European Union for saving lives at the #BerlinAttack: https://t.co/WpSWDIuV2S #Brexit #brexitshambles #afdfragen,"['berlinattack', 'afdfragen', 'brexit', 'brexitshambles']"
-124,124,124,124,124,124,440546,790957220653588480,1006081536,positive,remain,2016-10-25T16:44:31.000Z,"Whats your Plan B May?This Tory Brexit Lark is getting beyond a joke.Resign now and save the headache
+https://t.co/1eJe4ZNUCe  #brexitshambles #brex","['brex', 'brexitshambles']"
+802469540441554944,43652967,neutral,other,2016-11-26T11:10:22.000Z,https://t.co/1tXgdpudQg #ThankYouBrexit #Brexidiots have a lot to answer for. #Brexit #brexitshambles,"['brexidiots', 'brexit', 'brexitshambles', 'thankyoubrexit']"
+802467229279383552,43652967,neutral,remain,2016-11-26T11:01:11.000Z,https://t.co/N7izcbTJOI #BrexitShambles Did anyone consider how #Brexit would happen - certainly not the #Brexidiots,"['brexidiots', 'brexitshambles', 'brexit']"
+814393804325261312,2291607806,negative,other,2016-12-29T08:53:08.000Z,"UK in #2030: older, more unequal and blighted by #Brexit, report predicts #brexitshambles  https://t.co/4exdtIDeMO","['brexit', '2030', 'brexitshambles']"
+794184142686748672,722194882417336320,positive,remain,2016-11-03T14:27:09.000Z,@TANews101 My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['brexit', 'article50', 'brexitshambles']"
+794184370298953728,722194882417336320,positive,remain,2016-11-03T14:28:03.000Z,@LibEuropeans My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['brexit', 'article50', 'brexitshambles']"
+794184837221548032,722194882417336320,positive,remain,2016-11-03T14:29:55.000Z,@LibDemsCrookes My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['brexit', 'article50', 'brexitshambles']"
+794184427307991040,722194882417336320,positive,remain,2016-11-03T14:28:17.000Z,@Right_to_Remain My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['brexit', 'article50', 'brexitshambles']"
+794184179965632512,722194882417336320,positive,remain,2016-11-03T14:27:18.000Z,@TheNewEuropean My dream IS going to come true! All I Want For Xmas Is EU!!! #Brexit #brexitshambles #article50 https://t.co/TLyHbTada8 https://t.co/2Rgin4C4CN,"['brexit', 'article50', 'brexitshambles']"
+794155208146186240,72507937,neutral,remain,2016-11-03T12:32:10.000Z,"Farage hinting at ""revolution"" - just in time for Guy Fawkes night. Oh, goody. #Brexit #brexitshambles #article50 https://t.co/6ThyJ14KfS","['brexit', 'article50', 'brexitshambles']"
+794119171491713024,761452525,neutral,other,2016-11-03T10:08:59.000Z,"The rule of law 'trumps' a populist referendum result by the looks of it! 
+
+#Article50 #Brexit #Brexitshambles","['brexit', 'article50', 'brexitshambles']"
+794270081551364096,18671601,neutral,other,2016-11-03T20:08:38.000Z,"I expect @DavidTCDavies will be able to tell us when the UK last had ""elected"" judges calling the shots.
+
+#Brexitshambles #Brexit#Article50 https://t.co/24VIymYzdb","['brexit', 'article50', 'brexitshambles']"
+791333426569834496,26416527,neutral,other,2016-10-26T17:39:25.000Z,Cometh the moment cometh the man  #baldrick #BREXITisBREXIT #Brexit #brexitshambles,"['brexit', 'baldrick', 'brexitshambles', 'brexitisbrexit']"
+800455909906534400,632915700,negative,remain,2016-11-20T21:48:55.000Z,'The Tories have given up on being the party of business by making a mess of #Brexit' - #bbcdp on #Brexitshambles,"['brexit', 'bbcdp', 'brexitshambles']"
+785058732577259520,562017666,neutral,other,2016-10-09T10:06:02.000Z,#Brexit means #Brexitshambles  #bbcsp,"['brexit', 'bbcsp', 'brexitshambles']"
+786595812079960064,3347915091,neutral,remain,2016-10-13T15:53:50.000Z,Reassuringly there are still tubs of #BenAndJerrys #brexitshambles #Brexit https://t.co/4HzsVFieSo,"['brexit', 'benandjerrys', 'brexitshambles']"
+794160186281836544,1158273668,neutral,remain,2016-11-03T12:51:57.000Z,How the #Brexit impacted on #Bitcoin price in the previous months. #brexitshambles https://t.co/P4adwj5buX https://t.co/epz8W5KfS0,"['brexit', 'bitcoin', 'brexitshambles']"
+802203705680478208,318309017,positive,remain,2016-11-25T17:34:02.000Z,#BorisJohnson is a clown who has united the EU against Britain https://t.co/q94JjPu5RE #BoJo #Brexit #BrexitShambles #BrexitChaos,"['brexit', 'borisjohnson', 'brexitchaos', 'brexitshambles', 'bojo']"
+804968876383596544,43652967,neutral,other,2016-12-03T08:41:50.000Z,The #BrexitBacklash could see #Brexit MPs wiped off the map. #BritishDemocracy may yet halt #brexitshambles https://t.co/fpjMPFj24e,"['brexit', 'brexitbacklash', 'britishdemocracy', 'brexitshambles']"
+786229311216967680,22628827,negative,remain,2016-10-12T15:37:29.000Z,There is no #Brexit plan. And rushing things will only make our position worse. #BrexitBritain #brexitshambles https://t.co/2U7PgkeARc,"['brexit', 'brexitbritain', 'brexitshambles']"
+804214399946911744,36063034,negative,remain,2016-12-01T06:43:49.000Z,This inadvertently demonstrates why we're in trouble! #brexitshambles #Brexit #BrexitBritain https://t.co/sJ46ovEWiu,"['brexit', 'brexitbritain', 'brexitshambles']"
+793367251265187840,231390130,neutral,remain,2016-11-01T08:21:07.000Z,Japanese companies in UK 'already receiving offers from EU'  #Brexit #BrexitBritain #Brexitshambles - https://t.co/gkDAZgAtEP,"['brexit', 'brexitbritain', 'brexitshambles']"
+794139316771504128,231390130,neutral,other,2016-11-03T11:29:02.000Z,I think satirists will be dining out on #Brexit for many years to come! #Brexitshambles #BrexitBritain https://t.co/X3xnjDHCZl,"['brexit', 'brexitbritain', 'brexitshambles']"
+787186907197366272,56978179,positive,other,2016-10-15T07:02:38.000Z,"Butter up 58%
+Sugar up 37%
+Beef up 33%
+Pork up 18%
+Wheat up 17%
+
+#Brexit
+#BrexitBritain 
 #brexitshambles 
 
-#BetterApartScotland https://t.co/DztI4YAFSW","['betterapartscotland', 'brexitshambles']"
-125,125,125,125,125,125,1028018,801731807364386816,3094292199,negative,remain,2016-11-24T10:18:52.000Z,"#Brexit will hurt the worst off in society the most. #Bexiteers have no answers, only deluded denial #brexitshambles https://t.co/VMp95HvXF0","['bexiteers', 'brexit', 'brexitshambles']"
-126,126,126,126,126,126,1290035,809472574694584320,252276052,positive,remain,2016-12-15T18:57:55.000Z,#brexit is going to be a disaster #brexitshambles and so pleased to see #billynomates @theresa_may at @Europarl_EN on video @Change_Britain,"['billynomates', 'brexitshambles', 'brexit']"
-127,127,127,127,127,127,1057808,802465874569400320,65440904,negative,other,2016-11-26T10:55:48.000Z,"This needs no comment #brexit #BlackFridayWeekend #BlackoutBlackFriday #brexitshambles #BrexitBlues 
-https://t.co/qAOowzvFG8","['blackfridayweekend', 'blackoutblackfriday', 'brexitblues', 'brexit', 'brexitshambles']"
-128,128,128,128,128,128,651513,794940505566093312,2358698291,neutral,other,2016-11-05T16:32:40.000Z,Discussing how #BlackoutObscura &amp; current #UKPolitics are not dissimilar. My thoughts on #brexit #brexitshambles https://t.co/YFPguhx9kB,"['blackoutobscura', 'brexitshambles', 'ukpolitics', 'brexit']"
-129,129,129,129,129,129,697535,795913123551121408,51147107,neutral,remain,2016-11-08T08:57:30.000Z,#BOE has rightly told #TheresaMayhem she doesn’t know what she’s talking about https://t.co/a9n1m3o6TW #Brexit #BrexitShambles #BrexitChaos,"['boe', 'brexit', 'theresamayhem', 'brexitchaos', 'brexitshambles']"
-130,130,130,130,130,130,301703,787739656674762752,784175189647122432,negative,other,2016-10-16T19:39:04.000Z,Will this be an incredible flop for Priti? @patel4witham @BBCNewsnight #brexitshambles #Brexit #nobrexit #PrittiPatel #bojo #YesEU https://t.co/tmdkktAx34,"['bojo', 'brexit', 'nobrexit', 'yeseu', 'brexitshambles', 'prittipatel']"
-131,131,131,131,131,131,1051406,802221945118920704,108734413,negative,other,2016-11-25T18:46:30.000Z,How prescient of @BorisJohnson to have foreseen the poverty of the UK #brexit negotiating position #brexitshambles #Article50 #borisjohnson https://t.co/OpLycBPNvA,"['borisjohnson', 'article50', 'brexitshambles', 'brexit']"
-132,132,132,132,132,132,935614,799138006028472320,30205406,neutral,remain,2016-11-17T06:32:02.000Z,Brexit means Breaks It? #brexit #brexitshambles #bojo #borisjohnson #Boris https://t.co/GkV8Iri815,"['borisjohnson', 'bojo', 'boris', 'brexit', 'brexitshambles']"
-133,133,133,133,133,133,1050715,802203705680478208,318309017,positive,remain,2016-11-25T17:34:02.000Z,#BorisJohnson is a clown who has united the EU against Britain https://t.co/q94JjPu5RE #BoJo #Brexit #BrexitShambles #BrexitChaos,"['borisjohnson', 'brexit', 'brexitchaos', 'bojo', 'brexitshambles']"
-134,134,134,134,134,134,299446,787699653257101312,17257857,neutral,remain,2016-10-16T17:00:06.000Z,'semi-parodic' is a phrase that could be used to describe much of contemporary British politics. #Brexit #brexitshambles #BorisJohnson https://t.co/JZcepcweFa,"['borisjohnson', 'brexit', 'brexitshambles']"
-135,135,135,135,135,135,1266496,808704418619256832,805515175,positive,remain,2016-12-13T16:05:33.000Z,Agreed! Britain is a laughing stock with Boris as Foreign Secretary #BorisJohnson #Brexit #TheresaMay #brexitshambles https://t.co/yW2C2vbPCB,"['borisjohnson', 'brexit', 'brexitshambles', 'theresamay']"
-136,136,136,136,136,136,1053946,802291226854785024,716109919,positive,remain,2016-11-25T23:21:48.000Z,#BorisJohnson is a clown who has united the #EU against #Britain #brexit #brexitshambles  https://t.co/rMXOQMma4I,"['borisjohnson', 'brexit', 'eu', 'britain', 'brexitshambles']"
-137,137,137,137,137,137,931737,798965605445550080,318309017,neutral,remain,2016-11-16T19:06:59.000Z,European ministers ridicule #BorisJohnson after prosecco claim https://t.co/grEv62khZr #BoJo #Brexit #BrexitShambles #TheresaMayhem,"['borisjohnson', 'brexit', 'theresamayhem', 'bojo', 'brexitshambles']"
-138,138,138,138,138,138,972736,800282978026823680,318309017,neutral,remain,2016-11-20T10:21:45.000Z,#BorisJohnson: Britain's voice abroad #BoJo #Brexit #BrexitShambles #BrexitChaos #TheresaMayhem  https://t.co/88Qk8GgMLa,"['borisjohnson', 'brexit', 'theresamayhem', 'brexitchaos', 'bojo', 'brexitshambles']"
-139,139,139,139,139,139,668214,795323466035687424,2521717647,neutral,remain,2016-11-06T17:54:25.000Z,"Brexit will be a TITANIC success.
-#brexitshambles #borisjohnson https://t.co/9iimZIZJEH","['borisjohnson', 'brexitshambles']"
-140,140,140,140,140,140,942595,799275097030795264,753902201844760448,negative,remain,2016-11-17T15:36:47.000Z,"This is just getting embarrassing...
-
-https://t.co/hUsGwEnNFz
-
-#BorisJohnson #Brexit #Brexitshambles","['borisjohnson', 'brexitshambles', 'brexit']"
-141,141,141,141,141,141,540003,793497982108860416,275604312,negative,remain,2016-11-01T17:00:36.000Z,"#brexitshambles #brexit #borisjohnson. A legacy of idiotic mayor, Boris Johnson. Lower Thames Street reduced to one lane for few cyclists. https://t.co/xWOWmvAKmh","['borisjohnson', 'brexitshambles', 'brexit']"
-142,142,142,142,142,142,566275,794111139630219264,318309017,positive,remain,2016-11-03T09:37:04.000Z,#BorisJohnson says #Brexit will be a 'Titanic success' and everyone agrees https://t.co/ZUxqLCbkee via @HuffPostUK #BoJo #BrexitShambles,"['borisjohnson', 'brexitshambles', 'brexit', 'bojo']"
-143,143,143,143,143,143,315042,788000068309749760,192614779,negative,remain,2016-10-17T12:53:51.000Z,And losing the AAA rating! #Brexit #BrexitBritain #BrexitCase #brexitshambles #TheresaMay #BorisJohnson #EUreferendum #inflation #economy https://t.co/SvFHB1wBAu,"['borisjohnson', 'economy', 'brexit', 'inflation', 'brexitbritain', 'eureferendum', 'brexitcase', 'theresamay', 'brexitshambles']"
-144,144,144,144,144,144,1020021,801491541336457216,26579197,positive,remain,2016-11-23T18:24:09.000Z,The option is appealing. #Trump #Brexit #brexitshambles #TheresaMay #Elections2016 #borisjohnson https://t.co/EBmrXjAwkH,"['borisjohnson', 'elections2016', 'brexit', 'trump', 'theresamay', 'brexitshambles']"
-145,145,145,145,145,145,996520,800981148843315200,175029793,positive,other,2016-11-22T08:36:02.000Z,#borisjohnson may be right #brexit britain top of q for U.S. trade deal but did not expect #farage to negotiate it #Trump #brexitshambles,"['borisjohnson', 'farage', 'trump', 'brexit', 'brexitshambles']"
-146,146,146,146,146,146,1142609,805109327157755904,335968069,neutral,remain,2016-12-03T17:59:56.000Z,"#bufontborders IN OTHER WORDS, EU (#brempire2) MEDITERANIAN COUNTRIES, #brexit #brexitshambles #borisjohnson @BENEFITS_NEWS #GIVYOURCASHTOEU https://t.co/kWlw0LTMof","['borisjohnson', 'givyourcashtoeu', 'brexit', 'bufontborders', 'brexitshambles']"
-147,147,147,147,147,147,516907,792754274090487808,722194882417336320,positive,remain,2016-10-30T15:45:22.000Z,All I Want For Xmas Is EU!!! #Brexit #brexitshambles #BrexitVote #borisjohnson #TheresaMay #farage #Ukip #Remain https://t.co/TLyHbTada8 https://t.co/sRLpQV4OCK,"['borisjohnson', 'remain', 'ukip', 'farage', 'brexit', 'brexitshambles', 'theresamay', 'brexitvote']"
-148,148,148,148,148,148,1148975,805368516211785728,800397057252962304,negative,other,2016-12-04T11:09:51.000Z,Don't agree with @offasreturnII on #Brexit but his analysis of #borisjohnson's tactics might just be spot-on #brexitshambles https://t.co/Q4I8Uqc8Xw,"[""borisjohnson's"", 'brexit', 'brexitshambles']"
-149,149,149,149,149,149,587359,794162452980203520,2835023825,negative,other,2016-11-03T13:00:58.000Z,Court ruling throws Brexit process into doubt  - CNNMoney https://t.co/lfstY7U2h5 #brexit #brexitshambles #BREAKING,"['breaking', 'brexitshambles', 'brexit']"
-150,150,150,150,150,150,573469,794125327769501696,13519212,positive,other,2016-11-03T10:33:26.000Z,#BREAKINGNEWS Government LOSES #Article50 legal battle:  https://t.co/ra3sMBajT3 #LisbonTreaty #TheresaMay #brexitshambles #brexit https://t.co/bnxWSxb5Bk,"['breakingnews', 'article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-151,151,151,151,151,151,573474,794125328474112000,786228445839626240,positive,other,2016-11-03T10:33:27.000Z,#BREAKINGNEWS Government LOSES #Article50 legal battle:  https://t.co/aUJenWVnv6 #LisbonTreaty #TheresaMay #brexitshambles #brexit https://t.co/JeniyTVBsx,"['breakingnews', 'article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-152,152,152,152,152,152,573473,794125328247619584,786202162317537280,positive,other,2016-11-03T10:33:27.000Z,#BREAKINGNEWS Government LOSES #Article50 legal battle:  https://t.co/toyqoy4i5s #LisbonTreaty #TheresaMay #brexitshambles #brexit https://t.co/uKVQ5Bzd4L,"['breakingnews', 'article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-153,153,153,153,153,153,573472,794125328448978944,786223821564981120,positive,other,2016-11-03T10:33:27.000Z,#BREAKINGNEWS Government LOSES #Article50 legal battle:  https://t.co/eF8Km7cSu7 #LisbonTreaty #TheresaMay #brexitshambles #brexit https://t.co/XrMm5nEASA,"['breakingnews', 'article50', 'lisbontreaty', 'brexit', 'theresamay', 'brexitshambles']"
-154,154,154,154,154,154,1406991,815577167841161216,99628982,negative,remain,2017-01-01T15:15:24.000Z,"Doing the right thing is sometimes difficult, but the UK economical suicide is even worse.
-#bregret #brexitshambles #brexit https://t.co/egCTJoCzFe","['bregret', 'brexitshambles', 'brexit']"
-155,155,155,155,155,155,1056105,802422021812617216,219977220,negative,other,2016-11-26T08:01:32.000Z,"£60,000,000,000 is a small price to pay for 'sovereignty' #bregret #brexit #brexitshambles","['bregret', 'brexitshambles', 'brexit']"
-156,156,156,156,156,156,699105,795945701553373184,771448913022844928,neutral,remain,2016-11-08T11:06:57.000Z,"Brexit - too may ifs, too may buts. #StrongerIN #brexitshambles #bregret","['bregret', 'brexitshambles', 'strongerin']"
-157,157,157,157,157,157,1321666,810902724204232704,753653490484973440,positive,remain,2016-12-19T17:40:49.000Z,Hope you like my Xmas card @nick_clegg designed by @albawhitewolf #brexit #brexitshambles #bremaininspain https://t.co/Prju7N7V1S,"['bremaininspain', 'brexitshambles', 'brexit']"
-158,158,158,158,158,158,1420515,816275420152758272,19907074,neutral,other,2017-01-03T13:30:00.000Z,Shut up shut up! You had your vote! Keep them coming @SKZCartoons #brexit #brexitshambles #Bresistance https://t.co/7PVtiyE7Zq,"['bresistance', 'brexitshambles', 'brexit']"
-159,159,159,159,159,159,410705,790276974627397632,220794069,positive,other,2016-10-23T19:41:28.000Z,Leading banks set to pull out of UK early next year- looks like #Brexageddon is coming early #Brexit #brexitshambles https://t.co/JdJO2cHueN,"['brexageddon', 'brexit', 'brexitshambles']"
-160,160,160,160,160,160,1030426,801770544244858880,1546756460,neutral,remain,2016-11-24T12:52:48.000Z,"#TheSun frightens readers with nearly accurate headline
-#BREXFIT? #BREXSHIT #brexit #brexitshambles https://t.co/502suchvHd","['brexfit?', 'brexshit', 'brexit', 'thesun', 'brexitshambles']"
-161,161,161,161,161,161,1057858,802467229279383552,43652967,neutral,remain,2016-11-26T11:01:11.000Z,https://t.co/N7izcbTJOI #BrexitShambles Did anyone consider how #Brexit would happen - certainly not the #Brexidiots,"['brexidiots', 'brexit', 'brexitshambles']"
-162,162,162,162,162,162,1057871,802467627620777984,43652967,neutral,remain,2016-11-26T11:02:46.000Z,https://t.co/y2KDu5YBMZ more #BrexitShambles - #Brexidiots really didn't think #Brexit through - they didn't think at all,"['brexidiots', 'brexit', 'brexitshambles']"
-163,163,163,163,163,163,1057945,802469540441554944,43652967,neutral,other,2016-11-26T11:10:22.000Z,https://t.co/1tXgdpudQg #ThankYouBrexit #Brexidiots have a lot to answer for. #Brexit #brexitshambles,"['brexidiots', 'thankyoubrexit', 'brexit', 'brexitshambles']"
-164,164,164,164,164,164,1384582,814393804325261312,2291607806,negative,other,2016-12-29T08:53:08.000Z,"UK in #2030: older, more unequal and blighted by #Brexit, report predicts #brexitshambles  https://t.co/4exdtIDeMO","['brexit', '2030', 'brexitshambles']"
-165,165,165,165,165,165,406611,790167250204524544,2389336800,negative,other,2016-10-23T12:25:27.000Z,Swiss battle offers clues for #Brexit https://t.co/Hc7CdJ76kw via @FT #brexitshambles #Peston #bbcsp #business #marr https://t.co/6zas8GIaa5,"['brexit', 'bbcsp', 'peston', 'marr', 'business', 'brexitshambles']"
-166,166,166,166,166,166,227221,786322424317014016,21404997,neutral,other,2016-10-12T21:47:29.000Z,#TheresaMay #brexitmeans Used by backbenchers? #Newsnight #brexitshambles #BrexitBritain #newsnight #Brexit https://t.co/7Kd3ykx368,"['brexit', 'brexitbritain', 'brexitmeans', 'newsnight', 'newsnight', 'theresamay', 'brexitshambles']"
-167,167,167,167,167,167,900551,798430118767108096,28530320,negative,remain,2016-11-15T07:39:09.000Z,"'There is no plan' for #Brexit, leaked memo says #BrexitBritain #brexitshambles 
+Thank Farage Bojo &amp; Queen Tess","['brexit', 'brexitbritain', 'brexitshambles']"
+787898939651399680,2797603556,neutral,other,2016-10-17T06:12:00.000Z,The Inside Story of #Brexit #BrexitBritain #brexitshambles https://t.co/wlgnb5JiCG,"['brexit', 'brexitbritain', 'brexitshambles']"
+810834344793309184,966220742,neutral,remain,2016-12-19T13:09:07.000Z,"Sad, but true. #Brexit #BrexitBritain #brexitshambles https://t.co/i4SrOQZbf3","['brexit', 'brexitbritain', 'brexitshambles']"
+787134870002827264,63111785,neutral,remain,2016-10-15T03:35:51.000Z,'Which EU Law Are You Most Looking Forward To Losing?' asks @LBC host: https://t.co/QVldeWH4Ub #Brexit #brexitshambles #BrexitBritain,"['brexit', 'brexitbritain', 'brexitshambles']"
+786969652568084480,14490050,neutral,remain,2016-10-14T16:39:21.000Z,Turns out #Brexit  means late games reviews #brexitshambles #BrexitBritain https://t.co/DguUwe0Qsj,"['brexit', 'brexitbritain', 'brexitshambles']"
+804124629359099904,1316585227,negative,remain,2016-12-01T00:47:06.000Z,"Oh no ""#Schregrexit""!
+#brexitshambles #Brexit #BrexitBritain https://t.co/8QMZDAWr4X","['brexit', 'brexitbritain', 'brexitshambles']"
+786840808796413952,3082154320,positive,remain,2016-10-14T08:07:22.000Z,Pretty much sums up #brexitshambles - we should have seen a marriage councilor! #Brexit #BrexitBritain https://t.co/BzhJeDn9Zo,"['brexit', 'brexitbritain', 'brexitshambles']"
+786601735632543744,2808523113,neutral,other,2016-10-13T16:17:22.000Z,RULE BRITANNIA!!! #Brexit #BrexitBritain #brexitshambles https://t.co/wSzHVwteKD,"['brexit', 'brexitbritain', 'brexitshambles']"
+787025212667822080,34244698,positive,other,2016-10-14T20:20:07.000Z,Terrific article on what Europe currently thinks about the UK. On the nose. #Brexit #brexitshambles #BrexitBritain https://t.co/J6ny7jCuVA,"['brexit', 'brexitbritain', 'brexitshambles']"
+798430118767108096,28530320,negative,remain,2016-11-15T07:39:09.000Z,"'There is no plan' for #Brexit, leaked memo says #BrexitBritain #brexitshambles 
 https://t.co/YnaM5iFMJg","['brexit', 'brexitbritain', 'brexitshambles']"
-168,168,168,168,168,168,291490,787559663579561984,744651758585135104,neutral,remain,2016-10-16T07:43:50.000Z,"⚡ Boris Johnson wrote article on why the #UK should stay in the #EU
-https://t.co/tlANvV00so #Brexit #BrexitBritain #brexitshambles","['brexit', 'brexitbritain', 'eu', 'brexitshambles', 'uk']"
-169,169,169,169,169,169,227608,786328216759783424,340545072,neutral,remain,2016-10-12T22:10:30.000Z,"Just think about it, #Trump is the American version of #Brexit on steroids! #brexitshambles #BrexitBritain #Election2016 #debates #ImWithHer","['brexit', 'brexitbritain', 'trump', 'debates', 'brexitshambles', 'election2016', 'imwithher']"
-170,170,170,170,170,170,1448413,817069151055450112,318309017,neutral,remain,2017-01-05T18:04:00.000Z,Norway's prime minister just said the UK will be 'limited' at negotiating #Brexit https://t.co/w2ArGQBRxY #BrexitShambles #BrexitChaos,"['brexit', 'brexitchaos', 'brexitshambles']"
-171,171,171,171,171,171,1190959,806231211425275904,318309017,neutral,remain,2016-12-06T20:17:54.000Z,#Brexit means... we're f*cked. 20 reasons why the #BrexitShambles will be even trickier than we thought https://t.co/ILgrhO9M1g #BrexitChaos,"['brexit', 'brexitchaos', 'brexitshambles']"
-172,172,172,172,172,172,1428503,816529732091187200,318309017,negative,remain,2017-01-04T06:20:33.000Z,Shock resignation of EU ambassador a 'wilful destruction' of expertise https://t.co/cIlIOTNyjH #Brexit #BrexitShambles #BrexitChaos,"['brexit', 'brexitchaos', 'brexitshambles']"
-173,173,173,173,173,173,1045183,802099790293192704,318309017,negative,other,2016-11-25T10:41:06.000Z,"Soft Brexit? Hard #Brexit ? The EU, not Britain, will decide | Timothy Garton Ash https://t.co/YlrZry8WOx #BrexitShambles #BrexitChaos","['brexit', 'brexitchaos', 'brexitshambles']"
-174,174,174,174,174,174,1412663,815944084808495104,3376085296,neutral,remain,2017-01-02T15:33:23.000Z,"@jelle_simons/ #Brexiters do that a lot. Playground taunts in place of reasoned argument. Why is that, I wonder?
-#Brexit #BrexitShambles","['brexit', 'brexiters', 'brexitshambles']"
-175,175,175,175,175,175,616570,794434583395794944,17257857,negative,remain,2016-11-04T07:02:19.000Z,Just incredible: '6 #Brexiters Who Suddenly Think Parliamentary Sovereignty Is A Bad Thing' https://t.co/8WF6sEnMM0 #BrexitShambles #Brexit https://t.co/W25qfPQ7CO,"['brexit', 'brexiters', 'brexitshambles']"
-176,176,176,176,176,176,1022160,801536018608455680,3376085296,positive,remain,2016-11-23T21:20:53.000Z,Hmmm.  Maybe UK's negotiating hand isn't quite as good as blustering #Brexiters claim 🤔😩 #Brexit #BrexitShambles https://t.co/XLhua3zGFq,"['brexit', 'brexiters', 'brexitshambles']"
-177,177,177,177,177,177,1271270,808949372721438720,3376085296,negative,remain,2016-12-14T08:18:54.000Z,"...and don't forget to the blame the evil EU too 😩
-#Brexit #BrexitShambles #BrexitFail https://t.co/h0x1teE1Ep","['brexit', 'brexitfail', 'brexitshambles']"
-178,178,178,178,178,178,1370464,813685537697648640,1479623058,positive,leave,2016-12-27T09:58:44.000Z,The excellent #Casetteboy does it again. #brexit #brexitshambles #brexitmeansbrexit https://t.co/XQNazy400D,"['brexit', 'brexitmeansbrexit', 'brexitshambles', 'casetteboy']"
-179,179,179,179,179,179,909559,798525223318523904,632915700,neutral,other,2016-11-15T13:57:03.000Z,'The #BrexitMemo paints a picture of a government not ready for #Brexit' - @lbc on #brexitshambles,"['brexit', 'brexitmemo', 'brexitshambles']"
-180,180,180,180,180,180,923925,798837933495107584,736831979459649408,neutral,other,2016-11-16T10:39:39.000Z,"Brexit Britain needs to know: is Emperor May naked?
+786940367904047104,3192610437,neutral,remain,2016-10-14T14:42:59.000Z,Bravo Scotland! #Brexit #brexitdebate #brexitshambles #BrexitBritain https://t.co/aWKoyQBd0t,"['brexit', 'brexitbritain', 'brexitshambles', 'brexitdebate']"
+793067926505029632,1888629146,positive,other,2016-10-31T12:31:42.000Z,"Worth reading | #Brexit is a case our conflicted #PM shouldn’t have taken on. #brexitshambles  #BrexitBritain
 
-#brexitshambles #Brexit #BrexitBritain #BREXITNOW #TheresaMay 
+https://t.co/xSFRpcqGEH","['brexit', 'brexitbritain', 'pm', 'brexitshambles']"
+786248885903564800,134346721,negative,remain,2016-10-12T16:55:16.000Z,I repeat: This is no coincidence. David Davis is a menace to the UK economy. #Brexit #brexitshambles #Brexitdebate https://t.co/o1D6Fyqecf,"['brexit', 'brexitdebate', 'brexitshambles']"
+790166638729519104,65440904,positive,remain,2016-10-23T12:23:01.000Z,This cartoon is a brilliant #Brexit exposé. Please share widely! #brexitshambles #BorisJohnson #brexitfail  https://t.co/eZJHjEnybw,"['brexit', 'brexitfail', 'brexitshambles', 'borisjohnson']"
+786530100154134528,229500709,positive,other,2016-10-13T11:32:43.000Z,So depressing. Hope all the #Brexit voters are pleased with themselves. #brexitshambles #BrexitFallOut https://t.co/Gq56YSz4b2,"['brexit', 'brexitfallout', 'brexitshambles']"
+792535967169142784,1012172108,negative,remain,2016-10-30T01:17:53.000Z,"""No country for wise men""
 
-https://t.co/uIwg6iwlR8","['brexit', 'brexitnow', 'brexitbritain', 'theresamay', 'brexitshambles']"
-181,181,181,181,181,181,557344,793950897197973504,384533439,negative,other,2016-11-02T23:00:19.000Z,#Tories &amp; #TheresaMay #Brexit means brexit? No it doesn't #brexitshambles #Brexitref2 #Rerunthevote https://t.co/kyub3uNqEM,"['brexit', 'brexitref2', 'rerunthevote', 'tories', 'theresamay', 'brexitshambles']"
-182,182,182,182,182,182,1439193,816768328039546880,416477640,negative,remain,2017-01-04T22:08:38.000Z,May &amp; the lying cheating #Brexit politicians clearly haven't got an effing clue what to do! &amp; people voted for these idiots? #BrexitShambles,"['brexit', 'brexitshambles']"
-183,183,183,183,183,183,441271,790942982358835200,786120598988521472,positive,remain,2016-10-25T15:47:56.000Z,The pound in your pocket is now worth 82.4p compared with the start of the year  #Brexit  #brexitshambles,"['brexit', 'brexitshambles']"
-184,184,184,184,184,184,431086,790705420482543616,309186752,negative,remain,2016-10-25T00:03:57.000Z,Oh shxt - life is crap with #Brexit - you blxxdy fools - thick as shxt and look what bed you have to lie in now - #brexitshambles https://t.co/9WoLvb8Kit,"['brexit', 'brexitshambles']"
-185,185,185,185,185,185,1277551,809117837721825280,447444451,positive,other,2016-12-14T19:28:19.000Z,At some point numbers will reach grey matter. @DavidDavisMP #brexitshambles #Brexit https://t.co/4AzrEBYNsc,"['brexit', 'brexitshambles']"
-186,186,186,186,186,186,917241,798642196643725312,794114472684253184,negative,remain,2016-11-15T21:41:52.000Z,#Brexit #brexitshambles ukip planning to kidnap Pilates wife https://t.co/MNTJTiYOly,"['brexit', 'brexitshambles']"
-187,187,187,187,187,187,1039152,801923060559446016,313488283,neutral,other,2016-11-24T22:58:51.000Z,"But @UKLabour won't
-They're backing #Brexit as #brexitshambles wrecks the country &amp; hurts the working classes most
-Why @johnmcdonnellMP?? https://t.co/cu0ZsGT3A6","['brexit', 'brexitshambles']"
-188,188,188,188,188,188,676221,795536015716995072,32917104,negative,other,2016-11-07T07:59:01.000Z,"Now have a title for the memoirs I'll write when retired: ""After Farage: Living through 2020s Fascist Britain"" #Brexit #brexitshambles","['brexit', 'brexitshambles']"
-189,189,189,189,189,189,1147942,805348565233135616,141946920,positive,remain,2016-12-04T09:50:35.000Z,I increasingly think a British Moon Landing would be easier than #Brexit #brexitshambles and more useful.,"['brexit', 'brexitshambles']"
-190,190,190,190,190,190,350302,788730790058295296,165028393,neutral,remain,2016-10-19T13:17:28.000Z,"What he says
+#BrexitFilms
+#Brexit #brexitshambles #brexitmovies","['brexit', 'brexitfilms', 'brexitmovies', 'brexitshambles']"
+792557138354774016,1012172108,neutral,remain,2016-10-30T02:42:01.000Z,"""Lord of The Lies""
+
+#BrexitFilms #brexitmovies #brexitshambles #Brexit https://t.co/ckcj3e3wS7","['brexit', 'brexitfilms', 'brexitmovies', 'brexitshambles']"
+792706454537011200,3108688985,negative,remain,2016-10-30T12:35:21.000Z,"@eddwilson #Brexitfilms #brexitshambles #BrexitVote #Brexit ...more *Italian Job* : ""You were only supposed to blow the bloody doors off !"" https://t.co/vh19pKgxlE","['brexit', 'brexitfilms', 'brexitshambles', 'brexitvote']"
+794231983559864320,358332711,neutral,remain,2016-11-03T17:37:15.000Z,Any wonder Remainers won? Article 50 judge founded EU INTEGRATION group https://t.co/1EEPjGqLGc #brexitshambles #Brexit #brexitjudgment,"['brexit', 'brexitjudgment', 'brexitshambles']"
+794239150153203712,752869483513905152,neutral,leave,2016-11-03T18:05:44.000Z,Victory for Democracy = Blocking the democratic vote of the British people. Logic fail. #Brexit #brexitshambles #brexitjudgment https://t.co/MQmYlRp8A7,"['brexit', 'brexitjudgment', 'brexitshambles']"
+817367043448172544,229957590,neutral,remain,2017-01-06T13:47:43.000Z,"The ""#HaveYourCakeAndEatIt"" model of dealing with #Brexit isn't going to happen. What a surprise. #brexitshambles #brexitmeansbrexit https://t.co/5CPttwrKXU","['brexit', 'brexitmeansbrexit', 'brexitshambles']"
+809119076249436160,859668799,positive,other,2016-12-14T19:33:15.000Z,"My new toon: ""Cakexit"".  
+
+Thanks to all who RT! :) My cockles suitably warmed by each click.  #Brexit #BrexitMeansBrexit #Brexitshambles","['brexit', 'brexitmeansbrexit', 'brexitshambles']"
+810118759826526208,797809807419932672,neutral,other,2016-12-17T13:45:38.000Z,"The Leave/Remain debate if social media didn't exist...
+#Brexit
+#brexitshambles 
+#Brexitopportunity https://t.co/HjHH43Jhoc","['brexit', 'brexitopportunity', 'brexitshambles']"
+799132815652777984,43652967,neutral,remain,2016-11-17T06:11:25.000Z,https://t.co/Jk820qXojQ #Brexit isn't cheap #BrexitPains #brexitshambles,"['brexit', 'brexitpains', 'brexitshambles']"
+801855559557324800,740930027399811072,positive,remain,2016-11-24T18:30:37.000Z,Only 100-200 brexiteers at parliament demo today. Not covered by the Daily Mail. Funny that. https://t.co/MRHbkTNvWY #Brexitshambles #Brexit https://t.co/P2nvLMInwm,"['brexit', 'brexitshambles']"
+794154947604611072,50883711,positive,other,2016-11-03T12:31:08.000Z,So it looks like #Brexit might not mean Brexit after all #brexitshambles,"['brexit', 'brexitshambles']"
+801462540219940864,794914924237586432,neutral,remain,2016-11-23T16:28:54.000Z,"Yep what does #Brexit mean? It means a financial cost to this country of crippling levels. 
+
+WW2 cost us £120 billion #brexitshambles https://t.co/F1mOeng4Mu","['brexit', 'brexitshambles']"
+802950909542199296,716109919,positive,other,2016-11-27T19:03:09.000Z,Chance of an 'orderly' #Brexit within two years is less than 50% – peer #brexitshambles  https://t.co/YHXxmxkTFk,"['brexit', 'brexitshambles']"
+815506496465342464,698558387408207872,negative,remain,2017-01-01T10:34:34.000Z,Turn round and abandon #Brexit altogether #brexitshambles  https://t.co/OJU6B3lexX,"['brexit', 'brexitshambles']"
+787101922234929152,837789068,positive,leave,2016-10-15T01:24:56.000Z,@RickPoleway @VoteLeaveWatch @RCorbettMEP @timfarron Obviously Redwood doesn't believe in democracy and free speech #brexitshambles #Brexit,"['brexit', 'brexitshambles']"
+789745870417854464,231390130,negative,remain,2016-10-22T08:31:02.000Z,"But still Quitlings will dismiss it with a curt ""Bloody experts, what do they know"". #Brexit #brexitshambles https://t.co/QiS6tUkmT7","['brexit', 'brexitshambles']"
+786940681314902016,62052990,positive,leave,2016-10-14T14:44:13.000Z,More great news. Not. #brexitshambles #Brexit https://t.co/FB9G8ANmGE,"['brexit', 'brexitshambles']"
+800381760001359872,799557098564505600,positive,other,2016-11-20T16:54:16.000Z,One of my favourite Brexit interactions #Brexit #brexitshambles https://t.co/EAYp7wKFFX,"['brexit', 'brexitshambles']"
+794273927967088640,207466616,neutral,other,2016-11-03T20:23:55.000Z,Theresa May tries to retrieve her Brexit plans from where she has just been told to stick them. #Brexit #brexitshambles https://t.co/7WjmkJDhXu,"['brexit', 'brexitshambles']"
+786309112929853440,244049123,neutral,remain,2016-10-12T20:54:36.000Z,Tesco rationing the mayo via @sherosays .. #brexitshambles #Brexit @PaulSommerville https://t.co/tZCINgF7aR,"['brexit', 'brexitshambles']"
+798992120002596864,786120598988521472,positive,remain,2016-11-16T20:52:20.000Z,The pound in your pocket is currently worth 84.5p compared to the start of 2016 #Brexit  #brexitshambles,"['brexit', 'brexitshambles']"
+794851024553082880,3036764830,neutral,remain,2016-11-05T10:37:06.000Z,What if a foreign born billionaire had been defying U.K. Law? #Brexit #Brexitshambles https://t.co/pM3dCypNuz https://t.co/BUPmMNZlxT,"['brexit', 'brexitshambles']"
+795970030118825984,26977443,neutral,remain,2016-11-08T12:43:38.000Z,@BBCNormanS @WomenDefyUKIP last exit to #Brexit #brexitshambles,"['brexit', 'brexitshambles']"
+804099314461118464,702454193882337280,negative,remain,2016-11-30T23:06:30.000Z,#brexitshambles is it just me or are we all babbling on but actually doing nothing to STOP this ridiculous economic &amp; social #Brexit mess?? https://t.co/sRMG8DFeBH,"['brexit', 'brexitshambles']"
+802919052104650752,273616099,negative,remain,2016-11-27T16:56:34.000Z,Might see if I can get one of these. Just to annoy the #Brexit supporters! #brexitshambles https://t.co/xEBkwf0XL1,"['brexit', 'brexitshambles']"
+811273079351603200,2311980673,negative,other,2016-12-20T18:12:29.000Z,Theresa May's communicated #Brexit approach appears to be akin to universal monarchy. No MP or public vote? Disconcerting. #brexitshambles,"['brexit', 'brexitshambles']"
+790557346275684352,1558203038,neutral,remain,2016-10-24T14:15:33.000Z,Really ... who do they think they're talking to? #Brexit #brexitshambles https://t.co/B9wXxijqCa,"['brexit', 'brexitshambles']"
+798860140007030784,1257158389,negative,remain,2016-11-16T12:07:54.000Z,"One more reason to avoid the #Brexitshambles
+#Brexit https://t.co/BeCkUtCoTx","['brexit', 'brexitshambles']"
+806735950311092224,72684950,negative,remain,2016-12-08T05:43:33.000Z,"Tory Britain and it will get worse with #Brexit #BrexitShambles. Are these your ""Christian Principles"" @TheresaMay_MP ? https://t.co/oeiOKm6bmW","['brexit', 'brexitshambles']"
+797925866009333760,389365635,negative,other,2016-11-13T22:15:25.000Z,"#Brexit doom for @MailOnline as 'gaps on shelves' at M&amp;S predicted and reality of #brexitshambles comes home.
+https://t.co/olkCjV6X8L","['brexit', 'brexitshambles']"
+799401742320312320,797809807419932672,positive,remain,2016-11-18T00:00:02.000Z,"*NEWSFLASH* ""Importing tap water from the Far East makes perfect economic sense,"" claims #Brexit Minister. #brexitshambles https://t.co/bSara5YmVZ","['brexit', 'brexitshambles']"
+801634446919094272,1195874160,neutral,other,2016-11-24T03:52:00.000Z,Revealed: The 'eye-watering' $100 billion cost of Britain's #Brexit vote https://t.co/uhg3jrZMdN via @smh #brexitshambles,"['brexit', 'brexitshambles']"
+804095126888816640,62052990,neutral,remain,2016-11-30T22:49:52.000Z,"One would think speaking of work at work is preferable. Perhaps this is where @theresa_may's #Brexit plan has gone wrong.
+#brexitshambles https://t.co/8xtQcS580j","['brexit', 'brexitshambles']"
+787408466067329024,62052990,neutral,remain,2016-10-15T21:43:02.000Z,Does it involve zip-lining across the English Channel? #brexitshambles #Brexit https://t.co/MXithdQrTa,"['brexit', 'brexitshambles']"
+816296395116314624,25369843,negative,other,2017-01-03T14:53:21.000Z,"He didn't jump, he was pushed. Probably to make way for a 'get it over quickly', dash to hard #Brexit and an end #Brexitshambles paralysis https://t.co/2O59fVlGrb","['brexit', 'brexitshambles']"
+802419762714308608,769133891521220608,negative,remain,2016-11-26T07:52:34.000Z,Pro Brexit march 'postponed'. Why? Because #Brexit is a madness #brexitshambles https://t.co/PYHx5ZV4Cq,"['brexit', 'brexitshambles']"
+810762374013743104,231390130,positive,remain,2016-12-19T08:23:07.000Z,Good piece! Worth a read. #Brexit #brexitshambles https://t.co/Amw5TXTm93,"['brexit', 'brexitshambles']"
+787007508309217280,829603410,negative,remain,2016-10-14T19:09:46.000Z,"Not to worry, there are always foodbanks #Brexit #brexitshambles 
+
+https://t.co/R9d7FW4hOB","['brexit', 'brexitshambles']"
+786481055771439104,257218053,positive,other,2016-10-13T08:17:50.000Z,"Interesting, isn't it, how @Tesco have decided to give a running commentary of their negotiations.
+
+#Brexit #brexitshambles","['brexit', 'brexitshambles']"
+798451978682646528,305801629,negative,other,2016-11-15T09:06:00.000Z,Rather apt name 'BrokenShire'(Northern Ireland Secretary) given UK #Brexit mess. #brexitshambles https://t.co/rVWIoTZLvk,"['brexit', 'brexitshambles']"
+802102827715792896,1423556738,neutral,other,2016-11-25T10:53:11.000Z,"err #Brexit hasn't happened will not start until section50 notice submitted, delusions in #brexitshambles indeed https://t.co/O8pbp8st9B","['brexit', 'brexitshambles']"
+815306169518583808,254071578,positive,remain,2016-12-31T21:18:33.000Z,My wish for 2017? That someone will explain just how #Brexit is going to benefit me! #brexitshambles,"['brexit', 'brexitshambles']"
+804108973804834816,26208566,positive,remain,2016-11-30T23:44:53.000Z,Oh Boris. Another fine mess &gt;&gt; Johnson 'supports freedom of movement' #Brexit #brexitshambles https://t.co/xtqxJ6jRPA https://t.co/mFbb6vuf6I,"['brexit', 'brexitshambles']"
+794820037655797760,313488283,positive,remain,2016-11-05T08:33:58.000Z,"And yet @trussliz @theresa_may stay silent as the extreme R incite our nation to violence..
+You want this don't you?
+#Brexit
+#brexitshambles https://t.co/vdshm1jkld","['brexit', 'brexitshambles']"
+802637418591420416,248777189,neutral,remain,2016-11-26T22:17:27.000Z,"After Nissan, all lining up for a corporate hand out. Adds to the costs of #Brexit #brexitshambles https://t.co/89gjxRHTpw","['brexit', 'brexitshambles']"
+798868667954057216,313488283,negative,remain,2016-11-16T12:41:47.000Z,"UK Sees $82bn Investment Hit as #Brexit Tariffs Tallied
+PRE #brexitshambles
+It'll only get worse
+https://t.co/1zt5v9tHW8 via @business","['brexit', 'brexitshambles']"
+810079207971758080,41570929,positive,other,2016-12-17T11:08:28.000Z,"There ought to be quality control on referenda, otherwise I'd like to vote that we can all fly, please #Brexit #brexitshambles","['brexit', 'brexitshambles']"
+794503299630333952,755785023719178240,negative,other,2016-11-04T11:35:22.000Z,@theresa_may dithering over #brexitshambles is even resulting her own MPs resigning from parliament - this needs real clarity #Brexit,"['brexit', 'brexitshambles']"
+786621441491869696,786120598988521472,positive,remain,2016-10-13T17:35:41.000Z,"@tonystephenson3 Just spreading the good tidings buddy, your £200,000 house is now worth £163,000  #Brexit  #brexitshambles","['brexit', 'brexitshambles']"
+813738273893924864,313488283,neutral,remain,2016-12-27T13:28:17.000Z,"Yes
+Even tho ""experts"" wrote it
+Anyone else think @LeaveEUOfficial are beginning to panic?
+#Brexit
+#brexitshambles https://t.co/4lbtxRcdSa","['brexit', 'brexitshambles']"
+793710689663811584,231390130,positive,other,2016-11-02T07:05:49.000Z,The US won’t help Britain in its negotiations with the EU  #Brexit #Brexitshambles - https://t.co/bRKJxAxX6Y,"['brexit', 'brexitshambles']"
+787219810669174784,384533439,neutral,leave,2016-10-15T09:13:23.000Z,"All together now.......""Rule Britannia, Britannia rules the waves....."" #Brexit #brexitshambles Sorted! https://t.co/Cju6AVJyKA","['brexit', 'brexitshambles']"
+794215556576579584,11721992,neutral,other,2016-11-03T16:31:59.000Z,The European Union: A Veritable Roach Motel. https://t.co/l1XmBW0nEW #Brexit #Brexitshambles,"['brexit', 'brexitshambles']"
+804614937544945664,698558387408207872,positive,remain,2016-12-02T09:15:24.000Z,"#brexitshambles, yes, but most #Brexit supporters decent honest people who've been conned by a fascist gutter press https://t.co/OKAgr57xn9","['brexit', 'brexitshambles']"
+809527419627511808,3024607149,positive,remain,2016-12-15T22:35:51.000Z,#Brexit should be deferred until the UK has a competent government. #brexitshambles,"['brexit', 'brexitshambles']"
+794124698007326720,313488283,positive,other,2016-11-03T10:30:56.000Z,".@theresa_may could you find bigger cretins?
+#Brexit will be Titanic success says @BorisJohnson
+#brexitshambles
+https://t.co/vLTF0EcH6z","['brexit', 'brexitshambles']"
+786624845958307840,372415077,positive,remain,2016-10-13T17:49:12.000Z,Brilliant! #brexitshambles #Brexit https://t.co/Qvy30lJgZ1,"['brexit', 'brexitshambles']"
+794516055599280128,19863380,negative,remain,2016-11-04T12:26:03.000Z,We have two Brexit teams one who say lets be sensible and think about how we leave and the other who say BURN IT ALL #Brexit #brexitshambles,"['brexit', 'brexitshambles']"
+794232669517316096,516808343,negative,remain,2016-11-03T17:39:59.000Z,"Oh the irony of the statement: 'You lost, get over it' #Brexit #brexitshambles","['brexit', 'brexitshambles']"
+799718409328005120,749539262903746560,neutral,remain,2016-11-18T20:58:21.000Z,"#Brexit means #brexitshambles Sort it out!
+https://t.co/PwVpqjrNfP","['brexit', 'brexitshambles']"
+788666326684434432,3228339754,negative,other,2016-10-19T09:01:19.000Z,"#Brexit is the largest trade negotiation in our history, not a fucking cake sale at the Church. https://t.co/nWkVMV55RB
+#brexitshambles","['brexit', 'brexitshambles']"
+786491140203700224,3228339754,positive,remain,2016-10-13T08:57:54.000Z,"Supply and Demand Innit. We sell, they buy. Biff Baff Boff, Jobs a goodun, Lovely Jubbly.
+#brexitshambles 
+#Brexit https://t.co/07YnzFZL7k","['brexit', 'brexitshambles']"
+801767395052441600,622265069,negative,other,2016-11-24T12:40:17.000Z,"Tony Blair: #Brexit could be stopped if Britons change their minds #brexitshambles
+
+https://t.co/uzU4SgQzAt","['brexit', 'brexitshambles']"
+788730790058295296,165028393,neutral,remain,2016-10-19T13:17:28.000Z,"What he says
 #Brexit #brexitshambles https://t.co/AhZalieGmH","['brexit', 'brexitshambles']"
-191,191,191,191,191,191,335835,788433055669161984,575644124,neutral,remain,2016-10-18T17:34:23.000Z,Marginal is the new 'overwhelming' https://t.co/gLITLk7t20 #brexitshambles #Brexit,"['brexit', 'brexitshambles']"
-192,192,192,192,192,192,997512,800996457863970816,163893990,neutral,other,2016-11-22T09:36:52.000Z,"I’m a rabbi, and I’m applying for a German passport. Here’s why | Julia Neuberger #Brexit #brexitshambles https://t.co/o5VwfHnut7","['brexit', 'brexitshambles']"
-193,193,193,193,193,193,1172078,805913824041857024,709360301456683008,positive,other,2016-12-05T23:16:43.000Z,"If you want blind loyalty buy a dog Theresa. I'm a Remainer until the evidence says #Brexit is in our best interests
-
-#brexitshambles https://t.co/Xcf2KLU3uB","['brexit', 'brexitshambles']"
-194,194,194,194,194,194,978975,800473839746551808,452904162,positive,remain,2016-11-20T23:00:10.000Z,&amp; he is by far leading the field! #Brexit #brexitshambles @BBCWorld https://t.co/mESLeDuno1,"['brexit', 'brexitshambles']"
-195,195,195,195,195,195,291967,787566437934260224,2776064261,positive,other,2016-10-16T08:10:45.000Z,Anyone know where @BorisJohnson's other flip flop has gone? Changes views on #Brexit depending on what's good for him. #brexitshambles https://t.co/S0NcvomX1n,"['brexit', 'brexitshambles']"
-196,196,196,196,196,196,1319424,810827995854372864,50007070,positive,other,2016-12-19T12:43:53.000Z,After Nissan blank cheque on #Brexit Luxury carmaker Bentley holds secret talks with Brexit Minister https://t.co/6x4VPwbv4b #brexitshambles,"['brexit', 'brexitshambles']"
-197,197,197,197,197,197,1151766,805444001369387008,722630419,negative,other,2016-12-04T16:09:49.000Z,"Look at this lot!!
-You wouldn't trust a sandwich from them, let alone the future of your country. What a JOKE #brexitshambles #Brexit https://t.co/WoHNnmIcB2","['brexit', 'brexitshambles']"
-198,198,198,198,198,198,408645,790221620535291904,723868939751698432,neutral,other,2016-10-23T16:01:30.000Z,"Anyone at @downingstreet in need of French lessons?
-#Brexit #brexitshambles https://t.co/5EpyvAb9ME","['brexit', 'brexitshambles']"
-199,199,199,199,199,199,607589,794283836804829184,770703314040139648,negative,remain,2016-11-03T21:03:18.000Z,Will #Brexit Die in the British Parliament? #brexitshambles https://t.co/PaJKnTyqiu,"['brexit', 'brexitshambles']"
+786675293884977152,3222026873,neutral,remain,2016-10-13T21:09:40.000Z,"But 'a pound is still a pound', right?Denial is a wonderful thing, but fact is,we're fucked. https://t.co/eN7b2f2Dcd #brexitshambles #Brexit","['brexit', 'brexitshambles']"
+810619667429597184,1732717562,positive,other,2016-12-18T22:56:03.000Z,"""@sjmcpadden: #Brexit #brexitshambles https://t.co/wlkdnNSsvU"" Marvellous. Could you send the bill to the 52% - thanks!","['brexit', 'brexitshambles']"

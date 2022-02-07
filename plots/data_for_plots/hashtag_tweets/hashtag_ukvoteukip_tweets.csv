@@ -1,2 +1,2 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,728200,1113366476264804352,265878218,negative,leave,2019-04-03T09:03:47.000Z,@UKIP I do hope the British public vote for change. Too long have we had to endure stereotype politics from the big 2. Brexit must surely have damaged both parties. #UKvoteUKIP,['ukvoteukip']
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+1113366476264804352,265878218,negative,leave,2019-04-03T09:03:47.000Z,@UKIP I do hope the British public vote for change. Too long have we had to endure stereotype politics from the big 2. Brexit must surely have damaged both parties. #UKvoteUKIP,['ukvoteukip']

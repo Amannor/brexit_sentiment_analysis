@@ -1,21 +1,19 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0.0,771949.0,735133839996096512,31750838,neutral,leave,2016-05-24T15:42:20.000Z,@_themushroom @cheekylatte CORRECT #VoteLeave #Brexit #LeaveEurope #LeaveEU #BritainOut #BorisJohnson @Daily_Express @DailyMailUK @BBCWorld,"['borisjohnson', 'leaveeu', 'britainout', 'brexit', 'leaveeurope', 'voteleave']"
-1,1,1,1,1.0,1046755.0,741956321373786112,504397035,neutral,leave,2016-06-12T11:32:26.000Z,"Vote #Brexit and #BreakTheGame 
-#LeaveEurope #BELIEVE https://t.co/1D5apd6R11","['breakthegame', 'brexit', 'leaveeurope', 'believe']"
-2,2,2,2,2.0,604070.0,727968892858019840,2961178498,neutral,leave,2016-05-04T21:11:23.000Z,My take was on #Brexit #LeaveEurope .. City certainly have 😱😢😷 https://t.co/JWpjCFTzTi,"['brexit', 'leaveeurope']"
-3,3,3,3,3.0,1664039.0,746184714646589440,1252144297,neutral,other,2016-06-24T03:34:34.000Z,"Trending of #LeaveEurope over the past 24 hours.
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+741956321373786112,504397035,neutral,leave,2016-06-12T11:32:26.000Z,"Vote #Brexit and #BreakTheGame 
+#LeaveEurope #BELIEVE https://t.co/1D5apd6R11","['believe', 'brexit', 'breakthegame', 'leaveeurope']"
+746184714646589440,1252144297,neutral,other,2016-06-24T03:34:34.000Z,"Trending of #LeaveEurope over the past 24 hours.
 #Brexit https://t.co/OD6ZjxXR2E","['brexit', 'leaveeurope']"
-4,4,4,4,4.0,1786915.0,746231206266560512,705165834524696576,neutral,other,2016-06-24T06:39:18.000Z,"Marine LePen: ""Frexit soon!"" Netherlands, Austria too.People had enough #LeaveEurope #Brexit
+727968892858019840,2961178498,neutral,leave,2016-05-04T21:11:23.000Z,My take was on #Brexit #LeaveEurope .. City certainly have 😱😢😷 https://t.co/JWpjCFTzTi,"['brexit', 'leaveeurope']"
+746231206266560512,705165834524696576,neutral,other,2016-06-24T06:39:18.000Z,"Marine LePen: ""Frexit soon!"" Netherlands, Austria too.People had enough #LeaveEurope #Brexit
 https://t.co/3BNWnFtZ57 https://t.co/WOJ3ha7pNt","['brexit', 'leaveeurope']"
-5,5,5,5,5.0,372589.0,712234120487825408,1011759048,negative,leave,2016-03-22T11:07:01.000Z,Close the borders #Brexit is a must #LeaveEU Europe is at war and we should stand by them but not part of them #loveeurope #leaveeurope,"['brexit', 'loveeurope', 'leaveeu', 'leaveeurope']"
-6,6,6,6,6.0,786556.0,735646800963457024,1689920359,neutral,leave,2016-05-26T01:40:39.000Z,"#LeaveEurope 
+735646800963457024,1689920359,neutral,leave,2016-05-26T01:40:39.000Z,"#LeaveEurope 
 #VoteLeave 
 #VoteLeaveTakeControl 
 #Brexit
-Don't follow in Europe's shoes America #DumpTPP https://t.co/ry6S458DD6","['brexit', 'voteleavetakecontrol', 'leaveeurope', 'dumptpp', 'voteleave']"
-7,7,7,7,7.0,771880.0,735131595296899072,31750838,positive,leave,2016-05-24T15:33:25.000Z,@_themushroom @cheekylatte #Debate Is Won #VoteLeave #Brexit #LeaveEurope #LeaveEU #Boris #BorisJohnson #EUref #EUreferendum @Nigel_Farage,"['debate', 'borisjohnson', 'leaveeu', 'euref', 'brexit', 'eureferendum', 'leaveeurope', 'voteleave', 'boris']"
-8,8,8,8,8.0,905392.0,739379305600405504,1581621252,neutral,leave,2016-06-05T08:52:18.000Z,@JayCartere because all of the #EU commissions are #elected behind closed doors | Hardly #Democratic  !! #VoteLeave #Brexit #LeaveEurope,"['democratic', 'brexit', 'leaveeurope', 'elected', 'eu', 'voteleave']"
-9,9,9,9,9.0,78104.0,699185512830148608,3883664488,neutral,leave,2016-02-15T10:56:31.000Z,"Informing the #EUreferendum debate:
+Don't follow in Europe's shoes America #DumpTPP https://t.co/ry6S458DD6","['dumptpp', 'leaveeurope', 'brexit', 'voteleavetakecontrol', 'voteleave']"
+735131595296899072,31750838,positive,leave,2016-05-24T15:33:25.000Z,@_themushroom @cheekylatte #Debate Is Won #VoteLeave #Brexit #LeaveEurope #LeaveEU #Boris #BorisJohnson #EUref #EUreferendum @Nigel_Farage,"['euref', 'leaveeurope', 'debate', 'leaveeu', 'boris', 'eureferendum', 'brexit', 'borisjohnson', 'voteleave']"
+735180126388785152,31750838,negative,leave,2016-05-24T18:46:15.000Z,It's Looking Increasingly Likely That Britain Will Leave The EU #VoteLeave #Brexit #EUref #EUreferendum #LeaveEU #LeaveEurope #britainout RT,"['euref', 'leaveeurope', 'eureferendum', 'leaveeu', 'brexit', 'britainout', 'voteleave']"
+699185512830148608,3883664488,neutral,leave,2016-02-15T10:56:31.000Z,"Informing the #EUreferendum debate:
 
 https://t.co/DF03eEvQtk
 
@@ -25,12 +23,9 @@ https://t.co/DF03eEvQtk
 #LeaveEU
 #SayNoToEU
 #LeaveEurope
-#EUSceptics","['eusceptics', 'leaveeu', 'euref', 'eureferendum', 'brexit', 'leaveeurope', 'saynotoeu', 'voteleave']"
-10,10,10,10,10.0,358811.0,711284994006773760,3663314955,negative,other,2016-03-19T20:15:32.000Z,Ask @Brexit @vote_leave @BrexitWatch @GovUK for their views on your views #hate #anger @Brexit #voteleave #leaveeurope #EU,"['hate', 'voteleave', 'anger', 'leaveeurope', 'eu']"
-11,11,11,11,11.0,904042.0,739357965136732160,700926985845891072,neutral,other,2016-06-05T07:27:30.000Z,Could #immigration be the deciding factor in #Brexit vote? #leaveEurope now has a 3% lead over #RemainINEU https://t.co/h3hstknQVl,"['immigration', 'brexit', 'leaveeurope', 'remainineu']"
-12,12,12,12,12.0,811707.0,736503703008612352,31750838,positive,leave,2016-05-28T10:25:41.000Z,Brexit best for British borders #Brexit #VoteLeave #LeaveEU #Brexiteers #LeaveEurope https://t.co/EgsDaXz5MK,"['leaveeu', 'brexit', 'brexiteers', 'leaveeurope', 'voteleave']"
-13,13,13,13,13.0,812864.0,736552512648585216,31750838,negative,leave,2016-05-28T13:39:38.000Z,Alex Salmond and the SNP have been accused of risking Brexit https://t.co/WrGMyqwbSH #Brexit #VoteLeave #LeaveEU #eureferendum #LeaveEurope,"['leaveeu', 'brexit', 'eureferendum', 'leaveeurope', 'voteleave']"
-14,14,14,14,14.0,258533.0,705408973969694720,3883664488,neutral,leave,2016-03-03T15:06:19.000Z,"Informing the #EUreferendum debate:
+#EUSceptics","['euref', 'leaveeurope', 'eureferendum', 'leaveeu', 'saynotoeu', 'brexit', 'voteleave', 'eusceptics']"
+735125237721882624,31750838,neutral,leave,2016-05-24T15:08:09.000Z,CORRECT #VoteLeave #Brexit #BorisJohnson #Boris #MichaelGove #NigelLawson #LeaveEU #LeaveEurope #EUreferendum #EUref https://t.co/NAd3LDn6be,"['euref', 'leaveeurope', 'eureferendum', 'nigellawson', 'boris', 'michaelgove', 'leaveeu', 'brexit', 'borisjohnson', 'voteleave']"
+705698387862134784,3883664488,neutral,leave,2016-03-04T10:16:21.000Z,"Informing the #EUreferendum debate:
 
 https://t.co/DF03eEvQtk
 
@@ -40,8 +35,8 @@ https://t.co/DF03eEvQtk
 #EUref
 #GoodbyeEU
 #SayNoToEU
-#LeaveEurope","['leaveeu', 'euref', 'eureferendum', 'brexit', 'goodbyeeu', 'leaveeurope', 'saynotoeu', 'voteleave']"
-15,15,15,15,15.0,265204.0,705698387862134784,3883664488,neutral,leave,2016-03-04T10:16:21.000Z,"Informing the #EUreferendum debate:
+#LeaveEurope","['goodbyeeu', 'euref', 'leaveeurope', 'eureferendum', 'leaveeu', 'saynotoeu', 'brexit', 'voteleave']"
+705408973969694720,3883664488,neutral,leave,2016-03-03T15:06:19.000Z,"Informing the #EUreferendum debate:
 
 https://t.co/DF03eEvQtk
 
@@ -51,33 +46,37 @@ https://t.co/DF03eEvQtk
 #EUref
 #GoodbyeEU
 #SayNoToEU
-#LeaveEurope","['leaveeu', 'euref', 'eureferendum', 'brexit', 'goodbyeeu', 'leaveeurope', 'saynotoeu', 'voteleave']"
-16,16,16,16,16.0,773455.0,735180126388785152,31750838,negative,leave,2016-05-24T18:46:15.000Z,It's Looking Increasingly Likely That Britain Will Leave The EU #VoteLeave #Brexit #EUref #EUreferendum #LeaveEU #LeaveEurope #britainout RT,"['leaveeu', 'euref', 'eureferendum', 'brexit', 'leaveeurope', 'britainout', 'voteleave']"
-17,17,17,17,17.0,871948.0,738419395597373440,31750838,negative,leave,2016-06-02T17:17:57.000Z,The Case For #Brexit Is Now Overwhelming Even The UK Media Is Waking Up To This #LeaveEU #VoteLeave #EUreferendum #Leave #LeaveEurope #news,"['leaveeu', 'eureferendum', 'brexit', 'news', 'leaveeurope', 'leave', 'voteleave']"
-18,18,18,18,18.0,854259.0,737991040074928128,95987075,negative,remain,2016-06-01T12:55:49.000Z,"@GI_London1 
+#LeaveEurope","['goodbyeeu', 'euref', 'leaveeurope', 'eureferendum', 'leaveeu', 'saynotoeu', 'brexit', 'voteleave']"
+712234120487825408,1011759048,negative,leave,2016-03-22T11:07:01.000Z,Close the borders #Brexit is a must #LeaveEU Europe is at war and we should stand by them but not part of them #loveeurope #leaveeurope,"['leaveeu', 'leaveeurope', 'brexit', 'loveeurope']"
+737991040074928128,95987075,negative,remain,2016-06-01T12:55:49.000Z,"@GI_London1 
 
 Are you another one saying we're voting to #Leave-Europe 
 
 I'm leaving the EU personally #Brexit https://t.co/8AKqv737AD","['leaveeurope', 'brexit']"
-19,19,19,19,19.0,691767.0,732183628684394496,727593506005499904,positive,leave,2016-05-16T12:19:15.000Z,Top arrived #voteleave #brexit #leaveeurope by lilymurrayxoxo https://t.co/ftymZkyAEZ https://t.co/NkL7KrhnaL,"['leaveeurope', 'brexit', 'voteleave']"
-20,20,20,20,20.0,889832.0,738857311817629696,1294711250,neutral,leave,2016-06-03T22:18:05.000Z,"📰➡ Arthur Scarill  for Brexit. (OUT of EU)
+739357965136732160,700926985845891072,neutral,other,2016-06-05T07:27:30.000Z,Could #immigration be the deciding factor in #Brexit vote? #leaveEurope now has a 3% lead over #RemainINEU https://t.co/h3hstknQVl,"['leaveeurope', 'brexit', 'remainineu', 'immigration']"
+737270127805239296,727593506005499904,neutral,leave,2016-05-30T13:11:10.000Z,Get us #out this horrific -#eu and #save #britain #voteleave #brexit #brexitdebate #leave #leaveeurope #freedom #s… https://t.co/NkL7KrhnaL,"['leaveeurope', 'britain', 'save', 'leave', 'voteleave', 'out', 'brexit', 'freedom', 's…', 'brexitdebate']"
+739379305600405504,1581621252,neutral,leave,2016-06-05T08:52:18.000Z,@JayCartere because all of the #EU commissions are #elected behind closed doors | Hardly #Democratic  !! #VoteLeave #Brexit #LeaveEurope,"['leaveeurope', 'eu', 'brexit', 'voteleave', 'democratic', 'elected']"
+711284994006773760,3663314955,negative,other,2016-03-19T20:15:32.000Z,Ask @Brexit @vote_leave @BrexitWatch @GovUK for their views on your views #hate #anger @Brexit #voteleave #leaveeurope #EU,"['leaveeurope', 'eu', 'hate', 'anger', 'voteleave']"
+733260399815106560,727593506005499904,neutral,leave,2016-05-19T11:37:57.000Z,😁 brexit is the way #leaveeurope #brexit #straightoutofeurope #nigelfarage #Ukip #borrisjohnson #leaveeu #Eupigs #… https://t.co/NkL7KrhnaL,"['leaveeurope', 'eupigs', 'ukip', 'nigelfarage', 'leaveeu', 'straightoutofeurope', 'brexit', 'borrisjohnson']"
+746108031570698240,742619372934533120,positive,leave,2016-06-23T22:29:51.000Z,#lexit #LeaveEU #leaveeurope #brexit #bremain #LabourLeave #EUref #EUreferendum @afneil the EU is so great Gibraltar insists on UK rule,"['leaveeurope', 'euref', 'lexit', 'eureferendum', 'leaveeu', 'labourleave', 'bremain', 'brexit']"
+746059467922489344,742619372934533120,negative,leave,2016-06-23T19:16:52.000Z,"#lexit #ukip #LeaveEU #leaveeurope #brexit #bremain #LabourLeave #EUref 
+ALL VOTING SUSPENDED FOLLOWING STABING! https://t.co/T2nPmc2REl","['leaveeurope', 'euref', 'lexit', 'leaveeu', 'labourleave', 'bremain', 'brexit', 'ukip']"
+738419395597373440,31750838,negative,leave,2016-06-02T17:17:57.000Z,The Case For #Brexit Is Now Overwhelming Even The UK Media Is Waking Up To This #LeaveEU #VoteLeave #EUreferendum #Leave #LeaveEurope #news,"['leaveeurope', 'eureferendum', 'leaveeu', 'news', 'brexit', 'leave', 'voteleave']"
+735133839996096512,31750838,neutral,leave,2016-05-24T15:42:20.000Z,@_themushroom @cheekylatte CORRECT #VoteLeave #Brexit #LeaveEurope #LeaveEU #BritainOut #BorisJohnson @Daily_Express @DailyMailUK @BBCWorld,"['leaveeurope', 'leaveeu', 'brexit', 'borisjohnson', 'voteleave', 'britainout']"
+736552512648585216,31750838,negative,leave,2016-05-28T13:39:38.000Z,Alex Salmond and the SNP have been accused of risking Brexit https://t.co/WrGMyqwbSH #Brexit #VoteLeave #LeaveEU #eureferendum #LeaveEurope,"['leaveeurope', 'leaveeu', 'brexit', 'voteleave', 'eureferendum']"
+736503703008612352,31750838,positive,leave,2016-05-28T10:25:41.000Z,Brexit best for British borders #Brexit #VoteLeave #LeaveEU #Brexiteers #LeaveEurope https://t.co/EgsDaXz5MK,"['leaveeurope', 'leaveeu', 'brexiteers', 'brexit', 'voteleave']"
+745866644610768896,4692812756,negative,leave,2016-06-23T06:30:40.000Z,"#newtowerofbabel #voteleave #leaveeu #leaveeurope #brexit 
+I am voting LEAVE on many grounds. https://t.co/E6j8gUYC7l","['leaveeurope', 'leaveeu', 'voteleave', 'brexit', 'newtowerofbabel']"
+745959496611172352,742619372934533120,neutral,leave,2016-06-23T12:39:37.000Z,"#lexit #ukip #LeaveEU #leaveeurope #brexit #bremain #LabourLeave 
+IPOS MORI impartial as ever - see bottom (re)tweet https://t.co/ggE0wWsqzo","['leaveeurope', 'lexit', 'leaveeu', 'labourleave', 'bremain', 'brexit', 'ukip']"
+732183628684394496,727593506005499904,positive,leave,2016-05-16T12:19:15.000Z,Top arrived #voteleave #brexit #leaveeurope by lilymurrayxoxo https://t.co/ftymZkyAEZ https://t.co/NkL7KrhnaL,"['leaveeurope', 'voteleave', 'brexit']"
+735824167937937408,1931258683,neutral,leave,2016-05-26T13:25:27.000Z,"Brexit - A Shakespearean Take?
+https://t.co/Bg1fifp56a #Brexit #leaveeurope #referendum #voteleave","['referendum', 'leaveeurope', 'brexit', 'voteleave']"
+738857311817629696,1294711250,neutral,leave,2016-06-03T22:18:05.000Z,"📰➡ Arthur Scarill  for Brexit. (OUT of EU)
 #leaveEurope 
-#Vote Out https://t.co/fd2tDtObwt","['leaveeurope', 'vote']"
-21,21,21,21,21.0,1587286.0,746108031570698240,742619372934533120,positive,leave,2016-06-23T22:29:51.000Z,#lexit #LeaveEU #leaveeurope #brexit #bremain #LabourLeave #EUref #EUreferendum @afneil the EU is so great Gibraltar insists on UK rule,"['lexit', 'leaveeu', 'euref', 'eureferendum', 'labourleave', 'brexit', 'leaveeurope', 'bremain']"
-22,22,22,22,22.0,1570321.0,746059467922489344,742619372934533120,negative,leave,2016-06-23T19:16:52.000Z,"#lexit #ukip #LeaveEU #leaveeurope #brexit #bremain #LabourLeave #EUref 
-ALL VOTING SUSPENDED FOLLOWING STABING! https://t.co/T2nPmc2REl","['lexit', 'leaveeu', 'euref', 'ukip', 'labourleave', 'brexit', 'leaveeurope', 'bremain']"
-23,23,23,23,23.0,1539607.0,745959496611172352,742619372934533120,neutral,leave,2016-06-23T12:39:37.000Z,"#lexit #ukip #LeaveEU #leaveeurope #brexit #bremain #LabourLeave 
-IPOS MORI impartial as ever - see bottom (re)tweet https://t.co/ggE0wWsqzo","['lexit', 'leaveeu', 'ukip', 'labourleave', 'brexit', 'leaveeurope', 'bremain']"
-24,24,24,24,24.0,771637.0,735125237721882624,31750838,neutral,leave,2016-05-24T15:08:09.000Z,CORRECT #VoteLeave #Brexit #BorisJohnson #Boris #MichaelGove #NigelLawson #LeaveEU #LeaveEurope #EUreferendum #EUref https://t.co/NAd3LDn6be,"['michaelgove', 'borisjohnson', 'nigellawson', 'leaveeu', 'euref', 'brexit', 'eureferendum', 'leaveeurope', 'voteleave', 'boris']"
-25,25,25,25,25.0,791513.0,735824167937937408,1931258683,neutral,leave,2016-05-26T13:25:27.000Z,"Brexit - A Shakespearean Take?
-https://t.co/Bg1fifp56a #Brexit #leaveeurope #referendum #voteleave","['referendum', 'brexit', 'leaveeurope', 'voteleave']"
-26,26,26,26,26.0,719595.0,733260399815106560,727593506005499904,neutral,leave,2016-05-19T11:37:57.000Z,😁 brexit is the way #leaveeurope #brexit #straightoutofeurope #nigelfarage #Ukip #borrisjohnson #leaveeu #Eupigs #… https://t.co/NkL7KrhnaL,"['ukip', 'nigelfarage', 'leaveeu', 'borrisjohnson', 'brexit', 'leaveeurope', 'eupigs', 'straightoutofeurope']"
-27,27,27,27,27.0,828624.0,737270127805239296,727593506005499904,neutral,leave,2016-05-30T13:11:10.000Z,Get us #out this horrific -#eu and #save #britain #voteleave #brexit #brexitdebate #leave #leaveeurope #freedom #s… https://t.co/NkL7KrhnaL,"['voteleave', 'britain', 'leave', 'eu', 'out', 'save', 'brexitdebate', 'brexit', 'leaveeurope', 's…', 'freedom']"
-28,28,28,28,28.0,1506619.0,745866644610768896,4692812756,negative,leave,2016-06-23T06:30:40.000Z,"#newtowerofbabel #voteleave #leaveeu #leaveeurope #brexit 
-I am voting LEAVE on many grounds. https://t.co/E6j8gUYC7l","['voteleave', 'leaveeu', 'brexit', 'leaveeurope', 'newtowerofbabel']"
-29,29,29,29,29.0,2169599.0,770735017043656704,2292678794,positive,other,2016-08-30T21:28:42.000Z,@BBCNews let's hope she gets on with it then #leaveeurope #brexit #letsmakeasuccessofit,"['letsmakeasuccessofit', 'brexit', 'leaveeurope']"
-30,30,30,30,30.0,1710650.0,937281145460461568,288989835,positive,leave,2017-12-03T11:23:33.000Z,@spaceangel1964 @JillMansfield4 The people voted and we are leaving. We will be perfectly fine so stop scaremongering and get used to the fact that we are leaving the looney EU to their own pathetic rule. #Brexit #LeaveEurope,"['brexit', 'leaveeurope']"
-31,31,31,31,31.0,714837.0,1113222630960705536,23192435,negative,remain,2019-04-02T23:32:12.000Z,"Finally, an end to illegal brexiting!
+#Vote Out https://t.co/fd2tDtObwt","['vote', 'leaveeurope']"
+770735017043656704,2292678794,positive,other,2016-08-30T21:28:42.000Z,@BBCNews let's hope she gets on with it then #leaveeurope #brexit #letsmakeasuccessofit,"['leaveeurope', 'letsmakeasuccessofit', 'brexit']"
+937281145460461568,288989835,positive,leave,2017-12-03T11:23:33.000Z,@spaceangel1964 @JillMansfield4 The people voted and we are leaving. We will be perfectly fine so stop scaremongering and get used to the fact that we are leaving the looney EU to their own pathetic rule. #Brexit #LeaveEurope,"['brexit', 'leaveeurope']"
+1113222630960705536,23192435,negative,remain,2019-04-02T23:32:12.000Z,"Finally, an end to illegal brexiting!
 
 Brexiteers #LeaveEurope &amp; go nuts! Full English #Brexit uk in the Caribbean! Might even avoid #ClimateChange for a little while! https://t.co/tswszA66nC","['climatechange', 'brexit', 'leaveeurope']"
-32,32,32,358811,,,711284994006773760,3663314955,negative,other,2016-03-19T20:15:32.000Z,Ask @Brexit @vote_leave @BrexitWatch @GovUK for their views on your views #hate #anger @Brexit #voteleave #leaveeurope #EU,"['anger', 'eu', 'leaveeurope', 'hate', 'voteleave']"

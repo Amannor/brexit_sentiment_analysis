@@ -1,7 +1,7 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,358333,827105621556264960,3408845207,negative,other,2017-02-02T10:45:21.000Z,1/2 If #Labour is between rock and hard place of losing voters to #UKIPfraud with anti-Brexit stance or to the #LibDems with pro-Brexit ...,"['labour', 'libdems', 'ukipfraud']"
-1,1,1,1,1,388537,828069200094691328,3405929189,neutral,other,2017-02-05T02:34:16.000Z,"RT UKIPNFKN: You can't write this stuff...
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+827105621556264960,3408845207,negative,other,2017-02-02T10:45:21.000Z,1/2 If #Labour is between rock and hard place of losing voters to #UKIPfraud with anti-Brexit stance or to the #LibDems with pro-Brexit ...,"['labour', 'libdems', 'ukipfraud']"
+837687879618945024,228686553,neutral,remain,2017-03-03T15:35:28.000Z,How are the investigations going @ElectoralCommUK #reffraud #toryelectionfraud &amp; #ukipfraud #brexit https://t.co/W4oiE1VxHg,"['toryelectionfraud', 'ukipfraud', 'reffraud', 'brexit']"
+828069200094691328,3405929189,neutral,other,2017-02-05T02:34:16.000Z,"RT UKIPNFKN: You can't write this stuff...
 
-#Brexit #UKIP #UKIPfraud  #StokeByElection #StokeCentral #Stoke https://t.co/KdibEDz0ll","['stokecentral', 'brexit', 'ukip', 'stoke', 'ukipfraud', 'stokebyelection']"
-2,2,2,2,2,650343,837687879618945024,228686553,neutral,remain,2017-03-03T15:35:28.000Z,How are the investigations going @ElectoralCommUK #reffraud #toryelectionfraud &amp; #ukipfraud #brexit https://t.co/W4oiE1VxHg,"['toryelectionfraud', 'reffraud', 'brexit', 'ukipfraud']"
-3,3,3,3,3,381221,827624628172550144,790185969773412352,positive,leave,2017-02-03T21:07:42.000Z,"Selective democracy, anyone? Feel free to share this. It's unbelievable... #brexit #UKIPfraud #ukip https://t.co/jNoHhOTmyV","['ukip', 'ukipfraud', 'brexit']"
+#Brexit #UKIP #UKIPfraud  #StokeByElection #StokeCentral #Stoke https://t.co/KdibEDz0ll","['ukip', 'stokebyelection', 'stokecentral', 'ukipfraud', 'brexit', 'stoke']"
+827624628172550144,790185969773412352,positive,leave,2017-02-03T21:07:42.000Z,"Selective democracy, anyone? Feel free to share this. It's unbelievable... #brexit #UKIPfraud #ukip https://t.co/jNoHhOTmyV","['ukip', 'ukipfraud', 'brexit']"

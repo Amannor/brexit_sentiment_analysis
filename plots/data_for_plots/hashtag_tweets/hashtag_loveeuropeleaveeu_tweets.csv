@@ -1,259 +1,330 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,0,0,90309,700103904558710784,20550442,neutral,other,2016-02-17T23:45:52.000Z,"#Schengen #EU #EURef #BrExit #LoveEuropeLeaveEU
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+696270698390618112,20550442,negative,other,2016-02-07T09:54:05.000Z,"#Anger isn't quite a strong enough word.
+#BrExit #EURef #LoveEuropeLeaveEU
+#PM faces #grassroots anger over #EU vote https://t.co/oKOECHzQNz","['anger', 'eu', 'brexit', 'euref', 'pm', 'grassroots', 'loveeuropeleaveeu']"
+700103904558710784,20550442,neutral,other,2016-02-17T23:45:52.000Z,"#Schengen #EU #EURef #BrExit #LoveEuropeLeaveEU
 #Austria sets #asylum claims cap
-https://t.co/OruZZI3O1d","['austria', 'brexit', 'loveeuropeleaveeu', 'euref', 'schengen', 'eu', 'asylum']"
-1,1,1,1,1,1,1,224119,703873966503550976,20550442,neutral,other,2016-02-28T09:26:45.000Z,"#BBCBias
+https://t.co/OruZZI3O1d","['asylum', 'schengen', 'eu', 'brexit', 'euref', 'austria', 'loveeuropeleaveeu']"
+735922426429739008,20550442,negative,remain,2016-05-26T19:55:53.000Z,"@StrongerIn
+Honesty from #Leave - it might seem a bit strange to you at #Remain - honesty, that is.
+#LoveEuropeLeaveEU #BrExit
+#BBCDebate","['bbcdebate', 'brexit', 'leave', 'remain', 'loveeuropeleaveeu']"
+705524602311680000,3135565264,neutral,leave,2016-03-03T22:45:47.000Z,"Im voting to #LeaveEU
+
+#EUreferendum #bbcqt #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/KheQCI3neQ","['bbcqt', 'eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+705903204307959808,20550442,neutral,leave,2016-03-04T23:50:13.000Z,"Not exactly a #LevelPlayingField is it?
 #LoveEuropeLeaveEU
-#RyanBourne: Just 3% of #BBC guests back #Brexit - The Conservative Woman https://t.co/9xYXphRMZp via @TheConWom","['bbc', 'loveeuropeleaveeu', 'brexit', 'ryanbourne', 'bbcbias']"
-2,2,2,2,2,2,2,126159,701099039392198656,20550442,negative,remain,2016-02-20T17:40:11.000Z,"Shabby #Sky journalism, almost as bad as  #BBCBias
-#LoveEuropeLeaveEU
-#BrExit https://t.co/TP6t2382SZ","['bbcbias', 'sky', 'brexit', 'loveeuropeleaveeu']"
-3,3,3,3,3,3,3,279165,706536325592305664,20550442,neutral,leave,2016-03-06T17:46:01.000Z,"#RiskToJobs
-#LevelPlayingField #BCC EURef
-#BBCClaptrap
-#LoveEuropeLeaveEU
-#BrExit #BetterOffOut #VoteLeave https://t.co/xpDWl3pfoy","['bbcclaptrap', 'brexit', 'voteleave', 'loveeuropeleaveeu', 'betteroffout', 'bcc', 'levelplayingfield', 'risktojobs']"
-4,4,4,4,4,4,4,29969,692071177108525056,20550442,positive,other,2016-01-26T19:46:41.000Z,"We need this here
-#Schengen #BrExit #LoveEuropeLeaveEU
-#BBCNews #Denmark approves controversial #migrant assets bill https://t.co/ag37Vh43CX","['bbcnews', 'brexit', 'loveeuropeleaveeu', 'migrant', 'schengen', 'denmark']"
-5,5,5,5,5,5,5,270056,705902523182391296,20550442,neutral,remain,2016-03-04T23:47:31.000Z,"And so, that's saying enough to lose your job, is it?
 #BetterOffOut
+#BCC boss 'suspended' over #Brexit views https://t.co/eh0W1s0PYI","['bcc', 'levelplayingfield', 'betteroffout', 'brexit', 'loveeuropeleaveeu']"
+701440546963898368,20550442,neutral,other,2016-02-21T16:17:13.000Z,"""..our country would be #Freer #Fairer and #BetterOff outside the #EU"" #MichaelGove
+#LoveEuropeLeaveEU
 #BrExit
-#LoveEuropeLeaveEU https://t.co/i6WZATE6xt","['betteroffout', 'brexit', 'loveeuropeleaveeu']"
-6,6,6,6,6,6,6,270065,705903204307959808,20550442,neutral,leave,2016-03-04T23:50:13.000Z,"Not exactly a #LevelPlayingField is it?
-#LoveEuropeLeaveEU
-#BetterOffOut
-#BCC boss 'suspended' over #Brexit views https://t.co/eh0W1s0PYI","['betteroffout', 'brexit', 'loveeuropeleaveeu', 'bcc', 'levelplayingfield']"
-7,7,7,7,7,7,7,37563,693862389868007424,20550442,neutral,leave,2016-01-31T18:24:19.000Z,"#LeaveEU #BrExit #BetterOffOut however you look at it, it makes sense to go.
-#LoveEuropeLeaveEU https://t.co/suNqPM38xZ","['betteroffout', 'brexit', 'loveeuropeleaveeu', 'leaveeu']"
-8,8,8,8,8,8,8,57113,696268512935944192,20550442,positive,other,2016-02-07T09:45:24.000Z,"@toadmeister @DJack_Journo @thesundaytimes
+#EURef","['betteroff', 'fairer', 'michaelgove', 'eu', 'brexit', 'euref', 'freer', 'loveeuropeleaveeu']"
+730400986783723520,20550442,positive,other,2016-05-11T14:15:40.000Z,"#GordonBrown, that #BigottedExPrimeMinister, like anyone cares about, or is influenced by, what you think.
+#BrExit #LoveEuropeLeaveEU #EURef","['bigottedexprimeminister', 'gordonbrown', 'brexit', 'euref', 'loveeuropeleaveeu']"
+696268512935944192,20550442,positive,other,2016-02-07T09:45:24.000Z,"@toadmeister @DJack_Journo @thesundaytimes
 #Bollox #Bollocks #Bolleaux
 Tripe
 It is the spirit of MT that drives BrExit
-#LoveEuropeLeaveEU","['bollocks', 'loveeuropeleaveeu', 'bollox', 'bolleaux']"
-9,9,9,9,9,9,9,136369,701431610755911680,20550442,negative,remain,2016-02-21T15:41:42.000Z,"BREAKING NEWS:
-#BorisJohnson to campaign to #leave #EU https://t.co/lTBnDvfrDj
+#LoveEuropeLeaveEU","['bollox', 'bollocks', 'bolleaux', 'loveeuropeleaveeu']"
+696268189882261504,20550442,positive,other,2016-02-07T09:44:07.000Z,"#Bollox #Bollocks #Bolleaux
+Utter tripe from #TheTimes
+It is the spirit of MT that drives BrExit
+#LoveEuropeLeaveEU https://t.co/KQSxwu8jWw","['bollox', 'thetimes', 'bolleaux', 'bollocks', 'loveeuropeleaveeu']"
+701202837909479424,20550442,neutral,remain,2016-02-21T00:32:38.000Z,"C'mon #Boris this is your moment to be a part of, and make, history, you were born for this
+#BrExit #LoveEuropeLeaveEU
+#EURef
+@MayorofLondon","['boris', 'brexit', 'euref', 'loveeuropeleaveeu']"
+742784745344503808,199320876,neutral,leave,2016-06-14T18:24:18.000Z,#LoveEuropeLeaveEU Just love Europe &amp; its people. Loathe the EU &amp; its unelected bureaucrats. #BeLeave #Brexit https://t.co/U028DOBSJG,"['brexit', 'beleave', 'loveeuropeleaveeu']"
+705902523182391296,20550442,neutral,remain,2016-03-04T23:47:31.000Z,"And so, that's saying enough to lose your job, is it?
+#BetterOffOut
+#BrExit
+#LoveEuropeLeaveEU https://t.co/i6WZATE6xt","['brexit', 'betteroffout', 'loveeuropeleaveeu']"
+706058385335197696,20550442,negative,other,2016-03-05T10:06:51.000Z,"Wrong then, wrong now.
+#Vote #BrExit for the #UK in the #EURef.
+#LoveEuropeLeaveEU
+#BetterOffOut
+#VoteLeave https://t.co/RgF888X0jK","['brexit', 'betteroffout', 'vote', 'voteleave', 'uk', 'euref', 'loveeuropeleaveeu']"
+701415783621128192,20550442,positive,remain,2016-02-21T14:38:49.000Z,"Let's hope so #Boris, this is going to be HUGE.
+#BrExit #LoveEuropeLeaveEU #EURef https://t.co/BmLLBoROsK","['brexit', 'boris', 'euref', 'loveeuropeleaveeu']"
+732125997064146944,20550442,positive,leave,2016-05-16T08:30:14.000Z,"#DavidCameron direct quote.
+So why isn't he backing #VoteLeave?
+#LoveEuropeLeaveEU
+#BrExit https://t.co/kJySHJ7Dhs","['brexit', 'davidcameron', 'loveeuropeleaveeu', 'voteleave?']"
+701692778460405760,20550442,negative,remain,2016-02-22T08:59:29.000Z,"#DavidCameron calls a #UK #BrExit ""a leap in the dark""
+So wrong, it's a leap FROM the dark, it's a leap into the light.
+#LoveEuropeLeaveEU","['brexit', 'davidcameron', 'uk', 'loveeuropeleaveeu']"
+706769568623140864,20550442,negative,leave,2016-03-07T09:12:50.000Z,"Yes, why?
 #LoveEuropeLeaveEU
 #BrExit
-#EURef","['borisjohnson', 'brexit', 'loveeuropeleaveeu', 'euref', 'eu', 'leave']"
-10,10,10,10,10,10,10,283246,706777707636506624,20550442,neutral,leave,2016-03-07T09:45:11.000Z,"#TheEUIsNotEurope don't believe the #BBCBias #BBCClaptrap
+""Why am I considered a bigot or an idiot for wanting #Britain to leave the #EU""
+https://t.co/0dTtKFiIsO","['brexit', 'eu', 'britain', 'loveeuropeleaveeu']"
+689719712603836416,20550442,positive,leave,2016-01-20T08:02:48.000Z,"#BrExit - Great Britain waking up to the #EU.
+#LoveEuropeLeaveEU https://t.co/XtbGG68bAe","['brexit', 'eu', 'loveeuropeleaveeu']"
+733925903043047424,20550442,positive,other,2016-05-21T07:42:25.000Z,"Love it #LoveEuropeLeaveEU #BrExit
+#EUistheProblem https://t.co/TwCsmrTLaM","['brexit', 'euistheproblem', 'loveeuropeleaveeu']"
+703949127609139200,20550442,positive,other,2016-02-28T14:25:25.000Z,"Wonderfully put.
 #LoveEuropeLeaveEU
-#BrExit #BetterOffOut #VoteLeave
-#EURef https://t.co/ExsptU4QYn","['brexit', 'bbcclaptrap', 'voteleave', 'loveeuropeleaveeu', 'theeuisnoteurope', 'betteroffout', 'euref', 'bbcbias']"
-11,11,11,11,11,11,11,46723,694836699659132928,20550442,negative,leave,2016-02-03T10:55:53.000Z,"#BrExit #BetterOffOut #LeaveEU #EU
-#LoveEuropeLeaveEU #VoteLeave.
-We wouldn't join, why stay? https://t.co/lV1jTVnlMk","['brexit', 'betteroffout', 'loveeuropeleaveeu', 'leaveeu', 'eu', 'voteleave']"
-12,12,12,12,12,12,12,643245,730400986783723520,20550442,positive,other,2016-05-11T14:15:40.000Z,"#GordonBrown, that #BigottedExPrimeMinister, like anyone cares about, or is influenced by, what you think.
-#BrExit #LoveEuropeLeaveEU #EURef","['brexit', 'bigottedexprimeminister', 'gordonbrown', 'loveeuropeleaveeu', 'euref']"
-13,13,13,13,13,13,13,40520,694225760253526016,20550442,neutral,leave,2016-02-01T18:28:13.000Z,"#BrExit #BetterOffOut #LeaveEU
-#LoveEuropeLeaveEU
-#British business needs to remain neutral about leaving the #EU
-https://t.co/s4flVSf8tF","['brexit', 'british', 'betteroffout', 'loveeuropeleaveeu', 'leaveeu', 'eu']"
-14,14,14,14,14,14,14,782699,735477991501893632,20550442,neutral,leave,2016-05-25T14:29:52.000Z,"These are 2 guys to admire.
-#LoveEuropeLeaveEU #RemainLies
-#ProjectFear #EUistheProblem #BrExit https://t.co/tOqXyf5YOg","['brexit', 'euistheproblem', 'loveeuropeleaveeu', 'projectfear', 'remainlies']"
-15,15,15,15,15,15,15,53876,695609585504272384,20550442,negative,leave,2016-02-05T14:07:03.000Z,"#LoveEuropeLeaveEU #EURef #BrExit #EU
-Nothing #Britain does can stop the #EUMonster from swallowing all in its path
-https://t.co/iBgB0iwRAc","['brexit', 'eumonster', 'loveeuropeleaveeu', 'euref', 'eu', 'britain']"
-16,16,16,16,16,16,16,135362,701415783621128192,20550442,positive,remain,2016-02-21T14:38:49.000Z,"Let's hope so #Boris, this is going to be HUGE.
-#BrExit #LoveEuropeLeaveEU #EURef https://t.co/BmLLBoROsK","['brexit', 'euref', 'loveeuropeleaveeu', 'boris']"
-17,17,17,17,17,17,17,216700,703528760423874560,3135565264,positive,leave,2016-02-27T10:35:02.000Z,"Britain will be Free soon to rule &amp; run its own Country
+#BetterOffOut #EURef
+#BrExit https://t.co/SDMLReO1t9","['brexit', 'euref', 'betteroffout', 'loveeuropeleaveeu']"
+705810771637362688,20550442,positive,other,2016-03-04T17:42:55.000Z,"#LoveEuropeLeaveEU #EURef #BetterOffOut
+In favour of #Brexit:
+#DanielHannan on why he should be sacked as an #MEP
+https://t.co/4mLO6LRvJH","['brexit', 'euref', 'betteroffout', 'loveeuropeleaveeu', 'mep', 'danielhannan']"
+734855570990243840,20550442,neutral,other,2016-05-23T21:16:35.000Z,"@britainelects
+The BT landing page:
+ https://t.co/PcvoGsjS6d 
+ #LoveEuropeLeaveEU #EUistheProblem #EUref #BrExit https://t.co/kImFSpXewT","['brexit', 'euref', 'euistheproblem', 'loveeuropeleaveeu']"
+699294506122919936,3135565264,neutral,leave,2016-02-15T18:09:37.000Z,"UK needs out of the #EuropeanUnion before it collapses
 
-#EUreferendum #Brexit #loveEuropeLeaveEU #strongerIn #No2EU https://t.co/6EKSED3Sg2","['brexit', 'eureferendum', 'strongerin', 'no2eu', 'loveeuropeleaveeu']"
-18,18,18,18,18,18,18,149314,701691235237543936,20550442,negative,leave,2016-02-22T08:53:21.000Z,"Don't believe the scare stories
-Trade will continue, #Europe need us more
 #LoveEuropeLeaveEU
-#BrExit #EU #UK #EURef https://t.co/UmtXL0Qys9","['brexit', 'europe', 'loveeuropeleaveeu', 'euref', 'eu', 'uk']"
-19,19,19,19,19,19,19,57269,696270698390618112,20550442,negative,other,2016-02-07T09:54:05.000Z,"#Anger isn't quite a strong enough word.
-#BrExit #EURef #LoveEuropeLeaveEU
-#PM faces #grassroots anger over #EU vote https://t.co/oKOECHzQNz","['brexit', 'grassroots', 'pm', 'loveeuropeleaveeu', 'euref', 'anger', 'eu']"
-20,20,20,20,20,20,20,58378,696399401384804352,20550442,neutral,other,2016-02-07T18:25:30.000Z,"#LoveEuropeLeaveEU
+
+#EURef #VoteLeave #Brexit #StrongerIn https://t.co/rgOZU9hOQg","['brexit', 'euref', 'europeanunion', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+733677447158333440,20550442,positive,leave,2016-05-20T15:15:09.000Z,"#BrExit #LoveEuropeLeaveEU #IndependenceDay #EURef
+The Last of the Few: Stunning photographs of Spitfires in flight
+https://t.co/6TjJEM5d5b","['brexit', 'euref', 'independenceday', 'loveeuropeleaveeu']"
+742866683652624384,730736334252474240,neutral,other,2016-06-14T23:49:53.000Z,"@Stop_The_EU @scotpolitik It's the most disingenuous tactic
+
+#LoveEuropeLeaveEU  #EURef #Brexit https://t.co/C2xtb8oBJv","['brexit', 'euref', 'loveeuropeleaveeu']"
+701193318743592960,20550442,positive,other,2016-02-20T23:54:49.000Z,"If true, this is fantastic news.
+#BrExit
+#LoveEuropeLeaveEU
+#EURef https://t.co/zhPWGjdPPN","['brexit', 'euref', 'loveeuropeleaveeu']"
+745580080001388544,730736334252474240,positive,other,2016-06-22T11:31:57.000Z,"@theordinaryman2 @Fight4UK Love Britain, Love Europe, Leave EU :-)
+
+#LoveEuropeLeaveEU
+#EURef #Brexit https://t.co/FIIyFJBOjh","['brexit', 'euref', 'loveeuropeleaveeu']"
+744853120375791616,730736334252474240,positive,remain,2016-06-20T11:23:17.000Z,"@DrTeckKhong They just don't get it, how can we trust them
+
+#LoveEuropeLeaveEU
+
+#EURef #Brexit https://t.co/g9QKseFvEX","['brexit', 'euref', 'loveeuropeleaveeu']"
+741923330350014464,199320876,positive,remain,2016-06-12T09:21:20.000Z,@David_Cameron's motivation laid bare. Scaring pensioners to stay in his job.  #LoveEuropeLeaveEU #EURef #Brexit https://t.co/S27do7wOLR,"['brexit', 'euref', 'loveeuropeleaveeu']"
+740954613453598720,20550442,positive,other,2016-06-09T17:12:00.000Z,"@AmberRudd_MP @Nigel_Farage
+I read your words and hear Snidey-Snear, Snidey-Snear
+Try and be a nice person
+#LoveEuropeLeaveEU #BrExit #EURef","['brexit', 'euref', 'loveeuropeleaveeu']"
+743903090747777024,730736334252474240,positive,other,2016-06-17T20:28:12.000Z,"Britons, are you game to exercise your choice to strengthen democracy on 23rd?
+
+#LoveEuropeLeaveEU
+#EURef #Brexit https://t.co/TjDSVUjAIO","['brexit', 'euref', 'loveeuropeleaveeu']"
+744087754863222784,730736334252474240,positive,leave,2016-06-18T08:41:59.000Z,"Please join me in my dream, #VoteLeave, spread the message
+
+#LoveEuropeLeaveEU
+#EURef #Brexit https://t.co/0Go1uag3Tw","['brexit', 'euref', 'loveeuropeleaveeu', 'voteleave']"
+706172206972346368,20550442,negative,remain,2016-03-05T17:39:08.000Z,"And some people might still vote #Remain
+How could they not want this?
+#LoveEuropeLeaveEU
+#BrExit
+#EURef https://t.co/JNvRdqHe7v","['brexit', 'euref', 'remain', 'loveeuropeleaveeu']"
+704685700776632320,20550442,neutral,remain,2016-03-01T15:12:18.000Z,"Oh crikey!
+#Remain are one-trick ponies, aren't they?
+#LoveEuropeLeaveEU
+#BrExit #EURef https://t.co/RVJozfmVRu","['brexit', 'euref', 'remain', 'loveeuropeleaveeu']"
+722852367494819840,3135565264,positive,leave,2016-04-20T18:20:09.000Z,"Time to look out for ourselves, as if we dont no one else will
+
+#LoveEuropeLeaveEU #EURef #VoteLeave #Brexit #remain https://t.co/mABEc1QhAf","['brexit', 'euref', 'remain', 'voteleave', 'loveeuropeleaveeu']"
+699718334430973952,3135565264,positive,leave,2016-02-16T22:13:45.000Z,"I support #GrassrootsOut ...do you ?
+
+#VoteLeave #EURef #StrongerIn #LoveEuropeLeaveEU #Brexit #EUdeal https://t.co/HL6ZmCiYXH","['brexit', 'euref', 'voteleave', 'eudeal', 'strongerin', 'grassrootsout', 'loveeuropeleaveeu']"
+695725855184654336,3135565264,positive,other,2016-02-05T21:49:04.000Z,"I love my country thats why I support #GrassrootsOut
+
+#LoveEuropeLeaveEU #EURef #VoteLeave #Brexit #StrongerIn  https://t.co/x1jvo6e4r2","['brexit', 'euref', 'voteleave', 'strongerin', 'grassrootsout', 'loveeuropeleaveeu']"
+699308752240041984,3135565264,positive,leave,2016-02-15T19:06:13.000Z,"Do you really want to be part of this ?
+
+#LoveEuropeLeaveEU
+
+#EURef #VoteLeave #Brexit #StrongerIn #VoteREMAIN https://t.co/xDhU0Q2E8q","['brexit', 'euref', 'voteleave', 'strongerin', 'voteremain', 'loveeuropeleaveeu']"
+729569759092682752,3135565264,neutral,leave,2016-05-09T07:12:39.000Z,"Britain's Future is a global future
+
+#VoteLeave
+
+#EUReferendum #LoveEuropeLeaveEU #Brexit #StrongerIn https://t.co/vXLKZupZ0J","['brexit', 'eureferendum', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+726419774784286720,3135565264,neutral,leave,2016-04-30T14:35:45.000Z,"Who is in charge of our Country ?
+
+#LoveEuropeLeaveEU #EUReferendum #VoteLeave #Brexit #StrongerIn https://t.co/5UEWapzniN","['brexit', 'eureferendum', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+708267484374310912,20550442,neutral,other,2016-03-11T12:25:01.000Z,"Outside of their subject, Scientists can't even tie their own shoelaces
+#LoveEuropeLeaveEU
+#EuropeIsNotTheEU
+#BrExit https://t.co/qF9hM7uvmK","['brexit', 'europeisnottheeu', 'loveeuropeleaveeu']"
+708267691128307712,20550442,neutral,other,2016-03-11T12:25:51.000Z,"@BreitbartLondon
+Outside of their subject, Scientists can't even tie their own shoelaces
+#LoveEuropeLeaveEU
+#EuropeIsNotTheEU
+#BrExit","['brexit', 'europeisnottheeu', 'loveeuropeleaveeu']"
+707992065951580160,20550442,neutral,other,2016-03-10T18:10:37.000Z,"#DavidCameron hasn't read this, has he?
+https://t.co/Yl0JGVlQHN
+#LoveEuropeLeaveEU
+#BrExit #EURef
+#EverCloserUnion https://t.co/jEyctMt006","['brexit', 'evercloserunion', 'euref', 'davidcameron', 'loveeuropeleaveeu']"
+744192508234711040,2308475768,negative,other,2016-06-18T15:38:15.000Z,Senior defence chief Lord Guthrie switches sides in #Brexit battle #Leave #LoveEuropeLeaveEU https://t.co/cImJGwOQHZ,"['brexit', 'leave', 'loveeuropeleaveeu']"
+695390535196893184,20550442,positive,leave,2016-02-04T23:36:37.000Z,"Not worried #BrExit
+#LoveEuropeLeaveEU https://t.co/0YSznSpife","['brexit', 'loveeuropeleaveeu']"
+735823836248150016,73728436,positive,other,2016-05-26T13:24:08.000Z,"Wow, there's a compelling reason to vote ""Remain""!  Not.  #loveeuropeleaveeU #Brexit https://t.co/NK7KI63OqS","['brexit', 'loveeuropeleaveeu']"
+729800901238497280,199320876,neutral,leave,2016-05-09T22:31:08.000Z,"June 23rd: Independence Day UK 
+#LoveEuropeLeaveEU #Brexit https://t.co/sijYnW3wHx","['brexit', 'loveeuropeleaveeu']"
+719850506991099904,2308475768,negative,other,2016-04-12T11:31:49.000Z,Stress relief 2day tearing this up   No thks @David_Cameron in2 bin it goes #Brexit  @NoThanksEU #LoveEuropeLeaveEU https://t.co/hQ3iUmnYks,"['brexit', 'loveeuropeleaveeu']"
+698145361614020608,20229729,positive,leave,2016-02-12T14:03:19.000Z,Great article by @LouiseMensch explaining reasons why Britain should choose #Brexit #LoveEuropeLeaveEU https://t.co/8Tezcyvsfd @vote_leave,"['brexit', 'loveeuropeleaveeu']"
+745884397136674816,250768085,positive,leave,2016-06-23T07:41:12.000Z,Britain needs to forge its own path in the world. We can leave the EU and do this. For the good of the nation #Brexit #LoveEuropeLeaveEU,"['brexit', 'loveeuropeleaveeu']"
+744180706704822272,1347795974,neutral,other,2016-06-18T14:51:21.000Z,"@LOcurrency @nonwatcyn 
+Not in my kitchen. 
+Mine's the full Welsh - with #Laverbread from Parsons of Burry Port!
+#LoveEuropeLeaveEU
+#Brexit","['brexit', 'loveeuropeleaveeu', 'laverbread']"
+703594789304999936,20550442,positive,other,2016-02-27T14:57:24.000Z,"#Cameron dealt MAJOR blow by #EURef #poll as #Brexit campaign gains majority favour
+#LoveEuropeLeaveEU
+#BetterOffOut
+https://t.co/o8BMYL8IS3","['brexit', 'poll', 'euref', 'cameron', 'betteroffout', 'loveeuropeleaveeu']"
+703337539718025216,20550442,negative,other,2016-02-26T21:55:11.000Z,"In a Nutshell
+#LoveEuropeLeaveEU
+Revealed: The #Brexit supporter who shocked the #QuestionTime panel https://t.co/0CuKUypQ8U","['brexit', 'questiontime', 'loveeuropeleaveeu']"
+704317863528632320,20550442,neutral,leave,2016-02-29T14:50:38.000Z,"Go on #Remain'ers, have a go.
+#LoveEuropeLeaveEU
+#BrExit https://t.co/pZOxtGp6kr","['brexit', 'remainers', 'loveeuropeleaveeu']"
+726443737040183296,2308475768,neutral,leave,2016-04-30T16:10:58.000Z,@David_Cameron that's truly #ScrapingTheBarrel #Brexit #LoveEuropeLeaveEU   https://t.co/B64QcO3yVQ,"['brexit', 'scrapingthebarrel', 'loveeuropeleaveeu']"
+745807481134252032,252846261,neutral,leave,2016-06-23T02:35:34.000Z,Time to take the rubbish out #VoteLEAVE #Brexit #Euref #LoveEuropeLeaveEU https://t.co/MfBjyzNxt2,"['brexit', 'voteleave', 'loveeuropeleaveeu', 'euref']"
+737775969264631808,199320876,positive,other,2016-05-31T22:41:12.000Z,ICM BREXIT POLL: A seismic shift in favour of Leave just happened. &lt;3 Democracy https://t.co/MjfRkkM4IN #britainandeurope #LoveEuropeLeaveEU,"['britainandeurope', 'loveeuropeleaveeu']"
+691199270591033344,20550442,neutral,other,2016-01-24T10:02:02.000Z,"#BrExit #EU #Schengen
+#LoveEuropeLeaveEU
+#France 'should send army to #Calais' https://t.co/mh2Afaoz2j","['calais', 'france', 'eu', 'schengen', 'brexit', 'loveeuropeleaveeu']"
+701814406427111424,20550442,neutral,other,2016-02-22T17:02:48.000Z,"#BrExit is a leap into the light, you utter imbecile
+#LoveEuropeLeaveEU
+#Cameron: #EU exit a 'leap in the dark'
+https://t.co/Pp0uF8H4sn","['cameron', 'brexit', 'eu', 'loveeuropeleaveeu']"
+709653060180639744,3135565264,neutral,leave,2016-03-15T08:10:48.000Z,"#CBI the voice of #Brussels
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/NrNxYqQi8x","['cbi', 'eureferendum', 'leaveeu', 'brussels', 'brexit', 'strongerin', 'loveeuropeleaveeu']"
+739090727993548800,20550442,negative,other,2016-06-04T13:45:35.000Z,"#EdwinaCurry you are an utter disgrace you hideous old #Europhile ratbag
+#LoveEuropeLeaveEU
+#BrExit #VoteLeave https://t.co/vbyNnjg50W","['edwinacurry', 'europhile', 'brexit', 'voteleave', 'loveeuropeleaveeu']"
+693372531412242432,20550442,neutral,other,2016-01-30T09:57:48.000Z,"#BrExit #LoveEuropeLeaveEU
+The #EU needs the #UK more than we need them. We're #BetterOffOut. So, why stay? https://t.co/hQUBWyZTQq","['eu', 'betteroffout', 'brexit', 'uk', 'loveeuropeleaveeu']"
+708629404163899392,20550442,neutral,leave,2016-03-12T12:23:10.000Z,"""We'll Invest MORE if #Britain Leaves #EU""
+#LoveEuropeLeaveEU #BrExit
+#BetterOffOut #VoteLeave #EURef https://t.co/pJ5lg8vcCI","['eu', 'brexit', 'betteroffout', 'euref', 'britain', 'voteleave', 'loveeuropeleaveeu']"
+699740656659492864,20550442,neutral,other,2016-02-16T23:42:27.000Z,"#BrExit #EURef #LoveEuropeLeaveEU
+100,000 say #NO to the #EU
+Poll says #Britons want #Brexit vote
+https://t.co/W2U3eUIKKg","['eu', 'brexit', 'brexit', 'euref', 'britons', 'no', 'loveeuropeleaveeu']"
+705816157190758400,20550442,neutral,other,2016-03-04T18:04:19.000Z,"And don't we know it!
+#BrExit #LoveEuropeLeaveEU
+#Britons' concern over #EU hits highest level for 13 years - survey
+https://t.co/Z6rVilHaKd","['eu', 'brexit', 'britons', 'loveeuropeleaveeu']"
+695609585504272384,20550442,negative,leave,2016-02-05T14:07:03.000Z,"#LoveEuropeLeaveEU #EURef #BrExit #EU
+Nothing #Britain does can stop the #EUMonster from swallowing all in its path
+https://t.co/iBgB0iwRAc","['eu', 'brexit', 'euref', 'britain', 'eumonster', 'loveeuropeleaveeu']"
+696399401384804352,20550442,neutral,other,2016-02-07T18:25:30.000Z,"#LoveEuropeLeaveEU
 Wake up #Britain
 #Europe and the #EU are not mutually exclusive
 #GrassRootsOut
 #BrExit #EURef
-https://t.co/f3BlZANzy7","['brexit', 'grassrootsout', 'europe', 'loveeuropeleaveeu', 'euref', 'eu', 'britain']"
-21,21,21,21,21,21,21,63572,696999544781991936,20550442,negative,leave,2016-02-09T10:10:15.000Z,"Don't believe the scare tactics from the #InTards they're desperate.
-#BrExit #LeaveEU #EU #EURef
-#LoveEuropeLeaveEU https://t.co/ZYTIGcmUmC","['brexit', 'intards', 'loveeuropeleaveeu', 'euref', 'leaveeu', 'eu']"
-22,22,22,22,22,22,22,53453,695578137359466496,20550442,negative,remain,2016-02-05T12:02:05.000Z,"Music to my ears
-#BrExit #LeaveEU #LoveEuropeLeaveEU
-'If the #Brits want to leave, let them #leave,' say #EU leaders
-https://t.co/Un2EchimU3","['brexit', 'leave', 'brits', 'loveeuropeleaveeu', 'leaveeu', 'eu']"
-23,23,23,23,23,23,23,238848,704591076108214272,20550442,negative,other,2016-03-01T08:56:17.000Z,"#LeaveBias brainwashing n #UK Universities
+https://t.co/f3BlZANzy7","['eu', 'brexit', 'euref', 'britain', 'europe', 'grassrootsout', 'loveeuropeleaveeu']"
+706428570290294784,20550442,neutral,other,2016-03-06T10:37:50.000Z,"#LoveEuropeLeaveEU
+#EURef #BrExit
+#Britain #UK strong enough to survive without #EU - it's politicians who are weak
+https://t.co/NQtGnMxcqU","['eu', 'brexit', 'euref', 'britain', 'uk', 'loveeuropeleaveeu']"
+695341622876200960,20550442,neutral,other,2016-02-04T20:22:16.000Z,"#LoveEuropeLeaveEU #EU #EURef
+#JohnWhittingdale becomes first #CabinetMiinister to suggest he will back #Brexit
+https://t.co/j1BPWNCfRP","['eu', 'brexit', 'euref', 'cabinetmiinister', 'johnwhittingdale', 'loveeuropeleaveeu']"
+701691235237543936,20550442,negative,leave,2016-02-22T08:53:21.000Z,"Don't believe the scare stories
+Trade will continue, #Europe need us more
+#LoveEuropeLeaveEU
+#BrExit #EU #UK #EURef https://t.co/UmtXL0Qys9","['eu', 'brexit', 'euref', 'europe', 'uk', 'loveeuropeleaveeu']"
+701004347379994624,20550442,negative,leave,2016-02-20T11:23:55.000Z,"#BrExit Vote for the #UK to #Leave the #EU in the #EURef
+#LoveEuropeLeaveEU https://t.co/n6NaXN3Oht","['eu', 'brexit', 'euref', 'leave', 'uk', 'loveeuropeleaveeu']"
+700388265975799808,20550442,negative,remain,2016-02-18T18:35:49.000Z,"#BrExit @vote_leave for the #UK to #Leave the #EU the #EURef
+#LoveEuropeLeaveEU https://t.co/QJNlF2PUYK","['eu', 'brexit', 'euref', 'leave', 'uk', 'loveeuropeleaveeu']"
+704591076108214272,20550442,negative,other,2016-03-01T08:56:17.000Z,"#LeaveBias brainwashing n #UK Universities
 #LoveEuropeLeaveEU
 #BrExit #EURef
 Shame on the academic #EU scaremongers
-https://t.co/tiVLdSUXeT","['brexit', 'leavebias', 'loveeuropeleaveeu', 'euref', 'eu', 'uk']"
-24,24,24,24,24,24,24,791500,735823836248150016,73728436,positive,other,2016-05-26T13:24:08.000Z,"Wow, there's a compelling reason to vote ""Remain""!  Not.  #loveeuropeleaveeU #Brexit https://t.co/NK7KI63OqS","['brexit', 'loveeuropeleaveeu']"
-25,25,25,25,25,25,25,1114746,742784745344503808,199320876,neutral,leave,2016-06-14T18:24:18.000Z,#LoveEuropeLeaveEU Just love Europe &amp; its people. Loathe the EU &amp; its unelected bureaucrats. #BeLeave #Brexit https://t.co/U028DOBSJG,"['brexit', 'loveeuropeleaveeu', 'beleave']"
-26,26,26,26,26,26,26,35923,693372531412242432,20550442,neutral,other,2016-01-30T09:57:48.000Z,"#BrExit #LoveEuropeLeaveEU
-The #EU needs the #UK more than we need them. We're #BetterOffOut. So, why stay? https://t.co/hQUBWyZTQq","['brexit', 'loveeuropeleaveeu', 'betteroffout', 'eu', 'uk']"
-27,27,27,27,27,27,27,58361,696397071474151424,20550442,negative,leave,2016-02-07T18:16:14.000Z,"Exactly!  We wouldn't join the #EU, so why would we, why should we, stay?
-#LoveEuropeLeaveEU
-#GrassRootsOut
-#BrExit https://t.co/iNJqcY2thk","['brexit', 'loveeuropeleaveeu', 'eu', 'grassrootsout']"
-28,28,28,28,28,28,28,276907,706428570290294784,20550442,neutral,other,2016-03-06T10:37:50.000Z,"#LoveEuropeLeaveEU
-#EURef #BrExit
-#Britain #UK strong enough to survive without #EU - it's politicians who are weak
-https://t.co/NQtGnMxcqU","['brexit', 'loveeuropeleaveeu', 'euref', 'eu', 'britain', 'uk']"
-29,29,29,29,29,29,29,330880,709341945949261824,20550442,positive,leave,2016-03-14T11:34:33.000Z,"""I used to love the #EU. Now I want #Britain to #Leave""
-https://t.co/OjTr72qGqi
-#LoveEuropeLeaveEU #EuropeIsNotThe EU #BrExit #EURef","['brexit', 'loveeuropeleaveeu', 'euref', 'europeisnotthe', 'eu', 'leave', 'britain']"
-30,30,30,30,30,30,30,57182,696261911462207488,20550442,negative,other,2016-02-07T09:19:10.000Z,"We wouldn't join the #EU now, it would be madness, so why vote #Remain?
-#LoveEuropeLeaveEU #BrExit #LeaveEU
-#EURef  https://t.co/06Iu8y2cI4","['brexit', 'loveeuropeleaveeu', 'euref', 'leaveeu', 'eu', 'remain?']"
-31,31,31,31,31,31,31,223576,703859264343842816,20550442,neutral,other,2016-02-28T08:28:20.000Z,"Let's have a #LevelPlayingField please.
-#LoveEuropeLeaveEU
-#BrExit #EURef
-MPs to grill civil servant on #EU guidance https://t.co/ifIgMERX5m","['brexit', 'loveeuropeleaveeu', 'euref', 'levelplayingfield', 'eu']"
-32,32,32,32,32,32,32,107477,700744796374228992,20550442,positive,other,2016-02-19T18:12:33.000Z,"Michael #GO ve
-You little beauty.
-#BrExit #EURef #LoveEuropeLeaveEU
-#MichaelGove has the courage of his convictions, who else does?","['brexit', 'loveeuropeleaveeu', 'euref', 'michaelgove', 'go']"
-33,33,33,33,33,33,33,226625,703958993270607872,20550442,neutral,remain,2016-02-28T15:04:37.000Z,"""It's just a leap in the Dark""
-""No, it's a stride to the Li-i-i-i-ight""
-Sung to the tune of #Timewarp
-#LoveEuropeLeaveEU
-#BrExit #EURef #EU","['brexit', 'loveeuropeleaveeu', 'euref', 'timewarp', 'eu']"
-34,34,34,34,34,34,34,424921,716547305273499648,20550442,neutral,leave,2016-04-03T08:46:05.000Z,"#LoveEuropeLeaveEU
-#IndependenceDay
-A #Brexit vote may be the only way to get real #EU reform | via @telebusiness https://t.co/crDI74PkQq","['brexit', 'loveeuropeleaveeu', 'independenceday', 'eu']"
-35,35,35,35,35,35,35,318898,708354555579342848,20550442,negative,leave,2016-03-11T18:11:01.000Z,"#LoveEuropeLeaveEU
-#EuropeIsNotTheEU
-#BrExit #EURef
-#JamesDyson says 'we must quit #EU to escape #German bullies'
-https://t.co/IrINdUfLwZ","['brexit', 'loveeuropeleaveeu', 'jamesdyson', 'german', 'euref', 'europeisnottheeu', 'eu']"
-36,36,36,36,36,36,36,120244,701004347379994624,20550442,negative,leave,2016-02-20T11:23:55.000Z,"#BrExit Vote for the #UK to #Leave the #EU in the #EURef
-#LoveEuropeLeaveEU https://t.co/n6NaXN3Oht","['brexit', 'loveeuropeleaveeu', 'leave', 'euref', 'eu', 'uk']"
-37,37,37,37,37,37,37,96895,700388265975799808,20550442,negative,remain,2016-02-18T18:35:49.000Z,"#BrExit @vote_leave for the #UK to #Leave the #EU the #EURef
-#LoveEuropeLeaveEU https://t.co/QJNlF2PUYK","['brexit', 'loveeuropeleaveeu', 'leave', 'euref', 'eu', 'uk']"
-38,38,38,38,38,38,38,22418,690457494259396608,20550442,negative,other,2016-01-22T08:54:29.000Z,"#BrExit #NoShitSherlock
-#LoveEuropeLeaveEU
-#Migration 'putting #EU at grave risk' https://t.co/9iu0NsiYGD","['brexit', 'loveeuropeleaveeu', 'migration', 'noshitsherlock', 'eu']"
-39,39,39,39,39,39,39,439637,717667075993518080,20550442,positive,remain,2016-04-06T10:55:39.000Z,"Good old #DavidOwen always a smart cookie.
-#BetteroffOut #LoveEuropeLeaveEU
-#BrExit #EURef #NHS
-#ProjectFear https://t.co/K1SWnbAyMB","['brexit', 'loveeuropeleaveeu', 'nhs', 'euref', 'betteroffout', 'davidowen', 'projectfear']"
-40,40,40,40,40,40,40,784256,735523543836971008,20550442,positive,other,2016-05-25T17:30:52.000Z,"#BiggotedWoman speaks #Leave
-Gordon who? What a successful PM he was?
-#LoveEuropeLeaveEU #NotBiggoted to #BrExit #EU https://t.co/wgSxui0mCZ","['brexit', 'notbiggoted', 'loveeuropeleaveeu', 'leave', 'biggotedwoman', 'eu']"
-41,41,41,41,41,41,41,436489,717363946039222272,20550442,neutral,leave,2016-04-05T14:51:07.000Z,"#INTard #Remain'ers its VERY simple
-#TheEUIsNotEurope #EuropeIsNotTheEU
-#LoveEuropeLeaveEU
-#BrExit #IndependenceDay https://t.co/xbqWBqe7q2","['brexit', 'remainers', 'loveeuropeleaveeu', 'theeuisnoteurope', 'independenceday', 'intard', 'europeisnottheeu']"
-42,42,42,42,42,42,42,79212,699253683717017600,20550442,negative,other,2016-02-15T15:27:24.000Z,"Sign &amp; RT
-#BrExit is for the #UK to decide to #Leave the #EU, not the #US President
-#LoveEuropeLeaveEU in the #EURef https://t.co/PGuaAfVJjg","['brexit', 'us', 'loveeuropeleaveeu', 'eu', 'leave', 'euref', 'uk']"
-43,43,43,43,43,43,43,321712,708629404163899392,20550442,neutral,leave,2016-03-12T12:23:10.000Z,"""We'll Invest MORE if #Britain Leaves #EU""
-#LoveEuropeLeaveEU #BrExit
-#BetterOffOut #VoteLeave #EURef https://t.co/pJ5lg8vcCI","['brexit', 'voteleave', 'betteroffout', 'loveeuropeleaveeu', 'euref', 'eu', 'britain']"
-44,44,44,44,44,44,44,271977,706058385335197696,20550442,negative,other,2016-03-05T10:06:51.000Z,"Wrong then, wrong now.
-#Vote #BrExit for the #UK in the #EURef.
-#LoveEuropeLeaveEU
-#BetterOffOut
-#VoteLeave https://t.co/RgF888X0jK","['brexit', 'voteleave', 'loveeuropeleaveeu', 'betteroffout', 'euref', 'uk', 'vote']"
-45,45,45,45,45,45,45,505756,721984432433991680,20550442,neutral,leave,2016-04-18T08:51:17.000Z,"#LoveEuropeLeaveEU #BrExit #EURef
-#VoteLeave
-Why global governance is making the #EU irrelevant | via @telegraph https://t.co/1KbD6jOXB8","['brexit', 'voteleave', 'loveeuropeleaveeu', 'euref', 'eu']"
-46,46,46,46,46,46,46,58537,696425156814774272,20550442,positive,leave,2016-02-07T20:07:50.000Z,"Now is the time for all good people to  join together and #VoteLeave #EU in the  #EURef
-#LoveEuropeLeaveEU
-#BrExit https://t.co/6s8HryFamX","['brexit', 'voteleave', 'loveeuropeleaveeu', 'euref', 'eu']"
-47,47,47,47,47,47,47,1150977,743087953384202240,20550442,neutral,leave,2016-06-15T14:29:08.000Z,I pledge to #VoteLeave on #23rdJune #BrExit in the #EURef #TakeBackControl #WeWantOurCountryBack #LoveEuropeLeaveEU https://t.co/0AQMlfmYXH,"['brexit', 'voteleave', 'wewantourcountryback', 'loveeuropeleaveeu', '23rdjune', 'euref', 'takebackcontrol']"
-48,48,48,48,48,48,48,1248503,744099541067141120,20550442,negative,leave,2016-06-18T09:28:49.000Z,"#BrExiteers get this out there
-#VoteLeave #EURef #BrExit #WeWantOurCountryBack #LeaveEU
-#LoveEuropeLeaveEU #Leave https://t.co/v3ep7jy6sy","['brexit', 'voteleave', 'wewantourcountryback', 'loveeuropeleaveeu', 'brexiteers', 'leave', 'euref', 'leaveeu']"
-49,49,49,49,49,49,49,1248408,744098575655772160,20550442,negative,leave,2016-06-18T09:24:59.000Z,"#BrExiteers get this out there!
-#VoteLeave #EURef #BrExit #WeWantOurCountryBack #LeaveEU
-#LoveEuropeLeaveEU #Leave https://t.co/n1tshYZIQU","['brexit', 'voteleave', 'wewantourcountryback', 'loveeuropeleaveeu', 'brexiteers', 'leave', 'euref', 'leaveeu']"
-50,50,50,50,50,50,50,986400,740953716824637440,20550442,neutral,leave,2016-06-09T17:08:27.000Z,"Just about sums it up
-#WeWantOurCountryBack
-#LoveEuropeLeaveEU
-#VoteLeave #BrExit #EURef https://t.co/Iyp5CSMsTM","['brexit', 'voteleave', 'wewantourcountryback', 'loveeuropeleaveeu', 'euref']"
-51,51,51,51,51,51,51,959408,740479644152016896,20550442,neutral,leave,2016-06-08T09:44:39.000Z,"@timothy_stanley
-This could have been one of my friends.
-#LoveEuropeLeaveEU
-#WeWantOurCountryBack
-#LeaveEU #VoteLeave #BrExit #EURef","['brexit', 'voteleave', 'wewantourcountryback', 'loveeuropeleaveeu', 'euref', 'leaveeu']"
-52,52,52,52,52,52,52,1022901,741547081115013120,20550442,positive,leave,2016-06-11T08:26:16.000Z,"How do you like 'them' Apples?
-#WeWantOurCountryBack
-#LoveEuropeLeaveEU
-#TakeBackControl
-#VoteLeave #BrExit #EURef https://t.co/ELqCFsPJRJ","['brexit', 'voteleave', 'wewantourcountryback', 'loveeuropeleaveeu', 'euref', 'takebackcontrol']"
-53,53,53,53,53,53,53,85757,699740656659492864,20550442,neutral,other,2016-02-16T23:42:27.000Z,"#BrExit #EURef #LoveEuropeLeaveEU
-100,000 say #NO to the #EU
-Poll says #Britons want #Brexit vote
-https://t.co/W2U3eUIKKg","['britons', 'brexit', 'loveeuropeleaveeu', 'brexit', 'euref', 'no', 'eu']"
-54,54,54,54,54,54,54,51295,695341622876200960,20550442,neutral,other,2016-02-04T20:22:16.000Z,"#LoveEuropeLeaveEU #EU #EURef
-#JohnWhittingdale becomes first #CabinetMiinister to suggest he will back #Brexit
-https://t.co/j1BPWNCfRP","['cabinetmiinister', 'loveeuropeleaveeu', 'brexit', 'euref', 'johnwhittingdale', 'eu']"
-55,55,55,55,55,55,55,25100,691199270591033344,20550442,neutral,other,2016-01-24T10:02:02.000Z,"#BrExit #EU #Schengen
-#LoveEuropeLeaveEU
-#France 'should send army to #Calais' https://t.co/mh2Afaoz2j","['calais', 'france', 'brexit', 'loveeuropeleaveeu', 'schengen', 'eu']"
-56,56,56,56,56,56,56,219637,703594789304999936,20550442,positive,other,2016-02-27T14:57:24.000Z,"#Cameron dealt MAJOR blow by #EURef #poll as #Brexit campaign gains majority favour
-#LoveEuropeLeaveEU
-#BetterOffOut
-https://t.co/o8BMYL8IS3","['cameron', 'loveeuropeleaveeu', 'brexit', 'betteroffout', 'euref', 'poll']"
-57,57,57,57,57,57,57,108674,700772645118222336,20550442,negative,other,2016-02-19T20:03:12.000Z,"#BREXIT BOOST:
-#Poll shows #UK on course to #leave #EU as #Cameron fumbles over shambolic deal https://t.co/11Fowbv98v
-#LoveEuropeLeaveEU","['cameron', 'poll', 'loveeuropeleaveeu', 'brexit', 'eu', 'uk', 'leave']"
-58,58,58,58,58,58,58,336129,709653060180639744,3135565264,neutral,leave,2016-03-15T08:10:48.000Z,"#CBI the voice of #Brussels
+https://t.co/tiVLdSUXeT","['eu', 'brexit', 'euref', 'leavebias', 'uk', 'loveeuropeleaveeu']"
+699301057218928640,20550442,positive,remain,2016-02-15T18:35:39.000Z,"Nice to see you admit it Donald - the #EU is broken - bye!
+#EURef #BrExit #LoveEuropeLeaveEU https://t.co/ZMGBxUOQsv","['eu', 'brexit', 'euref', 'loveeuropeleaveeu']"
+716715395114278912,3135565264,neutral,leave,2016-04-03T19:54:00.000Z,"#Europe doesn’t need the #EU
 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/NrNxYqQi8x","['cbi', 'loveeuropeleaveeu', 'brexit', 'brussels', 'eureferendum', 'leaveeu', 'strongerin']"
-59,59,59,59,59,59,59,268164,705810771637362688,20550442,positive,other,2016-03-04T17:42:55.000Z,"#LoveEuropeLeaveEU #EURef #BetterOffOut
-In favour of #Brexit:
-#DanielHannan on why he should be sacked as an #MEP
-https://t.co/4mLO6LRvJH","['danielhannan', 'mep', 'loveeuropeleaveeu', 'betteroffout', 'euref', 'brexit']"
-60,60,60,60,60,60,60,121642,701020355519975424,20550442,neutral,remain,2016-02-20T12:27:31.000Z,"#DavidCameron
-It's the #EU not #Europe.
+#EURef #LoveEuropeLeaveEU #Brexit #StrongerIn #remain #VoteLeave https://t.co/uCg7auyqkU","['eu', 'brexit', 'euref', 'remain', 'europe', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+721984432433991680,20550442,neutral,leave,2016-04-18T08:51:17.000Z,"#LoveEuropeLeaveEU #BrExit #EURef
+#VoteLeave
+Why global governance is making the #EU irrelevant | via @telegraph https://t.co/1KbD6jOXB8","['eu', 'brexit', 'euref', 'voteleave', 'loveeuropeleaveeu']"
+696425156814774272,20550442,positive,leave,2016-02-07T20:07:50.000Z,"Now is the time for all good people to  join together and #VoteLeave #EU in the  #EURef
 #LoveEuropeLeaveEU
-#BrExit
-#EURef","['davidcameron', 'brexit', 'loveeuropeleaveeu', 'euref', 'eu', 'europe']"
-61,61,61,61,61,61,61,149468,701692778460405760,20550442,negative,remain,2016-02-22T08:59:29.000Z,"#DavidCameron calls a #UK #BrExit ""a leap in the dark""
-So wrong, it's a leap FROM the dark, it's a leap into the light.
-#LoveEuropeLeaveEU","['davidcameron', 'loveeuropeleaveeu', 'brexit', 'uk']"
-62,62,62,62,62,62,62,689198,732125997064146944,20550442,positive,leave,2016-05-16T08:30:14.000Z,"#DavidCameron direct quote.
-So why isn't he backing #VoteLeave?
+#BrExit https://t.co/6s8HryFamX","['eu', 'brexit', 'euref', 'voteleave', 'loveeuropeleaveeu']"
+731442204053360640,3135565264,neutral,leave,2016-05-14T11:13:05.000Z,"#Europe Doesn't need the #EU
+
+#EUReferendum #LoveEuropeLeaveEU #VoteLeave #Brexit #StrongerIn https://t.co/b6GfeN8ciS","['eu', 'brexit', 'eureferendum', 'europe', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+701518110956847104,20550442,positive,other,2016-02-21T21:25:25.000Z,"Loving the 'Exporting is Great' TV ad.
+Wonderful timing. Global market, not #EU
+#BrExit #LoveEuropeLeaveEU
+#ExportingIsGreat","['eu', 'brexit', 'exportingisgreat', 'loveeuropeleaveeu']"
+716547305273499648,20550442,neutral,leave,2016-04-03T08:46:05.000Z,"#LoveEuropeLeaveEU
+#IndependenceDay
+A #Brexit vote may be the only way to get real #EU reform | via @telebusiness https://t.co/crDI74PkQq","['eu', 'brexit', 'independenceday', 'loveeuropeleaveeu']"
+703859264343842816,20550442,neutral,other,2016-02-28T08:28:20.000Z,"Let's have a #LevelPlayingField please.
 #LoveEuropeLeaveEU
-#BrExit https://t.co/kJySHJ7Dhs","['davidcameron', 'voteleave?', 'brexit', 'loveeuropeleaveeu']"
-63,63,63,63,63,63,63,18668,689719712603836416,20550442,positive,leave,2016-01-20T08:02:48.000Z,"#BrExit - Great Britain waking up to the #EU.
-#LoveEuropeLeaveEU https://t.co/XtbGG68bAe","['eu', 'brexit', 'loveeuropeleaveeu']"
-64,64,64,64,64,64,64,15534,688666451809570816,20550442,negative,leave,2016-01-17T10:17:31.000Z,"#BrExit No shock to me, Britain wants out of the costly, corrupt ineffective #EU
-#LoveEuropeLeaveEU https://t.co/1WBYkbaO0R","['eu', 'loveeuropeleaveeu', 'brexit']"
-65,65,65,65,65,65,65,239047,704595055487688704,20550442,neutral,other,2016-03-01T09:12:06.000Z,"@UKIP
+#BrExit #EURef
+MPs to grill civil servant on #EU guidance https://t.co/ifIgMERX5m","['eu', 'brexit', 'levelplayingfield', 'euref', 'loveeuropeleaveeu']"
+704595055487688704,20550442,neutral,other,2016-03-01T09:12:06.000Z,"@UKIP
 A must-read for those voting on 23rd June
 #LoveEuropeLeaveEU
 #BrExit
 9 deceptions in our history with the #EU
-https://t.co/Yl0JGVlQHN","['eu', 'loveeuropeleaveeu', 'brexit']"
-66,66,66,66,66,66,66,282997,706769568623140864,20550442,negative,leave,2016-03-07T09:12:50.000Z,"Yes, why?
+https://t.co/Yl0JGVlQHN","['eu', 'brexit', 'loveeuropeleaveeu']"
+688666451809570816,20550442,negative,leave,2016-01-17T10:17:31.000Z,"#BrExit No shock to me, Britain wants out of the costly, corrupt ineffective #EU
+#LoveEuropeLeaveEU https://t.co/1WBYkbaO0R","['eu', 'brexit', 'loveeuropeleaveeu']"
+697865983671803904,20550442,negative,remain,2016-02-11T19:33:10.000Z,#LoveEuropeLeaveEU #BrExit #Leave the #EU now #SayNoToEU #GrassRootsOut https://t.co/wZzCLT3ceZ,"['eu', 'brexit', 'saynotoeu', 'leave', 'grassrootsout', 'loveeuropeleaveeu']"
+733742287935668224,20550442,neutral,leave,2016-05-20T19:32:48.000Z,"59% of #UKLaws created by the #EU
+#LoveEuropeLeaveEU time to #BrExit https://t.co/Ge1yCCfKAe","['eu', 'brexit', 'uklaws', 'loveeuropeleaveeu']"
+701020355519975424,20550442,neutral,remain,2016-02-20T12:27:31.000Z,"#DavidCameron
+It's the #EU not #Europe.
 #LoveEuropeLeaveEU
 #BrExit
-""Why am I considered a bigot or an idiot for wanting #Britain to leave the #EU""
-https://t.co/0dTtKFiIsO","['eu', 'loveeuropeleaveeu', 'brexit', 'britain']"
-67,67,67,67,67,67,67,268213,705816157190758400,20550442,neutral,other,2016-03-04T18:04:19.000Z,"And don't we know it!
-#BrExit #LoveEuropeLeaveEU
-#Britons' concern over #EU hits highest level for 13 years - survey
-https://t.co/Z6rVilHaKd","['eu', 'loveeuropeleaveeu', 'brexit', 'britons']"
-68,68,68,68,68,68,68,162408,701814406427111424,20550442,neutral,other,2016-02-22T17:02:48.000Z,"#BrExit is a leap into the light, you utter imbecile
+#EURef","['eu', 'europe', 'brexit', 'euref', 'davidcameron', 'loveeuropeleaveeu']"
+721440399328456704,3135565264,neutral,leave,2016-04-16T20:49:29.000Z,"#Europe Does Not Need the #EU
+
 #LoveEuropeLeaveEU
-#Cameron: #EU exit a 'leap in the dark'
-https://t.co/Pp0uF8H4sn","['eu', 'loveeuropeleaveeu', 'brexit', 'cameron']"
-69,69,69,69,69,69,69,80017,699301057218928640,20550442,positive,remain,2016-02-15T18:35:39.000Z,"Nice to see you admit it Donald - the #EU is broken - bye!
-#EURef #BrExit #LoveEuropeLeaveEU https://t.co/ZMGBxUOQsv","['eu', 'loveeuropeleaveeu', 'brexit', 'euref']"
-70,70,70,70,70,70,70,731178,733742287935668224,20550442,neutral,leave,2016-05-20T19:32:48.000Z,"59% of #UKLaws created by the #EU
-#LoveEuropeLeaveEU time to #BrExit https://t.co/Ge1yCCfKAe","['eu', 'loveeuropeleaveeu', 'brexit', 'uklaws']"
-71,71,71,71,71,71,71,120764,701010304675815424,20550442,neutral,other,2016-02-20T11:47:35.000Z,"Well done @BillCashMP on #BBCNews right now.
+
+ #EUReferendum #VoteLeave #Brexit #StrongerIn #No2EU #EUspring https://t.co/NRCk7NWvVa","['eu', 'euspring', 'brexit', 'eureferendum', 'europe', 'no2eu', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+740079740204257280,3135565264,neutral,leave,2016-06-07T07:15:34.000Z,"We are NOT leaving #Europe ,We are leaving the #EU
+
+#LoveEuropeLeaveEU
+
+#EURef #VoteLeave #Brexit #remain #INorOUT https://t.co/68PqpoKsNi","['eu', 'inorout', 'brexit', 'euref', 'remain', 'europe', 'voteleave', 'loveeuropeleaveeu']"
+737007107074084864,3135565264,neutral,leave,2016-05-29T19:46:01.000Z,"#Europe is not the #EU
+
+#LoveEuropeLeaveEU #EURef #VoteLeave #Brexit 
+#remain #INorOUT #LabourIN #VoteOUT https://t.co/DnVYg3JP4E","['eu', 'inorout', 'brexit', 'euref', 'remain', 'labourin', 'europe', 'voteleave', 'voteout', 'loveeuropeleaveeu']"
+692375760364027904,20550442,negative,remain,2016-01-27T15:56:59.000Z,"Sounds like the #Irish don't want a #UK #EU #BrExit so don't be fooled by propaganda from #Eire
+#LoveEuropeLeaveEU
+https://t.co/PoarpiGk4O","['eu', 'irish', 'brexit', 'eire', 'uk', 'loveeuropeleaveeu']"
+708354555579342848,20550442,negative,leave,2016-03-11T18:11:01.000Z,"#LoveEuropeLeaveEU
+#EuropeIsNotTheEU
+#BrExit #EURef
+#JamesDyson says 'we must quit #EU to escape #German bullies'
+https://t.co/IrINdUfLwZ","['eu', 'jamesdyson', 'europeisnottheeu', 'german', 'brexit', 'euref', 'loveeuropeleaveeu']"
+690960938854408192,3135565264,neutral,leave,2016-01-23T18:14:59.000Z,"I'm Turning my back on the #EU
+
+#LoveEuropeLeaveEU #GrassrootsOut #LeaveEU #EURef #VoteLeave #Brexit https://t.co/EXQqrs3Pl4","['eu', 'leaveeu', 'brexit', 'euref', 'voteleave', 'grassrootsout', 'loveeuropeleaveeu']"
+690457494259396608,20550442,negative,other,2016-01-22T08:54:29.000Z,"#BrExit #NoShitSherlock
+#LoveEuropeLeaveEU
+#Migration 'putting #EU at grave risk' https://t.co/9iu0NsiYGD","['eu', 'migration', 'brexit', 'noshitsherlock', 'loveeuropeleaveeu']"
+735523543836971008,20550442,positive,other,2016-05-25T17:30:52.000Z,"#BiggotedWoman speaks #Leave
+Gordon who? What a successful PM he was?
+#LoveEuropeLeaveEU #NotBiggoted to #BrExit #EU https://t.co/wgSxui0mCZ","['eu', 'notbiggoted', 'brexit', 'leave', 'biggotedwoman', 'loveeuropeleaveeu']"
+699253683717017600,20550442,negative,other,2016-02-15T15:27:24.000Z,"Sign &amp; RT
+#BrExit is for the #UK to decide to #Leave the #EU, not the #US President
+#LoveEuropeLeaveEU in the #EURef https://t.co/PGuaAfVJjg","['eu', 'us', 'brexit', 'leave', 'euref', 'uk', 'loveeuropeleaveeu']"
+701010304675815424,20550442,neutral,other,2016-02-20T11:47:35.000Z,"Well done @BillCashMP on #BBCNews right now.
 #BrExit #EU #EUCO #EURef
-#LoveEuropeLeaveEU","['euco', 'bbcnews', 'brexit', 'loveeuropeleaveeu', 'euref', 'eu']"
-72,72,72,72,72,72,72,109015,700780069401325568,20550442,neutral,leave,2016-02-19T20:32:43.000Z,"#GO on #Gove you little beauty.
+#LoveEuropeLeaveEU","['euco', 'eu', 'brexit', 'euref', 'bbcnews', 'loveeuropeleaveeu']"
+700780069401325568,20550442,neutral,leave,2016-02-19T20:32:43.000Z,"#GO on #Gove you little beauty.
 #GrassRootsOut
 #BrExit
 #LoveEuropeLeaveEU
 #EU #UK EURef
 #EUCO
-#EUSummit  https://t.co/cIQb8tuSQC","['euco', 'brexit', 'grassrootsout', 'eusummit', 'loveeuropeleaveeu', 'go', 'gove', 'eu', 'uk']"
-73,73,73,73,73,73,73,106897,700730003013705728,20550442,negative,leave,2016-02-19T17:13:46.000Z,"#EUcouncil #EU #EURef #BrExit
+#EUSummit  https://t.co/cIQb8tuSQC","['euco', 'eu', 'eusummit', 'brexit', 'go', 'grassrootsout', 'uk', 'gove', 'loveeuropeleaveeu']"
+700730003013705728,20550442,negative,leave,2016-02-19T17:13:46.000Z,"#EUcouncil #EU #EURef #BrExit
 NO COMPROMISES
 NO SCHENGEN
 NO BENEFITS
@@ -262,400 +333,329 @@ NO EURO
 DEMOCRACY
 CONTROL
 SOVEREIGNTY
-ENGLISH LAW","['eucouncil', 'brexit', 'loveeuropeleaveeu', 'euref', 'eu']"
-74,74,74,74,74,74,74,734582,733925903043047424,20550442,positive,other,2016-05-21T07:42:25.000Z,"Love it #LoveEuropeLeaveEU #BrExit
-#EUistheProblem https://t.co/TwCsmrTLaM","['euistheproblem', 'loveeuropeleaveeu', 'brexit']"
-75,75,75,75,75,75,75,761852,734855570990243840,20550442,neutral,other,2016-05-23T21:16:35.000Z,"@britainelects
-The BT landing page:
- https://t.co/PcvoGsjS6d 
- #LoveEuropeLeaveEU #EUistheProblem #EUref #BrExit https://t.co/kImFSpXewT","['euistheproblem', 'loveeuropeleaveeu', 'brexit', 'euref']"
-76,76,76,76,76,76,76,126574,701109849749377024,20550442,negative,remain,2016-02-20T18:23:08.000Z,"It's the #EU stupid, not #Europe
+ENGLISH LAW","['eucouncil', 'eu', 'brexit', 'euref', 'loveeuropeleaveeu']"
+745365335960883200,252846261,neutral,leave,2016-06-21T21:18:38.000Z,@BorisJohnson gets standing ovation with his #IndependenceDay speech #Brexit #VoteLEAVE #EUref Well done BoJo #LoveEuropeLeaveEU #BBCDebate,"['euref', 'bbcdebate', 'voteleave', 'brexit', 'independenceday', 'loveeuropeleaveeu']"
+701109849749377024,20550442,negative,remain,2016-02-20T18:23:08.000Z,"It's the #EU stupid, not #Europe
 The EU and Europe are not the same thing.
 #LoveEuropeLeaveEU
 #BrExit
-#EUREf https://t.co/IUDxwDTCVx","['euref', 'brexit', 'europe', 'loveeuropeleaveeu', 'eu']"
-77,77,77,77,77,77,77,150552,701702368371593216,20550442,neutral,leave,2016-02-22T09:37:36.000Z,"Hey #Remain, do you really want to be ruled by #JeanClaudeJunker?
-https://t.co/vNmR0REB9p
-#LoveEuropeLeaveEU
-#Vote #Leave #UK #BrExit #EuRef","['euref', 'jeanclaudejunker?', 'brexit', 'loveeuropeleaveeu', 'leave', 'uk', 'remain', 'vote']"
-78,78,78,78,78,78,78,986464,740954613453598720,20550442,positive,other,2016-06-09T17:12:00.000Z,"@AmberRudd_MP @Nigel_Farage
-I read your words and hear Snidey-Snear, Snidey-Snear
-Try and be a nice person
-#LoveEuropeLeaveEU #BrExit #EURef","['euref', 'loveeuropeleaveeu', 'brexit']"
-79,79,79,79,79,79,79,128743,701193318743592960,20550442,positive,other,2016-02-20T23:54:49.000Z,"If true, this is fantastic news.
-#BrExit
-#LoveEuropeLeaveEU
-#EURef https://t.co/zhPWGjdPPN","['euref', 'loveeuropeleaveeu', 'brexit']"
-80,80,80,80,80,80,80,1443356,745580080001388544,730736334252474240,positive,other,2016-06-22T11:31:57.000Z,"@theordinaryman2 @Fight4UK Love Britain, Love Europe, Leave EU :-)
-
-#LoveEuropeLeaveEU
-#EURef #Brexit https://t.co/FIIyFJBOjh","['euref', 'loveeuropeleaveeu', 'brexit']"
-81,81,81,81,81,81,81,1044201,741923330350014464,199320876,positive,remain,2016-06-12T09:21:20.000Z,@David_Cameron's motivation laid bare. Scaring pensioners to stay in his job.  #LoveEuropeLeaveEU #EURef #Brexit https://t.co/S27do7wOLR,"['euref', 'loveeuropeleaveeu', 'brexit']"
-82,82,82,82,82,82,82,1122396,742866683652624384,730736334252474240,neutral,other,2016-06-14T23:49:53.000Z,"@Stop_The_EU @scotpolitik It's the most disingenuous tactic
-
-#LoveEuropeLeaveEU  #EURef #Brexit https://t.co/C2xtb8oBJv","['euref', 'loveeuropeleaveeu', 'brexit']"
-83,83,83,83,83,83,83,1319064,744853120375791616,730736334252474240,positive,remain,2016-06-20T11:23:17.000Z,"@DrTeckKhong They just don't get it, how can we trust them
-
-#LoveEuropeLeaveEU
-
-#EURef #Brexit https://t.co/g9QKseFvEX","['euref', 'loveeuropeleaveeu', 'brexit']"
-84,84,84,84,84,84,84,1237976,743903090747777024,730736334252474240,positive,other,2016-06-17T20:28:12.000Z,"Britons, are you game to exercise your choice to strengthen democracy on 23rd?
-
-#LoveEuropeLeaveEU
-#EURef #Brexit https://t.co/TjDSVUjAIO","['euref', 'loveeuropeleaveeu', 'brexit']"
-85,85,85,85,85,85,85,226408,703949127609139200,20550442,positive,other,2016-02-28T14:25:25.000Z,"Wonderfully put.
-#LoveEuropeLeaveEU
-#BetterOffOut #EURef
-#BrExit https://t.co/SDMLReO1t9","['euref', 'loveeuropeleaveeu', 'brexit', 'betteroffout']"
-86,86,86,86,86,86,86,128868,701202837909479424,20550442,neutral,remain,2016-02-21T00:32:38.000Z,"C'mon #Boris this is your moment to be a part of, and make, history, you were born for this
-#BrExit #LoveEuropeLeaveEU
-#EURef
-@MayorofLondon","['euref', 'loveeuropeleaveeu', 'brexit', 'boris']"
-87,87,87,87,87,87,87,316470,708266723892404224,20550442,positive,leave,2016-03-11T12:22:00.000Z,"#LoveEuropeLeaveEU
-#BrExit vote #LeaveEU in #EURef
-It not only makes sense, but we have God &amp; the Queen on our side https://t.co/UTIdz1Xyk9","['euref', 'loveeuropeleaveeu', 'brexit', 'leaveeu']"
-88,88,88,88,88,88,88,241716,704674018255872000,20550442,neutral,remain,2016-03-01T14:25:52.000Z,"If anyone tries to tell you ANYTHING different to this, they are lying.
-#LoveEuropeLeaveEU
-#BrExit #EURef
-#SaferOut https://t.co/k7rVViN9pS","['euref', 'loveeuropeleaveeu', 'brexit', 'saferout']"
-89,89,89,89,89,89,89,1247296,744087754863222784,730736334252474240,positive,leave,2016-06-18T08:41:59.000Z,"Please join me in my dream, #VoteLeave, spread the message
-
-#LoveEuropeLeaveEU
-#EURef #Brexit https://t.co/0Go1uag3Tw","['euref', 'loveeuropeleaveeu', 'brexit', 'voteleave']"
-90,90,90,90,90,90,90,734207,733915709315682304,720098948736790528,neutral,leave,2016-05-21T07:01:55.000Z,Remainers view of the EU ? #euref #brexit #no2eu #notoeu #voteout #eureform #leaveeu #voteleave #loveeuropeleaveeu https://t.co/N6e9BpTBsb,"['euref', 'no2eu', 'voteout', 'eureform', 'notoeu', 'leaveeu', 'voteleave', 'brexit', 'loveeuropeleaveeu']"
-91,91,91,91,91,91,91,1494496,745807481134252032,252846261,neutral,leave,2016-06-23T02:35:34.000Z,Time to take the rubbish out #VoteLEAVE #Brexit #Euref #LoveEuropeLeaveEU https://t.co/MfBjyzNxt2,"['euref', 'voteleave', 'loveeuropeleaveeu', 'brexit']"
-92,92,92,92,92,92,92,463404,719578263505514496,3135565264,positive,leave,2016-04-11T17:30:01.000Z,"We cant leave #Europe but can #LeaveEU
-
-#EUReferendum #LeaveEU #LoveEuropeLeaveEU #Brexit #StrongerIn https://t.co/TAXFMOhXo4","['eureferendum', 'europe', 'brexit', 'loveeuropeleaveeu', 'leaveeu', 'strongerin']"
-93,93,93,93,93,93,93,785608,735575155179724800,4867233244,negative,remain,2016-05-25T20:55:57.000Z,Frustrating that #StrongerIn continues to confuse #Europe with the #EU. #LoveEuropeLeaveEU #LabourInForBritain #LeaveEU #BREXIT #Vote_Leave,"['europe', 'loveeuropeleaveeu', 'labourinforbritain', 'voteleave', 'eu', 'brexit', 'leaveeu', 'strongerin']"
-94,94,94,94,94,94,94,316503,708267691128307712,20550442,neutral,other,2016-03-11T12:25:51.000Z,"@BreitbartLondon
-Outside of their subject, Scientists can't even tie their own shoelaces
-#LoveEuropeLeaveEU
-#EuropeIsNotTheEU
-#BrExit","['europeisnottheeu', 'loveeuropeleaveeu', 'brexit']"
-95,95,95,95,95,95,95,316495,708267484374310912,20550442,neutral,other,2016-03-11T12:25:01.000Z,"Outside of their subject, Scientists can't even tie their own shoelaces
-#LoveEuropeLeaveEU
-#EuropeIsNotTheEU
-#BrExit https://t.co/qF9hM7uvmK","['europeisnottheeu', 'loveeuropeleaveeu', 'brexit']"
-96,96,96,96,96,96,96,1233767,743848499645714432,730736334252474240,positive,other,2016-06-17T16:51:17.000Z,"@A_Liberty_Rebel RT if you love Europe 
-
-#LoveEuropeLeaveEU 
-#EuropeNotEU
-
-#EURef #Brexit https://t.co/rq7OPoeg3R","['europenoteu', 'euref', 'loveeuropeleaveeu', 'brexit']"
-97,97,97,97,97,97,97,1233716,743847731345633280,730736334252474240,positive,other,2016-06-17T16:48:13.000Z,"@theordinaryman2 RT if you love Europe 
-
-#LoveEuropeLeaveEU 
-#EuropeNotEU
-
-#EURef #Brexit https://t.co/lCMMFzwiAn","['europenoteu', 'euref', 'loveeuropeleaveeu', 'brexit']"
-98,98,98,98,98,98,98,897406,739090727993548800,20550442,negative,other,2016-06-04T13:45:35.000Z,"#EdwinaCurry you are an utter disgrace you hideous old #Europhile ratbag
-#LoveEuropeLeaveEU
-#BrExit #VoteLeave https://t.co/vbyNnjg50W","['europhile', 'voteleave', 'brexit', 'loveeuropeleaveeu', 'edwinacurry']"
-99,99,99,99,99,99,99,897439,739091663658881024,20550442,negative,other,2016-06-04T13:49:18.000Z,"#EdwinaCurrie you are an utter disgrace you hideous old #Europhile ratbag
-#LoveEuropeLeaveEU
-#BrExit #VoteLeave https://t.co/vbyNnjg50W","['europhile', 'voteleave', 'edwinacurrie', 'brexit', 'loveeuropeleaveeu']"
-100,100,100,100,100,100,100,497514,721440399328456704,3135565264,neutral,leave,2016-04-16T20:49:29.000Z,"#Europe Does Not Need the #EU
-
-#LoveEuropeLeaveEU
-
- #EUReferendum #VoteLeave #Brexit #StrongerIn #No2EU #EUspring https://t.co/NRCk7NWvVa","['euspring', 'voteleave', 'eureferendum', 'europe', 'loveeuropeleaveeu', 'brexit', 'eu', 'no2eu', 'strongerin']"
-101,101,101,101,101,101,101,444736,717992349587152896,20550442,negative,leave,2016-04-07T08:28:10.000Z,"#BrExit #NExit #IndependenceDay
-#LoveEuropeLeaveEU
-#EverCloserUnion No Thanks
-#Dutch voters reject #EU-#Ukraine deal https://t.co/PeFIWzjnc5","['evercloserunion', 'brexit', 'loveeuropeleaveeu', 'independenceday', 'dutch', 'eu-#ukraine', 'nexit']"
-102,102,102,102,102,102,102,311417,707992065951580160,20550442,neutral,other,2016-03-10T18:10:37.000Z,"#DavidCameron hasn't read this, has he?
-https://t.co/Yl0JGVlQHN
-#LoveEuropeLeaveEU
-#BrExit #EURef
-#EverCloserUnion https://t.co/jEyctMt006","['evercloserunion', 'davidcameron', 'brexit', 'loveeuropeleaveeu', 'euref']"
-103,103,103,103,103,103,103,142298,701518110956847104,20550442,positive,other,2016-02-21T21:25:25.000Z,"Loving the 'Exporting is Great' TV ad.
-Wonderful timing. Global market, not #EU
-#BrExit #LoveEuropeLeaveEU
-#ExportingIsGreat","['exportingisgreat', 'eu', 'loveeuropeleaveeu', 'brexit']"
-104,104,104,104,104,104,104,1438239,745563568116998144,4341159929,positive,leave,2016-06-22T10:26:21.000Z,"""British voters who want to Brexit are not alone""
-
-#Brexit #Nexit #Fexit #LoveEuropeLeaveEU #VoteLeave #GeenPeil https://t.co/cP90tLwZ8P","['fexit', 'voteleave', 'loveeuropeleaveeu', 'brexit', 'nexit', 'geenpeil']"
-105,105,105,105,105,105,105,137046,701440546963898368,20550442,neutral,other,2016-02-21T16:17:13.000Z,"""..our country would be #Freer #Fairer and #BetterOff outside the #EU"" #MichaelGove
-#LoveEuropeLeaveEU
-#BrExit
-#EURef","['freer', 'brexit', 'loveeuropeleaveeu', 'betteroff', 'euref', 'michaelgove', 'fairer', 'eu']"
-106,106,106,106,106,106,106,85545,699718334430973952,3135565264,positive,leave,2016-02-16T22:13:45.000Z,"I support #GrassrootsOut ...do you ?
-
-#VoteLeave #EURef #StrongerIn #LoveEuropeLeaveEU #Brexit #EUdeal https://t.co/HL6ZmCiYXH","['grassrootsout', 'voteleave', 'eudeal', 'loveeuropeleaveeu', 'brexit', 'euref', 'strongerin']"
-107,107,107,107,107,107,107,24485,690960938854408192,3135565264,neutral,leave,2016-01-23T18:14:59.000Z,"I'm Turning my back on the #EU
-
-#LoveEuropeLeaveEU #GrassrootsOut #LeaveEU #EURef #VoteLeave #Brexit https://t.co/EXQqrs3Pl4","['grassrootsout', 'voteleave', 'loveeuropeleaveeu', 'brexit', 'euref', 'leaveeu', 'eu']"
-108,108,108,108,108,108,108,54982,695725855184654336,3135565264,positive,other,2016-02-05T21:49:04.000Z,"I love my country thats why I support #GrassrootsOut
-
-#LoveEuropeLeaveEU #EURef #VoteLeave #Brexit #StrongerIn  https://t.co/x1jvo6e4r2","['grassrootsout', 'voteleave', 'loveeuropeleaveeu', 'brexit', 'euref', 'strongerin']"
-109,109,109,109,109,109,109,224550,703883463338946560,2308475768,positive,other,2016-02-28T10:04:29.000Z,Well said #IainDuncanSmith why does this country find it hard to here the truth admire his plain speaking  #marr #Brexit #LoveEuropeLeaveEU,"['iainduncansmith', 'loveeuropeleaveeu', 'brexit', 'marr']"
-110,110,110,110,110,110,110,729465,733677447158333440,20550442,positive,leave,2016-05-20T15:15:09.000Z,"#BrExit #LoveEuropeLeaveEU #IndependenceDay #EURef
-The Last of the Few: Stunning photographs of Spitfires in flight
-https://t.co/6TjJEM5d5b","['independenceday', 'euref', 'loveeuropeleaveeu', 'brexit']"
-111,111,111,111,111,111,111,193851,702595680548868096,3135565264,neutral,leave,2016-02-24T20:47:18.000Z,"Reasons to #LeaveEU
-
-#Turkey 
-
-#EUreferendum #InorOUT #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/9uZnib2CQF","['inorout', 'voteleave', 'loveeuropeleaveeu', 'brexit', 'turkey', 'eureferendum', 'leaveeu', 'strongerin']"
-112,112,112,112,112,112,112,31390,692375760364027904,20550442,negative,remain,2016-01-27T15:56:59.000Z,"Sounds like the #Irish don't want a #UK #EU #BrExit so don't be fooled by propaganda from #Eire
-#LoveEuropeLeaveEU
-https://t.co/PoarpiGk4O","['irish', 'brexit', 'loveeuropeleaveeu', 'eire', 'eu', 'uk']"
-113,113,113,113,113,113,113,1255411,744180706704822272,1347795974,neutral,other,2016-06-18T14:51:21.000Z,"@LOcurrency @nonwatcyn 
-Not in my kitchen. 
-Mine's the full Welsh - with #Laverbread from Parsons of Burry Port!
-#LoveEuropeLeaveEU
-#Brexit","['laverbread', 'brexit', 'loveeuropeleaveeu']"
-114,114,114,114,114,114,114,57112,696268189882261504,20550442,positive,other,2016-02-07T09:44:07.000Z,"#Bollox #Bollocks #Bolleaux
-Utter tripe from #TheTimes
-It is the spirit of MT that drives BrExit
-#LoveEuropeLeaveEU https://t.co/KQSxwu8jWw","['loveeuropeleaveeu', 'bollox', 'bollocks', 'bolleaux', 'thetimes']"
-115,115,115,115,115,115,115,630149,729800901238497280,199320876,neutral,leave,2016-05-09T22:31:08.000Z,"June 23rd: Independence Day UK 
-#LoveEuropeLeaveEU #Brexit https://t.co/sijYnW3wHx","['loveeuropeleaveeu', 'brexit']"
-116,116,116,116,116,116,116,51709,695390535196893184,20550442,positive,leave,2016-02-04T23:36:37.000Z,"Not worried #BrExit
-#LoveEuropeLeaveEU https://t.co/0YSznSpife","['loveeuropeleaveeu', 'brexit']"
-117,117,117,117,117,117,117,1512784,745884397136674816,250768085,positive,leave,2016-06-23T07:41:12.000Z,Britain needs to forge its own path in the world. We can leave the EU and do this. For the good of the nation #Brexit #LoveEuropeLeaveEU,"['loveeuropeleaveeu', 'brexit']"
-118,118,118,118,118,118,118,468167,719850506991099904,2308475768,negative,other,2016-04-12T11:31:49.000Z,Stress relief 2day tearing this up   No thks @David_Cameron in2 bin it goes #Brexit  @NoThanksEU #LoveEuropeLeaveEU https://t.co/hQ3iUmnYks,"['loveeuropeleaveeu', 'brexit']"
-119,119,119,119,119,119,119,71134,698145361614020608,20229729,positive,leave,2016-02-12T14:03:19.000Z,Great article by @LouiseMensch explaining reasons why Britain should choose #Brexit #LoveEuropeLeaveEU https://t.co/8Tezcyvsfd @vote_leave,"['loveeuropeleaveeu', 'brexit']"
-120,120,120,120,120,120,120,20067,690110278978125824,20550442,neutral,remain,2016-01-21T09:54:46.000Z,"#BrExit is non party political, its common sense. #LoveEurope#LeaveEU https://t.co/l7vZVDFQIS","['loveeuropeleaveeu', 'brexit']"
-121,121,121,121,121,121,121,79285,699258079729291264,3135565264,positive,leave,2016-02-15T15:44:52.000Z,"#LoveEuropeLeaveEU
-Britain will be free soon to rule &amp; runs its own Country....
-
-#LeaveEU #EURef #StrongerIn #Brexit https://t.co/ydgEpwkmAB","['loveeuropeleaveeu', 'brexit', 'euref', 'leaveeu', 'strongerin']"
-122,122,122,122,122,122,122,286728,706933539296681984,3135565264,negative,leave,2016-03-07T20:04:24.000Z,"RT ...if you say 
-
-NO THANK #EU
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/yd9L5szQTM","['loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-123,123,123,123,123,123,123,181505,702233897598320640,3135565264,positive,leave,2016-02-23T20:49:42.000Z,"Britain can &amp; needs to do better as #EU declines
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/OjLhV9njJN","['loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-124,124,124,124,124,124,124,269817,705886278156476416,3135565264,neutral,leave,2016-03-04T22:42:58.000Z,"The #INCampaign are clutching at ""straws"" ....
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #No2EU #LoveEuropeLeaveEU https://t.co/II2t1ywCoc","['loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'incampaign', 'no2eu', 'strongerin']"
-125,125,125,125,125,125,125,377043,712543460327301120,3135565264,negative,leave,2016-03-23T07:36:14.000Z,"you cant reform something that doesnt want reforming 
-
-#LoveEuropeLeaveEU #EUreferendum #LeaveEU #StrongerIn #Brexit https://t.co/84yZz5NG7n","['loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-126,126,126,126,126,126,126,350696,710668845942509568,701101238499278848,neutral,leave,2016-03-18T03:27:11.000Z,#EUreferendum #UK #Brexit Common Agricultural Policy #LoveEuropeLeaveEU @Farmers4Britain @Labour4Animals https://t.co/QYReyd3bn2,"['loveeuropeleaveeu', 'brexit', 'eureferendum', 'uk']"
-127,127,127,127,127,127,127,1256233,744192508234711040,2308475768,negative,other,2016-06-18T15:38:15.000Z,Senior defence chief Lord Guthrie switches sides in #Brexit battle #Leave #LoveEuropeLeaveEU https://t.co/cImJGwOQHZ,"['loveeuropeleaveeu', 'brexit', 'leave']"
-128,128,128,128,128,128,128,212731,703337539718025216,20550442,negative,other,2016-02-26T21:55:11.000Z,"In a Nutshell
-#LoveEuropeLeaveEU
-Revealed: The #Brexit supporter who shocked the #QuestionTime panel https://t.co/0CuKUypQ8U","['loveeuropeleaveeu', 'brexit', 'questiontime']"
-129,129,129,129,129,129,129,234362,704317863528632320,20550442,neutral,leave,2016-02-29T14:50:38.000Z,"Go on #Remain'ers, have a go.
-#LoveEuropeLeaveEU
-#BrExit https://t.co/pZOxtGp6kr","['loveeuropeleaveeu', 'brexit', 'remainers']"
-130,130,130,130,130,130,130,588914,726443737040183296,2308475768,neutral,leave,2016-04-30T16:10:58.000Z,@David_Cameron that's truly #ScrapingTheBarrel #Brexit #LoveEuropeLeaveEU   https://t.co/B64QcO3yVQ,"['loveeuropeleaveeu', 'brexit', 'scrapingthebarrel']"
-131,131,131,131,131,131,131,844320,737775969264631808,199320876,positive,other,2016-05-31T22:41:12.000Z,ICM BREXIT POLL: A seismic shift in favour of Leave just happened. &lt;3 Democracy https://t.co/MjfRkkM4IN #britainandeurope #LoveEuropeLeaveEU,"['loveeuropeleaveeu', 'britainandeurope']"
-132,132,132,132,132,132,132,198059,702800374906933248,20550442,neutral,other,2016-02-25T10:20:41.000Z,"There are many reasons for #BrExit, this is just one.
-#LoveEuropeLeaveEU
-Annual #UK net #migration is 323,000 https://t.co/ZbMuPXBUNh","['migration', 'loveeuropeleaveeu', 'uk', 'brexit']"
-133,133,133,133,133,133,133,888585,738804437381206016,20550442,neutral,leave,2016-06-03T18:47:58.000Z,"#InorOut #VoteLeave
-#BrExit and #MichaelGove for the next #PrimeMinister #LoveEuropeLeaveEU","['primeminister', 'brexit', 'voteleave', 'loveeuropeleaveeu', 'inorout', 'michaelgove']"
-134,134,134,134,134,134,134,241106,704651132522651648,20550442,negative,other,2016-03-01T12:54:56.000Z,"#BBCBias #ProEUBias #ProEU
-#LoveEuropeLeaveEU
-#BrExit #EURef #UK
-The millions in #EU funding the #BBC tried to hide https://t.co/eVkdIMkoVQ","['proeu', 'brexit', 'bbc', 'loveeuropeleaveeu', 'euref', 'proeubias', 'bbcbias', 'eu', 'uk']"
-135,135,135,135,135,135,135,434789,717278450239848448,20550442,neutral,remain,2016-04-05T09:11:23.000Z,"#ProjectFear #Remain lies
-#LoveEuropeLeaveEU #BetterOffOut
-#BrExit #EURef #IndependenceDay
-#23rdJune https://t.co/PLoPWqaFgG","['remain', 'brexit', 'loveeuropeleaveeu', 'betteroffout', 'independenceday', '23rdjune', 'euref', 'projectfear']"
-136,136,136,136,136,136,136,795295,735922426429739008,20550442,negative,remain,2016-05-26T19:55:53.000Z,"@StrongerIn
-Honesty from #Leave - it might seem a bit strange to you at #Remain - honesty, that is.
-#LoveEuropeLeaveEU #BrExit
-#BBCDebate","['remain', 'brexit', 'loveeuropeleaveeu', 'leave', 'bbcdebate']"
-137,137,137,137,137,137,137,273883,706172206972346368,20550442,negative,remain,2016-03-05T17:39:08.000Z,"And some people might still vote #Remain
-How could they not want this?
-#LoveEuropeLeaveEU
-#BrExit
-#EURef https://t.co/JNvRdqHe7v","['remain', 'euref', 'loveeuropeleaveeu', 'brexit']"
-138,138,138,138,138,138,138,242011,704685700776632320,20550442,neutral,remain,2016-03-01T15:12:18.000Z,"Oh crikey!
-#Remain are one-trick ponies, aren't they?
-#LoveEuropeLeaveEU
-#BrExit #EURef https://t.co/RVJozfmVRu","['remain', 'euref', 'loveeuropeleaveeu', 'brexit']"
-139,139,139,139,139,139,139,480351,720338668632694784,3135565264,neutral,leave,2016-04-13T19:51:36.000Z,"#Europe does not need the #EuropeanUnion
-
-#LoveEuropeLeaveEU #Voteleave #EUspring #Brexit #No2EU #Remain https://t.co/h2t1Aiket9","['remain', 'euspring', 'loveeuropeleaveeu', 'europe', 'voteleave', 'brexit', 'europeanunion', 'no2eu']"
-140,140,140,140,140,140,140,361786,711600673972953088,3135565264,positive,other,2016-03-20T17:09:56.000Z,"Do you want to be governed by UK or dictated to by #EU
-
-#LoveEuropeLeaveEU #EUreferendum #LeaveEU #Remain #Brexit https://t.co/PhyZTaYBxd","['remain', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu']"
-141,141,141,141,141,141,141,500788,721708928694923264,3135565264,negative,leave,2016-04-17T14:36:31.000Z,"It's time to #Leave &amp; take our place as a truly global citizen
-
-#LoveEuropeLeaveEU #EURef #LeaveEU #Brexit #remain https://t.co/UIyrS0MYYq","['remain', 'loveeuropeleaveeu', 'brexit', 'leave', 'euref', 'leaveeu']"
-142,142,142,142,142,142,142,1152178,743097138448629760,53027368,negative,leave,2016-06-15T15:05:38.000Z,#EUref Power grab+bills start wef 24 June #Brexit #Lexit #Leave #Remain #BritainStrongerInEurope #LoveEuropeLeaveEU https://t.co/2qP93jHHfh,"['remain', 'loveeuropeleaveeu', 'brexit', 'leave', 'lexit', 'britainstrongerineurope', 'euref']"
-143,143,143,143,143,143,143,1130858,742973905317597184,3135565264,negative,other,2016-06-15T06:55:57.000Z,"#British Farmers has nothing to fear from #Brexit
-
-#VoteLeave #Remain #InOrOut #Euref #LoveEuropeLeaveEU https://t.co/VHMMDEG6v3","['remain', 'voteleave', 'british', 'euref', 'loveeuropeleaveeu', 'brexit', 'inorout']"
-144,144,144,144,144,144,144,458887,719167721930420224,3135565264,neutral,leave,2016-04-10T14:18:41.000Z,"I'm voting to #LeaveEU ?
-
-Retweet.... if you are too
-
-#EUReferendum #VoteLeave #Brexit #Remain #LoveEuropeLeaveEU https://t.co/kKDYu3CJ96","['remain', 'voteleave', 'eureferendum', 'loveeuropeleaveeu', 'brexit', 'leaveeu']"
-145,145,145,145,145,145,145,1348754,745007850137739264,3135565264,positive,leave,2016-06-20T21:38:07.000Z,"We can't Leave #Europe but we can #LeaveEU
-
-#EURef #VoteLeave #Brexit #Remain #InOrOut #Labour #LoveEuropeLeaveEU https://t.co/R9XG6cn9sd","['remain', 'voteleave', 'europe', 'brexit', 'loveeuropeleaveeu', 'euref', 'inorout', 'leaveeu', 'labour']"
-146,146,146,146,146,146,146,314508,708205839820181504,3135565264,neutral,leave,2016-03-11T08:20:04.000Z,"the #EU is not #Europe
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave 
-#Remain #InOrOUT #LoveEuropeLeaveEU https://t.co/pTm4AXqxs6","['remain', 'voteleave', 'europe', 'brexit', 'loveeuropeleaveeu', 'inorout', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-147,147,147,147,147,147,147,70557,698076134357995520,20550442,neutral,leave,2016-02-12T09:28:14.000Z,"#BrExit for the #UK vote #LeaveEU in the #EURef #GrassRootsOut #SayNoToEU
-#BetterOffOut
-#LoveEuropeLeaveEU https://t.co/WHL7OMihSa","['saynotoeu', 'brexit', 'grassrootsout', 'betteroffout', 'loveeuropeleaveeu', 'euref', 'leaveeu', 'uk']"
-148,148,148,148,148,148,148,69214,697865983671803904,20550442,negative,remain,2016-02-11T19:33:10.000Z,#LoveEuropeLeaveEU #BrExit #Leave the #EU now #SayNoToEU #GrassRootsOut https://t.co/wZzCLT3ceZ,"['saynotoeu', 'brexit', 'grassrootsout', 'loveeuropeleaveeu', 'leave', 'eu']"
-149,149,149,149,149,149,149,222513,703758425755410432,3135565264,neutral,leave,2016-02-28T01:47:38.000Z,"A vote to #StayinEU is a vote for #TTIP
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/NZ2YWK5uEk","['stayineu', 'voteleave', 'loveeuropeleaveeu', 'brexit', 'ttip', 'eureferendum', 'leaveeu', 'strongerin']"
-150,150,150,150,150,150,150,760076,734808376262184960,20550442,negative,remain,2016-05-23T18:09:03.000Z,"#ProjectFear #LoveEuropeLeaveEU #EURef #BrExit #EUIstheProblem
-#LeaveEU
-#Sturgeon warns against #EU fear tactics https://t.co/Gxn4tRTl75","['sturgeon', 'brexit', 'euistheproblem', 'loveeuropeleaveeu', 'euref', 'leaveeu', 'eu', 'projectfear']"
-151,151,151,151,151,151,151,210903,703272277123723264,53027368,neutral,remain,2016-02-26T17:35:51.000Z,#EUref Now Dutch want own #EUreferendum +Czechs say might leave https://t.co/sTp4EDcbUi NOTE #Brexit is #UK's affair! #LoveEuropeLeaveEU #EU,"[""uk's"", 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'eu', 'euref']"
-152,152,152,152,152,152,152,35981,693385594400043008,20550442,positive,leave,2016-01-30T10:49:42.000Z,"#BrExit #LoveEuropeLeaveEU
-#BetterOffOut #GrassRootsOut #UKIP #EU @UKIP @UkipBexley @UKIPHQ 
-PLEASE SHARE https://t.co/hQUBWyZTQq","['ukip', 'brexit', 'grassrootsout', 'loveeuropeleaveeu', 'betteroffout', 'eu']"
-153,153,153,153,153,153,153,262289,705524602311680000,3135565264,neutral,leave,2016-03-03T22:45:47.000Z,"Im voting to #LeaveEU
-
-#EUreferendum #bbcqt #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/KheQCI3neQ","['voteleave', 'bbcqt', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-154,154,154,154,154,154,154,607417,728292216616067072,2254037612,negative,leave,2016-05-05T18:36:10.000Z,It seems the battle of hashtags! In the #Brexit corner you have #notoeu #betteroffout #VoteLeave #LoveEuropeLeaveEU - did we miss any? (1/2),"['voteleave', 'betteroffout', 'loveeuropeleaveeu', 'brexit', 'notoeu']"
-155,155,155,155,155,155,155,336093,709652034241298432,3135565264,positive,leave,2016-03-15T08:06:44.000Z,"#Bradford supports #VoteLeave 
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/jOzG52QeGi","['voteleave', 'bradford', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-156,156,156,156,156,156,156,558872,724502045416382464,20550442,neutral,leave,2016-04-25T07:35:22.000Z,"Unless we #BrExit and take control
-#VoteLeave #EURef
-#LoveEurope#LeaveEU
-#UK facing #migration 'free-for-all' - Gove https://t.co/eb6J697pHD","['voteleave', 'brexit', 'loveeuropeleaveeu', 'euref', 'migration', 'uk']"
-157,157,157,157,157,157,157,773203,735172298534060032,20550442,neutral,leave,2016-05-24T18:15:09.000Z,#YoofVote Patronising never really works though.  #LoveEuropeLeaveEU #VoteLeave on #23rdJune in the #EURef #BrExit https://t.co/tlor7bmbBR,"['voteleave', 'brexit', 'loveeuropeleaveeu', 'yoofvote', '23rdjune', 'euref']"
-158,158,158,158,158,158,158,1254607,744169283165511680,3135565264,neutral,leave,2016-06-18T14:05:57.000Z,"5 days to go....
-
-RT if you believe #VoteLeave will win
-
-#Euref #LeaveEU #InOrOut #StayIn #Brexit #LoveEuropeLeaveEU https://t.co/bk1H6mamZT","['voteleave', 'euref', 'loveeuropeleaveeu', 'brexit', 'stayin', 'inorout', 'leaveeu']"
-159,159,159,159,159,159,159,670900,731442204053360640,3135565264,neutral,leave,2016-05-14T11:13:05.000Z,"#Europe Doesn't need the #EU
-
-#EUReferendum #LoveEuropeLeaveEU #VoteLeave #Brexit #StrongerIn https://t.co/b6GfeN8ciS","['voteleave', 'eureferendum', 'europe', 'loveeuropeleaveeu', 'brexit', 'eu', 'strongerin']"
-160,160,160,160,160,160,160,639590,730290552818827264,3135565264,positive,leave,2016-05-11T06:56:50.000Z,"We cant leave #Europe but we can #LeaveEU
-
-#EUReferendum #LoveEuropeLeaveEU #VoteLeave #Brexit #StrongerIn https://t.co/9R7KxNa6rp","['voteleave', 'eureferendum', 'europe', 'loveeuropeleaveeu', 'brexit', 'leaveeu', 'strongerin']"
-161,161,161,161,161,161,161,644622,730483620457136128,3135565264,neutral,leave,2016-05-11T19:44:01.000Z,"A vote to #LeaveEU is a vote for #Britain
-
-#EUReferendum #LoveEuropeLeaveEU #VoteLeave #Brexit #StrongerIn https://t.co/KFghOXW0ie","['voteleave', 'eureferendum', 'loveeuropeleaveeu', 'brexit', 'leaveeu', 'britain', 'strongerin']"
-162,162,162,162,162,162,162,513476,722318159026503680,3135565264,neutral,leave,2016-04-19T06:57:23.000Z,"Check out my You Tube channel
-
-#EUReferendum #LeaveEU #VoteLeave #Brexit #StrongerIn #LoveEuropeLeaveEU 
-https://t.co/5bcNoPcgCn","['voteleave', 'eureferendum', 'loveeuropeleaveeu', 'brexit', 'leaveeu', 'strongerin']"
-163,163,163,163,163,163,163,588704,726419774784286720,3135565264,neutral,leave,2016-04-30T14:35:45.000Z,"Who is in charge of our Country ?
-
-#LoveEuropeLeaveEU #EUReferendum #VoteLeave #Brexit #StrongerIn https://t.co/5UEWapzniN","['voteleave', 'eureferendum', 'loveeuropeleaveeu', 'brexit', 'strongerin']"
-164,164,164,164,164,164,164,622541,729569759092682752,3135565264,neutral,leave,2016-05-09T07:12:39.000Z,"Britain's Future is a global future
-
-#VoteLeave
-
-#EUReferendum #LoveEuropeLeaveEU #Brexit #StrongerIn https://t.co/vXLKZupZ0J","['voteleave', 'eureferendum', 'loveeuropeleaveeu', 'brexit', 'strongerin']"
-165,165,165,165,165,165,165,681094,731793677534777344,3135565264,neutral,leave,2016-05-15T10:29:43.000Z,"Re-tweet if you think the #EU will be history by 2020 ?
-
-#loveEuropeLeaveEU #VoteLeave #Brexit #remain #EUReferendum https://t.co/zGyMpBEfak","['voteleave', 'eureferendum', 'remain', 'brexit', 'eu', 'loveeuropeleaveeu']"
-166,166,166,166,166,166,166,205850,703119074188881920,3135565264,positive,leave,2016-02-26T07:27:05.000Z,"#Europe YES #EU NO
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/CRbwoubeQC","['voteleave', 'europe', 'brexit', 'loveeuropeleaveeu', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-167,167,167,167,167,167,167,394176,713989185040990208,3135565264,positive,leave,2016-03-27T07:21:01.000Z,"We cant Leave #Europe but we can #LeaveEU
-
-#EUreferendum #VoteLeave #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/qmRZ7bSqPf","['voteleave', 'europe', 'brexit', 'loveeuropeleaveeu', 'eureferendum', 'leaveeu', 'strongerin']"
-168,168,168,168,168,168,168,346847,710371300896808960,3135565264,positive,leave,2016-03-17T07:44:50.000Z,"We cant leave #Europe but we can #LeaveEU
-
-#LoveEuropeLeaveEU #EUreferendum  #StrongerIn #Brexit #VoteLeave https://t.co/uBteT49bIi","['voteleave', 'europe', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-169,169,169,169,169,169,169,391695,713719201299611648,3135565264,positive,leave,2016-03-26T13:28:12.000Z,"We cant Leave #Europe but we can #LeaveEU
-
-#LoveEuropeLeaveEU #EUreferendum #VoteLeave #StrongerIn #Brexit https://t.co/SjGdUjOkkz","['voteleave', 'europe', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-170,170,170,170,170,170,170,323932,708794191812366336,3135565264,neutral,leave,2016-03-12T23:17:58.000Z,"The #EU is not #Europe
-
-#LoveEuropeLeaveEU #EUreferendum #LeaveEU
- #StrongerIn #Brexit #VoteLeave #Reamain #INorOUT https://t.co/C6Xzru3hjI","['voteleave', 'europe', 'loveeuropeleaveeu', 'brexit', 'inorout', 'reamain', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-171,171,171,171,171,171,171,124943,701069146436595712,3135565264,neutral,leave,2016-02-20T15:41:24.000Z,"#LoveEuropeLeaveEU
-
-It's Time for #Brexit &amp; time to stand up to #EU
-
-#EUreferendum #VoteLeave #LeaveEU #BetterOffOut https://t.co/UinwD0Y6p9","['voteleave', 'loveeuropeleaveeu', 'brexit', 'betteroffout', 'eureferendum', 'leaveeu', 'eu']"
-172,172,172,172,172,172,172,211210,703282795595112448,3135565264,negative,leave,2016-02-26T18:17:39.000Z,"My Name is ""Billy Liar"" #cameron
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/V9iuMmbtwZ","['voteleave', 'loveeuropeleaveeu', 'brexit', 'cameron', 'eureferendum', 'leaveeu', 'strongerin']"
-173,173,173,173,173,173,173,9281,686513300243378176,53027368,positive,leave,2016-01-11T11:41:40.000Z,#EU's cunning plan to avoid #Brexit - De Spiegel #UK #EUreferendum #EUref #LoveEuropeLeaveEU #LeaveEU #VoteLeave https://t.co/iypk7IO7f8,"['voteleave', 'loveeuropeleaveeu', 'brexit', ""eu's"", 'eureferendum', 'leaveeu', 'uk', 'euref']"
-174,174,174,174,174,174,174,150988,701705842236768256,3135565264,positive,leave,2016-02-22T09:51:24.000Z,"Britain Needs to Be Free 
+#EUREf https://t.co/IUDxwDTCVx","['euref', 'eu', 'brexit', 'europe', 'loveeuropeleaveeu']"
+688660698096885760,53027368,neutral,leave,2016-01-17T09:54:39.000Z,#EU What #Brexit can do for #Britain +the world #EUreferendum #EUref #LoveEuropeLeaveEU #VoteLeave #LeaveEU https://t.co/z1SYyj79Tc @LeaveEU,"['euref', 'eureferendum', 'eu', 'leaveeu', 'brexit', 'britain', 'voteleave', 'loveeuropeleaveeu']"
+703272277123723264,53027368,neutral,remain,2016-02-26T17:35:51.000Z,#EUref Now Dutch want own #EUreferendum +Czechs say might leave https://t.co/sTp4EDcbUi NOTE #Brexit is #UK's affair! #LoveEuropeLeaveEU #EU,"['euref', 'eureferendum', 'eu', ""uk's"", 'brexit', 'loveeuropeleaveeu']"
+701705842236768256,3135565264,positive,leave,2016-02-22T09:51:24.000Z,"Britain Needs to Be Free 
 
 #VoteLeave in #EUreferendum
 
-#LeaveEU #StrongerIn #Brexit #EUref #LoveEuropeLeaveEU https://t.co/7XfQ9fe4IT","['voteleave', 'loveeuropeleaveeu', 'brexit', 'euref', 'eureferendum', 'leaveeu', 'strongerin']"
-175,175,175,175,175,175,175,79865,699294506122919936,3135565264,neutral,leave,2016-02-15T18:09:37.000Z,"UK needs out of the #EuropeanUnion before it collapses
+#LeaveEU #StrongerIn #Brexit #EUref #LoveEuropeLeaveEU https://t.co/7XfQ9fe4IT","['euref', 'eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+686513300243378176,53027368,positive,leave,2016-01-11T11:41:40.000Z,#EU's cunning plan to avoid #Brexit - De Spiegel #UK #EUreferendum #EUref #LoveEuropeLeaveEU #LeaveEU #VoteLeave https://t.co/iypk7IO7f8,"['euref', 'eureferendum', 'leaveeu', ""eu's"", 'brexit', 'voteleave', 'uk', 'loveeuropeleaveeu']"
+743097138448629760,53027368,negative,leave,2016-06-15T15:05:38.000Z,#EUref Power grab+bills start wef 24 June #Brexit #Lexit #Leave #Remain #BritainStrongerInEurope #LoveEuropeLeaveEU https://t.co/2qP93jHHfh,"['euref', 'lexit', 'brexit', 'remain', 'leave', 'britainstrongerineurope', 'loveeuropeleaveeu']"
+731968537028374528,3135565264,neutral,leave,2016-05-15T22:04:33.000Z,"Your vote in the #EUreferendum will define our generation &amp; the next
+
+#LoveEuropeLeaveEU #Brexit #VoteLeave #No2EU https://t.co/0cZEPdPtV0","['eureferendum', 'brexit', 'voteleave', 'no2eu', 'loveeuropeleaveeu']"
+703608588326014976,3135565264,negative,leave,2016-02-27T15:52:14.000Z,"NO THANK #EU !
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave 
+#LoveEuropeLeaveEU #UKIPSpring #BetterOffOUT https://t.co/E075xX36x3","['eureferendum', 'eu', 'leaveeu', 'betteroffout', 'ukipspring', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+701069146436595712,3135565264,neutral,leave,2016-02-20T15:41:24.000Z,"#LoveEuropeLeaveEU
+
+It's Time for #Brexit &amp; time to stand up to #EU
+
+#EUreferendum #VoteLeave #LeaveEU #BetterOffOut https://t.co/UinwD0Y6p9","['eureferendum', 'eu', 'leaveeu', 'brexit', 'betteroffout', 'voteleave', 'loveeuropeleaveeu']"
+703119074188881920,3135565264,positive,leave,2016-02-26T07:27:05.000Z,"#Europe YES #EU NO
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/CRbwoubeQC","['eureferendum', 'eu', 'leaveeu', 'brexit', 'europe', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+711600673972953088,3135565264,positive,other,2016-03-20T17:09:56.000Z,"Do you want to be governed by UK or dictated to by #EU
+
+#LoveEuropeLeaveEU #EUreferendum #LeaveEU #Remain #Brexit https://t.co/PhyZTaYBxd","['eureferendum', 'eu', 'leaveeu', 'brexit', 'remain', 'loveeuropeleaveeu']"
+706933539296681984,3135565264,negative,leave,2016-03-07T20:04:24.000Z,"RT ...if you say 
+
+NO THANK #EU
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/yd9L5szQTM","['eureferendum', 'eu', 'leaveeu', 'brexit', 'strongerin', 'loveeuropeleaveeu']"
+702233897598320640,3135565264,positive,leave,2016-02-23T20:49:42.000Z,"Britain can &amp; needs to do better as #EU declines
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/OjLhV9njJN","['eureferendum', 'eu', 'leaveeu', 'brexit', 'strongerin', 'loveeuropeleaveeu']"
+703309644056363008,3135565264,neutral,leave,2016-02-26T20:04:20.000Z,"OUT of the #EU &amp; into the WORLD
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/MuT16TRFLQ","['eureferendum', 'eu', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+706202684991397888,3135565264,positive,leave,2016-03-05T19:40:15.000Z,"Re-Tweet.... if you want OUT of the #EU
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/foj8UdSF5g","['eureferendum', 'eu', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+702550736400474112,3135565264,neutral,leave,2016-02-24T17:48:42.000Z,"Out of the #EU &amp; into the World 
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/fe1ANtaN3o","['eureferendum', 'eu', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703310034420277248,3135565264,neutral,leave,2016-02-26T20:05:53.000Z,"Out of the #EU &amp; into the World 
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/8DgGDH0hbW","['eureferendum', 'eu', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703321961057918976,3135565264,neutral,leave,2016-02-26T20:53:17.000Z,"Vote UK out of #EU
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/Z0aIlObqjV","['eureferendum', 'eu', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+702556365760372736,3135565264,neutral,leave,2016-02-24T18:11:05.000Z,"RT.. if you're Turning your Back on #EU
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/O5AYdiuiZC","['eureferendum', 'eu', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+705470775013326848,3135565264,negative,other,2016-03-03T19:11:54.000Z,"more lies from the #EU propaganda machine
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/2c6j65h4lZ","['eureferendum', 'eu', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+708794191812366336,3135565264,neutral,leave,2016-03-12T23:17:58.000Z,"The #EU is not #Europe
+
+#LoveEuropeLeaveEU #EUreferendum #LeaveEU
+ #StrongerIn #Brexit #VoteLeave #Reamain #INorOUT https://t.co/C6Xzru3hjI","['eureferendum', 'eu', 'leaveeu', 'inorout', 'brexit', 'europe', 'voteleave', 'strongerin', 'reamain', 'loveeuropeleaveeu']"
+708205839820181504,3135565264,neutral,leave,2016-03-11T08:20:04.000Z,"the #EU is not #Europe
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave 
+#Remain #InOrOUT #LoveEuropeLeaveEU https://t.co/pTm4AXqxs6","['eureferendum', 'eu', 'leaveeu', 'inorout', 'brexit', 'remain', 'europe', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703131295967105024,3135565264,positive,leave,2016-02-26T08:15:39.000Z,"The Great #EU #Migration Lie
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/rNFs5T7dRn","['eureferendum', 'eu', 'leaveeu', 'migration', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+705653917665722368,3135565264,positive,leave,2016-03-04T07:19:39.000Z,"#Brexit is best for Britain
+
+#EUreferendum #VoteLeave #LoveEuropeLeaveEU #StrongerIn #INorOUT https://t.co/ldSUE3fPYo","['eureferendum', 'inorout', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703899497072619520,3135565264,positive,leave,2016-02-28T11:08:12.000Z,"Welcome to the #EuropeanUnion
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU #Marr #bbcsp https://t.co/8gb2AyKCf7","['eureferendum', 'leaveeu', 'bbcsp', 'brexit', 'europeanunion', 'marr', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+709652034241298432,3135565264,positive,leave,2016-03-15T08:06:44.000Z,"#Bradford supports #VoteLeave 
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/jOzG52QeGi","['eureferendum', 'leaveeu', 'bradford', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703282795595112448,3135565264,negative,leave,2016-02-26T18:17:39.000Z,"My Name is ""Billy Liar"" #cameron
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/V9iuMmbtwZ","['eureferendum', 'leaveeu', 'brexit', 'cameron', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+713989185040990208,3135565264,positive,leave,2016-03-27T07:21:01.000Z,"We cant Leave #Europe but we can #LeaveEU
+
+#EUreferendum #VoteLeave #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/qmRZ7bSqPf","['eureferendum', 'leaveeu', 'brexit', 'europe', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+713719201299611648,3135565264,positive,leave,2016-03-26T13:28:12.000Z,"We cant Leave #Europe but we can #LeaveEU
+
+#LoveEuropeLeaveEU #EUreferendum #VoteLeave #StrongerIn #Brexit https://t.co/SjGdUjOkkz","['eureferendum', 'leaveeu', 'brexit', 'europe', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+710371300896808960,3135565264,positive,leave,2016-03-17T07:44:50.000Z,"We cant leave #Europe but we can #LeaveEU
+
+#LoveEuropeLeaveEU #EUreferendum  #StrongerIn #Brexit #VoteLeave https://t.co/uBteT49bIi","['eureferendum', 'leaveeu', 'brexit', 'europe', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+711162272585007104,3135565264,positive,leave,2016-03-19T12:07:53.000Z,"We can't leave #Europe but we can #LeaveEU
+
+#EUreferendum #LoveEuropeLeaveEU #StrongerIn #Brexit #VoteLeave https://t.co/D1lSUZtUOF","['eureferendum', 'leaveeu', 'brexit', 'europe', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+712543460327301120,3135565264,negative,leave,2016-03-23T07:36:14.000Z,"you cant reform something that doesnt want reforming 
+
+#LoveEuropeLeaveEU #EUreferendum #LeaveEU #StrongerIn #Brexit https://t.co/84yZz5NG7n","['eureferendum', 'leaveeu', 'brexit', 'strongerin', 'loveeuropeleaveeu']"
+701920047149752320,3135565264,neutral,leave,2016-02-23T00:02:34.000Z,"Who are these people ? 
+
+#EUreferendum #leaveEU #Brexit #VoteLeave #LoveEuropeLeaveEU  https://t.co/BGSnkYVwxw","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'loveeuropeleaveeu']"
+701752145863958528,3135565264,positive,leave,2016-02-22T12:55:24.000Z,"#Brexit is best for Britain
+
+#EUreferendum #VoteLeave #StrongerIn #LeaveEU #LoveEuropeLeaveEU https://t.co/u5R9FTerT8","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+709133641432080384,3135565264,neutral,leave,2016-03-13T21:46:49.000Z,"100 days to #Brexit
+
+#LoveEuropeLeaveEU #EUreferendum #LeaveEU #StrongerIn #VoteLeave https://t.co/8ixeLUvoE3","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+702234473195290624,3135565264,negative,leave,2016-02-23T20:51:59.000Z,"UK has nothing to fear from #Brexit
+
+#EUreferendum #LeaveEU #StrongerIn  #VoteLeave #LoveEuropeLeaveEU https://t.co/1FIV8US5DH","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703675688725958656,3135565264,neutral,leave,2016-02-27T20:18:52.000Z,"Britain needs to be Free...
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/GC7RYYKwSj","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+702557744889511936,3135565264,neutral,leave,2016-02-24T18:16:33.000Z,"Our Prime Minister has sold us all out
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU
+ https://t.co/k5u6uRKqXX","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703334269716992000,3135565264,neutral,leave,2016-02-26T21:42:11.000Z,"#Brexit is Best...
+
+#EUreferendum #LeaveEU #StrongerIn #VoteLeave #LoveEuropeLeaveEU https://t.co/B1bSfPGyY6","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703959515700588544,3135565264,neutral,leave,2016-02-28T15:06:42.000Z,"@NoThanksEU 
+This #EUreferendum is about Britain's future not the past
+
+#LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+702584301620170752,3135565264,positive,leave,2016-02-24T20:02:05.000Z,"The Future’s Bright the future’s #Brexit
+
+#EUreferendum #LeaveEU #StrongerIn #VoteLeave #LoveEuropeLeaveEU https://t.co/NLt8pY9ALe","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+712076623605055488,3135565264,neutral,leave,2016-03-22T00:41:11.000Z,"Im ready to #LeaveEU are you ?
+
+#EUreferendum #LoveEuropeLeaveEU #StrongerIn #Brexit #VoteLeave https://t.co/h5GzQe2MvY","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+702401551223169024,3135565264,neutral,leave,2016-02-24T07:55:54.000Z,"Who will be next in wanting to #LeaveEU ?
+
+#EUreferendum  #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/8fkPZsQVHu","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703286006540333056,3135565264,positive,leave,2016-02-26T18:30:25.000Z,"Who do you want running your Country ?
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/hPhK6Ny8NH","['eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+706167675513344000,3135565264,neutral,leave,2016-03-05T17:21:08.000Z,"The #Euro has become a destroyer of Jobs
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/hqTZYPsocF","['eureferendum', 'leaveeu', 'euro', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+701821782207152128,3135565264,positive,leave,2016-02-22T17:32:06.000Z,"RT &amp; give your support to #GrassrootsOUT
+
+#VoteLeave #EUreferendum #LeaveEU #Brexit #LoveEuropeLeaveEU https://t.co/hAXuYLtXb3","['eureferendum', 'leaveeu', 'grassrootsout', 'brexit', 'voteleave', 'loveeuropeleaveeu']"
+705886278156476416,3135565264,neutral,leave,2016-03-04T22:42:58.000Z,"The #INCampaign are clutching at ""straws"" ....
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #No2EU #LoveEuropeLeaveEU https://t.co/II2t1ywCoc","['eureferendum', 'leaveeu', 'incampaign', 'brexit', 'no2eu', 'strongerin', 'loveeuropeleaveeu']"
+705468073059467264,3135565264,neutral,leave,2016-03-03T19:01:10.000Z,"This why Im voting to #LeaveEU
+
+#EUreferendum #INorOUT #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/nNxHcZ85J5","['eureferendum', 'leaveeu', 'inorout', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+702237335719649280,3135565264,positive,leave,2016-02-23T21:03:22.000Z,"It's no loss for UK to #LeaveEU 
+
+#EUreferendum #INorOUT #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/buku1PvqvG","['eureferendum', 'leaveeu', 'inorout', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+705656120161996800,3135565264,neutral,leave,2016-03-04T07:28:24.000Z,"#VoteLeave if you #BelieveInBritain 
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU #no2EU https://t.co/bKw2s9JXTr","['eureferendum', 'leaveeu', 'no2eu', 'brexit', 'believeinbritain', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703543844680417280,3135565264,neutral,leave,2016-02-27T11:34:58.000Z,"Hey .. are you listening #StrongerIn 
+
+#EUreferendum #LeaveEU  #Brexit #VoteLeave #LoveEuropeLeaveEU #UKIPSpring  https://t.co/MDS05yf6SV","['eureferendum', 'leaveeu', 'ukipspring', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+703758425755410432,3135565264,neutral,leave,2016-02-28T01:47:38.000Z,"A vote to #StayinEU is a vote for #TTIP
+
+#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/NZ2YWK5uEk","['eureferendum', 'ttip', 'leaveeu', 'stayineu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+738794334066233344,3135565264,neutral,leave,2016-06-03T18:07:50.000Z,"the #EU is not #Europe
 
 #LoveEuropeLeaveEU
 
-#EURef #VoteLeave #Brexit #StrongerIn https://t.co/rgOZU9hOQg","['voteleave', 'loveeuropeleaveeu', 'brexit', 'euref', 'europeanunion', 'strongerin']"
-176,176,176,176,176,176,176,434030,717248487818133504,3135565264,neutral,leave,2016-04-05T07:12:19.000Z,"Lets get out before the #EU goes down the pan
+#EURef #VoteLeave #Brexit #remain #INorOUT #LabourIN #VoteOUT #Euro2016 https://t.co/g5Hw4oaScF","['euro2016', 'eu', 'inorout', 'brexit', 'euref', 'remain', 'labourin', 'europe', 'voteleave', 'voteout', 'loveeuropeleaveeu']"
+709341945949261824,20550442,positive,leave,2016-03-14T11:34:33.000Z,"""I used to love the #EU. Now I want #Britain to #Leave""
+https://t.co/OjTr72qGqi
+#LoveEuropeLeaveEU #EuropeIsNotThe EU #BrExit #EURef","['europeisnotthe', 'eu', 'leave', 'brexit', 'euref', 'britain', 'loveeuropeleaveeu']"
+743848499645714432,730736334252474240,positive,other,2016-06-17T16:51:17.000Z,"@A_Liberty_Rebel RT if you love Europe 
 
-#EURef #VoteLeave #Brexit #StrongerIn #loveEuropeLeaveEU #Labour https://t.co/7lM7EJVaXj","['voteleave', 'loveeuropeleaveeu', 'brexit', 'euref', 'labour', 'eu', 'strongerin']"
-177,177,177,177,177,177,177,15505,688660698096885760,53027368,neutral,leave,2016-01-17T09:54:39.000Z,#EU What #Brexit can do for #Britain +the world #EUreferendum #EUref #LoveEuropeLeaveEU #VoteLeave #LeaveEU https://t.co/z1SYyj79Tc @LeaveEU,"['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'britain', 'euref']"
-178,178,178,178,178,178,178,192681,702556365760372736,3135565264,neutral,leave,2016-02-24T18:11:05.000Z,"RT.. if you're Turning your Back on #EU
+#LoveEuropeLeaveEU 
+#EuropeNotEU
 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/O5AYdiuiZC","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-179,179,179,179,179,179,179,212332,703321961057918976,3135565264,neutral,leave,2016-02-26T20:53:17.000Z,"Vote UK out of #EU
+#EURef #Brexit https://t.co/rq7OPoeg3R","['europenoteu', 'brexit', 'euref', 'loveeuropeleaveeu']"
+743847731345633280,730736334252474240,positive,other,2016-06-17T16:48:13.000Z,"@theordinaryman2 RT if you love Europe 
 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/Z0aIlObqjV","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-180,180,180,180,180,180,180,192487,702550736400474112,3135565264,neutral,leave,2016-02-24T17:48:42.000Z,"Out of the #EU &amp; into the World 
+#LoveEuropeLeaveEU 
+#EuropeNotEU
 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/fe1ANtaN3o","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-181,181,181,181,181,181,181,211957,703309644056363008,3135565264,neutral,leave,2016-02-26T20:04:20.000Z,"OUT of the #EU &amp; into the WORLD
+#EURef #Brexit https://t.co/lCMMFzwiAn","['europenoteu', 'brexit', 'euref', 'loveeuropeleaveeu']"
+739091663658881024,20550442,negative,other,2016-06-04T13:49:18.000Z,"#EdwinaCurrie you are an utter disgrace you hideous old #Europhile ratbag
+#LoveEuropeLeaveEU
+#BrExit #VoteLeave https://t.co/vbyNnjg50W","['europhile', 'brexit', 'voteleave', 'edwinacurrie', 'loveeuropeleaveeu']"
+720338668632694784,3135565264,neutral,leave,2016-04-13T19:51:36.000Z,"#Europe does not need the #EuropeanUnion
 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/MuT16TRFLQ","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-182,182,182,182,182,182,182,211970,703310034420277248,3135565264,neutral,leave,2016-02-26T20:05:53.000Z,"Out of the #EU &amp; into the World 
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/8DgGDH0hbW","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-183,183,183,183,183,183,183,274233,706202684991397888,3135565264,positive,leave,2016-03-05T19:40:15.000Z,"Re-Tweet.... if you want OUT of the #EU
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/foj8UdSF5g","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-184,184,184,184,184,184,184,260679,705470775013326848,3135565264,negative,other,2016-03-03T19:11:54.000Z,"more lies from the #EU propaganda machine
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/2c6j65h4lZ","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'eu', 'strongerin']"
-185,185,185,185,185,185,185,273826,706167675513344000,3135565264,neutral,leave,2016-03-05T17:21:08.000Z,"The #Euro has become a destroyer of Jobs
-
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/hqTZYPsocF","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'euro', 'strongerin']"
-186,186,186,186,186,186,186,336102,709652293197676544,3135565264,positive,leave,2016-03-15T08:07:46.000Z,"#Glasgow supports #VoteLeave 
+#LoveEuropeLeaveEU #Voteleave #EUspring #Brexit #No2EU #Remain https://t.co/h2t1Aiket9","['euspring', 'brexit', 'remain', 'voteleave', 'europeanunion', 'europe', 'no2eu', 'loveeuropeleaveeu']"
+709652293197676544,3135565264,positive,leave,2016-03-15T08:07:46.000Z,"#Glasgow supports #VoteLeave 
   
-#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/5a2DYRtdvd","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'glasgow', 'strongerin']"
-187,187,187,187,187,187,187,163116,701821782207152128,3135565264,positive,leave,2016-02-22T17:32:06.000Z,"RT &amp; give your support to #GrassrootsOUT
+#EUreferendum #LeaveEU #StrongerIn #Brexit #LoveEuropeLeaveEU https://t.co/5a2DYRtdvd","['glasgow', 'eureferendum', 'leaveeu', 'brexit', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+696397071474151424,20550442,negative,leave,2016-02-07T18:16:14.000Z,"Exactly!  We wouldn't join the #EU, so why would we, why should we, stay?
+#LoveEuropeLeaveEU
+#GrassRootsOut
+#BrExit https://t.co/iNJqcY2thk","['grassrootsout', 'eu', 'brexit', 'loveeuropeleaveeu']"
+712845060778434560,701101238499278848,negative,leave,2016-03-24T03:34:41.000Z,#Green campaigners for #Brexit have no plans to pollute beaches after #VoteLeave #LoveEuropeLeaveEU  https://t.co/LHOHuhMRpC,"['green', 'brexit', 'voteleave', 'loveeuropeleaveeu']"
+703883463338946560,2308475768,positive,other,2016-02-28T10:04:29.000Z,Well said #IainDuncanSmith why does this country find it hard to here the truth admire his plain speaking  #marr #Brexit #LoveEuropeLeaveEU,"['iainduncansmith', 'brexit', 'marr', 'loveeuropeleaveeu']"
+733759911440592896,3135565264,neutral,leave,2016-05-20T20:42:50.000Z,"#Britain needs to be Free
 
-#VoteLeave #EUreferendum #LeaveEU #Brexit #LoveEuropeLeaveEU https://t.co/hAXuYLtXb3","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'grassrootsout']"
-188,188,188,188,188,188,188,184795,702401551223169024,3135565264,neutral,leave,2016-02-24T07:55:54.000Z,"Who will be next in wanting to #LeaveEU ?
+#LoveEuropeLeaveEU #VoteLeave #remain #Brexit #Labour #INorOUT https://t.co/RMzcx8pGgA","['inorout', 'brexit', 'remain', 'britain', 'voteleave', 'labour', 'loveeuropeleaveeu']"
+742973905317597184,3135565264,negative,other,2016-06-15T06:55:57.000Z,"#British Farmers has nothing to fear from #Brexit
 
-#EUreferendum  #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/8fkPZsQVHu","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-189,189,189,189,189,189,189,221323,703675688725958656,3135565264,neutral,leave,2016-02-27T20:18:52.000Z,"Britain needs to be Free...
+#VoteLeave #Remain #InOrOut #Euref #LoveEuropeLeaveEU https://t.co/VHMMDEG6v3","['inorout', 'brexit', 'remain', 'euref', 'voteleave', 'british', 'loveeuropeleaveeu']"
+739313390896730112,3135565264,neutral,leave,2016-06-05T04:30:22.000Z,"The #EU is not #Europe
 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/GC7RYYKwSj","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-190,190,190,190,190,190,190,226632,703959515700588544,3135565264,neutral,leave,2016-02-28T15:06:42.000Z,"@NoThanksEU 
-This #EUreferendum is about Britain's future not the past
+#LoveEuropeLeaveEU
 
-#LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-191,191,191,191,191,191,191,181518,702234473195290624,3135565264,negative,leave,2016-02-23T20:51:59.000Z,"UK has nothing to fear from #Brexit
+#EURef #VoteLeave #Brexit #VoteRemain #InOrOut #Labour #VoteOUT https://t.co/taIlT699Al","['inorout', 'eu', 'brexit', 'euref', 'europe', 'voteremain', 'voteleave', 'labour', 'voteout', 'loveeuropeleaveeu']"
+745007850137739264,3135565264,positive,leave,2016-06-20T21:38:07.000Z,"We can't Leave #Europe but we can #LeaveEU
 
-#EUreferendum #LeaveEU #StrongerIn  #VoteLeave #LoveEuropeLeaveEU https://t.co/1FIV8US5DH","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-192,192,192,192,192,192,192,192719,702557744889511936,3135565264,neutral,leave,2016-02-24T18:16:33.000Z,"Our Prime Minister has sold us all out
+#EURef #VoteLeave #Brexit #Remain #InOrOut #Labour #LoveEuropeLeaveEU https://t.co/R9XG6cn9sd","['inorout', 'leaveeu', 'brexit', 'euref', 'remain', 'europe', 'voteleave', 'labour', 'loveeuropeleaveeu']"
+744169283165511680,3135565264,neutral,leave,2016-06-18T14:05:57.000Z,"5 days to go....
 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU
- https://t.co/k5u6uRKqXX","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-193,193,193,193,193,193,193,156206,701752145863958528,3135565264,positive,leave,2016-02-22T12:55:24.000Z,"#Brexit is best for Britain
+RT if you believe #VoteLeave will win
 
-#EUreferendum #VoteLeave #StrongerIn #LeaveEU #LoveEuropeLeaveEU https://t.co/u5R9FTerT8","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-194,194,194,194,194,194,194,212660,703334269716992000,3135565264,neutral,leave,2016-02-26T21:42:11.000Z,"#Brexit is Best...
+#Euref #LeaveEU #InOrOut #StayIn #Brexit #LoveEuropeLeaveEU https://t.co/bk1H6mamZT","['inorout', 'leaveeu', 'brexit', 'euref', 'stayin', 'voteleave', 'loveeuropeleaveeu']"
+738804437381206016,20550442,neutral,leave,2016-06-03T18:47:58.000Z,"#InorOut #VoteLeave
+#BrExit and #MichaelGove for the next #PrimeMinister #LoveEuropeLeaveEU","['inorout', 'michaelgove', 'brexit', 'voteleave', 'primeminister', 'loveeuropeleaveeu']"
+701431610755911680,20550442,negative,remain,2016-02-21T15:41:42.000Z,"BREAKING NEWS:
+#BorisJohnson to campaign to #leave #EU https://t.co/lTBnDvfrDj
+#LoveEuropeLeaveEU
+#BrExit
+#EURef","['leave', 'eu', 'brexit', 'euref', 'borisjohnson', 'loveeuropeleaveeu']"
+693862389868007424,20550442,neutral,leave,2016-01-31T18:24:19.000Z,"#LeaveEU #BrExit #BetterOffOut however you look at it, it makes sense to go.
+#LoveEuropeLeaveEU https://t.co/suNqPM38xZ","['leaveeu', 'brexit', 'betteroffout', 'loveeuropeleaveeu']"
+698669911242047488,3135565264,neutral,leave,2016-02-14T00:47:42.000Z,"Reasons to #LeaveEU &amp; #BelieveInBritain 
 
-#EUreferendum #LeaveEU #StrongerIn #VoteLeave #LoveEuropeLeaveEU https://t.co/B1bSfPGyY6","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-195,195,195,195,195,195,195,369381,712076623605055488,3135565264,neutral,leave,2016-03-22T00:41:11.000Z,"Im ready to #LeaveEU are you ?
+#EURef #VoteLeave #Brexit #StrongerIn #VoteREMAIN #LoveEuropeLeaveEU
+ https://t.co/3wrjbPzKbF","['leaveeu', 'brexit', 'euref', 'believeinbritain', 'voteleave', 'strongerin', 'voteremain', 'loveeuropeleaveeu']"
+721708928694923264,3135565264,negative,leave,2016-04-17T14:36:31.000Z,"It's time to #Leave &amp; take our place as a truly global citizen
 
-#EUreferendum #LoveEuropeLeaveEU #StrongerIn #Brexit #VoteLeave https://t.co/h5GzQe2MvY","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-196,196,196,196,196,196,196,328083,709133641432080384,3135565264,neutral,leave,2016-03-13T21:46:49.000Z,"100 days to #Brexit
+#LoveEuropeLeaveEU #EURef #LeaveEU #Brexit #remain https://t.co/UIyrS0MYYq","['leaveeu', 'brexit', 'euref', 'leave', 'remain', 'loveeuropeleaveeu']"
+708266723892404224,20550442,positive,leave,2016-03-11T12:22:00.000Z,"#LoveEuropeLeaveEU
+#BrExit vote #LeaveEU in #EURef
+It not only makes sense, but we have God &amp; the Queen on our side https://t.co/UTIdz1Xyk9","['leaveeu', 'brexit', 'euref', 'loveeuropeleaveeu']"
+699258079729291264,3135565264,positive,leave,2016-02-15T15:44:52.000Z,"#LoveEuropeLeaveEU
+Britain will be free soon to rule &amp; runs its own Country....
 
-#LoveEuropeLeaveEU #EUreferendum #LeaveEU #StrongerIn #VoteLeave https://t.co/8ixeLUvoE3","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-197,197,197,197,197,197,197,193561,702584301620170752,3135565264,positive,leave,2016-02-24T20:02:05.000Z,"The Future’s Bright the future’s #Brexit
+#LeaveEU #EURef #StrongerIn #Brexit https://t.co/ydgEpwkmAB","['leaveeu', 'brexit', 'euref', 'strongerin', 'loveeuropeleaveeu']"
+686561377276825600,3135565264,neutral,leave,2016-01-11T14:52:42.000Z,"take back control of OUR country 
 
-#EUreferendum #LeaveEU #StrongerIn #VoteLeave #LoveEuropeLeaveEU https://t.co/NLt8pY9ALe","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-198,198,198,198,198,198,198,211316,703286006540333056,3135565264,positive,leave,2016-02-26T18:30:25.000Z,"Who do you want running your Country ?
+#LoveEuropeLeaveEU
 
-#EUreferendum #LeaveEU #StrongerIn #Brexit #VoteLeave #LoveEuropeLeaveEU https://t.co/hPhK6Ny8NH","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'leaveeu', 'strongerin']"
-199,199,199,199,199,199,199,685755,731968537028374528,3135565264,neutral,leave,2016-05-15T22:04:33.000Z,"Your vote in the #EUreferendum will define our generation &amp; the next
+#EURef #VoteLeave #Brexit #StrongerIn #VoteREMAIN #LeaveEU https://t.co/fIWXzpwDj5","['leaveeu', 'brexit', 'euref', 'voteleave', 'strongerin', 'voteremain', 'loveeuropeleaveeu']"
+730483620457136128,3135565264,neutral,leave,2016-05-11T19:44:01.000Z,"A vote to #LeaveEU is a vote for #Britain
 
-#LoveEuropeLeaveEU #Brexit #VoteLeave #No2EU https://t.co/0cZEPdPtV0","['voteleave', 'loveeuropeleaveeu', 'brexit', 'eureferendum', 'no2eu']"
+#EUReferendum #LoveEuropeLeaveEU #VoteLeave #Brexit #StrongerIn https://t.co/KFghOXW0ie","['leaveeu', 'brexit', 'eureferendum', 'britain', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+719578263505514496,3135565264,positive,leave,2016-04-11T17:30:01.000Z,"We cant leave #Europe but can #LeaveEU
+
+#EUReferendum #LeaveEU #LoveEuropeLeaveEU #Brexit #StrongerIn https://t.co/TAXFMOhXo4","['leaveeu', 'brexit', 'eureferendum', 'europe', 'strongerin', 'loveeuropeleaveeu']"
+730290552818827264,3135565264,positive,leave,2016-05-11T06:56:50.000Z,"We cant leave #Europe but we can #LeaveEU
+
+#EUReferendum #LoveEuropeLeaveEU #VoteLeave #Brexit #StrongerIn https://t.co/9R7KxNa6rp","['leaveeu', 'brexit', 'eureferendum', 'europe', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+722318159026503680,3135565264,neutral,leave,2016-04-19T06:57:23.000Z,"Check out my You Tube channel
+
+#EUReferendum #LeaveEU #VoteLeave #Brexit #StrongerIn #LoveEuropeLeaveEU 
+https://t.co/5bcNoPcgCn","['leaveeu', 'brexit', 'eureferendum', 'voteleave', 'strongerin', 'loveeuropeleaveeu']"
+719167721930420224,3135565264,neutral,leave,2016-04-10T14:18:41.000Z,"I'm voting to #LeaveEU ?
+
+Retweet.... if you are too
+
+#EUReferendum #VoteLeave #Brexit #Remain #LoveEuropeLeaveEU https://t.co/kKDYu3CJ96","['leaveeu', 'brexit', 'remain', 'eureferendum', 'voteleave', 'loveeuropeleaveeu']"
+698076134357995520,20550442,neutral,leave,2016-02-12T09:28:14.000Z,"#BrExit for the #UK vote #LeaveEU in the #EURef #GrassRootsOut #SayNoToEU
+#BetterOffOut
+#LoveEuropeLeaveEU https://t.co/WHL7OMihSa","['leaveeu', 'brexit', 'saynotoeu', 'euref', 'betteroffout', 'grassrootsout', 'uk', 'loveeuropeleaveeu']"
+694225760253526016,20550442,neutral,leave,2016-02-01T18:28:13.000Z,"#BrExit #BetterOffOut #LeaveEU
+#LoveEuropeLeaveEU
+#British business needs to remain neutral about leaving the #EU
+https://t.co/s4flVSf8tF","['leaveeu', 'eu', 'brexit', 'betteroffout', 'british', 'loveeuropeleaveeu']"
+696999544781991936,20550442,negative,leave,2016-02-09T10:10:15.000Z,"Don't believe the scare tactics from the #InTards they're desperate.
+#BrExit #LeaveEU #EU #EURef
+#LoveEuropeLeaveEU https://t.co/ZYTIGcmUmC","['leaveeu', 'eu', 'brexit', 'euref', 'intards', 'loveeuropeleaveeu']"
+735575155179724800,4867233244,negative,remain,2016-05-25T20:55:57.000Z,Frustrating that #StrongerIn continues to confuse #Europe with the #EU. #LoveEuropeLeaveEU #LabourInForBritain #LeaveEU #BREXIT #Vote_Leave,"['leaveeu', 'eu', 'labourinforbritain', 'europe', 'brexit', 'strongerin', 'voteleave', 'loveeuropeleaveeu']"
+694836699659132928,20550442,negative,leave,2016-02-03T10:55:53.000Z,"#BrExit #BetterOffOut #LeaveEU #EU
+#LoveEuropeLeaveEU #VoteLeave.
+We wouldn't join, why stay? https://t.co/lV1jTVnlMk","['leaveeu', 'eu', 'voteleave', 'brexit', 'betteroffout', 'loveeuropeleaveeu']"
+695578137359466496,20550442,negative,remain,2016-02-05T12:02:05.000Z,"Music to my ears
+#BrExit #LeaveEU #LoveEuropeLeaveEU
+'If the #Brits want to leave, let them #leave,' say #EU leaders
+https://t.co/Un2EchimU3","['leaveeu', 'leave', 'eu', 'brits', 'brexit', 'loveeuropeleaveeu']"
+740479644152016896,20550442,neutral,leave,2016-06-08T09:44:39.000Z,"@timothy_stanley
+This could have been one of my friends.
+#LoveEuropeLeaveEU
+#WeWantOurCountryBack
+#LeaveEU #VoteLeave #BrExit #EURef","['leaveeu', 'wewantourcountryback', 'brexit', 'euref', 'voteleave', 'loveeuropeleaveeu']"
+744098575655772160,20550442,negative,leave,2016-06-18T09:24:59.000Z,"#BrExiteers get this out there!
+#VoteLeave #EURef #BrExit #WeWantOurCountryBack #LeaveEU
+#LoveEuropeLeaveEU #Leave https://t.co/n1tshYZIQU","['leaveeu', 'wewantourcountryback', 'brexiteers', 'brexit', 'euref', 'leave', 'voteleave', 'loveeuropeleaveeu']"
+744099541067141120,20550442,negative,leave,2016-06-18T09:28:49.000Z,"#BrExiteers get this out there
+#VoteLeave #EURef #BrExit #WeWantOurCountryBack #LeaveEU
+#LoveEuropeLeaveEU #Leave https://t.co/v3ep7jy6sy","['leaveeu', 'wewantourcountryback', 'brexiteers', 'brexit', 'euref', 'leave', 'voteleave', 'loveeuropeleaveeu']"
+710668845942509568,701101238499278848,neutral,leave,2016-03-18T03:27:11.000Z,#EUreferendum #UK #Brexit Common Agricultural Policy #LoveEuropeLeaveEU @Farmers4Britain @Labour4Animals https://t.co/QYReyd3bn2,"['loveeuropeleaveeu', 'brexit', 'uk', 'eureferendum']"
+717248487818133504,3135565264,neutral,leave,2016-04-05T07:12:19.000Z,"Lets get out before the #EU goes down the pan
+
+#EURef #VoteLeave #Brexit #StrongerIn #loveEuropeLeaveEU #Labour https://t.co/7lM7EJVaXj","['loveeuropeleaveeu', 'eu', 'brexit', 'euref', 'voteleave', 'labour', 'strongerin']"
+731793677534777344,3135565264,neutral,leave,2016-05-15T10:29:43.000Z,"Re-tweet if you think the #EU will be history by 2020 ?
+
+#loveEuropeLeaveEU #VoteLeave #Brexit #remain #EUReferendum https://t.co/zGyMpBEfak","['loveeuropeleaveeu', 'eu', 'brexit', 'remain', 'eureferendum', 'voteleave']"
+700744796374228992,20550442,positive,other,2016-02-19T18:12:33.000Z,"Michael #GO ve
+You little beauty.
+#BrExit #EURef #LoveEuropeLeaveEU
+#MichaelGove has the courage of his convictions, who else does?","['michaelgove', 'brexit', 'euref', 'go', 'loveeuropeleaveeu']"
+717992349587152896,20550442,negative,leave,2016-04-07T08:28:10.000Z,"#BrExit #NExit #IndependenceDay
+#LoveEuropeLeaveEU
+#EverCloserUnion No Thanks
+#Dutch voters reject #EU-#Ukraine deal https://t.co/PeFIWzjnc5","['nexit', 'brexit', 'evercloserunion', 'independenceday', 'dutch', 'eu-ukraine', 'loveeuropeleaveeu']"
+745563568116998144,4341159929,positive,leave,2016-06-22T10:26:21.000Z,"""British voters who want to Brexit are not alone""
+
+#Brexit #Nexit #Fexit #LoveEuropeLeaveEU #VoteLeave #GeenPeil https://t.co/cP90tLwZ8P","['nexit', 'fexit', 'brexit', 'voteleave', 'geenpeil', 'loveeuropeleaveeu']"
+733915709315682304,720098948736790528,neutral,leave,2016-05-21T07:01:55.000Z,Remainers view of the EU ? #euref #brexit #no2eu #notoeu #voteout #eureform #leaveeu #voteleave #loveeuropeleaveeu https://t.co/N6e9BpTBsb,"['no2eu', 'euref', 'eureform', 'leaveeu', 'voteleave', 'brexit', 'voteout', 'loveeuropeleaveeu', 'notoeu']"
+728292216616067072,2254037612,negative,leave,2016-05-05T18:36:10.000Z,It seems the battle of hashtags! In the #Brexit corner you have #notoeu #betteroffout #VoteLeave #LoveEuropeLeaveEU - did we miss any? (1/2),"['notoeu', 'brexit', 'voteleave', 'betteroffout', 'loveeuropeleaveeu']"
+700772645118222336,20550442,negative,other,2016-02-19T20:03:12.000Z,"#BREXIT BOOST:
+#Poll shows #UK on course to #leave #EU as #Cameron fumbles over shambolic deal https://t.co/11Fowbv98v
+#LoveEuropeLeaveEU","['poll', 'leave', 'eu', 'cameron', 'brexit', 'uk', 'loveeuropeleaveeu']"
+704651132522651648,20550442,negative,other,2016-03-01T12:54:56.000Z,"#BBCBias #ProEUBias #ProEU
+#LoveEuropeLeaveEU
+#BrExit #EURef #UK
+The millions in #EU funding the #BBC tried to hide https://t.co/eVkdIMkoVQ","['proeu', 'eu', 'bbcbias', 'bbc', 'brexit', 'euref', 'proeubias', 'uk', 'loveeuropeleaveeu']"
+717667075993518080,20550442,positive,remain,2016-04-06T10:55:39.000Z,"Good old #DavidOwen always a smart cookie.
+#BetteroffOut #LoveEuropeLeaveEU
+#BrExit #EURef #NHS
+#ProjectFear https://t.co/K1SWnbAyMB","['projectfear', 'betteroffout', 'brexit', 'euref', 'davidowen', 'nhs', 'loveeuropeleaveeu']"
+717278450239848448,20550442,neutral,remain,2016-04-05T09:11:23.000Z,"#ProjectFear #Remain lies
+#LoveEuropeLeaveEU #BetterOffOut
+#BrExit #EURef #IndependenceDay
+#23rdJune https://t.co/PLoPWqaFgG","['projectfear', 'brexit', 'remain', 'betteroffout', 'euref', 'independenceday', '23rdjune', 'loveeuropeleaveeu']"

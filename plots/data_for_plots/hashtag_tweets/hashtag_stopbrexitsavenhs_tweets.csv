@@ -1,106 +1,116 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,0,0,700700,973486963041980416,747901327536172928,negative,other,2018-03-13T09:12:33.000Z,"From The Economist Espresso: A spring in his step: Britain’s economy
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+973486963041980416,747901327536172928,negative,other,2018-03-13T09:12:33.000Z,"From The Economist Espresso: A spring in his step: Britain’s economy
 
 Hammond admits the NHS is being starved to pay for #Brexit
 
 #StopBrexitSaveNHS https://t.co/OoLmGWgY5w","['brexit', 'stopbrexitsavenhs']"
-1,1,1,1,1,1,1,125949,949349789522591744,4264297743,neutral,remain,2018-01-05T18:40:02.000Z,@jonlis1 I don't think we do just say #stopbrexit We give loads of facts and figures It's obvious we can't have #NHS AND #Brexit. #StopBrexitSaveNHS,"['nhs', 'stopbrexit', 'brexit', 'stopbrexitsavenhs']"
-2,2,2,2,2,2,2,119172,949017767247863808,4264297743,positive,remain,2018-01-04T20:40:42.000Z,Can everyone now see the links between #NHSCrisis and #Brexit? We've got to #StopBrexit2018 and ease #NHSPressure #NHSWinterCrisis  #ToriesOut #StopBrexitSaveNHS https://t.co/lNnlevyQIk,"['nhspressure', 'stopbrexitsavenhs', 'nhscrisis', 'nhswintercrisis', 'brexit?', 'toriesout', 'stopbrexit2018']"
-3,3,3,3,3,3,3,119162,949017403802947584,4264297743,positive,remain,2018-01-04T20:39:15.000Z,Can everyone now see the links between #NHSCrisis and #Brexit? We've got to #StopBrexit2018 and ease #NHSPressure #NHSWinterCrisis  #ToriesOut #StopBrexitSaveNHS And here is @Jeremy_Hunt wearing a #TateandLyle lanyard. Can't imagine why!! https://t.co/N7TXXr7JvD,"['nhspressure', 'tateandlyle', 'stopbrexitsavenhs', 'nhscrisis', 'nhswintercrisis', 'brexit?', 'toriesout', 'stopbrexit2018']"
-4,4,4,4,4,4,4,128666,949588877341347840,22681885,negative,leave,2018-01-06T10:30:05.000Z,"@ste942000 @WeNeedEU @nikkirobson1 @ElliH53 The house of lords can block the legislation, sending it back into a 2 year black hole. But you won't have known that, you literally voted for #NoPlan 
-Keep up the hollow optimism. In the past 2 months you lost hard brexit and you lost to Article 7. 
-#StopBrexitSaveNHS","['noplan', 'stopbrexitsavenhs']"
-5,5,5,5,5,5,5,124496,949283026931978240,466549936,positive,remain,2018-01-05T14:14:45.000Z,"@drjanaway Having #Brexit means #NHS getting a lot less money, fewer staff &amp; inventing our own drug controls. #Retain ing #EU membership means more staff, better drug controls &amp; research &amp; access to healthcare across 28 states.
-#StopBrexitSaveNHS #StopBrexit #StopBrexit2018 #FBPE #remain","['remain', 'retain', 'brexit', 'stopbrexitsavenhs', 'nhs', 'stopbrexit', 'fbpe', 'eu', 'stopbrexit2018']"
-6,6,6,6,6,6,6,137741,950075516723318784,507445672,negative,remain,2018-01-07T18:43:49.000Z,"Brexit is so the super-rich can avoid paying the taxes needed for decent public services, incl the NHS. #stopbrexit #saveournhs #StopBrexitSaveBritain #Remain #exitbrexit #StopBrexit2018 #StopBrexitSaveNHS https://t.co/V8FJubuiRk","['remain', 'stopbrexitsavebritain', 'stopbrexit', 'saveournhs', 'stopbrexitsavenhs', 'exitbrexit', 'stopbrexit2018']"
-7,7,7,7,7,7,7,222835,953717823578300416,931306415649673216,positive,remain,2018-01-17T19:57:03.000Z,It is as clear as day that #Brexit will be the end of the #NHS - #StopBrexitSaveNHS #NHSCrisis #Remain #WATON #remainernow  #StopBrexit  https://t.co/Oh1D8mZHVJ,"['remain', 'waton', 'brexit', 'stopbrexitsavenhs', 'nhscrisis', 'nhs', 'stopbrexit', 'remainernow']"
-8,8,8,8,8,8,8,168846,951412244679708672,245790402,negative,other,2018-01-11T11:15:30.000Z,"@cross2_robert @JASEMARKRUTTER It's not sick eighty percent of radioactive particles are imported from EU . They decay. There are no plans , by this incompetent government. We have lost the EMA a known consequence. We are losing experts in NHS .Brexit means less money for NHS. 
-#StopBrexitSaveNHS
-#Remain❤️UK","['remain❤️uk', 'stopbrexitsavenhs']"
-9,9,9,9,9,9,9,126238,949366008606699520,943160123031158784,neutral,remain,2018-01-05T19:44:29.000Z,"Doctors and nurses overworked. Not enough staff, beds, or money. People not getting the care they need. But it's ok. Relax. @theresa_may &amp; @Jeremy_Hunt said sorry. Awwww cute! Stop wasting money on #Brexit and #SaveOurNHS #StopBrexit #NHSCrisis #StopBrexit2018 #StopBrexitSaveNHS","['saveournhs', 'brexit', 'stopbrexitsavenhs', 'nhscrisis', 'stopbrexit', 'stopbrexit2018']"
-10,10,10,10,10,10,10,113558,948847030457262080,721026242,neutral,remain,2018-01-04T09:22:15.000Z,"You can have the #nhs or you can have #Brexit .... you CANNOT have both !
-
-#stopbrexitsavenhs
-#nhscrisis
-#stopbrexit
-#fbpe","['stopbrexit', 'nhscrisis', 'stopbrexitsavenhs', 'nhs', 'brexit', 'fbpe']"
-11,11,11,11,11,11,11,388342,961254989397098496,206413533,positive,remain,2018-02-07T15:07:03.000Z,"You thought Boris’s figure was far fetched? This is real figure of how much Brexit will cost Britain per week prepared by Government. brexit is not in the national interest. Coup for the few. #StopBrexit #StopBrexitSaveNHS #NHS1000miles #NHSLove 
-https://t.co/yImZZQC7yf https://t.co/FVB1oWEZUa","['stopbrexit', 'nhslove', 'nhs1000miles', 'stopbrexitsavenhs']"
-12,12,12,12,12,12,12,221651,953695037484920832,347332506,negative,remain,2018-01-17T18:26:30.000Z,"Brexit is legitimising xenophobia, racism, fascism and hatred #StopBrexit #StopBrexit2018 #StopBrexitSaveNHS https://t.co/dx6S9DVvjY","['stopbrexit', 'stopbrexitsavenhs', 'stopbrexit2018']"
-13,13,13,13,13,13,13,165537,951306603961176064,72684950,negative,remain,2018-01-11T04:15:43.000Z,@NYtitanic1999 @GuitarMoog @VeroVero777 And yet UK is in the grips of severe Austerity. Where is the money going ?  Well to pay for a needless Brexit I guess ?  And it’s the tax payer that pays (although not the rich &amp; organisations’ artful dodgers’) #StopBrexit #StopBrexit2018 #StopBrexitSaveBritain #StopBrexitSaveNHS,"['stopbrexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'stopbrexit2018']"
-14,14,14,14,14,14,14,124339,949276922038583296,4264297743,positive,remain,2018-01-05T13:50:29.000Z,It's #OurNHS or #Brexit YOU CANNOT HAVE BOTH! #StopBrexit2018 @jeremycorbyn @Keir_Starmer @Jeremy_Hunt @BBCNews @BBCNormanS @BBC @bbclaurak @BBCNewsnight @bbcnickrobinson @BBCPolitics @daily_politics @BBCWorld @bbchealth The public want #StopBrexitSaveNHS https://t.co/gaD9SwaeMw,"['stopbrexit2018', 'brexit', 'stopbrexitsavenhs', 'ournhs']"
-15,15,15,15,15,15,15,126283,949368612720185344,627387918,negative,remain,2018-01-05T19:54:50.000Z,"If #Brexit was a court case, Boris Johnson would be jailed for libel and there would be a retrial.  Enough is enough. #StopBrexitSaveNHS #StopBrexitSaveBritain","['stopbrexitsavebritain', 'brexit', 'stopbrexitsavenhs']"
-16,16,16,16,16,16,16,226010,953899274902953984,698558387408207872,negative,remain,2018-01-18T07:58:04.000Z,"Let’s not delude ourselves, #Brexit vote fuelled by significant ignorant, grey vote - they also will suffer from #BrexitShambles through inflation eroded pensions and a collapsed #NHS. #StopBrexitSaveBritain #StopBrexitSaveNHS https://t.co/vfyLChgOAh","['stopbrexitsavebritain', 'brexit', 'stopbrexitsavenhs', 'nhs', 'brexitshambles']"
-17,17,17,17,17,17,17,217201,953551090670239744,746401931317346304,negative,remain,2018-01-17T08:54:30.000Z,"#Brexit is like a football team who have just scored a goal and they all know the striker was miles offside. They're now desperately clambering to stop the video replay from being watched...
+949368612720185344,627387918,negative,remain,2018-01-05T19:54:50.000Z,"If #Brexit was a court case, Boris Johnson would be jailed for libel and there would be a retrial.  Enough is enough. #StopBrexitSaveNHS #StopBrexitSaveBritain","['brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+959058797389144064,781269157144854528,negative,remain,2018-02-01T13:40:10.000Z,"@thesilvasword @PhototohP @GuitarMoog You have your opinion but #facts to not support you #UK is in #crisis because of #Brexit 🧐
+May I suggest some reading matter ? @guardian @FT @TheNewEuropean @TheEconomist 
+#Remainyouknowitmakessense #StopBrexitSaveBritain #StopBrexitSaveNHS #StopBrexitSaveOurNHS
+#FinalSayForAll https://t.co/FfN1lU8pe3","['crisis', 'finalsayforall', 'stopbrexitsaveournhs', 'brexit', 'remainyouknowitmakessense', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'uk', 'facts']"
+955554510516228096,925780682550468608,neutral,remain,2018-01-22T21:35:23.000Z,"When will @Conservatives @UKLabour accept what the @LibDems know that #Democracy allows for change, the #UK does not want #Brexit #StopBrexitSaveBritain #StopBrexit #StopBrexitSaveNHS  #FBPE https://t.co/ikMUy48zlI","['democracy', 'fbpe', 'brexit', 'stopbrexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'uk']"
+953551090670239744,746401931317346304,negative,remain,2018-01-17T08:54:30.000Z,"#Brexit is like a football team who have just scored a goal and they all know the striker was miles offside. They're now desperately clambering to stop the video replay from being watched...
 #StopBrexit2018
 #StopBrexit 
 #StopBrexitSaveBritain 
 #StopBrexitSaveNHS 
-#ExitFromBrexit","['stopbrexitsavebritain', 'brexit', 'stopbrexitsavenhs', 'stopbrexit', 'exitfrombrexit', 'stopbrexit2018']"
-18,18,18,18,18,18,18,257382,955554510516228096,925780682550468608,neutral,remain,2018-01-22T21:35:23.000Z,"When will @Conservatives @UKLabour accept what the @LibDems know that #Democracy allows for change, the #UK does not want #Brexit #StopBrexitSaveBritain #StopBrexit #StopBrexitSaveNHS  #FBPE https://t.co/ikMUy48zlI","['stopbrexitsavebritain', 'democracy', 'brexit', 'stopbrexitsavenhs', 'stopbrexit', 'fbpe', 'uk']"
-19,19,19,19,19,19,19,121347,949199388932497408,206413533,negative,remain,2018-01-05T08:42:24.000Z,"None of my incredulity, anger or dismay at Brexit has one iota to do with my being hampered by customs/passport checks when I go on holiday. It is all about what Brexit will do to the economy, and our living standards in Britain. #StopBrexitSaveBritain #StopBrexitSaveNHS #FBPE https://t.co/4gIB68pOzU","['stopbrexitsavebritain', 'fbpe', 'stopbrexitsavenhs']"
-20,20,20,20,20,20,20,915932,983662346471116800,1625586576,positive,remain,2018-04-10T11:05:53.000Z,"We cant afford to lose patience . . .
+#ExitFromBrexit","['exitfrombrexit', 'stopbrexit2018', 'brexit', 'stopbrexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+949283026931978240,466549936,positive,remain,2018-01-05T14:14:45.000Z,"@drjanaway Having #Brexit means #NHS getting a lot less money, fewer staff &amp; inventing our own drug controls. #Retain ing #EU membership means more staff, better drug controls &amp; research &amp; access to healthcare across 28 states.
+#StopBrexitSaveNHS #StopBrexit #StopBrexit2018 #FBPE #remain","['fbpe', 'eu', 'stopbrexit2018', 'retain', 'brexit', 'remain', 'stopbrexit', 'nhs', 'stopbrexitsavenhs']"
+983662346471116800,1625586576,positive,remain,2018-04-10T11:05:53.000Z,"We cant afford to lose patience . . .
 
 The price for not stopping brexit is too high. 
 #FBPE 
 #NHSCrisis 
 #StopBrexitSaveBritain 
 #StopBrexitSaveNHS 
-#LabourParty how do you solve this while paying for brexit. https://t.co/3NCM86dxKh","['stopbrexitsavebritain', 'labourparty', 'stopbrexitsavenhs', 'nhscrisis', 'fbpe']"
-21,21,21,21,21,21,21,168775,951411115346612224,245790402,positive,leave,2018-01-11T11:11:00.000Z,"@JASEMARKRUTTER Amazing that given all the dirty money behind Brexit &amp; the trillions of bots used to force through Brexit, Remain is still strong.
-#StopBrexitSaveBritain
-#StopBrexitSaveNHS
-#StopBrexitSavejobs","['stopbrexitsavebritain', 'stopbrexitsavejobs', 'stopbrexitsavenhs']"
-22,22,22,22,22,22,22,466404,963865375095054336,245790402,negative,remain,2018-02-14T19:59:47.000Z,"@doclaw13 @csibike1 @JoRichardsKent Agree but slightly cruel to Neantherdals I believe they had to be more able to negotiate as we have their DNA. Whereas Brexit leaders are wholly incapable of critical analysis. They are very good liars though.
-#StopBrexitSaveBritain
-#StopBrexitSaveNHS","['stopbrexitsavebritain', 'stopbrexitsavenhs']"
-23,23,23,23,23,23,23,185396,952100881088032768,245790402,neutral,remain,2018-01-13T08:51:53.000Z,"@Neferure1 @nickreeves9876 I'm doing same &amp; there is some confusion because of labours stance.Its not anti democratic to question Brexit . Truth is the slackness from the leadership has confused people. We need to act not debate and stopBrexit
-#StopBrexitSaveNHS
-#StopBrexitSaveBritain","['stopbrexitsavebritain', 'stopbrexitsavenhs']"
-24,24,24,24,24,24,24,325783,958718102937767936,245790402,negative,leave,2018-01-31T15:06:22.000Z,"@birminghammail @GElsharief This is an abomination. We need Brexit leaders to take responsibility for this crazy and dangerous attitude towards immigration.
-#StopBrexitSaveNHS
-#StopBrexitSaveBritain","['stopbrexitsavebritain', 'stopbrexitsavenhs']"
-25,25,25,25,25,25,25,335518,959058797389144064,781269157144854528,negative,remain,2018-02-01T13:40:10.000Z,"@thesilvasword @PhototohP @GuitarMoog You have your opinion but #facts to not support you #UK is in #crisis because of #Brexit 🧐
-May I suggest some reading matter ? @guardian @FT @TheNewEuropean @TheEconomist 
-#Remainyouknowitmakessense #StopBrexitSaveBritain #StopBrexitSaveNHS #StopBrexitSaveOurNHS
-#FinalSayForAll https://t.co/FfN1lU8pe3","['stopbrexitsavebritain', 'stopbrexitsaveournhs', 'facts', 'brexit', 'stopbrexitsavenhs', 'finalsayforall', 'crisis', 'remainyouknowitmakessense', 'uk']"
-26,26,26,26,26,26,26,359072,960092381092765696,517541619,negative,remain,2018-02-04T10:07:15.000Z,@magicfm RIGHT-WING Brexit News is all your hourly reports spout! A disgrace to news reporting....Hitler's Nazi Propaganda Machine Reincarnated #StopBrexitSaveBritain #StopBrexitSaveNHS #ToryShambles #ToriesOut #FBPE @Anna_Soubry @sarahwollaston @SarahLudford @ChukaUmunna,"['stopbrexitsavebritain', 'toryshambles', 'stopbrexitsavenhs', 'fbpe', 'toriesout']"
-27,27,27,27,27,27,27,222064,953692854202880000,319619581,neutral,remain,2018-01-17T18:17:49.000Z,"Both. 😖
+#LabourParty how do you solve this while paying for brexit. https://t.co/3NCM86dxKh","['fbpe', 'nhscrisis', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'labourparty']"
+949199388932497408,206413533,negative,remain,2018-01-05T08:42:24.000Z,"None of my incredulity, anger or dismay at Brexit has one iota to do with my being hampered by customs/passport checks when I go on holiday. It is all about what Brexit will do to the economy, and our living standards in Britain. #StopBrexitSaveBritain #StopBrexitSaveNHS #FBPE https://t.co/4gIB68pOzU","['fbpe', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+960092381092765696,517541619,negative,remain,2018-02-04T10:07:15.000Z,@magicfm RIGHT-WING Brexit News is all your hourly reports spout! A disgrace to news reporting....Hitler's Nazi Propaganda Machine Reincarnated #StopBrexitSaveBritain #StopBrexitSaveNHS #ToryShambles #ToriesOut #FBPE @Anna_Soubry @sarahwollaston @SarahLudford @ChukaUmunna,"['fbpe', 'toryshambles', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'toriesout']"
+953692854202880000,319619581,neutral,remain,2018-01-17T18:17:49.000Z,"Both. 😖
 
-#StopBrexit #FBPE #FinalSay #WATON #StopBrexitSaveBritain #StopBrexitSaveNHS #Brexit https://t.co/RNcyVNKRBz","['stopbrexitsavebritain', 'waton', 'finalsay', 'brexit', 'stopbrexitsavenhs', 'stopbrexit', 'fbpe']"
-28,28,28,28,28,28,28,425924,962375060702089216,245790402,negative,other,2018-02-10T17:17:49.000Z,"@jeremycorbyn @outlandish @space4coop I'm really impressed by your interest in social progressive policies but terrified that nothing can happen if you don't start opposing Brexit. Horrific economic impacts are predicted. How can we protect NHS and workers conditions without the backup of the EU.
+#StopBrexit #FBPE #FinalSay #WATON #StopBrexitSaveBritain #StopBrexitSaveNHS #Brexit https://t.co/RNcyVNKRBz","['finalsay', 'fbpe', 'brexit', 'waton', 'stopbrexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+953899274902953984,698558387408207872,negative,remain,2018-01-18T07:58:04.000Z,"Let’s not delude ourselves, #Brexit vote fuelled by significant ignorant, grey vote - they also will suffer from #BrexitShambles through inflation eroded pensions and a collapsed #NHS. #StopBrexitSaveBritain #StopBrexitSaveNHS https://t.co/vfyLChgOAh","['nhs', 'brexit', 'brexitshambles', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+948847030457262080,721026242,neutral,remain,2018-01-04T09:22:15.000Z,"You can have the #nhs or you can have #Brexit .... you CANNOT have both !
+
+#stopbrexitsavenhs
+#nhscrisis
+#stopbrexit
+#fbpe","['nhs', 'nhscrisis', 'fbpe', 'brexit', 'stopbrexit', 'stopbrexitsavenhs']"
+949349789522591744,4264297743,neutral,remain,2018-01-05T18:40:02.000Z,@jonlis1 I don't think we do just say #stopbrexit We give loads of facts and figures It's obvious we can't have #NHS AND #Brexit. #StopBrexitSaveNHS,"['nhs', 'stopbrexitsavenhs', 'stopbrexit', 'brexit']"
+949588877341347840,22681885,negative,leave,2018-01-06T10:30:05.000Z,"@ste942000 @WeNeedEU @nikkirobson1 @ElliH53 The house of lords can block the legislation, sending it back into a 2 year black hole. But you won't have known that, you literally voted for #NoPlan 
+Keep up the hollow optimism. In the past 2 months you lost hard brexit and you lost to Article 7. 
+#StopBrexitSaveNHS","['noplan', 'stopbrexitsavenhs']"
+953717823578300416,931306415649673216,positive,remain,2018-01-17T19:57:03.000Z,It is as clear as day that #Brexit will be the end of the #NHS - #StopBrexitSaveNHS #NHSCrisis #Remain #WATON #remainernow  #StopBrexit  https://t.co/Oh1D8mZHVJ,"['remainernow', 'nhscrisis', 'brexit', 'remain', 'waton', 'stopbrexit', 'nhs', 'stopbrexitsavenhs']"
+951412244679708672,245790402,negative,other,2018-01-11T11:15:30.000Z,"@cross2_robert @JASEMARKRUTTER It's not sick eighty percent of radioactive particles are imported from EU . They decay. There are no plans , by this incompetent government. We have lost the EMA a known consequence. We are losing experts in NHS .Brexit means less money for NHS. 
+#StopBrexitSaveNHS
+#Remain❤️UK","['remain❤️uk', 'stopbrexitsavenhs']"
+953695037484920832,347332506,negative,remain,2018-01-17T18:26:30.000Z,"Brexit is legitimising xenophobia, racism, fascism and hatred #StopBrexit #StopBrexit2018 #StopBrexitSaveNHS https://t.co/dx6S9DVvjY","['stopbrexit', 'stopbrexit2018', 'stopbrexitsavenhs']"
+951306603961176064,72684950,negative,remain,2018-01-11T04:15:43.000Z,@NYtitanic1999 @GuitarMoog @VeroVero777 And yet UK is in the grips of severe Austerity. Where is the money going ?  Well to pay for a needless Brexit I guess ?  And it’s the tax payer that pays (although not the rich &amp; organisations’ artful dodgers’) #StopBrexit #StopBrexit2018 #StopBrexitSaveBritain #StopBrexitSaveNHS,"['stopbrexit', 'stopbrexit2018', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+961254989397098496,206413533,positive,remain,2018-02-07T15:07:03.000Z,"You thought Boris’s figure was far fetched? This is real figure of how much Brexit will cost Britain per week prepared by Government. brexit is not in the national interest. Coup for the few. #StopBrexit #StopBrexitSaveNHS #NHS1000miles #NHSLove 
+https://t.co/yImZZQC7yf https://t.co/FVB1oWEZUa","['stopbrexit', 'stopbrexitsavenhs', 'nhs1000miles', 'nhslove']"
+949276922038583296,4264297743,positive,remain,2018-01-05T13:50:29.000Z,It's #OurNHS or #Brexit YOU CANNOT HAVE BOTH! #StopBrexit2018 @jeremycorbyn @Keir_Starmer @Jeremy_Hunt @BBCNews @BBCNormanS @BBC @bbclaurak @BBCNewsnight @bbcnickrobinson @BBCPolitics @daily_politics @BBCWorld @bbchealth The public want #StopBrexitSaveNHS https://t.co/gaD9SwaeMw,"['stopbrexit2018', 'brexit', 'stopbrexitsavenhs', 'ournhs']"
+949366008606699520,943160123031158784,neutral,remain,2018-01-05T19:44:29.000Z,"Doctors and nurses overworked. Not enough staff, beds, or money. People not getting the care they need. But it's ok. Relax. @theresa_may &amp; @Jeremy_Hunt said sorry. Awwww cute! Stop wasting money on #Brexit and #SaveOurNHS #StopBrexit #NHSCrisis #StopBrexit2018 #StopBrexitSaveNHS","['stopbrexit2018', 'nhscrisis', 'brexit', 'saveournhs', 'stopbrexit', 'stopbrexitsavenhs']"
+949017767247863808,4264297743,positive,remain,2018-01-04T20:40:42.000Z,Can everyone now see the links between #NHSCrisis and #Brexit? We've got to #StopBrexit2018 and ease #NHSPressure #NHSWinterCrisis  #ToriesOut #StopBrexitSaveNHS https://t.co/lNnlevyQIk,"['stopbrexit2018', 'nhscrisis', 'nhswintercrisis', 'nhspressure', 'brexit?', 'stopbrexitsavenhs', 'toriesout']"
+949017403802947584,4264297743,positive,remain,2018-01-04T20:39:15.000Z,Can everyone now see the links between #NHSCrisis and #Brexit? We've got to #StopBrexit2018 and ease #NHSPressure #NHSWinterCrisis  #ToriesOut #StopBrexitSaveNHS And here is @Jeremy_Hunt wearing a #TateandLyle lanyard. Can't imagine why!! https://t.co/N7TXXr7JvD,"['stopbrexit2018', 'tateandlyle', 'nhscrisis', 'nhswintercrisis', 'nhspressure', 'brexit?', 'stopbrexitsavenhs', 'toriesout']"
+950075516723318784,507445672,negative,remain,2018-01-07T18:43:49.000Z,"Brexit is so the super-rich can avoid paying the taxes needed for decent public services, incl the NHS. #stopbrexit #saveournhs #StopBrexitSaveBritain #Remain #exitbrexit #StopBrexit2018 #StopBrexitSaveNHS https://t.co/V8FJubuiRk","['stopbrexitsavebritain', 'stopbrexit2018', 'exitbrexit', 'remain', 'stopbrexitsavenhs', 'stopbrexit', 'saveournhs']"
+952859477270724608,245790402,positive,remain,2018-01-15T11:06:17.000Z,"@mac123_m @minxymartin It's clear this has accelerated because of Brexit . Priority is to stop Brexit and only them can labour promote the policies this country needs.Brexit is crippling us look at Carillion. 
+#StopBrexitsaveNHS
+#StopBrexitsaveBritain","['stopbrexitsavebritain', 'stopbrexitsavenhs']"
+951411115346612224,245790402,positive,leave,2018-01-11T11:11:00.000Z,"@JASEMARKRUTTER Amazing that given all the dirty money behind Brexit &amp; the trillions of bots used to force through Brexit, Remain is still strong.
+#StopBrexitSaveBritain
+#StopBrexitSaveNHS
+#StopBrexitSavejobs","['stopbrexitsavejobs', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+962375060702089216,245790402,negative,other,2018-02-10T17:17:49.000Z,"@jeremycorbyn @outlandish @space4coop I'm really impressed by your interest in social progressive policies but terrified that nothing can happen if you don't start opposing Brexit. Horrific economic impacts are predicted. How can we protect NHS and workers conditions without the backup of the EU.
 #StopBrexitSaveNHS",['stopbrexitsavenhs']
-29,29,29,29,29,29,29,818384,978389800502906880,245790402,negative,remain,2018-03-26T21:54:40.000Z,"@OwenSmith_MP @andy_n2000 Wholly agree. I've spoken with many on both sides &amp; to a person they all demand a final say. Leave was presented as protectionism but in reality it was charlatan corruption with a slight veneer of free trade. No one wants this catastrophic Brexit !
+978389800502906880,245790402,negative,remain,2018-03-26T21:54:40.000Z,"@OwenSmith_MP @andy_n2000 Wholly agree. I've spoken with many on both sides &amp; to a person they all demand a final say. Leave was presented as protectionism but in reality it was charlatan corruption with a slight veneer of free trade. No one wants this catastrophic Brexit !
 #StopBrexitSaveNHS
 # Final Say",['stopbrexitsavenhs']
-30,30,30,30,30,30,30,1040296,990569928616042496,18722145,negative,other,2018-04-29T12:34:09.000Z,"The NHS has a budget of over £100bn, now tell me that the ruthless US companies are not salivating at the prospect of our desperate deal with them... NHS or Brexit, we can’t have both. #StopBrexitSaveNHS",['stopbrexitsavenhs']
-31,31,31,31,31,31,31,185300,952096138101968896,245790402,negative,remain,2018-01-13T08:33:03.000Z,"@NHSMillion @csibike1 If the NHS is in this state now I cannot bear to think how much worse it will get if Brexit happens?! Massive underinvestment &amp; huge staff losses we face even more uncertainty. Loss of EMA &amp; rising drugs costs because of sterlings fall direct result of Brexit.
+990569928616042496,18722145,negative,other,2018-04-29T12:34:09.000Z,"The NHS has a budget of over £100bn, now tell me that the ruthless US companies are not salivating at the prospect of our desperate deal with them... NHS or Brexit, we can’t have both. #StopBrexitSaveNHS",['stopbrexitsavenhs']
+952096138101968896,245790402,negative,remain,2018-01-13T08:33:03.000Z,"@NHSMillion @csibike1 If the NHS is in this state now I cannot bear to think how much worse it will get if Brexit happens?! Massive underinvestment &amp; huge staff losses we face even more uncertainty. Loss of EMA &amp; rising drugs costs because of sterlings fall direct result of Brexit.
 #StopBrexitSaveNHS",['stopbrexitsavenhs']
-32,32,32,32,32,32,32,200148,952859477270724608,245790402,positive,remain,2018-01-15T11:06:17.000Z,"@mac123_m @minxymartin It's clear this has accelerated because of Brexit . Priority is to stop Brexit and only them can labour promote the policies this country needs.Brexit is crippling us look at Carillion. 
-#StopBrexitsaveNHS
-#StopBrexitsaveBritain","['stopbrexitsavenhs', 'stopbrexitsavebritain']"
-33,33,33,33,33,33,33,207783,953203538192162816,754308931950895104,negative,remain,2018-01-16T09:53:27.000Z,"STOP BREXIT.   Use your voice with  FB, Tweets, Instagram et al #FBPE #StopBrexit #StopFascists #StopRacists #StopTaxEvaders  #StopBrexitSaveBritain #StopBrexitSaveOURNHS #StopBrexitSaveNHS #Remain
+958718102937767936,245790402,negative,leave,2018-01-31T15:06:22.000Z,"@birminghammail @GElsharief This is an abomination. We need Brexit leaders to take responsibility for this crazy and dangerous attitude towards immigration.
+#StopBrexitSaveNHS
+#StopBrexitSaveBritain","['stopbrexitsavenhs', 'stopbrexitsavebritain']"
+952100881088032768,245790402,neutral,remain,2018-01-13T08:51:53.000Z,"@Neferure1 @nickreeves9876 I'm doing same &amp; there is some confusion because of labours stance.Its not anti democratic to question Brexit . Truth is the slackness from the leadership has confused people. We need to act not debate and stopBrexit
+#StopBrexitSaveNHS
+#StopBrexitSaveBritain","['stopbrexitsavenhs', 'stopbrexitsavebritain']"
+963865375095054336,245790402,negative,remain,2018-02-14T19:59:47.000Z,"@doclaw13 @csibike1 @JoRichardsKent Agree but slightly cruel to Neantherdals I believe they had to be more able to negotiate as we have their DNA. Whereas Brexit leaders are wholly incapable of critical analysis. They are very good liars though.
+#StopBrexitSaveBritain
+#StopBrexitSaveNHS","['stopbrexitsavenhs', 'stopbrexitsavebritain']"
+953203538192162816,754308931950895104,negative,remain,2018-01-16T09:53:27.000Z,"STOP BREXIT.   Use your voice with  FB, Tweets, Instagram et al #FBPE #StopBrexit #StopFascists #StopRacists #StopTaxEvaders  #StopBrexitSaveBritain #StopBrexitSaveOURNHS #StopBrexitSaveNHS #Remain
 #BackBritainNotBrexit #FinalSay 
-#WeAreTheOppositionNow #WATON https://t.co/YPbJIupbJL","['stopfascists', 'stopbrexitsavebritain', 'remain', 'waton', 'stopracists', 'stoptaxevaders', 'finalsay', 'stopbrexitsavenhs', 'stopbrexit', 'backbritainnotbrexit', 'wearetheoppositionnow', 'fbpe', 'stopbrexitsaveournhs']"
-34,34,34,34,34,34,34,220580,953645391102259200,2318979313,negative,other,2018-01-17T15:09:13.000Z,"@LauraPidcockMP It amazes me how many @UKLabour MPs understand knock-on effects in the #Carillion #SupplyChain but are completely blind to the same problem 
+#WeAreTheOppositionNow #WATON https://t.co/YPbJIupbJL","['stopracists', 'backbritainnotbrexit', 'fbpe', 'finalsay', 'stopbrexitsaveournhs', 'stoptaxevaders', 'wearetheoppositionnow', 'remain', 'waton', 'stopfascists', 'stopbrexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+953647049312014336,2318979313,negative,other,2018-01-17T15:15:49.000Z,"It amazes me how many @UKLabour MPs understand knock-on effects in the  #Carillion #SupplyChain but are completely blind to the same problem 
 in a #NoDeal or ""No #SingleMarket"" #brexit scenario !
 
 #StopBrexit2018 
 #StopBrexitSaveBritain 
-#StopBrexitSaveNHS https://t.co/nsueLIlFkX","['supplychain', 'stopbrexitsavebritain', 'stopbrexitsavenhs', 'nodeal', 'singlemarket', 'brexit', 'carillion', 'stopbrexit2018']"
-35,35,35,35,35,35,35,220605,953646243279974400,2318979313,negative,other,2018-01-17T15:12:36.000Z,"@RLong_Bailey @UKLabour It amazes me how many @UKLabour MPs understand knock-on effects in the  #Carillion #SupplyChain but are completely blind to the same problem 
+#StopBrexitSaveNHS https://t.co/9yz0Q0yerV","['supplychain', 'stopbrexit2018', 'singlemarket', 'carillion', 'brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'nodeal']"
+953646243279974400,2318979313,negative,other,2018-01-17T15:12:36.000Z,"@RLong_Bailey @UKLabour It amazes me how many @UKLabour MPs understand knock-on effects in the  #Carillion #SupplyChain but are completely blind to the same problem 
 in a #NoDeal or ""No #SingleMarket"" #brexit scenario !
 
 #StopBrexit2018 
 #StopBrexitSaveBritain 
-#StopBrexitSaveNHS","['supplychain', 'stopbrexitsavebritain', 'stopbrexitsavenhs', 'nodeal', 'singlemarket', 'brexit', 'carillion', 'stopbrexit2018']"
-36,36,36,36,36,36,36,220635,953647049312014336,2318979313,negative,other,2018-01-17T15:15:49.000Z,"It amazes me how many @UKLabour MPs understand knock-on effects in the  #Carillion #SupplyChain but are completely blind to the same problem 
+#StopBrexitSaveNHS","['supplychain', 'stopbrexit2018', 'singlemarket', 'carillion', 'brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'nodeal']"
+953645391102259200,2318979313,negative,other,2018-01-17T15:09:13.000Z,"@LauraPidcockMP It amazes me how many @UKLabour MPs understand knock-on effects in the #Carillion #SupplyChain but are completely blind to the same problem 
 in a #NoDeal or ""No #SingleMarket"" #brexit scenario !
 
 #StopBrexit2018 
 #StopBrexitSaveBritain 
-#StopBrexitSaveNHS https://t.co/9yz0Q0yerV","['supplychain', 'stopbrexitsavebritain', 'stopbrexitsavenhs', 'nodeal', 'singlemarket', 'brexit', 'carillion', 'stopbrexit2018']"
-37,37,37,37,37,37,37,3904062,1041372232491171840,1625586576,positive,remain,2018-09-16T17:04:22.000Z,"#CountTheWins 
+#StopBrexitSaveNHS https://t.co/nsueLIlFkX","['supplychain', 'stopbrexit2018', 'singlemarket', 'carillion', 'brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'nodeal']"
+1024234934762921984,981466857118076800,positive,other,2018-07-31T10:06:52.000Z,Stem cell transplants endangered by #Brexit @NE4EU @NightOwlsNE North east  one of leading treatment centres in UK #stopbrexitsavenhs #brexitcankill https://t.co/TLZ1XmRrEf,"['brexit', 'brexitcankill', 'stopbrexitsavenhs']"
+1024234934762921984,981466857118076800,positive,other,2018-07-31T10:06:52.000Z,Stem cell transplants endangered by #Brexit @NE4EU @NightOwlsNE North east  one of leading treatment centres in UK #stopbrexitsavenhs #brexitcankill https://t.co/TLZ1XmRrEf,"['brexit', 'brexitcankill', 'stopbrexitsavenhs']"
+1028861583143985152,137483767,negative,remain,2018-08-13T04:31:31.000Z,@WeAreWeSwap Yes? #Brexit has caused #Sterling to drop. Imagine what could happen if #NoDealBrexit! #StopBrexitSaveBritain #StopBrexitSaveNHS,"['brexit', 'sterling', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'nodealbrexit']"
+1028861583143985152,137483767,negative,remain,2018-08-13T04:31:31.000Z,@WeAreWeSwap Yes? #Brexit has caused #Sterling to drop. Imagine what could happen if #NoDealBrexit! #StopBrexitSaveBritain #StopBrexitSaveNHS,"['brexit', 'sterling', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'nodealbrexit']"
+999934979856584704,968804867807596544,negative,remain,2018-05-25T08:47:31.000Z,"@ChukaUmunna @TheIFS All the capital UK is losing and will lose by #Brexit can be dedicated to NHS by cancelling #Brexit. 
+#StopBrexitSaveNHS #StopBrexitSaveBritain","['brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'brexit']"
+999934979856584704,968804867807596544,negative,remain,2018-05-25T08:47:31.000Z,"@ChukaUmunna @TheIFS All the capital UK is losing and will lose by #Brexit can be dedicated to NHS by cancelling #Brexit. 
+#StopBrexitSaveNHS #StopBrexitSaveBritain","['brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'brexit']"
+1028375308179791872,137483767,positive,other,2018-08-11T20:19:14.000Z,@sarahwollaston Can you write it on the side of the NHS #brexit bus please Sarah? Keep up the great work that you are doing for us #remainers. #PeoplesVote #StopBrexitSaveNHS #FBPE #abtv,"['fbpe', 'abtv', 'peoplesvote', 'remainers', 'stopbrexitsavenhs', 'brexit']"
+1028375308179791872,137483767,positive,other,2018-08-11T20:19:14.000Z,@sarahwollaston Can you write it on the side of the NHS #brexit bus please Sarah? Keep up the great work that you are doing for us #remainers. #PeoplesVote #StopBrexitSaveNHS #FBPE #abtv,"['fbpe', 'abtv', 'peoplesvote', 'remainers', 'stopbrexitsavenhs', 'brexit']"
+1041372232491171840,1625586576,positive,remain,2018-09-16T17:04:22.000Z,"#CountTheWins 
 #NHS70 
 #NHSLove 
 
@@ -109,8 +119,8 @@ The amazing force for good that is #NHS  being defended by it's own staff from B
 
 @DancingTheMind
 
-https://t.co/BlMYnETUjU","['brexit', 'countthewins', 'stopbrexitsavenhs', 'nhs', 'nhslove', 'nhs70']"
-38,38,38,38,38,38,38,3904061,1041372232491171840,1625586576,positive,remain,2018-09-16T17:04:22.000Z,"#CountTheWins 
+https://t.co/BlMYnETUjU","['nhs70', 'countthewins', 'brexit', 'nhslove', 'nhs', 'stopbrexitsavenhs']"
+1041372232491171840,1625586576,positive,remain,2018-09-16T17:04:22.000Z,"#CountTheWins 
 #NHS70 
 #NHSLove 
 
@@ -119,48 +129,122 @@ The amazing force for good that is #NHS  being defended by it's own staff from B
 
 @DancingTheMind
 
-https://t.co/BlMYnETUjU","['brexit', 'countthewins', 'stopbrexitsavenhs', 'nhs', 'nhslove', 'nhs70']"
-39,39,39,39,39,39,39,2619385,1024234934762921984,981466857118076800,positive,other,2018-07-31T10:06:52.000Z,Stem cell transplants endangered by #Brexit @NE4EU @NightOwlsNE North east  one of leading treatment centres in UK #stopbrexitsavenhs #brexitcankill https://t.co/TLZ1XmRrEf,"['brexit', 'stopbrexitsavenhs', 'brexitcankill']"
-40,40,40,40,40,40,40,2619384,1024234934762921984,981466857118076800,positive,other,2018-07-31T10:06:52.000Z,Stem cell transplants endangered by #Brexit @NE4EU @NightOwlsNE North east  one of leading treatment centres in UK #stopbrexitsavenhs #brexitcankill https://t.co/TLZ1XmRrEf,"['brexit', 'stopbrexitsavenhs', 'brexitcankill']"
-41,41,41,41,41,41,41,1503525,1013360932871864320,2256608786,negative,other,2018-07-01T09:57:28.000Z,"The Brexit scam that keeps on taking, and taking, and taking....  with nothing to show but despair! #BrexitScam #StopBrexitSaveBritain #StopBrexitSaveNHS
-https://t.co/a5K0Fv5ixf","['brexitscam', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
-42,42,42,42,42,42,42,1503524,1013360932871864320,2256608786,negative,other,2018-07-01T09:57:28.000Z,"The Brexit scam that keeps on taking, and taking, and taking....  with nothing to show but despair! #BrexitScam #StopBrexitSaveBritain #StopBrexitSaveNHS
-https://t.co/a5K0Fv5ixf","['brexitscam', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
-43,43,43,43,43,43,43,1023184,1008248558238265344,245790402,negative,remain,2018-06-17T07:22:43.000Z,"@Usherwood @costello_jn It's a tissue of lies&amp; people aren't stupid they can see what's happening in NHS. The point is can the ' free' press actually challenge the Brexit lies because it seems to be failing to point out the whole charade of Brexit lies and obfuscation.
-#StopBrexitSaveNHS
-#Brexitshambles","['brexitshambles', 'stopbrexitsavenhs']"
-44,44,44,44,44,44,44,1023185,1008248558238265344,245790402,negative,remain,2018-06-17T07:22:43.000Z,"@Usherwood @costello_jn It's a tissue of lies&amp; people aren't stupid they can see what's happening in NHS. The point is can the ' free' press actually challenge the Brexit lies because it seems to be failing to point out the whole charade of Brexit lies and obfuscation.
-#StopBrexitSaveNHS
-#Brexitshambles","['brexitshambles', 'stopbrexitsavenhs']"
-45,45,45,45,45,45,45,705291,1004631165364563968,1520110002,negative,other,2018-06-07T07:48:29.000Z,@Jeremy_Hunt has finally smelled the coffee and admitted that brexit is harming the NHS. So what to do Jeremy? Here's a suggestion - support the #PeoplesVote so we can #StopBrexitSaveNHS,"['peoplesvote', 'stopbrexitsavenhs']"
-46,46,46,46,46,46,46,705290,1004631165364563968,1520110002,negative,other,2018-06-07T07:48:29.000Z,@Jeremy_Hunt has finally smelled the coffee and admitted that brexit is harming the NHS. So what to do Jeremy? Here's a suggestion - support the #PeoplesVote so we can #StopBrexitSaveNHS,"['peoplesvote', 'stopbrexitsavenhs']"
-47,47,47,47,47,47,47,2930485,1028375308179791872,137483767,positive,other,2018-08-11T20:19:14.000Z,@sarahwollaston Can you write it on the side of the NHS #brexit bus please Sarah? Keep up the great work that you are doing for us #remainers. #PeoplesVote #StopBrexitSaveNHS #FBPE #abtv,"['peoplesvote', 'stopbrexitsavenhs', 'fbpe', 'brexit', 'abtv', 'remainers']"
-48,48,48,48,48,48,48,2930486,1028375308179791872,137483767,positive,other,2018-08-11T20:19:14.000Z,@sarahwollaston Can you write it on the side of the NHS #brexit bus please Sarah? Keep up the great work that you are doing for us #remainers. #PeoplesVote #StopBrexitSaveNHS #FBPE #abtv,"['peoplesvote', 'stopbrexitsavenhs', 'fbpe', 'brexit', 'abtv', 'remainers']"
-49,49,49,49,49,49,49,4404518,1045651788710465536,52207152,neutral,other,2018-09-28T12:29:48.000Z,"We TOLD YOU #Brexit would end the NHS and the Tories would sell it off to Trump for trade deals. #Brexiters wouldnt believe us! NOW LOOK! #StopBrexitSaveBritain #StopBrexitSaveNHS #NHS #OptionToRemain #PeopleVote 
+https://t.co/BlMYnETUjU","['nhs70', 'countthewins', 'brexit', 'nhslove', 'nhs', 'stopbrexitsavenhs']"
+1045651788710465536,52207152,neutral,other,2018-09-28T12:29:48.000Z,"We TOLD YOU #Brexit would end the NHS and the Tories would sell it off to Trump for trade deals. #Brexiters wouldnt believe us! NOW LOOK! #StopBrexitSaveBritain #StopBrexitSaveNHS #NHS #OptionToRemain #PeopleVote 
 
-https://t.co/8IX5uqMZit","['peoplevote', 'stopbrexitsavebritain', 'optiontoremain', 'brexit', 'stopbrexitsavenhs', 'nhs', 'brexiters']"
-50,50,50,50,50,50,50,4404519,1045651788710465536,52207152,neutral,other,2018-09-28T12:29:48.000Z,"We TOLD YOU #Brexit would end the NHS and the Tories would sell it off to Trump for trade deals. #Brexiters wouldnt believe us! NOW LOOK! #StopBrexitSaveBritain #StopBrexitSaveNHS #NHS #OptionToRemain #PeopleVote 
+https://t.co/8IX5uqMZit","['peoplevote', 'brexit', 'brexiters', 'nhs', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'optiontoremain']"
+1045651788710465536,52207152,neutral,other,2018-09-28T12:29:48.000Z,"We TOLD YOU #Brexit would end the NHS and the Tories would sell it off to Trump for trade deals. #Brexiters wouldnt believe us! NOW LOOK! #StopBrexitSaveBritain #StopBrexitSaveNHS #NHS #OptionToRemain #PeopleVote 
 
-https://t.co/8IX5uqMZit","['peoplevote', 'stopbrexitsavebritain', 'optiontoremain', 'brexit', 'stopbrexitsavenhs', 'nhs', 'brexiters']"
-51,51,51,51,51,51,51,1807228,1016621758407958528,72684950,negative,other,2018-07-10T09:54:49.000Z,"Brexit: UK trade deal with US could trigger 'break-up' of NHS, leading expert warns - The Independent. We know. That’s why we don’t want Brex💩. #StopBrexitSaveNHS #StopBrexitChangeBritain  https://t.co/UytzQZ3ZUl","['stopbrexitchangebritain', 'stopbrexitsavenhs']"
-52,52,52,52,52,52,52,1807229,1016621758407958528,72684950,negative,other,2018-07-10T09:54:49.000Z,"Brexit: UK trade deal with US could trigger 'break-up' of NHS, leading expert warns - The Independent. We know. That’s why we don’t want Brex💩. #StopBrexitSaveNHS #StopBrexitChangeBritain  https://t.co/UytzQZ3ZUl","['stopbrexitchangebritain', 'stopbrexitsavenhs']"
-53,53,53,53,53,53,53,452862,999934979856584704,968804867807596544,negative,remain,2018-05-25T08:47:31.000Z,"@ChukaUmunna @TheIFS All the capital UK is losing and will lose by #Brexit can be dedicated to NHS by cancelling #Brexit. 
-#StopBrexitSaveNHS #StopBrexitSaveBritain","['stopbrexitsavebritain', 'brexit', 'brexit', 'stopbrexitsavenhs']"
-54,54,54,54,54,54,54,452863,999934979856584704,968804867807596544,negative,remain,2018-05-25T08:47:31.000Z,"@ChukaUmunna @TheIFS All the capital UK is losing and will lose by #Brexit can be dedicated to NHS by cancelling #Brexit. 
-#StopBrexitSaveNHS #StopBrexitSaveBritain","['stopbrexitsavebritain', 'brexit', 'brexit', 'stopbrexitsavenhs']"
-55,55,55,55,55,55,55,2954171,1028861583143985152,137483767,negative,remain,2018-08-13T04:31:31.000Z,@WeAreWeSwap Yes? #Brexit has caused #Sterling to drop. Imagine what could happen if #NoDealBrexit! #StopBrexitSaveBritain #StopBrexitSaveNHS,"['stopbrexitsavebritain', 'brexit', 'stopbrexitsavenhs', 'sterling', 'nodealbrexit']"
-56,56,56,56,56,56,56,2954170,1028861583143985152,137483767,negative,remain,2018-08-13T04:31:31.000Z,@WeAreWeSwap Yes? #Brexit has caused #Sterling to drop. Imagine what could happen if #NoDealBrexit! #StopBrexitSaveBritain #StopBrexitSaveNHS,"['stopbrexitsavebritain', 'brexit', 'stopbrexitsavenhs', 'sterling', 'nodealbrexit']"
-57,57,57,57,57,57,57,682290,1004241725487972352,746720737327747072,neutral,remain,2018-06-06T06:00:59.000Z,"@bbc5live @NickyAACampbell @rachelburden 
+https://t.co/8IX5uqMZit","['peoplevote', 'brexit', 'brexiters', 'nhs', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'optiontoremain']"
+1016424463250968576,72684950,negative,remain,2018-07-09T20:50:50.000Z,@brexit_lies @JimMBuzz @HereBeProof @Peston @theresa_may @EUtopean @nickreeves9876 @jcm247 Let them. The. Brex💩 will be dead and buried once and for all #StopBrexit #VoidA50 #SuspendA50 #RevokeA50 #PeoplesVote #StopBrexitSaveNHS #StopBrexitSaveDemocracy #StopBrexitChangeBritain,"['revokea50', 'stopbrexitchangebritain', 'stopbrexitsavedemocracy', 'suspenda50', 'voida50', 'peoplesvote', 'stopbrexit', 'stopbrexitsavenhs']"
+1016424463250968576,72684950,negative,remain,2018-07-09T20:50:50.000Z,@brexit_lies @JimMBuzz @HereBeProof @Peston @theresa_may @EUtopean @nickreeves9876 @jcm247 Let them. The. Brex💩 will be dead and buried once and for all #StopBrexit #VoidA50 #SuspendA50 #RevokeA50 #PeoplesVote #StopBrexitSaveNHS #StopBrexitSaveDemocracy #StopBrexitChangeBritain,"['revokea50', 'stopbrexitchangebritain', 'stopbrexitsavedemocracy', 'suspenda50', 'voida50', 'peoplesvote', 'stopbrexit', 'stopbrexitsavenhs']"
+1016621758407958528,72684950,negative,other,2018-07-10T09:54:49.000Z,"Brexit: UK trade deal with US could trigger 'break-up' of NHS, leading expert warns - The Independent. We know. That’s why we don’t want Brex💩. #StopBrexitSaveNHS #StopBrexitChangeBritain  https://t.co/UytzQZ3ZUl","['stopbrexitchangebritain', 'stopbrexitsavenhs']"
+1016621758407958528,72684950,negative,other,2018-07-10T09:54:49.000Z,"Brexit: UK trade deal with US could trigger 'break-up' of NHS, leading expert warns - The Independent. We know. That’s why we don’t want Brex💩. #StopBrexitSaveNHS #StopBrexitChangeBritain  https://t.co/UytzQZ3ZUl","['stopbrexitchangebritain', 'stopbrexitsavenhs']"
+1042693674113683456,916364191476404224,neutral,remain,2018-09-20T08:35:18.000Z,"All true, but none of this matters anywhere near as much as saving Britain from disastrous Brexit @jeremycorbyn 
+
+#StopLabourSilence
+#StopBrexitSaveDemocracy 
+#StopBrexitSaveBritain
+#StopBrexitSaveNHS https://t.co/f7rOzeGF2p","['stopbrexitsavedemocracy', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'stoplaboursilence']"
+1042693674113683456,916364191476404224,neutral,remain,2018-09-20T08:35:18.000Z,"All true, but none of this matters anywhere near as much as saving Britain from disastrous Brexit @jeremycorbyn 
+
+#StopLabourSilence
+#StopBrexitSaveDemocracy 
+#StopBrexitSaveBritain
+#StopBrexitSaveNHS https://t.co/f7rOzeGF2p","['stopbrexitsavedemocracy', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'stoplaboursilence']"
+1008974655116455936,245790402,negative,remain,2018-06-19T07:27:58.000Z,"@hyppi737 @JULESODOWD @ChukaUmunna @SuffEUAlliance They wanted change , that was nothing to do with EU. It was a change in domestic policies. Tragedy is Brexit undermines any attempt to address social inequalities because our economy gets whacked. We know given structural inequalities poorest will suffer most!
+#StopBrexitSaveNHS",['stopbrexitsavenhs']
+1008974655116455936,245790402,negative,remain,2018-06-19T07:27:58.000Z,"@hyppi737 @JULESODOWD @ChukaUmunna @SuffEUAlliance They wanted change , that was nothing to do with EU. It was a change in domestic policies. Tragedy is Brexit undermines any attempt to address social inequalities because our economy gets whacked. We know given structural inequalities poorest will suffer most!
+#StopBrexitSaveNHS",['stopbrexitsavenhs']
+1014751399291256832,834523846820642816,negative,other,2018-07-05T06:02:41.000Z,Debate Brexit! Trump and Brexit two sides of the same coin. And #StopBrexitSaveNHS ... hang on no option for buses? https://t.co/tae6SCsGPx,['stopbrexitsavenhs']
+1038409881169088512,143433549,negative,remain,2018-09-08T12:53:03.000Z,"I'm so tired of hearing Leavers claim Brexit will be worth ""short-term” economic pain. Weaker economy = less tax £ = NHS budget cuts. (&amp; we're already losing EU citizens working in NHS.) Hope Leavers don't fall ill in the short term, however long that lasts. #StopBrexit_SaveNHS https://t.co/xpTVN1w5PT",['stopbrexitsavenhs']
+1014751399291256832,834523846820642816,negative,other,2018-07-05T06:02:41.000Z,Debate Brexit! Trump and Brexit two sides of the same coin. And #StopBrexitSaveNHS ... hang on no option for buses? https://t.co/tae6SCsGPx,['stopbrexitsavenhs']
+1036615608148873216,927592843,positive,remain,2018-09-03T14:03:15.000Z,"@jeremycorbyn @Conservatives What planet are you living on?
+
+You are as much to blame as the Tories because of your support for Brexit!
+
+You are hoping to benefit from the catastrophe that will happen, whilst the public will be collateral damage!
+
+#StopBrexitSaveNHS",['stopbrexitsavenhs']
+1039766501497221120,32456965,negative,other,2018-09-12T06:43:46.000Z,"The NHS is suffering. 
+
+Brexit has scared EU nurses and doctors away and the NHS is already in a state of underfunding. 
+
+Don’t let the NHS be eroded like this. 
+
+#StopBrexitSaveNHS https://t.co/NYddYpH9Rz",['stopbrexitsavenhs']
+1036615608148873216,927592843,positive,remain,2018-09-03T14:03:15.000Z,"@jeremycorbyn @Conservatives What planet are you living on?
+
+You are as much to blame as the Tories because of your support for Brexit!
+
+You are hoping to benefit from the catastrophe that will happen, whilst the public will be collateral damage!
+
+#StopBrexitSaveNHS",['stopbrexitsavenhs']
+992324428951375872,22681885,negative,remain,2018-05-04T08:45:55.000Z,"@OwenJones84 @PeoplesMomentum You forgot to mention that libDems have controlling position.
+Labour now the Brexit Enabler.
+#StopbrexitsaveNHS",['stopbrexitsavenhs']
+1039766501497221120,32456965,negative,other,2018-09-12T06:43:46.000Z,"The NHS is suffering. 
+
+Brexit has scared EU nurses and doctors away and the NHS is already in a state of underfunding. 
+
+Don’t let the NHS be eroded like this. 
+
+#StopBrexitSaveNHS https://t.co/NYddYpH9Rz",['stopbrexitsavenhs']
+1008343981946753024,2210251178,negative,other,2018-06-17T13:41:54.000Z,"Theresa May refuses to say which taxes will rise to pay for her £20bn NHS boost
+
+Tory chairman of the Commons health committee attacks 'rubbish that this will be some Brexit bonanza'
+#StopBrexitSaveNHS
+https://t.co/8tBbXR55ly",['stopbrexitsavenhs']
+995918022790516736,245790402,negative,remain,2018-05-14T06:45:34.000Z,"@jessicaelgot If Brexit goes ahead it will seriously damage many cancer treatments. Not least because of Euratom which the Govt is failing to address. As we leave the EU we get less access to best medicine . Wholly wrong.
+#StopBrexitSaveNHS
+# protect access to cancer treatments
+# PeoplesVote",['stopbrexitsavenhs']
+995918022790516736,245790402,negative,remain,2018-05-14T06:45:34.000Z,"@jessicaelgot If Brexit goes ahead it will seriously damage many cancer treatments. Not least because of Euratom which the Govt is failing to address. As we leave the EU we get less access to best medicine . Wholly wrong.
+#StopBrexitSaveNHS
+# protect access to cancer treatments
+# PeoplesVote",['stopbrexitsavenhs']
+992324428951375872,22681885,negative,remain,2018-05-04T08:45:55.000Z,"@OwenJones84 @PeoplesMomentum You forgot to mention that libDems have controlling position.
+Labour now the Brexit Enabler.
+#StopbrexitsaveNHS",['stopbrexitsavenhs']
+1008343981946753024,2210251178,negative,other,2018-06-17T13:41:54.000Z,"Theresa May refuses to say which taxes will rise to pay for her £20bn NHS boost
+
+Tory chairman of the Commons health committee attacks 'rubbish that this will be some Brexit bonanza'
+#StopBrexitSaveNHS
+https://t.co/8tBbXR55ly",['stopbrexitsavenhs']
+1008299159844245504,2210251178,negative,other,2018-06-17T10:43:47.000Z,"Theresa May refuses to say which taxes will rise to pay for her £20bn NHS boost
+
+Tory chairman of the Commons health committee attacks 'rubbish that this will be some Brexit bonanza'
+#StopBrexitSaveNHS
+https://t.co/8tBbXR55ly",['stopbrexitsavenhs']
+1038409881169088512,143433549,negative,remain,2018-09-08T12:53:03.000Z,"I'm so tired of hearing Leavers claim Brexit will be worth ""short-term” economic pain. Weaker economy = less tax £ = NHS budget cuts. (&amp; we're already losing EU citizens working in NHS.) Hope Leavers don't fall ill in the short term, however long that lasts. #StopBrexit_SaveNHS https://t.co/xpTVN1w5PT",['stopbrexitsavenhs']
+1008299159844245504,2210251178,negative,other,2018-06-17T10:43:47.000Z,"Theresa May refuses to say which taxes will rise to pay for her £20bn NHS boost
+
+Tory chairman of the Commons health committee attacks 'rubbish that this will be some Brexit bonanza'
+#StopBrexitSaveNHS
+https://t.co/8tBbXR55ly",['stopbrexitsavenhs']
+1008248558238265344,245790402,negative,remain,2018-06-17T07:22:43.000Z,"@Usherwood @costello_jn It's a tissue of lies&amp; people aren't stupid they can see what's happening in NHS. The point is can the ' free' press actually challenge the Brexit lies because it seems to be failing to point out the whole charade of Brexit lies and obfuscation.
+#StopBrexitSaveNHS
+#Brexitshambles","['stopbrexitsavenhs', 'brexitshambles']"
+1008248558238265344,245790402,negative,remain,2018-06-17T07:22:43.000Z,"@Usherwood @costello_jn It's a tissue of lies&amp; people aren't stupid they can see what's happening in NHS. The point is can the ' free' press actually challenge the Brexit lies because it seems to be failing to point out the whole charade of Brexit lies and obfuscation.
+#StopBrexitSaveNHS
+#Brexitshambles","['stopbrexitsavenhs', 'brexitshambles']"
+1004631165364563968,1520110002,negative,other,2018-06-07T07:48:29.000Z,@Jeremy_Hunt has finally smelled the coffee and admitted that brexit is harming the NHS. So what to do Jeremy? Here's a suggestion - support the #PeoplesVote so we can #StopBrexitSaveNHS,"['stopbrexitsavenhs', 'peoplesvote']"
+1004631165364563968,1520110002,negative,other,2018-06-07T07:48:29.000Z,@Jeremy_Hunt has finally smelled the coffee and admitted that brexit is harming the NHS. So what to do Jeremy? Here's a suggestion - support the #PeoplesVote so we can #StopBrexitSaveNHS,"['stopbrexitsavenhs', 'peoplesvote']"
+1004241725487972352,746720737327747072,neutral,remain,2018-06-06T06:00:59.000Z,"@bbc5live @NickyAACampbell @rachelburden 
 Why have the people who rode in this bus not been prosecuted?
 The NHS is on its knees due to #Brexit! Why is it going ahead?
 #StopBrexitSaveBritain 
-#StopBrexitSaveNHS https://t.co/a31uoggEyA","['stopbrexitsavebritain', 'stopbrexitsavenhs', 'brexit']"
-58,58,58,58,58,58,58,682289,1004241725487972352,746720737327747072,neutral,remain,2018-06-06T06:00:59.000Z,"@bbc5live @NickyAACampbell @rachelburden 
+#StopBrexitSaveNHS https://t.co/a31uoggEyA","['stopbrexitsavenhs', 'stopbrexitsavebritain', 'brexit']"
+1004241725487972352,746720737327747072,neutral,remain,2018-06-06T06:00:59.000Z,"@bbc5live @NickyAACampbell @rachelburden 
 Why have the people who rode in this bus not been prosecuted?
 The NHS is on its knees due to #Brexit! Why is it going ahead?
 #StopBrexitSaveBritain 
-#StopBrexitSaveNHS https://t.co/a31uoggEyA","['stopbrexitsavebritain', 'stopbrexitsavenhs', 'brexit']"
-59,59,59,59,59,59,59,3906393,1041396684167802880,750781552053878784,negative,remain,2018-09-16T18:41:32.000Z,"@Femi_Sorry @BarryGardiner Corbyn isn't playing the long game &amp; never wanted anything else but brexit
+#StopBrexitSaveNHS https://t.co/a31uoggEyA","['stopbrexitsavenhs', 'stopbrexitsavebritain', 'brexit']"
+1013360932871864320,2256608786,negative,other,2018-07-01T09:57:28.000Z,"The Brexit scam that keeps on taking, and taking, and taking....  with nothing to show but despair! #BrexitScam #StopBrexitSaveBritain #StopBrexitSaveNHS
+https://t.co/a5K0Fv5ixf","['stopbrexitsavenhs', 'stopbrexitsavebritain', 'brexitscam']"
+1013360932871864320,2256608786,negative,other,2018-07-01T09:57:28.000Z,"The Brexit scam that keeps on taking, and taking, and taking....  with nothing to show but despair! #BrexitScam #StopBrexitSaveBritain #StopBrexitSaveNHS
+https://t.co/a5K0Fv5ixf","['stopbrexitsavenhs', 'stopbrexitsavebritain', 'brexitscam']"
+1041396684167802880,750781552053878784,negative,remain,2018-09-16T18:41:32.000Z,"@Femi_Sorry @BarryGardiner Corbyn isn't playing the long game &amp; never wanted anything else but brexit
 
 Only thing keeping May &amp; DUP on track is Labour front bench
 
@@ -169,8 +253,8 @@ NHS &amp; RCN &amp; GMC &amp; TUC &amp; Remain voters don't want Brexit
 #CountTheWins 
 #StopBrexitSaveBritain 
 #StopBrexitSaveDemocracy
-#StopBrexitSaveNHS https://t.co/yGSS6KQXbM","['stopbrexitsavebritain', 'stopbrexitsavenhs', 'stopbrexitsavedemocracy', 'countthewins']"
-60,60,60,60,60,60,60,3906394,1041396684167802880,750781552053878784,negative,remain,2018-09-16T18:41:32.000Z,"@Femi_Sorry @BarryGardiner Corbyn isn't playing the long game &amp; never wanted anything else but brexit
+#StopBrexitSaveNHS https://t.co/yGSS6KQXbM","['stopbrexitsavenhs', 'stopbrexitsavebritain', 'stopbrexitsavedemocracy', 'countthewins']"
+1041396684167802880,750781552053878784,negative,remain,2018-09-16T18:41:32.000Z,"@Femi_Sorry @BarryGardiner Corbyn isn't playing the long game &amp; never wanted anything else but brexit
 
 Only thing keeping May &amp; DUP on track is Labour front bench
 
@@ -179,224 +263,258 @@ NHS &amp; RCN &amp; GMC &amp; TUC &amp; Remain voters don't want Brexit
 #CountTheWins 
 #StopBrexitSaveBritain 
 #StopBrexitSaveDemocracy
-#StopBrexitSaveNHS https://t.co/yGSS6KQXbM","['stopbrexitsavebritain', 'stopbrexitsavenhs', 'stopbrexitsavedemocracy', 'countthewins']"
-61,61,61,61,61,61,61,3762057,1039766501497221120,32456965,negative,other,2018-09-12T06:43:46.000Z,"The NHS is suffering. 
+#StopBrexitSaveNHS https://t.co/yGSS6KQXbM","['stopbrexitsavenhs', 'stopbrexitsavebritain', 'stopbrexitsavedemocracy', 'countthewins']"
+1058688399777902592,981466857118076800,neutral,other,2018-11-03T11:52:38.000Z,#Brexit #NHS this is the real #BrexitDividend. It's a #BrexitDeficit. #StopBrexitSaveNHS https://t.co/gjPURZWGNk,"['brexitdividend', 'brexitdeficit', 'brexit', 'nhs', 'stopbrexitsavenhs']"
+1058688399777902592,981466857118076800,neutral,other,2018-11-03T11:52:38.000Z,#Brexit #NHS this is the real #BrexitDividend. It's a #BrexitDeficit. #StopBrexitSaveNHS https://t.co/gjPURZWGNk,"['brexitdividend', 'brexitdeficit', 'brexit', 'nhs', 'stopbrexitsavenhs']"
+1068570021981536256,174213060,positive,other,2018-11-30T18:18:40.000Z,@nomentmum Not stupid. TRUE. Economic decline means less money for NHS &amp; welfare. People will die because of Brexit if it goes ahead. #peoplesvote #StopBrexitSaveNHS,"['peoplesvote', 'stopbrexitsavenhs']"
+1068570021981536256,174213060,positive,other,2018-11-30T18:18:40.000Z,@nomentmum Not stupid. TRUE. Economic decline means less money for NHS &amp; welfare. People will die because of Brexit if it goes ahead. #peoplesvote #StopBrexitSaveNHS,"['peoplesvote', 'stopbrexitsavenhs']"
+1067319688848441344,916364191476404224,negative,remain,2018-11-27T07:30:18.000Z,"When people who have checked the facts say Brexit will be a disaster for the NHS, people ought to listen. 
 
-Brexit has scared EU nurses and doctors away and the NHS is already in a state of underfunding. 
-
-Don’t let the NHS be eroded like this. 
-
-#StopBrexitSaveNHS https://t.co/NYddYpH9Rz",['stopbrexitsavenhs']
-62,62,62,62,62,62,62,50582,992324428951375872,22681885,negative,remain,2018-05-04T08:45:55.000Z,"@OwenJones84 @PeoplesMomentum You forgot to mention that libDems have controlling position.
-Labour now the Brexit Enabler.
+#StopBrexitSaveNHS https://t.co/qZ38TtUmS8",['stopbrexitsavenhs']
+1066037436503883776,22681885,negative,remain,2018-11-23T18:35:05.000Z,"@Rachael_Swindon @FucknoMr @theresa_may Brexit is costing £400 million a week. There is no jobs first Brexit. The vote was flawed and the People want to Remain.
 #StopbrexitsaveNHS",['stopbrexitsavenhs']
-63,63,63,63,63,63,63,50581,992324428951375872,22681885,negative,remain,2018-05-04T08:45:55.000Z,"@OwenJones84 @PeoplesMomentum You forgot to mention that libDems have controlling position.
-Labour now the Brexit Enabler.
+1060119716696600576,747901327536172928,positive,other,2018-11-07T10:40:11.000Z,"Brexit: NHS nursing vacancies will top 51,000 by end of transition period in 2021, report warns
+
+“This is an extensive and credible report which should trouble everyone who cares about the future of health and care in the UK”
+
+#StopBrexitSaveNHS https://t.co/jxSmVR05Ye",['stopbrexitsavenhs']
+1066037436503883776,22681885,negative,remain,2018-11-23T18:35:05.000Z,"@Rachael_Swindon @FucknoMr @theresa_may Brexit is costing £400 million a week. There is no jobs first Brexit. The vote was flawed and the People want to Remain.
 #StopbrexitsaveNHS",['stopbrexitsavenhs']
-64,64,64,64,64,64,64,3534680,1036615608148873216,927592843,positive,remain,2018-09-03T14:03:15.000Z,"@jeremycorbyn @Conservatives What planet are you living on?
+1060119716696600576,747901327536172928,positive,other,2018-11-07T10:40:11.000Z,"Brexit: NHS nursing vacancies will top 51,000 by end of transition period in 2021, report warns
 
-You are as much to blame as the Tories because of your support for Brexit!
+“This is an extensive and credible report which should trouble everyone who cares about the future of health and care in the UK”
 
-You are hoping to benefit from the catastrophe that will happen, whilst the public will be collateral damage!
-
+#StopBrexitSaveNHS https://t.co/jxSmVR05Ye",['stopbrexitsavenhs']
+1073982109180669952,604647382,negative,remain,2018-12-15T16:44:23.000Z,"@AndrewMcmullins @rodnash2001 @jeremycorbyn Sad, but the evidence does suggest it's true. It should stop Brexit and focus on funding and mending the NHS.
 #StopBrexitSaveNHS",['stopbrexitsavenhs']
-65,65,65,65,65,65,65,3534681,1036615608148873216,927592843,positive,remain,2018-09-03T14:03:15.000Z,"@jeremycorbyn @Conservatives What planet are you living on?
-
-You are as much to blame as the Tories because of your support for Brexit!
-
-You are hoping to benefit from the catastrophe that will happen, whilst the public will be collateral damage!
-
-#StopBrexitSaveNHS",['stopbrexitsavenhs']
-66,66,66,66,66,66,66,1041202,1008343981946753024,2210251178,negative,other,2018-06-17T13:41:54.000Z,"Theresa May refuses to say which taxes will rise to pay for her £20bn NHS boost
-
-Tory chairman of the Commons health committee attacks 'rubbish that this will be some Brexit bonanza'
-#StopBrexitSaveNHS
-https://t.co/8tBbXR55ly",['stopbrexitsavenhs']
-67,67,67,67,67,67,67,1041201,1008343981946753024,2210251178,negative,other,2018-06-17T13:41:54.000Z,"Theresa May refuses to say which taxes will rise to pay for her £20bn NHS boost
-
-Tory chairman of the Commons health committee attacks 'rubbish that this will be some Brexit bonanza'
-#StopBrexitSaveNHS
-https://t.co/8tBbXR55ly",['stopbrexitsavenhs']
-68,68,68,68,68,68,68,1034208,1008299159844245504,2210251178,negative,other,2018-06-17T10:43:47.000Z,"Theresa May refuses to say which taxes will rise to pay for her £20bn NHS boost
-
-Tory chairman of the Commons health committee attacks 'rubbish that this will be some Brexit bonanza'
-#StopBrexitSaveNHS
-https://t.co/8tBbXR55ly",['stopbrexitsavenhs']
-69,69,69,69,69,69,69,1034207,1008299159844245504,2210251178,negative,other,2018-06-17T10:43:47.000Z,"Theresa May refuses to say which taxes will rise to pay for her £20bn NHS boost
-
-Tory chairman of the Commons health committee attacks 'rubbish that this will be some Brexit bonanza'
-#StopBrexitSaveNHS
-https://t.co/8tBbXR55ly",['stopbrexitsavenhs']
-70,70,70,70,70,70,70,1602827,1014751399291256832,834523846820642816,negative,other,2018-07-05T06:02:41.000Z,Debate Brexit! Trump and Brexit two sides of the same coin. And #StopBrexitSaveNHS ... hang on no option for buses? https://t.co/tae6SCsGPx,['stopbrexitsavenhs']
-71,71,71,71,71,71,71,1095327,1008974655116455936,245790402,negative,remain,2018-06-19T07:27:58.000Z,"@hyppi737 @JULESODOWD @ChukaUmunna @SuffEUAlliance They wanted change , that was nothing to do with EU. It was a change in domestic policies. Tragedy is Brexit undermines any attempt to address social inequalities because our economy gets whacked. We know given structural inequalities poorest will suffer most!
-#StopBrexitSaveNHS",['stopbrexitsavenhs']
-72,72,72,72,72,72,72,3666208,1038409881169088512,143433549,negative,remain,2018-09-08T12:53:03.000Z,"I'm so tired of hearing Leavers claim Brexit will be worth ""short-term” economic pain. Weaker economy = less tax £ = NHS budget cuts. (&amp; we're already losing EU citizens working in NHS.) Hope Leavers don't fall ill in the short term, however long that lasts. #StopBrexit_SaveNHS https://t.co/xpTVN1w5PT",['stopbrexitsavenhs']
-73,73,73,73,73,73,73,203166,995918022790516736,245790402,negative,remain,2018-05-14T06:45:34.000Z,"@jessicaelgot If Brexit goes ahead it will seriously damage many cancer treatments. Not least because of Euratom which the Govt is failing to address. As we leave the EU we get less access to best medicine . Wholly wrong.
-#StopBrexitSaveNHS
-# protect access to cancer treatments
-# PeoplesVote",['stopbrexitsavenhs']
-74,74,74,74,74,74,74,3762058,1039766501497221120,32456965,negative,other,2018-09-12T06:43:46.000Z,"The NHS is suffering. 
-
-Brexit has scared EU nurses and doctors away and the NHS is already in a state of underfunding. 
-
-Don’t let the NHS be eroded like this. 
-
-#StopBrexitSaveNHS https://t.co/NYddYpH9Rz",['stopbrexitsavenhs']
-75,75,75,75,75,75,75,1602826,1014751399291256832,834523846820642816,negative,other,2018-07-05T06:02:41.000Z,Debate Brexit! Trump and Brexit two sides of the same coin. And #StopBrexitSaveNHS ... hang on no option for buses? https://t.co/tae6SCsGPx,['stopbrexitsavenhs']
-76,76,76,76,76,76,76,3666209,1038409881169088512,143433549,negative,remain,2018-09-08T12:53:03.000Z,"I'm so tired of hearing Leavers claim Brexit will be worth ""short-term” economic pain. Weaker economy = less tax £ = NHS budget cuts. (&amp; we're already losing EU citizens working in NHS.) Hope Leavers don't fall ill in the short term, however long that lasts. #StopBrexit_SaveNHS https://t.co/xpTVN1w5PT",['stopbrexitsavenhs']
-77,77,77,77,77,77,77,203165,995918022790516736,245790402,negative,remain,2018-05-14T06:45:34.000Z,"@jessicaelgot If Brexit goes ahead it will seriously damage many cancer treatments. Not least because of Euratom which the Govt is failing to address. As we leave the EU we get less access to best medicine . Wholly wrong.
-#StopBrexitSaveNHS
-# protect access to cancer treatments
-# PeoplesVote",['stopbrexitsavenhs']
-78,78,78,78,78,78,78,1095328,1008974655116455936,245790402,negative,remain,2018-06-19T07:27:58.000Z,"@hyppi737 @JULESODOWD @ChukaUmunna @SuffEUAlliance They wanted change , that was nothing to do with EU. It was a change in domestic policies. Tragedy is Brexit undermines any attempt to address social inequalities because our economy gets whacked. We know given structural inequalities poorest will suffer most!
-#StopBrexitSaveNHS",['stopbrexitsavenhs']
-79,79,79,79,79,79,79,4028663,1042693674113683456,916364191476404224,neutral,remain,2018-09-20T08:35:18.000Z,"All true, but none of this matters anywhere near as much as saving Britain from disastrous Brexit @jeremycorbyn 
-
-#StopLabourSilence
-#StopBrexitSaveDemocracy 
-#StopBrexitSaveBritain
-#StopBrexitSaveNHS https://t.co/f7rOzeGF2p","['stoplaboursilence', 'stopbrexitsavedemocracy', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
-80,80,80,80,80,80,80,4028662,1042693674113683456,916364191476404224,neutral,remain,2018-09-20T08:35:18.000Z,"All true, but none of this matters anywhere near as much as saving Britain from disastrous Brexit @jeremycorbyn 
-
-#StopLabourSilence
-#StopBrexitSaveDemocracy 
-#StopBrexitSaveBritain
-#StopBrexitSaveNHS https://t.co/f7rOzeGF2p","['stoplaboursilence', 'stopbrexitsavedemocracy', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
-81,81,81,81,81,81,81,1779036,1016424463250968576,72684950,negative,remain,2018-07-09T20:50:50.000Z,@brexit_lies @JimMBuzz @HereBeProof @Peston @theresa_may @EUtopean @nickreeves9876 @jcm247 Let them. The. Brex💩 will be dead and buried once and for all #StopBrexit #VoidA50 #SuspendA50 #RevokeA50 #PeoplesVote #StopBrexitSaveNHS #StopBrexitSaveDemocracy #StopBrexitChangeBritain,"['voida50', 'stopbrexitchangebritain', 'peoplesvote', 'revokea50', 'stopbrexitsavenhs', 'stopbrexit', 'suspenda50', 'stopbrexitsavedemocracy']"
-82,82,82,82,82,82,82,1779037,1016424463250968576,72684950,negative,remain,2018-07-09T20:50:50.000Z,@brexit_lies @JimMBuzz @HereBeProof @Peston @theresa_may @EUtopean @nickreeves9876 @jcm247 Let them. The. Brex💩 will be dead and buried once and for all #StopBrexit #VoidA50 #SuspendA50 #RevokeA50 #PeoplesVote #StopBrexitSaveNHS #StopBrexitSaveDemocracy #StopBrexitChangeBritain,"['voida50', 'stopbrexitchangebritain', 'peoplesvote', 'revokea50', 'stopbrexitsavenhs', 'stopbrexit', 'suspenda50', 'stopbrexitsavedemocracy']"
-83,83,83,83,83,83,83,762579,1058688399777902592,981466857118076800,neutral,other,2018-11-03T11:52:38.000Z,#Brexit #NHS this is the real #BrexitDividend. It's a #BrexitDeficit. #StopBrexitSaveNHS https://t.co/gjPURZWGNk,"['brexitdeficit', 'brexitdividend', 'brexit', 'stopbrexitsavenhs', 'nhs']"
-84,84,84,84,84,84,84,762580,1058688399777902592,981466857118076800,neutral,other,2018-11-03T11:52:38.000Z,#Brexit #NHS this is the real #BrexitDividend. It's a #BrexitDeficit. #StopBrexitSaveNHS https://t.co/gjPURZWGNk,"['brexitdeficit', 'brexitdividend', 'brexit', 'stopbrexitsavenhs', 'nhs']"
-85,85,85,85,85,85,85,1947733,1068570021981536256,174213060,positive,other,2018-11-30T18:18:40.000Z,@nomentmum Not stupid. TRUE. Economic decline means less money for NHS &amp; welfare. People will die because of Brexit if it goes ahead. #peoplesvote #StopBrexitSaveNHS,"['peoplesvote', 'stopbrexitsavenhs']"
-86,86,86,86,86,86,86,1947732,1068570021981536256,174213060,positive,other,2018-11-30T18:18:40.000Z,@nomentmum Not stupid. TRUE. Economic decline means less money for NHS &amp; welfare. People will die because of Brexit if it goes ahead. #peoplesvote #StopBrexitSaveNHS,"['peoplesvote', 'stopbrexitsavenhs']"
-87,87,87,87,87,87,87,1939331,1068518429668204544,32456965,negative,other,2018-11-30T14:53:40.000Z,"There are none. 
+1068518429668204544,32456965,negative,other,2018-11-30T14:53:40.000Z,"There are none. 
 Brexit is damaging to the NHS. 
 
 #StopBrexitSaveNHS https://t.co/kxaTMVDauL",['stopbrexitsavenhs']
-88,88,88,88,88,88,88,2499,1051404006709432320,294607130,negative,other,2018-10-14T09:27:03.000Z,@TheSun Must be dreadful to be the only one that knows something terrible is happening. Luckily there’s hundreds of thousands of us that know brexit is a con #StopBrexitSaveNHS,['stopbrexitsavenhs']
-89,89,89,89,89,89,89,2032139,1069311904512966656,42732755,negative,other,2018-12-02T19:26:39.000Z,Brexit is already here! Project HERE not Project FEAR! #StopBrexitSaveNHS https://t.co/jHePIxtwF7,['stopbrexitsavenhs']
-90,90,90,90,90,90,90,1939330,1068518429668204544,32456965,negative,other,2018-11-30T14:53:40.000Z,"There are none. 
+1067319688848441344,916364191476404224,negative,remain,2018-11-27T07:30:18.000Z,"When people who have checked the facts say Brexit will be a disaster for the NHS, people ought to listen. 
+
+#StopBrexitSaveNHS https://t.co/qZ38TtUmS8",['stopbrexitsavenhs']
+1068518429668204544,32456965,negative,other,2018-11-30T14:53:40.000Z,"There are none. 
 Brexit is damaging to the NHS. 
 
 #StopBrexitSaveNHS https://t.co/kxaTMVDauL",['stopbrexitsavenhs']
-91,91,91,91,91,91,91,1593017,1066037436503883776,22681885,negative,remain,2018-11-23T18:35:05.000Z,"@Rachael_Swindon @FucknoMr @theresa_may Brexit is costing £400 million a week. There is no jobs first Brexit. The vote was flawed and the People want to Remain.
-#StopbrexitsaveNHS",['stopbrexitsavenhs']
-92,92,92,92,92,92,92,1593016,1066037436503883776,22681885,negative,remain,2018-11-23T18:35:05.000Z,"@Rachael_Swindon @FucknoMr @theresa_may Brexit is costing £400 million a week. There is no jobs first Brexit. The vote was flawed and the People want to Remain.
-#StopbrexitsaveNHS",['stopbrexitsavenhs']
-93,93,93,93,93,93,93,3117218,1083625927437897728,32456965,neutral,leave,2019-01-11T07:25:28.000Z,"Your patients as many other people in Britain have not been thought about and have not been planned for.  We have all been forgotten in the capitalist pipe dream of Brexit. 
+1051404006709432320,294607130,negative,other,2018-10-14T09:27:03.000Z,@TheSun Must be dreadful to be the only one that knows something terrible is happening. Luckily there’s hundreds of thousands of us that know brexit is a con #StopBrexitSaveNHS,['stopbrexitsavenhs']
+1069311904512966656,42732755,negative,other,2018-12-02T19:26:39.000Z,Brexit is already here! Project HERE not Project FEAR! #StopBrexitSaveNHS https://t.co/jHePIxtwF7,['stopbrexitsavenhs']
+1068076335963299840,32456965,positive,other,2018-11-29T09:36:57.000Z,"Figures show rise in number of EU nationals leaving the NHS since Brexit vote |- The New European
+
+26000 EU citizens have left the NHS since the referendum.  100.000 vacancies in the NHS.
+
+Destroying the NHS is very much part of Brexit. 
+#StopBrexitSaveNHS https://t.co/WCQ1euqko0",['stopbrexitsavenhs']
+1068076335963299840,32456965,positive,other,2018-11-29T09:36:57.000Z,"Figures show rise in number of EU nationals leaving the NHS since Brexit vote |- The New European
+
+26000 EU citizens have left the NHS since the referendum.  100.000 vacancies in the NHS.
+
+Destroying the NHS is very much part of Brexit. 
+#StopBrexitSaveNHS https://t.co/WCQ1euqko0",['stopbrexitsavenhs']
+1083625927437897728,32456965,neutral,leave,2019-01-11T07:25:28.000Z,"Your patients as many other people in Britain have not been thought about and have not been planned for.  We have all been forgotten in the capitalist pipe dream of Brexit. 
 
 #StopBrexitSaveNHS https://t.co/IrhtVdB6yu",['stopbrexitsavenhs']
-94,94,94,94,94,94,94,1873034,1068076335963299840,32456965,positive,other,2018-11-29T09:36:57.000Z,"Figures show rise in number of EU nationals leaving the NHS since Brexit vote |- The New European
-
-26000 EU citizens have left the NHS since the referendum.  100.000 vacancies in the NHS.
-
-Destroying the NHS is very much part of Brexit. 
-#StopBrexitSaveNHS https://t.co/WCQ1euqko0",['stopbrexitsavenhs']
-95,95,95,95,95,95,95,1763155,1067319688848441344,916364191476404224,negative,remain,2018-11-27T07:30:18.000Z,"When people who have checked the facts say Brexit will be a disaster for the NHS, people ought to listen. 
-
-#StopBrexitSaveNHS https://t.co/qZ38TtUmS8",['stopbrexitsavenhs']
-96,96,96,96,96,96,96,2498,1051404006709432320,294607130,negative,other,2018-10-14T09:27:03.000Z,@TheSun Must be dreadful to be the only one that knows something terrible is happening. Luckily there’s hundreds of thousands of us that know brexit is a con #StopBrexitSaveNHS,['stopbrexitsavenhs']
-97,97,97,97,97,97,97,857460,1060119716696600576,747901327536172928,positive,other,2018-11-07T10:40:11.000Z,"Brexit: NHS nursing vacancies will top 51,000 by end of transition period in 2021, report warns
-
-“This is an extensive and credible report which should trouble everyone who cares about the future of health and care in the UK”
-
-#StopBrexitSaveNHS https://t.co/jxSmVR05Ye",['stopbrexitsavenhs']
-98,98,98,98,98,98,98,2032140,1069311904512966656,42732755,negative,other,2018-12-02T19:26:39.000Z,Brexit is already here! Project HERE not Project FEAR! #StopBrexitSaveNHS https://t.co/jHePIxtwF7,['stopbrexitsavenhs']
-99,99,99,99,99,99,99,1873033,1068076335963299840,32456965,positive,other,2018-11-29T09:36:57.000Z,"Figures show rise in number of EU nationals leaving the NHS since Brexit vote |- The New European
-
-26000 EU citizens have left the NHS since the referendum.  100.000 vacancies in the NHS.
-
-Destroying the NHS is very much part of Brexit. 
-#StopBrexitSaveNHS https://t.co/WCQ1euqko0",['stopbrexitsavenhs']
-100,100,100,100,100,100,100,2609359,1073982109180669952,604647382,negative,remain,2018-12-15T16:44:23.000Z,"@AndrewMcmullins @rodnash2001 @jeremycorbyn Sad, but the evidence does suggest it's true. It should stop Brexit and focus on funding and mending the NHS.
-#StopBrexitSaveNHS",['stopbrexitsavenhs']
-101,101,101,101,101,101,101,857461,1060119716696600576,747901327536172928,positive,other,2018-11-07T10:40:11.000Z,"Brexit: NHS nursing vacancies will top 51,000 by end of transition period in 2021, report warns
-
-“This is an extensive and credible report which should trouble everyone who cares about the future of health and care in the UK”
-
-#StopBrexitSaveNHS https://t.co/jxSmVR05Ye",['stopbrexitsavenhs']
-102,102,102,102,102,102,102,1763154,1067319688848441344,916364191476404224,negative,remain,2018-11-27T07:30:18.000Z,"When people who have checked the facts say Brexit will be a disaster for the NHS, people ought to listen. 
-
-#StopBrexitSaveNHS https://t.co/qZ38TtUmS8",['stopbrexitsavenhs']
-103,103,103,103,103,103,103,499150,1055369349106749440,137483767,negative,remain,2018-10-25T08:03:55.000Z,They are too busy spending it getting ready for #Brexit. Good money after bad. It's a disgrace. #StopBrexitSaveBritain #stopBrexitSaveNHS #StopBrexitSavePuplicServices https://t.co/gexql41QZY,"['stopbrexitsavepuplicservices', 'stopbrexitsavebritain', 'stopbrexitsavenhs', 'brexit']"
-104,104,104,104,104,104,104,499149,1055369349106749440,137483767,negative,remain,2018-10-25T08:03:55.000Z,They are too busy spending it getting ready for #Brexit. Good money after bad. It's a disgrace. #StopBrexitSaveBritain #stopBrexitSaveNHS #StopBrexitSavePuplicServices https://t.co/gexql41QZY,"['stopbrexitsavepuplicservices', 'stopbrexitsavebritain', 'stopbrexitsavenhs', 'brexit']"
-105,105,105,105,105,105,105,1119452,1106162482270429184,946419190117912320,negative,remain,2019-03-14T11:57:41.000Z,"@JonAshworth @jeremycorbyn Agree and BREXIT is only going to make it worse.  
+1051404006709432320,294607130,negative,other,2018-10-14T09:27:03.000Z,@TheSun Must be dreadful to be the only one that knows something terrible is happening. Luckily there’s hundreds of thousands of us that know brexit is a con #StopBrexitSaveNHS,['stopbrexitsavenhs']
+1069311904512966656,42732755,negative,other,2018-12-02T19:26:39.000Z,Brexit is already here! Project HERE not Project FEAR! #StopBrexitSaveNHS https://t.co/jHePIxtwF7,['stopbrexitsavenhs']
+1055369349106749440,137483767,negative,remain,2018-10-25T08:03:55.000Z,They are too busy spending it getting ready for #Brexit. Good money after bad. It's a disgrace. #StopBrexitSaveBritain #stopBrexitSaveNHS #StopBrexitSavePuplicServices https://t.co/gexql41QZY,"['stopbrexitsavepuplicservices', 'stopbrexitsavebritain', 'brexit', 'stopbrexitsavenhs']"
+1055369349106749440,137483767,negative,remain,2018-10-25T08:03:55.000Z,They are too busy spending it getting ready for #Brexit. Good money after bad. It's a disgrace. #StopBrexitSaveBritain #stopBrexitSaveNHS #StopBrexitSavePuplicServices https://t.co/gexql41QZY,"['stopbrexitsavepuplicservices', 'stopbrexitsavebritain', 'brexit', 'stopbrexitsavenhs']"
+1103634339017961472,1016443298880385024,neutral,remain,2019-03-07T12:31:45.000Z,"@jeremycorbyn It’s a deliberate underfunding strategy.  And if Brexit happens it will also be used to accelerate privatising the NHS.
 
 #StopBrexitSaveNHS",['stopbrexitsavenhs']
-106,106,106,106,106,106,106,917355,1103634339017961472,1016443298880385024,neutral,remain,2019-03-07T12:31:45.000Z,"@jeremycorbyn It’s a deliberate underfunding strategy.  And if Brexit happens it will also be used to accelerate privatising the NHS.
+1106162482270429184,946419190117912320,negative,remain,2019-03-14T11:57:41.000Z,"@JonAshworth @jeremycorbyn Agree and BREXIT is only going to make it worse.  
 
 #StopBrexitSaveNHS",['stopbrexitsavenhs']
-107,107,107,107,107,107,107,1255800,1122191648098791424,1604123390,negative,leave,2019-04-27T17:31:52.000Z,#AffordableHealthcare for all will be a myth of the past after Brexit. #StopBrexitSaveNHS https://t.co/5Ossxh9evv,"['affordablehealthcare', 'stopbrexitsavenhs']"
-108,108,108,108,108,108,108,1161558,1120030243870388224,876408240,negative,remain,2019-04-21T18:23:13.000Z,"This was always the Brexit criminals' intention. The fake NHS leaflets and Bus Ad were deliberate mis-directions.
-
-#StopBrexit 
-#stopbrexitsavenhs https://t.co/NIS415OTNX","['stopbrexit', 'stopbrexitsavenhs']"
-109,109,109,109,109,109,109,1011888,1116742167756705792,2701104476,neutral,other,2019-04-12T16:37:35.000Z,"The @brexitparty_uk is anti NHS.
-
-Let's protect our NHS from these vultures. 
-
-#Brexit #BrexitParty #StopBrexitSaveBritain #StopBrexitSaveNHS https://t.co/MtUKm3FGky","['stopbrexitsavebritain', 'brexit', 'brexitparty', 'stopbrexitsavenhs']"
-110,110,110,110,110,110,110,1565926,1127862950142926848,2701104476,neutral,remain,2019-05-13T09:07:36.000Z,"The @brexitparty_uk want to end the #NHS, no wonder they won't publish their manefesto!
+1127862950142926848,2701104476,neutral,remain,2019-05-13T09:07:36.000Z,"The @brexitparty_uk want to end the #NHS, no wonder they won't publish their manefesto!
 
 https://t.co/0o909lPFUC
 
-#Brexit #StopBrexitSaveBritain #StopBrexitSaveNHS #BrexitParty_UK #RemainBacklash","['stopbrexitsavebritain', 'nhs', 'remainbacklash', 'brexit', 'brexitparty_uk', 'stopbrexitsavenhs']"
-111,111,111,111,111,111,111,1434269,1125359337743032320,37853509,positive,remain,2019-05-06T11:19:08.000Z,"This is the sort of thing we'll be anticipating in the UK if we allow Brexit, and the sell off of the NHS to US corporate interests, to happen. #StopBrexitsaveNHS https://t.co/Lvmc9PsDAi",['stopbrexitsavenhs']
-112,112,112,112,112,112,112,206423,1135941593553408000,709437204607705088,negative,other,2019-06-04T16:09:15.000Z,"So, wtf happened to A vote for #Brexit
-was a vote to #saveourNHS
+#Brexit #StopBrexitSaveBritain #StopBrexitSaveNHS #BrexitParty_UK #RemainBacklash","['brexit', 'remainbacklash', 'brexitparty_uk', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'nhs']"
+1116742167756705792,2701104476,neutral,other,2019-04-12T16:37:35.000Z,"The @brexitparty_uk is anti NHS.
 
-Donald Trump says a potential US-UK trade deal would include #NHS
+Let's protect our NHS from these vultures. 
 
-#TrumpUKVisit
-#BollocksToBrexit 
+#Brexit #BrexitParty #StopBrexitSaveBritain #StopBrexitSaveNHS https://t.co/MtUKm3FGky","['brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'brexitparty']"
+1120030243870388224,876408240,negative,remain,2019-04-21T18:23:13.000Z,"This was always the Brexit criminals' intention. The fake NHS leaflets and Bus Ad were deliberate mis-directions.
+
+#StopBrexit 
+#stopbrexitsavenhs https://t.co/NIS415OTNX","['stopbrexit', 'stopbrexitsavenhs']"
+1125359337743032320,37853509,positive,remain,2019-05-06T11:19:08.000Z,"This is the sort of thing we'll be anticipating in the UK if we allow Brexit, and the sell off of the NHS to US corporate interests, to happen. #StopBrexitsaveNHS https://t.co/Lvmc9PsDAi",['stopbrexitsavenhs']
+1122191648098791424,1604123390,negative,leave,2019-04-27T17:31:52.000Z,#AffordableHealthcare for all will be a myth of the past after Brexit. #StopBrexitSaveNHS https://t.co/5Ossxh9evv,"['stopbrexitsavenhs', 'affordablehealthcare']"
+1141970055250534400,1141296779876556800,negative,remain,2019-06-21T07:24:12.000Z,"@FlatCoatMama I hope, Ms. May will retract the Brexit request before leaving the #10.
+
+The Brexitears have caused enough damage to the reoutation of the UK politics. So, it has to come the day to stop this big lie of Boris.
+#exitfrombrexit #StopBrexit #StopBrexitSaveBritain #stopbrexitsavenhs","['10', 'exitfrombrexit', 'stopbrexit', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
+1138043216459157504,2650194375,positive,remain,2019-06-10T11:20:21.000Z,"#Brexit  #StopBrexitSaveBritain  #StopBrexitSaveNHS  #Marr  #BBCQT 
+ Just want the country needs a good dollop of  Tory democracy. https://t.co/iPbGfYszbe","['bbcqt', 'brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'marr']"
+1136548126754521088,551787952,neutral,remain,2019-06-06T08:19:24.000Z,@CricketingMan @Paul42980402 @maitlis Also said it was 'clear from #bbcqt audiences that even #Remainers now wanted us to 'get on with #Brexit'  - what utter bollocks on every level. #StopBrexitSaveBritain #StopBrexitSaveNHS #VoteLeaveBrokeTheLaw,"['bbcqt', 'brexit', 'voteleavebrokethelaw', 'remainers', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+1139051183635607552,996373477660741632,positive,remain,2019-06-13T06:05:39.000Z,"@bbclaurak If you must call him Mr Stop Brexit on Twitter, please include the appropriate hashtags, #StopBrexit &amp; #BollocksToBoris. After all, Twitter is a conversation.
+
+#BollocksToBrexit
+#stopbrexitsavenhs
+#brexitchaos
+#StopBrexitSaveBritain
+#StopBrexitFixBritain","['bollockstobrexit', 'bollockstoboris', 'brexitchaos', 'stopbrexitfixbritain', 'stopbrexit', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
+1135940848498221056,709437204607705088,negative,other,2019-06-04T16:06:17.000Z,"@realDonaldTrump sparks row over NHS as Nigel Farage arrives for talks. 
+
+A Fucking #Brexit fire sale! 
+
+#StopBrexitSaveBritain
 #StopBrexitSaveNHS
-#TrumpProtest
+#BollocksToBrexit
+#bollockstotrump
+#TrumpUKVisit
+ https://t.co/FxEyMi3NYF","['bollockstobrexit', 'bollockstotrump', 'trumpukvisit', 'brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+1146010443225473024,2810715472,negative,other,2019-07-02T10:59:16.000Z,"@JSHeappey Getting brexit 'sorted' will not help the country as you are very much aware. It was NOT 52% of the UK population! Just 52% on the day. #PeoplesVote Looking forward to the GE which will turn SW yellow and the majority #bollockstobrexit will be heard.
+#stopbrexitsavenhs","['bollockstobrexit', 'peoplesvote', 'stopbrexitsavenhs']"
+1136342352082165760,23937235,negative,remain,2019-06-05T18:41:43.000Z,"Ok question to all!
+What do you think should happen to our Economy for Brexeteers to recognise that maybe just maybe #Brexit is damaging this Country! 
+#StopBrexit #StopBrexitSaveNHS #RevokeArticle50 #BollocksToBrexit https://t.co/5Jvauu3WzV","['bollockstobrexit', 'revokearticle50', 'brexit', 'stopbrexit', 'stopbrexitsavenhs']"
+1136574218525642752,725308795396710400,neutral,other,2019-06-06T10:03:04.000Z,"@SkyNewsBreak So, the Ford factory closure has nothing to do with Brexit? Question then: how many car factories are closing and leaving mainland Europe? Wake up. Most of these announcements are coming from the UK. @LibDems #BrexitMeansChaos #bolloxtobrexit #StopBrexitSaveNHS @guardiannews","['bolloxtobrexit', 'stopbrexitsavenhs', 'brexitmeanschaos']"
+1143881666353598464,95766237,negative,remain,2019-06-26T14:00:16.000Z,"Nothing like escaping the shit of #Brexit &amp; the #ToryLeadershipContest with a good ol’ #MillsandBoon 
 
-https://t.co/WjO0u4yscZ","['brexit', 'bollockstobrexit', 'trumpukvisit', 'stopbrexitsavenhs', 'nhs', 'saveournhs', 'trumpprotest']"
-113,113,113,113,113,113,113,781915,1146707235982254080,369573499,positive,remain,2019-07-04T09:08:04.000Z,@JamesfWells @Lstedmanbryce No mandate huh?  Sounds a lot like your no-deal #brexit. #RevokeArticle50 #stopbrexitsavenhs #FBPE,"['brexit', 'fbpe', 'stopbrexitsavenhs', 'revokearticle50']"
-114,114,114,114,114,114,114,222846,1136192633800396800,791903121761046528,neutral,other,2019-06-05T08:46:47.000Z,"What do you want?
+#BorisJohnsonShouldNotBePM 
+#BorisJohnson 
+#Liar #Cheat 
 
-#Brexit Or #nhs? 
-You can't have both. 
+#StopBrexitSaveBritain 
+#StopBrexitSaveNHS https://t.co/rk08QL7KCJ","['borisjohnsonshouldnotbepm', 'liar', 'millsandboon', 'cheat', 'brexit', 'toryleadershipcontest', 'borisjohnson', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+1139946609637306368,1043343001,negative,other,2019-06-15T17:23:45.000Z,@BorisJohnson #stopbrexitsavenhs  @jeremycorbyn will never be in government because he wants #brexit too! #Brexit is obscene . It will break the UK not unite it!!!,"['brexit', 'brexit', 'stopbrexitsavenhs']"
+1136615700343267328,1156784420,negative,remain,2019-06-06T12:47:54.000Z,"@FreddieBailey96 Oh no it isn’t. If there is a @UKLabour -enabled #Brexit, there won’t be an #NHS left to save.
+#CorbynOut #ResignCorbyn #BrexitisFraud #StopBrexitSaveBritain #StopBrexitSaveNHS 🇪🇺🇬🇧🇪🇺","['brexit', 'brexitisfraud', 'stopbrexitsavenhs', 'resigncorbyn', 'nhs', 'corbynout', 'stopbrexitsavebritain']"
+1136587236475101184,937019478,negative,remain,2019-06-06T10:54:48.000Z,#DDay veterans warn against #Brexit. #PeterboroughByElection #StopBrexitSaveBritain #StopBrexitSaveNHS #VoteLibDems https://t.co/mnjl14IYjy,"['brexit', 'dday', 'peterboroughbyelection', 'votelibdems', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+1135240769986584576,769133605469691904,negative,remain,2019-06-02T17:44:25.000Z,"I could cope with Hannan's ""horrible vision of every #Tory MP losing his seat, a Lib-Lab government cancelling #Brexit""
 
-#StopBrexitSaveNHS","['brexit', 'nhs?', 'stopbrexitsavenhs']"
-115,115,115,115,115,115,115,293043,1137033512337518592,1032970380888219520,neutral,other,2019-06-07T16:28:09.000Z,"@TheBigamistBook @k8egodfrey #Brexit supporting Parties inc @Conservatives @BorisJohnson @jeremycorbyn @UKLabour, Nigel_Farage @brexitparty_uk funded by Dark Money &amp; @Arron_banks health  insurers are too extremist to put UK, #EU, #NHS before self interest #RevokeA50 #RemainEUPartyCoalition #StopBrexitSaveNHS","['brexit', 'revokea50', 'eu', 'stopbrexitsavenhs', 'nhs', 'remaineupartycoalition']"
-116,116,116,116,116,116,116,717578,1145674001924132864,1043343001,negative,remain,2019-07-01T12:42:22.000Z,@Jeremy_Hunt Do #RevokeArticle50 #RevokeRemainRebuild #stopbrexitsaveNHS you know it makes sense. Kill obscene ruinous destructive #Brexit,"['brexit', 'revokeremainrebuild', 'stopbrexitsavenhs', 'revokearticle50']"
-117,117,117,117,117,117,117,218028,1136122452705239040,943788254,negative,remain,2019-06-05T04:07:55.000Z,"@FreddieBailey96 ...and #StopBrexit... we need money to keep the country going... #Brexit will devastate the economy 
+Could you?
 
-#StopBrexitSaveNHS #VoteLeaveBrokeTheLaw","['brexit', 'stopbrexit', 'voteleavebrokethelaw', 'stopbrexitsavenhs']"
-118,118,118,118,118,118,118,437191,1139894307765313536,1043343001,positive,other,2019-06-15T13:55:55.000Z,"@JacquesSalade @NoelGallagher What a bstrd! We won't need to go to North Korea if #Brexit happens , it will come to us. (well to to him obviously as he will be in the South of France or Bahamas or somewhere safe and plush)  #stopbrexitsavenhs","['brexit', 'stopbrexitsavenhs']"
-119,119,119,119,119,119,119,506966,1141250451758882816,777831818347311104,negative,remain,2019-06-19T07:44:45.000Z,"Coming soon to a place near you...
+#StopBrexitSaveBritain #StopBrexitSaveNHS
+#PeoplesVote
+
+https://t.co/f4dLbTdc8i","['brexit', 'peoplesvote', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'tory']"
+1141618423224578048,817401306,neutral,remain,2019-06-20T08:06:56.000Z,"@Steph_Peacock Unfortunately for you every research has shown that #Brexit in any form does the opposite of protecting jobs and rights. That #BrexitOutcome is Unicorn thinking!
+#stopbrexitsavenhs 
+#StopBrexit
+#Therearenonesoblind","['brexit', 'stopbrexit', 'therearenonesoblind', 'brexitoutcome', 'stopbrexitsavenhs']"
+1146004126389743616,1043343001,negative,other,2019-07-02T10:34:10.000Z,@damocrat @maitlis @DamianGreen you are blackmailing EU27 holding the UK people hostages threatening to push them over the cliff. The majority of us now reject obscene #Brexit as we realise it is a ploy to save @Conservatives party from a Farage take over #StopBrexitSaveBritain #stopbrexitsavenhs,"['brexit', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
+1145018054646140928,1043343001,negative,remain,2019-06-29T17:15:52.000Z,@BBCBreakfast stop lying about everything in order to promote the #Brexit obscenity #StopBrexitSaveBritain #stopbrexitsavenhs https://t.co/TfC0USn7uv,"['brexit', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
+1143845717460627456,3091257648,negative,remain,2019-06-26T11:37:25.000Z,"There is no good #Brexit and most Tory MPs know it. They are now prepared  to sell out the country's interests just so as to say ""done #Brexit"" . It will not be over as it will take years to repair the damage this government has done. #stopBrexitSaveNHS 
+#StopBrexitSaveBritain https://t.co/64f5nUqexM","['brexit', 'stopbrexitsavebritain', 'stopbrexitsavenhs', 'brexit']"
+1140190204067745792,1043343001,positive,other,2019-06-16T09:31:43.000Z,"@trussliz That's it in a nutshell. Super rich tax averse Tory billionaires should keep their own money eg. offshore accounts &amp; get even richer. Those of us lucky enough to still have a job  in #Brexit can be promised a token tax reduction, the rest can rot in the gutter. #StopBrexitSaveNHS","['brexit', 'stopbrexitsavenhs']"
+1150746933482446848,1577631582,positive,remain,2019-07-15T12:40:23.000Z,"Attended at hospital today by a Lithuanian nurse who replaced the plaster cast on my fractured wrist. Super friendly and efficient  so I asked 'you're not going back are you, we need people like you?'. Mercifully she said no, she wasnt going to #Brexit #StopBrexitSaveNHS","['brexit', 'stopbrexitsavenhs']"
+1146082668330852352,801821634973892608,negative,other,2019-07-02T15:46:15.000Z,@sazmeister88 I favour #stopbrexitsavenhs - problem is &amp; I level the accusation at both sides (yes me &amp; you included) you can’t mention many things in a collaborative let’s stop #Brexit way to Lab types or LibDem types without one of them going ooo austerity or ooo PFI / pinko / yellow Tory 🤷‍♂️,"['brexit', 'stopbrexitsavenhs']"
+1147100918724407296,127998587,positive,other,2019-07-05T11:12:25.000Z,"A wTory coup I coup agree with better still #stopbrexitsavenhs 
+
+https://t.co/u8lCdOMWZb
+
+#Brexit","['brexit', 'stopbrexitsavenhs']"
+1136182389875576832,872158753008877440,negative,remain,2019-06-05T08:06:05.000Z,"There is no version of #Brexit which will benefit the NHS—only varying degrees of harm -
+#StopBrexitSaveNHS
+ https://t.co/rlbuUvU3uH","['brexit', 'stopbrexitsavenhs']"
+1157935550646669312,1029273979561947136,negative,other,2019-08-04T08:45:23.000Z,"@jeremycorbyn FINALLY - you're waking up to the threat.
+
+And what is it that enables Johnson to undermine and eventually sell off the NHS? #Brexit
+
+#StopBrexitSaveNHS https://t.co/I68pSV9PC1","['brexit', 'stopbrexitsavenhs']"
+1136164335032647680,15097477,neutral,other,2019-06-05T06:54:21.000Z,"@NicolaSturgeon @ScotGovFM As far as I see it, the main goal of #Brexit has always been so that there can be trade deal with the US to sell of bits of the NHS. #StopBrexitSaveNHS","['brexit', 'stopbrexitsavenhs']"
+1151492852972687360,430612696,neutral,other,2019-07-17T14:04:24.000Z,"So much for the smooth and orderly #Brexit, with no downsides, only a very considerable upside, that Brexiters promised us. #StopBrexitSaveNHS https://t.co/QCXwLnNOvu","['brexit', 'stopbrexitsavenhs']"
+1139924851148374016,405590291,neutral,other,2019-06-15T15:57:17.000Z,"@JacquesSalade won't need to, Noel. if we're foolish enough to continue with #Brexit, we'll become like North Korea. #stopbrexitsavenhs","['brexit', 'stopbrexitsavenhs']"
+1141250451758882816,777831818347311104,negative,remain,2019-06-19T07:44:45.000Z,"Coming soon to a place near you...
 
 Once Tories have destroyed our NHS and US healthcare has stepped in to 'help' 
 
 #Brexit 
 #StopBrexitSaveNHS 
 (#LeaveEU) https://t.co/g1pwGtbSzb","['brexit', 'stopbrexitsavenhs']"
-120,120,120,120,120,120,120,253975,1136633242969366528,3091257648,negative,remain,2019-06-06T13:57:37.000Z,That whst supporting #Brexit does.  You are equally tesponsible as those far right Tories and Farage for this toxic mess that our country is now suffering.#StopBrexitSaveBritain #StopBrexitSaveNHS https://t.co/S7sOyc8y2Y,"['brexit', 'stopbrexitsavenhs']"
-121,121,121,121,121,121,121,245795,1136554397465567232,1022591603330961408,neutral,other,2019-06-06T08:44:19.000Z,@mrjamesob #Brexit doesn’t make any sense!! #StopBrexitSaveNHS,"['brexit', 'stopbrexitsavenhs']"
-122,122,122,122,122,122,122,1425306,1157935550646669312,1029273979561947136,negative,other,2019-08-04T08:45:23.000Z,"@jeremycorbyn FINALLY - you're waking up to the threat.
+1136554397465567232,1022591603330961408,neutral,other,2019-06-06T08:44:19.000Z,@mrjamesob #Brexit doesn’t make any sense!! #StopBrexitSaveNHS,"['brexit', 'stopbrexitsavenhs']"
+1139894307765313536,1043343001,positive,other,2019-06-15T13:55:55.000Z,"@JacquesSalade @NoelGallagher What a bstrd! We won't need to go to North Korea if #Brexit happens , it will come to us. (well to to him obviously as he will be in the South of France or Bahamas or somewhere safe and plush)  #stopbrexitsavenhs","['brexit', 'stopbrexitsavenhs']"
+1136633242969366528,3091257648,negative,remain,2019-06-06T13:57:37.000Z,That whst supporting #Brexit does.  You are equally tesponsible as those far right Tories and Farage for this toxic mess that our country is now suffering.#StopBrexitSaveBritain #StopBrexitSaveNHS https://t.co/S7sOyc8y2Y,"['brexit', 'stopbrexitsavenhs']"
+1136182593228066816,18865355,positive,other,2019-06-05T08:06:54.000Z,"Then the solution is to #StopBrexitSaveNHS (and much of the rest of our economy). You know that no #Brexit can deliver on your six tests, so why not be honest with citizens? Why all the ducking and diving? https://t.co/HDgZNivzgs","['brexit', 'stopbrexitsavenhs']"
+1136192633800396800,791903121761046528,neutral,other,2019-06-05T08:46:47.000Z,"What do you want?
 
-And what is it that enables Johnson to undermine and eventually sell off the NHS? #Brexit
+#Brexit Or #nhs? 
+You can't have both. 
 
-#StopBrexitSaveNHS https://t.co/I68pSV9PC1","['brexit', 'stopbrexitsavenhs']"
-123,123,123,123,123,123,123,220000,1136164335032647680,15097477,neutral,other,2019-06-05T06:54:21.000Z,"@NicolaSturgeon @ScotGovFM As far as I see it, the main goal of #Brexit has always been so that there can be trade deal with the US to sell of bits of the NHS. #StopBrexitSaveNHS","['brexit', 'stopbrexitsavenhs']"
-124,124,124,124,124,124,124,806116,1147100918724407296,127998587,positive,other,2019-07-05T11:12:25.000Z,"A wTory coup I coup agree with better still #stopbrexitsavenhs 
+#StopBrexitSaveNHS","['brexit', 'stopbrexitsavenhs', 'nhs?']"
+1136901939717914624,865274139774513152,neutral,other,2019-06-07T07:45:19.000Z,"@RoyMotteram And that's in a 60% leave voting constituency. Seems as though people are realising that #Brexit means #OurNHS won't be safe. #StopBrexitSaveNHS.
 
-https://t.co/u8lCdOMWZb
+#PeterboroughByElection","['brexit', 'stopbrexitsavenhs', 'peterboroughbyelection', 'ournhs']"
+1136296232907939840,741223071189741440,negative,other,2019-06-05T15:38:27.000Z,"If he had put that on the side of a bus it wouldn't have made it out the depot! 👊🔥
+#Brexit #StopBrexitSaveNHS #leave   
+#Remain
+https://t.co/jC7yBiN4OT","['brexit', 'stopbrexitsavenhs', 'remain', 'leave']"
+1136122452705239040,943788254,negative,remain,2019-06-05T04:07:55.000Z,"@FreddieBailey96 ...and #StopBrexit... we need money to keep the country going... #Brexit will devastate the economy 
 
-#Brexit","['brexit', 'stopbrexitsavenhs']"
-125,125,125,125,125,125,125,446520,1140190204067745792,1043343001,positive,other,2019-06-16T09:31:43.000Z,"@trussliz That's it in a nutshell. Super rich tax averse Tory billionaires should keep their own money eg. offshore accounts &amp; get even richer. Those of us lucky enough to still have a job  in #Brexit can be promised a token tax reduction, the rest can rot in the gutter. #StopBrexitSaveNHS","['brexit', 'stopbrexitsavenhs']"
-126,126,126,126,126,126,126,999822,1151492852972687360,430612696,neutral,other,2019-07-17T14:04:24.000Z,"So much for the smooth and orderly #Brexit, with no downsides, only a very considerable upside, that Brexiters promised us. #StopBrexitSaveNHS https://t.co/QCXwLnNOvu","['brexit', 'stopbrexitsavenhs']"
-127,127,127,127,127,127,127,966288,1150746933482446848,1577631582,positive,remain,2019-07-15T12:40:23.000Z,"Attended at hospital today by a Lithuanian nurse who replaced the plaster cast on my fractured wrist. Super friendly and efficient  so I asked 'you're not going back are you, we need people like you?'. Mercifully she said no, she wasnt going to #Brexit #StopBrexitSaveNHS","['brexit', 'stopbrexitsavenhs']"
-128,128,128,128,128,128,128,745136,1146082668330852352,801821634973892608,negative,other,2019-07-02T15:46:15.000Z,@sazmeister88 I favour #stopbrexitsavenhs - problem is &amp; I level the accusation at both sides (yes me &amp; you included) you can’t mention many things in a collaborative let’s stop #Brexit way to Lab types or LibDem types without one of them going ooo austerity or ooo PFI / pinko / yellow Tory 🤷‍♂️,"['brexit', 'stopbrexitsavenhs']"
-129,129,129,129,129,129,129,438488,1139924851148374016,405590291,neutral,other,2019-06-15T15:57:17.000Z,"@JacquesSalade won't need to, Noel. if we're foolish enough to continue with #Brexit, we'll become like North Korea. #stopbrexitsavenhs","['brexit', 'stopbrexitsavenhs']"
-130,130,130,130,130,130,130,221844,1136182593228066816,18865355,positive,other,2019-06-05T08:06:54.000Z,"Then the solution is to #StopBrexitSaveNHS (and much of the rest of our economy). You know that no #Brexit can deliver on your six tests, so why not be honest with citizens? Why all the ducking and diving? https://t.co/HDgZNivzgs","['brexit', 'stopbrexitsavenhs']"
-131,131,131,131,131,131,131,221817,1136182389875576832,872158753008877440,negative,remain,2019-06-05T08:06:05.000Z,"There is no version of #Brexit which will benefit the NHS—only varying degrees of harm -
+#StopBrexitSaveNHS #VoteLeaveBrokeTheLaw","['brexit', 'stopbrexitsavenhs', 'stopbrexit', 'voteleavebrokethelaw']"
+1141379166849437696,857903278927032320,negative,remain,2019-06-19T16:16:13.000Z,"@BillCashMP Are you really as stupid as this implies?
+
+I know you are obsessed with continuing to ""fight"" WWII. However, giving thousands of businesses and their employees P45s is not ending uncertainty. It is increasing it exponentially.
+
+#Brexit
+#StopBrexitSaveBritain
+#StopBrexitSaveNHS","['brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+1136581805631578112,769133605469691904,positive,other,2019-06-06T10:33:13.000Z,"In less than two and a half years Trump has stripped his office of dignity, authority and values
+
+#Brexit is doing the same to the UK
+
 #StopBrexitSaveNHS
- https://t.co/rlbuUvU3uH","['brexit', 'stopbrexitsavenhs']"
-132,132,132,132,132,132,132,356557,1138390696447098880,937019478,negative,remain,2019-06-11T10:21:06.000Z,"While EU27 medical staff continue to leave the UK and fewer come here to work, owing to #Brexit. #StopBrexitSaveNHS https://t.co/nX4ErN3Vhm","['brexit', 'stopbrexitsavenhs']"
-133,133,133,133,133,133,133,439420,1139946609637306368,1043343001,negative,other,2019-06-15T17:23:45.000Z,@BorisJohnson #stopbrexitsavenhs  @jeremycorbyn will never be in government because he wants #brexit too! #Brexit is obscene . It will break the UK not unite it!!!,"['brexit', 'stopbrexitsavenhs', 'brexit']"
-134,134,134,134,134,134,134,226249,1136230661906468864,1893394914,positive,leave,2019-06-05T11:17:54.000Z,"@negadroid This is the sort of ""people"" who support #Brexit.
+#StopBrexitSaveBritain
+#PeterboroughByElection
+
+https://t.co/P2yCH6LIE1","['brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'peterboroughbyelection']"
+1138798890499657728,1043343001,negative,remain,2019-06-12T13:23:08.000Z,@BorisJohnson @BackBoris No thanks! #StopBrexitSaveBritain #StopBrexitSaveNHS #StopBrexitSaveDemocracy #Brexit will break Britain. The clue is in the name. Yo are a vandal on a par with Attila the Hun.,"['brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'stopbrexitsavedemocracy']"
+1162119751293911040,1043343001,positive,other,2019-08-15T21:51:54.000Z,@DouglasCarswell Just 2 simple questions: Do you have offshore accounts? and is this why you want #Brexit #StopBrexitSaveDemocracy #StopBrexitSaveNHS,"['brexit', 'stopbrexitsavenhs', 'stopbrexitsavedemocracy']"
+1137067560174796800,551787952,negative,other,2019-06-07T18:43:26.000Z,@UKLabour So now is the time for you to oppose this ruinous #Tory #Brexit - no ifs no buts  #StopBrexitSaveNHS,"['brexit', 'stopbrexitsavenhs', 'tory']"
+1136235147592966144,747901327536172928,neutral,other,2019-06-05T11:35:44.000Z,"#Brexit was probably already dead
+
+But #Trump just buried it!
+
+#StopBrexitSaveNHS https://t.co/ZfcaOLGmsH","['brexit', 'stopbrexitsavenhs', 'trump']"
+1136570778261118976,73123998,negative,remain,2019-06-06T09:49:24.000Z,"#Brexit is a scam based on fraud, lies and criminal undertakings
+
+#StopBrexitSaveNHS #StopBrexit #BrexitCrimes #BrexitLies #Bridgeend #Ford https://t.co/M9VqU6FTR1","['brexitlies', 'ford', 'brexit', 'brexitcrimes', 'bridgeend', 'stopbrexit', 'stopbrexitsavenhs']"
+1136156610978562048,825644121448669184,neutral,other,2019-06-05T06:23:39.000Z,"#BrexitBritain THIS TWEET = #BrexitReality!! 😡😣😡😣😡
+#brexitScam @brexit_sham @Femi_Sorry @mrjamesob #LeaveEU #StopBrexitSaveNHS #StopBrexitSaveBritain https://t.co/Edk28K3AHc","['brexitreality', 'leaveeu', 'brexitbritain', 'brexitscam', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+1141970438760914944,996373477660741632,negative,remain,2019-06-21T07:25:44.000Z,"@mariacaulfield @Conservatives Better to pretend that it's somebody else's fault that you can't ""deliver"" Brexit than to actually deliver it &amp; then have to find someone else to blame for destroying our economy, our #NHS &amp; the UK itself.
+
+#BrexitShambles 
+#StopBrexitSaveBritain 
+#stopbrexitsavenhs
+#Remain","['brexitshambles', 'remain', 'nhs', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
+1135994991321464832,12505492,positive,leave,2019-06-04T19:41:26.000Z,"VOTE and RT.
+
+Time to Choose, Britain. Do you want to Brexit or do you want to keep the NHS? 
+
+Because you can't have both.  
+
+#BrexitParty #BrexitShambles #StopBrexitSaveNHS","['brexitshambles', 'stopbrexitsavenhs', 'brexitparty']"
+1135610830463143936,296211879,neutral,remain,2019-06-03T18:14:55.000Z,"So @JonAshworth , why isn't @UKLabour coming out against #Brexit? You know that the end game of the tory hard-brexiters is a USA-UK trade deal. #C4News  #StopBrexitSaveNHS","['c4news', 'stopbrexitsavenhs', 'brexit?']"
+1140507144845975552,746410132255301632,neutral,remain,2019-06-17T06:31:07.000Z,"@tom_watson #corbynmustgo labour must be a remain party. The tories and the Brexit party will unite, in response labour must be a uniting force for remain.  #StopBrexitSaveBritain #StopBrexitSaveNHS https://t.co/wl7ptIzgbn","['corbynmustgo', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+1136246015269527552,859490352,positive,other,2019-06-05T12:18:55.000Z,"#DDay75 remembrance events really highlight the folly of #Brexit
+
+#StopBrexitSaveBritain 
+#StopBrexitSaveNHS","['dday75', 'brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+1136561955261558784,769133605469691904,negative,other,2019-06-06T09:14:21.000Z,"#fascism British style is being born as commemorate #DDay75
+
+The #tory #erg honour the sacrifices of people who lost their lives fighting fascism by putting fascism in place in the UK using #NoDeal #brexit as their tool 
+
+#StopBrexitSaveNHS
+#PeterboroughByElection https://t.co/GFQxydaUxC","['dday75', 'erg', 'fascism', 'tory', 'peterboroughbyelection', 'brexit', 'stopbrexitsavenhs', 'nodeal']"
+1136572002439958528,769133605469691904,negative,other,2019-06-06T09:54:16.000Z,"#brexit and #farage betray the men who died and those who survived #DDay75 
+
+The UK fought #fascism. Brexit welcomes in
+
+#PeterboroughByElection #StopBrexitSaveNHS https://t.co/6Hq2g3IMLk","['dday75', 'peterboroughbyelection', 'brexit', 'stopbrexitsavenhs', 'farage', 'fascism']"
+1138721691222384640,110417782,positive,remain,2019-06-12T08:16:22.000Z,"100000 unfilled posts in the NHS, 110000 in adult social care, all exacerbated by Brexit. Worth putting on the side of a bus. #StopBrexitSaveNHS  #DemandBetter https://t.co/kmw6JvrddR","['demandbetter', 'stopbrexitsavenhs']"
+1140313470530985984,551787952,positive,remain,2019-06-16T17:41:32.000Z,@SkyNews Yes - official. #Brexit's all about saving the #tories now folks - the country can go whistle  - thank you #DominicRaab for confirming this #StopBrexit #stopbrexitsavenhs #StopBrexit,"['dominicraab', ""brexit's"", 'tories', 'stopbrexit', 'stopbrexitsavenhs']"
+1136565944111763456,769133605469691904,negative,other,2019-06-06T09:30:12.000Z,"#brexit is a #tory fascist coup. It was that from June 2016, but they took things slow to normalise more extreme views:
+No @UKParliament 
+No #NHS
+No #workersrights #environnement legislation 
+
+#PeterboroughByElection 
+#StopBrexitSaveNHS https://t.co/B8Orf2PrQV","['environnement', 'workersrights', 'tory', 'peterboroughbyelection', 'brexit', 'nhs', 'stopbrexitsavenhs']"
+1138840454190063616,1069310155546865664,negative,other,2019-06-12T16:08:17.000Z,if @BorisJohnson and all the other candidates for PM are so adamant they will leave the #EU on 31 Oct with no deal then why are they waiting. Can the UK leave with no deal earlier - is anything stopping this? #Brexit #StopBrexitSaveNHS,"['eu', 'brexit', 'stopbrexitsavenhs']"
+1136230661906468864,1893394914,positive,leave,2019-06-05T11:17:54.000Z,"@negadroid This is the sort of ""people"" who support #Brexit.
 
 F*ing paid bots to swing your opinion.
 
@@ -404,178 +522,99 @@ This is a crime against #Democracy. NOTHING OF WHAT #Brexit says is true or has 
 
 #StopBrexitSaveNHS 
 
-#FBPE https://t.co/Xd8z6epfpz","['brexit', 'stopbrexitsavenhs', 'fbpe', 'democracy', 'brexit']"
-135,135,135,135,135,135,135,226838,1136238355807723520,2173632765,positive,other,2019-06-05T11:48:28.000Z,"You can’t have #Brexit AND save the #NHS…
-
-Pick one!
-
-#NHSNotForSale #StopBrexitSaveNHS #TrumpIsAC_nt https://t.co/4H7exX0s5m","['brexit', 'stopbrexitsavenhs', 'nhsnotforsale', 'trumpisac_nt', 'nhs…']"
-136,136,136,136,136,136,136,226591,1136235147592966144,747901327536172928,neutral,other,2019-06-05T11:35:44.000Z,"#Brexit was probably already dead
-
-But #Trump just buried it!
-
-#StopBrexitSaveNHS https://t.co/ZfcaOLGmsH","['brexit', 'trump', 'stopbrexitsavenhs']"
-137,137,137,137,137,137,137,454631,1140313470530985984,551787952,positive,remain,2019-06-16T17:41:32.000Z,@SkyNews Yes - official. #Brexit's all about saving the #tories now folks - the country can go whistle  - thank you #DominicRaab for confirming this #StopBrexit #stopbrexitsavenhs #StopBrexit,"[""brexit's"", 'stopbrexitsavenhs', 'stopbrexit', 'tories', 'dominicraab']"
-138,138,138,138,138,138,138,245909,1136555459933024256,301950586,negative,remain,2019-06-06T08:48:32.000Z,"2016: Let's take back control!
-
-2019: Let's cancel Parliament.
-
-#Brexit #BrexitCoup #BrexitCon #BrexitLies #BrexitShambles #ToryCoup #ToryLeadership #ToriesOut #StopBrexit #StopBrexitSaveBritain #StopBrexitSaveNHS","['brexitcoup', 'stopbrexitsavebritain', 'brexitlies', 'brexitcon', 'toryleadership', 'brexit', 'stopbrexitsavenhs', 'stopbrexit', 'torycoup', 'toriesout', 'brexitshambles']"
-139,139,139,139,139,139,139,216412,1136047007762702336,52207152,negative,remain,2019-06-04T23:08:08.000Z,"Sorry #Trump, #NHSnotforsale! #BrexitMeansTrump #StopBrexitSaveNHS No patriotic Brit., #Remainer or #brexiteer, will endanger our NHS. We don't bankrupt the ill in UK
-
-There's One Subject in the U.K. That's as Toxic as #Brexit &amp; #Trump Just Waded Into It. https://t.co/5zGV1iXolA","['brexiteer', 'brexitmeanstrump', 'brexit', 'nhsnotforsale', 'stopbrexitsavenhs', 'remainer', 'trump', 'trump']"
-140,140,140,140,140,140,140,247557,1136570778261118976,73123998,negative,remain,2019-06-06T09:49:24.000Z,"#Brexit is a scam based on fraud, lies and criminal undertakings
-
-#StopBrexitSaveNHS #StopBrexit #BrexitCrimes #BrexitLies #Bridgeend #Ford https://t.co/M9VqU6FTR1","['brexitlies', 'bridgeend', 'brexitcrimes', 'brexit', 'stopbrexitsavenhs', 'ford', 'stopbrexit']"
-141,141,141,141,141,141,141,247936,1136574218525642752,725308795396710400,neutral,other,2019-06-06T10:03:04.000Z,"@SkyNewsBreak So, the Ford factory closure has nothing to do with Brexit? Question then: how many car factories are closing and leaving mainland Europe? Wake up. Most of these announcements are coming from the UK. @LibDems #BrexitMeansChaos #bolloxtobrexit #StopBrexitSaveNHS @guardiannews","['brexitmeanschaos', 'stopbrexitsavenhs', 'bolloxtobrexit']"
-142,142,142,142,142,142,142,388269,1138876757862432768,551787952,negative,other,2019-06-12T18:32:33.000Z,@Public_Citizen and our precious #NHS under threat from the #tories and a #BrexitParty  funded by the #Insurance Industry pushing for #Brexit #StopBrexitSaveNHS,"['brexitparty', 'brexit', 'stopbrexitsavenhs', 'nhs', 'insurance', 'tories']"
-143,143,143,143,143,143,143,232873,1136325837618327552,536007447,negative,remain,2019-06-05T17:36:06.000Z,Going from saving the NHS with that imaginary £350m/week to this.  You have every right to change your mind for being lied to #NoShame #StopBrexitSaveNHS #Brexit #BrexitShambles https://t.co/hQkZzyzjVl,"['brexitshambles', 'noshame', 'brexit', 'stopbrexitsavenhs']"
-144,144,144,144,144,144,144,276240,1136904741496283136,21744095,neutral,remain,2019-06-07T07:56:27.000Z,"'Farage said: ""We've come from nowhere and produced a massive result...""' You haven't come from nowhere @Nigel_Farage you bumbling oaf! Your party is UKIP 2.0 and you're riding on their ever shrinking wave. 🙄#Brexit #Brexshit #StopBrexit #BrexitShambles #StopBrexitSaveNHS https://t.co/S42iG8YhYd","['brexshit', 'stopbrexit', 'stopbrexitsavenhs', 'brexitshambles']"
-145,145,145,145,145,145,145,217921,1136115777633955840,35684345,neutral,remain,2019-06-05T03:41:24.000Z,"@guardiannews #NHSNotForSale
-
-Quite a relief that #TheresaMay departs tomorrow and with her, #Brexit &amp; #theBestDealEver for #DonaldTrump; seizing control of the #NHS &amp; colonising the #British #economy; #MAGA indeed!
-
-#StopBrexitSaveNHS #StopBrexit #SaveOurNHS","['british', 'saveournhs', 'brexit', 'maga', 'thebestdealever', 'donaldtrump', 'stopbrexitsavenhs', 'nhs', 'stopbrexit', 'nhsnotforsale', 'economy', 'theresamay']"
-146,146,146,146,146,146,146,186803,1135610830463143936,296211879,neutral,remain,2019-06-03T18:14:55.000Z,"So @JonAshworth , why isn't @UKLabour coming out against #Brexit? You know that the end game of the tory hard-brexiters is a USA-UK trade deal. #C4News  #StopBrexitSaveNHS","['c4news', 'brexit?', 'stopbrexitsavenhs']"
-147,147,147,147,147,147,147,211380,1135985762376306688,221423977,negative,other,2019-06-04T19:04:46.000Z,"‘When you negotiate everything is up for grabs. The NHS is on the table.’ Trump kills Brexit with two short sentences. Leave the EU, and the NHS dies. #c4news #StopBrexitSaveNHS","['c4news', 'stopbrexitsavenhs']"
-148,148,148,148,148,148,148,247142,1136567144135741440,769133605469691904,neutral,remain,2019-06-06T09:34:58.000Z,"#Economistsforbrexit testified in @UKParliament that #brexit will destroy #car #manufacturing and #farming. They're cool with that. It's not their jobs on the line and their mates are into #DisasterCapitalism
-like annunciata's father was
-#PeterboroughByElection
-#StopBrexitSaveNHS https://t.co/8MX1l52cvK","['car', 'farming', 'peterboroughbyelection', 'manufacturing', 'disastercapitalism', 'stopbrexitsavenhs', 'brexit', 'economistsforbrexit']"
-149,149,149,149,149,149,149,247685,1136572002439958528,769133605469691904,negative,other,2019-06-06T09:54:16.000Z,"#brexit and #farage betray the men who died and those who survived #DDay75 
-
-The UK fought #fascism. Brexit welcomes in
-
-#PeterboroughByElection #StopBrexitSaveNHS https://t.co/6Hq2g3IMLk","['dday75', 'farage', 'peterboroughbyelection', 'stopbrexitsavenhs', 'brexit', 'fascism']"
-150,150,150,150,150,150,150,373413,1138721691222384640,110417782,positive,remain,2019-06-12T08:16:22.000Z,"100000 unfilled posts in the NHS, 110000 in adult social care, all exacerbated by Brexit. Worth putting on the side of a bus. #StopBrexitSaveNHS  #DemandBetter https://t.co/kmw6JvrddR","['demandbetter', 'stopbrexitsavenhs']"
-151,151,151,151,151,151,151,221953,1136183679561162752,928677206,neutral,remain,2019-06-05T08:11:13.000Z,"Donald Trump has ""rowed back"" on the NHS? #r4today #bbcnews Not really. He's realised he's exposed the real reason for wanting us out of the EU. Vulture capitalism &amp; asset stripping await us if Brexit goes ahead. #Dotard 
-#StopBrexitSaveNHS #NHSNotForSale","['dotard', 'bbcnews', 'r4today', 'stopbrexitsavenhs', 'nhsnotforsale']"
-152,152,152,152,152,152,152,384666,1138840454190063616,1069310155546865664,negative,other,2019-06-12T16:08:17.000Z,if @BorisJohnson and all the other candidates for PM are so adamant they will leave the #EU on 31 Oct with no deal then why are they waiting. Can the UK leave with no deal earlier - is anything stopping this? #Brexit #StopBrexitSaveNHS,"['eu', 'brexit', 'stopbrexitsavenhs']"
-153,153,153,153,153,153,153,701545,1145314468899033088,711945679,negative,leave,2019-06-30T12:53:42.000Z,".@jeremycorbyn @joswinson @EdwardJDavey @CarolineLucas PLEASE listen.
-My friend Maia talks about #Cancer  &amp; #Brexit
-She is a bit of an 'expert' coz she is suffering from it.
-#Euratom #stopbrexitsavenhs #Leavers #remainers https://t.co/DugDuDXCf5","['euratom', 'remainers', 'leavers', 'stopbrexitsavenhs', 'brexit', 'cancer']"
-154,154,154,154,154,154,154,279443,1136921351690817536,69558002,positive,remain,2019-06-07T09:02:27.000Z,"@Rachel5742 It’s not the 2nd referendum. It would be the 3rd but it is the #finalsay on #Brexit deal vs keeping the deal we have. Splitting from a 49 year old relationship is a huge step! Time to evaluate what’s best for Britain, the planet &amp; peace #StopBrexitSaveNHS #FBPE @HaveDemocracy","['finalsay', 'brexit', 'fbpe', 'stopbrexitsavenhs']"
-155,155,155,155,155,155,155,294847,1137054845117050880,53520978,positive,remain,2019-06-07T17:52:55.000Z,"If anyone with a couple of functioning brain cells needs evidence of how much bullish #Brexit supporting candidates talk, exhibit A. #StopBrexitSaveNHS with a #PeoplesVote and a #FinalSay https://t.co/HUe7rf5QTj","['finalsay', 'brexit', 'peoplesvote', 'stopbrexitsavenhs']"
-156,156,156,156,156,156,156,255133,1136646646983483392,4824152675,neutral,remain,2019-06-06T14:50:53.000Z,How times &amp; philosophies change! The disingenuous Andrea Pearson #Brexit #FinalSay #PeoplesVote #StopBrexit #StopBrexitSaveNHS https://t.co/uasgRmxDt0,"['finalsay', 'brexit', 'peoplesvote', 'stopbrexitsavenhs', 'stopbrexit']"
-157,157,157,157,157,157,157,227897,1136253074249539584,995991395172343808,negative,remain,2019-06-05T12:46:58.000Z,"@blatherskiting @Goat_boy_ Well you did a fucking bad job. 
+#FBPE https://t.co/Xd8z6epfpz","['fbpe', 'brexit', 'democracy', 'brexit', 'stopbrexitsavenhs']"
+1142750437143187456,826362869130330112,negative,other,2019-06-23T11:05:10.000Z,#FBPE Caroline Flint backs Tory No deal instead of No brexit on Marr in her refusal to Revoke Article 50 #stopbrexitsavenhs https://t.co/jYJWAgEdcn,"['fbpe', 'stopbrexitsavenhs']"
+1136921351690817536,69558002,positive,remain,2019-06-07T09:02:27.000Z,"@Rachel5742 It’s not the 2nd referendum. It would be the 3rd but it is the #finalsay on #Brexit deal vs keeping the deal we have. Splitting from a 49 year old relationship is a huge step! Time to evaluate what’s best for Britain, the planet &amp; peace #StopBrexitSaveNHS #FBPE @HaveDemocracy","['fbpe', 'stopbrexitsavenhs', 'brexit', 'finalsay']"
+1146707235982254080,369573499,positive,remain,2019-07-04T09:08:04.000Z,@JamesfWells @Lstedmanbryce No mandate huh?  Sounds a lot like your no-deal #brexit. #RevokeArticle50 #stopbrexitsavenhs #FBPE,"['fbpe', 'stopbrexitsavenhs', 'brexit', 'revokearticle50']"
+1136646646983483392,4824152675,neutral,remain,2019-06-06T14:50:53.000Z,How times &amp; philosophies change! The disingenuous Andrea Pearson #Brexit #FinalSay #PeoplesVote #StopBrexit #StopBrexitSaveNHS https://t.co/uasgRmxDt0,"['finalsay', 'brexit', 'peoplesvote', 'stopbrexit', 'stopbrexitsavenhs']"
+1136253074249539584,995991395172343808,negative,remain,2019-06-05T12:46:58.000Z,"@blatherskiting @Goat_boy_ Well you did a fucking bad job. 
 
 Looked like you wanted US companies to carve up the NHS, because that  is what #Brexit is all about. It's been confirmed several times this week.
 
 You Leavers are going to lose the #FinalSay referendum big time at this rate.
 
 #StopBrexitSaveNHS","['finalsay', 'brexit', 'stopbrexitsavenhs']"
-158,158,158,158,158,158,158,227197,1136243231392485376,995991395172343808,positive,remain,2019-06-05T12:07:51.000Z,"It's official! Leaver confirms the NHS is up for grabs after #Brexit.
+1137054845117050880,53520978,positive,remain,2019-06-07T17:52:55.000Z,"If anyone with a couple of functioning brain cells needs evidence of how much bullish #Brexit supporting candidates talk, exhibit A. #StopBrexitSaveNHS with a #PeoplesVote and a #FinalSay https://t.co/HUe7rf5QTj","['finalsay', 'brexit', 'stopbrexitsavenhs', 'peoplesvote']"
+1139807139407568896,2813897314,negative,remain,2019-06-15T08:09:33.000Z,"Replace Corbyn with a Labour Party supporter and Johnson and the other tories would be very well beaten, along with brexit. Why hasn’t it happened?
+#LetUsBeHeard #peoplesvote #FinalSay #stopbrexitsavenhs https://t.co/XfXMff3ie6","['finalsay', 'peoplesvote', 'stopbrexitsavenhs', 'letusbeheard']"
+1139451451607064576,2813897314,neutral,remain,2019-06-14T08:36:10.000Z,"Very very well said. Split in remain = brexit
+#LetUsBeHeard #PeoplesVote #FinalSay #StopBrexit #StopBrexitSaveBritain #stopbrexitsavenhs https://t.co/VNE9ECc6Uf","['finalsay', 'peoplesvote', 'stopbrexitsavenhs', 'stopbrexit', 'stopbrexitsavebritain', 'letusbeheard']"
+1139452312706002944,2813897314,positive,remain,2019-06-14T08:39:36.000Z,"Indeed. Replace Corbyn with an actual supporter of the Labour Party and of its members and of the many and brexit and the tories would be wiped out. 
+#LetUsBeHeard #PeoplesVote #FinalSay #StopBrexit #StopBrexitSaveBritain #stopbrexitsavenhs https://t.co/DqC8OD1iQ5","['finalsay', 'peoplesvote', 'stopbrexitsavenhs', 'stopbrexit', 'stopbrexitsavebritain', 'letusbeheard']"
+1136243231392485376,995991395172343808,positive,remain,2019-06-05T12:07:51.000Z,"It's official! Leaver confirms the NHS is up for grabs after #Brexit.
 
 To anyone that originally voted leave, is this what you voted for? Or were you expecting more public money to be invested in the NHS like Johnson's lying bus stated?
 
-#StopBrexitSaveNHS #FinalSay https://t.co/rHaS3QnstE","['finalsay', 'brexit', 'stopbrexitsavenhs']"
-159,159,159,159,159,159,159,422449,1139533994410815488,2813897314,positive,remain,2019-06-14T14:04:10.000Z,"We must beat the normalisation of bigotry and all it entails. We need an opposition.  Labour  must appoint a leader who supports it rather than supporting tory brexit and leaders. When it does, brexit will be easily beaten. #LetUsBeHeard #finalsay #PeoplesVote #stopbrexitsavenhs https://t.co/04JaEBYSM9","['finalsay', 'letusbeheard', 'stopbrexitsavenhs', 'peoplesvote']"
-160,160,160,160,160,160,160,238307,1136391366190260224,53520978,positive,remain,2019-06-05T21:56:29.000Z,Brexit Party Donations - Farage's Miracle Claims Do Not Add Up – Byline Times #StopBrexitSaveNHS and give us a #FinalSay with a #PeoplesVote  https://t.co/jeNjvuGHPS,"['finalsay', 'peoplesvote', 'stopbrexitsavenhs']"
-161,161,161,161,161,161,161,372436,1138711861053087744,2813897314,positive,remain,2019-06-12T07:37:18.000Z,"Gosh, you are really trashing Ramsay Macdonald’s reputation there.
+#StopBrexitSaveNHS #FinalSay https://t.co/rHaS3QnstE","['finalsay', 'stopbrexitsavenhs', 'brexit']"
+1138711861053087744,2813897314,positive,remain,2019-06-12T07:37:18.000Z,"Gosh, you are really trashing Ramsay Macdonald’s reputation there.
 
 But clearly: REPLACE CORBYN WITH A LABOUR SUPPORTER and the tories and brexit would not know what hit them 
 
-#FinalSay #PeoplesVote #StopBrexitSaveNHS https://t.co/d01Tzv4K72","['finalsay', 'peoplesvote', 'stopbrexitsavenhs']"
-162,162,162,162,162,162,162,208818,1135961751567130624,733205573618008064,neutral,other,2019-06-04T17:29:21.000Z,"The Brexit fuckwits don't care about tiny details like this. 
-We get bendy bananas and WE'RE TAKING BAK CONTROLE YEAH!
-#brexitwillkilltheNHS 
-#followthemoney
-#StopBrexitSaveNHS https://t.co/0XG9xSp3RO","['followthemoney', 'stopbrexitsavenhs', 'brexitwillkillthenhs']"
-163,163,163,163,163,163,163,539828,1141768810954928128,3291209461,neutral,remain,2019-06-20T18:04:32.000Z,"@NHSMillion Yes, but no, but...
+#FinalSay #PeoplesVote #StopBrexitSaveNHS https://t.co/d01Tzv4K72","['finalsay', 'stopbrexitsavenhs', 'peoplesvote']"
+1136391366190260224,53520978,positive,remain,2019-06-05T21:56:29.000Z,Brexit Party Donations - Farage's Miracle Claims Do Not Add Up – Byline Times #StopBrexitSaveNHS and give us a #FinalSay with a #PeoplesVote  https://t.co/jeNjvuGHPS,"['finalsay', 'stopbrexitsavenhs', 'peoplesvote']"
+1139533994410815488,2813897314,positive,remain,2019-06-14T14:04:10.000Z,"We must beat the normalisation of bigotry and all it entails. We need an opposition.  Labour  must appoint a leader who supports it rather than supporting tory brexit and leaders. When it does, brexit will be easily beaten. #LetUsBeHeard #finalsay #PeoplesVote #stopbrexitsavenhs https://t.co/04JaEBYSM9","['finalsay', 'stopbrexitsavenhs', 'peoplesvote', 'letusbeheard']"
+1138349127174172672,755777536454488064,positive,other,2019-06-11T07:35:56.000Z,@LBC @IainDale There is no version of Brexit that will be good for the UK and it's economy.  Leaving the EU on any terms whatsoever will be at best catastrophic. Time to #StopBrexitSaveBritain #StopBrexitSaveNHS #RevokeArticle50 #GetTheToriesOut,"['getthetoriesout', 'stopbrexitsavenhs', 'stopbrexitsavebritain', 'revokearticle50']"
+1141768810954928128,3291209461,neutral,remain,2019-06-20T18:04:32.000Z,"@NHSMillion Yes, but no, but...
 @jeremycorbyn isn't doing enough to stand up for the NHS - he's backing NHS destroying Brexit.
 I want to #GTTO but will an election at the moment save the NHS or condemn it?
 #stopbrexitsavenhs","['gtto', 'stopbrexitsavenhs']"
-164,164,164,164,164,164,164,225630,1136223543631523840,2698422738,positive,other,2019-06-05T10:49:37.000Z,"Q. How will Brexit benefit the NHS?
-A. It won't
-@suehard 
-#PMQs  #HandsOffOurNHS #StopBrexitSaveNHS https://t.co/Ew09qNbmx9","['handsoffournhs', 'pmqs', 'stopbrexitsavenhs']"
-165,165,165,165,165,165,165,224646,1136212496682049536,1090987393119866880,positive,other,2019-06-05T10:05:43.000Z,"@jeremycorbyn @realDonaldTrump #StopBrexitSaveNHS 
+1136212496682049536,1090987393119866880,positive,other,2019-06-05T10:05:43.000Z,"@jeremycorbyn @realDonaldTrump #StopBrexitSaveNHS 
 #HandsOffOurNHS 
 
 🍄Rump loves brexit. Do you?","['handsoffournhs', 'stopbrexitsavenhs']"
-166,166,166,166,166,166,166,689192,1144961747050258432,228686553,negative,other,2019-06-29T13:32:07.000Z,"@JonAshworth @UKLabour @thefabians Life expectancy is falling, not “faltering”. 
+1136223543631523840,2698422738,positive,other,2019-06-05T10:49:37.000Z,"Q. How will Brexit benefit the NHS?
+A. It won't
+@suehard 
+#PMQs  #HandsOffOurNHS #StopBrexitSaveNHS https://t.co/Ew09qNbmx9","['handsoffournhs', 'stopbrexitsavenhs', 'pmqs']"
+1136166536991952896,871047497183002624,negative,other,2019-06-05T07:03:06.000Z,"If you want the NHS 'saved' and stopping Brexit is a key part, you shouldn't be voting Corbyn.
+
+Not only is he a hard Brexiteer.
+
+His policies would cause the biggest econonic downturn in the UK in memory. Try funding it then.
+
+#StopBrexitSaveNHS #SaveOurNHS #HandsOffOurNHS","['handsoffournhs', 'stopbrexitsavenhs', 'saveournhs']"
+1138876757862432768,551787952,negative,other,2019-06-12T18:32:33.000Z,@Public_Citizen and our precious #NHS under threat from the #tories and a #BrexitParty  funded by the #Insurance Industry pushing for #Brexit #StopBrexitSaveNHS,"['insurance', 'brexitparty', 'tories', 'brexit', 'nhs', 'stopbrexitsavenhs']"
+1144961747050258432,228686553,negative,other,2019-06-29T13:32:07.000Z,"@JonAshworth @UKLabour @thefabians Life expectancy is falling, not “faltering”. 
 
 ANY brexit risks #ourNHS
 Not as if you haven’t been told. 
-#LabourNoLonger #stopbrexitsavenhs https://t.co/PcC2s44jr9","['labournolonger', 'stopbrexitsavenhs', 'ournhs']"
-167,167,167,167,167,167,167,223754,1136202138655309824,4714672827,neutral,remain,2019-06-05T09:24:34.000Z,"@SunPolitics ....I've got a great idea....! why don't we use the "" Brexit Dividend"" money. .?......you know the £350M per week we were supposed to be saving...? #liar #StopBrexitSaveNHS","['liar', 'stopbrexitsavenhs']"
-168,168,168,168,168,168,168,374829,1138736146803036160,3115048137,neutral,remain,2019-06-12T09:13:48.000Z,@BorisJohnson I guess your views have changed then #PoliticsLive #LiarInChief #brexit #WednesdayWisdom #stopracism #StopBrexitSaveNHS https://t.co/h4R4zccdvX,"['liarinchief', 'wednesdaywisdom', 'politicslive', 'stopracism', 'stopbrexitsavenhs', 'brexit']"
-169,169,169,169,169,169,169,228137,1136256705237594112,1128188161815920640,positive,leave,2019-06-05T13:01:23.000Z,Many people are realising that they've been lied to. Brexit was never going to help our NHS. We need to come together to ensure it's protected. Remaining in the EU is the only way of ensuring that. It's too precious to lose. #StopBrexitSaveNHS #LibDems https://t.co/A96bq90r5m,"['libdems', 'stopbrexitsavenhs']"
-170,170,170,170,170,170,170,228090,1136256163727708160,1128188161815920640,negative,remain,2019-06-05T12:59:14.000Z,"@Benmart74997435 @MatthewGreen02 That's a sensible choice. Many, many people have realised that they've been lied to. The important thing is that we as a nation do what's right for the ordinary people who will be harmed by Brexit. The NHS is too precious to lose. #StopBrexitSaveNHS #LibDems https://t.co/ws1QvnnSWo","['libdems', 'stopbrexitsavenhs']"
-171,171,171,171,171,171,171,302788,1137269777750200320,1128188161815920640,positive,remain,2019-06-08T08:06:59.000Z,"@sazmeister88 Labour are supporting a far-right Brexit that will ruin the lives of working people. Against the wishes of their members, voters and supporters. #StopBrexitSaveNHS #LibDems https://t.co/UQXtNqFWtn","['libdems', 'stopbrexitsavenhs']"
-172,172,172,172,172,172,172,333183,1137982319191560192,1128188161815920640,positive,remain,2019-06-10T07:18:22.000Z,@tom_watson The latter. So why are Labour still backing his Brexit? #LibDems #StopBrexitSaveNHS https://t.co/SUPzh5gRfo,"['libdems', 'stopbrexitsavenhs']"
-173,173,173,173,173,173,173,229241,1136273847920025600,1101285503582781440,negative,remain,2019-06-05T14:09:30.000Z,"Anybody still believe selling off the #NHS wasn't the #Brexit end-game all along? If you have any family &amp; friends who voted #Leave because of their lies about the NHS, make sure they see this article:
+#LabourNoLonger #stopbrexitsavenhs https://t.co/PcC2s44jr9","['labournolonger', 'ournhs', 'stopbrexitsavenhs']"
+1143069377140596736,857903278927032320,negative,other,2019-06-24T08:12:31.000Z,"@BBCr4today @nick_clegg Advisor to advertising company claims advertising does not work.
+Hmmmm or is he just a highly paid liar covering for his employer?
+#Brexit 
+#StopBrexitSaveBritain
+#stopbrexitsavenhs
+#LeaveMeansLeave","['leavemeansleave', 'brexit', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
+1136526060986806272,130166720,positive,other,2019-06-06T06:51:43.000Z,"#StopBrexit
+#Brexit
+Even #Leave &amp; #LeaveEU &amp; #LeaveMeansLeave &amp; #BrexitMeansBrexit supporters will agree this blatantly breaks electoral law surely?
+#Remain
+#StopBrexitSaveNHS https://t.co/WU46y1BO6m","['leavemeansleave', 'leaveeu', 'brexit', 'leave', 'remain', 'brexitmeansbrexit', 'stopbrexit', 'stopbrexitsavenhs']"
+1136567144135741440,769133605469691904,neutral,remain,2019-06-06T09:34:58.000Z,"#Economistsforbrexit testified in @UKParliament that #brexit will destroy #car #manufacturing and #farming. They're cool with that. It's not their jobs on the line and their mates are into #DisasterCapitalism
+like annunciata's father was
+#PeterboroughByElection
+#StopBrexitSaveNHS https://t.co/8MX1l52cvK","['manufacturing', 'car', 'peterboroughbyelection', 'disastercapitalism', 'brexit', 'economistsforbrexit', 'stopbrexitsavenhs', 'farming']"
+1156127149784350720,865274139774513152,negative,other,2019-07-30T08:59:26.000Z,"Just think, all those millions could be going into the #NHS instead of wasted on a #Brexit that no-one voted for 👇
+#CantHaveBoth #StopBrexitSaveNHS https://t.co/WCaWTq9fkV","['nhs', 'brexit', 'canthaveboth', 'stopbrexitsavenhs']"
+1136273847920025600,1101285503582781440,negative,remain,2019-06-05T14:09:30.000Z,"Anybody still believe selling off the #NHS wasn't the #Brexit end-game all along? If you have any family &amp; friends who voted #Leave because of their lies about the NHS, make sure they see this article:
 
 https://t.co/BnxWHJazSz
 
 #StopBrexitSaveNHS https://t.co/mXO64F32Rz","['nhs', 'brexit', 'leave', 'stopbrexitsavenhs']"
-174,174,174,174,174,174,174,218966,1136150525127405568,245324769,positive,other,2019-06-05T05:59:28.000Z,"@outwinw Thanks Dr Outwin! Anyone indulging in #Brexit fantasy or voting @brexitparty_uk needs to wake up to reality! They've not published any manifesto? but there are draft #NHS plans lurking in their thinking, as Farage has stated! We need to #StopBrexitSaveNHS #StopBrexitSaveBritain","['nhs', 'brexit', 'stopbrexitsavebritain', 'stopbrexitsavenhs']"
-175,175,175,175,175,175,175,293445,1137037854226489344,1032970380888219520,neutral,other,2019-06-07T16:45:24.000Z,@mojos55 @AngieMeader #StopBrexitSaveNHS Read impact of #Brexit on #NHS https://t.co/0cRx9YsfKt,"['nhs', 'brexit', 'stopbrexitsavenhs']"
-176,176,176,176,176,176,176,612685,1143443630687997952,801821634973892608,negative,remain,2019-06-25T08:59:40.000Z,"@ProfBrianCox It’s worth remembering that former health secretary Jeremy Hunt caused a strike by Jr Drs, reduced mental health spending in real terms. Shamefully suicide still the biggest killer of men under 49 in the uk. 16 suicide a day 3/4 of which are men. #stopbrexitsavenhs #Brexit #NHS","['nhs', 'brexit', 'stopbrexitsavenhs']"
-177,177,177,177,177,177,177,225401,1136220983906504704,711945679,negative,remain,2019-06-05T10:39:27.000Z,"@DancingTheMind @realDonaldTrump copy in @nigel_Farage , @TiceRichard and @brexitparty_uk ...because they ALL would sell it off in a heartbeat.
-Their 'reasoning': you got your No Deal #Brexit...this is part of what *you voted for*
-#StopBrexitSaveNHS #NHSNotForSale #nhs https://t.co/J4O1ZhRnts","['nhs', 'brexit...this', 'nhsnotforsale', 'stopbrexitsavenhs']"
-178,178,178,178,178,178,178,1296537,1156127149784350720,865274139774513152,negative,other,2019-07-30T08:59:26.000Z,"Just think, all those millions could be going into the #NHS instead of wasted on a #Brexit that no-one voted for 👇
-#CantHaveBoth #StopBrexitSaveNHS https://t.co/WCaWTq9fkV","['nhs', 'canthaveboth', 'brexit', 'stopbrexitsavenhs']"
-179,179,179,179,179,179,179,218970,1136150644648267776,744451764062130048,neutral,remain,2019-06-05T05:59:56.000Z,"@captainsuth .@captainsuth - tut tut, of course everyone voted for a no-deal #brexit and to sell the #NHS , because that is what the people's 'saviour' #Farage tells them. And he must be right. #StopBrexitSaveNHS","['nhs', 'farage', 'stopbrexitsavenhs', 'brexit']"
-180,180,180,180,180,180,180,213361,1136006882638872576,95620187,negative,other,2019-06-04T20:28:41.000Z,"https://t.co/eWsl5HXOo6 lied that the #NHS would improve after #Brexit. But Farage, Trump &amp; the Tories want to replace it with the US system.
-
-1 million people go bankrupt in the US each year because they fall ill. #HandsOffOurNHS #StopBrexitSaveNHS 
-
-https://t.co/PaZKhh4wOc","['nhs', 'handsoffournhs', 'brexit', 'stopbrexitsavenhs']"
-181,181,181,181,181,181,181,174449,1135453828789264384,871676753919578112,neutral,leave,2019-06-03T07:51:03.000Z,"#PeterboroughByElection Only the @LibDems candidate, @LibdemBeki can beat the Brexit Party. Brexit would mean the end of the #NHS.  Vote #LibDem, take back control and #StopBrexitSaveNHS https://t.co/LBQx86Ekw8","['nhs', 'libdem', 'stopbrexitsavenhs', 'peterboroughbyelection']"
-182,182,182,182,182,182,182,764830,1146377312256106496,996373477660741632,positive,leave,2019-07-03T11:17:04.000Z,"@ThatKatyaGirl These are the two presidents who think Brexit is a great idea. You'll never get to vote for or against either of them (unlike the MEPs we just elected). One would like to see our #NHS broken up for profit, the other just wants us smaller &amp; weaker.
+1137037854226489344,1032970380888219520,neutral,other,2019-06-07T16:45:24.000Z,@mojos55 @AngieMeader #StopBrexitSaveNHS Read impact of #Brexit on #NHS https://t.co/0cRx9YsfKt,"['nhs', 'brexit', 'stopbrexitsavenhs']"
+1143443630687997952,801821634973892608,negative,remain,2019-06-25T08:59:40.000Z,"@ProfBrianCox It’s worth remembering that former health secretary Jeremy Hunt caused a strike by Jr Drs, reduced mental health spending in real terms. Shamefully suicide still the biggest killer of men under 49 in the uk. 16 suicide a day 3/4 of which are men. #stopbrexitsavenhs #Brexit #NHS","['nhs', 'brexit', 'stopbrexitsavenhs']"
+1136150525127405568,245324769,positive,other,2019-06-05T05:59:28.000Z,"@outwinw Thanks Dr Outwin! Anyone indulging in #Brexit fantasy or voting @brexitparty_uk needs to wake up to reality! They've not published any manifesto? but there are draft #NHS plans lurking in their thinking, as Farage has stated! We need to #StopBrexitSaveNHS #StopBrexitSaveBritain","['nhs', 'brexit', 'stopbrexitsavenhs', 'stopbrexitsavebritain']"
+1146377312256106496,996373477660741632,positive,leave,2019-07-03T11:17:04.000Z,"@ThatKatyaGirl These are the two presidents who think Brexit is a great idea. You'll never get to vote for or against either of them (unlike the MEPs we just elected). One would like to see our #NHS broken up for profit, the other just wants us smaller &amp; weaker.
 #stopbrexitsavenhs https://t.co/qTXO79JzdP","['nhs', 'stopbrexitsavenhs']"
-183,183,183,183,183,183,183,206799,1135944767601336320,555329628,positive,other,2019-06-04T16:21:52.000Z,"@lopcute There you have it. Straight from Trump's own mouth. 
+1135944767601336320,555329628,positive,other,2019-06-04T16:21:52.000Z,"@lopcute There you have it. Straight from Trump's own mouth. 
 
 You can have #brexit or you can have the #NHS .
 
 #StopBrexitSaveNHS","['nhs', 'stopbrexitsavenhs', 'brexit']"
-184,184,184,184,184,184,184,217239,1136072682091343872,1077087866163888000,negative,other,2019-06-05T00:50:09.000Z,"With Brexit, the #NHS is destroyed. With the EU, the #NHS is protected. Pick one:
-#RevokeArt50 #StopBrexitSaveNHS https://t.co/vbU3BLOe0b","['nhs', 'stopbrexitsavenhs', 'revokeart50']"
-185,185,185,185,185,185,185,205231,1135931638960050176,944780454,neutral,other,2019-06-04T15:29:41.000Z,"So #Trump says that the #NHS would be on the table during Negotiations in a post-Brexit trade deal with the US 👇🏼 this is a US senator tweeting about private healthcare plans....welcome to the future, time to ask yourself could you cope without the NHS? #StopBrexitSaveNHS https://t.co/3fCGUkUiqW","['nhs', 'trump', 'stopbrexitsavenhs']"
-186,186,186,186,186,186,186,1943624,1165979172914679808,20578134,negative,remain,2019-08-26T13:27:52.000Z,I just can not tell you how much I utterly deplore the effect Brexit is having on my patients and #NHS. #NHSIsMoreImportantThanBrexit #StopBrexitSaveNHS #SpendBrexitBillionsOnNHS https://t.co/UAuJliUahg,"['nhsismoreimportantthanbrexit', 'nhs', 'spendbrexitbillionsonnhs', 'stopbrexitsavenhs']"
-187,187,187,187,187,187,187,218560,1136142500513685504,2593063950,neutral,remain,2019-06-05T05:27:35.000Z,"Trump's #NHSLongTermPlan comment during #TrumpUKVisit really gathered momentum in a #SaveOurNHS #StopBrexit #TrumpProtest.
+1136006882638872576,95620187,negative,other,2019-06-04T20:28:41.000Z,"https://t.co/eWsl5HXOo6 lied that the #NHS would improve after #Brexit. But Farage, Trump &amp; the Tories want to replace it with the US system.
 
-#Scotland never wanted #Brexit
+1 million people go bankrupt in the US each year because they fall ill. #HandsOffOurNHS #StopBrexitSaveNHS 
 
-#ProudToBeScottish
-
-#StopBrexitSaveNHS","['nhslongtermplan', 'saveournhs', 'brexit', 'trumpukvisit', 'scotland', 'stopbrexit', 'stopbrexitsavenhs', 'proudtobescottish', 'trumpprotest']"
-188,188,188,188,188,188,188,437999,1139914106801139712,769133605469691904,positive,remain,2019-06-15T15:14:36.000Z,"The #NHS saved me and my son
-#NHSMillion
-
-The  private #healthcare senior #tories and #brexiters want to introduce would mean people like us would die in childbirth
-
-#brexit only works for the kind of wealthy old men that form the @conservatives membership
-
-#stopbrexitsaveNHS https://t.co/h0oFB9XHiT","['nhsmillion', 'healthcare', 'nhs', 'brexiters', 'brexit', 'tories', 'stopbrexitsavenhs']"
-189,189,189,189,189,189,189,227280,1136244452895416320,4736071,negative,other,2019-06-05T12:12:42.000Z,"Taxes pay for health for all - as it should be. Here’s what Trump wants to sell us after Brexit:
-#NHSNotForSale #StopBrexitSaveNHS https://t.co/6rIAZpsVKy","['nhsnotforsale', 'stopbrexitsavenhs']"
-190,190,190,190,190,190,190,224243,1136208241678049280,28756909,negative,other,2019-06-05T09:48:49.000Z,"NO-IT-IS- NOT 
-
-Brexiteers who lied to you about how much extra money we could get for the NHS if we left the EU are actually allowing this clown to put a price on our precious National Health Service - Brexit could destroy our NHS so... #StopBrexitSaveNHS 
-#NHSNotForSale https://t.co/vPb4GvzqJ5","['nhsnotforsale', 'stopbrexitsavenhs']"
-191,191,191,191,191,191,191,231717,1136310867979636736,865274139774513152,positive,leave,2019-06-05T16:36:37.000Z,"@SCrabbPembs Well that's fine by me, since any form of brexit is detrimental to this country.
-It's just a question of how you're going to stop it, and when. After all, #OurNHS is at stake.
-#StopBrexitSaveNHS #OurNHSIsNotForSale","['ournhsisnotforsale', 'stopbrexitsavenhs', 'ournhs']"
-192,192,192,192,192,192,192,263416,1136738317054095360,863080535681372160,negative,other,2019-06-06T20:55:09.000Z,"#Diabetics, #heart #disease, #kidney failure, #asthmatics, #liver disease, #lung patients, watch out of you don’t vote to #StopBrexitSaveNHS you will go onto the American ‘pay or die’ healthcare system they have! #payordiehealthcare will replace #NHS if we #Brexit we must stop it https://t.co/aAHU3rFlta","['payordiehealthcare', 'lung', 'asthmatics', 'liver', 'brexit', 'disease', 'stopbrexitsavenhs', 'diabetics', 'nhs', 'heart', 'kidney']"
-193,193,193,193,193,193,193,459228,1140370293640355840,2581025694,negative,remain,2019-06-16T21:27:19.000Z,"#stopboris before he drags this country into the gutter of no deal brexit, and, by-the-way, he did travel to the studio tonight for leadership debate but couldn't get any further than the studio shit- hole #stopbrexitsavenhs #PeoplesVote https://t.co/3MtMiETuES","['peoplesvote', 'stopboris', 'stopbrexitsavenhs']"
-194,194,194,194,194,194,194,582700,1142828919676133376,478865808,negative,other,2019-06-23T16:17:01.000Z,"Hanging out with friends this weekend and you know what? We banned talking about the never ending wormhole 'Brexit' has become.
-
-Although all but one of us agreed we need a people's ❎ #stopbrexitsavenhs #PeoplesVote https://t.co/6JK2nJCPt0","['peoplesvote', 'stopbrexitsavenhs']"
-195,195,195,195,195,195,195,519555,1141408419234156544,51221177,negative,remain,2019-06-19T18:12:28.000Z,@GloriaDePiero There is no such thing and you know it This Tory brexit fraud destroys jobs and communities Shame on you .It's our party policy to back a #PeoplesVote as we won't get an election Do your job and back our party or leave #StopBrexitSaveNHS @UKLabour,"['peoplesvote', 'stopbrexitsavenhs']"
-196,196,196,196,196,196,196,248985,1136584512836644864,1004318000584056832,negative,leave,2019-06-06T10:43:59.000Z,"#Peterboroughbyelection 
-#StopBrexitSaveNHS 
-
-Brexit means the end of the NHS and being forced into an American style medical insurance system that will financially cripple ordinary folk if they get ill or have an accident.
-
-The true choice really is that simple. https://t.co/wfh3JUbiQZ","['peterboroughbyelection', 'stopbrexitsavenhs']"
-197,197,197,197,197,197,197,275695,1136901939717914624,865274139774513152,neutral,other,2019-06-07T07:45:19.000Z,"@RoyMotteram And that's in a 60% leave voting constituency. Seems as though people are realising that #Brexit means #OurNHS won't be safe. #StopBrexitSaveNHS.
-
-#PeterboroughByElection","['peterboroughbyelection', 'stopbrexitsavenhs', 'brexit', 'ournhs']"
-198,198,198,198,198,198,198,254877,1136643845578481664,1109112149077577600,positive,other,2019-06-06T14:39:45.000Z,@LibdemBeki @LibDems #PeterboroughByElection #Peterborough if you want your #NHS sold off to @realDonaldTrump and to start paying insurance for your care vote for a #brexit party. If not vote @LibDems #StopBrexitSaveNHS,"['peterboroughbyelection', 'stopbrexitsavenhs', 'nhs', 'peterborough', 'brexit']"
-199,199,199,199,199,199,199,222334,1136187395945238528,1016997919612919808,negative,other,2019-06-05T08:25:59.000Z,"How long will it be before Brexiteers and Leave voters claim that they voted in 2016 to dismantle the NHS, and that they knew the NHS would have to be damaged to sign one trade deal?
-
-#projectfear #leavemeansleave #SaveOurNHS #Brexit #RevokeArticle50 #RevokeA50 #StopBrexitSaveNHS","['projectfear', 'revokearticle50', 'saveournhs', 'brexit', 'revokea50', 'stopbrexitsavenhs', 'leavemeansleave']"
+https://t.co/PaZKhh4wOc","['nhs', 'stopbrexitsavenhs', 'brexit', 'handsoffournhs']"
+1136150644648267776,744451764062130048,neutral,remain,2019-06-05T05:59:56.000Z,"@captainsuth .@captainsuth - tut tut, of course everyone voted for a no-deal #brexit and to sell the #NHS , because that is what the people's 'saviour' #Farage tells them. And he must be right. #StopBrexitSaveNHS","['nhs', 'stopbrexitsavenhs', 'farage', 'brexit']"
+1135931638960050176,944780454,neutral,other,2019-06-04T15:29:41.000Z,"So #Trump says that the #NHS would be on the table during Negotiations in a post-Brexit trade deal with the US 👇🏼 this is a US senator tweeting about private healthcare plans....welcome to the future, time to ask yourself could you cope without the NHS? #StopBrexitSaveNHS https://t.co/3fCGUkUiqW","['nhs', 'stopbrexitsavenhs', 'trump']"

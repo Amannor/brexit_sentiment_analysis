@@ -1,3 +1,3 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,744089,734323865711738880,59096088,negative,other,2016-05-22T10:03:47.000Z,"@campbellclaret as I have often said, #Brexit is a #STUKIPID idea. The more they talk the more it is confirmed. I know, how rude of me!😈","['brexit', 'stukipid']"
-1,1,1,1,1,725861,733572903057264640,59096088,neutral,remain,2016-05-20T08:19:43.000Z,#Brexit is a #STUKIPID idea https://t.co/F1DysgXCVJ,"['brexit', 'stukipid']"
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+733572903057264640,59096088,neutral,remain,2016-05-20T08:19:43.000Z,#Brexit is a #STUKIPID idea https://t.co/F1DysgXCVJ,"['brexit', 'stukipid']"
+734323865711738880,59096088,negative,other,2016-05-22T10:03:47.000Z,"@campbellclaret as I have often said, #Brexit is a #STUKIPID idea. The more they talk the more it is confirmed. I know, how rude of me!😈","['brexit', 'stukipid']"

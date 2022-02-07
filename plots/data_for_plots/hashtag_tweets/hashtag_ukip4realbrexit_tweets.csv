@@ -1,7 +1,7 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,2074037,1018996536041144320,1015802182053056256,negative,other,2018-07-16T23:11:20.000Z,"@theresa_may *In your opinion.
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+1018996536041144320,1015802182053056256,negative,other,2018-07-16T23:11:20.000Z,"@theresa_may *In your opinion.
 
-I think it's the worst deal possible but then I'm looking at it objectively rather than from a perspective of being able to say 'I delivered brexit, and kept the UK as close to the EU as possible' #BINO #UKIP4RealBrexit #ForTheCountry","['forthecountry', 'ukip4realbrexit', 'bino']"
-1,1,1,1,1,2074036,1018996536041144320,1015802182053056256,negative,other,2018-07-16T23:11:20.000Z,"@theresa_may *In your opinion.
+I think it's the worst deal possible but then I'm looking at it objectively rather than from a perspective of being able to say 'I delivered brexit, and kept the UK as close to the EU as possible' #BINO #UKIP4RealBrexit #ForTheCountry","['ukip4realbrexit', 'forthecountry', 'bino']"
+1018996536041144320,1015802182053056256,negative,other,2018-07-16T23:11:20.000Z,"@theresa_may *In your opinion.
 
-I think it's the worst deal possible but then I'm looking at it objectively rather than from a perspective of being able to say 'I delivered brexit, and kept the UK as close to the EU as possible' #BINO #UKIP4RealBrexit #ForTheCountry","['forthecountry', 'ukip4realbrexit', 'bino']"
+I think it's the worst deal possible but then I'm looking at it objectively rather than from a perspective of being able to say 'I delivered brexit, and kept the UK as close to the EU as possible' #BINO #UKIP4RealBrexit #ForTheCountry","['ukip4realbrexit', 'forthecountry', 'bino']"

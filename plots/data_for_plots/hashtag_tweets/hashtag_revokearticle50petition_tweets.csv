@@ -1,397 +1,450 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,0,588357,1111948181460389888,5858962,positive,remain,2019-03-30T11:08:00.000Z,"@DavidGauke Dominic Grieve is an intelligent, considered &amp; thinking MP the kind of person I would want representing me. He’s considered the situation &amp; realises the madness of Brexit &amp; is trying to protect his constituents #17MillionSignatures #RevokeArticle50Petition https://t.co/E2aPQP8hy9","['17millionsignatures', 'revokearticle50petition']"
-1,1,1,1,1,1,414306,1110666045663133696,5858962,positive,remain,2019-03-26T22:13:15.000Z,@NHSMillion @Dissentra A great gesture for an amazing organisation. But now we can all help our NHS by signing the Revoke A50 petition - to stop the Brexit madness now https://t.co/zuN5ExDdJL #17MillionSignatures #RevokeArticle50Petition,"['17millionsignatures', 'revokearticle50petition']"
-2,2,2,2,2,2,587296,1111943034256670720,5858962,positive,other,2019-03-30T10:47:32.000Z,@JamesMelville MP’s have to step up and be prepared to vote through revocation - in the National Interest they cannot allow a no deal Brexit to happen #17MillionSignatures #RevokeArticle50Petition https://t.co/E2aPQP8hy9,"['17millionsignatures', 'revokearticle50petition']"
-3,3,3,3,3,3,480282,1111180679709147136,5858962,neutral,other,2019-03-28T08:18:13.000Z,@brexit_sham @Tonygoode @guyverhofstadt The perfect response to that nasty little man Fartage 🇪🇺🇬🇧🇪🇺🇬🇧🇪🇺 #17MillionSignatures #RevokeArticle50Petition https://t.co/E2aPQP8hy9,"['17millionsignatures', 'revokearticle50petition']"
-4,4,4,4,4,4,405090,1110590254925398016,5858962,positive,remain,2019-03-26T17:12:05.000Z,@Jacob_Rees_Mogg Seems like you’ve change your mind Jacob. It‘s clear that millions of people all over the country have done the same and want to Revoke A50 &amp; simply put Brexit behind them #PeoplesVote #17MillionSignatures #RevokeArticle50Petition https://t.co/zuN5ExDdJL,"['17millionsignatures', 'revokearticle50petition', 'peoplesvote']"
-5,5,5,5,5,5,406798,1110602530126553088,5858962,negative,other,2019-03-26T18:00:51.000Z,@Aiannucci @AjMillsey1 Your 100% right. Things have to change. Brexit has demonstrated how broken our parliamentary system is. It affords the PM far too much power &amp; our FPTP elections keep us locked into 2 party politics #PeoplesVote #17MillionSignatures #RevokeArticle50Petition,"['17millionsignatures', 'revokearticle50petition', 'peoplesvote']"
-6,6,6,6,6,6,621020,1112339679666409472,5858962,negative,remain,2019-03-31T13:03:40.000Z,@brexit_sham The fact that your legal advice was wrong is not a valid defence I’m afraid. Your campaign broke the law - fact. #PeoplesVote #17MillionSignatures #RevokeArticle50Petition,"['17millionsignatures', 'revokearticle50petition', 'peoplesvote']"
-7,7,7,7,7,7,405647,1110594526329094144,5858962,negative,other,2019-03-26T17:29:03.000Z,@NSoames @EuEthnic We need to Revoke and stop the madness - people have simply realised Brexit was massive mistake #PeoplesVote #17MillionSignatures #RevokeArticle50Petition https://t.co/zuN5ExDdJL https://t.co/xRbD20LoHz,"['17millionsignatures', 'revokearticle50petition', 'peoplesvote']"
-8,8,8,8,8,8,588524,1111949082921189376,5858962,negative,remain,2019-03-30T11:11:35.000Z,@mrsmacchan @jilltmor @ZacGoldsmith .@ZacGoldsmith so your saying that 3 years on with all we now know about the lies of the 2016 campaign &amp; the reality of Brexit more democracy is bad for democracy? #PeoplesVote #17MillionSignatures #RevokeArticle50Petition,"['17millionsignatures', 'revokearticle50petition', 'peoplesvote']"
-9,9,9,9,9,9,408028,1110611018869325824,5858962,negative,remain,2019-03-26T18:34:35.000Z,@stephaniegow1 @mark_kelly256 People should have the final say now. Brexit is seen for what it is - a disaster. It’s clear now that every form of Brexit is worse than what we have now. #PeoplesVote #17MillionSignatures #RevokeArticle50Petition https://t.co/wIauiNsJXt,"['17millionsignatures', 'revokearticle50petition', 'peoplesvote']"
-10,10,10,10,10,10,614459,1112292583185809408,313917656,positive,remain,2019-03-31T09:56:31.000Z,Over #6Million signatures #RevokeArticle50Petition. One voter in 6 wants to stop #Brexit and stay in #EU. With these numbers and  #Westminster indecision. The only solution for any #MP facing constituents is #PeoplesVote. Support #MargaretBeckett tomorrow. https://t.co/5NsONMgANr,"['6million', 'revokearticle50petition', 'brexit', 'margaretbeckett', 'westminster', 'eu', 'mp', 'peoplesvote']"
-11,11,11,11,11,11,499746,1111320658917629952,22561176,negative,remain,2019-03-28T17:34:27.000Z,"Also, look, I'm sorry my timeline is largely all 'stop Brexit' and that lately, but howling into the void is all I have left
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+1109389231263285248,958436587,positive,remain,2019-03-23T09:39:38.000Z,"4,008,386 signatures! Come on people if you haven't already signed it - nows your chance! #RevokeArt50Now #RovokeArticle50 #PeoplesVote #NoDealBrexit #Brexit #RevokeArticle50Petition #4million  https://t.co/VnDb0y3mnR","['4million', 'revokearticle50petition', 'brexit', 'rovokearticle50', 'peoplesvote', 'revokeart50now', 'nodealbrexit']"
+1109840397919051776,133404267,positive,other,2019-03-24T15:32:25.000Z,"Be a part of history like 5 million others and sign it now. #brexit #RevokeArticle50Petition #RevokeArt50Now #PeoplesVoteMarch #5Million 
+https://t.co/DVlNI7NhMX","['5million', 'brexit', 'revokeart50now', 'peoplesvotemarch', 'revokearticle50petition']"
+1111320658917629952,22561176,negative,remain,2019-03-28T17:34:27.000Z,"Also, look, I'm sorry my timeline is largely all 'stop Brexit' and that lately, but howling into the void is all I have left
 
 #RevokeArt50Now 
 #RevokeArticle50Petition 
-#AlsoWhyNotBuyMyComicsWhileYoureReadingThis","['alsowhynotbuymycomicswhileyourereadingthis', 'revokearticle50petition', 'revokeart50now']"
-12,12,12,12,12,12,618240,1112317462303920128,47973,neutral,other,2019-03-31T11:35:23.000Z,#RevokeArticle50Petition now well past 6 million signatures. Debate in Parliament on #AprilFoolsDay  https://t.co/4MwbcyHTCY #Brexit https://t.co/Go72XrbDgs,"['aprilfoolsday', 'brexit', 'revokearticle50petition']"
-13,13,13,13,13,13,1009047,1116717400425021440,976711573,negative,other,2019-04-12T14:59:10.000Z,Then give them a real future end brexit #RevokeArticle50Petition  and stop being an #arrogant #hypocrite Remember Your #manifesto! https://t.co/aEq4e1mT71,"['arrogant', 'manifesto', 'revokearticle50petition', 'hypocrite']"
-14,14,14,14,14,14,227238,1109020570333732864,31711513,negative,remain,2019-03-22T09:14:43.000Z,"Over 2 million people have signed the petition demanding that #Article50 be revoked, and this toxic #Brexit idiocy be binned once and for all. #RevokeArticle50Petition #RevokeArticle50 
+#AlsoWhyNotBuyMyComicsWhileYoureReadingThis","['alsowhynotbuymycomicswhileyourereadingthis', 'revokeart50now', 'revokearticle50petition']"
+1112317462303920128,47973,neutral,other,2019-03-31T11:35:23.000Z,#RevokeArticle50Petition now well past 6 million signatures. Debate in Parliament on #AprilFoolsDay  https://t.co/4MwbcyHTCY #Brexit https://t.co/Go72XrbDgs,"['aprilfoolsday', 'brexit', 'revokearticle50petition']"
+1109081700838113280,153696164,neutral,remain,2019-03-22T13:17:37.000Z,3.1m Signatures now! #RevokeArt50Now #RevokeArticle50Petition #Article50 #Brexit #BrexitShambles  https://t.co/Ks3NGZac7K,"['article50', 'brexit', 'brexitshambles', 'revokeart50now', 'revokearticle50petition']"
+1108922026679562240,764596010,negative,remain,2019-03-22T02:43:08.000Z,"All you cocky #RevokeArticle50Petition #FBEU #Remain types bragging about a petition, need to remember what happened to this one...
+#Brexit #Leave #Article50 https://t.co/BlJPDq6nvX","['article50', 'brexit', 'remain', 'fbeu', 'leave', 'revokearticle50petition']"
+1109341294738980864,154894946,negative,other,2019-03-23T06:29:09.000Z,@tinalouiseUK 2/2 but an intransigent leader who did not bring people together to work out what #Brexit meant before sending #Article50 letter and leader who did not put in place proper threshold for initial vote messed up. #RevokeArt50Now #RevokeArticle50Petition #StopStupidity,"['article50', 'brexit', 'stopstupidity', 'revokeart50now', 'revokearticle50petition']"
+1109026089999974400,720861832924106752,neutral,other,2019-03-22T09:36:39.000Z,2.75m have signed this https://t.co/mAED5ckslR #EU #RevokeArticle50Petition #Article50 #Brexit #FPBE,"['article50', 'eu', 'fpbe', 'brexit', 'revokearticle50petition']"
+1108783520892243968,1101766141,positive,other,2019-03-21T17:32:46.000Z,"What sort of numbers do you think the #RevokeArticle50Petition will reach? 
 
-LIVE ON @BBC3CR NOW https://t.co/95HsVwPtrx","['article50', 'brexit', 'revokearticle50petition', 'revokearticle50']"
-15,15,15,15,15,15,357021,1110168154897031168,399622190,neutral,other,2019-03-25T13:14:48.000Z,"Little bit of politics... 
+It’s had over a million already &amp; if I’m not mistaken that’s within 24hrs and had a period of shut down for maintenance works.
 
-https://t.co/IvGJseYUqk
+#Brexit #Article50 #RevokeArticle50 #PeoplesVote
 
-#Brexit
-#RevokeArticle50Petition
-#EU
-#Article50","['article50', 'eu', 'brexit', 'revokearticle50petition']"
-16,16,16,16,16,16,517959,1111523936209174528,60286320,negative,other,2019-03-29T07:02:12.000Z,Sadly thinks are still tits up! #brexit #Article50 #RevokeArticle50Petition https://t.co/mxBugXpLmG,"['article50', 'revokearticle50petition', 'brexit']"
-17,17,17,17,17,17,199504,1108764238594666496,3120394676,neutral,remain,2019-03-21T16:16:08.000Z,15 seconds of #Petition to revoke #article50 #brexit #RevokeArticle50Now #RevokeA50 #RevokeArt50 #RevokeArticle50Petition 😱 https://t.co/FPswLsf9VP,"['article50', 'revokearticle50petition', 'revokea50', 'revokearticle50now', 'brexit', 'petition', 'revokeart50']"
-18,18,18,18,18,18,413648,1110658080130375680,29308150,positive,other,2019-03-26T21:41:35.000Z,Area by area: The people supporting the Revoke Article 50 petition #Brexit #Article50Petition #RevokeArticle50 #RevokeArticle50Petition https://t.co/7UYcqeS3M5,"['article50petition', 'brexit', 'revokearticle50petition', 'revokearticle50']"
-19,19,19,19,19,19,415154,1110675764033265664,26795445,negative,leave,2019-03-26T22:51:52.000Z,"Being blunt - there is no confidence in the government, or democracy if you keep ignoring current sentiment. 
+https://t.co/IzVjO1ZTdq","['article50', 'revokearticle50', 'brexit', 'peoplesvote', 'revokearticle50petition']"
+1110739175018512384,2957917314,negative,remain,2019-03-27T03:03:50.000Z,"No #revocation of #Article50 by #May. #Brexit is still happening as of right now.
 
-Signing a petition, asking for a vote on the deal no one voted for - that’s the very definition of democracy. 🤦🏽‍♀️
+#Brexit #RevokeArticle50 #RevokeArticle50Petition https://t.co/XXolmqpeLb","['article50', 'revokearticle50', 'brexit', 'revocation', 'may', 'revokearticle50petition']"
+1110515632582340608,18088673,positive,other,2019-03-26T12:15:33.000Z,"Incredible. Revoke Article 50 petition reaches 5.7 million signatures.
 
-#Article50Petition #RevokeArticle50Petition #brexit https://t.co/NVORN9MEf5","['article50petition', 'revokearticle50petition', 'brexit']"
-20,20,20,20,20,20,432627,1110879750459981824,2334022280,negative,remain,2019-03-27T12:22:26.000Z,#pmqs #RevokeArticle50Petition has Tory feathers ruffled! #Brexit lies #Brexit fraud #Brexit bribery #Brexit contempt #Brexit incompetence! Tory #austerity where the rich get richer &amp; the poor get poorer.,"['austerity', 'brexit', 'revokearticle50petition', 'pmqs']"
-21,21,21,21,21,21,236701,1109076633917493248,3126347159,negative,other,2019-03-22T12:57:29.000Z,@ByDonkeys @Nigel_Farage Struggling too see @nathanball &amp; @dannyski9 in this Brexit march photo! Can you spot them @Zulfario @KZulfi ? #RevokeArticle50Petition #ballsup,"['ballsup', 'revokearticle50petition']"
-22,22,22,22,22,22,269893,1109386985830080512,405590291,negative,other,2019-03-23T09:30:43.000Z,#BBC #Brexit bias. I think we need a public inquiry into the BBC's role in the sorry business. #RevokeArticle50Petition https://t.co/3uJl2eSY4Y,"['bbc', 'brexit', 'revokearticle50petition']"
-23,23,23,23,23,23,224947,1109006265588559872,868672706,negative,other,2019-03-22T08:17:52.000Z,"'Cancel Brexit' petition passes 2m signatures on Parliament site. Again typical #bbc biased reporting, very negative ... in 2 days we have over 2M votes ... that’s significant admit it ... #RevokeArticle50Petition or a #PeoplesVote are real options  https://t.co/Bbp6lPhowa","['bbc', 'revokearticle50petition', 'peoplesvote']"
-24,24,24,24,24,24,216055,1108865832325709824,270340462,negative,leave,2019-03-21T22:59:50.000Z,#LockDownParliament if our MPs prevent us from leaving the EU perhaps we should stop them from leaving the House of Commons? #BBCQT #Brexit #RevokeArticle50Petition,"['bbcqt', 'brexit', 'lockdownparliament', 'revokearticle50petition']"
-25,25,25,25,25,25,217315,1108873428226977792,746530775395368960,neutral,other,2019-03-21T23:30:01.000Z,"#EU gives Parliament another week to turn down @theresa_may's plan
+#Brexit #Article50 #RevokeA50Now #RevokeArticle50 #RevokeArticle50Petition https://t.co/nMQZFwDXeO","['article50', 'revokearticle50', 'brexit', 'revokea50now', 'revokearticle50petition']"
+1112353375654420480,905665081,positive,other,2019-03-31T13:58:05.000Z,3/3 I suspect #TheresaMay is sitting in @10DowningStreet and is in stitches ;-) #brexit #Article50 #RevokeArticle50Now #RevokeArticle50Petition,"['article50', 'revokearticle50now', 'theresamay', 'brexit', 'revokearticle50petition']"
+1111523936209174528,60286320,negative,other,2019-03-29T07:02:12.000Z,Sadly thinks are still tits up! #brexit #Article50 #RevokeArticle50Petition https://t.co/mxBugXpLmG,"['article50', 'revokearticle50petition', 'brexit']"
+1111553280583323648,2256608786,negative,remain,2019-03-29T08:58:48.000Z,"#BrexitDay:  Brexit is reckless, corrupt, and dangerous. It is right and proper that the great and decent British people oppose it, and demand that #Article50 is revoked.
+
+#StopBrexitSaveBritain 
+#StopBrexitSaveDemocracy 
+
+#RevokeArticle50Petition:  https://t.co/5LbbcDkOHv","['article50', 'stopbrexitsavedemocracy', 'brexitday', 'stopbrexitsavebritain', 'revokearticle50petition']"
+1110598421461811200,747110106593103872,neutral,remain,2019-03-26T17:44:32.000Z,"#RevokeArticle50Petition #revokeArt50 #Brexit #BrexitChaos #BrexitShambles #Article50 #StopBrexitSaveDemocracy 
+
+👇🏻🇪🇺🇬🇧🇪🇺🇬🇧🇪🇺🇬🇧🇪🇺🇬🇧🇪🇺🇬🇧🇪🇺👇🏻
+
+Shall we show the government that this really isn’t the response we were asking for? 
+
+👇🏻🇪🇺🇬🇧🇪🇺🇬🇧🇪🇺🇬🇧🇪🇺🇬🇧🇪🇺🇬🇧🇪🇺👇🏻
+
+https://t.co/RFN8NTnmZm https://t.co/aW8jZX90bj","['article50', 'stopbrexitsavedemocracy', 'revokeart50', 'brexit', 'brexitchaos', 'brexitshambles', 'revokearticle50petition']"
+1109430303385415680,219345607,positive,other,2019-03-23T12:22:51.000Z,As #RevokeArticle50Petition rises to 4.2 million it is heading towards 10% of UK electorate (total approx 46.8m). That is the threshold which allows for recall of MPs. Surely this should qualify for recall of #Brexit &amp; #Article50? #PeoplesVoteMarch https://t.co/h8me3BUIwW,"['article50?', 'brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1109379983787606016,382809880,neutral,other,2019-03-23T09:02:54.000Z,BBC News - Why bots probably aren't gaming the 'Cancel Brexit' petition https://t.co/SyPZiQfUOj #article50petition #RevokeArticle50Petition #RevokArticle50 #RevokeA50Now,"['article50petition', 'revokea50now', 'revokarticle50', 'revokearticle50petition']"
+1110588803591430144,996874375583412224,positive,remain,2019-03-26T17:06:19.000Z,"Let's boost Slough's rankings on the Revoke Article 50 Petition map.
+Can you help us to get more people to sign it?
+Many people still don't even know it exists.
+#article50petition #RevokeArticle50Petition #brexit #stopbrexit
+https://t.co/4hajQmVN6X","['article50petition', 'stopbrexit', 'revokearticle50petition', 'brexit']"
+1110851590452404224,29459695,neutral,other,2019-03-27T10:30:32.000Z,"#ExPat #RevokeArticle50Petition signatures
+
+#UnitedKingdom 5,577,722
+#France 43,426
+#Spain 24,545
+#UnitedStates 23,983
+#Germany 19,904
+#Australia 18,781
+
+https://t.co/BZoJVpsS1x
+
+#RevokeA50 #RevokeArt50Now #RevokeA50Now #Article50Petition #UK
+
+https://t.co/Paia2DiZSM
+ #Brexit","['australia', 'revokea50', 'unitedkingdom', 'france', 'unitedstates', 'germany', 'article50petition', 'expat', 'brexit', 'revokeart50now', 'revokea50now', 'spain', 'uk', 'revokearticle50petition']"
+1109076633917493248,3126347159,negative,other,2019-03-22T12:57:29.000Z,@ByDonkeys @Nigel_Farage Struggling too see @nathanball &amp; @dannyski9 in this Brexit march photo! Can you spot them @Zulfario @KZulfi ? #RevokeArticle50Petition #ballsup,"['ballsup', 'revokearticle50petition']"
+1109386985830080512,405590291,negative,other,2019-03-23T09:30:43.000Z,#BBC #Brexit bias. I think we need a public inquiry into the BBC's role in the sorry business. #RevokeArticle50Petition https://t.co/3uJl2eSY4Y,"['bbc', 'brexit', 'revokearticle50petition']"
+1109006265588559872,868672706,negative,other,2019-03-22T08:17:52.000Z,"'Cancel Brexit' petition passes 2m signatures on Parliament site. Again typical #bbc biased reporting, very negative ... in 2 days we have over 2M votes ... that’s significant admit it ... #RevokeArticle50Petition or a #PeoplesVote are real options  https://t.co/Bbp6lPhowa","['bbc', 'revokearticle50petition', 'peoplesvote']"
+1110470733447204864,17197348,negative,leave,2019-03-26T09:17:09.000Z,"Have you signed the #petition to stop this whole car crash. Nothing will be solved by #brexit, whatever it was that you wanted #BBCAskThis
+
+https://t.co/Efd2csxIjf
+
+#RevokeArticle50 #RevokeArticle50Petition","['bbcaskthis', 'revokearticle50', 'petition', 'brexit', 'revokearticle50petition']"
+1109005034233171968,19641119,neutral,other,2019-03-22T08:12:59.000Z,"This can’t be retweeted enough. This young lady nailed it 👇🏼
+
+#bbcqt 
+#Brexit   #RevokeArticle50Now #RevokeArticle50Petition https://t.co/qxFfPj02Sw","['bbcqt', 'brexit', 'revokearticle50now', 'revokearticle50petition']"
+1108873428226977792,746530775395368960,neutral,other,2019-03-21T23:30:01.000Z,"#EU gives Parliament another week to turn down @theresa_may's plan
 a third time 🤷‍♀️
 
 #AlternativePlan 😉👍
 
 #Brexit #BrexitShambles #brexitpetition #RevokeArticle50Petition
-#PeoplesVoteMarch 🙆‍♀️🙆‍♂️ #bbcqt #bbctw","['bbctw', 'brexitpetition', 'revokearticle50petition', 'bbcqt', 'alternativeplan', 'peoplesvotemarch', 'brexit', 'eu', 'brexitshambles']"
-26,26,26,26,26,26,248751,1109154493453778944,2323669226,neutral,other,2019-03-22T18:06:52.000Z,"I had to look for it.. Which surprised me..
+#PeoplesVoteMarch 🙆‍♀️🙆‍♂️ #bbcqt #bbctw","['bbcqt', 'eu', 'bbctw', 'brexitpetition', 'brexit', 'alternativeplan', 'brexitshambles', 'peoplesvotemarch', 'revokearticle50petition']"
+1111014527401951232,836374489,neutral,other,2019-03-27T21:17:59.000Z,"Nearly 12,000 constituents in Beckenham have signed the Revoke Article 50 petitition. Wonder how Bob Stewart feels about this? #beckenham #RevokeArticle50Petition #brexit #bobstewartmp","['beckenham', 'bobstewartmp', 'revokearticle50petition', 'brexit']"
+1109154493453778944,2323669226,neutral,other,2019-03-22T18:06:52.000Z,"I had to look for it.. Which surprised me..
 
-#Brexit #RevokeArticle50Now #RevokeArticle50Petition #Bercow #bbctw https://t.co/VRXgA2Puuo","['bbctw', 'revokearticle50petition', 'brexit', 'revokearticle50now', 'bercow']"
-27,27,27,27,27,27,939185,1115956552844886016,252095927,negative,other,2019-04-10T12:35:50.000Z,"I remain unconvinced by MPs who talk on #BBCWato saying everyone they speak to just wants the UK Gov to get on with Brexit. I don't, neither do the 6M people who signed the #RevokeArticle50Petition 
-#WATO
-#RevokeArticle50","['bbcwato', 'revokearticle50', 'revokearticle50petition', 'wato']"
-28,28,28,28,28,28,668456,1112837954123202560,1714991388,positive,other,2019-04-01T22:03:38.000Z,"Hi @think32_ #Border Communities Against #Brexit #bcab how about supporting #RevokeArticle50Petition . Getting MPs to tweet it and support on Facebook.
-(https://t.co/9mbfdP0wjU) https://t.co/BZDPPzX7IO","['bcab', 'brexit', 'revokearticle50petition', 'border']"
-29,29,29,29,29,29,457142,1111014527401951232,836374489,neutral,other,2019-03-27T21:17:59.000Z,"Nearly 12,000 constituents in Beckenham have signed the Revoke Article 50 petitition. Wonder how Bob Stewart feels about this? #beckenham #RevokeArticle50Petition #brexit #bobstewartmp","['beckenham', 'revokearticle50petition', 'bobstewartmp', 'brexit']"
-30,30,30,30,30,30,225887,1109012601982341120,707133063,neutral,remain,2019-03-22T08:43:03.000Z,Come on #Beckenham let's keep going! #RevokeArticle50Petition #Brexit #StopBrexit https://t.co/6Gx190fV9e,"['beckenham', 'stopbrexit', 'brexit', 'revokearticle50petition']"
-31,31,31,31,31,31,210095,1108828450679189504,404281100,neutral,other,2019-03-21T20:31:18.000Z,"https://t.co/Cg4FeQh8f3 #EUCO #Tusk #Juncker #Macron #TheresaMay #Brexit #RevokeArticle50Petition #FinalSay #PeoplesVote #Parliament #Commons #Bercow #Lords #EEA #FBPE
+#Brexit #RevokeArticle50Now #RevokeArticle50Petition #Bercow #bbctw https://t.co/VRXgA2Puuo","['bercow', 'bbctw', 'revokearticle50now', 'brexit', 'revokearticle50petition']"
+1110250809923641344,773177323352911872,positive,other,2019-03-25T18:43:15.000Z,"Give these out at street stalls, tables, events, universities etc.
 
-It's time for a rethink of the whole European project
+QR code links straight to the petition. Please RT RT RT RT
+17 million signatures  here we come
 
-Combine #EU #EFTA #NATO #OSCE into one new CONFEDERATION","['bercow', 'tusk', 'osce', 'finalsay', 'nato', 'macron', 'theresamay', 'brexit', 'lords', 'fbpe', 'commons', 'juncker', 'euco', 'revokearticle50petition', 'efta', 'peoplesvote', 'eea', 'parliament', 'eu']"
-32,32,32,32,32,32,560238,1111696660906868736,29459695,neutral,other,2019-03-29T18:28:32.000Z,"The #BritishBitesBack #poll now picked up by #TheNewEuropean 😂
-
-Pro-Brexit group’s attempt to discredit Article 50 petition backfires
-
-https://t.co/6eiSucz68g
-
-#Brexit #BrexitJokeDay #BrexitJokes #BexitDay #RevokeArticle50 #RevokeArticle50Petition @TheNewEuropean","['bexitday', 'revokearticle50petition', 'revokearticle50', 'brexit', 'theneweuropean', 'brexitjokes', 'brexitjokeday', 'britishbitesback', 'poll']"
-33,33,33,33,33,33,429858,1110857531759439872,187529374,positive,remain,2019-03-27T10:54:08.000Z,"I think we're in the process of being further #conned in some slimey Tory endgame. But Yeah it's a RT!
-😂😂😂😂😂😂😂
-Anyways best to put #Brexit in the #bin.   It's #rubbish
-#RevokeArticle50 #RevokeArticle50Petition 
-#StopBrexit 
-#BrexitShambles https://t.co/DjcK8ZmKPk","['bin', 'revokearticle50petition', 'revokearticle50', 'rubbish', 'brexit', 'stopbrexit', 'conned', 'brexitshambles']"
-34,34,34,34,34,34,613395,1112283001843564544,52003080,negative,other,2019-03-31T09:18:27.000Z,"2018 @Lord_Sugar had a point -(Dumb &amp; Dumber) #BorisJohnson &amp; #MichaelGove should be in jail, not vying for #PrimeMinister position. #Vote_Leave broke law #Brexit #Referendum #RevokeArt50Now #RevokeArticle50Petition https://t.co/PlGPx06txR","['borisjohnson', 'primeminister', 'revokearticle50petition', 'brexit', 'voteleave', 'michaelgove', 'referendum', 'revokeart50now']"
-35,35,35,35,35,35,613881,1112287545860214784,52003080,negative,remain,2019-03-31T09:36:30.000Z,"#Brexit #Referendum was illegal #VoteLeaveBrokeTheLaw, #BorisJohnson &amp; #MichaelGove should be in jail.@Conservatives #TheresaMay started #Brexit without a plan,is she going to hell? #RevokeArticle50 #RevokeArticle50Petition #RevokeArt50 https://t.co/4dL755n1z1","['borisjohnson', 'revokearticle50petition', 'revokearticle50', 'brexit', 'michaelgove', 'referendum', 'voteleavebrokethelaw', 'theresamay', 'revokeart50']"
-36,36,36,36,36,36,680342,1112996097008513024,2849876151,negative,leave,2019-04-02T08:32:02.000Z,@OwenJones84 No it's Labour too. Ignoring over 6million who voted to #RevokeArticle50Petition  in many constituencies. They will be paid back in kind in local elections. #BoycottTories #BoycottLabour  no votes for Brexit parties. We are sick it!,"['boycotttories', 'revokearticle50petition', 'boycottlabour']"
-37,37,37,37,37,37,298638,1109566662355968000,2318979313,positive,other,2019-03-23T21:24:41.000Z,"I love the new format of the #RevokeArticle50Petition status report
+#RevokeArticle50Petition 
+#BollockstoBrexit #FBPE #Brexit https://t.co/rpShexLRML","['bollockstobrexit', 'fbpe', 'brexit', 'revokearticle50petition']"
+1112996097008513024,2849876151,negative,leave,2019-04-02T08:32:02.000Z,@OwenJones84 No it's Labour too. Ignoring over 6million who voted to #RevokeArticle50Petition  in many constituencies. They will be paid back in kind in local elections. #BoycottTories #BoycottLabour  no votes for Brexit parties. We are sick it!,"['boycotttories', 'boycottlabour', 'revokearticle50petition']"
+1109566662355968000,2318979313,positive,other,2019-03-23T21:24:41.000Z,"I love the new format of the #RevokeArticle50Petition status report
 - Each row shows MP's name, party and majority
 - Its easy to see who's in trouble for supporting #brexit now.
 
 About 200 #brectum MPs must be soiling themselves by now !!!
 
 https://t.co/NO5mcqWdj5 https://t.co/wPL96iPgzL","['brectum', 'revokearticle50petition', 'brexit']"
-38,38,38,38,38,38,966087,1116239792793108480,1032970380888219520,positive,remain,2019-04-11T07:21:19.000Z,"@campbellclaret @UKLabour @peoplesvote_uk I’m sure many @UKLabour are in the same position. No one realised that #Brexit supporting, Euro Sceptic @jeremycorbyn  would not oppose @Conservatives. He could have stopped #Brexit any time. He didn’t even support #RevokeArticle50Petition or march in London. #BrexInquiryNow","['brexinquirynow', 'brexit', 'revokearticle50petition']"
-39,39,39,39,39,39,985821,1116383400980561920,1032970380888219520,negative,remain,2019-04-11T16:51:58.000Z,@peoplesvote_uk There are no ‘ifs. Irresponsible duplicitous @Conservatives #Brexit MP without a plan are incapable of leading the UK.  @jeremycorbyn who never opposed #Brexit or supported #RevokeArticle50Petition is equally to blame for #Brexit #BrexInquiryNow #PeoplesVote,"['brexinquirynow', 'peoplesvote', 'brexit', 'revokearticle50petition']"
-40,40,40,40,40,40,966835,1116242305873264640,1032970380888219520,negative,remain,2019-04-11T07:31:19.000Z,"@mikegalsworthy @UKLabour Why would anyone trust @jeremycorbyn who never opposed #Brexit or supported #RevokeArticle50Petition or the Protest march in London. @UKLabour the worst Opposition Leader. A divided hard Left party with significant Antisemitism, racism &amp; bullying. #BrexInquiryNow #PeoplesVote","['brexinquirynow', 'peoplesvote', 'brexit', 'revokearticle50petition']"
-41,41,41,41,41,41,270436,1109389402764165120,313917656,positive,remain,2019-03-23T09:40:19.000Z,Over FOUR MILLION people have signed #RevokeArticle50Petition in past 3 days. Perhaps #AndreaLeadsom might like to reconsider her dismissive comments. Although her mood may have been soured because someone dropped a house on her sister. https://t.co/vx3UBvEy6T #petition #Brexit,"['brexit', 'andrealeadsom', 'revokearticle50petition', 'petition']"
-42,42,42,42,42,42,236227,1109074178307735552,2767929017,positive,other,2019-03-22T12:47:44.000Z,#RevokeArticle50Petition #Article50 #Brexit  are you below voting age? Are YOU inneligible to vote in the UK? Can you work an internet capable device? Can you click submit multiple times? Then we need YOU to continue devaluing the total-o-meter. #brexit. 1/2,"['brexit', 'article50', 'brexit', 'revokearticle50petition']"
-43,43,43,43,43,43,369137,1110250809923641344,773177323352911872,positive,other,2019-03-25T18:43:15.000Z,"Give these out at street stalls, tables, events, universities etc.
+1116239792793108480,1032970380888219520,positive,remain,2019-04-11T07:21:19.000Z,"@campbellclaret @UKLabour @peoplesvote_uk I’m sure many @UKLabour are in the same position. No one realised that #Brexit supporting, Euro Sceptic @jeremycorbyn  would not oppose @Conservatives. He could have stopped #Brexit any time. He didn’t even support #RevokeArticle50Petition or march in London. #BrexInquiryNow","['brexinquirynow', 'brexit', 'revokearticle50petition']"
+1116383400980561920,1032970380888219520,negative,remain,2019-04-11T16:51:58.000Z,@peoplesvote_uk There are no ‘ifs. Irresponsible duplicitous @Conservatives #Brexit MP without a plan are incapable of leading the UK.  @jeremycorbyn who never opposed #Brexit or supported #RevokeArticle50Petition is equally to blame for #Brexit #BrexInquiryNow #PeoplesVote,"['brexinquirynow', 'brexit', 'revokearticle50petition', 'peoplesvote']"
+1116242305873264640,1032970380888219520,negative,remain,2019-04-11T07:31:19.000Z,"@mikegalsworthy @UKLabour Why would anyone trust @jeremycorbyn who never opposed #Brexit or supported #RevokeArticle50Petition or the Protest march in London. @UKLabour the worst Opposition Leader. A divided hard Left party with significant Antisemitism, racism &amp; bullying. #BrexInquiryNow #PeoplesVote","['brexinquirynow', 'brexit', 'revokearticle50petition', 'peoplesvote']"
+1109049191005933568,2575184181,neutral,other,2019-03-22T11:08:26.000Z,"At 11:04 on Friday 22nd this petition is at 2,895,243 signatures. Keep signing, Keep re-tweeting. #Brexit #brexitpetition #BrexiShambles #RevokeArticle50Petition #RevokeArt50Now #BrextScandal #PeoplesVote 
+https://t.co/2SPflkF1p4","['brexishambles', 'brexitpetition', 'brexit', 'brextscandal', 'peoplesvote', 'revokeart50now', 'revokearticle50petition']"
+1109824388449427456,929707165128056832,positive,other,2019-03-24T14:28:48.000Z,Please sign #RevokeArticle50Petition  we just passed #5million let's get to six next 💛👍💛👍 #Brexit https://t.co/PBFaPfgBTA,"['brexit', '5million', 'revokearticle50petition']"
+1109020570333732864,31711513,negative,remain,2019-03-22T09:14:43.000Z,"Over 2 million people have signed the petition demanding that #Article50 be revoked, and this toxic #Brexit idiocy be binned once and for all. #RevokeArticle50Petition #RevokeArticle50 
 
-QR code links straight to the petition. Please RT RT RT RT
-17 million signatures  here we come
+LIVE ON @BBC3CR NOW https://t.co/95HsVwPtrx","['brexit', 'article50', 'revokearticle50petition', 'revokearticle50']"
+1110879750459981824,2334022280,negative,remain,2019-03-27T12:22:26.000Z,#pmqs #RevokeArticle50Petition has Tory feathers ruffled! #Brexit lies #Brexit fraud #Brexit bribery #Brexit contempt #Brexit incompetence! Tory #austerity where the rich get richer &amp; the poor get poorer.,"['brexit', 'austerity', 'revokearticle50petition', 'pmqs']"
+1110129911333863424,981466857118076800,positive,other,2019-03-25T10:42:50.000Z,@snb19692 @SpanishDan1 @johnredwood Got to admire your persistence Steve. #badBoysOfBrexit have nothing to say. Even when over 5 million citizens tell them where to stick their #Brexit #revokeArticle50Petition https://t.co/IIKJwqHq4S,"['brexit', 'badboysofbrexit', 'revokearticle50petition']"
+1112837954123202560,1714991388,positive,other,2019-04-01T22:03:38.000Z,"Hi @think32_ #Border Communities Against #Brexit #bcab how about supporting #RevokeArticle50Petition . Getting MPs to tweet it and support on Facebook.
+(https://t.co/9mbfdP0wjU) https://t.co/BZDPPzX7IO","['brexit', 'bcab', 'border', 'revokearticle50petition']"
+1109146828157698048,26239560,neutral,other,2019-03-22T17:36:25.000Z,"@washingtonpost Of course it won't make a difference. Many more millions voted FOR #Brexit in an official referendum, and not some online platform that's been spammed by #bots. #RevokeArticle50Petition","['brexit', 'bots', 'revokearticle50petition']"
+1110829781476655104,44880062,negative,remain,2019-03-27T09:03:52.000Z,For all our UK friends who don't want to #Brexit but prefer to #Bremain. #RevokeArticle50Petition https://t.co/HJeBcGCusO,"['brexit', 'bremain', 'revokearticle50petition']"
+1109074178307735552,2767929017,positive,other,2019-03-22T12:47:44.000Z,#RevokeArticle50Petition #Article50 #Brexit  are you below voting age? Are YOU inneligible to vote in the UK? Can you work an internet capable device? Can you click submit multiple times? Then we need YOU to continue devaluing the total-o-meter. #brexit. 1/2,"['brexit', 'brexit', 'article50', 'revokearticle50petition']"
+1109172830539825152,44902500,neutral,remain,2019-03-22T19:19:44.000Z,"#RevokeArticle50Petition is now been signed by a massive 3.6 million people, clear example that the people want another say on #Brexit
 
-#RevokeArticle50Petition 
-#BollockstoBrexit #FBPE #Brexit https://t.co/rpShexLRML","['brexit', 'bollockstobrexit', 'revokearticle50petition', 'fbpe']"
-44,44,44,44,44,44,967322,1116243913461907456,1032970380888219520,negative,remain,2019-04-11T07:37:42.000Z,"@thomasbrake @theresa_may @jeremycorbyn @jeremycorbyn has never opposed @Conservatives #Brexit, #RevokeArticle50Petition or march in London. The worst Opposition Leader ever. A new @UKLabour like @YvetteCooperMP leader who tried to oppose #Brexit is required to Stop Marxist Hard Left damaging the party. #PeoplesVote","['brexit', 'brexit', 'revokearticle50petition', 'peoplesvote']"
-45,45,45,45,45,45,518854,1111527724601016320,48582984,neutral,remain,2019-03-29T07:17:15.000Z,"5,956,000 signatures and counting --&gt;&gt; #RevokeArticle50Petition #RevokeArt50 #BrexitShambles #Brexit https://t.co/oG4N1Nawfq","['brexit', 'brexitshambles', 'revokearticle50petition', 'revokeart50']"
-46,46,46,46,46,46,1486747,1126441792398942208,141927904,negative,remain,2019-05-09T11:00:26.000Z,"This #Government is consumed by #Brexit and as a consequence we have major issues neglected and ignored.
+It's embarrassing that the HouseofCommons have constantly argued + disagreed on #brexit, but the people only get to have a say once #PeoplesVote","['brexit', 'brexit', 'revokearticle50petition', 'peoplesvote']"
+1116243913461907456,1032970380888219520,negative,remain,2019-04-11T07:37:42.000Z,"@thomasbrake @theresa_may @jeremycorbyn @jeremycorbyn has never opposed @Conservatives #Brexit, #RevokeArticle50Petition or march in London. The worst Opposition Leader ever. A new @UKLabour like @YvetteCooperMP leader who tried to oppose #Brexit is required to Stop Marxist Hard Left damaging the party. #PeoplesVote","['brexit', 'brexit', 'revokearticle50petition', 'peoplesvote']"
+1111034581472415744,303881523,neutral,remain,2019-03-27T22:37:40.000Z,"If Tommy Robinson had an appeal to ask a judge to change their mind, let’s have a EU referendum “appeal”! #RevokeArticle50Petition #Brexit #brexitAppeal","['brexit', 'brexitappeal', 'revokearticle50petition']"
+1109181216069160960,23760809,neutral,remain,2019-03-22T19:53:04.000Z,Sometimes I wonder how it would feel if Article 50 was revoked and the UK remained in the EU... #RevokeArticle50Petition #Brexit #Brexitcast Sign please: https://t.co/SvKOm02Hen https://t.co/zr3pIpglYV,"['brexit', 'brexitcast', 'revokearticle50petition']"
+1110230262430998528,880387805012254720,positive,remain,2019-03-25T17:21:36.000Z,As people have been saying for 2 weeks now the only move that winds enough support is Labour support #BrexitDeal in return for a #PeoplesVote that is the will of the people and gives #Brexit supporters their day out too. You can't ignore #RevokeArticle50Petition @jeremycorbyn https://t.co/YVEzrcRhed,"['brexit', 'brexitdeal', 'revokearticle50petition', 'peoplesvote']"
+1108846702788833280,956867832456843264,positive,leave,2019-03-21T21:43:49.000Z,"So the vote to “take back control” has reached the point where all the other EU leaders are in a room without our PM, deciding our future.
+#RevokeArticle50Petition #BrexitExtension #Brexit #FacePalm","['brexit', 'brexitextension', 'revokearticle50petition', 'facepalm']"
+1108805625021108224,222032680,neutral,other,2019-03-21T19:00:36.000Z,"I see the #RevokeArticle50Petition webiste is down again... 
 
-#Brexit is a mistake and needs to be stopped
+insert #Brexit #conspiracytheory here:....","['brexit', 'conspiracytheory', 'revokearticle50petition']"
+1113438232673284096,19978359,negative,other,2019-04-03T13:48:56.000Z,"@MaxMigliorato @Tonygoode @owenjbennett Agreed. 6,000,000 signees of the #RevokeArticle50Petition are politically homeless. If #Corbyn facilitates #Brexit, the backlash will be severe for @UKLabour.","['brexit', 'corbyn', 'revokearticle50petition']"
+1109182331498172416,138871209,negative,remain,2019-03-22T19:57:30.000Z,"@theresa_may @Conservatives Afraid of ""potentially irreparable damage to public trust"" from the 52% or the 48%? And which one is which now? Look at that petition! #Brexit #disaster #RevokeArticle50Petition  #RevokeArticle50","['brexit', 'disaster', 'revokearticle50petition', 'revokearticle50']"
+1108839348932362240,1027673533110005632,negative,remain,2019-03-21T21:14:36.000Z,"https://t.co/kASFP9LSuC Brexit will be a disaster. No matter which way you voted, we are not prepared. The tide has shifted. The people are informed. Allow the public a second say. #RevokeArticle50Petition #Brexit #disastercapitalism #brexitpetition","['brexit', 'disastercapitalism', 'revokearticle50petition', 'brexitpetition']"
+1110167245114744832,155535978,positive,remain,2019-03-25T13:11:11.000Z,Finally got around to signing this! Sometimes it feels like the End of Days is near... #RevokeArticle50Petition #Brexit #EndofDays Petition: Revoke Article 50 and remain in the EU. https://t.co/qlA3xHkmS0,"['brexit', 'endofdays', 'revokearticle50petition']"
+1116073741765816320,4507647255,positive,other,2019-04-10T20:21:30.000Z,"Brilliant, this should be done! #Brexit #EUelections2019 #RevokeArticle50Petition https://t.co/g7kSZZj6HM","['brexit', 'euelections2019', 'revokearticle50petition']"
+1110895112161296384,2795300014,neutral,other,2019-03-27T13:23:28.000Z,"Thread by @Richard_Ampere: ""It has been a while since I last crunched some numbers on , and while colleagues are on TV talking about Apple's  I thought I'd crunch some more. This time - the […]"" #Brexit #RevokeArticle50Petition #RevokeArt50Petition #EUref https://t.co/bBiB2N67BD","['brexit', 'euref', 'revokearticle50petition', 'revokeart50petition']"
+1110104297847615488,38027424,negative,leave,2019-03-25T09:01:04.000Z,"@gavinesler Experimentally I've signed #RevokeArticle50Petition more than once. There's even a YouTube video that shows you how. Temp email, made up name &amp; post code each time. It's a piss take of how gullible #Remainer #FBPE bunch are. Try it if you don't believe me... #Brexit","['brexit', 'fbpe', 'remainer', 'revokearticle50petition']"
+1110104478718529536,38027424,negative,leave,2019-03-25T09:01:47.000Z,"@jetjag100 @GerardBattenMEP @gavinesler Experimentally I've signed #RevokeArticle50Petition more than once. There's even a YouTube video that shows you how. Temp email, made up name &amp; post code each time. It's a piss take of how gullible #Remainer #FBPE bunch are. Try it if you don't believe me... #Brexit","['brexit', 'fbpe', 'remainer', 'revokearticle50petition']"
+1110961176085778432,22258776,neutral,remain,2019-03-27T17:45:59.000Z,It would be spineless if MPs vote for the  @theresa_may #Brexit deal on the promise of her resignation. Whatever happened to country before party? The deal was rejected twice - you don’t get to change your vote. #RevokeArticle50Petition #PeoplesVote #finalsay,"['brexit', 'finalsay', 'revokearticle50petition', 'peoplesvote']"
+1109748557236654080,2334022280,negative,remain,2019-03-24T09:27:28.000Z,@DanielWBmouth Almost 5 Million people have signed #RevokeArticle50Petition # Revoke &amp; Reform #GetTheToriesOut #Brexit Lies. Fraud. Bribery.,"['brexit', 'getthetoriesout', 'revokearticle50petition']"
+1109010802630111232,1068556344901410816,negative,leave,2019-03-22T08:35:54.000Z,"@FabianPicardo @GibChronicle Please make sure the people of #Gibraltar all know about this petition. https://t.co/RW8ffYaOVf We need many millions to sign this and stop the #Brexit madness.
+ #RevokeArticle50Petition 
+Remenber to use: Location: Gibraltar and Postcode: GX1 11AA","['brexit', 'gibraltar', 'revokearticle50petition']"
+1109018772394921984,1068556344901410816,negative,leave,2019-03-22T09:07:34.000Z,"@FabianPicardo Please make sure the people of #Gibraltar all know about this petition. https://t.co/RW8ffYaOVf … We need many millions to sign this and stop the #Brexit madness.
+ #RevokeArticle50Petition 
+Remenber to use: Location: Gibraltar and Postcode: GX1 11AA","['brexit', 'gibraltar', 'revokearticle50petition']"
+1109493646116769792,53730672,neutral,other,2019-03-23T16:34:33.000Z,"Best fake names used on  #RevokeArticle50Petition
+Jimmy twovotes
+ #goodfellas
+#Brexit","['brexit', 'goodfellas', 'revokearticle50petition']"
+1112300368980004864,183291357,neutral,other,2019-03-31T10:27:28.000Z,#RevokeArticle50Petition now at more than 6 millions. #HoC will debate this petition tomorrow. #Brexit https://t.co/vV0KaFz3Jm,"['brexit', 'hoc', 'revokearticle50petition']"
+1109190752041615360,298699910,negative,leave,2019-03-22T20:30:57.000Z,#Brexit is now just a toxic ideology of desperately selfish people trying to re-create a “glorious” past that never existed &amp; promising a future of posterity and power when in reality it’s self imposed relegation and turmoil #hopethatcheeredyouup #RevokeArticle50Petition,"['brexit', 'hopethatcheeredyouup', 'revokearticle50petition']"
+1110827032437501952,52003080,negative,other,2019-03-27T08:52:57.000Z,@UKLabour &amp; @Conservatives are the same bunch of #Hypocrites . If the @TheIndGroup or another party works to stop #Brexit they will have at least 6 Million + voters #RevokeArticle50Petition #RevokeArticle50,"['brexit', 'hypocrites', 'revokearticle50petition', 'revokearticle50']"
+1117850375984254976,863080535681372160,negative,other,2019-04-15T18:01:12.000Z,Complete the post @theresa_may then we’ll fuck all of the lowest-paid workers by forcing this destructive #Brexit upon them and take away all their #jobs! There that’s the TRUTH! #RevokeArticle50Petition https://t.co/kVmyBSUJyZ,"['brexit', 'jobs', 'revokearticle50petition']"
+1109015258042167296,42941925,negative,other,2019-03-22T08:53:36.000Z,"PM runs a totalitarian government when it’s been reduced to #maydealornaydeal and refuses to listen to anyone with a difference of opinion. The only chance now is to sign #RevokeArticle50Petition, even if it’ll not make the difference, the numbers already speak volumes. #brexit","['brexit', 'maydealornaydeal', 'revokearticle50petition']"
+1109088896426696704,1105473235565584384,neutral,leave,2019-03-22T13:46:13.000Z,"On hearing #NigelFarage on #radio4today dismissing revoke petition; ""many signatures from Russia [..] should be investigated""...😤 #Brexit #RevokeArticle50Petition &amp; saying he would run in EP again! https://t.co/qIuyGCQSgW","['brexit', 'nigelfarage', 'radio4today', 'revokearticle50petition']"
+1108841895638241280,82852301,positive,remain,2019-03-21T21:24:43.000Z,Convenient downtime at its finest. #dontbelievethehype. #notmypm. #Brexit #BrexitChaos #RevokeArticle50Petition https://t.co/NPGkxhU3tZ,"['brexit', 'notmypm', 'dontbelievethehype', 'brexitchaos', 'revokearticle50petition']"
+1109592249468420096,1043343001,negative,other,2019-03-23T23:06:22.000Z,@bbclaurak Rubbish and you know it. Diversionary tactics to detract from #PeoplesMarch and from #RevokeArticle50Petition @bbclaurak government propaganda machine. Gvnmt needs @theresa_may to carry the can until #Brexit happens!,"['brexit', 'peoplesmarch', 'revokearticle50petition']"
+1109057009758945280,23574001,neutral,remain,2019-03-22T11:39:31.000Z,"That’s a pity @RoyalMintUK - I was hoping (like those hedge funders and speculators and @Jacob_Rees_Mogg et al) to soften the blow of #Brexit - if it ever happens - to make a few bob out of #BrexitShambles 
 
-Over 6m people signed #RevokeArticle50Petition 
+#PeoplesVote #RevokeArticle50Petition #PeoplesMarch @mrjamesob https://t.co/H5d1WDs8kN","['brexit', 'peoplesvote', 'brexitshambles', 'peoplesmarch', 'revokearticle50petition']"
+1109823528617029632,716109919,positive,remain,2019-03-24T14:25:23.000Z,#Brexit #RevokeArticle50Petition reaches 5m signatures #RevokeArt50Now #PeoplesVote #BrexitShambles  https://t.co/OkCJiKDcY3,"['brexit', 'peoplesvote', 'brexitshambles', 'revokeart50now', 'revokearticle50petition']"
+1109389706758942720,2748167339,negative,remain,2019-03-23T09:41:32.000Z,#RevokeArticle50Petition #RevokeArt50Now #PeoplesVoteMarch #PeoplesVote stop #Brexit https://t.co/tEwH7tOKuu,"['brexit', 'peoplesvote', 'revokeart50now', 'peoplesvotemarch', 'revokearticle50petition']"
+1115564956139819008,553823579,positive,other,2019-04-09T10:39:46.000Z,This was Labour No Deal #Brexit vote passed by MP's last night. Its meanless. For Labour to have a credable position to support the 6 Million &amp; table #RevokeArticle50Petition #PeoplesVote. https://t.co/SwuDP9mJdP,"['brexit', 'peoplesvote', 'revokearticle50petition']"
+1110814850547179520,2705115756,positive,remain,2019-03-27T08:04:32.000Z,I was bang on then - just like the Chartists. #PeoplesVote #REvokeArticle50Petition #Brexit https://t.co/LBmC79qADG,"['brexit', 'peoplesvote', 'revokearticle50petition']"
+1112756364672147456,746833826014437376,neutral,other,2019-04-01T16:39:26.000Z,"MPs are debating the #RevokeArticle50Petition in Westminster Hall, and you can watch it at https://t.co/ugzAUP8uHK
 
-Ignored.
+#RevokeArticle50 #Brexit #PeoplesVote","['brexit', 'peoplesvote', 'revokearticle50petition', 'revokearticle50']"
+1108886990139871232,23574001,positive,other,2019-03-22T00:23:55.000Z,"Dear ⁦@RoyalMintUK⁩ have you minted the #Brexit commemorative 50p coins dated 29 March? If so, before you melt them all down, can I swap one for my 1973 EEC Brentry coin?
 
-When will they get back to running the country ? https://t.co/Ksso0NkbFq","['brexit', 'government', 'revokearticle50petition']"
-47,47,47,47,47,47,356558,1110164962062860288,880387805012254720,positive,leave,2019-03-25T13:02:07.000Z,Ironically ended freedom of movement risks far more exploitation of the undocumented. Time to follow party policy and demand a #PeoplesVote 2m people on #PeoplesMarchVote and 5.5m signed #RevokeArticle50Petition whilst you went to Morecombe on a jolly. Finger out time end #Brexit https://t.co/HyF50ncQDU,"['brexit', 'peoplesmarchvote', 'revokearticle50petition', 'peoplesvote']"
-48,48,48,48,48,48,210516,1108831070680739840,1105563887951380480,neutral,remain,2019-03-21T20:41:42.000Z,"We need to keep signing the #RevokeArticle50Petition! Even if it does not lead to a direct reversal on #Brexit, it may lead to a second #PeoplesVote. 🇪🇺🇬🇧","['brexit', 'peoplesvote', 'revokearticle50petition']"
-49,49,49,49,49,49,219010,1108893548311691264,469392238,positive,other,2019-03-22T00:49:58.000Z,"Since @theresa_may won't listen to anything other than her own agenda this is our chance to make her listen to the people!
-#Peoplesvote
-#RevokeArticle50 
-#RevokeArticle50Petition 
-#Brexit https://t.co/I8MyLdUCQC","['brexit', 'peoplesvote', 'revokearticle50petition', 'revokearticle50']"
-50,50,50,50,50,50,244380,1109130529453064192,880387805012254720,negative,other,2019-03-22T16:31:39.000Z,@ChrisHa33342711 @JuliaHB1 Except you can't use an email address more than once and there are checks on postcodes. She is just scared of a 3.3m petition ahead of a huge #PeoplesVoteMarch tomorrow when all her side can muster is a 60 person #gammonballrun end #Brexit #RevokeArticle50Petition,"['brexit', 'peoplesvotemarch', 'gammonballrun', 'revokearticle50petition']"
-51,51,51,51,51,51,574605,1111817190813192192,1491641263,positive,remain,2019-03-30T02:27:29.000Z,"If you feel last weekend's positive, carnival-like #PeoplesVoteMarch for speaks more for you &amp; people like you than today's hateful Brexiteer mob, you know where the #RevokeArticle50Petition is...
+P.S. #PeoplesVoteNow #PeoplesVoteMarch #RevokeArticle50Petition ⁦@mrjamesob⁩ https://t.co/k2OPnLH1LK","['brexit', 'peoplesvotemarch', 'peoplesvotenow', 'revokearticle50petition']"
+1109852984165494784,880387805012254720,positive,other,2019-03-24T16:22:26.000Z,"Sack all of these wreckers, none of them are fit to lead the UK . #PeoplesVoteMarch #RevokeArticle50Petition #Brexit https://t.co/r1uxZBEPoT","['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1111817190813192192,1491641263,positive,remain,2019-03-30T02:27:29.000Z,"If you feel last weekend's positive, carnival-like #PeoplesVoteMarch for speaks more for you &amp; people like you than today's hateful Brexiteer mob, you know where the #RevokeArticle50Petition is...
 Let's think again on #Brexit
 https://t.co/AQpWIP1nrF https://t.co/i3zm8PzjQx","['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
-52,52,52,52,52,52,327081,1109832091867467776,544360557,negative,other,2019-03-24T14:59:25.000Z,@tnewtondunn @ShippersUnbound @MrHarryCole The May coup is a diversion from the #PeoplesVoteMarch and #RevokeArticle50Petition so that the Brexiteers can slip their #Brexit plans through.,"['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
-53,53,53,53,53,53,336790,1109913896549261312,880387805012254720,negative,other,2019-03-24T20:24:28.000Z,@Suewilson91 Have media been conned again in a desperate attempt to take spotlight off the 2 million people on #PeoplesVoteMarch and the over 5 million who have signed #RevokeArticle50Petition it is time to end #Brexit https://t.co/a6RoFVi91S,"['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
-54,54,54,54,54,54,252813,1109177733291094016,880387805012254720,neutral,other,2019-03-22T19:39:13.000Z,@ConorGallaghe_r The generous UK sharing their trade deals with Faroe Islands and Lichtenstein with a poor EU with only trade deals wit the entire G20. Mr Ambassador with this unicorn tips curry you are really spoiling us. #RevokeArticle50Petition #PeoplesVoteMarch #Brexit,"['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
-55,55,55,55,55,55,329868,1109852984165494784,880387805012254720,positive,other,2019-03-24T16:22:26.000Z,"Sack all of these wreckers, none of them are fit to lead the UK . #PeoplesVoteMarch #RevokeArticle50Petition #Brexit https://t.co/r1uxZBEPoT","['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
-56,56,56,56,56,56,343765,1110082361289523200,880387805012254720,neutral,other,2019-03-25T07:33:53.000Z,"@patrickkmaguire British people can vote in general elections in Ireland since mid 1980's, people comfortable with it  Sort out the current mess #RevokeArticle50Petition #PeoplesVoteMarch #Brexit","['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
-57,57,57,57,57,57,263814,1109300161086439424,746530775395368960,neutral,remain,2019-03-23T03:45:42.000Z,"😂 That's me next to you!... 🙋‍♀️
- 
-#PeoplesVoteMarch #RevokeArticle50Petition #Brexit #brexitMAYhem https://t.co/kIyKU9dKbC","['brexit', 'peoplesvotemarch', 'revokearticle50petition', 'brexitmayhem']"
-58,58,58,58,58,58,270595,1109390247849275392,2748167339,positive,other,2019-03-23T09:43:41.000Z,‘I want a clean conscience’: meet the marchers for a people’s vote | Politics | The Guardian #PeoplesVoteMarch #RevokeArt50Now #RevokeArticle50Petition #Brexit  https://t.co/LKIAqcnNyv,"['brexit', 'peoplesvotemarch', 'revokearticle50petition', 'revokeart50now']"
-59,59,59,59,59,59,284014,1109470318320603136,971833883581911040,positive,other,2019-03-23T15:01:51.000Z,"Blue Dog #ReporterDiary from NHS Million @NHSMillion
-""Two million signatures and counting. Let’s keep this going strong.  Please sign via the link below and RT to help raise awareness: https://t.co/iGtl2mLVgk …  #RevokeArticle50Petition""
-#report #Brexit
-@BBCRadioLondon @Reuters https://t.co/BN4ab9BLaY","['brexit', 'reporterdiary', 'report', 'revokearticle50petition']"
-60,60,60,60,60,60,338333,1109928826858102784,810788725,positive,other,2019-03-24T21:23:48.000Z,"Come along, folks! Let's get it up to 6 million by midnight. Sign! Share! #RevokeArt50Petition #RevokeArticle50 #RevokeArticle50Petition #Brexit https://t.co/QcMGVPRlk5","['brexit', 'revokearticle50', 'revokearticle50petition', 'revokeart50petition']"
-61,61,61,61,61,61,352469,1110137531977355264,895814938995957760,positive,remain,2019-03-25T11:13:07.000Z,"@SeymourBybus Hi the unroll you asked for: Thread by @MitchellSt: ""Thread on what has changed between the ""Hold 2nd Referendum"" petition Jun-16 and the ""Revoone that is cur […]"" #RevokeArticle50Petition #Brexit https://t.co/anUPRTKFcv
+1109913896549261312,880387805012254720,negative,other,2019-03-24T20:24:28.000Z,@Suewilson91 Have media been conned again in a desperate attempt to take spotlight off the 2 million people on #PeoplesVoteMarch and the over 5 million who have signed #RevokeArticle50Petition it is time to end #Brexit https://t.co/a6RoFVi91S,"['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1109193642781085696,880387805012254720,positive,other,2019-03-22T20:42:26.000Z,@mikegalsworthy Would love to see the IP addresses checked out by @metpoliceuk and referenced straight back to his multiple email identities. One wonders what else the has been up to. #RevokeArticle50Petition #Brexit #PeoplesVoteMarch https://t.co/NxK79tThkF,"['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1110094281317011456,880387805012254720,negative,remain,2019-03-25T08:21:15.000Z,"@tomdoorley @Telegraph One struggles to think of a less reputable or electable politician in any major country bar Trump. Time to end #Brexit 
+#RevokeArticle50Petition #PeoplesVoteMarch https://t.co/vqQh9eVR1y","['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1109743129249398784,880387805012254720,negative,other,2019-03-24T09:05:54.000Z,"@pgnelson72 @SuzanneEvans1 Both have their lowest unemployment totals since 2008, Germany since the lowest wince the 1980's. What will help both greatly will be the jobs the UK is going to export. #PeoplesVoteMarch #Brexit #RevokeArticle50Petition https://t.co/ZBjEVygH1b","['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1109832091867467776,544360557,negative,other,2019-03-24T14:59:25.000Z,@tnewtondunn @ShippersUnbound @MrHarryCole The May coup is a diversion from the #PeoplesVoteMarch and #RevokeArticle50Petition so that the Brexiteers can slip their #Brexit plans through.,"['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1109813697294356480,721720585,negative,remain,2019-03-24T13:46:19.000Z,"Apparent yesterday - diversity. Would imagine also reflected in professions - type diversity sadly lacking in MP's, particularly those who have promoted hard #Brexit  Career politicians currently playing to keep their party in power
+#PeoplesVoteMarch 
+ #RevokeArticle50Petition","['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1109177733291094016,880387805012254720,neutral,other,2019-03-22T19:39:13.000Z,@ConorGallaghe_r The generous UK sharing their trade deals with Faroe Islands and Lichtenstein with a poor EU with only trade deals wit the entire G20. Mr Ambassador with this unicorn tips curry you are really spoiling us. #RevokeArticle50Petition #PeoplesVoteMarch #Brexit,"['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1110082361289523200,880387805012254720,neutral,other,2019-03-25T07:33:53.000Z,"@patrickkmaguire British people can vote in general elections in Ireland since mid 1980's, people comfortable with it  Sort out the current mess #RevokeArticle50Petition #PeoplesVoteMarch #Brexit","['brexit', 'peoplesvotemarch', 'revokearticle50petition']"
+1109833719534284800,198672061,negative,remain,2019-03-24T15:05:53.000Z,"Have the UK public changed their mind? Looking at events over the last few days, it does look possible.
+
+Is it undemocratic to ignore that the public have changed their mind? #Brexit #RevokeArticle50Petition #PeoplesVoteMarch #BrexitBetrayalMarch","['brexit', 'peoplesvotemarch', 'revokearticle50petition', 'brexitbetrayalmarch']"
+1110849349096009728,2334022280,negative,other,2019-03-27T10:21:38.000Z,"@guyverhofstadt For your information Mr President, Nigel Farage was in his second home, the PUB! 6 Million sign #RevokeArticle50Petition #RevokeArticle50 #Brexit lies, fraud, bribery, contempt &amp; incompetence! #PeoplesVoteMarch 1 Million ++","['brexit', 'peoplesvotemarch', 'revokearticle50petition', 'revokearticle50']"
+1110357881046646784,1101766141,neutral,leave,2019-03-26T01:48:42.000Z,01:44 and I’ve decided I’m not going to follow what’s happening with #Brexit #PeoplesVoteNow #RevokeArticle50Petition etc any longer. I’ll just wait until it’s all over; swear at the top of my voice for a while and then carry on with my life. It’s better this way...,"['brexit', 'peoplesvotenow', 'revokearticle50petition']"
+1109828285461135360,124554200,neutral,other,2019-03-24T14:44:17.000Z,Now over 5 million! https://t.co/4aPVdbUixL #RevokeArticle50Petition #Brexit #PeoplesVoteNow,"['brexit', 'peoplesvotenow', 'revokearticle50petition']"
+1109359134032519168,2748167339,negative,remain,2019-03-23T07:40:03.000Z,#RevokeArticle50Petition #RevokeArticle50 #PeoplesVoteNow cancel #Brexit https://t.co/ICd8pen9of,"['brexit', 'peoplesvotenow', 'revokearticle50petition', 'revokearticle50']"
+1109083231901622272,360488971,negative,remain,2019-03-22T13:23:42.000Z,"It seems #Brexit #RevokeArticle50Petition has broken the @HoCpetitions. Our #PetTheftReform petition is literally ""stuck"" at  19,575 signatures. Please add your name and see if you can fix it. We need 100,000 x  https://t.co/dcSdis0R3r","['brexit', 'pettheftreform', 'revokearticle50petition']"
+1110879302877356032,44941453,positive,other,2019-03-27T12:20:39.000Z,"Dear Mr Tusk, I just received this, now tell me that petition wasn't a farce. #RevokeArticle50Petition  #PMQs #Brexit https://t.co/d9JpX6Eagw","['brexit', 'pmqs', 'revokearticle50petition']"
+1110887336517103616,825644121448669184,positive,leave,2019-03-27T12:52:34.000Z,#PMQs @HelenJonesMP CHAIR OF PETITIONS COMMITTEE defends petitions system and its reliable statistics - THANK YOU !!!❤❤❤❤ love the 6 million!! #RevokeArticle50petition  #Brexit #RevokeArticle50 irony that disgraceful Tory MP tries to invalidate Remainers' legal protest!!,"['brexit', 'pmqs', 'revokearticle50petition', 'revokearticle50']"
+1110092988183691264,131895183,negative,remain,2019-03-25T08:16:07.000Z,"Times have changed, as 2019 #PeoplesVoteMarch &amp; #RevokeArticle50Petition prove. After seeing shops closing, businesses ruined, and aircraft &amp; car industries being wiped out, people have turned against #Project #Brexit. Only #idiots want troops, and food &amp; medicine shortages.","['brexit', 'project', 'idiots', 'peoplesvotemarch', 'revokearticle50petition']"
+1110836335181512704,24973291,positive,remain,2019-03-27T09:29:55.000Z,"Barry Gardiner on @BBCr4today. “Labour is not a Remain party now.”
+
+Or, to put it more clearly, campaign for #Labour and you’re campaigning for #Brexit. 
+
+#RevokeArticle50Petition #PutitothePeopleMarch #BrexitVote #BrexitChaos #BrexitWhatBritainThinks #PeoplesVoteNow","['brexit', 'putitothepeoplemarch', 'brexitwhatbritainthinks', 'peoplesvotenow', 'brexitvote', 'brexitchaos', 'labour', 'revokearticle50petition']"
+1109425973869596672,366840837,positive,remain,2019-03-23T12:05:38.000Z,"Brexit petition is now the most signed petition ever, reaching over FOUR MILLION signatures. 
+This beats previous most signed that was 4,150,260!! 😱😱 
+
+#Brexit #RevokeArticle50Petition #PutitothePeopleMarch https://t.co/xrfplYi9aD","['brexit', 'putitothepeoplemarch', 'revokearticle50petition']"
+1109391201554391040,747380400226508800,neutral,remain,2019-03-23T09:47:28.000Z,"THIS is what #Brexit has unleashed, @theresa_may @jeremycorbyn 
+IT MUST STOP.
+#PutitothePeopleMarch #RevokeArticle50Petition #RevokeArticle50 https://t.co/bV42taOYzS","['brexit', 'putitothepeoplemarch', 'revokearticle50petition', 'revokearticle50']"
+1110149672486797312,61500327,neutral,other,2019-03-25T12:01:22.000Z,"Janice, this is the letter by Uri Geller I was telling you about... @artjaniceduke #Brexit #PutitothePeopleMarch #RevokeArticle50 #RevokeArticle50Petition https://t.co/p18lT3sOne","['brexit', 'putitothepeoplemarch', 'revokearticle50petition', 'revokearticle50']"
+1110251767772647424,214024315,neutral,remain,2019-03-25T18:47:03.000Z,"I have contacted three people today who have not previously signed #RevokeArticle50Petition, they have done the deed and have contacted three more. Can you see where this could lead? To see Andrea Leadsom’s face ... #PutItToThePeople #PeoplesVote #Brexit https://t.co/5VxgL54Hk1","['brexit', 'putittothepeople', 'peoplesvote', 'revokearticle50petition']"
+1109396165978701824,27977943,neutral,other,2019-03-23T10:07:12.000Z,4 million. @peoplesvote_uk @Andrew_Adonis #Brexit #PutItToThePeople #RevokeArticle50Petition https://t.co/npQpRfvM9R,"['brexit', 'putittothepeople', 'revokearticle50petition']"
+1108867053459591168,1019341625103912832,positive,other,2019-03-21T23:04:41.000Z,"We've spoken. More keep adding their voice. When I signed this at 4am today it was 200,000 signitures.
+
+Don't say you know what the people want. Thank you.
+Can we be listened to now? Thank you. 
+
+#Brexit #RevokeArticle50Petition #PutItToThePeople https://t.co/izCl3tWhSQ","['brexit', 'putittothepeople', 'revokearticle50petition']"
+1109052716012101632,404281100,neutral,other,2019-03-22T11:22:27.000Z,"https://t.co/swZtT1pANX #Brexit #RevokeArticle50Petition @oletwinofficial @ChukaUmunna @Anna_Soubry @LucyMPowell @NickBoles @heidiallen75 @sarahwollaston @GregClarkMP @AmberRuddHR @SKinnock @tom_watson #EEA
+
+#Remain in a European CONFEDERATION rather than the current federation","['brexit', 'remain', 'eea', 'revokearticle50petition']"
+1109022328762130432,2396188842,neutral,remain,2019-03-22T09:21:42.000Z,"Why are they interviewing a failed wannabe &amp; not EXPERTS! One backing #Brexit based on
+Lies
+Illegalities
+Lost Mandates
+Foreign Interference
+Disenfranchisement
+Rights Removed w/o Consent
+The Non-Binding opinions of just 37% Voters 26.5% of the Ppl
+#RevokeArticle50Petition
+#Remain https://t.co/phAh0ixYOL","['brexit', 'remain', 'revokearticle50petition']"
+1113071309330747392,105270733,neutral,other,2019-04-02T13:30:54.000Z,"Just in case any of the 27,500 of ⁦@ZacGoldsmith⁩ constituents who signed the #RevokeArticle50Petition wondered whether he paid attention: he did not. His ideology means more to him than his job - or yours. #Brexit #remain ⁦⁦@SarahOlney⁩ ⁦@guardian⁩ https://t.co/RW0rXd5eag","['brexit', 'remain', 'revokearticle50petition']"
+1112316794352685056,63440888,positive,remain,2019-03-31T11:32:44.000Z,"Over 6 million have signed this petition. Over 6,000,000 people who want to revoke article 50. Power to the people. #Brexit #RevokeArticle50 #RevokeArticle50Petition #Remain  https://t.co/nP8mKUXYPx","['brexit', 'remain', 'revokearticle50petition', 'revokearticle50']"
+1109917534680219648,435533981,negative,other,2019-03-24T20:38:56.000Z,"#Brexit march: #Remainer walks 200 miles to join protest 
+
+https://t.co/McLOi3zKTY
+
+#RevokeArticle50 
+#RevokeArticle50Petition","['brexit', 'remainer', 'revokearticle50petition', 'revokearticle50']"
+1112441637605646336,1111944116642942720,positive,other,2019-03-31T19:48:49.000Z,"#Brexit
+Fellow #Remainers - our #RevokeArticle50Petition has now reached 6,021,500m signatures, and still counting.  To add yours click on the link below.  The Petition will be debated in Parliament tomorrow, April 1st. 
+https://t.co/ppYdOIAh4D","['brexit', 'remainers', 'revokearticle50petition']"
+1109040693295632384,768251395,positive,remain,2019-03-22T10:34:40.000Z,"2.8 million people so far.... If you want to remain, then sign this petition. 
+This could be our final chance to be heard. 
+The voice of the people! 
+Petition: Revoke Article 50 and remain in the EU. #Brexit #RemainInTheEU #RevokeArticle50Petition
+https://t.co/A2DYEG713P","['brexit', 'remainintheeu', 'revokearticle50petition']"
+1109203907480297472,2436667590,negative,remain,2019-03-22T21:23:14.000Z,#RevokeArticle50Petition at 3.7 million signatures.  Keep it going!!! This madness has to stop! #Brexit #RemainInTheEU,"['brexit', 'remainintheeu', 'revokearticle50petition']"
+1109820695670935552,951585530,neutral,remain,2019-03-24T14:14:07.000Z,"4,997,345 signatures #Brexit will not happen because we will #ReverseBrexit sign the #RevokeArticle50Petition and march in the #RevokeArticle50March","['brexit', 'reversebrexit', 'revokearticle50petition', 'revokearticle50march']"
+1109176027958386688,870363113308160000,negative,other,2019-03-22T19:32:27.000Z,"#RevokArticle50 #RevokeArticle50Petition
+Opinion: #Brexit was built on false promises – let’s walk away from this impending disaster
+
+https://t.co/0JRDwrMxUH
+
+Sent via upday","['brexit', 'revokarticle50', 'revokearticle50petition']"
+1108849385289498624,1444276188,negative,other,2019-03-21T21:54:29.000Z,Anyone missed this? #RevokeArticle50Petition #RevokArticle50 #Brexit #brexitpetition Petition: Revoke Article 50 and remain in the EU. https://t.co/jZbyJPge8s,"['brexit', 'revokarticle50', 'revokearticle50petition', 'brexitpetition']"
+1109038817334431744,31711513,neutral,other,2019-03-22T10:27:13.000Z,"Make sure you're listening to @lovesportradio at 11 for what'll be another common sense discussion on the latest in #Brexit #Article50 #RevokeArticle50Petition #RevokeArt50Now 
+
+https://t.co/hRLl55hhyG","['brexit', 'revokeart50now', 'article50', 'revokearticle50petition']"
+1109390247849275392,2748167339,positive,other,2019-03-23T09:43:41.000Z,‘I want a clean conscience’: meet the marchers for a people’s vote | Politics | The Guardian #PeoplesVoteMarch #RevokeArt50Now #RevokeArticle50Petition #Brexit  https://t.co/LKIAqcnNyv,"['brexit', 'revokeart50now', 'peoplesvotemarch', 'revokearticle50petition']"
+1109821881799057408,328187348,negative,other,2019-03-24T14:18:50.000Z,"5 Million Signatures. If you disagree with Theresa May's #Brexit Deal &amp; don't want a No Deal Brexit, if UK Gov won't provide a #PeoplesVoteNow then sign the petition &amp; be heard: Revoke Article 50 &amp; remain in the EU
+https://t.co/9vWM665tro
+#RevokeArt50Now #RevokeArticle50Petition","['brexit', 'revokeart50now', 'peoplesvotenow', 'revokearticle50petition']"
+1109965675320221696,435533981,positive,other,2019-03-24T23:50:13.000Z,"@Telegraph @JakubKrupa @BorisJohnson   #Brexit needs biblical scenery since all political motivation has been depleted.
+
+#RevokeArticle50Petition 
+#RevokeArt50Now 
+
+https://t.co/CLsavZZKfV","['brexit', 'revokeart50now', 'revokearticle50petition']"
+1109183666964647936,1035310531,negative,other,2019-03-22T20:02:48.000Z,My first attempt at making a meme. Sorry all for the delay in sharing my comedy genius #Brexit #RevokeArticle50Petition #RevokeArt50Now https://t.co/KaBXHXtQ0H,"['brexit', 'revokeart50now', 'revokearticle50petition']"
+1109385411183472640,2202961048,negative,remain,2019-03-23T09:24:28.000Z,Just hit 4 million signatures!! People will try to tell you bots are signing this petition to avoid listening to us!! Government will do anything to not have to listen. It's up to us to make sure they will NOT dismiss us!!  #RevokeArticle50Petition #RevokeArt50Now #Brexit https://t.co/H0w9iAJe8a,"['brexit', 'revokeart50now', 'revokearticle50petition']"
+1109153609361575936,110004261,neutral,other,2019-03-22T18:03:22.000Z,Tomorrow at noon!!! Brexit People's Vote march: Hundreds of thousands of people urged to take part tomorrow https://t.co/Gddk6p05ip #RevokeArt50Now #RevokeArticle50Petition #Brexit,"['brexit', 'revokeart50now', 'revokearticle50petition']"
+1110105726851182592,18718148,positive,leave,2019-03-25T09:06:44.000Z,"Please can we keep this going? 
+
+Sign:
+https://t.co/2eSbzgn3ez
+
+..and retweet!!
+
+https://t.co/r2nVXOe12O
+
+#RevokeArt50Now #RevokeArticle50Petition #Brexit 
+
+@HackedOffHugh @ProfBrianCox https://t.co/jtaVZZymjx","['brexit', 'revokeart50now', 'revokearticle50petition']"
+1109189996005769216,435533981,neutral,remain,2019-03-22T20:27:57.000Z,"#Brexit: Three moments that raised a smile
+Tusk: 'Hell is still empty' ( where is #Brexit coffin dodgers?!)
+https://t.co/EJZPa8dz55 #RevokeArt50Now #RevokeArticle50Petition","['brexit', 'revokeart50now', 'revokearticle50petition', 'brexit']"
+1111360528746758144,905881221057712000,positive,leave,2019-03-28T20:12:52.000Z,So close to 6 million! 🔥🔥 Please keep signing. Don't give up on your future!  💜✨ #Brexit #RevokeArticle50Petition #RevokeArt50Now #BrexitChaos https://t.co/ArLo8xUZAh,"['brexit', 'revokeart50now', 'revokearticle50petition', 'brexitchaos']"
+1109174409208754176,32181028,neutral,leave,2019-03-22T19:26:01.000Z,"So many choices, so little time! NOT! #Brexit #brexitpetition #RevokeArticle50Petition #RevokeArt50Now https://t.co/zyFbr3gWjW","['brexit', 'revokeart50now', 'revokearticle50petition', 'brexitpetition']"
+1109113321217773568,463840340,negative,other,2019-03-22T15:23:16.000Z,"https://t.co/JShSfaiuG0
+
+4 days since launch and still no response.
+
+2 days until a debate date.
+
+3.3 million plus signatures already.
+
+The will of the people.
+
+#RevokeArt50Now #RevokeArticle50Petition #brexitpetition #Brexit https://t.co/wXmEXJBMYl","['brexit', 'revokeart50now', 'revokearticle50petition', 'brexitpetition']"
+1109086769901985792,37901739,negative,other,2019-03-22T13:37:46.000Z,"PM asked about the economic pain a #NoDealBrexit would inflict on the British people. Her answer: “the people voted for pain”.
+
+No, they didn’t.
+
+Petition: #Brexit is not the will of the people - https://t.co/9XlS2SHIhm
+
+#RevokeArt50Now #RevokeArticle50Petition https://t.co/7XazjhyAtm","['brexit', 'revokeart50now', 'revokearticle50petition', 'nodealbrexit']"
+1109823062575329280,45926670,positive,remain,2019-03-24T14:23:32.000Z,"Thread on #RevokeArticle50Petition as it reaches 5,000,000 signatures
+https://t.co/dXpcqy3CSa 
+#Brexit #RevokeArt50Now #RevokeArt50Petition 
+Aggregating signatures by the party affiliation of the constituency's MP the   shares of voters who signed by party are as follows:","['brexit', 'revokeart50now', 'revokearticle50petition', 'revokeart50petition']"
+1109095759750795264,113744532,negative,remain,2019-03-22T14:13:29.000Z,The #RevokeArticle50Petition is mostly made up of bot accounts and people who live outside of the UK. It won't be taken seriously. It's pointless anyway as Treason May is a remainer who won't let #Brexit happen. #RevokeArticle50 #RevokeArt50Now,"['brexit', 'revokeart50now', 'revokearticle50petition', 'revokearticle50']"
+1109215438012104704,810788725,positive,other,2019-03-22T22:09:03.000Z,The #RevokeArticle50Petition will easily rocket past 4 million tonight with your help. #RevokeArt50Now #RevokeArticle50 #Brexit https://t.co/QcMGVPRlk5,"['brexit', 'revokeart50now', 'revokearticle50petition', 'revokearticle50']"
+1109757924132429824,36314203,positive,other,2019-03-24T10:04:42.000Z,We are so nearly at 5 million! Please share widely. #RevokeArticle50 #RevokeArticle50Petition #RevokeArt50Now #Brexit  https://t.co/ClHOwwKDg8,"['brexit', 'revokeart50now', 'revokearticle50petition', 'revokearticle50']"
+1109110923434905600,2365709167,neutral,remain,2019-03-22T15:13:45.000Z,"Knock Knock @theresa_may @jeremycorbyn 
+Who's there?
+3.5 million people.
+3.5 million people who?
+3.5 million people and growing.
+#Brexit 
+#RevokeArt50Now 
+#RevokeArticle50Petition 
+#RevokeArticle50 
+https://t.co/WBIcc5PdlX","['brexit', 'revokeart50now', 'revokearticle50petition', 'revokearticle50']"
+1111014356458897408,1520208854,negative,other,2019-03-27T21:17:18.000Z,"#Brexit: The Danger of Chlorinated Chicken. With Stephen Fry 
+#ExitBrexit #RevokeArticle50 #RevokeArticle50Petition #AnimalWelfare 
+ https://t.co/ahmoMKid8s via @YouTube","['brexit', 'revokearticle50', 'exitbrexit', 'revokearticle50petition', 'animalwelfare']"
+1110079327423684608,958727765456506880,neutral,other,2019-03-25T07:21:50.000Z,"@BethRigby This week there could well be a choice for MPs between #NoDealBrexit and #RevokeArticle50. Every signature on the #RevokeArticle50Petition counts. MPs are taking notice, make your voice heard! #RevokeArt50Now #brexit https://t.co/8onutrgQOg","['brexit', 'revokearticle50', 'nodealbrexit', 'revokeart50now', 'revokearticle50petition']"
+1110079419463487488,958727765456506880,neutral,other,2019-03-25T07:22:12.000Z,"@JolyonMaugham This week there could well be a choice for MPs between #NoDealBrexit and #RevokeArticle50. Every signature on the #RevokeArticle50Petition counts. MPs are taking notice, make your voice heard! #RevokeArt50Now #brexit https://t.co/8onutrgQOg","['brexit', 'revokearticle50', 'nodealbrexit', 'revokeart50now', 'revokearticle50petition']"
+1109133074229542912,262312567,negative,other,2019-03-22T16:41:46.000Z,Theresa May prepares to give MPs vote to revoke Article 50 and cancel #Brexit https://t.co/BpUAOL71wL via @businessinsider #revokearticle50 #RevokeArticle50Petition,"['brexit', 'revokearticle50', 'revokearticle50petition']"
+1110129864735113216,2748167339,negative,other,2019-03-25T10:42:39.000Z,#RevokeArticle50Now sign #RevokeArticle50Petition stop the undemocratic farce of #Tory leadership #unelected #NotInMyName #brexit #PeoplesVoteNow https://t.co/cgDOPvK0JC,"['brexit', 'revokearticle50now', 'peoplesvotenow', 'notinmyname', 'unelected', 'revokearticle50petition', 'tory']"
+1108794547075715072,2323669226,neutral,other,2019-03-21T18:16:35.000Z,"Uh huh.. That’d be it then..
+
+#RevokeArticle50Now #RevokeArticle50Petition #Brexit https://t.co/K2PJe1uUPr","['brexit', 'revokearticle50now', 'revokearticle50petition']"
+1109156616262352896,3500967439,neutral,leave,2019-03-22T18:15:19.000Z,@thehill Too late. The front wheels of the #Brexit runaway car has already gone over the cliff edge. #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
+1112279612980113408,132551000,neutral,other,2019-03-31T09:04:59.000Z,"10,937 folk in Aberdeen South have signed the #RevokeArticle50Petition 
+Their MP, @RossThomson_MP, voted for a no-deal #Brexit.
+Mr Thomson's majority is 4,752.
+Just saying.","['brexit', 'revokearticle50petition']"
+1109187505050525696,69558002,negative,other,2019-03-22T20:18:03.000Z,"@FrauBooka @carolJhedges @Artemitzi @Haggis_UK @Anna_Soubry @theresa_may Germany moved on. UK hasn’t.  Anti German, anti ‘forrin’ propaganda and racism (incl anti semitic &amp; anti islamic trend) have emboldened vile voices to come out into the open. #Brexit is a fascist coup attempt! #RevokeArticle50Petition needs to reach 17M ! Have you signed? https://t.co/l9VR0S8yj9","['brexit', 'revokearticle50petition']"
+1109634319495110656,892826796,negative,remain,2019-03-24T01:53:32.000Z,@Rafer1981 @cventhem @ultrasounddoc Shame on you ?MrJanders. See my earlier tweet....you have given another example of what #Brexit has done to our society Not worth it - even if the £350 million/week had NOT been imaginary!  #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
+1110801084560359424,173780799,negative,other,2019-03-27T07:09:50.000Z,"#Brexit News says ‘MPs prepare for votes in bid to break deadlock’ and also report of a parliamentary debate on our #RevokeArticle50Petition on Monday 1st April. 
+
+Meanwhile, overnight I receive an email stating: https://t.co/f4whVkXovb","['brexit', 'revokearticle50petition']"
+1108880190715908096,344891303,neutral,remain,2019-03-21T23:56:54.000Z,Petition: Revoke Article 50 and remain in the EU. https://t.co/DnjFPjkdqo #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
+1109086570844471296,2420473363,negative,other,2019-03-22T13:36:58.000Z,"I'm afraid poor, reasonable @RoryStewartUK @BBCWorldatOne is the deluded fantasist. More people care about saving UK from #Brexit than he seems to realise. #RevokeArticle50Petition https://t.co/mE2ogq9ExJ","['brexit', 'revokearticle50petition']"
+1110486485629919232,215663554,positive,remain,2019-03-26T10:19:44.000Z,"Interesting stats! Why so few voted from Scotland who wanted to remain?!! @mikegalsworthy
+#Brexit #RevokeArticle50Petition https://t.co/jnVeqbyIyA https://t.co/n8bFj9IIvd","['brexit', 'revokearticle50petition']"
+1109005143763308544,443554155,positive,other,2019-03-22T08:13:25.000Z,"Interesting to see ours is the second highest constituency, @dfpportraits. #RevokeArticle50Petition #Brexit https://t.co/1RrNCGhGgd","['brexit', 'revokearticle50petition']"
+1114847930979102720,553823579,negative,remain,2019-04-07T11:10:34.000Z,"@jessicaelgot @sunny_hundal she is finished politically &amp; its her revenge on her party taking Tory gov down with her for not supporting her #Brexit deal.
+For Corbyn even if he get ""Customs &amp; Single market"" 6 million #RevokeArticle50Petition voter's punish Lab=PM May also taking down Corbyn &amp; Lab with her!","['brexit', 'revokearticle50petition']"
+1111194788529885184,21009666,neutral,other,2019-03-28T09:14:17.000Z,It’s not over yet! Sign the #RevokeArticle50Petition today. Takes just a minute to make your voice heard if you want to stop #Brexit in its tracks for whatever reason. To be debated in Parliament April 1 so need to get as many signatures before then https://t.co/6N0cZtBeXt.,"['brexit', 'revokearticle50petition']"
+1109383375754878976,21698791,neutral,other,2019-03-23T09:16:22.000Z,4 million up on the #RevokeArticle50Petition https://t.co/cMushkuHb3 #Brexit https://t.co/eNSRrPUUiO,"['brexit', 'revokearticle50petition']"
+1112299529196335104,389581584,positive,leave,2019-03-31T10:24:07.000Z,The petition to revoke Article 50 just hit 6 million votes! That's more than 1 in 6 of the voting population sufficiently motivated to sign it (yes there will be multiple votes from people creating accounts but not 6 million of them!) #Brexit #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
+1108793231192584192,903753934925418496,neutral,other,2019-03-21T18:11:21.000Z,Revoke Article 50 and remain in the EU. - Petitions #RevokeArticle50Petition 👍🏻 #Brexit 🇪🇺 https://t.co/r26iyxxRjP,"['brexit', 'revokearticle50petition']"
+1109896628180344832,293939031,neutral,remain,2019-03-24T19:15:51.000Z,More than 5 million signatures and counting ... Petition: Revoke Article 50 and remain in the EU. https://t.co/Ajm5LKr3Se #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
+1110137531977355264,895814938995957760,positive,remain,2019-03-25T11:13:07.000Z,"@SeymourBybus Hi the unroll you asked for: Thread by @MitchellSt: ""Thread on what has changed between the ""Hold 2nd Referendum"" petition Jun-16 and the ""Revoone that is cur […]"" #RevokeArticle50Petition #Brexit https://t.co/anUPRTKFcv
 Share this if you think it's interesting. 🤖","['brexit', 'revokearticle50petition']"
-62,62,62,62,62,62,621046,1112339944993890304,938829744,positive,remain,2019-03-31T13:04:43.000Z,"#Brexit is a con
-The EU isn't to blame for the UK's problems
-Migrants aren't to blame for the UK's problems
-Free movement is a good thing
-Immigration is a good thing
-Migrants are resourceful and enterprising people
-#RevokeArticle50Petition https://t.co/yVrOZb7f1V … https://t.co/6F8Q7TT28c","['brexit', 'revokearticle50petition']"
-63,63,63,63,63,63,252199,1109174004500361216,437554687,positive,leave,2019-03-22T19:24:24.000Z,"So this #Brexit intellectual came up with an ""explanation"" for the success of the #RevokeArticle50Petition 
-
-She either didn't send it once, didn't try a second time,  or she faked the screenshot of the second attempt. But hey, it's not a lie if it is for the nation. https://t.co/8IHu8KCMUH","['brexit', 'revokearticle50petition']"
-64,64,64,64,64,64,221651,1108981804978135040,4570173077,neutral,remain,2019-03-22T06:40:40.000Z,"Over 2 million and counting!! 🙌💪#brexitpetition #RevokeArticle50Petition #Brexit 
-Petition: Revoke Article 50 and remain in the EU. https://t.co/EQnogDFTju","['brexit', 'revokearticle50petition']"
-65,65,65,65,65,65,450915,1110989804525641728,296211879,negative,remain,2019-03-27T19:39:45.000Z,@flowesaunders68 @StandUp4Brexit @JCCottingham @MarcusFysh All I can say is that she is horrified by the utter shambles and regrets her vote in 2016. She signed the #RevokeArticle50Petition positively of her own volition. She never thought #Brexit would mean this chaos. That's all.,"['brexit', 'revokearticle50petition']"
-66,66,66,66,66,66,376265,1110307261442871296,2477091130,neutral,remain,2019-03-25T22:27:34.000Z,"@Richard4Watford @bbclaurak When elected, Harrington had a majority of just 2092. As it stands now, 10209 voters have signed petition to revoke article 50... #RevokeArticle50Petition #Brexit","['brexit', 'revokearticle50petition']"
-67,67,67,67,67,67,305885,1109634319495110656,892826796,negative,remain,2019-03-24T01:53:32.000Z,@Rafer1981 @cventhem @ultrasounddoc Shame on you ?MrJanders. See my earlier tweet....you have given another example of what #Brexit has done to our society Not worth it - even if the £350 million/week had NOT been imaginary!  #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
-68,68,68,68,68,68,376035,1110306242747121664,1704241927,neutral,other,2019-03-25T22:23:31.000Z,MPs Seize Control Of Brexit As Commons Wrests Power Away From Theresa May - HuffPost UK #Brexit #RevokeArticle50Petition  https://t.co/LTKBIyPI8Y,"['brexit', 'revokearticle50petition']"
-69,69,69,69,69,69,326983,1109831547774033920,294149040,negative,remain,2019-03-24T14:57:15.000Z,"Exercise common sense : halt the failing and time-wasting #Brexit process, which threatens the economic health of the country, and get back to properly running the country. #RevokeArticle50Petition https://t.co/CKfmSFMlB9","['brexit', 'revokearticle50petition']"
-70,70,70,70,70,70,341581,1110016601770864640,1491641263,positive,remain,2019-03-25T03:12:35.000Z,"Good to see the #RevokeArticle50Petition still ticking along at one signature every couple of seconds even in the middle of the night. Hope Walsall &amp; West Bromwich wake up tomorrow, as I'm sure more than 3% of them are opposed to #Brexit
-https://t.co/AQpWIP1nrF","['brexit', 'revokearticle50petition']"
-71,71,71,71,71,71,212994,1108848680092745728,720045923246739456,negative,remain,2019-03-21T21:51:41.000Z,"@ByDonkeys Please sign this petition. This #Brexit madness has to stop; it is an act of national self-harm that was sold to us on a pack of lies. Please retweet #RevokeArticle50Petition 
-
-https://t.co/q59esrx69V","['brexit', 'revokearticle50petition']"
-72,72,72,72,72,72,224559,1109003887405604864,2198269042,negative,remain,2019-03-22T08:08:25.000Z,"#RevokeArticle50Petition
+1109018484875423744,434805700,neutral,other,2019-03-22T09:06:26.000Z,Listen to Annie. #Brexit #RevokeArticle50Petition https://t.co/JJjo1IcWtv,"['brexit', 'revokearticle50petition']"
+1110582275643707392,114179380,neutral,other,2019-03-26T16:40:22.000Z,"If I were a #Brexit backing MP on an anywhere-near marginal seat, these #RevokeArticle50Petition numbers by constituency would send cold fear tingling down my spine...
+ https://t.co/Ztj43elo0w","['brexit', 'revokearticle50petition']"
+1112312789580898304,15106501,neutral,other,2019-03-31T11:16:49.000Z,"There is one simple answer to this question #Brexit #RevokeArticle50Petition https://t.co/MEQpxVTK8T
+So far parliament has voted emphatically 3 times against Article50 being revoked would be simple https://t.co/rPbQrBMriJ
+cc @KevinSharpe59","['brexit', 'revokearticle50petition']"
+1110137401949765632,895814938995957760,neutral,other,2019-03-25T11:12:36.000Z,"@SeymourBybus Hallo you can read it here: Thread by @MitchellSt: ""Thread on what has changed between the ""Hold 2nd Referendum"" petition Jun-16 and the ""Revoke Article 50"" one that is cur […]"" #RevokeArticle50Petition #Brexit https://t.co/anUPRTKFcv
+Talk to you soon. 🤖","['brexit', 'revokearticle50petition']"
+1109003887405604864,2198269042,negative,remain,2019-03-22T08:08:25.000Z,"#RevokeArticle50Petition
 5.24% of those registered to vote are represented by this petition. Yes a large movement but hardly a revolution. Just a protest possibly. Seems to have hit a ceiling at the moment.
 #Brexit","['brexit', 'revokearticle50petition']"
-73,73,73,73,73,73,375671,1110304770277994496,145314092,positive,remain,2019-03-25T22:17:40.000Z,"If remain won 52-48 but in the 3 years after the vote the country went down the toilet because of the EU, businesses left GB and people were stockpiling. I would like to think I would have the humility to see reason and change my mind. #Brexit #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-74,74,74,74,74,74,325664,1109822481576144896,764799892803977216,neutral,other,2019-03-24T14:21:13.000Z,#RevokeArticle50Petition just hit 5 MILLION #Brexit https://t.co/dnDKTMVLmW,"['brexit', 'revokearticle50petition']"
-75,75,75,75,75,75,213062,1108849076253143040,21255822,positive,remain,2019-03-21T21:53:15.000Z,@MpHendrick as one of your constituents I think you should back this and help stop #Brexit #RevokeArticle50Petition https://t.co/V29vCaxBDY,"['brexit', 'revokearticle50petition']"
-76,76,76,76,76,76,213420,1108851112596127744,4504416557,positive,other,2019-03-21T22:01:21.000Z,So #Brexit could be stopped 🛑 if the #RevokeArticle50Petition gets enough backing. How should we proceed with the European Union.,"['brexit', 'revokearticle50petition']"
-77,77,77,77,77,77,259322,1109219608010149888,893177704174014464,neutral,other,2019-03-22T22:25:37.000Z,#RevokeArticle50Petition #Brexit : watch the signature count live https://t.co/mpkBkPC23A,"['brexit', 'revokearticle50petition']"
-78,78,78,78,78,78,326659,1109829039907311616,1855399650,neutral,leave,2019-03-24T14:47:17.000Z,@ladymuse1st What About The 17Million &amp; The How Many Would Be Able To Demonstrate On Friday 29th Should They Be Ignored?? #RevokeArticle50Petition #Brexit https://t.co/llNEp2se7e,"['brexit', 'revokearticle50petition']"
-79,79,79,79,79,79,630191,1112476183097237504,2719530513,positive,other,2019-03-31T22:06:05.000Z,"#Brexit
-#RevokeArticle50Petition
-Unfortunately, email petition signatures are now quite easy to fake:
-https://t.co/isCY5JLKqG","['brexit', 'revokearticle50petition']"
-80,80,80,80,80,80,429891,1110857854385356800,1618650800,neutral,other,2019-03-27T10:55:25.000Z,"Government response to the 5,846,008 #RevokeArticle50Petition signatories? F-off!
-
-Best response to this response is to get more people to sign. Click here: https://t.co/hM2yIB6CXi
-RT and spread the word.
-#Brexit https://t.co/8wOHjBL4Zb","['brexit', 'revokearticle50petition']"
-81,81,81,81,81,81,325543,1109821802862264320,194299986,neutral,other,2019-03-24T14:18:31.000Z,"5 million. 
-
-https://t.co/m8CicJZTrV
-
-#RevokeArticle50Petition #Brexit https://t.co/VjjTcwB1NB","['brexit', 'revokearticle50petition']"
-82,82,82,82,82,82,345364,1110092957254930432,301336546,positive,leave,2019-03-25T08:16:00.000Z,"🇬🇧💔🇪🇺 #Brexit: ""Indeed, revocation would be the best move for Britain. Recognise that the country does not know what it wants, remain, and try to find a strong consensus about its future before taking the next step."" @miotei #RevokeArticle50Petition https://t.co/j88qNF0D4r","['brexit', 'revokearticle50petition']"
-83,83,83,83,83,83,324369,1109813321191051264,1940561376,positive,other,2019-03-24T13:44:49.000Z,"""UK, do you want tea?"" 🇬🇧
-
-- 51,89% ""Yes please!""
-- ""Unfortunately, we ran out of tea leaves and will put fesces in it instead.""
-- ""No, sorry then I don't want tea""
-- ""Well, you already said you wanted tea. So you'll have it. Tea means tea!""
-
-#Brexit 
-#RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-84,84,84,84,84,84,324220,1109812235436732416,930387649,neutral,other,2019-03-24T13:40:30.000Z,https://t.co/P47zBgynjF That didn't take long. #Brexit #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
-85,85,85,85,85,85,352451,1110137401949765632,895814938995957760,neutral,other,2019-03-25T11:12:36.000Z,"@SeymourBybus Hallo you can read it here: Thread by @MitchellSt: ""Thread on what has changed between the ""Hold 2nd Referendum"" petition Jun-16 and the ""Revoke Article 50"" one that is cur […]"" #RevokeArticle50Petition #Brexit https://t.co/anUPRTKFcv
-Talk to you soon. 🤖","['brexit', 'revokearticle50petition']"
-86,86,86,86,86,86,200749,1108771036630319104,16499685,neutral,other,2019-03-21T16:43:09.000Z,Godspeed you petitions Dev/Ops people.  Lovin your work. #Brexit #RevokeArticle50Petition @Ubxd @GDSTeam https://t.co/hb9ct8U97Y,"['brexit', 'revokearticle50petition']"
-87,87,87,87,87,87,426933,1110843937172926464,1618650800,neutral,other,2019-03-27T10:00:07.000Z,"Number of #RevokeArticle50Petition signatories in Hampstead &amp; Kilburn now 28,076. That's more than a third of @TulipSiddiq's electorate and 81% of her total vote in 2017.
+1110792960663261184,115716961,positive,other,2019-03-27T06:37:34.000Z,"""We will honour the outcome of the 2016 referendum and work to deliver an exit which benefits everyone, whether they voted to Leave or to Remain."" - government response to the #RevokeArticle50Petition. Looking forward to this magical #Brexit that actually benefits anyone at all.","['brexit', 'revokearticle50petition']"
+1110843937172926464,1618650800,neutral,other,2019-03-27T10:00:07.000Z,"Number of #RevokeArticle50Petition signatories in Hampstead &amp; Kilburn now 28,076. That's more than a third of @TulipSiddiq's electorate and 81% of her total vote in 2017.
 
 Please RT &amp; keep signing.
 #Brexit
 Petition: Revoke Article 50 and remain in the EU. https://t.co/hBc0YDqhzE","['brexit', 'revokearticle50petition']"
-88,88,88,88,88,88,403955,1110582275643707392,114179380,neutral,other,2019-03-26T16:40:22.000Z,"If I were a #Brexit backing MP on an anywhere-near marginal seat, these #RevokeArticle50Petition numbers by constituency would send cold fear tingling down my spine...
- https://t.co/Ztj43elo0w","['brexit', 'revokearticle50petition']"
-89,89,89,89,89,89,323408,1109806383849967616,247646512,neutral,other,2019-03-24T13:17:15.000Z,With this speed it should cross 5 million signatures before the end of the day. #Brexit #RevokeArticle50Petition https://t.co/7vJCUX3t9D,"['brexit', 'revokearticle50petition']"
-90,90,90,90,90,90,238908,1109086570844471296,2420473363,negative,other,2019-03-22T13:36:58.000Z,"I'm afraid poor, reasonable @RoryStewartUK @BBCWorldatOne is the deluded fantasist. More people care about saving UK from #Brexit than he seems to realise. #RevokeArticle50Petition https://t.co/mE2ogq9ExJ","['brexit', 'revokearticle50petition']"
-91,91,91,91,91,91,600172,1112029124984537088,108734413,positive,remain,2019-03-30T16:29:38.000Z,"Almost 6m. Please retweet #RevokeArticle50Petition #Brexit
+1115271591338881024,1598386543,positive,other,2019-04-08T15:14:02.000Z,"@abbviper @Number10cat I find it very hard to trust Parliament after the way they timed the debate on the #RevokeArticle50Petition &amp; I have heard MPs I respected saying that a referendum based on lies, making impossible promises, left #Brexit as their only choice.","['brexit', 'revokearticle50petition']"
+1110238057993781248,108878388,negative,remain,2019-03-25T17:52:34.000Z,"Over 5 1/2 million &amp; daily upwardly counting have signed the #RevokeArticle50Petition , at the least a million people marched against #Brexit MANY People HAVE changed their minds, Why ignore this? @UKParliament @theresa_may","['brexit', 'revokearticle50petition']"
+1110337526542356480,1050898974,neutral,remain,2019-03-26T00:27:50.000Z,"00:27 am, Tuesday. 5,653,587 people - more than 10% of the adult population of the UK - have now signed the #RevokeArticle50Petition. #Brexit","['brexit', 'revokearticle50petition']"
+1109153031667486720,1044199632035827456,negative,remain,2019-03-22T18:01:04.000Z,"So, as the #RevokeArticle50Petition rattles into millions of signatures, #Brexit enthusiasts are suddenly deeply concerned about possible external interference. I can't even.","['brexit', 'revokearticle50petition']"
+1109078778922369024,24058893,neutral,other,2019-03-22T13:06:01.000Z,"Remember this kids, everytime someone votes for #RevokeArticle50Petition, Bono clicks his fingers. Think of Bono people. #Brexit @KTHopkins","['brexit', 'revokearticle50petition']"
+1112029124984537088,108734413,positive,remain,2019-03-30T16:29:38.000Z,"Almost 6m. Please retweet #RevokeArticle50Petition #Brexit
 https://t.co/ijSBMvbHko","['brexit', 'revokearticle50petition']"
-92,92,92,92,92,92,247302,1109146452645892096,21801534,neutral,leave,2019-03-22T17:34:55.000Z,"Well this is certainly reassuring #Brexit #RevokeArticle50Petition
-Secret Cabinet Office document reveals chaotic planning for no-deal Brexit https://t.co/spYYkeE3zd","['brexit', 'revokearticle50petition']"
-93,93,93,93,93,93,328228,1109840336476692480,980167212,neutral,other,2019-03-24T15:32:10.000Z,"Farage, Johnson and co already have their investment portfolios banking on #brexit. Let’s show them how the free market works when rational choice meets a no deal #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-94,94,94,94,94,94,246147,1109140589927415808,17170242,positive,leave,2019-03-22T17:11:38.000Z,"I saw a tweet just now being all like ""I don't understand this petition. If it gets up to 17.4m signatures, do they want it to just... replace the referendum result?"" And then something about undermining democracy...
-
-#Brexit #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-95,95,95,95,95,95,212011,1108841983303434240,1380613501,neutral,remain,2019-03-21T21:25:04.000Z,"1.5 milli signatures, you absolute beasts...! #RevokeArticle50Petition #Brexit https://t.co/cTZnje7JMz","['brexit', 'revokearticle50petition']"
-96,96,96,96,96,96,258469,1109214096900132864,937019478,negative,remain,2019-03-22T22:03:43.000Z,How could he have confirmed he'd signed the petition if the emails he used were fake? This Leave guy sounds very fishy. #Brexit #RevokeArticle50Petition https://t.co/GIYnOXBc0T,"['brexit', 'revokearticle50petition']"
-97,97,97,97,97,97,334938,1109896628180344832,293939031,neutral,remain,2019-03-24T19:15:51.000Z,More than 5 million signatures and counting ... Petition: Revoke Article 50 and remain in the EU. https://t.co/Ajm5LKr3Se #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
-98,98,98,98,98,98,219428,1108902874929491968,958315242865463296,positive,leave,2019-03-22T01:27:02.000Z,"The EU have effectively cornered Britain: We either agree to the Theresa May's deal which nobody wants, or we get thrown off the cliff with a no-deal on very short notice. Their attitude is simply that we have made our #Brexit bed, so have to take it #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-99,99,99,99,99,99,205385,1108793231192584192,903753934925418496,neutral,other,2019-03-21T18:11:21.000Z,Revoke Article 50 and remain in the EU. - Petitions #RevokeArticle50Petition 👍🏻 #Brexit 🇪🇺 https://t.co/r26iyxxRjP,"['brexit', 'revokearticle50petition']"
-100,100,100,100,100,100,428065,1110848792172154880,826460648263540608,neutral,other,2019-03-27T10:19:25.000Z,"You can only be for #Brexit or against, nothing in between! #RevokeArticle50Petition https://t.co/aWLN1OZdbW","['brexit', 'revokearticle50petition']"
-101,101,101,101,101,101,225566,1109010541887086592,20513129,positive,remain,2019-03-22T08:34:52.000Z,I'm a geographer and I love a choropleth map. Check out the #Brexit petition data mapping at https://t.co/jyb8PDtEZE. It's.....revealing #RevokeArticle50Petition https://t.co/0pyybRizM6,"['brexit', 'revokearticle50petition']"
-102,102,102,102,102,102,324107,1109811335607521280,19388832,positive,other,2019-03-24T13:36:56.000Z,"@arusbridger 16250 signatures left now to reach 5 million ....
-#RevokeArticle50Petition #Brexit https://t.co/2Z2Gd43cMQ","['brexit', 'revokearticle50petition']"
-103,103,103,103,103,103,649792,1112740149052563456,2195607428,neutral,other,2019-04-01T15:34:59.000Z,"Following the #RevokeArticle50Petition debate on https://t.co/tke1GmxmEN 
-
-#Brexit","['brexit', 'revokearticle50petition']"
-104,104,104,104,104,104,327574,1109835813607694336,2420473363,negative,other,2019-03-24T15:14:12.000Z,"#RevokeArticle50Petition at 5,034,419 two hours ahead of my 5m at 5pm prediction for champagne hour. But reminds me of the sad plebs on HS1 to London yesterday, swilling Prosecco at 11am. UK needs sober heads and clear determination to drive out #Brexit","['brexit', 'revokearticle50petition']"
-105,105,105,105,105,105,237210,1109078865769623552,44160485,negative,other,2019-03-22T13:06:21.000Z,Over 3 Million people have signed the petition to “revoke Article 50 &amp; remain in the EU” in just 2 days... Proving how much Theresa May is out of touch with real people in the country. We are sick of this Lemmingesque rush to the cliff edge! #RevokeArticle50Petition #Brexit https://t.co/gCjESw0MDH,"['brexit', 'revokearticle50petition']"
-106,106,106,106,106,106,362858,1110208608137084928,38915436,negative,other,2019-03-25T15:55:33.000Z,"I’ll give it a whirl! ...Please, if you haven’t signed would you consider doing so? The shenanigans going on in parliament (and other county houses) make #Brexit the most dangerous deal of our time. #RevokeArticle50Petition https://t.co/MM19ptZ0WN","['brexit', 'revokearticle50petition']"
-107,107,107,107,107,107,213860,1108853734954729472,351011553,neutral,remain,2019-03-21T22:11:46.000Z,@mtpennycook sure you’re on it but close to 5000 of your constituents have signed the #RevokeArticle50Petition - trusting we can count on your support? #Brexit https://t.co/27d1IFCD06,"['brexit', 'revokearticle50petition']"
-108,108,108,108,108,108,889934,1115271591338881024,1598386543,positive,other,2019-04-08T15:14:02.000Z,"@abbviper @Number10cat I find it very hard to trust Parliament after the way they timed the debate on the #RevokeArticle50Petition &amp; I have heard MPs I respected saying that a referendum based on lies, making impossible promises, left #Brexit as their only choice.","['brexit', 'revokearticle50petition']"
-109,109,109,109,109,109,228211,1109026684550955008,817550125,negative,remain,2019-03-22T09:39:00.000Z,STOP BREXIT: UK residents sign the petition here: https://t.co/zVxv2XzX5c #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
-110,110,110,110,110,110,614867,1112294927919185920,2198269042,negative,other,2019-03-31T10:05:50.000Z,"#RevokeArticle50Petition trickled past 6 million at 10.56 am today 31 March 2019. This represents 12.8 of those registered to vote in the 2017, 46.8 million. It was at 12.7% 9.49am two days ago. Yes it has run its course, it is just a protest, a very assertive one.
-#Brexit","['brexit', 'revokearticle50petition']"
-111,111,111,111,111,111,617604,1112312789580898304,15106501,neutral,other,2019-03-31T11:16:49.000Z,"There is one simple answer to this question #Brexit #RevokeArticle50Petition https://t.co/MEQpxVTK8T
-So far parliament has voted emphatically 3 times against Article50 being revoked would be simple https://t.co/rPbQrBMriJ
-cc @KevinSharpe59","['brexit', 'revokearticle50petition']"
-112,112,112,112,112,112,534669,1111585570369740800,754381152815837184,neutral,other,2019-03-29T11:07:06.000Z,"#Brexit
-Sign the #RevokeArticle50Petition - Tell your friends and colleagues how to sign with by clicking on this link - email it to them
-https://t.co/GS9gPSUqlE
-It's scheduled for Debate in Parliament on Monday https://t.co/OFXpa9IK7T","['brexit', 'revokearticle50petition']"
-113,113,113,113,113,113,369921,1110257045717045248,704702348724142080,neutral,other,2019-03-25T19:08:01.000Z,Anybody up for a bit of reenactment in the name of 🙄 #Brexit #RevokeArticle50Petition https://t.co/1JUForzNre,"['brexit', 'revokearticle50petition']"
-114,114,114,114,114,114,242625,1109115816425992192,194466930,positive,leave,2019-03-22T15:33:11.000Z,I wonder how many of the #RevokeArticle50Petition signatures are from #Brexit supporters seeing if it's possible to sign it more than once...?,"['brexit', 'revokearticle50petition']"
-115,115,115,115,115,115,392158,1110486485629919232,215663554,positive,remain,2019-03-26T10:19:44.000Z,"Interesting stats! Why so few voted from Scotland who wanted to remain?!! @mikegalsworthy
-#Brexit #RevokeArticle50Petition https://t.co/jnVeqbyIyA https://t.co/n8bFj9IIvd","['brexit', 'revokearticle50petition']"
-116,116,116,116,116,116,269961,1109387266043101184,549282296,negative,other,2019-03-23T09:31:50.000Z,This post is from the person who initiated the #RevokeArticle50Petition and stop Brexit that has now passed 4 million signatures. Should make us think of what #Brexit - and Facebook - have become. https://t.co/rvORWNWHe8,"['brexit', 'revokearticle50petition']"
-117,117,117,117,117,117,222463,1108988757770977280,603443725,neutral,other,2019-03-22T07:08:18.000Z,@ChrisLeslieMP Come back to me when you get to 17.4 million Chris #Brexit #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
-118,118,118,118,118,118,215014,1108860259496534016,79520609,neutral,other,2019-03-21T22:37:42.000Z,While petitions are just a general indication the count exceeding 2 million is quite something! #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
-119,119,119,119,119,119,216232,1108867006055489536,19853665,positive,other,2019-03-21T23:04:30.000Z,"Right, time to lock @theresa_may in a room and let the adults get on with it. Theresa, you had your chance and you f**king blew it! #Brexit #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-120,120,120,120,120,120,228994,1109031995936555008,838355126477783040,neutral,remain,2019-03-22T10:00:07.000Z,"Have heard from a few people who couldn't sign the #RevokeArticle50Petition because the site was down. SET A REMINDER TO TRY AGAIN LATER! 🤓
-#Brexit
-
-https://t.co/hvSuKD8qEh","['brexit', 'revokearticle50petition']"
-121,121,121,121,121,121,226885,1109018484875423744,434805700,neutral,other,2019-03-22T09:06:26.000Z,Listen to Annie. #Brexit #RevokeArticle50Petition https://t.co/JJjo1IcWtv,"['brexit', 'revokearticle50petition']"
-122,122,122,122,122,122,857714,1114847930979102720,553823579,negative,remain,2019-04-07T11:10:34.000Z,"@jessicaelgot @sunny_hundal she is finished politically &amp; its her revenge on her party taking Tory gov down with her for not supporting her #Brexit deal.
-For Corbyn even if he get ""Customs &amp; Single market"" 6 million #RevokeArticle50Petition voter's punish Lab=PM May also taking down Corbyn &amp; Lab with her!","['brexit', 'revokearticle50petition']"
-123,123,123,123,123,123,529691,1111565402738515968,283748293,negative,leave,2019-03-29T09:46:58.000Z,"@timloughton your constituency voted leave by  53% which 'natural wastage' will have reduced. As of now, 10,623 of us have signed the #RevokeArticle50Petition - 207% of your majority. Why do you think you have a mandate to deliver any kind of #Brexit let alone vote for No Deal?","['brexit', 'revokearticle50petition']"
-124,124,124,124,124,124,642806,1112670250796023808,758958779811500032,positive,other,2019-04-01T10:57:14.000Z,The #RevokeArticle50Petition just hit 17.4 million!!! #Brexit is cancelled!!! Just rejoice at that news!!!,"['brexit', 'revokearticle50petition']"
-125,125,125,125,125,125,369173,1110251125557604352,1109065752366202880,positive,other,2019-03-25T18:44:30.000Z,This needs wider appreciation -- shows the number of RevokeA50 petition signatories by constituency. Those in bold are where number of signatories exceeds the sitting MP's majority. #Brexit #RevokeArticle50Petition https://t.co/R9R3QYCENM,"['brexit', 'revokearticle50petition']"
-126,126,126,126,126,126,218104,1108880190715908096,344891303,neutral,remain,2019-03-21T23:56:54.000Z,Petition: Revoke Article 50 and remain in the EU. https://t.co/DnjFPjkdqo #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
-127,127,127,127,127,127,331689,1109867855615545344,764408576102236160,neutral,leave,2019-03-24T17:21:31.000Z,"📢 We need this to get over 17 million. I doubted it was possible...but my hope is alive again! The petition is OVER 5 MILLION! 📢
-
-Since we're being denied 2nd referendum, this is a way 2 make the point
-
-WE DO NOT WANT #BREXIT 
-
-Please sign 🙏 #RevokeArticle50Petition link below https://t.co/nU45JjmMib","['brexit', 'revokearticle50petition']"
-128,128,128,128,128,128,679210,1112988480731299840,1410501157,positive,other,2019-04-02T08:01:46.000Z,"House of commons debate on the #Brexit e-petitions 241584, 235138 and 243319 relating to leaving the EuropeanUnion https://t.co/Xadw4VsIsl some interesting stuff #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-129,129,129,129,129,129,555849,1111671713044090880,880387805012254720,positive,leave,2019-03-29T16:49:24.000Z,"Anyone leaving a job today? Send this link all to your entire address book, please, you know you want to, give you something to talk about at your leaving drink. #RevokeArticle50Petition #Brexit https://t.co/mPKo4ctXaG","['brexit', 'revokearticle50petition']"
-130,130,130,130,130,130,618408,1112318766434713600,14879800,neutral,other,2019-03-31T11:40:34.000Z,"#Brexit #RevokeArticle50Petition 
-                                has passed 6,000,000. 
-
-                  This is more than 10% of the UK electorate. https://t.co/uRilddfqQ7","['brexit', 'revokearticle50petition']"
-131,131,131,131,131,131,615684,1112299529196335104,389581584,positive,leave,2019-03-31T10:24:07.000Z,The petition to revoke Article 50 just hit 6 million votes! That's more than 1 in 6 of the voting population sufficiently motivated to sign it (yes there will be multiple votes from people creating accounts but not 6 million of them!) #Brexit #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
-132,132,132,132,132,132,214783,1108858546681270272,18810819,negative,remain,2019-03-21T22:30:53.000Z,Stephen Hawking thought we should remain in the EU. Donald Trump thought we should leave. Let’s call the whole thing off #Brexit #RevokeArticle50Petition  https://t.co/QQf1fKPfhR,"['brexit', 'revokearticle50petition']"
-133,133,133,133,133,133,353788,1110146352820957184,371784760,positive,other,2019-03-25T11:48:10.000Z,"@Carlabela1 Thanks Carla! #RevokeArticle50Petition signatories rising at 1,000 every 3 minutes or 5-6 per second! Keep sharing 👍🏻 #Brexit
-
-https://t.co/2tFlIyhNeY","['brexit', 'revokearticle50petition']"
-134,134,134,134,134,134,224765,1109005143763308544,443554155,positive,other,2019-03-22T08:13:25.000Z,"Interesting to see ours is the second highest constituency, @dfpportraits. #RevokeArticle50Petition #Brexit https://t.co/1RrNCGhGgd","['brexit', 'revokearticle50petition']"
-135,135,135,135,135,135,869732,1114992786351316992,863080535681372160,negative,other,2019-04-07T20:46:10.000Z,"Forgive him as he is probably crapping himself ... his dirty money investors who stand to lose billions if #Brexit fails must be weighing on his tiny, little, evil mind! #RevokeArticle50Petition and let’s bankrupt him! https://t.co/pnweMrTEYc","['brexit', 'revokearticle50petition']"
-136,136,136,136,136,136,621899,1112348991654641664,393861154,positive,remain,2019-03-31T13:40:40.000Z,"I think this gives a pretty clear picture of the public will.  It also quite clearly shows the idea of remaining in the EU only being supported by the political class and media establishment as being a complete fallacy!
-https://t.co/heEWeTEHvc
-#Brexit #RevokeArticle50Petition https://t.co/5MylHspJpn","['brexit', 'revokearticle50petition']"
-137,137,137,137,137,137,207734,1108810254647734272,338427932,negative,other,2019-03-21T19:19:00.000Z,"Come on, Putney! If you want to put the skids on this #Brexit mess, 4,500 of @JustineGreening's constituents had already signed this petition as at 7 pm. In fact, nationally it broke Parliament's site - a record 1M+. Keep trying! https://t.co/rXg2humvJS #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-138,138,138,138,138,138,421339,1110820232044707840,45093917,neutral,other,2019-03-27T08:25:56.000Z,"""The government will not revoke Article 50"".
+1111314343218552832,20777388,negative,remain,2019-03-28T17:09:21.000Z,It’s now or never. It’s MV3 v IV2. By this time tomorrow it could  be too late to sign the #RevokeArticle50Petition  and have any affect on #Brexit.  join the millions and sugn - or regret it forever. https://t.co/sT5uf2nXj3,"['brexit', 'revokearticle50petition']"
+1109155535251738624,631887422,negative,remain,2019-03-22T18:11:01.000Z,"@Chriscript @JuliaHB1 Leavers are just desperate to poo poo the notion that so many people support the idea of #RevokeArticle50Petition when so few wanted a No Deal #Brexit and such a sad turnout resulted from the FFF, (Farages Few Fundamentalists), march to Westminster.","['brexit', 'revokearticle50petition']"
+1108858305131233280,17895820,negative,other,2019-03-21T22:29:56.000Z,"Fishermen FURIOUS over Brexit delay as they tell May to get out NOW
+https://t.co/1jZbIk4wFl
+#RevokeArticle50Petition #Brexit https://t.co/KSPaOooJc8","['brexit', 'revokearticle50petition']"
+1108858546681270272,18810819,negative,remain,2019-03-21T22:30:53.000Z,Stephen Hawking thought we should remain in the EU. Donald Trump thought we should leave. Let’s call the whole thing off #Brexit #RevokeArticle50Petition  https://t.co/QQf1fKPfhR,"['brexit', 'revokearticle50petition']"
+1110304770277994496,145314092,positive,remain,2019-03-25T22:17:40.000Z,"If remain won 52-48 but in the 3 years after the vote the country went down the toilet because of the EU, businesses left GB and people were stockpiling. I would like to think I would have the humility to see reason and change my mind. #Brexit #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
+1110820232044707840,45093917,neutral,other,2019-03-27T08:25:56.000Z,"""The government will not revoke Article 50"".
 
 Well since the government may not even be in control of its own bladder any more this response can effectively be ignored, so lets instead put it to Parliament?
 
 #RevokeArticle50Petition #Brexit https://t.co/QM7RfEyjPE","['brexit', 'revokearticle50petition']"
-139,139,139,139,139,139,214721,1108858305131233280,17895820,negative,other,2019-03-21T22:29:56.000Z,"Fishermen FURIOUS over Brexit delay as they tell May to get out NOW
-https://t.co/1jZbIk4wFl
-#RevokeArticle50Petition #Brexit https://t.co/KSPaOooJc8","['brexit', 'revokearticle50petition']"
-140,140,140,140,140,140,241645,1109107214269251584,416477640,negative,other,2019-03-22T14:59:00.000Z,"Once again .@BBCNews have shown they are disgracefully on the payroll of .@theresa_may Headline chosen to deliberately mislead the public, in order to discredit the #RevokeArticle50Petition In no way is the suggestion supported by the article #Brexit  https://t.co/vkFFWKnwLE","['brexit', 'revokearticle50petition']"
-141,141,141,141,141,141,223770,1108998483330109440,20935082,positive,leave,2019-03-22T07:46:57.000Z,"Yes,yes,Yes! Thank you! #RevokeArticle50Petition #Brexit https://t.co/oe7eI2Sr0k","['brexit', 'revokearticle50petition']"
-142,142,142,142,142,142,420980,1110817420409823232,103529492,positive,remain,2019-03-27T08:14:45.000Z,"""Revoking Article 50 would BREAK THE PROMISES made by Government to the British people, disrespect the clear instruction from a democratic vote, and in turn, reduce confidence in our democracy.""
-Promises? Like the £350m/week back to NHS? #Brexit #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-143,143,143,143,143,143,436339,1110906235841404928,103529492,positive,other,2019-03-27T14:07:40.000Z,"So, why was the email earlier today saying Government has rejected the petition??? 
-""This Government will not revoke Article 50. We will honour the result of the 2016 referendum""
+1108848680092745728,720045923246739456,negative,remain,2019-03-21T21:51:41.000Z,"@ByDonkeys Please sign this petition. This #Brexit madness has to stop; it is an act of national self-harm that was sold to us on a pack of lies. Please retweet #RevokeArticle50Petition 
 
-#Brexit #RevokeArticle50Petition https://t.co/WNTdhaaf4a","['brexit', 'revokearticle50petition']"
-144,144,144,144,144,144,347819,1110107629106487296,31092455,neutral,other,2019-03-25T09:14:18.000Z,LET’S DO THIS. Sign sign sign #RevokeArticle50Petition #Brexit https://t.co/McNQSfXary,"['brexit', 'revokearticle50petition']"
-145,145,145,145,145,145,857914,1114850648523145216,553823579,negative,remain,2019-04-07T11:21:22.000Z,"@DiaChakravarty Offer to Corbyn was her revenge on Tory MP's for not backing her #Brexit thus taking down Tory party with her! Also a revenge on Lab  IF Corbyn backs #Brexit with Lab's ""customs &amp; single market"" the 6 million mostly Lab #RevokeArticle50Petition voter's switch to LibDem &amp; SNP.","['brexit', 'revokearticle50petition']"
-146,146,146,146,146,146,422470,1110825612439154688,241108388,neutral,other,2019-03-27T08:47:18.000Z,"I'm confused, I had an email saying they will debate the #RevokeArticle50Petition on 1st April. But I got another email from the same source saying the Government has responded. a sort of 'nothing has changed' email. 
+https://t.co/q59esrx69V","['brexit', 'revokearticle50petition']"
+1112988480731299840,1410501157,positive,other,2019-04-02T08:01:46.000Z,"House of commons debate on the #Brexit e-petitions 241584, 235138 and 243319 relating to leaving the EuropeanUnion https://t.co/Xadw4VsIsl some interesting stuff #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
+1109146452645892096,21801534,neutral,leave,2019-03-22T17:34:55.000Z,"Well this is certainly reassuring #Brexit #RevokeArticle50Petition
+Secret Cabinet Office document reveals chaotic planning for no-deal Brexit https://t.co/spYYkeE3zd","['brexit', 'revokearticle50petition']"
+1108851112596127744,4504416557,positive,other,2019-03-21T22:01:21.000Z,So #Brexit could be stopped 🛑 if the #RevokeArticle50Petition gets enough backing. How should we proceed with the European Union.,"['brexit', 'revokearticle50petition']"
+1108988757770977280,603443725,neutral,other,2019-03-22T07:08:18.000Z,@ChrisLeslieMP Come back to me when you get to 17.4 million Chris #Brexit #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
+1108867006055489536,19853665,positive,other,2019-03-21T23:04:30.000Z,"Right, time to lock @theresa_may in a room and let the adults get on with it. Theresa, you had your chance and you f**king blew it! #Brexit #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
+1109140589927415808,17170242,positive,leave,2019-03-22T17:11:38.000Z,"I saw a tweet just now being all like ""I don't understand this petition. If it gets up to 17.4m signatures, do they want it to just... replace the referendum result?"" And then something about undermining democracy...
 
-So the debate looks like a forgone conclusion... #Brexit https://t.co/RAOvwfCsFQ","['brexit', 'revokearticle50petition']"
-147,147,147,147,147,147,384593,1110448654207328256,893137046197424128,positive,other,2019-03-26T07:49:24.000Z,"Today's newspaper headlines are less certain of a comeback. Regurgitated dog's dinner comes to mind but the #RevokeArticle50Petition continues to gain signatures  #Brexit
-https://t.co/ZS97yAIyrW","['brexit', 'revokearticle50petition']"
-148,148,148,148,148,148,202356,1108779236050038784,62640281,negative,other,2019-03-21T17:15:44.000Z,*You mean it’s been taken down intentionally so Theresa May can’t suffer any more international humiliation. #Brexit #RevokeArticle50Petition https://t.co/VHNGFrfkCQ,"['brexit', 'revokearticle50petition']"
-149,149,149,149,149,149,996726,1116609453107736576,2937314254,neutral,remain,2019-04-12T07:50:13.000Z,Well done on the #RevokeArticle50Petition - let’s smash the 7m mark with this one! #Brexit Petition: Halt Brexit For A Public Inquiry https://t.co/Ei4X0r0pIq,"['brexit', 'revokearticle50petition']"
-150,150,150,150,150,150,420951,1110817127802589184,524816241,negative,other,2019-03-27T08:13:35.000Z,"@SurreyAmps @TheStephenRalph The Government response to the #RevokeArticle50Petition is disturbing. @number10gov appears to ignore the real will of the people and to fabricate their own in support of their reckless #Brexit
+#Brexit #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
+1110257045717045248,704702348724142080,neutral,other,2019-03-25T19:08:01.000Z,Anybody up for a bit of reenactment in the name of 🙄 #Brexit #RevokeArticle50Petition https://t.co/1JUForzNre,"['brexit', 'revokearticle50petition']"
+1108860259496534016,79520609,neutral,other,2019-03-21T22:37:42.000Z,While petitions are just a general indication the count exceeding 2 million is quite something! #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
+1109821802862264320,194299986,neutral,other,2019-03-24T14:18:31.000Z,"5 million. 
 
-We need an urgent inquiry into #Brexit and how is being used to subvert democracy.","['brexit', 'revokearticle50petition']"
-151,151,151,151,151,151,209689,1108825558044033024,28375148,negative,other,2019-03-21T20:19:48.000Z,#Brexit the stupidest thing in modern times. This needs to stop ! #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
-152,152,152,152,152,152,258634,1109215154854608896,19616214,negative,leave,2019-03-22T22:07:55.000Z,"Apparently the Pope voted in the #RevokeArticle50Petition ; I am amazed that Remainers aren’t outraged, I mean they hate the over 60’s having a say in their future. #Brexit","['brexit', 'revokearticle50petition']"
-153,153,153,153,153,153,470108,1111043681191116800,830886553123700608,negative,other,2019-03-27T23:13:50.000Z,"@adrianmasters84 @JolyonMaugham The EU was very clear: There IS NO ""2nd #Brexit negotiation"".
+https://t.co/m8CicJZTrV
+
+#RevokeArticle50Petition #Brexit https://t.co/VjjTcwB1NB","['brexit', 'revokearticle50petition']"
+1110857854385356800,1618650800,neutral,other,2019-03-27T10:55:25.000Z,"Government response to the 5,846,008 #RevokeArticle50Petition signatories? F-off!
+
+Best response to this response is to get more people to sign. Click here: https://t.co/hM2yIB6CXi
+RT and spread the word.
+#Brexit https://t.co/8wOHjBL4Zb","['brexit', 'revokearticle50petition']"
+1108841983303434240,1380613501,neutral,remain,2019-03-21T21:25:04.000Z,"1.5 milli signatures, you absolute beasts...! #RevokeArticle50Petition #Brexit https://t.co/cTZnje7JMz","['brexit', 'revokearticle50petition']"
+1109078865769623552,44160485,negative,other,2019-03-22T13:06:21.000Z,Over 3 Million people have signed the petition to “revoke Article 50 &amp; remain in the EU” in just 2 days... Proving how much Theresa May is out of touch with real people in the country. We are sick of this Lemmingesque rush to the cliff edge! #RevokeArticle50Petition #Brexit https://t.co/gCjESw0MDH,"['brexit', 'revokearticle50petition']"
+1111043681191116800,830886553123700608,negative,other,2019-03-27T23:13:50.000Z,"@adrianmasters84 @JolyonMaugham The EU was very clear: There IS NO ""2nd #Brexit negotiation"".
 May already got approval from the EU for the ONLY deal.
 
 May frittered away 2 years on inadequate planning, incompetent analysis, disinformation and failure to respond to new facts.
 #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-154,154,154,154,154,154,254473,1109187505050525696,69558002,negative,other,2019-03-22T20:18:03.000Z,"@FrauBooka @carolJhedges @Artemitzi @Haggis_UK @Anna_Soubry @theresa_may Germany moved on. UK hasn’t.  Anti German, anti ‘forrin’ propaganda and racism (incl anti semitic &amp; anti islamic trend) have emboldened vile voices to come out into the open. #Brexit is a fascist coup attempt! #RevokeArticle50Petition needs to reach 17M ! Have you signed? https://t.co/l9VR0S8yj9","['brexit', 'revokearticle50petition']"
-155,155,155,155,155,155,419074,1110801084560359424,173780799,negative,other,2019-03-27T07:09:50.000Z,"#Brexit News says ‘MPs prepare for votes in bid to break deadlock’ and also report of a parliamentary debate on our #RevokeArticle50Petition on Monday 1st April. 
-
-Meanwhile, overnight I receive an email stating: https://t.co/f4whVkXovb","['brexit', 'revokearticle50petition']"
-156,156,156,156,156,156,214491,1108857114737496064,36908048,positive,other,2019-03-21T22:25:12.000Z,This petition has now reached nearly 2 million signatures. I have signed - will you? https://t.co/wYvRIT9UBm #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
-157,157,157,157,157,157,215958,1108865356045713408,167128675,positive,remain,2019-03-21T22:57:57.000Z,"""I didn't really think about the business side of it""
-
-I was just thinking I don't really like the music that Jamal plays next door
-
-#Brexit #RevokeArticle50Petition https://t.co/7QhHpcFNDO","['brexit', 'revokearticle50petition']"
-158,158,158,158,158,158,239173,1109087788438306816,411738764,neutral,remain,2019-03-22T13:41:49.000Z,Whoop Whoop 🔥🙌🏼🙌🏼 Keep those signatures coming People. #RevokeArticle50Petition #Brexit https://t.co/3ZAAbcvtiq,"['brexit', 'revokearticle50petition']"
-159,159,159,159,159,159,248946,1109155535251738624,631887422,negative,remain,2019-03-22T18:11:01.000Z,"@Chriscript @JuliaHB1 Leavers are just desperate to poo poo the notion that so many people support the idea of #RevokeArticle50Petition when so few wanted a No Deal #Brexit and such a sad turnout resulted from the FFF, (Farages Few Fundamentalists), march to Westminster.","['brexit', 'revokearticle50petition']"
-160,160,160,160,160,160,415012,1110673831356780544,1423990237,negative,remain,2019-03-26T22:44:11.000Z,The fucking cheek of it. #RevokeArticle50Petition #Brexit https://t.co/tumqxgkggt,"['brexit', 'revokearticle50petition']"
-161,161,161,161,161,161,367453,1110238057993781248,108878388,negative,remain,2019-03-25T17:52:34.000Z,"Over 5 1/2 million &amp; daily upwardly counting have signed the #RevokeArticle50Petition , at the least a million people marched against #Brexit MANY People HAVE changed their minds, Why ignore this? @UKParliament @theresa_may","['brexit', 'revokearticle50petition']"
-162,162,162,162,162,162,234739,1109067246721216512,433651037,negative,remain,2019-03-22T12:20:11.000Z,"Almost 10% of those who voted in the #Brexit referendum (33.57 million) have now signed the #RevokeArticle50Petition - 3 million signatures and counting 👀✍️
-
-However, I doubt it will make any difference.","['brexit', 'revokearticle50petition']"
-163,163,163,163,163,163,243490,1109123859482066944,34687594,neutral,other,2019-03-22T16:05:09.000Z,"Seven #Brexit  options reportedly being considered, including a 2nd referendum and revoking Article 50. #RevokeArticle50Petition https://t.co/FIGqLNdnEY","['brexit', 'revokearticle50petition']"
-164,164,164,164,164,164,298251,1109562603586666496,22848616,neutral,remain,2019-03-23T21:08:34.000Z,#Brexit #RevokeArticle50Petition Petition: Revoke Article 50 and remain in the EU. https://t.co/lQv9m4cYKX,"['brexit', 'revokearticle50petition']"
-165,165,165,165,165,165,269013,1109383375754878976,21698791,neutral,other,2019-03-23T09:16:22.000Z,4 million up on the #RevokeArticle50Petition https://t.co/cMushkuHb3 #Brexit https://t.co/eNSRrPUUiO,"['brexit', 'revokearticle50petition']"
-166,166,166,166,166,166,363226,1110210528247496704,801147728084537344,positive,other,2019-03-25T16:03:11.000Z,"#Brexit Schmexit? 
+1108857114737496064,36908048,positive,other,2019-03-21T22:25:12.000Z,This petition has now reached nearly 2 million signatures. I have signed - will you? https://t.co/wYvRIT9UBm #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
+1109010541887086592,20513129,positive,remain,2019-03-22T08:34:52.000Z,I'm a geographer and I love a choropleth map. Check out the #Brexit petition data mapping at https://t.co/jyb8PDtEZE. It's.....revealing #RevokeArticle50Petition https://t.co/0pyybRizM6,"['brexit', 'revokearticle50petition']"
+1109822481576144896,764799892803977216,neutral,other,2019-03-24T14:21:13.000Z,#RevokeArticle50Petition just hit 5 MILLION #Brexit https://t.co/dnDKTMVLmW,"['brexit', 'revokearticle50petition']"
+1110448654207328256,893137046197424128,positive,other,2019-03-26T07:49:24.000Z,"Today's newspaper headlines are less certain of a comeback. Regurgitated dog's dinner comes to mind but the #RevokeArticle50Petition continues to gain signatures  #Brexit
+https://t.co/ZS97yAIyrW","['brexit', 'revokearticle50petition']"
+1110210528247496704,801147728084537344,positive,other,2019-03-25T16:03:11.000Z,"#Brexit Schmexit? 
 You might want to take a look at this... 
 
 #RevokeArticle50Petition clears 5.5 million signatures and counting... 
 
 https://t.co/Dc4dDG94UL","['brexit', 'revokearticle50petition']"
-167,167,167,167,167,167,482555,1111194788529885184,21009666,neutral,other,2019-03-28T09:14:17.000Z,It’s not over yet! Sign the #RevokeArticle50Petition today. Takes just a minute to make your voice heard if you want to stop #Brexit in its tracks for whatever reason. To be debated in Parliament April 1 so need to get as many signatures before then https://t.co/6N0cZtBeXt.,"['brexit', 'revokearticle50petition']"
-168,168,168,168,168,168,254231,1109185948347174912,1173104323,negative,other,2019-03-22T20:11:52.000Z,"I signed because Andrea Leadsom annoyed me with her 17.4 million comment!
-#Brexit #RevokeArticle50Petition 
-https://t.co/Yvg6gGoSND","['brexit', 'revokearticle50petition']"
-169,169,169,169,169,169,946785,1116040826352697344,336077092,neutral,leave,2019-04-10T18:10:42.000Z,"Were #Brexit to happen, I expect Britain will be eventually replaced as a permanent member of the UN Security Council.
-Certainly, questions will be asked.
-Why shouldn’t India be there as one of the permanent five instead of the UK?
-#RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
-170,170,170,170,170,170,249154,1109156616262352896,3500967439,neutral,leave,2019-03-22T18:15:19.000Z,@thehill Too late. The front wheels of the #Brexit runaway car has already gone over the cliff edge. #RevokeArticle50Petition,"['brexit', 'revokearticle50petition']"
-171,171,171,171,171,171,417903,1110781748076560384,25485076,positive,other,2019-03-27T05:53:00.000Z,The consistency in these two emails from the government on the #RevokeArticle50Petition (six hours apart) reflects the #Brexit process pretty well. https://t.co/PjJLQvgYIb,"['brexit', 'revokearticle50petition']"
-172,172,172,172,172,172,230109,1109039054799192064,746530775395368960,neutral,other,2019-03-22T10:28:10.000Z,Approaching 3million... #Brexit #RevokeArticle50Petition https://t.co/WqcErLKRfY,"['brexit', 'revokearticle50petition']"
-173,173,173,173,173,173,419246,1110802920944091136,124878242,negative,remain,2019-03-27T07:17:08.000Z,Government rejects #RevokeArticle50Petition to 'cancel #Brexit' signed by 5.8 million people https://t.co/O3QfaSch4f,"['brexit', 'revokearticle50petition']"
-174,174,174,174,174,174,417437,1110755009191247872,14868635,negative,other,2019-03-27T04:06:45.000Z,Who wants to bet that this is just the setup for a parliamentary April fools gag? #RevokeArticle50Petition #Brexit https://t.co/BWMORnS37X,"['brexit', 'revokearticle50petition']"
-175,175,175,175,175,175,248499,1109153031667486720,1044199632035827456,negative,remain,2019-03-22T18:01:04.000Z,"So, as the #RevokeArticle50Petition rattles into millions of signatures, #Brexit enthusiasts are suddenly deeply concerned about possible external interference. I can't even.","['brexit', 'revokearticle50petition']"
-176,176,176,176,176,176,216770,1108870024238817280,23242773,neutral,remain,2019-03-21T23:16:30.000Z,Petition: Revoke Article 50 and remain in the EU. https://t.co/J8dqS130yV #RevokeArticle50Petition #Brexit,"['brexit', 'revokearticle50petition']"
-177,177,177,177,177,177,328676,1109843632675323904,1432164872,negative,other,2019-03-24T15:45:16.000Z,#RevokeArticle50Petition calling for #Brexit to be cancelled hits five million signatures | The Independent.  https://t.co/fFfhr2Rev9,"['brexit', 'revokearticle50petition']"
-178,178,178,178,178,178,206711,1108802502739267584,14153331,negative,remain,2019-03-21T18:48:11.000Z,"For those confused by the word ""nginx"" on the #RevokeArticle50Petition website, it's pronounced ""engine-x"" not ""en-jinx"". Sorry to disappoint if you thought it was an apt description of #brexit.","['brexit', 'revokearticle50petition']"
-179,179,179,179,179,179,226775,1109017783952658432,381217710,neutral,other,2019-03-22T09:03:38.000Z,I'm surprised @BBCNews @itvnews don't seem to be covering #RevokeArticle50Petition as some sort of #Brexit sideline story....Surely it's news worthy....maybe I haven't seen their coverage yet...!!!🤔,"['brexit', 'revokearticle50petition']"
-180,180,180,180,180,180,229053,1109032310672973824,1015000626,neutral,other,2019-03-22T10:01:22.000Z,I thought the Russian government was in favour of #Brexit ? Why would they instruct their bots to undermine it? #RevokeArticle50Petition https://t.co/9u8l83qZEf,"['brexit', 'revokearticle50petition']"
-181,181,181,181,181,181,436094,1110904785320972288,865676036,positive,other,2019-03-27T14:01:55.000Z,Thank you Mr Tusk @eucopresident! You clearly value the British people's will far more than the British government currently does! @theresa_may @UKParliament - I do not understand your glaring lack of care or shame. And I'm not going to try to. #Brexit #RevokeArticle50Petition https://t.co/iDZmabMIuz,"['brexit', 'revokearticle50petition']"
-182,182,182,182,182,182,868930,1114982222879232000,863080535681372160,negative,remain,2019-04-07T20:04:11.000Z,How many of our govt will you @metpoliceuk arrest once patients start to die without medications once #Brexit no deal goes through? #RevokeArticle50Petition https://t.co/IS4lHBdmgb,"['brexit', 'revokearticle50petition']"
-183,183,183,183,183,183,211600,1108838782193803264,161686725,positive,remain,2019-03-21T21:12:21.000Z,"#RevokeArticle50Petition
+1109562603586666496,22848616,neutral,remain,2019-03-23T21:08:34.000Z,#Brexit #RevokeArticle50Petition Petition: Revoke Article 50 and remain in the EU. https://t.co/lQv9m4cYKX,"['brexit', 'revokearticle50petition']"
+1109215154854608896,19616214,negative,leave,2019-03-22T22:07:55.000Z,"Apparently the Pope voted in the #RevokeArticle50Petition ; I am amazed that Remainers aren’t outraged, I mean they hate the over 60’s having a say in their future. #Brexit","['brexit', 'revokearticle50petition']"
+1109219608010149888,893177704174014464,neutral,other,2019-03-22T22:25:37.000Z,#RevokeArticle50Petition #Brexit : watch the signature count live https://t.co/mpkBkPC23A,"['brexit', 'revokearticle50petition']"
+1109811335607521280,19388832,positive,other,2019-03-24T13:36:56.000Z,"@arusbridger 16250 signatures left now to reach 5 million ....
+#RevokeArticle50Petition #Brexit https://t.co/2Z2Gd43cMQ","['brexit', 'revokearticle50petition']"
+1112670250796023808,758958779811500032,positive,other,2019-04-01T10:57:14.000Z,The #RevokeArticle50Petition just hit 17.4 million!!! #Brexit is cancelled!!! Just rejoice at that news!!!,"['brexit', 'revokearticle50petition']"
+1109107214269251584,416477640,negative,other,2019-03-22T14:59:00.000Z,"Once again .@BBCNews have shown they are disgracefully on the payroll of .@theresa_may Headline chosen to deliberately mislead the public, in order to discredit the #RevokeArticle50Petition In no way is the suggestion supported by the article #Brexit  https://t.co/vkFFWKnwLE","['brexit', 'revokearticle50petition']"
+1108902874929491968,958315242865463296,positive,leave,2019-03-22T01:27:02.000Z,"The EU have effectively cornered Britain: We either agree to the Theresa May's deal which nobody wants, or we get thrown off the cliff with a no-deal on very short notice. Their attitude is simply that we have made our #Brexit bed, so have to take it #RevokeArticle50Petition","['brexit', 'revokearticle50petition']"
+1112740149052563456,2195607428,neutral,other,2019-04-01T15:34:59.000Z,"Following the #RevokeArticle50Petition debate on https://t.co/tke1GmxmEN 
 
-Remainiacs trying to cancel #Brexit (including a fair few North Koreans, probably a few Klingons as well).
-
-Are we supposed to give one?","['brexit', 'revokearticle50petition']"
-184,184,184,184,184,184,325976,1109824388449427456,929707165128056832,positive,other,2019-03-24T14:28:48.000Z,Please sign #RevokeArticle50Petition  we just passed #5million let's get to six next 💛👍💛👍 #Brexit https://t.co/PBFaPfgBTA,"['brexit', 'revokearticle50petition', '5million']"
-185,185,185,185,185,185,423508,1110829781476655104,44880062,negative,remain,2019-03-27T09:03:52.000Z,For all our UK friends who don't want to #Brexit but prefer to #Bremain. #RevokeArticle50Petition https://t.co/HJeBcGCusO,"['brexit', 'revokearticle50petition', 'bremain']"
-186,186,186,186,186,186,437604,1110913684270919680,345584639,negative,leave,2019-03-27T14:37:16.000Z,"This bloke is a f-ing clown.
-""You cannot betray the 6 million that have signed the petition to revoke Article 50..."" https://t.co/VJxxTZt0La
-ER, HELLO?
-WHAT ABOUT BETRAYING THE 17.5 million THAT VOTED LEAVE?! 
-F-OFF!
-
-#BrexitBetrayal #Brexit #RevokeArticle50Petition","['brexit', 'revokearticle50petition', 'brexitbetrayal']"
-187,187,187,187,187,187,253405,1109181216069160960,23760809,neutral,remain,2019-03-22T19:53:04.000Z,Sometimes I wonder how it would feel if Article 50 was revoked and the UK remained in the EU... #RevokeArticle50Petition #Brexit #Brexitcast Sign please: https://t.co/SvKOm02Hen https://t.co/zr3pIpglYV,"['brexit', 'revokearticle50petition', 'brexitcast']"
-188,188,188,188,188,188,620414,1112334529560219648,1074378707438055424,positive,other,2019-03-31T12:43:12.000Z,#RevokeArticle50Petition just passed 6m. I did a map to celebrate. #Brexit #BrexitElite https://t.co/hCOd1E3rPv,"['brexit', 'revokearticle50petition', 'brexitelite']"
-189,189,189,189,189,189,221937,1108985332253499392,205593477,positive,remain,2019-03-22T06:54:41.000Z,Come on people. This is your opportunity to show that you don't own this Brexit https://t.co/8ytAnOfy3C #RevokeArticle50Petition  #BrexitShambles #brexit https://t.co/AFK7uEzJyw,"['brexit', 'revokearticle50petition', 'brexitshambles']"
-190,190,190,190,190,190,816594,1114191988671373312,391566954,negative,other,2019-04-05T15:44:05.000Z,UK Government Minister in response to Vote Leave criminal activity leaving the EU Referendum on shaky ground: “I’m afraid I completely disagree.” #BrexitShambles #Brexit #RevokeArticle50Petition https://t.co/CkqkSVGeCU,"['brexit', 'revokearticle50petition', 'brexitshambles']"
-191,191,191,191,191,191,547103,1111644744633987072,213374456,positive,remain,2019-03-29T15:02:15.000Z,She had the chance 3 times and lost them as biggest defeats in parliament history why wwe don’t get another chance #BrexitShambles #brexit #RevokeArticle50Petition,"['brexit', 'revokearticle50petition', 'brexitshambles']"
-192,192,192,192,192,192,229605,1109035881820766208,1007712566775336832,neutral,remain,2019-03-22T10:15:33.000Z,"@Conservatives Petition: Revoke Article 50 and remain in the EU. https://t.co/4z2iTEYhkE
-#RevokeArticle50Petition #Brexit #BrexitShambles","['brexit', 'revokearticle50petition', 'brexitshambles']"
-193,193,193,193,193,193,615245,1112297137910501376,3044559413,positive,remain,2019-03-31T10:14:37.000Z,"The petition has now reached 6,000,945. #RevokeArticle50Petition #Brexit #BrexitShambles https://t.co/xSCsOAHoKu","['brexit', 'revokearticle50petition', 'brexitshambles']"
-194,194,194,194,194,194,741144,1113438232673284096,19978359,negative,other,2019-04-03T13:48:56.000Z,"@MaxMigliorato @Tonygoode @owenjbennett Agreed. 6,000,000 signees of the #RevokeArticle50Petition are politically homeless. If #Corbyn facilitates #Brexit, the backlash will be severe for @UKLabour.","['brexit', 'revokearticle50petition', 'corbyn']"
-195,195,195,195,195,195,620106,1112331916651515904,376815674,positive,other,2019-03-31T12:32:49.000Z,"Over six million people have signed the petition to revoke article 50 and remain in the EU! This is remarkable! If you haven't signed already, please do it now! See https://t.co/ImjBm30reO #RevokeArticle50Petition #EuropeanUnion #Brexit @euromove @peoplesvote_uk @TheNewEuropean","['brexit', 'revokearticle50petition', 'europeanunion']"
-196,196,196,196,196,196,224723,1109004837969162240,905881221057712000,neutral,remain,2019-03-22T08:12:12.000Z,Lets do this people! #Brexit #BrexitShambles #RevokeArticle50Petition  #GENERATIONS https://t.co/xE1VEaAJ5i,"['brexit', 'revokearticle50petition', 'generations', 'brexitshambles']"
-197,197,197,197,197,197,315122,1109748557236654080,2334022280,negative,remain,2019-03-24T09:27:28.000Z,@DanielWBmouth Almost 5 Million people have signed #RevokeArticle50Petition # Revoke &amp; Reform #GetTheToriesOut #Brexit Lies. Fraud. Bribery.,"['brexit', 'revokearticle50petition', 'getthetoriesout']"
-198,198,198,198,198,198,288562,1109493646116769792,53730672,neutral,other,2019-03-23T16:34:33.000Z,"Best fake names used on  #RevokeArticle50Petition
-Jimmy twovotes
- #goodfellas
-#Brexit","['brexit', 'revokearticle50petition', 'goodfellas']"
-199,199,199,199,199,199,518442,1111525818671472640,142743205,neutral,remain,2019-03-29T07:09:40.000Z,The sun is shining over Europe. Tomorrow the UK will not be allowed it any more. #indicativevotes #Brexit #RevokeArticle50Petition https://t.co/EYdgAkTAou,"['brexit', 'revokearticle50petition', 'indicativevotes']"
+#Brexit","['brexit', 'revokearticle50petition']"

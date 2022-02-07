@@ -1,3 +1,3 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,632755,747881025896845312,101840335,negative,remain,2016-06-28T19:55:06.000Z,@ggreenwald @LOS_Fisher JC had not got a hole in hell to lead a progressive centre against #Brexit &amp; #UKIPfascists,"['brexit', 'ukipfascists']"
-1,1,1,1,1,469479,831050920951693312,128151751,negative,remain,2017-02-13T08:02:34.000Z,#Labour voters do not want #LabourParty to block #brexit   https://t.co/UW1KNU7w9W #toryelectionfraud #corbyn #TheresaMay #ukipfascists,"['toryelectionfraud', 'labourparty', 'corbyn', 'labour', 'theresamay', 'brexit', 'ukipfascists']"
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+747881025896845312,101840335,negative,remain,2016-06-28T19:55:06.000Z,@ggreenwald @LOS_Fisher JC had not got a hole in hell to lead a progressive centre against #Brexit &amp; #UKIPfascists,"['brexit', 'ukipfascists']"
+831050920951693312,128151751,negative,remain,2017-02-13T08:02:34.000Z,#Labour voters do not want #LabourParty to block #brexit   https://t.co/UW1KNU7w9W #toryelectionfraud #corbyn #TheresaMay #ukipfascists,"['ukipfascists', 'corbyn', 'theresamay', 'toryelectionfraud', 'brexit', 'labour', 'labourparty']"

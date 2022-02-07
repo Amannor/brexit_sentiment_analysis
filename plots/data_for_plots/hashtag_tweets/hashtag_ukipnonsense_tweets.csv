@@ -1,3 +1,3 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,28327,691877769794437120,224565510,positive,remain,2016-01-26T06:58:09.000Z,"@BBCr4today  I can assure you as a black British voter that I neither support UKIP nor Brexit, what a crock of #UKIPnonsense !",['ukipnonsense']
-1,1,1,1,1,1169974,851398743031263232,342064318,neutral,other,2017-04-10T11:37:33.000Z,@NaraHodge @RogerHelmerMEP All of which was possible before Brexit happens! #UKIPnonsense,['ukipnonsense']
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+691877769794437120,224565510,positive,remain,2016-01-26T06:58:09.000Z,"@BBCr4today  I can assure you as a black British voter that I neither support UKIP nor Brexit, what a crock of #UKIPnonsense !",['ukipnonsense']
+851398743031263232,342064318,neutral,other,2017-04-10T11:37:33.000Z,@NaraHodge @RogerHelmerMEP All of which was possible before Brexit happens! #UKIPnonsense,['ukipnonsense']

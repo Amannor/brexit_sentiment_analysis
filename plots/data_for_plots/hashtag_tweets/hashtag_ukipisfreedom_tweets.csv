@@ -1,5 +1,5 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
-0,0,0,0,0,1279449,1010659116405182464,925753404986740736,negative,leave,2018-06-23T23:01:25.000Z,"The Brexit Rally today was FUCKING awesome. #BrexitIsFreedom
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+1010659116405182464,925753404986740736,negative,leave,2018-06-23T23:01:25.000Z,"The Brexit Rally today was FUCKING awesome. #BrexitIsFreedom
 #TommyIsFreedom
 #UKIPIsFreedom
 
@@ -8,8 +8,8 @@ Fuck Islam
 Fuck mass immigration 
 Fuck foreign aid 
 
-And fuck Leftards","['tommyisfreedom', 'ukipisfreedom', 'brexitisfreedom']"
-1,1,1,1,1,1279450,1010659116405182464,925753404986740736,negative,leave,2018-06-23T23:01:25.000Z,"The Brexit Rally today was FUCKING awesome. #BrexitIsFreedom
+And fuck Leftards","['tommyisfreedom', 'brexitisfreedom', 'ukipisfreedom']"
+1010659116405182464,925753404986740736,negative,leave,2018-06-23T23:01:25.000Z,"The Brexit Rally today was FUCKING awesome. #BrexitIsFreedom
 #TommyIsFreedom
 #UKIPIsFreedom
 
@@ -18,4 +18,4 @@ Fuck Islam
 Fuck mass immigration 
 Fuck foreign aid 
 
-And fuck Leftards","['tommyisfreedom', 'ukipisfreedom', 'brexitisfreedom']"
+And fuck Leftards","['tommyisfreedom', 'brexitisfreedom', 'ukipisfreedom']"
