@@ -2,6 +2,7 @@ import html
 import html.parser
 import json
 import os
+import re
 from collections import Counter, OrderedDict
 from string import punctuation
 
@@ -48,7 +49,7 @@ REMAIN_TAGS = set(['yes2eu', 'yestoeu', 'yes2europe', 'yestoeurope', 'betteroffi
                    'pcpeu', 'waton', 'fuckukip', 'fukip', 'ukipout', 'fckukip', 'ukipfraud', 'banukip', 'ukipscum',
                    'nevervoteukip', 'bringdowntoryukipgov', 'dontjoinukip', 'ukipisajoke', 'ukiparepoop', 'ukipfascists',
                    'ukipnonsense', 'ukipracists', 'racistukip', 'stukipid', 'ukipinsheepsclothing',
-                   'ukiptoryfascistsout', 'ofoc'])
+                   'ukiptoryfascistsout', 'ofoc', 'saytostay'])
 
 ALL_TAGS = LEAVE_TAGS.union(REMAIN_TAGS)
 
@@ -219,17 +220,16 @@ def get_and_write_hashtags_counter():
     return hashtags_counter
 
 
-def get_only_specific_keys_from_counter(counter, keys=ALL_TAGS, ignore_zero_count=True,
-                                        reverse=False):
+def get_only_specific_keys_from_counter(counter, keys=ALL_TAGS, reverse=False, threshold_count=0):
     res = Counter({k: counter[k] for k in keys})
-    if ignore_zero_count:
-        res = Counter(el for el in res.elements() if res[el] > 0)
+    if threshold_count is not None:
+        res = Counter(el for el in res.elements() if res[el] > threshold_count)
+
     if reverse:
         res = OrderedDict(res.most_common())
         res = Counter(OrderedDict(reversed(list(res.items()))))
 
     return res
-
 
 def create_hashtags_histograms():
     hashtags_counter = get_and_write_hashtags_counter()
@@ -260,34 +260,82 @@ def is_quota_met_for_tag(df, num_tweets_required):
     return (not df is None) and len(df.index) >= num_tweets_required
 
 
-def get_exist_tags_to_tweets_or_default(hashtags_counter):
+def get_exist_tags_to_tweets_or_default(hashtags_counter, dir = os.path.join(cu.PLOTS_DATA_FOLDER, 'hashtag_tweets')):
     tag_to_tweets = {tag: None for tag in hashtags_counter}
     existing_counters_count = 0
+    print(f'{cu.get_cur_formatted_time()} Checking for existing tags_to_tweets in {dir}')
     for tag in hashtags_counter:
-        fname = os.path.join(cu.PLOTS_DATA_FOLDER, 'hashtag_tweets', f"hashtag_{tag}_tweets.csv")
+        fname = os.path.join(dir, f"hashtag_{tag}_tweets.csv")
         if os.path.isfile(fname):
             tag_to_tweets[tag] = pd.read_csv(fname)
             existing_counters_count += 1
 
-    print(f'{cu.get_cur_formatted_time()} Found existing data for {existing_counters_count}/{len(hashtags_counter)} tags')
+    print(f'{cu.get_cur_formatted_time()} Found existing data for {existing_counters_count}/{len(hashtags_counter)} tags (in {dir})')
     return tag_to_tweets
 
 
-def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
+def write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing, bot_score_threshold=None):
+    should_filter_bots, bot_msg_suffix = cu.handle_bots(bot_score_threshold)
+    hashtags_counter = get_and_write_hashtags_counter()
+    hashtags_counter = get_only_specific_keys_from_counter(hashtags_counter, reverse=True, threshold_count=200)
+    tag_to_tweets = {tag: None for tag in hashtags_counter}
+
+
+    for fname in os.listdir(cu.FINAL_REPORT_DATA_FOLDER):
+        if not (fname.startswith(f'tweets_stance_sentiment_incl_date_and_text') and fname.endswith(".csv")):
+            continue
+        full_fname = os.path.join(cu.FINAL_REPORT_DATA_FOLDER, fname)
+        print(f'{cu.get_cur_formatted_time()} Parsing {full_fname}{bot_msg_suffix}')
+        df = pd.read_csv(full_fname)
+        if should_filter_bots:
+            df = cu.remove_bots_by_threshold(df, bot_score_threshold)
+
+        df["hashtags"] = df["t_text"].apply(extract_hash_tags)
+
+        main_file_id = re.search(r"\d", fname).start()
+        sub_file_id = re.search(r"\d", fname[main_file_id + 1:]).start() + main_file_id + 1
+        main_file_id, sub_file_id = fname[main_file_id], fname[sub_file_id]
+
+        for cur_tag in hashtags_counter:
+            print(f'{cu.get_cur_formatted_time()} Tag {cur_tag}')
+
+            df["is_tag_present"] = df['hashtags'].apply(lambda l: cur_tag in l)
+            df_for_tag = df[df["is_tag_present"]]
+            print(f'{cu.get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets containing tag')
+
+            if len(df_for_tag.index) == 0:
+                continue
+
+            df_for_tag["hashtags"] = df_for_tag["hashtags"].apply(lambda l: choose_least_common_tag(hashtags_counter, l))
+            df_for_tag["is_tag_present"] = df_for_tag['hashtags'].apply(lambda l: cur_tag in l)
+            df_for_tag = df_for_tag[df_for_tag["is_tag_present"]]
+            print(f'{cu.get_cur_formatted_time()} Found {len(df_for_tag.index)} tweets that passed arbitrator')
+
+            if len(df_for_tag.index) == 0:
+                continue
+
+            df_for_tag = df_for_tag.drop(["is_tag_present"], axis="columns")
+
+
+            cu.df_to_csv_plus_create_dir(df_for_tag, dir_to_check_existing, f"hashtag_{cur_tag}_tweets_{main_file_id}_{sub_file_id}.csv")
+
+
+    return tag_to_tweets
+
+
+def create_tweets_with_pure_stance_tags(bot_score_threshold=None, max_tweets_per_tag=200):
     should_filter_bots, bot_msg_suffix = cu.handle_bots(bot_score_threshold)
     hashtags_counter = get_and_write_hashtags_counter()
     hashtags_counter = get_only_specific_keys_from_counter(hashtags_counter, reverse=True)
-    max_tweets_per_tag = 200
     no_pure_stance_tags_key = "no_stance_tags"
     no_tags_at_all_key = "no_tags_at_all"
     hashtags_counter[no_pure_stance_tags_key] = int(max_tweets_per_tag / 2)
     hashtags_counter[no_tags_at_all_key] = int(max_tweets_per_tag / 2)
-    tag_to_tweets = get_exist_tags_to_tweets_or_default(hashtags_counter)
     tag_to_num_tweets_required = {tag: min(hashtags_counter[tag], max_tweets_per_tag) for tag in hashtags_counter}
+    tag_to_tweets = get_exist_tags_to_tweets_or_default(hashtags_counter)
 
     for fname in os.listdir(cu.FINAL_REPORT_DATA_FOLDER):
-        if all([is_quota_met_for_tag(tag_to_tweets[tag], tag_to_num_tweets_required[tag]) for tag in
-                tag_to_num_tweets_required]):
+        if all([is_quota_met_for_tag(tag_to_tweets[tag], tag_to_num_tweets_required[tag]) for tag in tag_to_num_tweets_required]):
             print(f'{cu.get_cur_formatted_time()} Quotas for all tags met - not checking anymore files')
             break
         if not (fname.startswith(f'tweets_stance_sentiment_incl_date_and_text') and fname.endswith(".csv")):
@@ -327,7 +375,7 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
 
             if len(df_for_tag.index) == 0:
                 continue
-            df_for_tag = df_for_tag.drop(["is_tag_present"], axis="columns")
+
             df_for_tag = df_for_tag.head(tag_to_num_tweets_required[cur_tag])
             if tag_to_tweets[cur_tag] is None:
                 tag_to_tweets[cur_tag] = df_for_tag
@@ -346,6 +394,14 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None):
 
     return tag_to_tweets
 
+def choose_least_common_tag(counter, tag_list):
+    if len(tag_list) == 0:
+        return []
+    tag_counter_tuple = get_only_specific_keys_from_counter(counter, keys=tag_list)
+    tag_counter_tuple = tag_counter_tuple.most_common()[-1]
+    if len(tag_counter_tuple) == 0:
+        return []
+    return [tag_counter_tuple[0]]
 
 if __name__ == "__main__":
     print(f'{cu.get_cur_formatted_time()} Start')
@@ -355,6 +411,20 @@ if __name__ == "__main__":
         cu.df_to_csv_plus_create_dir(tag_to_tweets_df[tag], os.path.join(cu.PLOTS_DATA_FOLDER, 'hashtag_tweets'),
                                   f"hashtag_{tag}_tweets.csv")
 
+    dir_for_least_common = os.path.join(cu.PLOTS_DATA_FOLDER, 'least_common_hashtag_tweets')
+    tag_to_tweets_df = write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing=dir_for_least_common)
 
+    '''
+    TODO - create a tree-like structure that orders (at least some of) the taga in a way that makes semantic sense in
+    that a node is more "granularity-fined" then it's parent.
+    E.g.:
+     - "ukip-manchester" will be a descendant of "ukip"
+     - All of the following will be same-level siblings: 'yes2eu', 'yestoeu', 'yes2europe', 'yestoeurope' 
+     
+    tag_to_tweets_df = create_tweets_with_pure_stance_tags(max_tweets_per_tag=None, tweets_arbitrator=choose_most_accurate_tag)
+    for tag in tag_to_tweets_df:
+        cu.df_to_csv_plus_create_dir(tag_to_tweets_df[tag], os.path.join(cu.PLOTS_DATA_FOLDER, 'most_accurate_hashtag_tweets'),
+                                  f"hashtag_{tag}_tweets.csv")
+    '''
 
     print(f'{cu.get_cur_formatted_time()} FIN')
