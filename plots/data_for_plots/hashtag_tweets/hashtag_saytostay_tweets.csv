@@ -1,0 +1,3 @@
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+727592534403338240,706797474799853568,negative,leave,2016-05-03T20:15:52.000Z,Follow &amp; RT @sayto_stay to help stop the ridiculous trump-a-likes across the ocean vote #Brexit #saytostay #votein #EUreferendum,"['eureferendum', 'saytostay', 'brexit', 'votein']"
+724760200083832832,724753970422534144,neutral,other,2016-04-26T00:41:11.000Z,Biggest Decision Of Our Generation - Lets Take Control! #Brexit #SaytoStay #WhatWouldBeyonceDo #YOUNGFOREVER #VoteYES #yestoeurope,"['whatwouldbeyoncedo', 'saytostay', 'yestoeurope', 'youngforever', 'voteyes', 'brexit']"

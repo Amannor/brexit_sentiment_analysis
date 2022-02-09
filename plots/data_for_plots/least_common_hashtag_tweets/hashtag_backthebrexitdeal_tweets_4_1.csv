@@ -1,0 +1,3 @@
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+1107079608334237696,235188984,neutral,other,2019-03-17T00:42:01.000Z,THERESA MAY: The patriotic thing for MPs to do is vote for my deal @theresa_may @Conservatives https://t.co/TByg8b6XRs #Brexit #backthebrexitdeal @RoryStewartUK @dcsandbrook @montie @IainDale @JamesCleverly @DavidDavisMP @Tobias_Ellwood @PhilipHammondUK @ZacGoldsmith @scullyp,['backthebrexitdeal']
+1113746170076069888,235188984,negative,remain,2019-04-04T10:12:34.000Z,RORY STEWART: #Corbyn is wrong about almost everything but we can find common ground with him on #Brexit - @RoryStewartUK https://t.co/I42yYdMOIQ #BackTheBrexitDeal @theresa_may @Conservatives,['backthebrexitdeal']

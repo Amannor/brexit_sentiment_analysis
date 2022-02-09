@@ -1,0 +1,3 @@
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+933255994808811520,921150046644600832,positive,remain,2017-11-22T08:49:02.000Z,"We believe that faced with the reality that Brexit strips their children of an identity they hold dear, that their children will face the economic, social and political consequences of Brexit for a lot longer, the love of British parents will redirect this country.
+#OFOC",['ofoc']

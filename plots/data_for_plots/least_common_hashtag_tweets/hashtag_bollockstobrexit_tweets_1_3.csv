@@ -1,0 +1,3 @@
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+786507805389905920,47945594,negative,other,2016-10-13T10:04:08.000Z,Sturgeon kicking ass and taking names #Brexit #bollockstobrexit,['bollockstobrexit']
+794124592260534272,239402040,positive,other,2016-11-03T10:30:31.000Z,I would like the government to declare November 3rd National #BollocksToBrexit day and have BBC play the EU anthem every night. #brexit,['bollockstobrexit']

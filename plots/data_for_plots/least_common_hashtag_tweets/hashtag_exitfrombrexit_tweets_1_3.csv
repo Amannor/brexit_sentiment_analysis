@@ -1,0 +1,4 @@
+t_id,user_id,t_sentiment,t_stance,t_date,t_text,hashtags
+784303554521538560,72249574,negative,other,2016-10-07T08:05:13.000Z,"Is there really no way to exit from #Brexit? 
+#ExitFromBrexit",['exitfrombrexit']
+794238933626454016,551331978,neutral,remain,2016-11-03T18:04:52.000Z,Britisches Parlament darf über Brexit mitentscheiden - Politik - Süddeutsche.de. Richtig so. #ExitfromBrexit  https://t.co/1zurpqrOc4,['exitfrombrexit']
