@@ -278,8 +278,6 @@ def write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing, bot_scor
     should_filter_bots, bot_msg_suffix = cu.handle_bots(bot_score_threshold)
     hashtags_counter = get_and_write_hashtags_counter()
     hashtags_counter = get_only_specific_keys_from_counter(hashtags_counter, reverse=True, threshold_count=200)
-    tag_to_tweets = {tag: None for tag in hashtags_counter}
-
 
     for fname in os.listdir(cu.FINAL_REPORT_DATA_FOLDER):
         if not (fname.startswith(f'tweets_stance_sentiment_incl_date_and_text') and fname.endswith(".csv")):
@@ -298,6 +296,14 @@ def write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing, bot_scor
 
         for cur_tag in hashtags_counter:
             print(f'{cu.get_cur_formatted_time()} Tag {cur_tag}')
+            full_tag_fname = os.path.join(dir_to_check_existing, f"hashtag_{cur_tag}_tweets_{main_file_id}_{sub_file_id}.csv")
+            if os.path.isfile(full_tag_fname):
+                df_for_tag = pd.read_csv(full_tag_fname)
+                if len(df_for_tag.index) == 0:
+                    print(f'{cu.get_cur_formatted_time()} found {full_tag_fname} - skipping this tag')
+                    continue
+
+
 
             df["is_tag_present"] = df['hashtags'].apply(lambda l: cur_tag in l)
             df_for_tag = df[df["is_tag_present"]]
@@ -316,11 +322,7 @@ def write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing, bot_scor
 
             df_for_tag = df_for_tag.drop(["is_tag_present"], axis="columns")
 
-
-            cu.df_to_csv_plus_create_dir(df_for_tag, dir_to_check_existing, f"hashtag_{cur_tag}_tweets_{main_file_id}_{sub_file_id}.csv")
-
-
-    return tag_to_tweets
+            cu.df_to_csv_plus_create_dir(df_for_tag, dir_to_check_existing, tag_fname)
 
 
 def create_tweets_with_pure_stance_tags(bot_score_threshold=None, max_tweets_per_tag=200):
@@ -346,17 +348,14 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None, max_tweets_per
         if should_filter_bots:
             df = cu.remove_bots_by_threshold(df, bot_score_threshold)
 
-        hashtags_set = False
+        df["hashtags"] = df["t_text"].apply(extract_hash_tags)
+        df.sort_values(by=['hashtags'], inplace=True)
 
         for cur_tag in hashtags_counter:
             print(f'{cu.get_cur_formatted_time()} Tag {cur_tag}')
             if is_quota_met_for_tag(tag_to_tweets[cur_tag], tag_to_num_tweets_required[cur_tag]):
                 print(f'{cu.get_cur_formatted_time()} Tag quota reached')
                 continue
-            if not hashtags_set:
-                df["hashtags"] = df["t_text"].apply(extract_hash_tags)
-                df.sort_values(by=['hashtags'], inplace=True)
-                hashtags_set = True
 
             if cur_tag == no_pure_stance_tags_key:
                 df["is_tag_present"] = df['hashtags'].apply(
@@ -376,6 +375,7 @@ def create_tweets_with_pure_stance_tags(bot_score_threshold=None, max_tweets_per
             if len(df_for_tag.index) == 0:
                 continue
 
+            df_for_tag = df_for_tag.drop(["is_tag_present"], axis="columns")
             df_for_tag = df_for_tag.head(tag_to_num_tweets_required[cur_tag])
             if tag_to_tweets[cur_tag] is None:
                 tag_to_tweets[cur_tag] = df_for_tag
@@ -411,8 +411,7 @@ if __name__ == "__main__":
         cu.df_to_csv_plus_create_dir(tag_to_tweets_df[tag], os.path.join(cu.PLOTS_DATA_FOLDER, 'hashtag_tweets'),
                                   f"hashtag_{tag}_tweets.csv")
 
-    dir_for_least_common = os.path.join(cu.PLOTS_DATA_FOLDER, 'least_common_hashtag_tweets')
-    tag_to_tweets_df = write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing=dir_for_least_common)
+    write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing=os.path.join(cu.PLOTS_DATA_FOLDER, 'least_common_hashtag_tweets'))
 
     '''
     TODO - create a tree-like structure that orders (at least some of) the taga in a way that makes semantic sense in
