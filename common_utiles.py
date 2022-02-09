@@ -76,11 +76,11 @@ def handle_bots(bot_score_threshold):
 
 
 def df_to_csv_plus_create_dir(df, outdir, file_name, index_flag=False):
-    if not os.path.exists(outdir):
+    if outdir and not os.path.exists(outdir):
         os.mkdir(outdir)
     fullname = os.path.join(outdir, file_name)
+    print(f'{get_cur_formatted_time()} Writing {len(df.index)} records to {fullname} (index={index_flag})')
     df.to_csv(fullname, index=index_flag)
-
 
 def save_fig(f_name, f_format="png"):
     path = os.path.join(PLOTS_IMG_FOLDER, f'{f_name}.{f_format}')
@@ -89,8 +89,8 @@ def save_fig(f_name, f_format="png"):
     plt.clf()
 
 
-def get_cur_formatted_time(format="%Y-%m-%d %H:%M:%S"):
-    return datetime.datetime.now().strftime(format)
+def get_cur_formatted_time(datetime_format="%Y-%m-%d %H:%M:%S"):
+    return datetime.datetime.now().strftime(datetime_format)
 
 
 def write_to_json_file_if_not_empty(data, fname, add_epoch_suffix=False, escape_html_chars=True):

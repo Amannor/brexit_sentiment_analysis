@@ -283,12 +283,8 @@ def write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing, bot_scor
         if not (fname.startswith(f'tweets_stance_sentiment_incl_date_and_text') and fname.endswith(".csv")):
             continue
         full_fname = os.path.join(cu.FINAL_REPORT_DATA_FOLDER, fname)
-        print(f'{cu.get_cur_formatted_time()} Parsing {full_fname}{bot_msg_suffix}')
-        df = pd.read_csv(full_fname)
-        if should_filter_bots:
-            df = cu.remove_bots_by_threshold(df, bot_score_threshold)
-
-        df["hashtags"] = df["t_text"].apply(extract_hash_tags)
+        print(f'{cu.get_cur_formatted_time()} Checking {full_fname}{bot_msg_suffix}')
+        df = None
 
         main_file_id = re.search(r"\d", fname).start()
         sub_file_id = re.search(r"\d", fname[main_file_id + 1:]).start() + main_file_id + 1
@@ -298,12 +294,17 @@ def write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing, bot_scor
             print(f'{cu.get_cur_formatted_time()} Tag {cur_tag}')
             full_tag_fname = os.path.join(dir_to_check_existing, f"hashtag_{cur_tag}_tweets_{main_file_id}_{sub_file_id}.csv")
             if os.path.isfile(full_tag_fname):
-                df_for_tag = pd.read_csv(full_tag_fname)
-                if len(df_for_tag.index) == 0:
+                df_for_tag = pd.read_csv(full_tag_fname, nrows=1)
+                if len(df_for_tag.index) > 0:
                     print(f'{cu.get_cur_formatted_time()} found {full_tag_fname} - skipping this tag')
                     continue
 
-
+            if df is None:
+                #This block is here and not outside the tags loop to avoid expensive read_csv if one isn't needed
+                df = pd.read_csv(full_fname)
+                if should_filter_bots:
+                    df = cu.remove_bots_by_threshold(df, bot_score_threshold)
+                df["hashtags"] = df["t_text"].apply(extract_hash_tags)
 
             df["is_tag_present"] = df['hashtags'].apply(lambda l: cur_tag in l)
             df_for_tag = df[df["is_tag_present"]]
@@ -322,7 +323,7 @@ def write_tags_to_tweets_least_common_arbitrator(dir_to_check_existing, bot_scor
 
             df_for_tag = df_for_tag.drop(["is_tag_present"], axis="columns")
 
-            cu.df_to_csv_plus_create_dir(df_for_tag, dir_to_check_existing, tag_fname)
+            cu.df_to_csv_plus_create_dir(df_for_tag, "", full_tag_fname)
 
 
 def create_tweets_with_pure_stance_tags(bot_score_threshold=None, max_tweets_per_tag=200):
